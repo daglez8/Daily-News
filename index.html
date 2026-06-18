@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Daniel's Briefing — Personal News Dashboard</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    darkMode: 'class',
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'] },
+        colors: { brand: { DEFAULT: '#0f766e', dark: '#14b8a6' } },
+      },
+    },
+  };
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  html { scroll-behavior: smooth; }
+  body { font-feature-settings: "cv02","cv03","cv04","cv11"; }
+  .card-enter { animation: fade 0.28s ease both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px);} to { opacity: 1; transform: none;} }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-thumb { background: rgba(120,120,120,.35); border-radius: 99px; }
+  .clamp-4 { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; }
+</style>
+</head>
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-200 transition-colors duration-300 min-h-screen">
+
+<!-- ===================== HEADER ===================== -->
+<header class="sticky top-0 z-30 backdrop-blur bg-slate-50/80 dark:bg-slate-950/80 border-b border-slate-200 dark:border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex items-center gap-4">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="h-9 w-9 rounded-xl bg-brand dark:bg-brand-dark text-white grid place-items-center font-extrabold shrink-0">D</div>
+      <div class="min-w-0">
+        <h1 class="text-lg font-extrabold tracking-tight truncate">Daniel's Briefing</h1>
+        <p class="text-xs text-slate-500 dark:text-slate-400 truncate">Personal news, curated twice daily</p>
+      </div>
+    </div>
+    <div class="ml-auto flex items-center gap-2 sm:gap-3">
+      <span id="updated" class="hidden sm:inline-flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400 px-2.5 py-1 rounded-full bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
+        <span class="h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
+        <span id="updated-text">—</span>
+      </span>
+      <button id="refreshBtn" class="inline-flex items-center gap-2 text-sm font-medium px-3 py-1.5 rounded-lg bg-brand dark:bg-brand-dark text-white hover:opacity-90 active:scale-95 transition">
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.64-6.36M21 3v6h-6"/></svg>
+        <span class="hidden sm:inline">Refresh</span>
+      </button>
+      <button id="themeBtn" aria-label="Toggle theme" class="h-9 w-9 grid place-items-center rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-900 transition">
+        <svg class="h-4 w-4 hidden dark:block" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        <svg class="h-4 w-4 block dark:hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===================== CONTROLS ===================== -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 pt-5">
+  <!-- search + segmented controls -->
+  <div class="flex flex-col lg:flex-row lg:items-center gap-3">
+    <div class="relative flex-1">
+      <svg class="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="search" type="text" placeholder="Search headlines and summaries…"
+        class="w-full pl-9 pr-3 py-2 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-sm focus:outline-none focus:ring-2 focus:ring-brand/40 placeholder:text-slate-400" />
+    </div>
+
+    <div class="flex items-center gap-2 flex-wrap">
+      <!-- language -->
+      <div class="inline-flex rounded-lg border border-slate-200 dark:border-slate-800 overflow-hidden text-sm" id="langSeg">
+        <button data-lang="all" class="seg px-3 py-1.5 font-medium">All</button>
+        <button data-lang="es"  class="seg px-3 py-1.5 font-medium border-l border-slate-200 dark:border-slate-800">ES</button>
+        <button data-lang="en"  class="seg px-3 py-1.5 font-medium border-l border-slate-200 dark:border-slate-800">EN</button>
+      </div>
+      <!-- sort -->
+      <div class="inline-flex rounded-lg border border-slate-200 dark:border-slate-800 overflow-hidden text-sm" id="sortSeg">
+        <button data-sort="recency"   class="seg px-3 py-1.5 font-medium">Recent</button>
+        <button data-sort="relevance" class="seg px-3 py-1.5 font-medium border-l border-slate-200 dark:border-slate-800">Relevant</button>
+      </div>
+      <!-- source -->
+      <select id="sourceSel" class="text-sm px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-brand/40">
+        <option value="all">All sources</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- category chips -->
+  <div id="catChips" class="flex items-center gap-2 overflow-x-auto pb-1 mt-3 -mx-1 px-1"></div>
+
+  <!-- result meta -->
+  <div class="flex items-center justify-between mt-3 mb-1">
+    <p id="count" class="text-xs text-slate-500 dark:text-slate-400"></p>
+    <button id="clearBtn" class="text-xs text-brand dark:text-brand-dark font-medium hover:underline hidden">Clear filters</button>
+  </div>
+</div>
+
+<!-- ===================== FEED ===================== -->
+<main class="max-w-7xl mx-auto px-4 sm:px-6 pb-16">
+  <div id="grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4"></div>
+  <div id="empty" class="hidden text-center py-24 text-slate-400">
+    <svg class="h-10 w-10 mx-auto mb-3 opacity-60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 7h18M3 12h18M3 17h10"/></svg>
+    <p class="text-sm">No stories match your filters.</p>
+  </div>
+</main>
+
+<footer class="border-t border-slate-200 dark:border-slate-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 text-xs text-slate-400 flex flex-wrap items-center gap-x-4 gap-y-1">
+    <span class="inline-flex items-center gap-1.5"><span class="h-1.5 w-1.5 rounded-full bg-emerald-500"></span>Live data from your sources · curated by relevance.</span>
+    <button id="exportFb" class="inline-flex items-center gap-1.5 text-brand dark:text-brand-dark font-medium hover:underline">
+      <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+      Export my feedback (<span id="fbCount">0</span>)
+    </button>
+    <span class="ml-auto">Sources refresh 07:00 &amp; 18:00 · America/Mexico_City</span>
+  </div>
+</footer>
+
+<!-- toast -->
+<div id="toast" class="fixed bottom-5 left-1/2 -translate-x-1/2 z-50 opacity-0 pointer-events-none transition-all duration-300">
+  <div class="px-4 py-2.5 rounded-xl bg-slate-900 dark:bg-white text-white dark:text-slate-900 text-sm font-medium shadow-lg"></div>
+</div>
+
+<script>
+/* ============================================================
+   MOCK DATA — Phase 1.
+   Mirrors the agreed news.json contract so Phase 2 is a drop-in swap:
+   title, summary, link, source, published, category, relevance_score, language
+   (+ `light: true` for paywalled headline/blurb-only entries)
+   ============================================================ */
+const CATEGORIES = [
+  "AI & Agents",
+  "Financial Services Mexico",
+  "Mortgage / Housing Finance",
+  "HIR / Creditaria Competitive Intel",
+  "Capital Markets & M&A",
+  "Real Estate & Foreign Buyers",
+  "Regulation / Governance / Risk",
+  "Leadership & Future of Work",
+  "Personal Interest Watchlist",
+];
+
+const CAT_STYLE = {
+  "AI & Agents":                         "bg-violet-100 text-violet-700 dark:bg-violet-500/15 dark:text-violet-300",
+  "Financial Services Mexico":           "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300",
+  "Mortgage / Housing Finance":          "bg-sky-100 text-sky-700 dark:bg-sky-500/15 dark:text-sky-300",
+  "HIR / Creditaria Competitive Intel":  "bg-rose-100 text-rose-700 dark:bg-rose-500/15 dark:text-rose-300",
+  "Capital Markets & M&A":               "bg-amber-100 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300",
+  "Real Estate & Foreign Buyers":        "bg-teal-100 text-teal-700 dark:bg-teal-500/15 dark:text-teal-300",
+  "Regulation / Governance / Risk":      "bg-orange-100 text-orange-700 dark:bg-orange-500/15 dark:text-orange-300",
+  "Leadership & Future of Work":         "bg-indigo-100 text-indigo-700 dark:bg-indigo-500/15 dark:text-indigo-300",
+  "Personal Interest Watchlist":         "bg-slate-200 text-slate-700 dark:bg-slate-700/40 dark:text-slate-300",
+};
+
+const MOCK = [
+  {
+    title: "Anthropic lanza agentes empresariales que automatizan flujos de crédito de punta a punta",
+    summary: "La compañía presentó una nueva generación de agentes capaces de orquestar tareas de originación y underwriting sin intervención humana. Bancos y fintechs de servicios financieros figuran entre los primeros casos de uso, con foco en reducir tiempos de aprobación crediticia.",
+    link: "https://example.com/1", source: "El Financiero", published: "2026-06-18T13:10:00-06:00",
+    category: "AI & Agents", relevance_score: 96, language: "es", light: false,
+  },
+  {
+    title: "Banxico holds rate at 8.25% as inflation cools, signals data-dependent path",
+    summary: "Mexico's central bank kept its benchmark unchanged for a third meeting, citing moderating core inflation but persistent services pressure. Analysts see room for two cuts before year-end, a tailwind for mortgage demand.",
+    link: "https://example.com/2", source: "Bloomberg Línea", published: "2026-06-18T11:40:00-06:00",
+    category: "Financial Services Mexico", relevance_score: 93, language: "en", light: false,
+  },
+  {
+    title: "HIR Casa amplía su plataforma digital de autofinanciamiento con scoring asistido por IA",
+    summary: "El esquema de financiamiento inmobiliario suma herramientas de análisis automatizado para acelerar la asignación de recursos a sus socios. La medida busca defender participación frente a la banca tradicional y nuevos jugadores fintech.",
+    link: "https://example.com/3", source: "Expansión", published: "2026-06-18T10:05:00-06:00",
+    category: "HIR / Creditaria Competitive Intel", relevance_score: 98, language: "es", light: false,
+  },
+  {
+    title: "Mexican RMBS issuance rebounds as investors hunt for yield",
+    summary: "Residential mortgage-backed securities placements rose sharply this quarter, with SOFOMs and banks tapping local markets. Spreads tightened on stronger collateral performance and falling delinquencies.",
+    link: "https://example.com/4", source: "Bloomberg", published: "2026-06-18T09:20:00-06:00",
+    category: "Capital Markets & M&A", relevance_score: 90, language: "en", light: false,
+  },
+  {
+    title: "FT: Private equity circles Latin American fintech lenders",
+    summary: "Buyout firms are weighing minority and control stakes in digital mortgage and consumer-credit platforms across Mexico and Brazil, drawn by nearshoring-driven growth.",
+    link: "https://example.com/5", source: "Financial Times", published: "2026-06-18T08:00:00-06:00",
+    category: "Capital Markets & M&A", relevance_score: 91, language: "en", light: true,
+  },
+  {
+    title: "CNBV publica reglas de gobernanza para modelos de IA en instituciones financieras",
+    summary: "El regulador estableció lineamientos sobre riesgo de modelo, explicabilidad y supervisión humana para el uso de inteligencia artificial en banca y SOFOMes, con un periodo de cumplimiento de 12 meses.",
+    link: "https://example.com/6", source: "El Economista", published: "2026-06-18T07:35:00-06:00",
+    category: "Regulation / Governance / Risk", relevance_score: 94, language: "es", light: false,
+  },
+  {
+    title: "Creditaria refuerza red de brokers hipotecarios con nuevo modelo de comisiones",
+    summary: "La firma de intermediación hipotecaria ajustó incentivos para asesores y anunció integraciones con más bancos, en un movimiento que presiona a competidores en el segmento digital.",
+    link: "https://example.com/7", source: "Reforma", published: "2026-06-17T19:50:00-06:00",
+    category: "HIR / Creditaria Competitive Intel", relevance_score: 95, language: "es", light: true,
+  },
+  {
+    title: "WSJ: Enterprise AI adoption shifts from pilots to production in financial services",
+    summary: "A new survey finds banks moving AI from experimentation into core underwriting and CRM workflows, with measurable productivity gains and rising governance scrutiny.",
+    link: "https://example.com/8", source: "WSJ", published: "2026-06-17T18:30:00-06:00",
+    category: "AI & Agents", relevance_score: 89, language: "en", light: true,
+  },
+  {
+    title: "Nearshoring impulsa la demanda de vivienda en el Bajío y el norte de México",
+    summary: "El auge industrial está reconfigurando los mercados residenciales cercanos a parques manufactureros, con alzas de precios y mayor apetito por financiamiento hipotecario formal.",
+    link: "https://example.com/9", source: "El Financiero", published: "2026-06-17T17:15:00-06:00",
+    category: "Real Estate & Foreign Buyers", relevance_score: 86, language: "es", light: false,
+  },
+  {
+    title: "The Economist: How AI is quietly rewiring middle management",
+    summary: "Organisations are flattening layers as AI absorbs coordination work, forcing a rethink of incentives, spans of control and what managers are actually for.",
+    link: "https://example.com/10", source: "The Economist", published: "2026-06-17T16:00:00-06:00",
+    category: "Leadership & Future of Work", relevance_score: 84, language: "en", light: true,
+  },
+  {
+    title: "Foreign buyers return to Los Cabos and Riviera Maya luxury market",
+    summary: "Resort-market transactions from US and Canadian buyers picked up, with developers reporting strong pre-sales in branded residences despite higher financing costs.",
+    link: "https://example.com/11", source: "Bloomberg", published: "2026-06-17T14:25:00-06:00",
+    category: "Real Estate & Foreign Buyers", relevance_score: 80, language: "en", light: true,
+  },
+  {
+    title: "Fintechs mexicanas de crédito elevan provisiones ante repunte de cartera vencida",
+    summary: "Varias plataformas reportaron mayores NPLs en segmentos de consumo, mientras refinan modelos de originación y endurecen criterios para proteger márgenes.",
+    link: "https://example.com/12", source: "El Economista", published: "2026-06-17T12:10:00-06:00",
+    category: "Financial Services Mexico", relevance_score: 88, language: "es", light: false,
+  },
+  {
+    title: "A modernist mountain retreat carved into the Sierra Madre",
+    summary: "The house pairs board-formed concrete with local pine and oversized glazing, framing valley views while staying off-grid through passive design and solar storage.",
+    link: "https://example.com/13", source: "ArchDaily", published: "2026-06-17T10:45:00-06:00",
+    category: "Personal Interest Watchlist", relevance_score: 72, language: "en", light: false,
+  },
+  {
+    title: "Google y OpenAI aceleran la carrera de agentes con nuevos marcos de orquestación",
+    summary: "Ambas compañías presentaron herramientas para encadenar tareas complejas, intensificando la competencia en el segmento de agentes empresariales frente a Anthropic.",
+    link: "https://example.com/14", source: "Expansión", published: "2026-06-17T09:30:00-06:00",
+    category: "AI & Agents", relevance_score: 87, language: "es", light: false,
+  },
+  {
+    title: "SHF evalúa nuevos esquemas de garantía para ampliar el crédito hipotecario",
+    summary: "La Sociedad Hipotecaria Federal estudia mecanismos para incentivar la originación en segmentos de ingresos medios, en coordinación con banca y SOFOMes.",
+    link: "https://example.com/15", source: "El Financiero", published: "2026-06-17T08:05:00-06:00",
+    category: "Mortgage / Housing Finance", relevance_score: 92, language: "es", light: false,
+  },
+  {
+    title: "Dezeen: Inside a sculptural family home on the Pacific coast",
+    summary: "Curved white volumes open onto courtyards and reflecting pools, blending high-end interiors with cross-ventilation suited to the tropical climate.",
+    link: "https://example.com/16", source: "Dezeen", published: "2026-06-17T07:20:00-06:00",
+    category: "Personal Interest Watchlist", relevance_score: 68, language: "en", light: false,
+  },
+  {
+    title: "FIG M&A: regional bank weighs sale of its mortgage origination unit",
+    summary: "Advisers have been hired to test buyer appetite for a Mexican lender's housing-finance arm, in what could be one of the year's larger financial-services carve-outs.",
+    link: "https://example.com/17", source: "Bloomberg", published: "2026-06-16T20:40:00-06:00",
+    category: "Capital Markets & M&A", relevance_score: 93, language: "en", light: true,
+  },
+  {
+    title: "Estudio: la IA eleva la productividad de equipos comerciales hasta 30%",
+    summary: "Una investigación sobre adopción de IA en ventas y CRM documenta mejoras de productividad y cambios en la forma en que se estructuran los equipos y los incentivos.",
+    link: "https://example.com/18", source: "El Economista", published: "2026-06-16T18:15:00-06:00",
+    category: "Leadership & Future of Work", relevance_score: 82, language: "es", light: false,
+  },
+  {
+    title: "Whoop unveils metabolic and sleep-stage tracking upgrade",
+    summary: "The wearable adds continuous metabolic insights and refined sleep staging, intensifying competition with Oura and Garmin in the longevity-focused market.",
+    link: "https://example.com/19", source: "Bloomberg Línea", published: "2026-06-16T15:50:00-06:00",
+    category: "Personal Interest Watchlist", relevance_score: 64, language: "en", light: false,
+  },
+  {
+    title: "Banca mexicana acelera inversión en ciberseguridad ante nuevas exigencias regulatorias",
+    summary: "Las instituciones aumentan presupuestos de ciberseguridad y gobernanza de datos para cumplir con marcos más estrictos y mitigar riesgo operativo.",
+    link: "https://example.com/20", source: "Reforma", published: "2026-06-16T13:05:00-06:00",
+    category: "Regulation / Governance / Risk", relevance_score: 79, language: "es", light: true,
+  },
+  {
+    title: "Securitization of nearshoring-linked real estate gains traction",
+    summary: "Issuers are structuring deals backed by industrial and residential assets tied to manufacturing relocation, attracting institutional demand for ABS exposure.",
+    link: "https://example.com/21", source: "Financial Times", published: "2026-06-16T10:30:00-06:00",
+    category: "Capital Markets & M&A", relevance_score: 85, language: "en", light: true,
+  },
+];
+
+/* ============================================================
+   APP LOGIC
+   ============================================================ */
+const state = { data: [], lang: "all", sort: "recency", source: "all", cats: new Set(), q: "" };
+
+// Safe storage — sandboxed preview frames throw on localStorage access, which must not halt the app.
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch { return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch {} },
+};
+
+// Feedback (thumbs up/down) — persisted so Phase 2 can learn your preferences.
+let votes = {};
+try { votes = JSON.parse(store.get('briefing_feedback') || '{}') || {}; } catch { votes = {}; }
+function saveVotes(){ store.set('briefing_feedback', JSON.stringify(votes)); updateFbCount(); }
+function updateFbCount(){ const el = document.getElementById('fbCount'); if (el) el.textContent = Object.keys(votes).length; }
+function handleVote(id, dir){
+  if (votes[id] === dir) delete votes[id]; else votes[id] = dir;
+  saveVotes(); render();
+}
+function exportFeedback(){
+  const rows = state.data
+    .map(a => ({ title:a.title, source:a.source, category:a.category, language:a.language, link:a.link, vote: votes[a.link] || null }))
+    .filter(r => r.vote);
+  if (!rows.length){ toast('No feedback yet — tap 👍 / 👎 on stories first.'); return; }
+  const blob = new Blob([JSON.stringify(rows, null, 2)], { type:'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = 'briefing-feedback.json'; a.click();
+  URL.revokeObjectURL(url);
+}
+
+// anchor "now" to the newest article so relative times always read naturally in the demo
+function computeNow(data){ return Math.max(...data.map(d => +new Date(d.published))); }
+let NOW = Date.now();
+
+function relTime(iso){
+  const diff = Math.max(0, NOW - +new Date(iso));
+  const m = Math.round(diff/60000), h = Math.round(diff/3600000), d = Math.round(diff/86400000);
+  if (m < 60) return `${m||1}m ago`;
+  if (h < 24) return `${h}h ago`;
+  return `${d}d ago`;
+}
+function fmtClock(iso){
+  const dt = new Date(iso);
+  return dt.toLocaleString(undefined, { month:'short', day:'numeric', hour:'2-digit', minute:'2-digit' });
+}
+
+function esc(s){ return s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function relevanceBar(score){
+  const color = score >= 90 ? 'bg-emerald-500' : score >= 80 ? 'bg-teal-500' : score >= 70 ? 'bg-amber-500' : 'bg-slate-400';
+  return `<div class="flex items-center gap-1.5" title="Relevance ${score}/100">
+    <div class="h-1.5 w-14 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+      <div class="h-full ${color}" style="width:${score}%"></div>
+    </div>
+    <span class="text-[11px] tabular-nums text-slate-500 dark:text-slate-400">${score}</span>
+  </div>`;
+}
+
+const THUMB = '<path d="M7 10v11M2 13v6a2 2 0 0 0 2 2h13.5a2 2 0 0 0 2-1.6l1.3-7A2 2 0 0 0 19.8 10H14l1-4.5A2.5 2.5 0 0 0 12.5 2L7 10"/>';
+
+function card(a){
+  const langBadge = `<span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300">${a.language === 'es' ? 'ES' : 'EN'}</span>`;
+  const lightBadge = a.light
+    ? '<span class="inline-flex items-center gap-1 text-[10px] font-medium text-amber-600 dark:text-amber-400" title="Paywalled source — summary built from the feed blurb (lighter entry)"><span class="h-1.5 w-1.5 rounded-full bg-amber-500"></span>blurb</span>'
+    : '';
+  const v = votes[a.link];
+  const ring = v === 'up' ? 'ring-2 ring-emerald-400/50 ' : v === 'down' ? 'opacity-60 ' : '';
+  const upCls = v === 'up'
+    ? 'bg-emerald-100 text-emerald-600 dark:bg-emerald-500/20 dark:text-emerald-400'
+    : 'text-slate-400 hover:text-emerald-500 hover:bg-slate-100 dark:hover:bg-slate-800';
+  const downCls = v === 'down'
+    ? 'bg-rose-100 text-rose-600 dark:bg-rose-500/20 dark:text-rose-400'
+    : 'text-slate-400 hover:text-rose-500 hover:bg-slate-100 dark:hover:bg-slate-800';
+  const id = esc(a.link);
+  return `<article class="card-enter group flex flex-col rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 hover:shadow-lg hover:border-slate-300 dark:hover:border-slate-700 transition ${ring}">
+    <div class="flex items-center gap-2 text-xs">
+      <span class="font-semibold text-slate-700 dark:text-slate-300">${esc(a.source)}</span>
+      ${langBadge}
+      <span class="ml-auto text-slate-400" title="${fmtClock(a.published)}">${relTime(a.published)}</span>
+    </div>
+    <span class="mt-3 self-start text-[11px] font-semibold px-2 py-0.5 rounded-full ${CAT_STYLE[a.category]||'bg-slate-200 text-slate-700'}">${esc(a.category)}</span>
+    <a href="${id}" target="_blank" rel="noopener" class="mt-2 font-bold leading-snug text-slate-900 dark:text-white group-hover:text-brand dark:group-hover:text-brand-dark transition">${esc(a.title)}</a>
+    <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 clamp-4">${esc(a.summary)}</p>
+    <div class="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center gap-2">
+      ${relevanceBar(a.relevance_score)}
+      ${lightBadge}
+      <div class="ml-auto flex items-center gap-1">
+        <button class="vote h-7 w-7 grid place-items-center rounded-lg transition ${upCls}" data-id="${id}" data-vote="up" title="More like this" aria-label="Thumbs up">
+          <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${THUMB}</svg>
+        </button>
+        <button class="vote h-7 w-7 grid place-items-center rounded-lg transition ${downCls}" data-id="${id}" data-vote="down" title="Fewer like this" aria-label="Thumbs down">
+          <svg class="h-4 w-4 rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${THUMB}</svg>
+        </button>
+        <a href="${id}" target="_blank" rel="noopener" class="h-7 w-7 grid place-items-center rounded-lg text-slate-400 hover:text-brand dark:hover:text-brand-dark hover:bg-slate-100 dark:hover:bg-slate-800 transition" title="Read original">
+          <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M7 17 17 7M7 7h10v10"/></svg>
+        </a>
+      </div>
+    </div>
+  </article>`;
+}
+
+function applyFilters(){
+  let rows = state.data.filter(a => {
+    if (state.lang !== 'all' && a.language !== state.lang) return false;
+    if (state.source !== 'all' && a.source !== state.source) return false;
+    if (state.cats.size && !state.cats.has(a.category)) return false;
+    if (state.q){
+      const hay = (a.title + ' ' + a.summary + ' ' + a.source).toLowerCase();
+      if (!hay.includes(state.q)) return false;
+    }
+    return true;
+  });
+  rows.sort((a,b) => state.sort === 'relevance'
+    ? b.relevance_score - a.relevance_score || (+new Date(b.published) - +new Date(a.published))
+    : (+new Date(b.published) - +new Date(a.published)));
+  return rows;
+}
+
+function render(){
+  const rows = applyFilters();
+  const grid = document.getElementById('grid');
+  grid.innerHTML = rows.map(card).join('');
+  document.getElementById('empty').classList.toggle('hidden', rows.length > 0);
+  document.getElementById('count').textContent = `${rows.length} ${rows.length === 1 ? 'story' : 'stories'}`;
+  const anyFilter = state.lang!=='all' || state.sort!=='recency' || state.source!=='all' || state.cats.size || state.q;
+  document.getElementById('clearBtn').classList.toggle('hidden', !anyFilter);
+  // refresh segmented styling
+  syncSeg();
+}
+
+function syncSeg(){
+  document.querySelectorAll('#langSeg .seg').forEach(b => setActive(b, b.dataset.lang === state.lang));
+  document.querySelectorAll('#sortSeg .seg').forEach(b => setActive(b, b.dataset.sort === state.sort));
+  document.querySelectorAll('#catChips .chip').forEach(b => {
+    const on = b.dataset.cat === '__all__' ? state.cats.size === 0 : state.cats.has(b.dataset.cat);
+    b.className = 'chip whitespace-nowrap text-xs font-medium px-3 py-1.5 rounded-full border transition ' +
+      (on ? 'bg-brand text-white border-brand dark:bg-brand-dark dark:border-brand-dark'
+          : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700');
+  });
+}
+function setActive(btn, on){
+  btn.className = 'seg px-3 py-1.5 font-medium transition ' +
+    (btn.previousElementSibling ? 'border-l border-slate-200 dark:border-slate-800 ' : '') +
+    (on ? 'bg-brand text-white dark:bg-brand-dark' : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800');
+}
+
+function buildControls(){
+  // category chips
+  const chips = document.getElementById('catChips');
+  const all = `<button data-cat="__all__" class="chip">All topics</button>`;
+  chips.innerHTML = all + CATEGORIES.map(c => `<button data-cat="${c}" class="chip">${c}</button>`).join('');
+  chips.addEventListener('click', e => {
+    const b = e.target.closest('.chip'); if(!b) return;
+    if (b.dataset.cat === '__all__') state.cats.clear();
+    else { state.cats.has(b.dataset.cat) ? state.cats.delete(b.dataset.cat) : state.cats.add(b.dataset.cat); }
+    render();
+  });
+  // sources (options are (re)built on each data load by buildSourceOptions)
+  document.getElementById('sourceSel').addEventListener('change', e => { state.source = e.target.value; render(); });
+  // language + sort
+  document.getElementById('langSeg').addEventListener('click', e => {
+    const b = e.target.closest('.seg'); if(!b) return; state.lang = b.dataset.lang; render();
+  });
+  document.getElementById('sortSeg').addEventListener('click', e => {
+    const b = e.target.closest('.seg'); if(!b) return; state.sort = b.dataset.sort; render();
+  });
+  // votes (thumbs up/down) — event delegation on the grid
+  document.getElementById('grid').addEventListener('click', e => {
+    const b = e.target.closest('.vote'); if(!b) return;
+    e.preventDefault();
+    handleVote(b.dataset.id, b.dataset.vote);
+    toast(b.dataset.vote === 'up' ? 'Got it — more like this 👍' : 'Noted — fewer like this 👎');
+  });
+  // export feedback
+  document.getElementById('exportFb').addEventListener('click', exportFeedback);
+  // search
+  document.getElementById('search').addEventListener('input', e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+  // clear
+  document.getElementById('clearBtn').addEventListener('click', () => {
+    state.lang='all'; state.sort='recency'; state.source='all'; state.cats.clear(); state.q='';
+    document.getElementById('search').value=''; document.getElementById('sourceSel').value='all'; render();
+  });
+}
+
+// theme
+function initTheme(){
+  const saved = store.get('theme');
+  let prefersDark = false;
+  try { prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches; } catch {}
+  const dark = saved ? saved === 'dark' : prefersDark;
+  document.documentElement.classList.toggle('dark', !!dark);
+  document.getElementById('themeBtn').addEventListener('click', () => {
+    const d = document.documentElement.classList.toggle('dark');
+    store.set('theme', d ? 'dark' : 'light');
+  });
+}
+
+// toast
+function toast(msg){
+  const t = document.getElementById('toast');
+  t.firstElementChild.textContent = msg;
+  t.style.opacity = '1'; t.style.transform = 'translate(-50%, -6px)';
+  clearTimeout(t._t);
+  t._t = setTimeout(() => { t.style.opacity='0'; t.style.transform='translate(-50%,0)'; }, 2600);
+}
+
+function buildSourceOptions(){
+  const sel = document.getElementById('sourceSel');
+  const cur = state.source;
+  sel.innerHTML = '<option value="all">All sources</option>';
+  [...new Set(state.data.map(d => d.source))].sort().forEach(s => {
+    const o = document.createElement('option'); o.value = s; o.textContent = s; sel.appendChild(o);
+  });
+  if ([...sel.options].some(o => o.value === cur)) sel.value = cur; else state.source = 'all';
+}
+
+// Load the live data contract (works on a server / GitHub Pages); fall back to embedded mock for double-click.
+async function loadData(){
+  try {
+    const r = await fetch('news.json', { cache: 'no-store' });
+    if (r.ok) { const j = await r.json(); state.data = Array.isArray(j) ? j : (j.articles || MOCK); }
+    else state.data = MOCK;
+  } catch { state.data = MOCK; }
+  NOW = computeNow(state.data) + 8*60000; // newest item reads as "~8m ago"
+  document.getElementById('updated-text').textContent = 'Updated ' + relTime(new Date(NOW - 8*60000).toISOString());
+  buildSourceOptions();
+  render();
+}
+
+// boot
+async function boot(){
+  initTheme();
+  buildControls();
+  await loadData();
+  updateFbCount();
+
+  const btn = document.getElementById('refreshBtn');
+  btn.addEventListener('click', async () => {
+    btn.classList.add('opacity-60', 'pointer-events-none');
+    await loadData();
+    btn.classList.remove('opacity-60', 'pointer-events-none');
+    toast('Feed reloaded from news.json');
+  });
+}
+boot();
+</script>
+</body>
+</html>

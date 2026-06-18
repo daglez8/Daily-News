@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "max_age_hours": 48,
+    "max_per_source": 20,
+    "min_relevance": 60,
+    "target_count": 30,
+    "timezone": "America/Mexico_City",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+  },
+
+  "categories": [
+    "AI & Agents",
+    "Financial Services Mexico",
+    "Mortgage / Housing Finance",
+    "HIR / Creditaria Competitive Intel",
+    "Capital Markets & M&A",
+    "Real Estate & Foreign Buyers",
+    "Regulation / Governance / Risk",
+    "Leadership & Future of Work",
+    "Personal Interest Watchlist"
+  ],
+
+  "interest_profile": {
+    "tier_1_daily": {
+      "AI / GenAI / Agents": ["AI agents", "enterprise AI adoption", "Claude", "Anthropic", "OpenAI", "Google AI", "AI in financial services", "AI credit / underwriting", "AI CRM / productivity", "AI regulation", "model risk", "AI cybersecurity"],
+      "Mexican financial services": ["mortgage market", "banking", "fintech", "SOFOM", "CNBV", "Banxico", "SHF", "credit trends", "NPLs", "securitizations", "ABS", "RMBS", "interest rates", "housing finance", "nearshoring real estate demand"],
+      "HIR Casa / Creditaria / competitors": ["HIR Casa", "Creditaria", "mortgage brokers", "digital mortgage", "bank mortgage products", "real estate finance platforms Mexico", "LatAm proptech finance", "competitor partnerships", "capital raises", "acquisitions"],
+      "Capital markets / M&A": ["FIG M&A", "fintech M&A", "mortgage / real estate finance deals", "private equity financial services", "PE real estate", "IPO", "strategic sale", "valuation multiples"]
+    },
+    "tier_2_weekly": {
+      "Real estate & housing": ["Mexico residential real estate", "tourism / resort markets", "foreign buyers", "proptech", "home financing innovation", "affordability", "demographics"],
+      "Corporate governance & risk": ["AI governance", "board oversight", "operational risk", "cybersecurity", "regulatory enforcement", "consumer protection", "financial conduct"],
+      "Leadership / organization / future of work": ["AI adoption behavior", "talent transformation", "productivity studies", "middle management redesign", "incentive systems", "organizational change"]
+    },
+    "tier_3_opportunistic": {
+      "Golf / luxury / travel": ["golf tech", "wearables", "Pinehurst", "premium golf travel", "luxury family travel", "Boston", "MIT"],
+      "Architecture / design": ["mountain homes", "modern Mexican architecture", "high-end interiors"],
+      "Health / wearables": ["Oura", "Whoop", "Garmin", "metabolic health", "sleep", "longevity"]
+    }
+  },
+
+  "sources": [
+    { "name": "El Financiero",    "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml", "lang": "es", "paywall": false },
+    { "name": "Expansión",        "url": "https://expansion.mx/rss/portada",                                       "lang": "es", "paywall": false },
+    { "name": "Bloomberg Línea",  "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml",   "lang": "es", "paywall": false },
+    { "name": "El Economista",    "url": "https://www.eleconomista.com.mx/rss/ultimas-noticias",                   "lang": "es", "paywall": false, "needs_verification": true },
+    { "name": "Reforma",          "url": "https://www.reforma.com/rss/portada.xml",                                "lang": "es", "paywall": true },
+    { "name": "Reuters",          "url": "https://feeds.reuters.com/reuters/businessNews",                         "lang": "en", "paywall": false, "disabled": true, "note": "No official public RSS since ~2020 — dropped per Phase 0 decision." },
+    { "name": "Bloomberg",        "url": "https://feeds.bloomberg.com/markets/news.rss",                           "lang": "en", "paywall": true },
+    { "name": "Bloomberg",        "url": "https://feeds.bloomberg.com/technology/news.rss",                        "lang": "en", "paywall": true },
+    { "name": "WSJ",              "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",                            "lang": "en", "paywall": true },
+    { "name": "WSJ",              "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",                          "lang": "en", "paywall": true },
+    { "name": "Financial Times",  "url": "https://www.ft.com/rss/home",                                            "lang": "en", "paywall": true },
+    { "name": "The Economist",    "url": "https://www.economist.com/finance-and-economics/rss.xml",                "lang": "en", "paywall": true },
+    { "name": "The Economist",    "url": "https://www.economist.com/business/rss.xml",                             "lang": "en", "paywall": true },
+    { "name": "ArchDaily",        "url": "https://feeds.feedburner.com/Archdaily",                                 "lang": "en", "paywall": false },
+    { "name": "Dezeen",           "url": "https://feeds.feedburner.com/dezeen",                                    "lang": "en", "paywall": false }
+  ]
+}

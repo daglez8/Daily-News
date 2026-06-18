@@ -1,0 +1,10 @@
+# Intermediate fetch output — regenerated every run, no need to track
+agent/raw_candidates.json
+
+# Local feedback export (downloaded from the dashboard)
+briefing-feedback.json
+
+# OS / editor noise
+.DS_Store
+node_modules/
+*.log
