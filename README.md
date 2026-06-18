@@ -98,17 +98,27 @@ One-time setup. The project is already a git repository with an initial commit.
    (Only `docs/` is served — your config and agent code stay private.)
 
 ### Step 3 — Create the scheduled cloud routine
-1. Go to **claude.ai/code** → **Scheduled** → **New routine**, connected to your repo.
-2. **Prompt:** paste the contents of **`agent/ROUTINE.md`**.
-3. **Schedule:** `0 7,18 * * *`, timezone **America/Mexico_City** (7:00 AM & 6:00 PM).
-4. Save. (Prefer I do it? Once pushed, ask me to "set up the routine" and I'll run `/schedule`.)
+Routines run on Anthropic's cloud (so they work with your laptop closed). They require
+a **Claude Pro / Max / Team / Enterprise** plan. They are NOT the same as the local
+desktop `/schedule` task, which only runs while the app is open.
+
+1. Go to **https://claude.ai/code/routines** → **New routine**. Name it `Daily News Curator`.
+2. **Instructions:** paste the contents of **`agent/ROUTINE.md`**.
+3. **Add repository** → select **`daglez8/Daily-News`**. If prompted, install the
+   **Claude GitHub App** on that repo (lets the routine clone and push).
+4. **Permissions tab → enable "Allow unrestricted branch pushes"** for `Daily-News`.
+   Required — otherwise it can only push to `claude/...` branches and won't update `main`/Pages.
+5. **Trigger → Schedule → Daily at 07:00** (enter in your local America/Mexico_City time).
+   Save, then **Edit routine → Add another trigger → Schedule → Daily at 18:00**.
+6. Click **Create**.
 
 ### Step 4 — Test it
-In the routine, click **Run now**. When it finishes, `docs/news.json` has fresh stories,
-a new commit lands, and your bookmark updates within ~1 minute.
+On the routine page, click **Run now**. When it finishes, `docs/news.json` has fresh
+stories, a new commit lands on `main`, and your Pages bookmark updates within ~1 minute.
+Open the run's session to confirm it pushed successfully.
 
-### Managing the routine (claude.ai/code → Scheduled)
-- **Pause / Resume**, **Run now**, **Edit** (schedule or prompt), **Delete**.
+### Managing the routine (claude.ai/code/routines)
+- **Pause / Resume**, **Run now**, **Edit** (prompt, triggers, repo), **Delete**.
 
 ---
 
