@@ -40,13 +40,19 @@ If `briefing-feedback.json` exists (exported from the dashboard's thumbs up/down
 Keep nudges modest (±10–15) so one vote doesn't dominate.
 
 ### 4. Write the feed
-Write the final array to `news.json` (the file the dashboard reads), newest first.
+Write the final array to `docs/news.json` (the file the dashboard reads and that
+GitHub Pages serves), newest first.
 Each item must have exactly these fields:
 ```
 title, summary, link, source, published, category, relevance_score, language, light
 ```
 Cap at `settings.target_count` (default 30) if there are more qualifying stories;
 keep the highest-relevance ones.
+
+Then publish so the Pages site updates:
+```
+git add docs/news.json && git commit -m "feed: refresh" && git push
+```
 
 ### 5. Report
 Print a one-line summary: how many sources ran, how many failed (from `run_log`),

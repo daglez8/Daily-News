@@ -16,10 +16,10 @@ You are refreshing the personal news feed in this repository. Do this and nothin
    - Set `light: true` for paywalled sources (`paywall: true`), summarizing from the blurb only.
    - Keep at most `settings.target_count`, newest first.
 3. If `briefing-feedback.json` exists, apply the learned preferences (nudge ±10–15) per the playbook.
-4. Write the result to `news.json` with exactly these fields per item:
+4. Write the result to `docs/news.json` with exactly these fields per item:
    `title, summary, link, source, published, category, relevance_score, language, light`
-5. Commit and push:
-   `git add news.json && git commit -m "feed: scheduled refresh" && git push`
+5. Commit and push (this updates the public GitHub Pages site):
+   `git add docs/news.json && git commit -m "feed: scheduled refresh" && git push`
 6. Print a one-line summary: sources ok/failed, candidate count, kept count, and any category that came up empty (that's expected, not an error).
 
 Do NOT call any external LLM API or use any API key — you perform the summarization yourself as part of this run.

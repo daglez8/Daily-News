@@ -77,7 +77,7 @@ for sub, cat, score, summary in CURATION:
     })
 
 out.sort(key=lambda a: a["published"] or "", reverse=True)
-json.dump(out, open(os.path.join(HERE, "..", "news.json"), "w", encoding="utf-8"),
+json.dump(out, open(os.path.join(HERE, "..", "docs", "news.json"), "w", encoding="utf-8"),
           ensure_ascii=False, indent=2)
 print(f"Wrote {len(out)} curated articles to news.json")
 if missing:
