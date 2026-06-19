@@ -501,17 +501,18 @@ function buildSourceOptions(){
 // Load the live feed (served by GitHub Pages); fall back to embedded mock for local double-click.
 let lastLinks = new Set();
 async function loadData({ announce = false } = {}){
-  let data = MOCK, ok = false;
+  let data = MOCK, ok = false, lastMod = null;
   try {
     const r = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
-    if (r.ok) { const j = await r.json(); data = Array.isArray(j) ? j : (j.articles || MOCK); ok = true; }
+    if (r.ok) { const j = await r.json(); data = Array.isArray(j) ? j : (j.articles || MOCK); ok = true; lastMod = r.headers.get('last-modified'); }
   } catch {}
   const fresh = announce ? data.filter(a => !lastLinks.has(a.link)).length : 0;
   state.data = data;
   lastLinks = new Set(data.map(a => a.link));
   NOW = Date.now();
-  const newest = data.reduce((m, a) => Math.max(m, +new Date(a.published || 0) || 0), 0);
-  document.getElementById('updated-text').textContent = newest ? 'Updated ' + relTime(new Date(newest).toISOString()) : 'Updated —';
+  // "Updated" = when the feed file was last published (its real refresh time), not the newest article's age.
+  const updatedAt = lastMod ? +new Date(lastMod) : data.reduce((m, a) => Math.max(m, +new Date(a.published || 0) || 0), 0);
+  document.getElementById('updated-text').textContent = updatedAt ? 'Updated ' + relTime(new Date(updatedAt).toISOString()) : 'Updated —';
   buildSourceOptions();
   render();
   return { ok, fresh };
