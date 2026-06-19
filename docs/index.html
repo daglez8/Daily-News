@@ -503,7 +503,7 @@ let lastLinks = new Set();
 async function loadData({ announce = false } = {}){
   let data = MOCK, ok = false;
   try {
-    const r = await fetch('news.json', { cache: 'no-store' });
+    const r = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
     if (r.ok) { const j = await r.json(); data = Array.isArray(j) ? j : (j.articles || MOCK); ok = true; }
   } catch {}
   const fresh = announce ? data.filter(a => !lastLinks.has(a.link)).length : 0;
