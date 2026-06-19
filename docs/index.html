@@ -68,6 +68,12 @@
     </div>
 
     <div class="flex items-center gap-2 flex-wrap">
+      <!-- view: latest / history / liked -->
+      <div class="inline-flex rounded-lg border border-slate-200 dark:border-slate-800 overflow-hidden text-sm" id="viewSeg">
+        <button data-view="latest"  class="seg px-3 py-1.5 font-medium">Latest</button>
+        <button data-view="history" class="seg px-3 py-1.5 font-medium border-l border-slate-200 dark:border-slate-800">History</button>
+        <button data-view="liked"   class="seg px-3 py-1.5 font-medium border-l border-slate-200 dark:border-slate-800">★ Liked</button>
+      </div>
       <!-- language -->
       <div class="inline-flex rounded-lg border border-slate-200 dark:border-slate-800 overflow-hidden text-sm" id="langSeg">
         <button data-lang="all" class="seg px-3 py-1.5 font-medium">All</button>
@@ -284,7 +290,18 @@ const MOCK = [
 /* ============================================================
    APP LOGIC
    ============================================================ */
-const state = { data: [], lang: "all", sort: "recency", source: "all", cats: new Set(), q: "" };
+const state = { data: [], lang: "all", sort: "recency", source: "all", cats: new Set(), q: "", view: "latest" };
+
+// Data sources: the current feed (news.json) and the rolling history (archive.json).
+let latestData = [], archiveData = [], archiveLoaded = false;
+
+// "NEW" highlighting — remember which article links you've already seen (initialized after `store` below).
+let seenLinks = new Set();
+let newLinks = new Set(); // links considered new on the latest load (drives the NEW badge)
+function rememberSeen(links){
+  links.forEach(l => seenLinks.add(l));
+  store.set('briefing_seen', JSON.stringify([...seenLinks].slice(-3000)));
+}
 
 // Safe storage — sandboxed preview frames throw on localStorage access, which must not halt the app.
 const store = {
@@ -295,6 +312,7 @@ const store = {
 // Feedback (thumbs up/down) — persisted so Phase 2 can learn your preferences.
 let votes = {};
 try { votes = JSON.parse(store.get('briefing_feedback') || '{}') || {}; } catch { votes = {}; }
+try { seenLinks = new Set(JSON.parse(store.get('briefing_seen') || '[]')); } catch {}
 function saveVotes(){ store.set('briefing_feedback', JSON.stringify(votes)); updateFbCount(); }
 function updateFbCount(){ const el = document.getElementById('fbCount'); if (el) el.textContent = Object.keys(votes).length; }
 function handleVote(id, dir){
@@ -356,10 +374,14 @@ function card(a){
     ? 'bg-rose-100 text-rose-600 dark:bg-rose-500/20 dark:text-rose-400'
     : 'text-slate-400 hover:text-rose-500 hover:bg-slate-100 dark:hover:bg-slate-800';
   const id = esc(a.link);
-  return `<article class="card-enter group flex flex-col rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 hover:shadow-lg hover:border-slate-300 dark:hover:border-slate-700 transition ${ring}">
+  const isNew = state.view === 'latest' && newLinks.has(a.link);
+  const newRing = isNew && !v ? 'ring-1 ring-emerald-400/50 ' : '';
+  const newBadge = isNew ? '<span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-emerald-500 text-white">NEW</span>' : '';
+  return `<article class="card-enter group flex flex-col rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 hover:shadow-lg hover:border-slate-300 dark:hover:border-slate-700 transition ${ring}${newRing}">
     <div class="flex items-center gap-2 text-xs">
       <span class="font-semibold text-slate-700 dark:text-slate-300">${esc(a.source)}</span>
       ${langBadge}
+      ${newBadge}
       <span class="ml-auto text-slate-400" title="${fmtClock(a.published)}">${relTime(a.published)}</span>
     </div>
     <span class="mt-3 self-start text-[11px] font-semibold px-2 py-0.5 rounded-full ${CAT_STYLE[a.category]||'bg-slate-200 text-slate-700'}">${esc(a.category)}</span>
@@ -385,6 +407,7 @@ function card(a){
 
 function applyFilters(){
   let rows = state.data.filter(a => {
+    if (state.view === 'liked' && votes[a.link] !== 'up') return false;
     if (state.lang !== 'all' && a.language !== state.lang) return false;
     if (state.source !== 'all' && a.source !== state.source) return false;
     if (state.cats.size && !state.cats.has(a.category)) return false;
@@ -405,7 +428,11 @@ function render(){
   const grid = document.getElementById('grid');
   grid.innerHTML = rows.map(card).join('');
   document.getElementById('empty').classList.toggle('hidden', rows.length > 0);
-  document.getElementById('count').textContent = `${rows.length} ${rows.length === 1 ? 'story' : 'stories'}`;
+  document.querySelector('#empty p').textContent = state.view === 'liked'
+    ? 'No liked stories yet — tap 👍 on stories you want to keep.'
+    : 'No stories match your filters.';
+  const label = state.view === 'history' ? 'in history' : state.view === 'liked' ? 'liked' : '';
+  document.getElementById('count').textContent = `${rows.length} ${rows.length === 1 ? 'story' : 'stories'}${label ? ' ' + label : ''}`;
   const anyFilter = state.lang!=='all' || state.sort!=='recency' || state.source!=='all' || state.cats.size || state.q;
   document.getElementById('clearBtn').classList.toggle('hidden', !anyFilter);
   // refresh segmented styling
@@ -413,6 +440,7 @@ function render(){
 }
 
 function syncSeg(){
+  document.querySelectorAll('#viewSeg .seg').forEach(b => setActive(b, b.dataset.view === state.view));
   document.querySelectorAll('#langSeg .seg').forEach(b => setActive(b, b.dataset.lang === state.lang));
   document.querySelectorAll('#sortSeg .seg').forEach(b => setActive(b, b.dataset.sort === state.sort));
   document.querySelectorAll('#catChips .chip').forEach(b => {
@@ -441,6 +469,10 @@ function buildControls(){
   });
   // sources (options are (re)built on each data load by buildSourceOptions)
   document.getElementById('sourceSel').addEventListener('change', e => { state.source = e.target.value; render(); });
+  // view: latest / history / liked
+  document.getElementById('viewSeg').addEventListener('click', e => {
+    const b = e.target.closest('.seg'); if(!b) return; setView(b.dataset.view);
+  });
   // language + sort
   document.getElementById('langSeg').addEventListener('click', e => {
     const b = e.target.closest('.seg'); if(!b) return; state.lang = b.dataset.lang; render();
@@ -499,23 +531,51 @@ function buildSourceOptions(){
 }
 
 // Load the live feed (served by GitHub Pages); fall back to embedded mock for local double-click.
-let lastLinks = new Set();
-async function loadData({ announce = false } = {}){
+async function loadData(){
   let data = MOCK, ok = false, lastMod = null;
   try {
     const r = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
     if (r.ok) { const j = await r.json(); data = Array.isArray(j) ? j : (j.articles || MOCK); ok = true; lastMod = r.headers.get('last-modified'); }
   } catch {}
-  const fresh = announce ? data.filter(a => !lastLinks.has(a.link)).length : 0;
-  state.data = data;
-  lastLinks = new Set(data.map(a => a.link));
+  latestData = data;
+  // "NEW" = stories you haven't seen before. On the very first visit, don't flag everything.
+  const firstEver = seenLinks.size === 0;
+  newLinks = firstEver ? new Set() : new Set(data.filter(a => !seenLinks.has(a.link)).map(a => a.link));
+  rememberSeen(data.map(a => a.link));
+  const fresh = newLinks.size;
   NOW = Date.now();
   // "Updated" = when the feed file was last published (its real refresh time), not the newest article's age.
   const updatedAt = lastMod ? +new Date(lastMod) : data.reduce((m, a) => Math.max(m, +new Date(a.published || 0) || 0), 0);
   document.getElementById('updated-text').textContent = updatedAt ? 'Updated ' + relTime(new Date(updatedAt).toISOString()) : 'Updated —';
+  if (archiveLoaded) mergeIntoArchive(data);
+  if (state.view === 'latest') state.data = latestData;
+  else state.data = archiveData;
   buildSourceOptions();
   render();
   return { ok, fresh };
+}
+
+// Rolling history of everything ever curated (served as archive.json; merges in today's feed too).
+function mergeIntoArchive(items){
+  const byLink = new Map(archiveData.map(a => [a.link, a]));
+  items.forEach(a => { if (!byLink.has(a.link)) byLink.set(a.link, a); });
+  archiveData = [...byLink.values()].sort((a, b) => (+new Date(b.published || 0) || 0) - (+new Date(a.published || 0) || 0));
+}
+async function loadArchive(){
+  if (archiveLoaded) return;
+  try {
+    const r = await fetch('archive.json?t=' + Date.now(), { cache: 'no-store' });
+    if (r.ok) { const j = await r.json(); archiveData = Array.isArray(j) ? j : (j.articles || []); }
+  } catch {}
+  archiveLoaded = true;
+  mergeIntoArchive(latestData); // make sure today's stories are present even if archive.json lags
+}
+async function setView(v){
+  state.view = v;
+  if (v !== 'latest') await loadArchive();
+  state.data = v === 'latest' ? latestData : archiveData;
+  buildSourceOptions();
+  render();
 }
 
 // boot
@@ -530,16 +590,18 @@ async function boot(){
   btn.addEventListener('click', async () => {
     btn.classList.add('opacity-70', 'pointer-events-none');
     icon.classList.add('animate-spin');
-    const { ok, fresh } = await loadData({ announce: true });
+    if (archiveLoaded) archiveLoaded = false; // re-pull history on explicit refresh
+    const { ok, fresh } = await loadData();
+    if (state.view !== 'latest') { await loadArchive(); state.data = archiveData; render(); }
     icon.classList.remove('animate-spin');
     btn.classList.remove('opacity-70', 'pointer-events-none');
     if (!ok)            toast('Could not reach the feed — check your connection.');
-    else if (fresh > 0) toast(`${fresh} new ${fresh === 1 ? 'story' : 'stories'} loaded.`);
+    else if (fresh > 0) toast(`${fresh} new ${fresh === 1 ? 'story' : 'stories'} — highlighted below.`);
     else                toast("You're up to date.");
   });
 
   // Quietly check for new stories every 10 minutes (the cloud routine publishes 2×/day).
-  setInterval(() => loadData({ announce: true }).then(({ fresh }) => {
+  setInterval(() => loadData().then(({ fresh }) => {
     if (fresh > 0) toast(`${fresh} new ${fresh === 1 ? 'story' : 'stories'} just arrived.`);
   }), 10 * 60 * 1000);
 }

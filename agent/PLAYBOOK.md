@@ -49,10 +49,12 @@ title, summary, link, source, published, category, relevance_score, language, li
 Cap at `settings.target_count` (default 30) if there are more qualifying stories;
 keep the highest-relevance ones.
 
-Then publish so the Pages site updates:
+Then update the rolling history and publish so the Pages site updates:
 ```
-git add docs/news.json && git commit -m "feed: refresh" && git push
+python3 agent/update_archive.py
+git add docs/news.json docs/archive.json && git commit -m "feed: refresh" && git push
 ```
+`docs/archive.json` is the history the dashboard's **History** and **★ Liked** views read.
 
 ### 5. Report
 Print a one-line summary: how many sources ran, how many failed (from `run_log`),

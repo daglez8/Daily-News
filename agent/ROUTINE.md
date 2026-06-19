@@ -18,8 +18,9 @@ You are refreshing the personal news feed in this repository. Do this and nothin
 3. If `briefing-feedback.json` exists, apply the learned preferences (nudge ±10–15) per the playbook.
 4. Write the result to `docs/news.json` with exactly these fields per item:
    `title, summary, link, source, published, category, relevance_score, language, light`
-5. Commit and push (this updates the public GitHub Pages site):
-   `git add docs/news.json && git commit -m "feed: scheduled refresh" && git push`
-6. Print a one-line summary: sources ok/failed, candidate count, kept count, and any category that came up empty (that's expected, not an error).
+5. Update the rolling history: `python3 agent/update_archive.py`
+6. Commit and push (this updates the public GitHub Pages site):
+   `git add docs/news.json docs/archive.json && git commit -m "feed: scheduled refresh" && git push`
+7. Print a one-line summary: sources ok/failed, candidate count, kept count, and any category that came up empty (that's expected, not an error).
 
 Do NOT call any external LLM API or use any API key — you perform the summarization yourself as part of this run.
