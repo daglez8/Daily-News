@@ -1,5 +1,126 @@
 [
   {
+    "title": "Ya no habrá que pagar a los CEOs",
+    "summary": "Columna de El Financiero que reflexiona, con tono provocador, sobre cómo la IA y la automatización están redefiniendo el rol y el valor del liderazgo ejecutivo y la gestión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/luis-wertman-zaslav/2026/06/19/ya-no-habra-que-pagar-a-los-ceos/",
+    "source": "El Financiero",
+    "published": "2026-06-19T13:03:18+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "‘Take Risk’: Canada Regulator Cuts Bank Capital Level to Boost Lending",
+    "summary": "Canada's regulator lowered capital requirements for its largest banks for the first time in three years to encourage lending — a notable example of regulators dialing risk settings to spur credit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/-take-risk-canada-regulator-cuts-bank-capital-level-to-boost-lending",
+    "source": "Bloomberg",
+    "published": "2026-06-19T12:46:12+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
+    "summary": "A Commerce Department order led by Secretary Lutnick asserts unprecedented authority over Anthropic's AI models via export controls, escalating US government oversight of frontier AI — a key signal for AI governance and model risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
+    "source": "Bloomberg",
+    "published": "2026-06-19T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EU Tech Chief Virkkunen on AI, Sovereignty, US",
+    "summary": "The EU's top technology official discussed AI, digital sovereignty and relations with the US at VivaTech — relevant to how AI regulation and governance diverge across regions.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-19/eu-tech-chief-virkkunen-on-ai-sovereignty-us-video",
+    "source": "Bloomberg",
+    "published": "2026-06-19T11:53:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La prueba de fuego para la banca digital",
+    "summary": "Análisis sobre los retos reales de la banca digital y la inclusión financiera en México —más allá del discurso de digitalización—, con implicaciones para fintech y servicios financieros.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/06/19/la-prueba-de-fuego-para-la-banca-digital/",
+    "source": "El Financiero",
+    "published": "2026-06-19T11:08:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Santander Surpasses Inditex as Spain’s Most Valuable Company",
+    "summary": "Banco Santander became Spain's most valuable listed company, overtaking Inditex for the first time in eight years — a marker of renewed investor appetite for banks in a higher-rate world.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/santander-surpasses-inditex-as-spain-s-most-valuable-company",
+    "source": "Bloomberg",
+    "published": "2026-06-19T09:38:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ambani’s Jio Platforms Files For Long-Awaited India IPO",
+    "summary": "Mukesh Ambani's Jio Platforms filed draft documents for what could be India's largest-ever IPO, with Meta and other backers — a major test of global appetite for mega-cap tech listings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/mukesh-ambani-says-jio-platforms-to-file-its-ipo-papers-friday",
+    "source": "Bloomberg",
+    "published": "2026-06-19T08:59:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UK Fintech Starling Shrinks Board as McPike Cements Control",
+    "summary": "UK digital bank Starling is streamlining its board after several departures, concentrating control with its largest shareholder — a governance development worth watching in digital banking.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/uk-digital-bank-starling-shrinks-board-as-mcpike-cements-control",
+    "source": "Bloomberg",
+    "published": "2026-06-19T08:44:02+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots",
+    "summary": "Anthropic's co-founder and chief economist discuss AI's impact on labor markets, society and existential questions — a substantive look at where frontier AI research and its economic effects are heading.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-19/anthropic-co-founder-top-economist-on-the-ai-frontier-video",
+    "source": "Bloomberg",
+    "published": "2026-06-19T08:17:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El costo de aplazar la reforma fiscal",
+    "summary": "El Economista advierte sobre el costo de posponer la reforma fiscal en México, recordando que las calificadoras (Moody's) ya han degradado la perspectiva — un riesgo macro y soberano relevante para el crédito.",
+    "link": "https://www.eleconomista.com.mx/opinion/costo-aplazar-reforma-fiscal-20260619-819300.html",
+    "source": "El Economista",
+    "published": "2026-06-19T06:27:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Traders’ Latest AI-Related Play Is a Struggling Car Parts Stock",
+    "summary": "Traders are chasing French car-parts maker Valeo as a speculative AI-adjacent play, a sign of how far the AI trade is stretching across the market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/traders-latest-ai-related-play-is-a-struggling-car-parts-stock",
+    "source": "Bloomberg",
+    "published": "2026-06-19T05:15:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Banxico publica nuevas reglas para pagos digitales: ¿Cómo te afectan y qué cambia en tus transferencias?",
     "summary": "Banxico publicó en el DOF modificaciones al sistema de pagos y operaciones bancarias que cambian cómo funcionan las transferencias digitales en México. Las nuevas reglas buscan reforzar seguridad y eficiencia en el sistema de pagos.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/06/18/banxico-publica-nuevas-reglas-para-pagos-digitales-como-te-afectan-y-que-cambia-en-tus-transferencias/",
@@ -20,6 +141,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La inteligencia artificial y la trampa del ingreso medio",
+    "summary": "Columna de El Economista sobre cómo la inteligencia artificial podría agravar o aliviar la 'trampa del ingreso medio' en economías como México, ligando adopción de IA con productividad y crecimiento.",
+    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-trampa-ingreso-medio-20260619-819293.html",
+    "source": "El Economista",
+    "published": "2026-06-19T01:34:16-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "EU set to remove barriers to banks’ cross-border capital flows",
