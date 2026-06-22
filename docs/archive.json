@@ -1,5 +1,181 @@
 [
   {
+    "title": "SpaceX Kicks Off High-Grade Bond Sale | Bloomberg Tech 6/22/2026",
+    "summary": "SpaceX launched its first-ever investment-grade bond offering to fund AI ambitions following its record $75 billion IPO. Also notable: Micron signed an AI infrastructure agreement with Anthropic to accelerate enterprise AI adoption, and Chevron inked a 20-year deal with Microsoft to power one of the largest US data centers in West Texas.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/bloomberg-tech-6-22-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T18:06:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI-Services Startup Baseten Nabs $13 Billion Valuation",
+    "summary": "Baseten, which provides software and computing capacity to companies tapping lower-cost AI models, raised $1.5 billion in a Series F round at a $13 billion valuation, co-led by Altimeter. The raise reflects sustained investor appetite for AI infrastructure picks-and-shovels plays that serve enterprise demand for inference at scale.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/ai-services-startup-baseten-nabs-13-billion-valuation-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T18:02:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft, Chevron Sign Power Deal for Texas Data Center",
+    "summary": "Chevron and Microsoft signed a 20-year power supply agreement for Project Kilby, a proposed West Texas data center expected to ramp to 2.67 gigawatts—enough to power more than 530,000 homes—with a final investment decision expected later this year. The deal, developed alongside Engine No. 1, underscores the accelerating race to secure dedicated energy infrastructure for AI workloads.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/microsoft-chevron-sign-power-deal-for-texas-data-center-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T17:07:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inteligencia artificial no vence a la disciplina",
+    "summary": "Frente al frenesí bursátil por las posibles salidas a bolsa de OpenAI y Anthropic, el artículo argumenta que las empresas ganadoras en manufactura mexicana —Vertiv, Schneider Electric— no lo son por IA de vanguardia sino por procesos Lean bien ejecutados. La conclusión es que la disciplina operativa seguirá siendo el diferenciador crítico incluso a medida que la IA llegue a las plantas industriales nearshore.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/06/22/la-inteligencia-artificial-no-vence-a-la-disciplina/",
+    "source": "El Financiero",
+    "published": "2026-06-22T17:02:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tech Rally Is Seen Having More Runway as AI Spending Gains Speed",
+    "summary": "Columbia Threadneedle's Tiffany Wade argues AI infrastructure spending is accelerating beyond the pace of the past two years, supporting at least another two quarters of technology sector outperformance. The view counters concerns about stretched valuations, pointing to surging hyperscaler capex as the key structural driver that still has room to run.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/tech-rally-is-seen-having-more-runway-as-ai-spending-gains-speed",
+    "source": "Bloomberg",
+    "published": "2026-06-22T16:43:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gas Stations Accused of Using AI to Inflate Prices in California",
+    "summary": "California consumers sued Walmart, Marathon Petroleum, BP, and 7-Eleven, alleging they use AI algorithms to illegally coordinate gasoline prices in the state with the highest fuel costs in the US. The case is an early legal test of antitrust and consumer-protection frameworks governing AI-driven algorithmic pricing—with potential implications for any sector using AI for pricing decisions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california",
+    "source": "Bloomberg",
+    "published": "2026-06-22T16:32:38+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El mercado le está otorgando a Kevin Warsh \"el beneficio de la duda\", según Morgan Stanley",
+    "summary": "Morgan Stanley interpreta el avance de ~40% del S&P 500 vs. oro desde la nominación de Kevin Warsh como señal de que los mercados le otorgan credibilidad para restaurar la conducción monetaria de la Fed. Warsh busca reducir la dependencia del balance de $6.7 billones como instrumento principal de política, aunque el analista advierte posible volatilidad durante la transición del régimen.",
+    "link": "https://www.bloomberglinea.com/mercados/el-mercado-le-esta-otorgando-a-kevin-warsh-el-beneficio-de-la-duda-segun-morgan-stanley/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-22T15:59:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alphabet Shares Drop After Second AI Star Departs for Rival",
+    "summary": "Alphabet's stock fell after a second high-profile AI researcher left for a competitor, intensifying investor concern about talent retention at Google DeepMind. The departures highlight the escalating war for elite AI talent, where well-funded startups are successfully poaching key researchers from Big Tech at an accelerating pace.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival",
+    "source": "Bloomberg",
+    "published": "2026-06-22T15:54:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué las bolsas no suben más tras acuerdo entre EE.UU. e Irán? Deutsche Bank ve cuatro claves",
+    "summary": "Deutsche Bank identifica cuatro razones para la reacción contenida del mercado al acuerdo interino EE.UU.-Irán: condiciones monetarias restrictivas, expectativas ya descontadas, valuaciones exigentes y riesgos energéticos residuales. El S&P 500 permanece bajo su máximo histórico pese al alivio en el petróleo, apuntando a que el mercado exige catalizadores más sólidos para renovar el apetito por riesgo.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-las-bolsas-no-suben-mas-tras-acuerdo-entre-eeuu-e-iran-deutsche-bank-ve-cuatro-claves/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-22T15:52:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Finsus actualiza trámite bancario tras crecer 72% en activos",
+    "summary": "Finsus, institución financiera mexicana especializada en crédito empresarial, actualizó su expediente ante la CNBV para avanzar en su proceso de obtener licencia bancaria plena, tras registrar un crecimiento del 72% en activos totales y alcanzar rentabilidad sostenida. El movimiento refleja la maduración de las SOFOM especializadas que buscan convertirse en banco regulado para acceder a captación de depósitos y competir directamente con la banca tradicional.",
+    "link": "https://expansion.mx/economia/2026/06/22/finsus-genera-utilidades-actualiza-perfil-cnbv-ser-banco",
+    "source": "Expansión",
+    "published": "2026-06-22T15:45:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "JPMorgan's Sundar Discusses AI Investment Opportunities",
+    "summary": "JPMorgan Private Bank's Sitara Sundar highlights memory chip stocks—particularly Micron, up as much as 1,000% over the past year—as a primary AI investment theme, while exploring opportunities beyond the chip market as supply bottlenecks ease. She also notes that US-Iran geopolitical volatility continues to influence AI-adjacent equity trades in the short term.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/jpmorgan-s-sundar-discusses-ai-investment-opportunities-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T15:32:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How AI Is Reshaping Retail Discounts",
+    "summary": "Upside CEO Alex Kinnier explains how AI-driven hyper-personalized offers at fuel and grocery retailers help consumers save money while improving retailer margins through data-driven targeting. The segment also surfaces that American consumers remain financially stretched despite recent declines in gas prices, with transaction data pointing to broad budget pressure across income segments.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-ai-is-reshaping-retail-discounts-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T15:20:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oxford Economics ve \"agujeros fiscales\" y advierte riesgos de deuda en Brasil, México y Colombia",
+    "summary": "Oxford Economics advierte que Brasil, México y Colombia enfrentan \"agujeros fiscales\" estructurales que requieren superávits primarios sostenidos para estabilizar su deuda pública, en un análisis de 46 economías donde más del 25% necesita superávits indefinidos. Para México el riesgo es especialmente relevante: las calificadoras ya alertan sobre el déficit en expansión y la presión creciente sobre su grado de inversión.",
+    "link": "https://www.bloomberglinea.com/mercados/oxford-economics-ve-agujeros-fiscales-y-advierte-riesgos-de-deuda-en-brasil-mexico-y-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-22T15:06:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SpaceX Inks Multibillion-Dollar Computing Deal With Reflection AI",
+    "summary": "SpaceX signed a multibillion-dollar agreement to provide computing resources to AI startup Reflection AI, the latest in a series of deals positioning SpaceX as a major AI infrastructure provider competing with hyperscalers. The move underscores Elon Musk's strategy to build a compute empire combining SpaceX infrastructure with xAI's Grok models as demand for AI training and inference surges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai",
+    "source": "Bloomberg",
+    "published": "2026-06-22T15:05:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Anthropic Weighs the Risk of Human Extinction",
+    "summary": "Anthropic co-founder Jack Clark and head of economics Peter McCrory discuss AI's potential labor market disruption and existential risks on Bloomberg's Odd Lots podcast, explaining how the company's safety mission shapes deployment decisions. They outline Anthropic's framework for weighing catastrophic vs. economic risks as capabilities advance, offering rare public detail on how a leading AI safety lab thinks about model risk governance.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-anthropic-weighs-the-risk-of-human-extinction",
+    "source": "Bloomberg",
+    "published": "2026-06-22T14:44:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sheinbaum eleva meta de generación eléctrica para CFE",
+    "summary": "La presidenta Sheinbaum elevó la meta de participación de CFE en la generación eléctrica al 60% del mercado nacional, respaldada por US$30,000 millones en inversiones comprometidas hasta 2030 bajo el modelo de \"inversión mixta\" con privados. La directora de CFE analiza emisión de nuevas fibras eléctricas para financiar la expansión de infraestructura, abriendo posibles oportunidades en mercados de deuda estructurada y capital privado en el sector energético mexicano.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-eleva-meta-de-generacion-electrica-para-cfe/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-22T14:36:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Pemex: ni soberanía ni financiamiento",
     "summary": "Análisis de El Financiero sobre la estrategia de Pemex: los datos sugieren menor producción pese al objetivo de soberanía energética, con implicaciones para las finanzas públicas y el riesgo soberano.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/06/22/pemex-ni-soberania-ni-financiamiento/",
@@ -119,6 +295,17 @@
     "relevance_score": 63,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Groq Raises $650 Million to Aid in Pivot After Nvidia Deal",
+    "summary": "Groq raised $650 million to expand data center capacity as it pivots from chip design toward becoming a broad AI computing provider following an earlier deal with Nvidia. The raise accelerates Groq's build-out of low-latency inference infrastructure, positioning it as a cost-competitive alternative to Nvidia-based GPU cloud compute for enterprise AI workloads.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal",
+    "source": "Bloomberg",
+    "published": "2026-06-22T13:00:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Meta Taps New WhatsApp Boss as Part of $900 Million Investment",
@@ -305,6 +492,17 @@
     "category": "AI & Agents",
     "relevance_score": 74,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Go East: What Tirana's Bread & Heart Festival Reveals About Architecture and Landscape",
+    "summary": "The second Bread & Heart Festival in Tirana gathered over 200 architects—including Francis Kéré, Jeanne Gang, Bjarke Ingels, and Pierre de Meuron—to explore \"Landscapes of Abundance\": the discipline's shift from individual buildings toward territorial and landscape-scale thinking. Albania's capital is emerging as an unexpected hub for bold contemporary architectural experimentation and international professional dialogue.",
+    "link": "https://www.archdaily.com/1042325/go-east-what-tiranas-bread-and-heart-festival-reveals-about-architecture-and-landscape",
+    "source": "ArchDaily",
+    "published": "2026-06-22T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
