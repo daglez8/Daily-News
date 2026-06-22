@@ -19,8 +19,9 @@ You are refreshing the personal news feed in this repository. Do this and nothin
 4. Write the result to `docs/news.json` with exactly these fields per item:
    `title, summary, link, source, published, category, relevance_score, language, light`
 5. Update the rolling history: `python3 agent/update_archive.py`
-6. Commit and push (this updates the public GitHub Pages site):
-   `git add docs/news.json docs/archive.json && git commit -m "feed: scheduled refresh" && git push`
+6. Commit and push **directly to main** (this updates the public GitHub Pages site).
+   Web routines run on a `claude/*` branch by default, so push explicitly to main:
+   `git add docs/news.json docs/archive.json && git commit -m "feed: scheduled refresh" && git push origin HEAD:main`
 7. Print a one-line summary: sources ok/failed, candidate count, kept count, and any category that came up empty (that's expected, not an error).
 
 Do NOT call any external LLM API or use any API key — you perform the summarization yourself as part of this run.
