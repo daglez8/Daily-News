@@ -1,5 +1,82 @@
 [
   {
+    "title": "Pemex: ni soberanía ni financiamiento",
+    "summary": "Análisis de El Financiero sobre la estrategia de Pemex: los datos sugieren menor producción pese al objetivo de soberanía energética, con implicaciones para las finanzas públicas y el riesgo soberano.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/06/22/pemex-ni-soberania-ni-financiamiento/",
+    "source": "El Financiero",
+    "published": "2026-06-22T14:11:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "High AI Spending is 'Not Temporary' Says Everpure CFO Robbiati",
+    "summary": "Everpure's CFO argued that elevated AI capital spending is 'not temporary,' reinforcing the view that enterprise AI infrastructure investment is structural rather than a passing cycle.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/ai-spending-not-temporary-says-everpure-cfo-robbiati-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T14:03:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Aeroméxico e Inbursa presentan una tarjeta diseñada para transformar cada compra en una nueva experiencia de viaje",
+    "summary": "Aeroméxico e Inbursa lanzaron una nueva tarjeta enfocada en viajeros, un ejemplo de innovación en productos financieros y alianzas banca-marca en el mercado mexicano.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/06/22/aeromexico-e-inbursa-presentan-una-tarjeta-disenada-para-transformar-cada-compra-en-una-nueva-experiencia-de-viaje/",
+    "source": "El Financiero",
+    "published": "2026-06-22T14:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cómo usan la IA los líderes",
+    "summary": "Columna de El Financiero sobre cómo los ejecutivos están incorporando la inteligencia artificial en su trabajo diario y en la toma de decisiones — útil para liderazgo y productividad.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/06/22/como-usan-la-ia-los-lideres/",
+    "source": "El Financiero",
+    "published": "2026-06-22T13:55:29+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Building materials group CRH agrees record $8.5bn deal for Arcosa",
+    "summary": "Irish building-materials group CRH agreed a record $8.5bn acquisition of Dallas-based Arcosa, underscoring continued large-cap M&A appetite in infrastructure and construction materials.",
+    "link": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
+    "source": "Financial Times",
+    "published": "2026-06-22T13:54:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug",
+    "summary": "AbbVie agreed to buy Apogee Therapeutics for $10.9bn — its largest deal in over five years — amid a surge of M&A in the pharma sector. A notable data point on big-ticket strategic acquisitions and sector consolidation.",
+    "link": "https://www.ft.com/content/42b5d5d0-0797-43eb-920c-120f68d21f0a",
+    "source": "Financial Times",
+    "published": "2026-06-22T13:53:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Argentina Approves Dollar Borrowing Amid Multilateral Loan Talks",
+    "summary": "Argentina authorized up to $5bn in new dollar-denominated borrowing amid multilateral loan talks — a notable LatAm sovereign-debt development for emerging-market credit watchers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/argentina-approves-dollar-borrowing-amid-multilateral-loan-talks",
+    "source": "Bloomberg",
+    "published": "2026-06-22T13:48:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Inflationary Environment Suggests Higher Rates, Seema Shah Says",
     "summary": "Principal Asset Management's chief global strategist argues the inflationary impact of the AI capital expenditure cycle is significantly underappreciated by investors, pointing to sustained higher interest rates ahead. The observation is relevant for mortgage and real estate finance, as prolonged elevated rates would weigh on refinancing activity and new credit origination in emerging markets.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-22/inflation-environment-suggests-higher-rates-seema-shah-video",
@@ -22,6 +99,17 @@
     "light": false
   },
   {
+    "title": "SpaceX Kicks Off Debut High-Grade Bond Sale",
+    "summary": "SpaceX launched its first investment-grade bond sale to fund its AI ambitions following its record IPO — a milestone in how mega-cap tech issuers tap debt markets at scale.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/spacex-kicks-off-debut-high-grade-bond-sale-video",
+    "source": "Bloomberg",
+    "published": "2026-06-22T13:30:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Decidir lo incómodo: el liderazgo que sí mueve a la empresa",
     "summary": "El columnista reflexiona sobre las decisiones difíciles como motor real del liderazgo empresarial, argumentando que evitar lo incómodo paraliza organizaciones mientras que afrontarlo con claridad genera tracción real. Propone tres criterios prácticos para decisiones complejas: determinar si es primaria o derivada, calcular los costos multifrontales de implementación y asegurar un seguimiento sistemático hasta la materialización de resultados.",
     "link": "https://www.elfinanciero.com.mx/opinion/mauricio-candiani/2026/06/22/decidir-lo-incomodo-el-liderazgo-que-si-mueve-a-la-empresa/",
@@ -40,6 +128,17 @@
     "published": "2026-06-22T13:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans",
+    "summary": "Nvidia is developing techniques to make humanoid robots safer around people, a sign of how AI is moving into physical, safety-critical deployments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+    "source": "Bloomberg",
+    "published": "2026-06-22T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -198,6 +297,28 @@
     "light": false
   },
   {
+    "title": "Vacantes de IA en México se duplicaron en el último año",
+    "summary": "La demanda de talento en inteligencia artificial en México se duplicó en el último año, señal de que la adopción de IA en el país entra a una etapa temprana de madurez — relevante para talento y transformación.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/vacantes-ia-mexico-duplicaron-ultimo-ano-20260622-819385.html",
+    "source": "El Economista",
+    "published": "2026-06-22T08:05:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Indicadores del 22 al 26 de junio: Inflación, empleo y anuncio del Banco de México",
+    "summary": "La semana trae datos clave para México —inflación, empleo y el anuncio de política monetaria de Banxico— que marcarán el tono para tasas, crédito y el peso en el corto plazo.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-22-26-junio-inflacion-empleo-anuncio-banco-mexico-20260622-819496.html",
+    "source": "El Economista",
+    "published": "2026-06-22T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Tencent Tests AI Assistant for Its Super App WeChat in China",
     "summary": "Tencent has begun testing a new AI assistant integrated directly into WeChat as it races to keep pace with rivals in China's intensely competitive AI market. The development signals the accelerating integration of AI agents into financial super apps — a model with direct relevance to Mexico's digital banking evolution and the embedded finance race among fintechs.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
@@ -205,6 +326,17 @@
     "published": "2026-06-22T04:12:18+00:00",
     "category": "AI & Agents",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bain tests software takeover targets by vibecoding AI replicas",
+    "summary": "Private equity firms like Bain are using AI to rapidly recreate software products ('vibecoding' replicas) to gauge takeover targets' competitive moats — a striking fusion of AI and M&A diligence.",
+    "link": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+    "source": "Financial Times",
+    "published": "2026-06-22T04:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
