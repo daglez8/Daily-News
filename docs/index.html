@@ -531,6 +531,7 @@ function buildSourceOptions(){
 }
 
 // Load the live feed (served by GitHub Pages); fall back to embedded mock for local double-click.
+let currentLastMod = null;
 async function loadData(){
   let data = MOCK, ok = false, lastMod = null;
   try {
@@ -547,12 +548,28 @@ async function loadData(){
   // "Updated" = when the feed file was last published (its real refresh time), not the newest article's age.
   const updatedAt = lastMod ? +new Date(lastMod) : data.reduce((m, a) => Math.max(m, +new Date(a.published || 0) || 0), 0);
   document.getElementById('updated-text').textContent = updatedAt ? 'Updated ' + relTime(new Date(updatedAt).toISOString()) : 'Updated —';
+  currentLastMod = lastMod;
   if (archiveLoaded) mergeIntoArchive(data);
   if (state.view === 'latest') state.data = latestData;
   else state.data = archiveData;
   buildSourceOptions();
   render();
-  return { ok, fresh };
+  return { ok, fresh, lastMod };
+}
+
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+// Lightweight check of when the feed file was last published, to detect a fresh routine push.
+async function peekLastMod(){
+  try { const r = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' }); return r.ok ? r.headers.get('last-modified') : null; }
+  catch { return null; }
+}
+// Ask the server-side function to fire the routine. Returns true if a run was started.
+async function triggerRoutine(){
+  try {
+    const r = await fetch('/api/trigger', { method: 'POST' });
+    if (r.ok) { const d = await r.json().catch(() => ({})); return !!d.ok; }
+  } catch {}
+  return false; // no function (e.g. plain GitHub Pages) or not configured → caller falls back to reload
 }
 
 // Rolling history of everything ever curated (served as archive.json; merges in today's feed too).
@@ -587,17 +604,37 @@ async function boot(){
 
   const btn = document.getElementById('refreshBtn');
   const icon = btn.querySelector('svg');
-  btn.addEventListener('click', async () => {
-    btn.classList.add('opacity-70', 'pointer-events-none');
-    icon.classList.add('animate-spin');
+  let lastTrigger = 0;
+  async function reloadAndReport(){
     if (archiveLoaded) archiveLoaded = false; // re-pull history on explicit refresh
     const { ok, fresh } = await loadData();
     if (state.view !== 'latest') { await loadArchive(); state.data = archiveData; render(); }
-    icon.classList.remove('animate-spin');
-    btn.classList.remove('opacity-70', 'pointer-events-none');
     if (!ok)            toast('Could not reach the feed — check your connection.');
     else if (fresh > 0) toast(`${fresh} new ${fresh === 1 ? 'story' : 'stories'} — highlighted below.`);
     else                toast("You're up to date.");
+  }
+  btn.addEventListener('click', async () => {
+    btn.classList.add('opacity-70', 'pointer-events-none');
+    icon.classList.add('animate-spin');
+    const baseline = currentLastMod;
+    // Try to fire a live crawl (only works behind the Cloudflare function). Cooldown 90s to protect usage.
+    const triggered = (Date.now() - lastTrigger > 90000) ? await triggerRoutine() : false;
+    if (triggered) {
+      lastTrigger = Date.now();
+      toast('Fetching fresh news… this takes 1–2 min ⏳');
+      let changed = false;
+      for (let i = 0; i < 16; i++) {                 // poll up to ~4 min
+        await sleep(15000);
+        const lm = await peekLastMod();
+        if (lm && lm !== baseline) { changed = true; break; }
+      }
+      await reloadAndReport();
+      if (!changed) toast('Still working — new stories will appear shortly.');
+    } else {
+      await reloadAndReport(); // GitHub Pages / cooldown / not configured → just show the latest published feed
+    }
+    icon.classList.remove('animate-spin');
+    btn.classList.remove('opacity-70', 'pointer-events-none');
   });
 
   // Quietly check for new stories every 10 minutes (the cloud routine publishes 2×/day).
