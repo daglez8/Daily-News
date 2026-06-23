@@ -1,5 +1,170 @@
 [
   {
+    "title": "SpaceX pitches investors juicy yields in $25bn bond deal",
+    "summary": "SpaceX launched a debut $25 billion bond offering upsized after overwhelming investor demand attracted by high yields in a rising-rate environment, ranking among the largest investment-grade transactions in the US market this year. While equity markets have long embraced SpaceX's growth story, debt investors are applying more scrutiny to the company's projected cash burn over the coming years. The deal tests how bond markets price risk for Elon Musk's rocket, satellite, and AI conglomerate at its debut in the public credit markets.",
+    "link": "https://www.ft.com/content/7ea76b60-ea21-4e50-b0e2-bbcc842af289",
+    "source": "Financial Times",
+    "published": "2026-06-23T18:44:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street abre a la baja por 'desconfianza' en el sector tecnológico",
+    "summary": "Los principales índices de Wall Street operaron a la baja impulsados por una menor demanda de activos tecnológicos, mientras los inversores cuestionan si el ritmo de inversión en inteligencia artificial puede sostener las elevadas valuaciones del sector; el Nasdaq retrocedió 1.74% y el S&P 500 bajó 1.03%. A nivel europeo, los principales índices también registraron descensos generalizados ante el mismo telón de fondo. En México, la atención permanece sobre la evolución de la inflación y las decisiones de Banxico, según el economista en jefe de Actinver.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/23/bmv-wall-street-hoy-23-de-junio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-06-23T18:28:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "A Jevons Paradox in Bureaucracy",
+    "summary": "This Bloomberg analysis explores whether AI will actually boost organizational productivity or simply expand the scope and complexity of work — a phenomenon economists call the Jevons Paradox, where greater efficiency increases overall consumption of a resource rather than reducing it. The argument raises questions about AI's net effect on headcount, workflow design, and the actual ROI organizations can expect from enterprise AI deployments. The piece is directly relevant to how leadership should calibrate expectations for AI-driven efficiency gains and restructure teams accordingly.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/a-jevons-paradox-in-bureaucracy",
+    "source": "Bloomberg",
+    "published": "2026-06-23T18:14:44+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Petrobras y Pemex firman acuerdo para producción y refinación de petróleo",
+    "summary": "Petrobras y Pemex firmaron un Memorando de Entendimiento para cooperar estratégicamente en exploración y producción en el Golfo de México, revitalización de campos maduros, refinación y petroquímica, con vigencia de dos años y sin constituir un compromiso vinculante de inversión ni crear empresa conjunta. La presidenta de Petrobras, Magda Chambriard, señaló que la alianza podría posicionar a la empresa brasileña como socia relevante de Pemex en un nuevo ciclo de fortalecimiento de la actividad petrolera en México. El acuerdo también abre la puerta a exploración conjunta en otras regiones, incluyendo Brasil y el continente africano.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-y-pemex-firman-acuerdo-para-produccion-y-refinacion-de-petroleo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-23T18:01:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿¡Nani!? Peso cae con fuerza ante el dólar por posible intervención cambiaria en Japón",
+    "summary": "El peso mexicano se depreció 1.18% frente al dólar, cotizándose en 17.56 unidades, ante expectativas de intervención cambiaria del Banco de Japón tras una llamada entre la ministra de Finanzas japonesa y el secretario del Tesoro de EE.UU. para tomar medidas 'audaces' en materia de divisas. El yen cotizaba cerca de 161.50 unidades por dólar, próximo a su nivel más bajo en cuatro décadas, generando ajustes generalizados en divisas emergentes incluyendo el peso. La volatilidad cambiaria tiene implicaciones directas para el entorno de tasas en México, el costo de financiamiento hipotecario y la postura de Banxico.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/23/peso-dolar-precio-hoy-23-de-junio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-06-23T17:51:24+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Quantum Computing Is Finally Here. But What Is It?",
+    "summary": "After four decades of theoretical development, quantum computing is approaching 'quantum utility' — the threshold where machines are accurate enough to model complex real-world phenomena including drug development, financial modeling, and cryptography. A competitive race among major technology companies is underway to build machines that deliver practical breakthroughs, with progress accelerating through a series of recent hardware milestones. While not yet commercially transformative at scale, the technology has significant implications for AI, data security, and financial risk modeling over the medium term.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/what-is-quantum-computing-and-what-can-quantum-computers-do",
+    "source": "Bloomberg",
+    "published": "2026-06-23T17:41:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
+    "summary": "The US dollar surged to its strongest level since November as traders cemented expectations of Federal Reserve interest-rate hikes this year, putting pressure on emerging market currencies including the Mexican peso. The move amplifies volatility already triggered by Japanese yen intervention concerns, creating a double headwind for peso-denominated assets. Higher US rates would directly constrain Banxico's policy room, raise Mexico's cost of capital, and pressure mortgage refinancing conditions across the country.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/dollar-jumps-to-highest-since-november-on-fed-rate-hike-bets",
+    "source": "Bloomberg",
+    "published": "2026-06-23T17:20:12+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman no cree que la IA sea una burbuja como la de las puntocom, pero advierte riesgos",
+    "summary": "Goldman Sachs sostiene que el auge de la inteligencia artificial no replica los desequilibrios macroeconómicos que precedieron a la burbuja puntocom de los 90, con un ciclo de inversión respaldado por fundamentos sólidos y sin señales de exceso sistémico similares a los de aquella era. Sin embargo, los analistas Dominic Wilson y Vickie Chang advierten que las valuaciones bursátiles han avanzado más rápido que la capacidad real de la economía para materializar los beneficios de la IA, elevando la sensibilidad del mercado ante cualquier decepción en ingresos. La tesis central: el 'boom' de inversión en IA continúa, pero el mercado ya ha descontado por adelantado una cantidad significativa del valor potencial.",
+    "link": "https://www.bloomberglinea.com/mercados/goldman-no-cree-que-la-ia-sea-una-burbuja-como-la-de-las-puntocom-pero-advierte-riesgos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-23T17:05:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Wants Claude to Be Your New Slack Coworker",
+    "summary": "Anthropic is pushing Claude deeper into enterprise workflows by integrating the model directly into Slack, positioning it as a persistent digital colleague embedded in team communication rather than a standalone tool accessed separately. The move reflects Anthropic's strategy to compete with OpenAI and Google in the enterprise AI market by making Claude part of everyday business operations and productivity stacks. This expansion signals a broader shift toward context-aware AI agents operating continuously within existing corporate environments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-wants-claude-to-be-your-new-slack-coworker",
+    "source": "Bloomberg",
+    "published": "2026-06-23T17:00:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 93,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Siemens CEO on Industrial AI's Future",
+    "summary": "Siemens CEO Roland Busch told Bloomberg Tech that AI is migrating beyond consumer chatbots onto factory floors, enabling manufacturers to automate complex processes and boost productivity at industrial scale across Europe and globally. Siemens is embedding AI into its industrial software and hardware platforms as a key pillar of manufacturing competitiveness, with the CEO emphasizing tangible operational efficiency gains as the primary value driver. The conversation underscores accelerating enterprise AI adoption in capital-intensive sectors where productivity improvements translate directly to financial outcomes.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/siemens-ceo-on-industrial-ai-s-future-video",
+    "source": "Bloomberg",
+    "published": "2026-06-23T16:33:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Menlo Ventures' Ganesan on Anthropic Bet, Backing AI Startups",
+    "summary": "Menlo Ventures raised $3 billion — its largest fund in its 50-year history — to invest in the next generation of AI companies, reflecting a dramatic reallocation of venture capital toward AI infrastructure and applications as investors race to back future winners. Partner Venky Ganesan discussed the firm's core bet on Anthropic and its framework for identifying durable AI winners as the sector matures beyond the foundation model layer. The fundraise signals sustained institutional conviction in AI as a structural investment theme even amid near-term tech market volatility.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/menlo-ventures-ganesan-on-anthropic-bet-ai-startups-video",
+    "source": "Bloomberg",
+    "published": "2026-06-23T16:29:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 87,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Treasuries See Good Auction Demand as Rate-Hike Bets Trimmed",
+    "summary": "US Treasury auctions saw robust demand as investors trimmed rate-hike bets following a stock market selloff and declining oil prices, reducing expectations for aggressive near-term Fed tightening. The dynamics highlight the interplay between equity stress, commodity prices, and interest rate expectations that shapes the global capital markets outlook. For Mexico, shifts in US Treasury yields directly influence Banxico's monetary policy latitude and the cost of peso-denominated fixed-income instruments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/treasuries-gain-before-auctions-as-traders-trim-rate-hike-bets",
+    "source": "Bloomberg",
+    "published": "2026-06-23T16:26:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI's money machine faces first real test in Manhattan primary",
+    "summary": "The AI industry is spending millions of dollars to influence a Manhattan Democratic primary, targeting a candidate who supports stronger AI regulation and backing opponents who favor a lighter regulatory touch — the first major test of the AI lobby's emerging political machine. The campaign outcome could signal how effectively AI companies can neutralize regulatory threats at the state and local level as federal AI governance debates intensify. The spending pattern reveals a broader industry strategy to shape the regulatory environment before binding federal AI legislation can advance.",
+    "link": "https://www.ft.com/content/e2ceff59-5afe-4cf2-9693-4c167a7fee2f",
+    "source": "Financial Times",
+    "published": "2026-06-23T16:00:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El oro pierde impulso y se acerca a los US$4.000: el precio ahora depende de la Fed",
+    "summary": "Deutsche Bank revisó sus previsiones para el oro, estimando un promedio de US$4,631 por onza en 2026, señalando que el metal precioso se ha desacoplado del choque energético por la guerra EE.UU.-Irán y ahora depende principalmente de las expectativas sobre la política monetaria de la Reserva Federal. La relación que dominó la evolución del oro hasta mediados de mayo —ligada al shock de precios de energía— se rompió, y los mercados ahora descuentan una postura más restrictiva de la Fed como el principal motor del precio. El oro sube 8.28% en la sesión y acumula un alza de 20% en el último mes, aunque cae casi 25% en lo que va del año.",
+    "link": "https://www.bloomberglinea.com/mercados/el-oro-pierde-impulso-y-se-acerca-a-los-us4000-el-precio-ahora-depende-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-23T15:34:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De Seúl a Nueva York: las dudas sobre la IA arrastran a las bolsas, el oro y el bitcoin",
+    "summary": "Una caída abrupta en los semiconductores surcoreanos —SK Hynix y Samsung perdieron más de 10%— desencadenó una ola de ventas globales que arrastró al Nasdaq a perder 2.38% y al S&P 500 a retroceder más de 1.58%, en la peor jornada para el sector tecnológico en meses, con el Kospi activando mecanismos de interrupción de mercado. El detonante fueron versiones sobre debilitamiento en la demanda de chips de IA, poniendo en duda si el nivel actual de gasto corporativo en inteligencia artificial puede sostener las valoraciones del sector. El movimiento generó preguntas sobre todo el ecosistema vinculado a la IA, desde fabricantes de chips hasta plataformas de modelos fundacionales.",
+    "link": "https://www.bloomberglinea.com/mercados/de-seul-a-nueva-york-las-dudas-sobre-la-ia-arrastran-a-las-bolsas-el-oro-y-el-bitcoin/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-23T13:40:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul",
     "summary": "Menlo Ventures closed its largest fund ever at $3 billion, building on a pivotal 2024 bet of $500 million on Anthropic when the AI lab was still considered an underdog rival to OpenAI with little revenue. The raise reflects deepening institutional conviction in AI foundation model providers as a core asset class, validated by Anthropic's subsequent mainstream adoption. The timing is notable with major AI IPOs from OpenAI and Anthropic anticipated on the horizon, rewarding early risk-taking.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
@@ -11,6 +176,28 @@
     "light": true
   },
   {
+    "title": "90 millones de líneas móviles podrían quedar suspendidas",
+    "summary": "Una nueva regulación en México exige la vinculación de las líneas móviles a la CURP, y ante el incumplimiento del plazo hasta 90 millones de líneas podrían ser suspendidas, con impacto económico y digital significativo para individuos y empresas. La medida afecta especialmente a segmentos de la población sin acceso fácil a trámites digitales y a organizaciones que dependen de conectividad móvil en sus operaciones. El costo potencial para usuarios y la continuidad operativa de negocios hace de este un riesgo regulatorio relevante en el corto plazo.",
+    "link": "https://www.eleconomista.com.mx/videos/90-millones-lineas-moviles-quedar-suspendidas-20260623-819844.html",
+    "source": "El Economista",
+    "published": "2026-06-23T12:34:55-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La revisión del T-MEC que nadie está negociando",
+    "summary": "Artículo de opinión que analiza cómo la revisión del T-MEC prevista para 2026 ya está siendo condicionada por las políticas arancelarias de la administración Trump, aunque fuera de los canales formales de negociación bilateral. Los ajustes más relevantes al tratado se están configurando a través de presiones unilaterales y decisiones ejecutivas más que en mesas de diálogo convencionales, dejando a México en una posición reactiva. El análisis subraya los riesgos regulatorios y comerciales que enfrenta México ante un entorno de alta incertidumbre en política económica estadounidense.",
+    "link": "https://expansion.mx/opinion/2026/06/23/la-revision-del-t-mec-que-nadie-esta-negociando",
+    "source": "Expansión",
+    "published": "2026-06-23T12:06:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Siete estados que votaron por Trump dependen del T-MEC que ahora pone en riesgo",
     "summary": "Siete estados de EE.UU. que votaron por Donald Trump tienen una alta dependencia económica del comercio bajo el T-MEC, el mismo tratado que Trump ha amenazado con renegociar o debilitar. Esta paradoja política complica la postura negociadora de Washington en la revisión sexenal del acuerdo, ya que actores de la propia base electoral republicana enfrentarían costos directos ante cualquier deterioro comercial. El dato añade un contrapeso doméstico que podría moderar las posiciones más agresivas hacia México en la mesa de negociación.",
     "link": "https://expansion.mx/economia/2026/06/23/siete-estados-votaron-trump-dependen-tmec",
@@ -18,6 +205,28 @@
     "published": "2026-06-23T11:55:30+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las horas extras, son el punto crítico y principal foco de litigio en la Reforma Laboral",
+    "summary": "Las empresas mexicanas iniciaron la cuenta regresiva para reestructurar operaciones ante la Reforma Laboral que reducirá la jornada de 48 a 40 horas semanales en cinco años, con primeras obligaciones vigentes desde el 1 de enero de 2027; el punto crítico es la limitante de 4 horas diarias de tiempo extraordinario, que impacta directamente al 59% de empleados administrativos. Esta restricción obliga a implementar controles de asistencia automatizados y rediseñar turnos, representando un reto dual de cumplimiento regulatorio y mantenimiento de productividad. Las empresas de sectores operacionales intensivos —manufactura, finanzas, servicios— enfrentan los mayores ajustes estructurales.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/horas-extras-son-punto-critico-principal-foco-litigio-reforma-laboral-20260623-819834.html",
+    "source": "El Economista",
+    "published": "2026-06-23T11:30:06-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Talento digital: fuerza laboral se concentra en área de software",
+    "summary": "El 42% del talento digital en México se concentra en el área de software, seguido por perfiles de TIC general (27%), datos (14%) y soporte (11%), según datos de IQSEC e Hireline 2025; los nichos de ciberseguridad e IA tienen alta demanda pero presencia reducida en el mercado laboral. Esta distribución revela brechas estructurales que las empresas deben considerar al diseñar estrategias de adopción de IA y transformación digital, especialmente cuando la escasez de talento especializado eleva costos de contratación y retención. México necesita 83,000 especialistas en ciberseguridad pero solo cuenta con 6,000, lo que subraya la urgencia de inversión en formación.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/talento-digital-fuerza-laboral-concentra-area-software-20260623-819832.html",
+    "source": "El Economista",
+    "published": "2026-06-23T11:12:04-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
     "language": "es",
     "light": false
   },
@@ -121,6 +330,17 @@
     "light": false
   },
   {
+    "title": "US Chip Stocks Plunge as AI Selloff Ripples Across From Asia",
+    "summary": "US chip stocks plunged as a global selloff in chipmakers — sparked by South Korea's 10% Kospi decline and sharp drops in SK Hynix and Samsung — raised doubts about the sustainability of the AI-driven technology rally and triggered broad-based declines in AI-adjacent companies. The market repricing reflects growing investor anxiety about whether AI capital spending commitments will translate into near-term earnings and revenue growth proportionate to current valuations. Major US indexes fell sharply, with the Nasdaq concentrating the heaviest losses among semiconductor and AI platform companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers",
+    "source": "Bloomberg",
+    "published": "2026-06-23T06:16:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Building, Taxing, and Financing: New York City's Recent Measures to Tackle the Housing Crisis",
     "summary": "New York City rolled out housing policies combining zoning adjustments, targeted tax incentives, and public financing mechanisms to address a structural shortage of affordable units in the country's largest urban market. The policy mix illustrates how public authorities leverage fiscal and financing tools alongside private capital to stimulate housing supply — a relevant comparative lens for housing finance markets facing affordability gaps. The framework resonates with challenges facing Mexican cities experiencing nearshoring-driven demand growth and similar affordability pressure.",
     "link": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
@@ -149,6 +369,28 @@
     "source": "Bloomberg",
     "published": "2026-06-23T04:16:22+00:00",
     "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Warsh has a chance to enact lasting reform at the Fed",
+    "summary": "FT opinion argues that incoming Federal Reserve leadership under Kevin Warsh has a rare window to reform the Fed's inflation framework and balance-sheet policy in ways that could structurally reduce long-term monetary uncertainty. Changing how the Fed communicates inflation targets and manages its balance sheet would ripple through global capital markets, affecting borrowing costs, credit spreads, and the investment environment for rate-sensitive sectors. For Mexico and other emerging markets, a more predictable Fed framework would reduce external monetary policy risk and support more stable peso borrowing conditions.",
+    "link": "https://www.ft.com/content/f0b24cda-de76-41c0-9464-ac1dba7633c3",
+    "source": "Financial Times",
+    "published": "2026-06-23T04:00:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Citadel built an energy empire from Enron's ashes",
+    "summary": "Ken Griffin's Citadel built a powerful energy trading and commodities empire by systematically acquiring talent, data, and infrastructure from the ruins of Enron, transforming one of history's largest corporate failures into a foundation for financial dominance in energy markets. The FT traces how Citadel expanded beyond financial trading into direct commodity participation, creating a model that blurs boundaries between hedge funds and commodity producers. The piece is a case study in alternative investment evolution and how sophisticated capital can convert distressed industrial assets into enduring competitive advantage.",
+    "link": "https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda",
+    "source": "Financial Times",
+    "published": "2026-06-23T04:00:21+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
     "light": true
@@ -209,6 +451,17 @@
     "light": true
   },
   {
+    "title": "Stocks Slide as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+    "summary": "Wall Street experienced a sharp reality check as a selloff in major technology giants fueled concern that the AI-driven equity bull market may be overextended, with the S&P 500 and Nasdaq falling sharply in a broad-based global rout that originated in Asian chipmakers and spread through European and US markets. Investors are reassessing whether enterprise AI spending will generate returns quickly enough to justify current multiples for semiconductor and AI platform companies. The episode marks a notable shift in market psychology around the AI investment thesis after an extended period of exuberance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
+    "source": "Bloomberg",
+    "published": "2026-06-22T22:09:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
     "summary": "Oracle disclosed it reduced its global workforce by 21,000 employees over the past 12 months — wider than previously known — explicitly citing AI as replacing some roles, making it one of the clearest corporate admissions of AI-driven job displacement at an enterprise software company. The scale of cuts reflects an accelerating shift where large IT vendors substitute AI tools for human roles in software development, support, and operations. The disclosure adds concrete data to the debate about AI's near-term impact on knowledge worker employment at major technology firms.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000",
@@ -247,6 +500,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular",
     "source": "Bloomberg",
     "published": "2026-06-22T21:03:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How to turn computing power into a financial asset",
+    "summary": "Entrepreneurs, exchange operators, and AI firms are developing tradable financial instruments backed by AI computing capacity, effectively creating a new asset class out of raw processing power that allows capital markets to fund and price the AI infrastructure build-out. These compute-backed instruments could democratize access to AI infrastructure investment and create new risk-transfer mechanisms between AI developers and institutional investors. The emergence of this asset class has broad implications for financial services firms that will need to model AI compute both as a productivity tool and as an investable commodity.",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-computing-power-into-a-financial-asset",
+    "source": "The Economist",
+    "published": "2026-06-22T18:09:55+00:00",
     "category": "AI & Agents",
     "relevance_score": 82,
     "language": "en",
