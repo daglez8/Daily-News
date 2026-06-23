@@ -1,5 +1,137 @@
 [
   {
+    "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul",
+    "summary": "Menlo Ventures closed its largest fund ever at $3 billion, building on a pivotal 2024 bet of $500 million on Anthropic when the AI lab was still considered an underdog rival to OpenAI with little revenue. The raise reflects deepening institutional conviction in AI foundation model providers as a core asset class, validated by Anthropic's subsequent mainstream adoption. The timing is notable with major AI IPOs from OpenAI and Anthropic anticipated on the horizon, rewarding early risk-taking.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
+    "source": "Bloomberg",
+    "published": "2026-06-23T13:00:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Siete estados que votaron por Trump dependen del T-MEC que ahora pone en riesgo",
+    "summary": "Siete estados de EE.UU. que votaron por Donald Trump tienen una alta dependencia económica del comercio bajo el T-MEC, el mismo tratado que Trump ha amenazado con renegociar o debilitar. Esta paradoja política complica la postura negociadora de Washington en la revisión sexenal del acuerdo, ya que actores de la propia base electoral republicana enfrentarían costos directos ante cualquier deterioro comercial. El dato añade un contrapeso doméstico que podría moderar las posiciones más agresivas hacia México en la mesa de negociación.",
+    "link": "https://expansion.mx/economia/2026/06/23/siete-estados-votaron-trump-dependen-tmec",
+    "source": "Expansión",
+    "published": "2026-06-23T11:55:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Abu Dhabi's MGX Raises About $50 Billion to Accelerate AI Deals",
+    "summary": "Abu Dhabi's state-backed investment vehicle MGX has raised close to $50 billion from regional and global investors to accelerate spending on AI infrastructure and technology, making it one of the largest sovereign capital pools dedicated exclusively to AI. The fund signals that Middle Eastern sovereign wealth is making a structural, long-horizon bet on the AI infrastructure buildout rather than opportunistic positions. This capital surge could intensify competition for data center capacity and AI investment deals globally, affecting pricing and availability for other players.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
+    "source": "Bloomberg",
+    "published": "2026-06-23T10:57:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sistema financiero mexicano, blanco de ataques cibernéticos",
+    "summary": "Banxico registra en el primer semestre de 2026 más incidentes de ciberseguridad que en cualquiera de los últimos cuatro años, afectando bancos, SOFIPOs, cooperativas e instituciones diversas. El fenómeno se vincula al sistema de reporte implantado tras el célebre ataque al SPEI, que mejoró la detección, aunque muchas instituciones siguen siendo reacias a compartir información por temor al daño reputacional. La pregunta central —¿más ataques reales o mejor registro?— no resta urgencia a la tendencia: el sector financiero mexicano enfrenta una presión cibernética creciente en 2026.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/06/23/sistema-financiero-mexicano-blanco-de-ataques-ciberneticos/",
+    "source": "El Financiero",
+    "published": "2026-06-23T10:31:45+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La nueva religión de Silicon Valley y el día que la excomulgaron",
+    "summary": "El Departamento de Comercio de EE.UU. ordenó a Anthropic suspender el acceso a sus modelos Fable 5 y Mythos 5 para cualquier persona considerada extranjera bajo las reglas de control de exportaciones; incapaz de garantizar ese filtro en tiempo real, Anthropic terminó desconectando ambos modelos para todos sus clientes en el mundo. El detonante fue un hallazgo de investigadores de Amazon que documentó cómo Fable 5 podía ser manipulado para extraer información útil para ciberataques. El episodio ilustra la tensión creciente entre la regulación de exportaciones de IA y la viabilidad de modelos de negocio globales en frontier AI.",
+    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/06/23/la-nueva-religion-de-silicon-valley-y-el-dia-que-la-excomulgaron/",
+    "source": "El Financiero",
+    "published": "2026-06-23T10:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Digital Euro Clears Key Hurdle to Rollout in EU Parliament",
+    "summary": "European Parliament lawmakers cleared the path for formal negotiations on the legal framework underpinning the digital euro, a project the EU considers vital to its monetary sovereignty vis-à-vis non-European payment systems. The advance brings the ECB closer to full legislative backing for a retail CBDC that would coexist with physical cash across the bloc. For global digital currency architecture, the EU's regulatory template could influence CBDC strategies in other jurisdictions, including Banxico's own digital peso deliberations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/digital-euro-clears-key-hurdle-to-rollout-in-eu-parliament",
+    "source": "Bloomberg",
+    "published": "2026-06-23T10:17:43+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+    "summary": "Oracle reduced its global workforce by 21,000 employees over the past 12 months, with a significant portion of cuts directly attributed to artificial intelligence replacing previously human-held roles — a wider reduction than previously disclosed. The scale makes Oracle one of the most visible enterprise examples of AI-driven labor displacement at scale in a major technology company. This has direct implications for financial services firms weighing AI adoption strategies and the organizational redesign consequences that follow.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+    "source": "Bloomberg",
+    "published": "2026-06-23T10:11:57+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
+    "summary": "BBVA is completing a $2 billion significant risk transfer (SRT) linked to its rapidly expanding portfolio of AI-related lending, transferring credit risk from AI infrastructure loans to market investors. The deal positions BBVA as an early mover in treating AI sector credit exposure as a distinct asset class requiring dedicated capital market risk management tools. For banks with growing AI-linked loan books — including those operating in Mexico — this SRT structure could become a template for managing AI concentration risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt",
+    "source": "Bloomberg",
+    "published": "2026-06-23T10:05:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Taps Employee Alumni Network With AI Startup Incubator",
+    "summary": "Alphabet's Google launched an AI startup incubator targeted at former employees, leveraging one of Silicon Valley's largest and most influential alumni networks to build a strategic pipeline into early-stage AI ventures. The initiative goes beyond traditional corporate venture by channeling institutional knowledge into AI-native startups, potentially giving Google early access to emerging technologies from deeply informed founders. This reflects the intensification of Big Tech's race to build sustainable moats in the AI ecosystem beyond in-house R&D.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
+    "source": "Bloomberg",
+    "published": "2026-06-23T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Allianz CIO Sees Markets Pricing 'Darwinian Effect of AI'",
+    "summary": "Allianz's chief investment officer described current market dynamics as pricing in a 'Darwinian effect of AI,' where rapid competitive pressures will swiftly create decisive winners and losers across technology and the industries it disrupts. The interview also covered central bank policy and inflation implications as AI reshapes productivity expectations at a macro level. The framework offers useful language for evaluating how AI-exposed equities and financial services firms should be positioned through the current bout of AI valuation volatility.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/allianz-sees-markets-pricing-darwinian-effect-of-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-06-23T08:53:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México va por 6 mil 300 millones de dólares en los mercados internacionales",
+    "summary": "México lanzó una colocación de bonos internacionales por 6,300 millones de dólares: 4,800 millones a 2037 a 185 pb sobre Tesoros y 1,500 millones a 2056 a 195 pb, ambos por debajo de la guía inicial tras demanda robusta de inversores. Los recursos se destinarán a recomprar deuda en dólares con vencimiento en 2027 y 2028, y bonos en euros a 2029, en una operación estratégica de manejo de pasivos. La transacción ocurre bajo la mirada crítica de las calificadoras, que advierten sobre el creciente déficit fiscal y el riesgo para el grado de inversión soberano de México.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/23/mexico-va-por-6-mil-300-millones-de-dolares-en-los-mercados-internacionales/",
+    "source": "El Financiero",
+    "published": "2026-06-23T08:11:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Building, Taxing, and Financing: New York City's Recent Measures to Tackle the Housing Crisis",
+    "summary": "New York City rolled out housing policies combining zoning adjustments, targeted tax incentives, and public financing mechanisms to address a structural shortage of affordable units in the country's largest urban market. The policy mix illustrates how public authorities leverage fiscal and financing tools alongside private capital to stimulate housing supply — a relevant comparative lens for housing finance markets facing affordability gaps. The framework resonates with challenges facing Mexican cities experiencing nearshoring-driven demand growth and similar affordability pressure.",
+    "link": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
+    "source": "ArchDaily",
+    "published": "2026-06-23T05:30:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Petróleo de México cae tras permiso de EE.UU. a Irán para vender crudo",
     "summary": "La Mezcla Mexicana de Exportación cayó a US$72 por barril después de que EE.UU. otorgó a Irán una licencia para exportar crudo como parte del acuerdo de paz, presionando los ingresos petroleros del gobierno mexicano. Cada dólar de variación en el precio del barril impacta en US$600 millones las finanzas públicas, según Hacienda. Wood Mackenzie proyecta que el Brent promediará US$78 en 2027 pero podría descender a US$70 en el cuarto trimestre.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petroleo-de-mexico-cae-tras-permiso-de-eeuu-a-iran-para-vender-crudo/",
@@ -86,6 +218,17 @@
     "relevance_score": 83,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "México activa el comercio preferencial con Reino Unido bajo el CPTPP",
+    "summary": "México activó el régimen de acceso preferencial con el Reino Unido en el marco del CPTPP, abriendo condiciones arancelarias más favorables para bienes y servicios mexicanos en el mercado británico. El acuerdo diversifica la canasta de socios comerciales de México en un contexto de elevada incertidumbre sobre el T-MEC con EE.UU. y la revisión sexenal en curso. Para el sector financiero y de servicios, el CPTPP ofrece un canal adicional de internacionalización y puede facilitar flujos de inversión británicos hacia México.",
+    "link": "https://expansion.mx/economia/2026/06/22/mexico-activa-comercio-preferencial-reino-unido-bajo-cptpp",
+    "source": "Expansión",
+    "published": "2026-06-22T21:12:24+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Media Consolidation in Its 'Middle Innings': Tom Ara",
