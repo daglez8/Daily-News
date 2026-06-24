@@ -1,5 +1,104 @@
 [
   {
+    "title": "Fed Says Basis Trade Key Driver of Hedge Fund Treasury Exposure",
+    "summary": "The Federal Reserve identified the cash-futures basis trade as the primary driver of hedge funds' growing exposure to U.S. Treasuries, highlighting structural concentration risks in fixed-income markets. The basis trade—which exploits price differences between Treasury futures and cash bonds using high leverage—has historically been associated with episodes of acute market stress. This finding underscores continued regulatory attention to leveraged arbitrage strategies as a potential source of systemic risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-says-basis-trade-key-driver-of-hedge-fund-treasury-exposure",
+    "source": "Bloomberg",
+    "published": "2026-06-24T18:45:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SPAC Deals Seen as Key Path to Public Market in Data Center Boom",
+    "summary": "SPAC transactions are re-emerging as a favored route to public markets for AI data center companies, according to veteran blank-check dealmaker Betsy Cohen. The revival reflects investor appetite for AI infrastructure plays that may not yet qualify for traditional IPO routes. This trend illustrates how the AI capital markets ecosystem is innovating to bring emerging players in the AI buildout to public investors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/spac-deals-seen-as-key-path-to-public-market-in-data-center-boom",
+    "source": "Bloomberg",
+    "published": "2026-06-24T18:36:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump scraps signing of US housing affordability bill",
+    "summary": "President Trump canceled the signing of a bipartisan housing affordability bill designed to boost supply and curb institutional investors' role in the U.S. property market. The legislation represented a rare area of cross-party agreement on tackling the housing crisis, making its collapse a significant setback for reform efforts. The decision signals continued policy paralysis on housing affordability, with implications for mortgage origination volumes and the broader real estate finance market.",
+    "link": "https://www.ft.com/content/771adcdd-03e9-4c59-9bf1-49b3a52cc2bd",
+    "source": "Financial Times",
+    "published": "2026-06-24T18:28:53+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
+    "summary": "Two senior AI researchers from Google's Gemini team—Jonas Adler and Alexander Pritzel—are set to join Anthropic, maker of Claude, in a move that accelerates the ongoing talent shift from Big Tech to frontier AI labs. The departures add to a pattern of high-profile exits that risk undermining Google's competitive position in generative AI at a critical juncture. This brain drain underscores the fierce competition for top AI talent between Alphabet and startups like Anthropic.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+    "source": "Bloomberg",
+    "published": "2026-06-24T18:18:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Warren to Call for Antitrust Scrutiny of AI, Deal Review Revamp",
+    "summary": "Senator Elizabeth Warren plans to urge Congress to strengthen antitrust enforcement on AI companies and overhaul merger review procedures, including making more deal information public. The proposal targets growing consolidation in the AI sector where large tech incumbents are increasingly acquiring startups and talent. Legislative scrutiny of AI M&A could slow deal timelines and raise the bar for acquisitions involving frontier AI capabilities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/warren-to-call-for-antitrust-scrutiny-of-ai-deal-review-revamp",
+    "source": "Bloomberg",
+    "published": "2026-06-24T18:00:02+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed's Bowman Finalizes Moves to Reshape Bank-Supervision Unit",
+    "summary": "Federal Reserve Vice Chair for Supervision Michelle Bowman completed a restructuring of the Fed's bank oversight division, reorienting it toward what she considers core financial risks. The reorganization reflects a shift in supervisory philosophy under new Fed leadership toward a more targeted, risk-focused examination approach. Banks operating in the U.S. should anticipate changes in examination intensity and priority areas as the new framework takes effect.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-s-bowman-finalizes-moves-to-reshape-bank-supervision-unit",
+    "source": "Bloomberg",
+    "published": "2026-06-24T17:39:18+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso profundiza sus pérdidas ante el dólar previo a decisión de Banxico",
+    "summary": "El peso mexicano se depreció 0.26% frente al dólar, ubicándose en 17.59 unidades, en un contexto de inflación mejor a lo esperado (3.55% vs. estimado de 3.72%) pero con expectativas de que Banxico no modifique su tasa de interés en la próxima reunión. Analistas señalan que el diferencial de tasas podría reducirse si la Fed o el Banco de Japón elevan sus tasas, disminuyendo los incentivos del carry trade y presionando a la divisa. El tipo de cambio sigue bajo atención ante la incertidumbre sobre la trayectoria de política monetaria y los flujos de capital.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/24/peso-dolar-precio-hoy-24-de-junio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-06-24T17:30:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cerebras CEO Says Capacity Is Largest Constraint Right Now",
+    "summary": "Cerebras CEO Andrew Feldman disclosed that capacity—not demand—is the company's primary bottleneck after shares fell on a disappointing annual revenue forecast that missed investor expectations for AI data center market share. The results mark Cerebras' first quarterly earnings since going public, setting a benchmark for AI chip challengers competing with Nvidia. The admission highlights execution risks for emerging semiconductor companies trying to scale amid explosive AI infrastructure demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-24/cerebras-ceo-capacity-is-largest-constraint-right-now-video",
+    "source": "Bloomberg",
+    "published": "2026-06-24T17:07:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sheinbaum destaca dato de inflación en México: 'Es un trabajo permanente para bajar los precios'",
+    "summary": "La inflación en México se ubicó en 3.55% en la primera quincena de junio, por debajo del 3.72% estimado por analistas y en su nivel más bajo desde octubre de 2025, encadenando seis quincenas consecutivas a la baja. La presidenta Sheinbaum atribuyó la mejora al programa PACIC de control de precios de la canasta básica, acuerdos en combustibles y negociaciones directas con productores agrícolas. El dato amplía el margen de Banxico para continuar su ciclo de relajamiento monetario, aunque la reunión inmediata no anticipa cambios en la tasa.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/06/24/claudia-sheinbaum-mananera-temas-hoy-24-de-junio-de-2026-en-vivo/",
+    "source": "El Financiero",
+    "published": "2026-06-24T16:14:12+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
     "summary": "OpenAI unveiled its first custom AI chip developed in partnership with Broadcom, aimed at running its models faster and at lower cost. The move signals OpenAI's strategy to gain competitive advantage by tailoring hardware specifically to its products. This marks a significant step toward vertical integration in AI infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper",
@@ -9,6 +108,17 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CFE obtiene línea de crédito de 500 millones de dólares",
+    "summary": "El BCIE aprobó una línea de crédito preferencial de hasta 500 millones de dólares para la CFE, destinada a financiar proyectos de generación eléctrica de ciclo combinado y combustión interna de alta eficiencia en el marco de la transición energética. La estructura contempla condiciones de largo plazo que alinean las obligaciones financieras con la vida útil de los activos productivos, fortaleciendo la posición de deuda de la empresa estatal. La operación consolida al BCIE como socio financiero estratégico de la CFE y apuntala su plan de expansión de capacidad instalada.",
+    "link": "https://www.eleconomista.com.mx/empresas/cfe-obtiene-linea-credito-500-millones-dolares-20260624-820053.html",
+    "source": "El Economista",
+    "published": "2026-06-24T12:56:24-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "FinCEN: el golpe que cambió la banca",
@@ -22,6 +132,28 @@
     "light": false
   },
   {
+    "title": "Memory Chipmaker SK Hynix's $29 Billion US Listing Seizes on AI Demand",
+    "summary": "South Korea's SK Hynix is seeking $29.4 billion in a landmark U.S. stock listing to capitalize on AI-driven demand for high-bandwidth memory chips, coming even after a major selloff hit semiconductor stocks this week. The offering would be among the largest U.S. IPOs in history and signals South Korean chipmakers' intent to deepen ties with American capital markets amid the AI investment supercycle. The listing reflects continued bullish structural sentiment on AI memory demand despite near-term valuation volatility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy",
+    "source": "Bloomberg",
+    "published": "2026-06-24T12:48:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Semarnat aplica veda de 20 años en Holbox y rechaza hotel de palafitos",
+    "summary": "La Semarnat negó la autorización de un proyecto de hotel de 49 palafitos sobre 331 hectáreas en la Isla Grande de Holbox, activando una veda forestal de 20 años derivada del incendio que consumió entre 670 y 700 hectáreas en 2025. El rechazo se fundamenta en la contravención de normas de uso de suelo en el Área de Protección de Flora y Fauna Yum Balam y en la prohibición legal de cambio de uso de suelo durante dos décadas tras un incendio forestal. La decisión marca un precedente relevante para el mercado inmobiliario y turístico de la zona norte de Quintana Roo.",
+    "link": "https://www.eleconomista.com.mx/estados/semarnat-aplica-veda-20-anos-holbox-rechaza-hotel-palafitos-20260624-820051.html",
+    "source": "El Economista",
+    "published": "2026-06-24T12:46:20-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools",
     "summary": "Microsoft reported that its Copilot AI tools helped investigators defeat old malware technology and dismantle cybercrime infrastructure. This highlights a growing enterprise use case of AI in active cybersecurity operations, moving beyond detection into takedown capability. The development underscores AI's expanding role in financial-sector risk management and regulatory compliance.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
@@ -31,6 +163,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El valor de producción de constructora rompió en abril racha de 23 caídas a tasa anual; creció 0.4%",
+    "summary": "El sector constructor en México registró en abril su primer crecimiento anual en casi dos años (+0.4%), rompiendo una racha de 23 caídas consecutivas impulsado por obras de agua, riego, electricidad y petroquímica. El avance fue detonado por el alza de 8.7% en obras de agua y saneamiento y un incremento de 9.8% en electricidad y comunicaciones, aunque edificación y transporte —que representan más de la mitad del total— mostraron resultados negativos. El sector comienza a visualizar una recuperación incipiente apuntalada por obra pública, aunque desigual por rubro.",
+    "link": "https://www.eleconomista.com.mx/empresas/valor-produccion-constructora-rompio-abril-racha-23-caidas-tasa-anual-crecio-0-20260624-820049.html",
+    "source": "El Economista",
+    "published": "2026-06-24T12:29:05-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Qualcomm to Buy Modular For $3.9 Billion to Help AI Push",
@@ -132,6 +275,28 @@
     "light": true
   },
   {
+    "title": "Micron Earnings Take on New Gravity With Market on Edge Over AI",
+    "summary": "Micron Technology's quarterly earnings became a pivotal market event as investors sought signals on whether the AI investment rally is sustainable after chipmaker stocks suffered a major selloff. With Micron shares up nearly 300% in 2026 on AI data center demand, the results are seen as a bellwether for the entire AI hardware cycle and the health of memory chip markets. A disappointing forecast could trigger further derisking in AI-related equities across the semiconductor sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-earnings-take-on-new-gravity-with-market-on-edge-over-ai",
+    "source": "Bloomberg",
+    "published": "2026-06-24T08:07:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Paris as a Living Laboratory: Proximity, Inclusion, and the School as Climate and Social Infrastructure",
+    "summary": "Paris is one of nine cities in ReGreeneration, a Horizon Europe project advancing urban regeneration through nature-based solutions, participatory governance, and integrated climate resilience. The article explores Paris's approach to proximity urbanism and the role of schools as climate and social infrastructure in densely built neighborhoods, with examples including Herzog & de Meuron's Tour Triangle. The project draws lessons from Paris's sustainability transformation for broader application across European city typologies.",
+    "link": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
+    "source": "ArchDaily",
+    "published": "2026-06-24T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Inflación se desaceleró por sexta quincena consecutiva; se ubicó en 3.55% en la primera mitad de junio",
     "summary": "La inflación en México se ubicó en 3.55% anual en la primera quincena de junio, acumulando seis desaceleraciones consecutivas y manteniéndose dentro del objetivo de Banxico de 3% ±1 punto porcentual. El INPC registró una variación de -0.11% quincenal, el primer descenso a mediados de junio desde 2013. Economistas señalan que el proceso de desinflación se ha reanudado, acercando la inflación al punto medio del rango objetivo del banco central.",
     "link": "https://www.eleconomista.com.mx/economia/inflacion-desacelero-sexta-quincena-consecutiva-ubico-3-55-primera-mitad-junio-20260624-819997.html",
@@ -194,6 +359,17 @@
     "published": "2026-06-24T06:00:00+00:00",
     "category": "Personal Interest Watchlist",
     "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Park Reimagines the Interiors of Milano Centrale, Mussolini's Fascist-Era Rail Monument",
+    "summary": "Italian interdisciplinary collective Park has been selected to redesign the ground floor and mezzanine levels of Milano Centrale, Italy's monumental Fascist-era station built in 1931, following a private competition by Grandi Stazioni Retail. The project aims to transform the landmark into a contemporary urban platform while engaging with its imposing historical architecture. The renovation offers a compelling case study in how to update heritage civic infrastructure for 21st-century mixed-use purposes.",
+    "link": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
+    "source": "ArchDaily",
+    "published": "2026-06-24T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
     "language": "en",
     "light": false
   },
@@ -264,6 +440,17 @@
     "light": true
   },
   {
+    "title": "Venezuela to reveal $240bn debt pile in world's largest restructuring",
+    "summary": "Venezuela is preparing to disclose a $240 billion debt burden—far exceeding what was publicly known under the Maduro regime—following the political transition after Maduro's overthrow. The scale would make this the world's largest-ever sovereign debt restructuring, dwarfing prior cases such as Argentina's. Investors in Venezuelan bonds and Latin American debt markets are closely watching for precedent-setting outcomes on haircuts and recovery rates.",
+    "link": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
+    "source": "Financial Times",
+    "published": "2026-06-24T04:00:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "How HSBC ended up at the centre of a $330mn embezzlement scandal",
     "summary": "HSBC's Swiss unit is under formal investigation over whether it helped facilitate a $330 million embezzlement scheme allegedly orchestrated by Lebanon's central bank governor. The case highlights ongoing conduct risk in private banking and compliance failures at major international institutions. It comes as regulatory scrutiny of AML frameworks and correspondent banking relationships continues to intensify globally.",
     "link": "https://www.ft.com/content/cb6413a7-f76e-49dc-9644-3e3ac8fee2e8",
@@ -273,6 +460,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Function Follows Form: Designing Adaptive Buildings That Outlast Their Original Use",
+    "summary": "An Amsterdam building designed for elderly residents was successfully repurposed for young families shortly after completion, offering a case study in adaptive design: buildings with generous spaces and flexible structures can accommodate uses entirely different from their original program. Architects Tom Frantzen and Karel van Eijken argue that formal generosity—rather than programmatic specificity—enables buildings to resist obsolescence without destructive renovation. The article makes the case for a design philosophy where longevity and adaptability are embedded in structure and proportion from the outset.",
+    "link": "https://www.archdaily.com/1042664/function-follows-form-designing-adaptive-buildings-that-outlast-their-original-use",
+    "source": "ArchDaily",
+    "published": "2026-06-24T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gain",
@@ -746,6 +944,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CIBC Square / WilkinsonEyre",
+    "summary": "CIBC Square is a major 330,000 m² mixed-use complex in Toronto, Ontario designed by WilkinsonEyre and completed in 2026. The project, developed for a leading Canadian financial institution, represents one of the largest corporate real estate developments recently completed in North America. The building exemplifies contemporary corporate campus and transit-oriented design in a major financial hub.",
+    "link": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
+    "source": "ArchDaily",
+    "published": "2026-06-23T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Allianz CIO Sees Markets Pricing 'Darwinian Effect of AI'",
