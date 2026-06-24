@@ -1,5 +1,159 @@
 [
   {
+    "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
+    "summary": "OpenAI unveiled its first custom AI chip developed in partnership with Broadcom, aimed at running its models faster and at lower cost. The move signals OpenAI's strategy to gain competitive advantage by tailoring hardware specifically to its products. This marks a significant step toward vertical integration in AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper",
+    "source": "Bloomberg",
+    "published": "2026-06-24T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "FinCEN: el golpe que cambió la banca",
+    "summary": "Se cumple un año desde que FinCEN señaló a CIBanco, Intercam Banco y Vector Casa de Bolsa como entidades de preocupación por presunto lavado de dinero vinculado al fentanilo, la primera aplicación de la Ley FEND Off Fentanyl. La medida provocó restricciones a transferencias y un aislamiento parcial del sistema bancario estadounidense para estas instituciones, en lo que la autora denomina un 'apagón financiero' gradual. Un año después, el sistema financiero mexicano sigue procesando cambios en regulaciones y medidas de prevención de lavado de dinero como consecuencia directa.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/06/24/fincen-el-golpe-que-cambio-la-banca/",
+    "source": "El Financiero",
+    "published": "2026-06-24T12:50:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools",
+    "summary": "Microsoft reported that its Copilot AI tools helped investigators defeat old malware technology and dismantle cybercrime infrastructure. This highlights a growing enterprise use case of AI in active cybersecurity operations, moving beyond detection into takedown capability. The development underscores AI's expanding role in financial-sector risk management and regulatory compliance.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
+    "source": "Bloomberg",
+    "published": "2026-06-24T12:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Qualcomm to Buy Modular For $3.9 Billion to Help AI Push",
+    "summary": "Qualcomm announced a $3.9 billion all-stock deal to acquire AI software company Modular Inc., adding software capabilities to bolster its push into data centers. The acquisition reflects Qualcomm's strategy to compete in the AI infrastructure market by integrating hardware and software. This is a significant AI-adjacent M&A transaction with implications for the broader enterprise AI stack.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push",
+    "source": "Bloomberg",
+    "published": "2026-06-24T12:00:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
+    "summary": "Meta and Microsoft each committed tens of billions in additional data center leases in their most recent quarters, contributing to an $850 billion boom in AI infrastructure spending. The massive commitments reflect competitive pressure on hyperscalers to secure compute capacity ahead of demand. This capex surge is reshaping commercial real estate and infrastructure investment globally.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases",
+    "source": "Bloomberg",
+    "published": "2026-06-24T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La interminable caída de la inversión",
+    "summary": "La formación bruta de capital fijo en México se contrajo 1.9% trimestral y 3.0% anual en el primer trimestre de 2026, acumulando seis trimestres consecutivos en negativo, exactamente los que lleva la administración actual. La inversión privada cayó 4.5% anual, aunque la inversión pública sorprendió con un repunte de 6.7%, su primer avance tras cuatro trimestres de caídas de doble dígito. La persistente debilidad de la inversión privada sigue siendo el principal lastre del crecimiento y el crédito productivo en México.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/06/24/la-interminable-caida-de-la-inversion/",
+    "source": "El Financiero",
+    "published": "2026-06-24T10:41:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "MGX Sets Up $50 Billion AI Fund",
+    "summary": "Abu Dhabi's MGX has raised close to $50 billion from regional and global investors to create one of the largest ever dedicated AI investment vehicles. The fund marks a significant new capital pool targeting AI companies and infrastructure globally, signaling that sovereign wealth is now a primary driver of AI financing. The scale of sovereign involvement suggests AI investment has moved firmly into mainstream institutional asset management.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-24/mgx-sets-up-50-billion-ai-fund-video",
+    "source": "Bloomberg",
+    "published": "2026-06-24T10:34:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Scammers Are Using AI to Create Fake Auto Loan Documents",
+    "summary": "AI-generated fake auto loan documents are becoming a growing problem for US auto lenders already facing the highest delinquency rates in years. Fraudsters are using AI tools to create convincing falsified loan applications, complicating lenders' risk assessment and fraud detection systems. The trend has direct implications for any financial institution operating in consumer credit, highlighting emerging model risk from AI-enabled document fraud.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/ai-auto-loan-fraud-is-rising-as-lenders-struggle-with-delinquencies",
+    "source": "Bloomberg",
+    "published": "2026-06-24T10:30:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Billionaires Score Win in $29 Million New York Proxy Fight",
+    "summary": "AI billionaires including Marc Andreessen and OpenAI President Greg Brockman backed a candidate who won a $29 million New York congressional primary, defeating a pro-regulation Democrat. The race became an explicit proxy battle over AI regulation policy, with Silicon Valley deploying political capital to shape the legislative landscape. The outcome signals that the AI industry is increasingly willing to invest politically to steer its regulatory environment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ai-billionaires-score-win-in-29-million-new-york-proxy-fight",
+    "source": "Bloomberg",
+    "published": "2026-06-24T10:30:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fintech Unicorn Is Said to Tap Citi and EFG for Cairo Listing",
+    "summary": "Egyptian fintech unicorn MNT-Halan is planning an IPO of its Egyptian business in Cairo as soon as this year, tapping Citi and EFG as bankers. The deal is part of a broader wave of fintech IPOs in emerging markets where access to capital is expanding. MNT-Halan's listing would be a notable benchmark transaction for EM fintech valuations and investor appetite.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/fintech-unicorn-is-said-to-tap-citi-and-efg-for-cairo-listing",
+    "source": "Bloomberg",
+    "published": "2026-06-24T10:27:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La economía también anotó",
+    "summary": "El Indicador Global de la Actividad Económica (IGAE) de México creció 2.2% anual en abril, su mejor lectura del año, con avances tanto en cifras desestacionalizadas mensuales como anuales. El columnista señala que la acumulación de indicadores positivos sugiere que la economía comienza a recuperar terreno tras un largo período de debilidad. El efecto del Mundial 2026 contribuye a impulsar el consumo doméstico, aunque el autor advierte que una golondrina no hace verano.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/24/la-economia-tambien-anoto/",
+    "source": "El Financiero",
+    "published": "2026-06-24T10:07:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
+    "summary": "SK Hynix plans to raise $29.4 billion in a landmark US listing — potentially one of the top five largest share sales of all time — to fund capacity expansion for AI memory chip demand, with trading expected to start July 10. The deal underscores the massive capital requirements of the AI supply chain and strong investor appetite for AI-adjacent infrastructure. It comes days after SK Hynix shares were among the hardest hit in the recent AI-driven market selloff.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+    "source": "Bloomberg",
+    "published": "2026-06-24T08:15:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inflación se desaceleró por sexta quincena consecutiva; se ubicó en 3.55% en la primera mitad de junio",
+    "summary": "La inflación en México se ubicó en 3.55% anual en la primera quincena de junio, acumulando seis desaceleraciones consecutivas y manteniéndose dentro del objetivo de Banxico de 3% ±1 punto porcentual. El INPC registró una variación de -0.11% quincenal, el primer descenso a mediados de junio desde 2013. Economistas señalan que el proceso de desinflación se ha reanudado, acercando la inflación al punto medio del rango objetivo del banco central.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-desacelero-sexta-quincena-consecutiva-ubico-3-55-primera-mitad-junio-20260624-819997.html",
+    "source": "El Economista",
+    "published": "2026-06-24T06:54:22-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dólar toca pico de 13 meses, impulsado por expectativas sobre tasas y declive bursátil",
+    "summary": "El índice dólar tocó 101.71 unidades, su máximo en 13 meses, impulsado por expectativas de alzas adicionales de la Fed y la búsqueda de refugio ante la volatilidad bursátil en sectores tecnológicos y de semiconductores. Los inversores se mostraron nerviosos ante liquidaciones en acciones vinculadas a la IA, lo que desencadenó demanda de activos de refugio como el dólar y los bonos. La situación se ve agravada por incertidumbre en torno a puntos clave del acuerdo entre Estados Unidos e Irán.",
+    "link": "https://www.eleconomista.com.mx/mercados/dolar-toca-pico-13-meses-impulsado-expectativas-sobre-tasas-declive-bursatil-20260624-819996.html",
+    "source": "El Economista",
+    "published": "2026-06-24T06:49:16-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters",
     "summary": "US technology stocks were poised to rebound Wednesday after concerns about AI valuations wiped out nearly $1.3 trillion from Nasdaq 100 market caps over two sessions. The selloff reflected growing investor anxiety over whether massive AI infrastructure spending will translate into commensurate earnings. Micron Technology's upcoming results stand as the immediate catalyst the sector is watching.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
@@ -20,6 +174,28 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "SpaceX lanza oferta de bonos por 25,000 millones de dólares para pagar deuda y expanderse en la IA",
+    "summary": "SpaceX lanzó una emisión de bonos en cinco tramos buscando recaudar al menos 25,000 millones de dólares para financiar su expansión en inteligencia artificial, que requiere inversiones masivas en centros de datos, hardware computacional e infraestructura energética. Los bonos sénior no garantizados tienen vencimientos a 5, 7, 10, 20 y 30 años, y la demanda superó los 85,000 millones de dólares. Es la primera emisión con calificación de inversión de SpaceX, gestionada por Bank of America, Citi, JP Morgan, Goldman Sachs y Morgan Stanley.",
+    "link": "https://www.eleconomista.com.mx/mercados/spacex-lanza-oferta-bonos-25-000-millones-dolares-pagar-deuda-expandirse-ia-20260624-819995.html",
+    "source": "El Economista",
+    "published": "2026-06-24T06:41:36-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casa Meyra / Di Frenna Arquitectos",
+    "summary": "Casa Meyra is a 360 m² residential project by Di Frenna Arquitectos located in Colima, Mexico, completed in 2025 and photographed by Lorena Darquea. The project represents contemporary Mexican residential architecture by a practice with a distinct regional identity. It is a notable example of high-quality single-family design from a Mexican architecture firm outside the capital.",
+    "link": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-06-24T06:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Consejos de administración en tiempos de incertidumbre: el mapa y la brújula",
@@ -88,6 +264,17 @@
     "light": true
   },
   {
+    "title": "How HSBC ended up at the centre of a $330mn embezzlement scandal",
+    "summary": "HSBC's Swiss unit is under formal investigation over whether it helped facilitate a $330 million embezzlement scheme allegedly orchestrated by Lebanon's central bank governor. The case highlights ongoing conduct risk in private banking and compliance failures at major international institutions. It comes as regulatory scrutiny of AML frameworks and correspondent banking relationships continues to intensify globally.",
+    "link": "https://www.ft.com/content/cb6413a7-f76e-49dc-9644-3e3ac8fee2e8",
+    "source": "Financial Times",
+    "published": "2026-06-24T04:00:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gain",
     "summary": "Chinese AI model maker Zhipu is considering a multi-billion dollar share sale in Hong Kong after its stock surged 2,000% since its January listing, making it one of the most dramatic AI valuation stories in global markets. The potential offering would test international institutional appetite for Chinese AI companies amid persistent US-China tech tensions and export control uncertainty. The story highlights the divergence between exuberant AI equity valuations in China's domestic market and the geopolitical uncertainty that clouds cross-border AI investment.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
@@ -106,6 +293,17 @@
     "published": "2026-06-24T01:46:16+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Vientos de crisis fiscal",
+    "summary": "La deuda pública de México casi se ha duplicado de 2018 a la fecha, alcanzando 18,681 miles de millones de pesos en abril de 2026, con un ritmo de endeudamiento que en 2025 llegó a 2,133 mil millones de pesos anuales. Los ingresos del erario cayeron 2.2% real en abril contra el año anterior, mientras el gasto subió 1.4% impulsado por servicios personales, subsidios y jubilaciones. El espacio fiscal se está agotando y la inversión física cayó 18.4%, lo que limita la capacidad del gobierno para impulsar crecimiento productivo.",
+    "link": "https://www.eleconomista.com.mx/opinion/vientos-crisis-fiscal-20260624-819985.html",
+    "source": "El Economista",
+    "published": "2026-06-24T01:21:35-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -217,6 +415,28 @@
     "category": "AI & Agents",
     "relevance_score": 65,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "México aprovecha el desplome chino en EU para ganar comercio en 22 industrias",
+    "summary": "México ha ganado participación de mercado en Estados Unidos en 22 industrias, aprovechando la contracción del comercio chino con ese país en el contexto del nearshoring. Este avance refleja la reconfiguración de cadenas de suministro en favor de México, con implicaciones directas para la demanda de bienes raíces industriales, crédito empresarial y financiamiento de infraestructura. La tendencia posiciona a México como el principal beneficiario de la diversificación comercial en Norteamérica.",
+    "link": "https://expansion.mx/economia/2026/06/23/mexico-gana-comercio-eu-china-22-industrias",
+    "source": "Expansión",
+    "published": "2026-06-23T20:49:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
+    "summary": "La Secretaría de Hacienda llevó a cabo una recompra de bonos de deuda externa por 6,300 millones de dólares, una operación de gestión de pasivos relevante para el perfil de deuda soberana de México. Este tipo de operaciones reduce el saldo de bonos externos, mejora el perfil de vencimientos y puede señalizar confianza gubernamental en la disponibilidad de liquidez. La operación tiene implicaciones para los diferenciales de crédito soberano de México y el mercado de bonos en moneda extranjera.",
+    "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
+    "source": "Expansión",
+    "published": "2026-06-23T19:42:42+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
     "light": true
   },
   {
