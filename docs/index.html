@@ -642,6 +642,9 @@ async function boot(){
     if (fresh > 0) toast(`${fresh} new ${fresh === 1 ? 'story' : 'stories'} just arrived.`);
   }), 10 * 60 * 1000);
 }
+// Auto-refresh when you return to the tab or reopen it from cache — fixes "I opened it and it's stale".
+window.addEventListener('pageshow', e => { if (e.persisted) loadData(); });
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') loadData(); });
 boot();
 </script>
 </body>
