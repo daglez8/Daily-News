@@ -1,5 +1,269 @@
 [
   {
+    "title": "Micron posts 15-fold profit surge in boost for global AI stocks",
+    "summary": "Micron reported a 15-fold jump in profits driven by sustained AI demand for computer memory chips, with its sales forecast far exceeding Wall Street expectations. The blowout results boosted AI-related stocks across global markets, reinforcing investor confidence in the semiconductor sector as a core AI infrastructure beneficiary. The chipmaker's guidance signals that AI-fueled memory shortages are expected to persist.",
+    "link": "https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a",
+    "source": "Financial Times",
+    "published": "2026-06-25T04:54:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿'Guerra' por la IA? Anthropic acusa a Alibaba de intentar acceder a Claude con miles de cuentas falsas",
+    "summary": "Anthropic acusó a Alibaba de orquestar 28.8 millones de transacciones a través de casi 25,000 cuentas fraudulentas entre abril y junio para acceder ilícitamente a su modelo Claude, en lo que describió como el mayor intento documentado de una empresa china de explotar laboratorios de IA estadounidenses. La campaña, vinculada al laboratorio Qwen de Alibaba, apuntó específicamente a las capacidades de ingeniería de software y razonamiento automatizado de Claude. Anthropic comunicó el hallazgo a senadores estadounidenses y funcionarios de la Casa Blanca.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/06/24/guerra-por-la-ia-anthropic-acusa-a-alibaba-de-intentar-acceder-a-claude-con-miles-de-cuentas-falsas/",
+    "source": "El Financiero",
+    "published": "2026-06-25T03:59:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fuga de talentos: Google está a punto de perder a dos empleados del equipo de IA; irán a Anthropic",
+    "summary": "Los investigadores Jonas Adler y Alexander Pritzel, miembros clave del equipo del modelo Gemini de Google, se unirán a Anthropic, sumándose a una ola de salidas que ya incluye al Nobel John Jumper y al investigador Noam Shazeer. Adler lideraba la programación de IA y Pritzel participaba en el entrenamiento de sistemas de inteligencia artificial de Google. La fuga agrava el reto competitivo de Google frente a Anthropic y OpenAI en el segmento de talento de IA de élite.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/24/fuga-de-talentos-google-esta-a-punto-de-perder-a-dos-empleados-del-equipo-de-ia-iran-a-anthropic/",
+    "source": "El Financiero",
+    "published": "2026-06-25T03:52:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alibaba Slides to 16-Month Low After Anthropic's AI Accusations",
+    "summary": "Alibaba shares dropped to a 16-month low in Hong Kong after Anthropic publicly accused the Chinese tech giant of illicitly accessing its Claude AI model through thousands of fraudulent accounts linked to its Qwen AI lab. The market reaction reflects investor concern over potential US regulatory and trade consequences for Alibaba's AI operations. The allegations add new friction to Alibaba's efforts to establish Qwen as a leading AI model.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model",
+    "source": "Bloomberg",
+    "published": "2026-06-25T03:28:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kioxia Plans New US Listing in Spring, Stock Split at Home",
+    "summary": "Kioxia plans to offer US depositary shares in spring 2027 and execute a stock split in Japan to capitalize on surging investor demand for AI-related memory chip stocks. The move follows strong market appetite seen in rival SK Hynix's $29.4 billion US listing and Micron's blowout quarterly results. Kioxia's strategy underscores how AI infrastructure demand is prompting memory chipmakers to access deeper US capital markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring",
+    "source": "Bloomberg",
+    "published": "2026-06-25T02:34:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DigitalBridge Is Said to Explore Options for AIMS Data Centre",
+    "summary": "DigitalBridge is weighing options for Malaysia's AIMS Data Centre, including capital raises, bringing in new investors, or an outright sale. The exploration reflects continued PE and infrastructure fund activity around data center assets as AI-driven demand for compute capacity accelerates across Asia-Pacific. The potential transaction could fetch a premium given sustained institutional demand for digital infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre",
+    "source": "Bloomberg",
+    "published": "2026-06-25T02:04:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CFE obtiene línea de crédito por US$500 millones para financiar centrales eléctricas de gas natural",
+    "summary": "La Comisión Federal de Electricidad obtuvo una línea de crédito de US$500 millones del Banco Centroamericano de Integración Económica para financiar proyectos de generación eléctrica de ciclo combinado de gas natural y tecnologías de alta eficiencia. La operación busca ampliar la capacidad de generación nacional y garantizar un suministro más confiable para la industria. El anuncio coincide con el plan del gobierno de agregar más de 22,000 MW adicionales de capacidad, principalmente renovable, hacia 2030.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-obtiene-linea-de-credito-por-us500-millones-para-financiar-centrales-electricas-de-gas-natural/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-25T01:08:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Avanza el Polo de Desarrollo del Bienestar en Michoacán",
+    "summary": "Al menos ocho empresas manifestaron interés formal en instalarse en el Polo de Desarrollo del Bienestar (Podebi) de Zinapécuaro, Michoacán, con primeras operaciones posibles en 10-12 meses tras el inicio de construcción en septiembre. El polo, parte del Plan México de Sheinbaum, contempla una inversión de 2,926 millones de pesos en esquema público-privado y se posiciona estratégicamente entre Guadalajara y Ciudad de México. Michoacán se perfila como uno de los estados más avanzados en la implementación de estos hubs industriales de sustitución de importaciones.",
+    "link": "https://www.eleconomista.com.mx/estados/avanza-polo-desarrollo-bienestar-michoacan-20260625-820181.html",
+    "source": "El Economista",
+    "published": "2026-06-25T00:57:40-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The reason China is building most of the world's robots",
+    "summary": "China is accelerating humanoid robot production to address a projected collapse in its working-age population, expected to fall to 300 million by end of century, using robotics to close an emerging labor gap. Beijing's strategic push positions China to dominate global robotics manufacturing at a moment when AI-powered humanoids are becoming commercially viable. The initiative has broad implications for labor markets, manufacturing competitiveness, and the future of work globally.",
+    "link": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68",
+    "source": "Financial Times",
+    "published": "2026-06-25T00:51:05+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Construcción mantiene repunte en abril, pero a paso moderado",
+    "summary": "El valor de producción de las empresas constructoras en México creció 0.4% anual en abril, rompiendo 23 caídas consecutivas y sumando siete meses de alza mensual, impulsado por obras de agua (+8.7%), electricidad y comunicaciones (+9.8%) y petróleo (+2.4%). Sin embargo, los segmentos de edificación y transporte, que representan 71% del total, siguen a la baja. La recuperación gradual del sector, anclada en obra pública energética, aún no se refleja en el segmento residencial y comercial.",
+    "link": "https://www.eleconomista.com.mx/empresas/construccion-mantiene-repunte-abril-paso-moderado-20260625-820180.html",
+    "source": "El Economista",
+    "published": "2026-06-25T00:27:53-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "'Los juegos más peligrosos'",
+    "summary": "Una columna de opinión alerta que los saldos impagos en tarjetas de crédito en México saltaron a 24,000 millones de pesos en abril, un incremento cercano al 50% respecto al año anterior, señal de deterioro acelerado del crédito al consumo. El autor advierte que el sobreendeudamiento de los tarjetahabientes recibe poca atención pública, a pesar de sus implicaciones para la morosidad bancaria. El fenómeno plantea riesgos latentes para la salud crediticia del sistema financiero mexicano.",
+    "link": "https://www.eleconomista.com.mx/opinion/juegos-peligrosos-20260625-820177.html",
+    "source": "El Economista",
+    "published": "2026-06-25T00:17:46-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IA sin control: los riesgos 'invisibles' para las empresas",
+    "summary": "La adopción empresarial de IA avanza más rápido que la capacidad para establecer protocolos de seguridad y gobierno, generando riesgos comerciales, litigiosos y reputacionales que permanecen ocultos hasta que trascienden al exterior. Un estudio global muestra que el 66% de los usuarios confía en los resultados de IA sin verificación, el 57% oculta su uso presentándolo como propio, y solo el 41% de las empresas tiene protocolos para IA generativa. La ausencia de controles internos expone a las organizaciones a incidentes de alto impacto derivados de errores, alucinaciones o mal uso de IA.",
+    "link": "https://www.eleconomista.com.mx/opinion/ia-control-riesgos-invisibles-empresas-20260625-820175.html",
+    "source": "El Economista",
+    "published": "2026-06-25T00:13:35-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sector automotriz aumenta su relevancia en la revisión del T-MEC",
+    "summary": "El sector automotriz se ha convertido en el eje central de la revisión conjunta del T-MEC que arrancará en julio de 2026, impulsado por las presiones de Trump y la creciente competitividad de China en la industria. Las negociaciones bilaterales México-Estados Unidos apuntan a endurecer las reglas de contenido regional y limitar insumos de economías no de mercado. El resultado determinará el futuro de las cadenas de suministro norteamericanas y el atractivo de México como hub manufacturero en las próximas décadas.",
+    "link": "https://www.eleconomista.com.mx/empresas/sector-automotriz-aumenta-relevancia-revision-t-mec-20260625-820174.html",
+    "source": "El Economista",
+    "published": "2026-06-25T00:12:19-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El truco del Banxico para financiar al régimen",
+    "summary": "El Banco de México modificó en silencio sus reglas para poder comprar bonos gubernamentales directamente en el mercado secundario, una medida que analistas interpretan como preparación ante el riesgo de pérdida del grado de inversión de México. La modificación, publicada en el DOF como 'herramienta adicional de política monetaria', es criticada como señal de que el banco central está cediendo independencia para apuntalar las finanzas públicas. Algunos analistas la comparan con el Quantitative Easing, aunque en un contexto fiscal y de credibilidad muy diferente.",
+    "link": "https://www.eleconomista.com.mx/opinion/truco-banxico-financiar-regimen-20260624-820168.html",
+    "source": "El Economista",
+    "published": "2026-06-24T23:43:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "A un año de las acusaciones de lavado de dinero, tres instituciones borradas y lecciones aprendidas",
+    "summary": "A un año de que FinCEN señalara a CIBanco, Vector Casa de Bolsa e Intercam Banco por supuesto lavado de dinero ligado al tráfico de opioides, las tres instituciones prácticamente han dejado de existir como entidades independientes. CIBanco fue desmembrado y adquirido por Multiva y BanCoppel, mientras Vector e Intercam redujeron su negocio a mínimos tras las intervenciones de las autoridades mexicanas. El caso se convierte en referente sobre el costo devastador que tienen para las instituciones financieras mexicanas los señalamientos del Tesoro estadounidense.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/ano-acusaciones-lavado-dinero-tres-instituciones-borradas-lecciones-aprendidas-20260624-820166.html",
+    "source": "El Economista",
+    "published": "2026-06-24T23:37:33-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fintech ganan terreno en el financiamiento al comercio exterior",
+    "summary": "Las fintech especializadas en financiamiento de comercio exterior están aprovechando las limitaciones de la banca tradicional para capturar demanda de crédito de exportadores e importadores mexicanos, especialmente pymes. La revisión del T-MEC genera cautela pero no ha frenado las necesidades de capital de trabajo, abriendo espacio a actores como Credlix, que se expande hacia México desde India y Singapur. El fenómeno subraya una brecha estructural en el financiamiento de cadenas de suministro que la banca convencional no ha logrado cerrar.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fintech-ganan-terreno-financiamiento-comercio-exterior-20260624-820165.html",
+    "source": "El Economista",
+    "published": "2026-06-24T23:32:22-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banco de México amplía arsenal de operaciones en mercado secundario",
+    "summary": "El Banco de México formalizó mediante la circular 8/2026 las reglas de subasta para comprar y vender valores gubernamentales y Brems en el mercado secundario, acortando los plazos de notificación y ampliando su capacidad operativa. La medida permite al banco central reaccionar con mayor rapidez ante episodios de tensión en el mercado de deuda pública. Analistas del mercado interpretan el nuevo arsenal como una herramienta de estabilización, aunque con interrogantes sobre su uso en contextos de presión sobre las finanzas públicas.",
+    "link": "https://www.eleconomista.com.mx/economia/banco-mexico-amplia-arsenal-operaciones-mercado-secundario-20260624-820164.html",
+    "source": "El Economista",
+    "published": "2026-06-24T23:29:30-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inversión de afores en infraestructura creció 31% en el último año",
+    "summary": "Las afores mexicanas alcanzaron un máximo histórico de 1.042 billones de pesos invertidos en infraestructura al cierre de mayo, un crecimiento de 31% en doce meses, canalizados a través de deuda privada, Fibras e instrumentos estructurados. El Congreso aprobó en abril una ley para impulsar aún más esta inversión en el marco del Plan México. El crecimiento de las afores como fuente de financiamiento de largo plazo refuerza su rol como pieza clave del mercado de capitales local.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/inversion-afores-infraestructura-crecio-31-ultimo-ano-20260624-820163.html",
+    "source": "El Economista",
+    "published": "2026-06-24T23:27:21-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Rondas petroleras vuelven al debate por caída de inversiones y producción energética de Pemex",
+    "summary": "El debate sobre la apertura de rondas petroleras regresa a la agenda pública ante la caída de inversión privada y la producción de Pemex. La discusión surge en un contexto de presión financiera sobre la paraestatal y la necesidad de atraer capital externo para sostener la producción de hidrocarburos del país. El tema representa un punto de tensión política para el gobierno de Sheinbaum, que ha mantenido a Pemex como pilar de la política energética.",
+    "link": "https://expansion.mx/empresas/2026/06/24/rondas-petroleras-mexico-pemex-exploracion-hidrocarburos",
+    "source": "Expansión",
+    "published": "2026-06-24T23:18:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De Nu a Smart Fit: las 5 empresas brasileñas que conquistan el mercado mexicano",
+    "summary": "Cinco empresas brasileñas de alto perfil, encabezadas por la fintech Nu, han consolidado una presencia significativa en el mercado mexicano como competidores disruptivos en sus respectivos sectores. Nu, en particular, ha captado millones de clientes en México en el segmento de tarjetas de crédito digitales, desafiando a la banca tradicional con una propuesta 100% digital. La expansión refleja la capacidad de los unicornios latinoamericanos para cruzar fronteras con modelos de negocio basados en tecnología y bajos costos.",
+    "link": "https://expansion.mx/empresas/2026/06/24/empresas-brasilenas-en-mexico-mas-importantes",
+    "source": "Expansión",
+    "published": "2026-06-24T22:33:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DoubleLine's Sherman: AI 'Early' in Tapping Bond Market",
+    "summary": "DoubleLine's deputy CIO Jeff Sherman argues that AI remains in early stages of meaningfully tapping fixed income markets, as the 10-year Treasury yield dropped 10 basis points to just above 4.3%. His commentary suggests that while AI infrastructure spending is significant, its impact on bond market dynamics and credit issuance is still nascent. The observation has implications for how financial institutions price AI-related debt and capital market activity going forward.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-24/doubleline-s-sherman-ai-early-in-tapping-bond-market-video",
+    "source": "Bloomberg",
+    "published": "2026-06-24T21:31:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Qualcomm Projects Data Center Sales of $15 Billion by 2029",
+    "summary": "Qualcomm forecast annual data center AI chip sales exceeding $15 billion by fiscal 2029, signaling an aggressive push to diversify beyond its mobile chip dominance into AI server infrastructure. The projection underscores the scale of the AI infrastructure buildout and the growing diversity of chipmakers competing for a share of the market beyond Nvidia. Qualcomm's entry adds competitive pressure to the data center chip market as AI workloads multiply.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029",
+    "source": "Bloomberg",
+    "published": "2026-06-24T20:54:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+    "summary": "Anthropic accused Chinese tech giant Alibaba of orchestrating a large-scale effort to illicitly access its Claude AI model using nearly 25,000 fraudulent accounts responsible for 28.8 million API transactions between April and June. The campaign, linked to Alibaba's Qwen AI lab, targeted Claude's most valuable capabilities including software engineering and automated reasoning. Anthropic described this as the largest known attempt by a Chinese company to exploit US AI labs' work, communicating findings directly to US senators and White House officials.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+    "source": "Bloomberg",
+    "published": "2026-06-24T19:36:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Silicon Valley has much to learn from the spreadsheet jockeys it despises",
+    "summary": "The Economist argues that Silicon Valley's disdain for financial modeling disciplines obscures the analytical rigor that traditional finance brings to evaluating business sustainability and capital allocation. The piece suggests that disciplined financial thinking—cash flow modeling, cost structures, return on capital—may be undervalued by tech culture even as financial markets appear to disagree. The tension has lasting implications for how AI companies are evaluated and funded.",
+    "link": "https://www.economist.com/business/2026/06/24/silicon-valley-has-much-to-learn-from-the-spreadsheet-jockeys-it-despises",
+    "source": "The Economist",
+    "published": "2026-06-24T19:17:37+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Fed Says Basis Trade Key Driver of Hedge Fund Treasury Exposure",
     "summary": "The Federal Reserve identified the cash-futures basis trade as the primary driver of hedge funds' growing exposure to U.S. Treasuries, highlighting structural concentration risks in fixed-income markets. The basis trade—which exploits price differences between Treasury futures and cash bonds using high leverage—has historically been associated with episodes of acute market stress. This finding underscores continued regulatory attention to leveraged arbitrage strategies as a potential source of systemic risk.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-says-basis-trade-key-driver-of-hedge-fund-treasury-exposure",
@@ -31,6 +295,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Qué pasa con Banamex? Las nuevas mensualidades y los cobros atrasados que generan dudas",
+    "summary": "Banamex enfrenta cuestionamientos de clientes por cambios en anualidades y cobros atrasados que generan confusión y quejas sobre su gestión operativa. La situación ocurre en un contexto de transición institucional del banco, que atraviesa un proceso de redefinición de su modelo de negocio. El episodio plantea preguntas sobre la calidad del servicio y la transparencia en la gestión de clientes de uno de los principales bancos mexicanos.",
+    "link": "https://expansion.mx/economia/2026/06/24/que-pasa-con-banamex-anualidad-cobros-atrasados",
+    "source": "Expansión",
+    "published": "2026-06-24T18:26:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
@@ -73,6 +348,17 @@
     "published": "2026-06-24T17:30:57+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI presenta 'Jalapeño', su propio chip para no depender de Nvidia en la carrera de la IA",
+    "summary": "OpenAI presentó 'Jalapeño', su primer chip de inteligencia artificial propio, con el objetivo de reducir su dependencia de Nvidia y construir una cadena de suministro de semiconductores más autónoma. El movimiento se enmarca en una tendencia creciente entre los grandes laboratorios de IA hacia la integración vertical del hardware. La iniciativa puede reconfigurar la dinámica competitiva del ecosistema de chips de IA a medida que más actores buscan independencia de Nvidia.",
+    "link": "https://expansion.mx/tecnologia/2026/06/24/openai-presenta-jalapeno-propio-chip",
+    "source": "Expansión",
+    "published": "2026-06-24T17:25:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
@@ -150,6 +436,17 @@
     "published": "2026-06-24T12:46:20-06:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La inflación retrocede a 3.55% en la primera quincena de junio",
+    "summary": "La inflación en México se moderó a 3.55% en la primera quincena de junio, acercándose al objetivo del Banco de México de 3%, a pesar del impulso de consumo asociado al inicio del Mundial 2026. La tendencia bajista abre espacio para que el Banxico continúe su ciclo de recortes de tasas de interés en los próximos meses. La moderación de precios mejora las perspectivas para el crédito y el consumo en el segundo semestre de 2026.",
+    "link": "https://expansion.mx/economia/2026/06/24/la-inflacion-retrocede-a-3-55-en-la-primera-quincena-de-junio-pese-a-inicio-del-mundial",
+    "source": "Expansión",
+    "published": "2026-06-24T12:43:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
