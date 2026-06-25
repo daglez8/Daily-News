@@ -1,5 +1,137 @@
 [
   {
+    "title": "Memory is a Structural Story for AI: Lovell",
+    "summary": "Nadia Lovell, Head of Global Equity Strategy at UBS Global Wealth, argues that memory chips represent a sticky, structural story within the AI trade with longer runway than typical cyclical plays. Unlike other AI hardware themes, memory demand is deeply embedded in the data center buildout thesis and expected to sustain well beyond near-term earnings cycles. The thesis has direct implications for semiconductor investment allocation and AI infrastructure positioning.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/memory-is-a-structural-story-for-ai-lovell-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T18:43:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ares Private Credit Fund Caps Redemptions After 14% Seek to Exit",
+    "summary": "Ares Management curbed withdrawals from a private credit fund for the second consecutive quarter after redemption requests rose to 14.4%, adding to signs of stress across the $1.8 trillion private credit industry. The redemption cap signals that liquidity pressure in alternative credit markets persists in a high-rate environment as investors reassess risk. This is the latest indicator of structural tension building in the private credit space.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ares-private-credit-fund-caps-redemptions-after-14-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T18:40:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google to Lose High-Profile AI Staffers to Rival Anthropic",
+    "summary": "Two leading AI researchers at Google are planning to leave for Anthropic, adding to a series of high-profile departures that risk undermining Google's competitive position in AI. The talent exodus continues to demonstrate Anthropic's growing ability to attract top-tier researchers away from incumbent tech giants. This is a meaningful shift in the AI talent landscape with direct implications for the competitive balance between Google and Anthropic.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/google-loses-top-ai-talent-to-anthropic-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T17:59:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Sales Start to Justify Data-Center Spending Boom, Report Says",
+    "summary": "Revenue from AI has reached a tipping point showing that hundreds of billions in data center spending may now be economically sustainable, according to Exponential View research. AI adoption across enterprises is accelerating to where the massive infrastructure investment cycle appears commercially justified by actual returns. The findings mark an important inflection point for enterprise AI adoption decisions and infrastructure valuations.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ai-sales-start-to-justify-data-center-spending-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T17:51:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
+    "summary": "Qualcomm projects its data center chip segment will generate billions in revenue in the coming fiscal year, marking a significant foothold in the AI hardware market. CEO Cristiano Amon said the company is expanding decisively beyond mobile into the AI infrastructure race, with Meta now a data center chip customer. The pivot signals Qualcomm's ambitions in the AI chip space well beyond its traditional smartphone stronghold.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/qualcomm-ceo-on-data-center-chips-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T17:39:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Argentina profundiza vínculos con Estados Unidos: qué es Pax Silica, la nueva alianza con foco en IA",
+    "summary": "Argentina se adhirió al Joint Statement on AI Opportunity Partnership en el marco de la Cumbre de Pax Silica, una alianza que reúne a países para asegurar las cadenas de valor de inteligencia artificial —minerales críticos, energía, cómputo y semiconductores—. El acuerdo apuesta por una regulación pro-innovación que impulse inversión en ecosistemas de IA seguros y confiables, con Argentina como actor regional clave. La adhesión refuerza el alineamiento estratégico de Argentina con el bloque tecnológico liderado por Estados Unidos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-profundiza-vinculos-con-estados-unidos-que-es-pax-silica-la-nueva-alianza-con-foco-en-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-25T17:06:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Micron's AI Pricing Power Explained",
+    "summary": "D.A. Davidson analyst Gil Luria explains that Micron's AI-driven pricing power may have permanently elevated the value of memory in the semiconductor industry, transforming it from a commodity into a strategic asset. The shift means AI companies face sustained structural cost pressure for memory, with broad implications for data center economics and AI infrastructure margins. Apple, despite rising chip costs, could emerge stronger by passing on costs and leveraging its supply chain advantage.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-s-ai-pricing-power-explained-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T16:36:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IBM Rallies on New Chip — World's First Sub-1nm Technology",
+    "summary": "IBM unveiled the world's first sub-1 nanometer chip technology, sending its shares higher on the announcement. Sub-1nm chip design represents a significant milestone in semiconductor miniaturization with long-term implications for AI computing density, performance, and energy efficiency. The breakthrough positions IBM as a credible player in next-generation AI hardware beyond its software and services core.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ibm-rallies-on-new-chip-mccormick-moves-on-guidance-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T15:55:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dólar fuerte amenaza a América Latina, pero BofA revela las acciones que pueden ganar",
+    "summary": "Bank of America prevé tres alzas de tasas en EE.UU. equivalentes a 75 puntos básicos en 2026, por encima de lo que descuenta el mercado, en un escenario que históricamente penaliza a los mercados emergentes y presiona al peso. Sin embargo, BofA identifica exportadoras brasileñas y firmas del sector inmobiliario mexicano como beneficiadas potenciales de un dólar más fuerte. El análisis es relevante para carteras con exposición a acciones de real estate y empresas exportadoras en México.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-fuerte-amenaza-a-america-latina-pero-bofa-revela-las-acciones-que-pueden-ganar/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-25T15:41:27+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banamex divide la anualidad: 13 tarjetas de crédito ya permiten pagar la comisión en mensualidades",
+    "summary": "Banamex modificó la estructura de cobro en 13 de sus tarjetas de crédito, permitiendo a los usuarios pagar la anualidad en mensualidades en lugar de un solo cargo anual. La medida responde a la presión competitiva en el mercado de tarjetas de crédito mexicano, donde los emisores buscan mejorar la retención y accesibilidad para sus clientes. Es un ajuste de producto relevante para el segmento de crédito al consumo en México.",
+    "link": "https://expansion.mx/economia/2026/06/25/banamex-anualidad-13-tarjetas-credito-pago-mensualidades",
+    "source": "Expansión",
+    "published": "2026-06-25T14:40:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek Plans to Double Staff Across All Departments",
+    "summary": "China's DeepSeek, following a blockbuster fundraising agreement, plans to at least double the size of all its departments as it intensifies competition against domestic rivals and global leaders like OpenAI and Anthropic. The aggressive expansion signals DeepSeek's ambitions to become a top-tier global AI player following its earlier open-source model releases that disrupted the market. The move adds meaningful competitive pressure across the entire frontier AI landscape.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76",
+    "source": "Bloomberg",
+    "published": "2026-06-25T14:32:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Teaching AI how people work is fraught with problems",
+    "summary": "Teaching AI systems to replicate tacit workplace knowledge—the unspoken skills, judgment, and contextual understanding that workers rely on—poses fundamental challenges for enterprise AI adoption. Tacit knowledge is often undocumented and highly resistant to the data-driven training approaches that power current AI models. The piece examines why this gap limits how far AI can realistically go in augmenting or replacing complex human roles.",
+    "link": "https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems",
+    "source": "The Economist",
+    "published": "2026-06-25T12:58:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Pemex, en franca picada",
     "summary": "Petróleos Mexicanos enfrenta una crisis financiera sin precedentes: en el primer cuatrimestre de 2026, su inversión física cayó 47.7% real respecto al año anterior, el nivel más bajo para ese periodo. El nuevo director Juan Carlos Carpio debe encontrar fórmula para sanear las finanzas de la petrolera más endeudada del mundo, cuyo servicio de deuda consume recursos que deberían destinarse a producción. La situación se ha convertido en un asunto de seguridad financiera nacional.",
     "link": "https://www.elfinanciero.com.mx/opinion/alejo-sanchez-cano/2026/06/25/pemex-en-franca-picada/",
@@ -9,6 +141,17 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Anthropic has hired an economist with . . . interesting views on human survival",
+    "summary": "Anthropic has hired an economist known for unconventional views on AI existential risk and human survival, prompting debate about how the company balances long-termist safety concerns with commercial imperatives. The hire reflects Anthropic's ongoing commitment to safety-first AI development culture even as it competes aggressively for enterprise customers and top talent from Google. The move signals that Anthropic's safety identity remains central to its brand and decision-making.",
+    "link": "https://www.ft.com/content/bb04671c-4377-4231-96ef-0f8e57ed5d1b",
+    "source": "Financial Times",
+    "published": "2026-06-25T12:50:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Jamie Dimon promotes two potential successors at JPMorgan",
@@ -53,6 +196,39 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Paso de los Toros House / Juan Carlos Sabbagh Arquitectos",
+    "summary": "Architect Juan Carlos Sabbagh Arquitectos completed the Paso de los Toros House in Chicureo, Chile—a 365 m² residential project photographed by Cristobal Palma. The project reflects a refined contemporary approach to private residential design set within the Chilean landscape north of Santiago. Full photography and project documentation are available on ArchDaily.",
+    "link": "https://www.archdaily.com/1037734/paso-de-los-toros-house-juan-carlos-sabbagh-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-06-25T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "La meta de Ebrard de elevar la producción de chips exigirá entre cinco y 10 años",
+    "summary": "El secretario de Economía, Marcelo Ebrard, impulsa una ambiciosa meta para multiplicar la producción de semiconductores en México, pero analistas advierten que materializarla tomará entre cinco y diez años. El objetivo cobra relevancia ante la demanda global de chips impulsada por la IA y la reconfiguración de cadenas de suministro hacia el nearshoring en América del Norte. México busca posicionarse como nodo tecnológico clave en el continente, aunque los plazos son largos.",
+    "link": "https://expansion.mx/tecnologia/2026/06/25/ambiciosa-meta-marcelo-ebrard-multiplicar-produccion-chips",
+    "source": "Expansión",
+    "published": "2026-06-25T11:55:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Binance suspenderá operaciones en varios países de la UE",
+    "summary": "Binance suspenderá parte de sus servicios en varios países europeos a partir del 1 de julio por no haber obtenido a tiempo la autorización requerida bajo la normativa MiCA de la Unión Europea, que exige licencias para operar con criptoactivos en el mercado comunitario. La mayoría de las plataformas cripto no logrará cumplir el plazo del 30 de junio, lo que generará interrupciones operativas en el mercado europeo. El caso marca un hito en la aplicación de regulación financiera a plataformas digitales globales con implicaciones para LatAm.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/binance-suspendera-operaciones-paises-ue-20260625-820239.html",
+    "source": "El Economista",
+    "published": "2026-06-25T11:39:07-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "BofA's Raedler Says Defensives Ready to Roar if AI Trade Falters",
@@ -154,6 +330,28 @@
     "light": false
   },
   {
+    "title": "El boom de Polymarket y Kalshi apunta a US$1 billón, pero enfrenta bloqueos en América Latina",
+    "summary": "Bloomberg Intelligence proyecta que el volumen de los mercados de predicción —plataformas como Polymarket y Kalshi— alcanzará cerca de US$300,000 millones en 2026 y podría llegar a US$1 billón hacia 2030, impulsado por el interés institucional y minorista. Sin embargo, varios países de América Latina han comenzado a restringir estas plataformas por conflictos con marcos regulatorios de apuestas y valores. El dilema entre innovación financiera y regulación es un debate central en la región.",
+    "link": "https://www.bloomberglinea.com/mercados/el-boom-de-polymarket-y-kalshi-apunta-a-us1-billon-pero-enfrenta-bloqueos-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-25T11:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pacientes en México usan IA para entender estudios clínicos antes de ir al médico",
+    "summary": "El 73% de los pacientes en México recurre a herramientas de inteligencia artificial para comprender estudios clínicos y resultados de laboratorio antes de consultar a un médico, según datos de Doctoralia y Funsalud. El mercado de salud digital en el país ya opera a escala masiva con más de 20.4 millones de usuarios únicos mensuales y 2.2 millones de citas agendadas mensualmente vía plataformas digitales. El dato refleja una adopción cotidiana de IA entre los mexicanos, impulsada por la búsqueda de especialistas en línea.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/pacientes-mexico-ia-entender-estudios-clinicos-medico-20260625-820236.html",
+    "source": "El Economista",
+    "published": "2026-06-25T10:49:58-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Buen dato en inflación, pero hay que tener cautela",
     "summary": "La inflación en México cayó a 3.55% anual en la primera quincena de junio, muy por debajo de la mediana de analistas (3.72%) y en su nivel más bajo desde 2021, lo que despeja el camino a Banxico para su decisión de política monetaria. El motor de la sorpresa fue el componente no subyacente, aunque las presiones en servicios persisten y aconsejan cautela ante la trayectoria de precios hacia adelante.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/25/buen-dato-en-inflacion-pero-hay-que-tener-cautela/",
@@ -228,6 +426,39 @@
     "category": "AI & Agents",
     "relevance_score": 72,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "\"I Don't Separate Architecture and Infrastructure\": Interview With Shohei Shigematsu on OMA's New Museum Addition",
+    "summary": "Shohei Shigematsu of OMA discusses the firm's new addition to the New Museum of Contemporary Art in New York, designed alongside Rem Koolhaas. The angular companion building doubles exhibition capacity while creating a dialectical relationship with the original SANAA structure—one vertical and introverted, the other horizontal and open to the city. Koolhaas described the project as 'not simply an extension but a complement or counterpart,' reflecting OMA's approach to institutional architecture.",
+    "link": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition",
+    "source": "ArchDaily",
+    "published": "2026-06-25T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Casa Estudio F36 / Estudio Tecalli",
+    "summary": "Estudio Tecalli completed Casa Estudio F36, a compact 74 m² studio-house project located in Mexico, photographed by Amy Bello. The project represents a thoughtful approach to small-scale residential and studio design within a Mexican context, balancing function and form in a tight footprint. Full project details and photography are available on ArchDaily.",
+    "link": "https://www.archdaily.com/1042728/casa-estudio-f36-estudio-tecalli",
+    "source": "ArchDaily",
+    "published": "2026-06-25T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Afecta CFE a 20 estados",
+    "summary": "Una ola de apagones y variaciones de voltaje de la Comisión Federal de Electricidad afectó al menos 20 estados del país en los últimos 10 días, según Reforma. La presidenta Sheinbaum calificó las fallas como simples 'interrupciones', no apagones, en una distinción que generó críticas por minimizar el impacto real en empresas y hogares. Las fallas en la red de distribución representan un riesgo operativo creciente para la industria y la infraestructura digital en México.",
+    "link": "https://www.reforma.com/afecta-cfe-a-20-estados/ar3228876",
+    "source": "Reforma",
+    "published": "2026-06-25T05:01:01-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
     "light": true
   },
   {
