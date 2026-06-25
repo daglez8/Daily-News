@@ -1,5 +1,236 @@
 [
   {
+    "title": "Pemex, en franca picada",
+    "summary": "Petróleos Mexicanos enfrenta una crisis financiera sin precedentes: en el primer cuatrimestre de 2026, su inversión física cayó 47.7% real respecto al año anterior, el nivel más bajo para ese periodo. El nuevo director Juan Carlos Carpio debe encontrar fórmula para sanear las finanzas de la petrolera más endeudada del mundo, cuyo servicio de deuda consume recursos que deberían destinarse a producción. La situación se ha convertido en un asunto de seguridad financiera nacional.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alejo-sanchez-cano/2026/06/25/pemex-en-franca-picada/",
+    "source": "El Financiero",
+    "published": "2026-06-25T12:51:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jamie Dimon promotes two potential successors at JPMorgan",
+    "summary": "JPMorgan Chase named Doug Petno and Troy Rohrbaugh to lead two of its largest divisions as potential successors to CEO Jamie Dimon, while Marianne Lake departed the bank. The restructuring narrows the succession field and signals a potential leadership transition at the world's largest bank by market cap.",
+    "link": "https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23",
+    "source": "Financial Times",
+    "published": "2026-06-25T12:47:17+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Sees AI Backlash as Rising Risk to Tech-Fueled Rally",
+    "summary": "Market professionals are grappling with a new risk to the AI-driven equity rally: growing public anger toward artificial intelligence technology. Beyond doubts about spending sustainability, Wall Street increasingly views a potential consumer and political backlash as a threat that could undermine confidence in AI stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/wall-street-sees-ai-backlash-as-rising-risk-to-tech-fueled-rally",
+    "source": "Bloomberg",
+    "published": "2026-06-25T12:02:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Flagship Ares private credit fund hit by 14% withdrawal requests",
+    "summary": "Ares Management's flagship private credit fund has been hit by withdrawal requests equivalent to 14% of its assets, forcing the firm to cap redemptions. The development reflects an accelerating retail investor exodus from the private credit industry, raising questions about liquidity management in the sector.",
+    "link": "https://www.ft.com/content/c7f1d22f-7ed9-4d7c-bb83-68423ea5fbf2",
+    "source": "Financial Times",
+    "published": "2026-06-25T12:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
+    "summary": "A $5 billion startup is deploying humanoid robots for real commercial work in Texas, representing a significant step toward machine-powered labor at scale. The development signals growing investor confidence that AI-enabled physical robots are moving from research demonstrations to operational deployment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work",
+    "source": "Bloomberg",
+    "published": "2026-06-25T12:00:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BofA's Raedler Says Defensives Ready to Roar if AI Trade Falters",
+    "summary": "Sebastian Raedler, head of European equity strategy at Bank of America, advises investors to rotate toward defensive sectors if the AI trade begins to unravel. The recommendation highlights growing concern among strategists about concentration risk in AI-related equities and the potential for a sharp correction.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:24:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Revenue Starts to Exceed a Key Infrastructure Cost But Not By Much",
+    "summary": "AI-generated revenues at Meta, Alphabet, and Microsoft have reached $25 billion, surpassing depreciation costs for the first time — a meaningful inflection point for the technology's economic case. Google and Amazon must still sustain premium pricing and strong user growth to fully recoup their massive infrastructure investments.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/ai-revenue-hits-25-billion-topping-depreciation-for-meta-alphabet-microsoft",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:13:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Credit's Big Arbitrage Trade Gains Backing From Advisers",
+    "summary": "Advisers are increasingly backing a strategy of cashing out of private credit funds at NAV and reinvesting in similar vehicles trading at significant discounts. The trade reflects growing price dislocations in private credit markets as liquidity pressures create divergence between fund valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/private-credit-s-big-arbitrage-trade-gains-backing-from-advisers",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:10:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising",
+    "summary": "The potential for massive returns from companies like OpenAI, Anthropic, and SpaceX is enabling venture capital firms to raise record amounts of capital, reshaping the VC funding landscape. These AI-era leaders are concentrating investor attention in ways that echo previous tech super-cycles.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/spacex-openai-and-anthropic-spur-record-vc-funding",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "A Veteran Apple Designer Reimagines the Golf Cart",
+    "summary": "Julian Hoenig, a veteran Apple designer, has founded Amble and is redesigning the golf cart with next-generation design sensibilities — with ambitions extending well beyond the fairway. The startup signals growing interest in premium design applied to recreational mobility products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/golf-carts-get-apple-design-treatment-from-julian-hoenig-at-amble",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:00:17+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Customs Ramps Up AI Investment in Push to Sharpen Enforcement",
+    "summary": "US customs authorities are accelerating AI investments to catch tariff dodgers and detect illicit goods before cargo reaches the country, responding to pressure from the Trump administration's trade war. The move demonstrates AI's expanding role in government regulatory enforcement and trade compliance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-customs-ramps-up-ai-investment-in-push-to-sharpen-enforcement",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Sales Start to Justify Data-Center Spending Boom, Report Says",
+    "summary": "Revenue from artificial intelligence has reached a tipping point suggesting that hundreds of billions in tech company spending may be economically sustainable, according to research firm Exponential View. The finding provides important validation for the AI investment thesis and may sustain capital flows into the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fannie, Freddie Boost Risk to Levels That Once Shook Wall Street",
+    "summary": "Fannie Mae and Freddie Mac are taking on significantly more interest-rate risk in their rapidly growing investment portfolios, with a key exposure gauge reaching levels that rattled Wall Street two decades ago. The development raises systemic concerns about the US housing finance system amid elevated rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/fannie-freddie-ramp-up-rate-risk-in-mbs-portfolios-fnma-fmcc",
+    "source": "Bloomberg",
+    "published": "2026-06-25T11:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Afore XXI Banorte es el mejor fondo de pensiones de México: World Finance",
+    "summary": "Afore XXI Banorte fue reconocida por la publicación internacional World Finance como el Mejor Fondo de Pensiones de México, destacando su fortaleza institucional, desempeño financiero y estrategias de inversión responsable. El reconocimiento posiciona a la administradora entre las instituciones más sólidas del sistema pensionario global, en un momento en que la industria enfrenta el reto de adaptarse a estándares de sostenibilidad y gobierno corporativo.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/25/afore-xxi-banorte-es-el-mejor-fondo-de-pensiones-de-mexico-world-finance/",
+    "source": "El Financiero",
+    "published": "2026-06-25T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Buen dato en inflación, pero hay que tener cautela",
+    "summary": "La inflación en México cayó a 3.55% anual en la primera quincena de junio, muy por debajo de la mediana de analistas (3.72%) y en su nivel más bajo desde 2021, lo que despeja el camino a Banxico para su decisión de política monetaria. El motor de la sorpresa fue el componente no subyacente, aunque las presiones en servicios persisten y aconsejan cautela ante la trayectoria de precios hacia adelante.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/25/buen-dato-en-inflacion-pero-hay-que-tener-cautela/",
+    "source": "El Financiero",
+    "published": "2026-06-25T10:21:09+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lujo branded, expansión y desafíos",
+    "summary": "México ocupa el lugar 2 en el ranking de branded residences en América con cerca de 100 proyectos, apenas detrás de Estados Unidos según Savills. El modelo enfrenta nuevos retos: mayor competencia en Latam, revisión de factibilidad por parte de cadenas hoteleras y la influencia de nuevos mercados globales que podrían redefinir la dinámica del segmento de residencias de lujo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/06/25/lujo-branded-expansion-y-desafios/",
+    "source": "El Financiero",
+    "published": "2026-06-25T10:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La nueva realidad de las remesas en México",
+    "summary": "Las remesas en México han evolucionado más allá del flujo tradicional de mexicanos en el exterior: entre 2020 y el tercer trimestre de 2025 se registraron más de 765 mil envíos recibidos por personas con identificación estadounidense, equivalentes a 522.5 millones de dólares. Esta nueva dinámica —trabajadores activos, jubilados y receptores de seguridad social de EU radicados en México— revela flujos financieros poco documentados con importantes implicaciones fiscales y regulatorias.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/06/25/la-nueva-realidad-de-las-remesas-en-mexico/",
+    "source": "El Financiero",
+    "published": "2026-06-25T09:58:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft, Amazon Cloud Units Face Tough EU Rules for Big Tech",
+    "summary": "Microsoft Azure and Amazon Web Services face tough European Union guardrails after regulators designated them as gatekeepers under the Digital Markets Act. The move could force significant operational changes on the two dominant cloud providers and sets an important precedent for AI and cloud regulation in Europe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech",
+    "source": "Bloomberg",
+    "published": "2026-06-25T09:45:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Will AI lower interest rates?",
+    "summary": "The Economist examines whether productivity gains from AI could justify a structural reduction in interest rates, drawing parallels to Fed Chair Warsh's selective use of lessons from Alan Greenspan's tech-boom era. The piece questions whether Warsh is appropriately calibrating monetary policy for an AI-driven productivity surge.",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+    "source": "The Economist",
+    "published": "2026-06-25T09:39:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inflación en México se modera a 3.55 por ciento, su menor nivel desde octubre",
+    "summary": "La inflación anual en México cayó a 3.55% en la primera quincena de junio, su nivel más bajo desde octubre de 2025 y dentro del rango objetivo de Banxico (3% ± 1 pp), impulsada por una contracción histórica de 6.15% en precios pecuarios. La sorpresa a la baja —17 a 22 centésimas por debajo del consenso— abre espacio para que Banxico continúe su ciclo de relajamiento monetario, aunque el componente de servicios mantiene resistencia.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/25/inflacion-en-mexico-se-modera-a-355-por-ciento-su-menor-nivel-desde-octubre/",
+    "source": "El Financiero",
+    "published": "2026-06-25T09:01:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Amazon Pledges Additional $13 Billion in India AI Outlays",
+    "summary": "Amazon added $13 billion to its planned India investments through 2030, accelerating its buildout of AI and cloud infrastructure in the world's most populous country. The announcement signals hyperscaler confidence in India as a key growth market for AI services and enterprise cloud adoption.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/amazon-to-invest-additional-13-billion-in-india-for-ai-by-2030",
+    "source": "Bloomberg",
+    "published": "2026-06-25T08:30:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Micron posts 15-fold profit surge in boost for global AI stocks",
     "summary": "Micron reported a 15-fold jump in profits driven by sustained AI demand for computer memory chips, with its sales forecast far exceeding Wall Street expectations. The blowout results boosted AI-related stocks across global markets, reinforcing investor confidence in the semiconductor sector as a core AI infrastructure beneficiary. The chipmaker's guidance signals that AI-fueled memory shortages are expected to persist.",
     "link": "https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a",
@@ -55,6 +286,17 @@
     "light": true
   },
   {
+    "title": "Blackstone, Bain Are Said Among Bidders for Fuji Media Unit",
+    "summary": "Blackstone and Bain Capital have advanced to the second round of bidding for the real estate unit of Fuji Media Holdings in what could be Japan's largest-ever property deal. The sale highlights continued private equity appetite for Asian real estate assets and the ongoing restructuring of Japanese conglomerates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/blackstone-bain-said-among-bidders-for-fuji-media-property-unit",
+    "source": "Bloomberg",
+    "published": "2026-06-25T02:07:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "DigitalBridge Is Said to Explore Options for AIMS Data Centre",
     "summary": "DigitalBridge is weighing options for Malaysia's AIMS Data Centre, including capital raises, bringing in new investors, or an outright sale. The exploration reflects continued PE and infrastructure fund activity around data center assets as AI-driven demand for compute capacity accelerates across Asia-Pacific. The potential transaction could fetch a premium given sustained institutional demand for digital infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre",
@@ -66,6 +308,17 @@
     "light": true
   },
   {
+    "title": "Lecciones de Petrobras para Pemex",
+    "summary": "En 22 años los papeles se invirtieron: Petrobras pasó de 1.57 a 3.2 millones de barriles diarios y ganó $19.6 mil millones en 2025, mientras Pemex cayó de 3.38 a 1.65 millones y perdió 780 mil millones de pesos en 2024, recibiendo hoy $19 mil millones mensuales del gobierno para sobrevivir. El memorándum firmado entre ambas empresas abre la pregunta sobre qué lecciones de gobierno corporativo y gestión técnica puede extraer México del caso brasileño.",
+    "link": "https://www.eleconomista.com.mx/opinion/lecciones-petrobras-pemex-20260625-820195.html",
+    "source": "El Economista",
+    "published": "2026-06-25T01:56:38-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "CFE obtiene línea de crédito por US$500 millones para financiar centrales eléctricas de gas natural",
     "summary": "La Comisión Federal de Electricidad obtuvo una línea de crédito de US$500 millones del Banco Centroamericano de Integración Económica para financiar proyectos de generación eléctrica de ciclo combinado de gas natural y tecnologías de alta eficiencia. La operación busca ampliar la capacidad de generación nacional y garantizar un suministro más confiable para la industria. El anuncio coincide con el plan del gobierno de agregar más de 22,000 MW adicionales de capacidad, principalmente renovable, hacia 2030.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-obtiene-linea-de-credito-por-us500-millones-para-financiar-centrales-electricas-de-gas-natural/",
@@ -73,6 +326,28 @@
     "published": "2026-06-25T01:08:06+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "'Grandes bancos, preparados para enfrentar recesión'",
+    "summary": "La Reserva Federal confirmó que los 32 grandes bancos estadounidenses superaron las pruebas de resistencia anuales, absorbiendo más de $708 mil millones en pérdidas crediticias hipotéticas con una reducción de capital de solo 1.6 puntos porcentuales. El resultado reafirma la solidez del sistema bancario, aunque la Fed trabaja en aumentar la transparencia de las pruebas.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/grandes-bancos-preparados-enfrentar-recesion-20260625-820185.html",
+    "source": "El Economista",
+    "published": "2026-06-25T01:07:03-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bessent aplaude reducción de las orientaciones de la Fed",
+    "summary": "El secretario del Tesoro Scott Bessent respaldó el plan del presidente de la Fed Kevin Warsh de eliminar el gráfico de puntos y reducir el forward guidance, señalando que los modelos de IA podrían elevar la productividad y alterar la dinámica inflacionaria. Bessent mantiene posición abierta sobre el impacto del conflicto con Irán en la inflación, reconociendo la incertidumbre en el entorno actual de política monetaria.",
+    "link": "https://www.eleconomista.com.mx/economia/bessent-aplaude-reduccion-orientaciones-fed-20260625-820184.html",
+    "source": "El Economista",
+    "published": "2026-06-25T01:04:37-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
