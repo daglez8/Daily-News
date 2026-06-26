@@ -1,5 +1,115 @@
 [
   {
+    "title": "What Is AI Distillation and Why Is It a Worry for the Industry?",
+    "summary": "AI distillation allows rivals to build capable competing models by training on the outputs of more expensive frontier systems, enabling newcomers to replicate cutting-edge AI capabilities for a fraction of the original investment. This poses a structural threat to companies like OpenAI and Anthropic that have spent hundreds of billions on R&D, as it potentially undermines their competitive moats and raises urgent questions about how proprietary training data and model outputs can be legally protected.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/what-is-ai-distillation-and-why-is-it-a-worry-for-the-industry",
+    "source": "Bloomberg",
+    "published": "2026-06-26T18:18:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso se perfila para perder la semana ante el dólar: Así está el tipo de cambio HOY",
+    "summary": "El peso mexicano opera con una leve depreciación de 0.04% frente al dólar, cotizando en 17.49 unidades, luego de que Banxico decidió por unanimidad mantener su tasa de referencia en 6.50%. Los analistas señalan que la postura restrictiva del banco central preserva el atractivo del diferencial de tasas frente a la Fed, aunque la persistencia de la inflación subyacente en servicios y la volatilidad cambiaria global siguen siendo los principales riesgos para la divisa.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/26/peso-dolar-precio-hoy-26-de-junio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-06-26T18:16:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 73,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump warns of 100% tariff on countries implementing digital services tax",
+    "summary": "President Trump threatened 100% tariffs on goods from any country imposing a digital services tax on US tech companies, with the levy designed to supersede any existing trade deals. The ultimatum directly targets European nations that just ratified a trade pact with the US and signals an aggressive defense of American tech firms' global revenue at the cost of multilateral trade stability.",
+    "link": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
+    "source": "Financial Times",
+    "published": "2026-06-26T17:34:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Limits Release of New Model Under Pressure From US",
+    "summary": "OpenAI is rolling out its most capable new AI model only to select trusted partners before a broader public release, following direct pressure from the Trump administration to stagger the rollout. The approach mirrors similar government-coordinated practices adopted by Anthropic and signals a new era of federal oversight over frontier AI deployment, with national security implications shaping model access timelines.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/openai-limits-release-of-new-model-under-pressure-from-us",
+    "source": "Bloomberg",
+    "published": "2026-06-26T17:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cost of the AI Boom: Anxiety, Longer Hours",
+    "summary": "Despite promises of alleviating workloads, the AI boom in Silicon Valley has led to longer hours and heightened anxiety as tech workers spend round-the-clock managing and monitoring AI agents. Intense competition in the AI industry is amplifying rather than reducing a workaholic culture, raising fundamental questions about the real productivity benefits for knowledge workers and the organizational toll of rapid AI adoption.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/cost-of-the-ai-boom-anxiety-longer-hours-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T16:11:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "KKR Agrees to Buy EDF Power Assets as AI Boom Fuels Demand",
+    "summary": "KKR has agreed to acquire EDF's renewable power businesses in the US and Canada, the latest landmark private equity deal driven by insatiable electricity demand from AI data centers. The transaction underscores how the AI infrastructure buildout is accelerating unprecedented capital flows into energy assets, with PE firms aggressively amassing power generation capacity ahead of anticipated demand surges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/edf-says-kkr-agrees-to-buy-north-american-power-assets",
+    "source": "Bloomberg",
+    "published": "2026-06-26T16:02:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley, Goldman Shares Fall on Possible OpenAI IPO Delay",
+    "summary": "Shares of Goldman Sachs and Morgan Stanley declined after reports that OpenAI may delay its IPO until 2027 amid volatility in technology stocks. The postponement would be a setback for the two banks, which had been positioning to lead what was expected to be one of the most significant and lucrative IPO mandates in history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay",
+    "source": "Bloomberg",
+    "published": "2026-06-26T15:18:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The Cult of the C-Suite Is Officially Over",
+    "summary": "The once-admired image of the chief executive has eroded significantly; top executives increasingly describe feeling overworked and under relentless public scrutiny, while high-potential leaders are actively turning down CEO roles. This cultural shift raises fundamental questions about leadership incentive structures, executive talent pipelines, and whether current models of corporate governance are fit to attract the next generation of senior leaders.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/the-cult-of-the-c-suite-is-officially-over",
+    "source": "Bloomberg",
+    "published": "2026-06-26T14:54:33+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
+    "summary": "OpenAI is considering an IPO as soon as 2027, a timeline that would potentially place its public debut after its AI rival Anthropic completes an anticipated listing. The sequence reflects both companies' growing commercial maturity and signals an imminent wave of frontier AI company public offerings that will reshape investor exposure to the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
+    "source": "Bloomberg",
+    "published": "2026-06-26T14:40:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street retrocede por nuevas ventas en fabricantes de chips y cautela sobre la IA",
+    "summary": "Wall Street cerró una semana de alta volatilidad a la baja, impulsada por nuevas ventas en fabricantes de semiconductores y el reporte de que OpenAI podría postergar su IPO hasta 2027. El S&P 500 perdió 0.57% y el Nasdaq cedió 1%, en medio de dudas crecientes sobre la rentabilidad de las inversiones en inteligencia artificial y una rotación de inversores hacia sectores con valuaciones más atractivas.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-retrocede-por-nuevas-ventas-en-fabricantes-de-chips-y-cautela-sobre-la-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-26T13:40:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Banxico empieza a ganarle al mercado",
     "summary": "El Banco de México mantuvo la tasa de referencia en 6.50% con una votación unánime —un giro notable respecto a las divisiones de meses anteriores—, señal de que la Junta de Gobierno se ha consolidado en una postura hawkish. Los anteriores disidentes Jonathan Heath y Galia Borja ahora votan con la mayoría, indicando que la pausa monetaria refleja un consenso institucional sólido sobre los riesgos inflacionarios de la segunda mitad del año.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/26/banxico-empieza-a-ganarle-al-mercado/",
@@ -7,6 +117,17 @@
     "published": "2026-06-26T12:45:37+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI lanza nuevos modelos de IA con acceso restringido por petición del Gobierno de Trump",
+    "summary": "OpenAI presentó tres nuevos modelos de inteligencia artificial —GPT-5.6 Sol, Terra y Luna— que, a petición del gobierno de Trump, estarán disponibles en primera instancia solo para un pequeño grupo de socios de confianza coordinados previamente con el gobierno, en línea con las prácticas adoptadas por Anthropic. La empresa aseguró que los modelos estarán disponibles al público general en las próximas semanas, una vez concluida la fase de coordinación con los socios seleccionados.",
+    "link": "https://www.eleconomista.com.mx/internacionales/openai-lanza-nuevos-modelos-ia-acceso-restringido-peticion-gobierno-trump-20260626-820472.html",
+    "source": "El Economista",
+    "published": "2026-06-26T12:27:15-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
     "language": "es",
     "light": false
   },
@@ -55,6 +176,17 @@
     "light": true
   },
   {
+    "title": "La IA y el mercado de segunda mano redefinirán el lujo en la nueva era, según Bain",
+    "summary": "Bain & Company proyecta que el mercado de lujo global crecerá entre 2% y 4% en 2026, impulsado por la recuperación en Estados Unidos y China, con el consumo de experiencias de lujo creciendo más rápido que los bienes tangibles. La consultora identifica a la inteligencia artificial y el mercado de segunda mano como los dos vectores que redefinirán el sector, desplazando la relación del consumidor con el lujo desde el producto hacia el significado y la experiencia.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/la-ia-y-el-mercado-de-segunda-mano-redefiniran-el-lujo-en-la-nueva-era-segun-bain/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-26T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "SoftBank Shares Fall on Report OpenAI to Delay IPO",
     "summary": "SoftBank shares fell sharply—their biggest drop since August 2024—after reports that OpenAI may postpone its planned IPO until next year, delaying returns for the Japanese conglomerate that is one of the company's largest backers. The news adds uncertainty to the AI capital markets calendar and highlights SoftBank's concentrated exposure to OpenAI's valuation.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-26/softbank-shares-fall-on-report-openai-to-delay-ipo-video",
@@ -86,6 +218,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive",
+    "summary": "Volkswagen plans to cut up to 100,000 jobs—close to one in six workers—in what would rank among the largest corporate restructurings in history, as the automaker faces mounting pressure from EV competition and slowing demand. The scale of the cuts signals a profound transformation of the traditional automotive industry's workforce model, with broad implications for manufacturing-dependent economies and global industrial employment strategy.",
+    "link": "https://www.ft.com/content/d0760eaf-d345-4964-b2ae-f55f6dfd9a4a",
+    "source": "Financial Times",
+    "published": "2026-06-26T08:49:30+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "El reto de las mipymes, crecer en un entorno con pocos incentivos",
@@ -183,6 +326,17 @@
     "published": "2026-06-26T04:00:25+00:00",
     "category": "AI & Agents",
     "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese carmakers 'knocking at US gate' from Mexico and Canada",
+    "summary": "Chinese automakers subsidized by Beijing are increasingly establishing manufacturing operations in Mexico and Canada as potential entry points to the US market, exploiting USMCA provisions to gain tariff advantages on US-bound vehicles. This is emerging as a major flashpoint in North American trade relations, with direct implications for Mexico's nearshoring narrative and the integrity of regional content rules under USMCA.",
+    "link": "https://www.ft.com/content/01f7110f-6fcd-4827-b67e-dd43055f7156",
+    "source": "Financial Times",
+    "published": "2026-06-26T04:00:11+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
