@@ -1,5 +1,115 @@
 [
   {
+    "title": "Banxico empieza a ganarle al mercado",
+    "summary": "El Banco de México mantuvo la tasa de referencia en 6.50% con una votación unánime —un giro notable respecto a las divisiones de meses anteriores—, señal de que la Junta de Gobierno se ha consolidado en una postura hawkish. Los anteriores disidentes Jonathan Heath y Galia Borja ahora votan con la mayoría, indicando que la pausa monetaria refleja un consenso institucional sólido sobre los riesgos inflacionarios de la segunda mitad del año.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/26/banxico-empieza-a-ganarle-al-mercado/",
+    "source": "El Financiero",
+    "published": "2026-06-26T12:45:37+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Minera Sinda debuta en el NYSE",
+    "summary": "La minera Sinda Ltd., con concesiones de oro y plata en Guanajuato, busca recaudar hasta 235.2 millones de dólares en su OPI en el NYSE a un precio de entre 11.25 y 13.25 dólares por acción, en lo que sería uno de los debuts bursátiles mexicanos más relevantes del año. Los recursos se destinarán íntegramente a exploración y desarrollo, con meta de producción comercial en 2031; la acogida de inversores institucionales refleja el interés en México como proveedor estratégico de plata para la transición energética.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/06/26/minera-sinda-debuta-en-el-nyse/",
+    "source": "El Financiero",
+    "published": "2026-06-26T12:15:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El nuevo líder creativo orquesta humanos y agentes de IA",
+    "summary": "El artículo de Expansión examina cómo el liderazgo empresarial está evolucionando hacia la orquestación de equipos mixtos de personas y agentes de inteligencia artificial, donde el rol del líder consiste en diseñar flujos de trabajo que maximicen la complementariedad humano-IA. La pieza plantea las nuevas competencias directivas que emergen en organizaciones que adoptan IA agéntica para sus procesos creativos y operativos.",
+    "link": "https://expansion.mx/opinion/2026/06/26/el-nuevo-lider-creativo-orquesta-humanos-y-agentes-de-ia",
+    "source": "Expansión",
+    "published": "2026-06-26T12:02:31+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Diseñar la autonomía tecnológica sin deshumanizar el futuro laboral",
+    "summary": "La IA agéntica —sistemas que planifican, deciden y ejecutan flujos completos de forma autónoma— está redefiniendo la gestión de procesos en sectores como el financiero, donde agentes especializados pueden analizar anomalías de mercado y diseñar estrategias de mitigación de manera coordinada. El artículo argumenta que el reto para los líderes no es sustituir el talento humano sino diseñar intencionalmente la complementariedad entre personas y agentes, respaldada por coinversiones de gigantes tecnológicos como Microsoft.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/06/26/disenar-la-autonomia-tecnologica-sin-deshumanizar-el-futuro-laboral/",
+    "source": "El Financiero",
+    "published": "2026-06-26T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Makes Its Advertising Pitch at Cannes Festival",
+    "summary": "OpenAI pitched ChatGPT as a new advertising vehicle at the Cannes Lions festival, positioning AI chatbots as the next frontier for brand marketing and signaling ambitions to monetize its massive user base through ads. The move could disrupt Google's and Meta's digital advertising dominance while opening a new revenue stream that may influence OpenAI's IPO timeline and valuation.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-26/openai-pitches-ai-chatbot-ads-at-cannes-lions-festival",
+    "source": "Bloomberg",
+    "published": "2026-06-26T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank Shares Fall on Report OpenAI to Delay IPO",
+    "summary": "SoftBank shares fell sharply—their biggest drop since August 2024—after reports that OpenAI may postpone its planned IPO until next year, delaying returns for the Japanese conglomerate that is one of the company's largest backers. The news adds uncertainty to the AI capital markets calendar and highlights SoftBank's concentrated exposure to OpenAI's valuation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/softbank-shares-fall-on-report-openai-to-delay-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T10:38:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Washington's Foreign Ban on Anthropic's Top Models May Backfire",
+    "summary": "The US government has imposed export restrictions on Anthropic's most capable AI models, a move analysts warn may unintentionally benefit China's open-source AI ecosystem by cutting off international markets from US-made frontier models. The ban could accelerate adoption of Chinese open-source alternatives globally, potentially undermining US AI leadership in markets where Anthropic technology is now blocked.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
+    "source": "Bloomberg",
+    "published": "2026-06-26T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banxico inicia pausa prolongada en tasa de interés: La deja en 6.5 por ciento",
+    "summary": "La Junta de Gobierno del Banco de México decidió por unanimidad mantener la tasa de referencia en 6.50%, iniciando una pausa monetaria prolongada orientada a consolidar la inflación en 3% para el segundo trimestre de 2027. El banco consideró el nivel actual del tipo de cambio, la ausencia de presiones de demanda y el grado de restricción monetaria vigente como factores que validan la postura ante un entorno macroeconómico complejo.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/26/banxico-inicia-pausa-prolongada-en-tasa-de-interes-la-deja-en-65-por-ciento/",
+    "source": "El Financiero",
+    "published": "2026-06-26T09:05:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El reto de las mipymes, crecer en un entorno con pocos incentivos",
+    "summary": "Las micro, pequeñas y medianas empresas mexicanas enfrentan barreras serias para acceder a financiamiento formal: la percepción de mayores cargas fiscales y laborales al formalizarse desincentiva la incorporación al sector regulado. El presidente de la Red Nacional México Emprende pide acceso a créditos y tasas preferenciales como condición básica para que las mipymes —motor de la economía— puedan crecer sin quedar atrapadas en la informalidad.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/reto-mipymes-crecer-entorno-pocos-incentivos-20260626-820275.html",
+    "source": "El Economista",
+    "published": "2026-06-26T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "One Day, Four Earthquakes: What Seismic Resilience Reveals About the Built Environment",
+    "summary": "Within 36 hours, four major earthquakes struck Venezuela, Japan, and California—but Venezuela's casualties were far higher, exposing dramatic differences in building codes and construction quality across regions. ArchDaily examines how earthquake outcomes reveal the built environment's critical role in disaster risk, with implications for housing development standards and real estate valuations in seismically active markets.",
+    "link": "https://www.archdaily.com/1042788/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment",
+    "source": "ArchDaily",
+    "published": "2026-06-26T06:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "The AI Trade Is No Longer About Owning One Thing: Taking Stock",
     "summary": "The case for the AI investment trade remains intact, but the risk of getting it wrong has risen considerably as the theme evolves beyond a single dominant position. This week's market activity illustrated how unforgiving the AI trade has become, with sharp reversals in previously consensus holdings catching investors off guard. Portfolio construction around AI increasingly demands granular sector judgment rather than broad thematic exposure.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
@@ -9,6 +119,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Snøhetta Reimagines Aino and Alvar Aalto's Paimio Sanatorium as a Wellness and Cultural Destination",
+    "summary": "Snøhetta has developed a masterplan to transform Alvar Aalto's iconic Paimio Sanatorium—a UNESCO-listed modernist complex from 1929–1933—into a hospitality, wellness, and cultural destination that reinterprets the original therapeutic design principles for contemporary use. The project preserves all 14 structures while creating spaces for international dialogue and high-end wellness tourism, offering a model for adaptive reuse of modernist architectural heritage.",
+    "link": "https://www.archdaily.com/1042779/snohetta-reimagines-aino-and-alvar-aaltos-paimio-sanatorium-as-a-wellness-and-cultural-destination",
+    "source": "ArchDaily",
+    "published": "2026-06-26T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "SemiAnalysis Xie on Asia AI Supply Chain",
@@ -86,6 +207,28 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Leer y analizar los reportes a medias engaña",
+    "summary": "Los siete reportes del INEGI publicados esta semana muestran una realidad más compleja que las cifras aisladas: el IGAE creció 2.2% en abril pero solo 0.7% acumulado al año, la manufactura está estancada, y el récord exportador se concentra en sectores no automotrices justo cuando arranca la revisión del T-MEC el 1 de julio. El artículo advierte que leer los indicadores económicos en forma aislada puede llevar a conclusiones engañosas sobre el estado real de la economía mexicana.",
+    "link": "https://www.eleconomista.com.mx/opinion/leer-analizar-reportes-medias-engana-20260626-820404.html",
+    "source": "El Economista",
+    "published": "2026-06-26T01:02:29-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Oportunidad desperdiciada?",
+    "summary": "La alianza FIFA-Airbnb para el Mundial 2026 prometía hasta 3,600 millones de dólares de derrama para las ciudades anfitrionas, pero en la CDMX la regulación de renta turística generó tal incertidumbre jurídica que más de 700 anfitriones presentaron amparos ante la falta de certeza sobre su actividad. El artículo concluye que la tensión entre el desarrollo turístico y el acceso a la vivienda dejó sin aprovechar plenamente la oportunidad de inversión inmobiliaria que representó el torneo.",
+    "link": "https://www.eleconomista.com.mx/opinion/oportunidad-desperdiciada-20260626-820403.html",
+    "source": "El Economista",
+    "published": "2026-06-26T01:00:10-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Colapso de población en México",
