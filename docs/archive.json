@@ -1,5 +1,192 @@
 [
   {
+    "title": "The AI Trade Is No Longer About Owning One Thing: Taking Stock",
+    "summary": "The case for the AI investment trade remains intact, but the risk of getting it wrong has risen considerably as the theme evolves beyond a single dominant position. This week's market activity illustrated how unforgiving the AI trade has become, with sharp reversals in previously consensus holdings catching investors off guard. Portfolio construction around AI increasingly demands granular sector judgment rather than broad thematic exposure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+    "source": "Bloomberg",
+    "published": "2026-06-26T06:13:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SemiAnalysis Xie on Asia AI Supply Chain",
+    "summary": "SemiAnalysis research lead Myron Xie identifies the Asian hardware suppliers emerging as clear winners in the AI demand surge, based on production capacity, technology advantage in high-bandwidth memory, and strategic positioning with hyperscalers. The analysis highlights how the AI supply chain is bifurcating between commodity hardware and premium AI-optimized components, with the latter commanding outsized margins. Understanding these dynamics is critical for assessing the durability of capex cycles driving AI infrastructure investment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/semianalysis-xie-on-asia-ai-supply-chain-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T05:14:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Cost Reality Check Jolts Tech Stocks as Apple Raises Prices",
+    "summary": "Asian technology stocks slumped after Apple raised product prices globally, stoking concern that rising component costs from AI-driven chip demand will curb device demand and eventually slow the memory chip rally that has powered the AI trade. The selloff reflects growing anxiety about the sustainability of AI infrastructure spending against real hardware cost pressures flowing through the supply chain. Investors are reassessing whether the AI cycle can sustain elevated valuations as component costs flow through to consumer prices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
+    "source": "Bloomberg",
+    "published": "2026-06-26T04:36:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "GCash Owner Seeks Up to $1.5 Billion in Record Philippine IPO",
+    "summary": "Mynt, the company behind GCash — the Philippines' dominant mobile wallet — is targeting up to $1.5 billion in what would be the country's largest IPO ever. The offering highlights strong investor appetite for emerging market fintech platforms that have achieved scale and monetization, a profile increasingly relevant to LatAm digital financial services players seeking capital. Deal structure and valuation multiples will serve as a benchmark for similar fintech IPOs across emerging markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/gcash-backer-mynt-seeks-up-to-1-5-billion-in-biggest-philippine-ipo-ever",
+    "source": "Bloomberg",
+    "published": "2026-06-26T04:16:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kevin Warsh's tough talk on inflation reassures investors",
+    "summary": "New Federal Reserve Chairman Kevin Warsh delivered hawkish commentary on inflation, driving down long-term inflation expectations and providing near-term relief for bond markets globally. The combination of Warsh's tough stance and falling oil prices is tempering rate hike bets, with direct implications for Mexican mortgage rates and capital flows. For Mexico's housing finance sector, the Fed's policy trajectory remains a key determinant of peso dynamics and domestic credit conditions.",
+    "link": "https://www.ft.com/content/a825975a-df76-4f9c-9eb9-774329ebc29d",
+    "source": "Financial Times",
+    "published": "2026-06-26T04:00:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How the DeepMind mafia brought the AI boom to London",
+    "summary": "Former DeepMind researchers have seeded a vibrant AI startup ecosystem in London, raising the question of whether the UK can become more than a US tech outpost or a talent pipeline for Silicon Valley. Alumni networks from Google's DeepMind have founded and funded a generation of AI companies, creating an entrepreneurial cluster that now attracts serious venture capital. The dynamic illustrates how elite AI talent concentration drives geographic clustering of AI investment and enterprise innovation capacity.",
+    "link": "https://www.ft.com/content/6a3a46b9-4725-469e-a909-917768a74afb",
+    "source": "Financial Times",
+    "published": "2026-06-26T04:00:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Samsung, SK Hynix Reportedly Preparing Huge AI Spending Push",
+    "summary": "Samsung and SK Hynix are preparing to announce hundreds of billions of dollars in new AI-related capital investments on Monday, according to South Korean media reports. The planned spending would represent one of the largest single-cycle capital commitments in semiconductor history, reflecting extraordinary demand for AI memory chips — particularly high-bandwidth memory. Announcements are expected to detail next-generation capacity expansion and HBM production ramp-ups to meet hyperscaler demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say",
+    "source": "Bloomberg",
+    "published": "2026-06-26T01:24:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank Shares Tumble After Report of OpenAI's IPO Delay",
+    "summary": "SoftBank shares fell as much as 13% after reports that OpenAI may postpone its initial public offering until next year, delaying returns for its primary Japanese backer which holds a large stake through its Vision Fund. The news underscores how tightly SoftBank's equity value has become coupled to OpenAI's capital markets timeline and monetization path. A delayed IPO would extend the period in which SoftBank's massive AI bet remains in private-market territory with uncertain liquidity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay",
+    "source": "Bloomberg",
+    "published": "2026-06-26T01:13:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Colapso de población en México",
+    "summary": "México enfrenta una transformación demográfica estructural: la tasa de fecundidad cayó de siete hijos por mujer en los años 60 a niveles que pronostican una marcada contracción de la fuerza laboral en las próximas décadas. Este colapso amenaza los motores del crecimiento económico que sustentaron el 'milagro mexicano' y tendrá implicaciones profundas para la demanda habitacional a largo plazo. La dinámica reproduce patrones ya observados en Japón y Corea del Sur, con consecuencias estructurales para el financiamiento de infraestructura social.",
+    "link": "https://www.eleconomista.com.mx/opinion/colapso-poblacion-mexico-20260626-820379.html",
+    "source": "El Economista",
+    "published": "2026-06-26T00:06:06-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Desencadenando a Prometeo: Las capacidades en la carrera por la innovación",
+    "summary": "Economistas del Banco Mundial argumentan que los países en desarrollo con acceso a tecnologías de frontera no logran convertirlas en productividad por falta de capital humano, infraestructura y capacidades de gestión, lo que denominan la 'paradoja de la innovación'. El problema no es el acceso al conocimiento sino la ausencia de condiciones habilitadoras para absorberlo, un hallazgo con implicaciones directas para la adopción empresarial de IA. Economías como Corea del Sur y Singapur sirven de modelo al haber superado esa brecha mediante inversión sostenida en capacidades institucionales y educativas.",
+    "link": "https://www.eleconomista.com.mx/opinion/desencadenando-prometeo-capacidades-carrera-innovacion-20260625-820376.html",
+    "source": "El Economista",
+    "published": "2026-06-25T23:43:16-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación claudica en los estados mexicanos",
+    "summary": "La inflación en México se desaceleró a 3.55% anual en la primera quincena de junio, hilando seis quincenas consecutivas de moderación y situándose por segunda vez dentro del rango objetivo de Banxico de 3% más menos 1 punto porcentual. De las 32 entidades federativas, 26 ya reportan inflación dentro de la meta, frente a solo cinco en el mismo período del año anterior. Cinco estados aún registran tasas superiores al 4%, con implicaciones diferenciadas para el crédito hipotecario regional.",
+    "link": "https://www.eleconomista.com.mx/estados/inflacion-claudica-estados-mexicanos-20260625-820372.html",
+    "source": "El Economista",
+    "published": "2026-06-25T23:19:33-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "En mayo, índice PCE subió 4.1% anual, un máximo de tres años",
+    "summary": "El índice PCE de Estados Unidos alcanzó 4.1% anual en mayo, su nivel más alto en tres años, impulsado por los precios de energía derivados de la guerra entre EE.UU. e Irán que bloqueó el Estrecho de Ormuz. Este repunte pone a prueba el relato de la Fed de que los precios caerán pronto y aumenta la probabilidad de alzas de tasas adicionales con impacto directo sobre el costo del crédito en México. Los expertos advierten que la normalización de precios energéticos tomará meses incluso si el conflicto concluye.",
+    "link": "https://www.eleconomista.com.mx/economia/mayo-indice-pce-subio-4-1-anual-maximo-tres-anos-20260625-820369.html",
+    "source": "El Economista",
+    "published": "2026-06-25T23:12:29-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 73,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump Administration Asks OpenAI to Stagger AI Model Release",
+    "summary": "The Trump administration asked OpenAI to stagger the release of an upcoming powerful AI model, nearly two weeks after Anthropic was compelled to suspend its most capable offerings under regulatory pressure. The move signals intensifying government intervention in frontier AI model deployment, creating a new compliance layer for AI labs and raising questions about competitive fairness when some models face state-imposed delays. This pattern of regulatory intervention is reshaping how AI companies plan product roadmaps and manage government stakeholder relationships.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
+    "source": "Bloomberg",
+    "published": "2026-06-25T22:00:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Consumer Side of AI Currently Underweighted, Says Mark Pincus",
+    "summary": "Zynga founder Mark Pincus argues the consumer dimension of AI is being systematically underweighted relative to enterprise and engineering applications, a pattern he says contradicts how the internet developed its mass economic impact. While most AI remains a 'single player experience,' Pincus sees transformative near-term effects on the labor market as AI scales into consumer-facing applications. The perspective highlights a strategic gap for organizations that focus disproportionately on developer productivity while underinvesting in consumer-facing AI transformation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/consumer-side-of-ai-currently-underweighted-mark-pincus-video",
+    "source": "Bloomberg",
+    "published": "2026-06-25T21:52:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Pentagon Sees Bigger Role for AI in Setting Military Targets",
+    "summary": "The Pentagon has quietly revised its battlefield targeting doctrine to explicitly open the door for AI to make critical wartime targeting decisions in future conflicts, moving beyond current human-in-the-loop requirements. The revision reflects the US military's urgency to compress decision-making cycles against near-peer adversaries who are rapidly integrating AI into their own command structures. The move will intensify global scrutiny of AI governance frameworks and accelerate regulatory pressure on AI model developers regarding dual-use capabilities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets",
+    "source": "Bloomberg",
+    "published": "2026-06-25T20:54:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley admite que fue muy escéptico con Qualcomm y eleva su precio objetivo",
+    "summary": "Morgan Stanley reconoció haber subestimado el potencial de Qualcomm en centros de datos de IA — cuyo mercado proyecta podría alcanzar un billón de dólares — y elevó su precio objetivo de US$146 a US$231, pasando de underweight a equalweight. La revisión incorpora el crecimiento esperado en ingresos de data centers y un mayor múltiplo de valuación, de 21 a 28 veces. El movimiento refleja la tendencia de ampliar el mapa de beneficiarios del boom de IA más allá de los líderes históricos de semiconductores.",
+    "link": "https://www.bloomberglinea.com/mercados/morgan-stanley-admite-que-fue-muy-esceptico-con-qualcomm-y-eleva-su-precio-objetivo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-25T19:51:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "WIDOARQUITECTOS Office / WIDOARQUITECTOS",
+    "summary": "WIDOARQUITECTOS completed a 150 sqm studio-office in Cuernavaca, Mexico, designed by the firm for its own practice and photographed by César Belio. The 2026 project demonstrates a restrained approach to contemporary Mexican office design within a compact footprint. The project exemplifies how emerging Mexican architecture firms are shaping the identity of professional workspaces in mid-size cities beyond the capital.",
+    "link": "https://www.archdaily.com/1041855/widoarquitectos-office-widoarquitectos",
+    "source": "ArchDaily",
+    "published": "2026-06-25T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Memory is a Structural Story for AI: Lovell",
     "summary": "Nadia Lovell, Head of Global Equity Strategy at UBS Global Wealth, argues that memory chips represent a sticky, structural story within the AI trade with longer runway than typical cyclical plays. Unlike other AI hardware themes, memory demand is deeply embedded in the data center buildout thesis and expected to sustain well beyond near-term earnings cycles. The thesis has direct implications for semiconductor investment allocation and AI infrastructure positioning.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/memory-is-a-structural-story-for-ai-lovell-video",
@@ -206,6 +393,17 @@
     "category": "Personal Interest Watchlist",
     "relevance_score": 60,
     "language": "en",
+    "light": false
+  },
+  {
+    "title": "Tras renovar el TLCUEM, México quiere ampliar negocios con países europeos de alto ingreso",
+    "summary": "Tras la renovación del Tratado de Libre Comercio México-Unión Europea, el gobierno mexicano explora ampliar sus relaciones comerciales con países europeos de alto ingreso como Suiza, Noruega y el Reino Unido. La estrategia busca diversificar el acceso a mercados y capitales europeos ante la incertidumbre de la relación comercial con Estados Unidos. El acercamiento abre oportunidades para el sector financiero mexicano en términos de coinversión, financiamiento de infraestructura y acceso a capital institucional europeo.",
+    "link": "https://expansion.mx/economia/2026/06/25/mexico-desempolva-otro-tratado-comercial-europa",
+    "source": "Expansión",
+    "published": "2026-06-25T11:55:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
     "light": false
   },
   {
@@ -768,6 +966,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Zuckerberg busca crear una app de mercados predictivos para competir con Polymarket",
+    "summary": "Mark Zuckerberg evalúa el desarrollo de una aplicación de mercados predictivos para competir con Polymarket y Kalshi, plataformas que han registrado un crecimiento fenomenal hacia el billón de dólares en volumen de operaciones. La entrada de Meta en este segmento reflejaría el creciente interés de las grandes plataformas tecnológicas en los mercados de información como nueva categoría de producto financiero y de engagement. De materializarse, la iniciativa agrega presión a los reguladores para definir marcos claros para estos instrumentos, que aún enfrentan barreras de acceso en América Latina.",
+    "link": "https://expansion.mx/tecnologia/2026/06/24/zuckerberg-app-mercados-predictivos-competir-polymarket",
+    "source": "Expansión",
+    "published": "2026-06-24T19:00:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Fed Says Basis Trade Key Driver of Hedge Fund Treasury Exposure",
