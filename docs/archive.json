@@ -1,5 +1,38 @@
 [
   {
+    "title": "Tech Slump Deepens",
+    "summary": "Technology stocks closed the week sharply lower as investors reassessed the AI trade, with analysts citing rising semiconductor costs, memory pricing pressures, and questions about whether AI companies can justify soaring valuations. Bloomberg Intelligence's global head of tech research and a macro strategist discussed evolving US export restrictions on advanced AI models and a cooling IPO market. The broad repricing signals a shift from speculative enthusiasm toward selective scrutiny of AI business fundamentals.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-27/tech-slump-deepens-video",
+    "source": "Bloomberg",
+    "published": "2026-06-27T12:18:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
+    "summary": "Lenovo's CFO describes the company's capital allocation strategy as it rides the AI infrastructure wave as a major server supplier to hyperscalers and enterprise customers building out AI training and inference capacity. The piece offers a front-row view of how major hardware vendors are thinking about the durability of the AI build-out cycle and balancing investment with margin discipline. It provides useful signal on demand durability at the hardware layer of the AI stack.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-27/how-lenovo-s-cfo-is-allocating-capital-during-one-of-history-s-biggest-booms",
+    "source": "Bloomberg",
+    "published": "2026-06-27T08:00:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT",
+    "summary": "Apple is pressing the White House for permission to purchase memory chips from CXMT, a blacklisted Chinese chipmaker, as it works to rein in semiconductor costs amid the AI hardware buildout. The move highlights the tension between supply chain diversification and US export control policy targeting Chinese chip manufacturers. The Financial Times first reported the executive-level talks between Apple and US government officials.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft",
+    "source": "Bloomberg",
+    "published": "2026-06-27T07:45:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Por qué Trump 'restringió' la nueva versión de Chat GPT 5? Presiona a OpenAI para aplazar su lanzamiento",
     "summary": "OpenAI comenzó a distribuir GPT-5.6 a un grupo reducido de 20 socios aprobados por el gobierno de Estados Unidos, a petición de la administración Trump para escalonar su lanzamiento masivo. La empresa reconoció que este proceso de acceso gubernamental no debería convertirse en la norma, pero lo acepta como medida temporal antes de una disponibilidad más amplia en las próximas semanas, incluyendo vía Amazon Bedrock. El movimiento instala un precedente de supervisión federal sobre el ritmo de lanzamiento de modelos de IA de vanguardia.",
     "link": "https://www.elfinanciero.com.mx/tech/2026/06/26/por-que-trump-restringio-la-nueva-version-de-chat-gpt-5-presiona-a-openai-para-aplazar-su-lanzamiento/",
@@ -9,6 +42,17 @@
     "relevance_score": 83,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Utility boss warns US faces blackouts due to power supply shortfall",
+    "summary": "Exelon's CEO warns the US power grid faces blackout risks as AI data center demand outpaces electricity supply growth, and argues that electricity rate increases are necessary to fund the required infrastructure upgrades. The comments highlight the growing strain between AI's capital-intensive buildout and the slower pace of utility planning and regulatory approval cycles. The executive is pressing policymakers to accelerate new generation capacity approvals.",
+    "link": "https://www.ft.com/content/14d2e591-7cd5-4456-904f-1b7fdc5cbc1a",
+    "source": "Financial Times",
+    "published": "2026-06-27T04:00:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Wall Street Week | USMCA: Can North America's Trade Deal Survive?",
@@ -44,6 +88,28 @@
     "light": true
   },
   {
+    "title": "Forum AI CEO on Pitfalls With AI in Politics",
+    "summary": "Campbell Brown, co-founder and CEO of Forum AI, argues that AI companies must subject themselves to greater external scrutiny, particularly as AI tools become embedded in political processes and public discourse. She highlights the governance gap between the pace of AI deployment and the oversight mechanisms needed to ensure accountability in politically sensitive contexts. The discussion reflects broader industry debate about voluntary versus mandatory transparency frameworks for AI in elections and media.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/forum-ai-ceo-on-pitfalls-with-ai-in-politics-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T22:33:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+    "summary": "Anthropic and the Trump administration are close to an agreement that would lift US restrictions on the company's top two AI models, following weeks of negotiations focused on national security concerns about the systems' capabilities. The deal would restore broader deployment access for models that had been subject to government-imposed limitations affecting enterprise and partner use. The development signals an emerging framework for how the US will manage advanced AI deployment alongside security review.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+    "source": "Bloomberg",
+    "published": "2026-06-26T21:44:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Las claves económicas de la semana (22 al 26 de junio): De tasas de Banxico e inflación de México y EU",
     "summary": "Banxico mantuvo su tasa de referencia en 6.5% en línea con lo esperado y señaló que la postura monetaria sigue siendo adecuada para enfrentar los riesgos macroeconómicos, sin anticipar cambios en el corto plazo. La semana también arrojó datos de inflación, actividad económica de abril, mercado laboral y balanza comercial de México, además del índice PCE y el PIB revisado de Estados Unidos del primer trimestre. México colocó asimismo 6,300 millones de dólares en bonos internacionales para financiar una recompra de deuda, consolidando su manejo de pasivos en mercados externos.",
     "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-22-26-junio-tasas-banxico-e-inflacion-mexico-eu-20260626-820542.html",
@@ -53,6 +119,17 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI Trade's Bruising Week Forces Investors to Be More Selective",
+    "summary": "Domain Money's founder and CEO Adam Dell discusses how the AI trade's difficult week is pushing investors toward greater selectivity, drawing on his experience at the intersection of fintech, venture capital, and early-stage startup mechanics. The conversation touches on what separates durable AI business models from those riding a speculative wave, set against broad market volatility in tech and semiconductor stocks. The discussion reflects growing investor scrutiny of the AI sector's revenue-versus-valuation math.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/ai-s-bruising-week-forces-investors-to-be-more-selective-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T20:12:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Beyond Chips, IMF Sees AI Wealth Boom Adding to Inflation Risks",
@@ -174,6 +251,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El dólar pone a prueba a América Latina: claves que mueven a las monedas de la región, según Citi",
+    "summary": "Citi identifica los factores que determinarán el comportamiento de las monedas latinoamericanas en el segundo semestre, destacando que la región enfrenta la fortaleza del dólar con mayor resiliencia que en ciclos anteriores gracias a posturas monetarias más restrictivas y mayores reservas. Los analistas señalan que las tasas reales de mercados emergentes de alto rendimiento siguen siendo atractivas y que el contexto favorece resistencia ante el avance del dólar. El peso mexicano y otras divisas serán puestas a prueba por la política de la Fed y la evolución de materias primas.",
+    "link": "https://www.bloomberglinea.com/mercados/el-dolar-pone-a-prueba-a-america-latina-claves-que-mueven-a-las-monedas-de-la-region-segun-citi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-26T14:40:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
@@ -319,6 +407,17 @@
     "light": false
   },
   {
+    "title": "Exclusiva: No nos obsesiona salir a bolsa sino ser un motor del emprendimiento — gerente de Rappi en Colombia",
+    "summary": "El country manager de Rappi en Colombia descarta la urgencia de una IPO y afirma que el verdadero objetivo es consolidarse como motor del emprendimiento en Latinoamérica, priorizando el crecimiento en ciudades intermedias y estratos medios. La startup, con presencia en nueve países, ya genera EBITDA positivo y crece más del 30% anual, reinvirtiendo el 100% de sus utilidades. La estrategia de expansión hacia mercados menos saturados posiciona a Rappi para una eventual salida a bolsa sin la presión inmediata de ejecutarla.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/no-nos-obsesiona-salir-a-bolsa-gerente-de-rappi-en-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-26T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Banxico inicia pausa prolongada en tasa de interés: La deja en 6.5 por ciento",
     "summary": "La Junta de Gobierno del Banco de México decidió por unanimidad mantener la tasa de referencia en 6.50%, iniciando una pausa monetaria prolongada orientada a consolidar la inflación en 3% para el segundo trimestre de 2027. El banco consideró el nivel actual del tipo de cambio, la ausencia de presiones de demanda y el grado de restricción monetaria vigente como factores que validan la postura ante un entorno macroeconómico complejo.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/06/26/banxico-inicia-pausa-prolongada-en-tasa-de-interes-la-deja-en-65-por-ciento/",
@@ -349,6 +448,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 68,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "How a New Generation of Architects Is Designing with Natural Light",
+    "summary": "This piece traces how contemporary architects are inheriting and evolving the tradition of treating natural light as a primary design material, citing works from Tadao Ando and Alvar Aalto as lineage references for current practitioners. Through the VELUX program presentations, it shows how daylight shapes spatial experience, comfort, and the perception of time within buildings. The article frames natural light not as a sustainability metric but as an irreplaceable architectural substance that defines presence.",
+    "link": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
+    "source": "ArchDaily",
+    "published": "2026-06-26T06:45:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
