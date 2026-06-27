@@ -1,5 +1,27 @@
 [
   {
+    "title": "Agendas llenas, vidas vacías",
+    "summary": "Salvador Alva, expresidente del Tecnológico de Monterrey y de PepsiCo en América Latina, advierte en su libro \"Vidas plenas\" que los ejecutivos acumulan actividades y compromisos a un ritmo que vacía el sentido de propósito y la dirección estratégica personal. El columnista Alberto Tovar destaca que el capitalismo genera opciones y gratificación inmediata pero también una sensación permanente de insuficiencia que lleva a trabajar para aparentar en lugar de construir. El texto es un llamado a replantear los indicadores de avance personal más allá de métricas externas de productividad, relevante para líderes que gestionan equipos en transformación.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/06/26/agendas-llenas-vidas-vacias/",
+    "source": "El Financiero",
+    "published": "2026-06-27T14:52:38+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI's Energy Crunch Has Investors Searching for Next IPO Winners",
+    "summary": "The AI boom's insatiable power demand is generating a new wave of investment and IPO activity in the energy and infrastructure sector, with Wall Street betting billions on companies promising to solve the electricity shortfall — even when underlying technologies remain unproven. Infrastructure providers positioned to serve hyperscale data centers are attracting record valuations as AI model training and inference continue to scale beyond current grid capacity. The dynamic mirrors earlier semiconductor euphoria, with investors front-running the energy constraint before revenue streams for these new entrants fully materialize.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
+    "source": "Bloomberg",
+    "published": "2026-06-27T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Tech Slump Deepens",
     "summary": "Technology stocks closed the week sharply lower as investors reassessed the AI trade, with analysts citing rising semiconductor costs, memory pricing pressures, and questions about whether AI companies can justify soaring valuations. Bloomberg Intelligence's global head of tech research and a macro strategist discussed evolving US export restrictions on advanced AI models and a cooling IPO market. The broad repricing signals a shift from speculative enthusiasm toward selective scrutiny of AI business fundamentals.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-27/tech-slump-deepens-video",
@@ -9,6 +31,28 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "SpaceX en bolsa: ¿cuánto vale una compañía cuyo negocio depende de expectativas a muy largo plazo?",
+    "summary": "SpaceX debutó en Nasdaq el 12 de junio de 2026 bajo el ticker SPCX a 135 dólares por acción, levantando 75,000 millones de dólares y alcanzando una valoración de 1.77 billones —la mayor OPI de la historia—, convirtiendo a Elon Musk en la primera persona con una fortuna personal superior al billón de dólares. El artículo examina el desafío de valorar una empresa cuyo modelo de negocio depende de expectativas de muy largo plazo, simbolizando la transición de la exploración espacial financiada por Estados a un ecosistema donde el capital privado busca rentabilidad en actividades antes consideradas ciencia ficción. Los analistas debaten si la valuación actual refleja los flujos de caja reales o una apuesta especulativa sobre horizontes de décadas.",
+    "link": "https://www.eleconomista.com.mx/mercados/spacex-bolsa-cuanto-vale-compania-cuyo-negocio-depende-expectativas-plazo-20260627-820559.html",
+    "source": "El Economista",
+    "published": "2026-06-27T10:00:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Comprar o rentar vivienda en México? Las claves para tomar una decisión financiera inteligente",
+    "summary": "El precio promedio de una vivienda en México superó los 2 millones de pesos en el primer trimestre de 2026 según la Sociedad Hipotecaria Federal, requiriendo ingresos mensuales de aproximadamente 83,500 pesos para acceder a un crédito hipotecario, elevando considerablemente la barrera de entrada a la propiedad. El artículo analiza cómo el alza sostenida de precios inmobiliarios, la mayor movilidad laboral y las nuevas formas de trabajo están desafiando la lógica histórica de que comprar siempre supera a rentar. Especialistas apuntan que la decisión óptima depende del horizonte de permanencia, la capacidad de enganche y la etapa de vida del comprador, no de una regla universal.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/comprar-rentar-vivienda-mexico-claves-tomar-decision-financiera-inteligente-20260627-820544.html",
+    "source": "El Economista",
+    "published": "2026-06-27T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
@@ -51,6 +95,17 @@
     "published": "2026-06-27T04:00:34+00:00",
     "category": "AI & Agents",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump administration allows some access to Anthropic's Mythos",
+    "summary": "The Trump administration granted limited access to Anthropic's most advanced AI model, Mythos, easing tensions with the AI lab after a national security review but stopping short of unrestricted deployment. While the agreement moves toward normalcy for one of the frontier AI labs, observers note that Washington's ad hoc regulatory approach creates persistent uncertainty for developers of the most capable AI systems. The episode is shaping up as a precedent-setting test case for how the US government will manage ongoing oversight of frontier AI models without a formal statutory framework.",
+    "link": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573",
+    "source": "Financial Times",
+    "published": "2026-06-27T00:37:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 88,
     "language": "en",
     "light": true
   },
