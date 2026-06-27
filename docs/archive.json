@@ -1,5 +1,93 @@
 [
   {
+    "title": "¿Por qué Trump 'restringió' la nueva versión de Chat GPT 5? Presiona a OpenAI para aplazar su lanzamiento",
+    "summary": "OpenAI comenzó a distribuir GPT-5.6 a un grupo reducido de 20 socios aprobados por el gobierno de Estados Unidos, a petición de la administración Trump para escalonar su lanzamiento masivo. La empresa reconoció que este proceso de acceso gubernamental no debería convertirse en la norma, pero lo acepta como medida temporal antes de una disponibilidad más amplia en las próximas semanas, incluyendo vía Amazon Bedrock. El movimiento instala un precedente de supervisión federal sobre el ritmo de lanzamiento de modelos de IA de vanguardia.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/06/26/por-que-trump-restringio-la-nueva-version-de-chat-gpt-5-presiona-a-openai-para-aplazar-su-lanzamiento/",
+    "source": "El Financiero",
+    "published": "2026-06-27T05:30:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street Week | USMCA: Can North America's Trade Deal Survive?",
+    "summary": "This Bloomberg Wall Street Week special examines whether the USMCA trade deal can survive renegotiation, exploring the deep cross-border integration built across autos, agriculture, and energy over decades. American farmers increasingly depend on exports to Canada and Mexico as other overseas markets become harder to access, while years of infrastructure investment have created energy flows that cross borders far more easily than political narratives suggest. The episode asks whether three countries with different priorities can agree on a common economic vision—a question with direct implications for nearshoring investment and Mexico's export-driven growth.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-26/wall-street-week-north-american-trade-showdown-video",
+    "source": "Bloomberg",
+    "published": "2026-06-26T23:13:58+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's Mythos 5 AI Model Cleared by US for Wider Use",
+    "summary": "The US government approved Anthropic to restore broader access to its powerful Mythos 5 AI model after the company resolved Trump administration concerns about national security risks posed by the technology. The clearance ends weeks of restrictions on one of Anthropic's flagship models and allows trusted partners to deploy the system more widely. The agreement marks a significant milestone in the evolving relationship between frontier AI labs and the US government over the control of advanced AI capabilities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
+    "source": "Bloomberg",
+    "published": "2026-06-26T23:02:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hellman & Friedman-Backed Hub Files Confidentially for IPO",
+    "summary": "Hub International Holdings, a major insurance brokerage platform backed by PE firm Hellman & Friedman, has confidentially filed for an initial public offering with proceeds expected to help reduce the company's debt. The confidential filing keeps specifics private until the company is ready for a public roadshow. Hub's IPO would represent a significant PE-backed financial services exit and could test market appetite for large-cap insurance listings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/hellman-friedman-backed-hub-files-confidentially-for-ipo",
+    "source": "Bloomberg",
+    "published": "2026-06-26T22:37:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (22 al 26 de junio): De tasas de Banxico e inflación de México y EU",
+    "summary": "Banxico mantuvo su tasa de referencia en 6.5% en línea con lo esperado y señaló que la postura monetaria sigue siendo adecuada para enfrentar los riesgos macroeconómicos, sin anticipar cambios en el corto plazo. La semana también arrojó datos de inflación, actividad económica de abril, mercado laboral y balanza comercial de México, además del índice PCE y el PIB revisado de Estados Unidos del primer trimestre. México colocó asimismo 6,300 millones de dólares en bonos internacionales para financiar una recompra de deuda, consolidando su manejo de pasivos en mercados externos.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-22-26-junio-tasas-banxico-e-inflacion-mexico-eu-20260626-820542.html",
+    "source": "El Economista",
+    "published": "2026-06-26T21:09:32-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Beyond Chips, IMF Sees AI Wealth Boom Adding to Inflation Risks",
+    "summary": "The IMF's chief economist warns that artificial intelligence may fuel inflation not only by driving up semiconductor costs but also by creating a wealth effect that boosts consumer spending. This dual inflationary channel—supply-side chip price pressure and demand-side wealth gains—complicates the monetary policy outlook for central banks navigating the AI boom. The analysis positions AI as a potential macro risk factor beyond its productivity benefits, with implications for interest rate trajectories globally.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/beyond-chips-imf-sees-ai-wealth-boom-adding-to-inflation-risks",
+    "source": "Bloomberg",
+    "published": "2026-06-26T19:30:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple's Vision Pro and Smart Glasses Chief to Join OpenAI",
+    "summary": "Apple's top executive overseeing the Vision Pro headset and smart glasses efforts is leaving to join OpenAI, continuing a pattern of senior talent departing Big Tech for AI frontier labs. The move signals OpenAI's expanding ambition into hardware and mixed-reality product development, areas where Apple has invested heavily. The defection is the latest in a streak of high-profile exits from major technology companies to AI-focused rivals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai",
+    "source": "Bloomberg",
+    "published": "2026-06-26T19:22:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Villa Riviera Golf Residence / Atelier130",
+    "summary": "Atelier130 completed a 600-square-meter luxury villa in Abidjan, Côte d'Ivoire, positioned within a golf resort development that integrates the architecture with the surrounding landscape. The 2025 project, photographed by Alejandra Loreto, showcases high-end residential design tailored to a leisure and amenity-driven real estate context. The villa blends contemporary formal language with a tropical golf resort setting.",
+    "link": "https://www.archdaily.com/1042800/villa-riviera-golf-residence-atelier130",
+    "source": "ArchDaily",
+    "published": "2026-06-26T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "What Is AI Distillation and Why Is It a Worry for the Industry?",
     "summary": "AI distillation allows rivals to build capable competing models by training on the outputs of more expensive frontier systems, enabling newcomers to replicate cutting-edge AI capabilities for a fraction of the original investment. This poses a structural threat to companies like OpenAI and Anthropic that have spent hundreds of billions on R&D, as it potentially undermines their competitive moats and raises urgent questions about how proprietary training data and model outputs can be legally protected.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-26/what-is-ai-distillation-and-why-is-it-a-worry-for-the-industry",
@@ -95,6 +183,17 @@
     "published": "2026-06-26T14:40:01+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Is Already Reshaping US Politics at Every Level",
+    "summary": "AI is increasingly present across every level of the 2026 US elections, from data center policy debates and tech billionaire campaign funding to concerns about deepfaked campaign ads. Silicon Valley money is driving AI's expanding role in political campaigns and infrastructure decisions, creating new regulatory and governance questions. The feature examines how AI's intersection with democratic processes is reshaping both campaign strategy and public policy discourse.",
+    "link": "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections",
+    "source": "Bloomberg",
+    "published": "2026-06-26T14:32:20+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -207,6 +306,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Island Crest / ONOMA Architecture",
+    "summary": "ONOMA Architecture completed Island Crest, a 4,000-square-foot high-end residence on Mercer Island near Seattle, with photography by Rafael Soldi documenting the 2025 project. The house represents premium Pacific Northwest residential design in a waterfront island setting. The project is featured on ArchDaily as part of the studio's contemporary residential portfolio.",
+    "link": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
+    "source": "ArchDaily",
+    "published": "2026-06-26T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Banxico inicia pausa prolongada en tasa de interés: La deja en 6.5 por ciento",
