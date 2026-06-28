@@ -1,5 +1,71 @@
 [
   {
+    "title": "Google caps Meta's Gemini use as AI demand strains capacity",
+    "summary": "Google has capped Meta's access to its Gemini AI models as exploding demand for advanced AI systems makes compute capacity the tech industry's scarcest strategic resource. The constraint signals that even top-tier companies face access limits to frontier AI infrastructure, creating a new competitive dynamic in enterprise AI adoption. Computing power shortages are poised to shape which companies can scale AI products and which remain bottlenecked.",
+    "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+    "source": "Financial Times",
+    "published": "2026-06-28T04:00:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bond giant Pimco flexes muscles with private placements push",
+    "summary": "Pimco is expanding aggressively into private placements, targeting borrowers who need to raise capital outside traditional public markets as the lines between public and private debt continue to blur. The world's largest bond manager is leveraging its scale to compete for mandates in a segment traditionally dominated by banks and smaller credit funds. Pimco's push reflects how institutional asset managers are competing for private credit deal flow as the alternative credit market matures.",
+    "link": "https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
+    "source": "Financial Times",
+    "published": "2026-06-28T04:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese tech hub's shift into robotaxis leaves drivers by the wayside",
+    "summary": "Shenzhen is rapidly scaling its driverless robotaxi fleet as China's AI-in-mobility push accelerates, but the expansion is displacing gig economy workers who are losing livelihoods to automation. The city's experience provides a real-world case study of how AI deployment in transportation disrupts employment even as it creates new mobility options. The Shenzhen model is being watched globally as a benchmark for how cities will manage AI-driven economic displacement.",
+    "link": "https://www.ft.com/content/b1445598-e5e3-4530-9e82-e0155c44106b",
+    "source": "Financial Times",
+    "published": "2026-06-28T02:53:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+    "summary": "Investor enthusiasm around the AI boom drove Hong Kong share sales to a five-year high in the first half of 2026, overcoming headwinds from a sluggish equity market and regulatory challenges. The surge reflects how AI-driven investor sentiment is generating capital markets activity across Asian markets despite local structural weaknesses. The trend suggests that AI optimism is powerful enough to sustain IPO and equity capital activity even in unfavorable market conditions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+    "source": "Bloomberg",
+    "published": "2026-06-28T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA y el nearshoring elevarán 10% la demanda eléctrica, pero el capital llega lento",
+    "summary": "La inteligencia artificial y el nearshoring impulsarán un incremento de hasta 10% en la demanda eléctrica de México, creando una presión significativa sobre la infraestructura energética del país. Sin embargo, el financiamiento para la transición energética avanza lentamente, lo que podría convertirse en un cuello de botella que limite el potencial de México como destino de manufactura e inversión tecnológica. La brecha entre la demanda proyectada y la capacidad de inversión representa un riesgo estructural para el crecimiento industrial que el nearshoring está generando.",
+    "link": "https://expansion.mx/empresas/2026/06/27/financiamiento-frena-transicion-energetica-en-mexico",
+    "source": "Expansión",
+    "published": "2026-06-27T20:06:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
+    "summary": "Technology companies are selling equity at a pace reminiscent of the dot-com boom, prompting bond investors to worry that AI-driven capital requirements are loading balance sheets with unsustainable debt. The surge in tech equity issuance reflects the massive funding needs of AI infrastructure buildout but raises questions about corporate credit quality at scale. Market observers are increasingly concerned that the AI spending cycle could create overleveraged balance sheets similar to those seen in previous tech booms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-06-27T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Agendas llenas, vidas vacías",
     "summary": "Salvador Alva, expresidente del Tecnológico de Monterrey y de PepsiCo en América Latina, advierte en su libro \"Vidas plenas\" que los ejecutivos acumulan actividades y compromisos a un ritmo que vacía el sentido de propósito y la dirección estratégica personal. El columnista Alberto Tovar destaca que el capitalismo genera opciones y gratificación inmediata pero también una sensación permanente de insuficiencia que lleva a trabajar para aparentar en lugar de construir. El texto es un llamado a replantear los indicadores de avance personal más allá de métricas externas de productividad, relevante para líderes que gestionan equipos en transformación.",
     "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/06/26/agendas-llenas-vidas-vacias/",
@@ -108,6 +174,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Así son las Meta Glasses by Kylie Jenner: precio y funciones de los lentes con IA",
+    "summary": "Meta lanzó las Meta Glasses by Kylie Jenner, una colaboración que integra inteligencia artificial en gafas de uso cotidiano disponibles desde $399 dólares, con cámara de 12 MP y la voz de Jenner como asistente AI personalizado, en alianza con EssilorLuxottica. El lanzamiento forma parte de la estrategia de Meta para masificar su plataforma de hardware con IA a través de alianzas con íconos culturales, compitiendo directamente en el segmento de wearables inteligentes. El producto posiciona a Meta como contendiente serio en el mercado de gafas con IA frente a competidores como Google y Apple.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/asi-son-las-meta-glasses-by-kylie-jenner-precio-y-funciones-de-los-lentes-con-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-27T00:32:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Wall Street Week | USMCA: Can North America's Trade Deal Survive?",
