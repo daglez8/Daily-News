@@ -1,5 +1,16 @@
 [
   {
+    "title": "Can USMCA Survive Trump's Second Term?",
+    "summary": "Former diplomats and trade negotiators from Canada, Mexico, and the US agree that the USMCA review extends far beyond tariffs, underpinning supply chains, agriculture, intellectual property, and investment across North America. Key disputes remain over autos, China's role in supply chains, and industrial policy, while all parties stress the need to deepen regional economic integration. The broader question is whether North America can adapt to geopolitical pressures without unraveling a pact now deeply embedded in regional economies.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
+    "source": "Bloomberg",
+    "published": "2026-06-28T14:04:03+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Hawkish Fed Throws Down Challenge for Emerging-Market Bond Rally",
     "summary": "Fed Chairman Kevin Warsh's hawkish stance is complicating a nascent rally in emerging-market bonds that had briefly benefited from falling energy prices. The tighter monetary outlook poses a fresh headwind for EM debt markets, including Mexico, where the interest rate cycle tracks the US closely.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-28/hawkish-fed-throws-down-challenge-for-emerging-market-bond-rally",
@@ -20,6 +31,28 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Why the US Needs its Neighbors for Energy",
+    "summary": "Roughly 70% of Mexico's energy comes from the United States via natural gas, while Canada supplies about 60% of US oil imports, making North American energy an interconnected bilateral rather than trilateral system. Energy executives and regulators broadly agree the current arrangement functions well and should largely be preserved during USMCA negotiations. For Mexico, continued access to affordable US natural gas is critical to powering nearshoring manufacturing and overall economic competitiveness.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-28/why-the-us-needs-its-neighbors-for-energy-video",
+    "source": "Bloomberg",
+    "published": "2026-06-28T12:04:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Desde US$30.000 por noche: así es OKA, la villa más lujosa de Brasil",
+    "summary": "OKA, una villa privada en las colinas de Itacaré, Brasil, opera bajo un modelo todo incluido con estancias desde US$30,000 por noche y ocho suites de 45 metros cuadrados cada una. Desarrollada por el grupo sueco-brasileño Barracuda, se posiciona como la propiedad más lujosa de Brasil con chef 24/7, cava de vinos y arquitectura de autor en entorno natural. El crecimiento de este tipo de hospedaje ultra-premium refleja una tendencia en el turismo de lujo hacia experiencias totalmente curadas que eliminan los cargos adicionales.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/desde-us30000-por-noche-asi-es-oka-la-villa-mas-lujosa-de-brasil/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-28T11:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Robots, not chatbots, will realise AI's potential",
@@ -44,6 +77,17 @@
     "light": true
   },
   {
+    "title": "Google Caps Meta's Use of Gemini AI, Financial Times Reports",
+    "summary": "Google has placed limits on Meta's access to its Gemini AI models because it could not provide the computing capacity Meta needed, highlighting how surging AI demand is turning compute into a scarce commodity. The constraints create bottlenecks even for the largest tech buyers and reshape commercial relationships between frontier AI providers. For enterprises evaluating AI strategies, the compute crunch reinforces the case for diversifying model providers rather than concentrating on a single supplier.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+    "source": "Bloomberg",
+    "published": "2026-06-28T09:02:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI 'exuberance' risks ending in lengthy investment bust, BIS warns",
     "summary": "The Bank for International Settlements warns that excessive AI investment enthusiasm could end in a prolonged funding bust that threatens the global economy. Weak returns could trigger a sharp pullback in tech funding, creating systemic credit and growth risks that extend well beyond the tech sector.",
     "link": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
@@ -51,6 +95,28 @@
     "published": "2026-06-28T09:00:07+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué el precio de la vivienda social crece a mayor ritmo?",
+    "summary": "El precio de la vivienda social en México aumentó 11% anual en el primer trimestre de 2026, el mayor incremento entre los segmentos habitacionales y por encima de la vivienda media y residencial. La escasez de oferta, el encarecimiento del suelo y los costos de materiales y financiamiento presionan el precio final. Este entorno complica el acceso a la vivienda para los segmentos de menores ingresos, representando un reto estructural para el mercado hipotecario en México.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/precio-vivienda-social-crece-mayor-ritmo-20260628-820614.html",
+    "source": "El Economista",
+    "published": "2026-06-28T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
+    "summary": "The BIS 2026 Annual Economic Report flagged an AI investment bust, persistent inflation, and fiscal stress as the three most alarming near-term threats to global prosperity. A correction in AI-related spending could propagate through credit channels, dampening growth for economies with significant exposure to the AI capital cycle. The warning arrives as central banks face the dual challenge of managing inflation while monitoring emerging financial stability risks from AI-driven leverage.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says",
+    "source": "Bloomberg",
+    "published": "2026-06-28T09:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
     "language": "en",
     "light": true
   },
