@@ -1,5 +1,71 @@
 [
   {
+    "title": "Hawkish Fed Throws Down Challenge for Emerging-Market Bond Rally",
+    "summary": "Fed Chairman Kevin Warsh's hawkish stance is complicating a nascent rally in emerging-market bonds that had briefly benefited from falling energy prices. The tighter monetary outlook poses a fresh headwind for EM debt markets, including Mexico, where the interest rate cycle tracks the US closely.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/hawkish-fed-throws-down-challenge-for-emerging-market-bond-rally",
+    "source": "Bloomberg",
+    "published": "2026-06-28T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+    "summary": "Austria is pushing the European Union to consider hosting Anthropic within its borders as a counter to US restrictions that block foreigners from accessing the company's most advanced AI models. The move reflects Europe's urgency to secure sovereign access to frontier AI amid escalating transatlantic tech-policy tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+    "source": "Bloomberg",
+    "published": "2026-06-28T12:29:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Robots, not chatbots, will realise AI's potential",
+    "summary": "The Financial Times argues that physical AI—particularly factory-floor robotics—holds far greater potential for boosting rich-world productivity than conversational AI. Widespread industrial automation could deliver the measurable output gains that chatbots have so far failed to produce at scale.",
+    "link": "https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8",
+    "source": "Financial Times",
+    "published": "2026-06-28T11:00:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Europe's Hunt for AI Stocks Leads to Power Suppliers and Banks",
+    "summary": "European investors seeking AI exposure are pivoting toward power utilities and banks as conventional tech-sector AI plays become increasingly expensive. The shift signals a maturing of AI investment theses from pure software toward the infrastructure layer that enables the technology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
+    "source": "Bloomberg",
+    "published": "2026-06-28T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI 'exuberance' risks ending in lengthy investment bust, BIS warns",
+    "summary": "The Bank for International Settlements warns that excessive AI investment enthusiasm could end in a prolonged funding bust that threatens the global economy. Weak returns could trigger a sharp pullback in tech funding, creating systemic credit and growth risks that extend well beyond the tech sector.",
+    "link": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+    "source": "Financial Times",
+    "published": "2026-06-28T09:00:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Hires Uber's Prabhjeet Singh to Lead India Operations",
+    "summary": "OpenAI appointed Prabhjeet Singh—formerly Uber's India and South Asia president—as managing director for India, deepening its presence in one of its fastest-growing markets. The hire signals OpenAI's ambition to accelerate enterprise AI adoption across large emerging economies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/openai-hires-uber-s-prabhjeet-singh-to-lead-india-operations",
+    "source": "Bloomberg",
+    "published": "2026-06-28T07:27:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Google caps Meta's Gemini use as AI demand strains capacity",
     "summary": "Google has capped Meta's access to its Gemini AI models as exploding demand for advanced AI systems makes compute capacity the tech industry's scarcest strategic resource. The constraint signals that even top-tier companies face access limits to frontier AI infrastructure, creating a new competitive dynamic in enterprise AI adoption. Computing power shortages are poised to shape which companies can scale AI products and which remain bottlenecked.",
     "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
