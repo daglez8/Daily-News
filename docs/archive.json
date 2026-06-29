@@ -1,5 +1,236 @@
 [
   {
+    "title": "Millennium Builds AI Lab in Push for Cutting-Edge Products",
+    "summary": "Hedge fund giant Millennium Management is establishing a dedicated AI laboratory to accelerate development and deployment of advanced technologies across its operations. The move signals growing adoption of in-house AI infrastructure among major financial firms rather than relying on third-party tools. This is part of a broader trend in financial services of building proprietary AI capabilities to gain competitive edge in trading, risk, and product development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/millennium-builds-ai-lab-in-push-for-cutting-edge-products",
+    "source": "Bloomberg",
+    "published": "2026-06-29T12:15:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The Uninvited Meeting Guest Is an AI Notetaker",
+    "summary": "AI-powered notetaking bots are increasingly joining video calls uninvited, recording and transcribing meetings without clear consent from all participants, and their proliferation is outpacing workplace norms. The spread of tools like Otter.ai and Fireflies raises questions about privacy, confidentiality, and professional etiquette in hybrid-work environments. Organizations are only beginning to grapple with governance policies for AI recording in professional settings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ai-notetaker-tools-recording-zoom-meetings-threaten-privacy-etiquette",
+    "source": "Bloomberg",
+    "published": "2026-06-29T12:00:17+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft's $570 Billion Rout Sets Up Its Worst Month Since 2000",
+    "summary": "Microsoft shares are on track for their worst monthly performance since the dot-com era, having shed roughly $570 billion in market value as investors question the company's positioning in an AI-dominated landscape. The selloff reflects uncertainty about whether Microsoft's heavy AI infrastructure investments will translate into commensurate revenue growth. The decline contrasts with AI infrastructure pure-plays like Nvidia, which have surged on the same investment wave.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/microsoft-s-570-billion-rout-sets-up-its-worst-month-since-2000",
+    "source": "Bloomberg",
+    "published": "2026-06-29T11:31:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "América Latina tiene una nueva reina en Wall Street: así cambiaron las acciones más valiosas",
+    "summary": "El repunte de las materias primas en el primer semestre de 2026 reconfiguró el ranking de empresas latinoamericanas en Wall Street: Petrobras desplazó a MercadoLibre del primer lugar con más de 101,000 millones de dólares de capitalización, mientras Itaú Unibanco ascendió al segundo lugar. Nu Holdings retrocedió del segundo al quinto puesto, reflejando un giro de los inversionistas desde activos de crecimiento digital hacia valor y commodities. El movimiento es relevante para el sector fintech latinoamericano, que encabezó el rally de años previos.",
+    "link": "https://www.bloomberglinea.com/mercados/america-latina-tiene-una-nueva-reina-en-wall-street-asi-cambiaron-las-acciones-mas-valiosas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-29T11:24:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ferrari Luce, New Golf Cart Reflect Apple Design Aesthetic",
+    "summary": "Former Apple design chief Jony Ive and collaborator Marc Newson have channeled their minimalist Apple aesthetic into two new vehicles: the Ferrari Luce electric car and the Amble premium golf cart. Both feature the clean, restrained design language that defined their Apple industrial design era, positioning luxury mobility as a design-forward experience. The Amble golf cart in particular signals growing convergence of premium product design and golf lifestyle.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/ferrari-luce-new-amble-golf-car-reflect-apple-design-flair",
+    "source": "Bloomberg",
+    "published": "2026-06-29T11:02:01+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Pushes All School Levels to Teach AI in Xi's Tech Drive",
+    "summary": "China has announced a formal plan to integrate AI education across all levels of schooling, from primary through higher education, as part of President Xi Jinping's campaign to dominate advanced technologies globally. The initiative aligns national curricula with AI development goals to build a large-scale pipeline of AI-literate talent. The move intensifies global competition for AI talent and signals how national AI strategies are embedding themselves into educational systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
+    "source": "Bloomberg",
+    "published": "2026-06-29T10:42:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Germany Wants and Needs AI to Take Human Jobs",
+    "summary": "Germany is actively embracing AI as a workforce replacement tool, driven by an aging and rapidly retiring labor force creating critical skill gaps across the economy. Unlike debates in other markets, German policymakers and businesses frame AI job displacement as a necessity rather than a threat, given acute demographic constraints. The trend is accelerating AI adoption in labor-intensive sectors as companies substitute automation for scarce human capital.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/germany-turns-to-ai-to-fill-the-gap-left-by-retiring-workers",
+    "source": "Bloomberg",
+    "published": "2026-06-29T10:30:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El misterio del crecimiento de las exportaciones",
+    "summary": "Las exportaciones mexicanas acumulan cuatro meses de crecimiento de dos dígitos con un alza anual de 25.4% en mayo, pero el columnista argumenta que una parte significativa podría explicarse por el adelanto de compras de importadores estadounidenses antes de posibles aranceles. Las manufacturas no automotrices lideran el dinamismo con doce meses consecutivos de tasas de dos dígitos, aunque la industria automotriz retrocedió 2.2%. Si la hipótesis del adelanto de inventarios es correcta, el impulso exportador sería transitorio y no reflejaría una ganancia permanente de competitividad.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/29/el-misterio-del-crecimiento-de-las-exportaciones/",
+    "source": "El Financiero",
+    "published": "2026-06-29T10:25:40+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Google Cloud to Offer Specialist AI Models for Science Research",
+    "summary": "Google Cloud will offer specialist AI models from SandboxAQ through its platform, targeting enterprise and research applications in drug discovery, materials science, and semiconductor manufacturing. The move expands Google's enterprise AI portfolio beyond general-purpose LLMs into high-value scientific domains where specialized models deliver clear ROI. The partnership reflects a broader trend of cloud providers building AI model marketplaces for specific professional verticals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
+    "source": "Bloomberg",
+    "published": "2026-06-29T10:00:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Comienza formalmente la revisión del T-MEC: las ventajas de México",
+    "summary": "El 1 de julio arranca la primera revisión conjunta del T-MEC entre México, Estados Unidos y Canadá, un proceso que determinará si el tratado se renueva hasta 2042 o entra en revisiones anuales que podrían conducir a su terminación en 2036. Los tres países tienen hasta 2028 para llegar a un acuerdo, en un contexto marcado por la agenda arancelaria de Trump y los temas de seguridad bilateral. Para México, el resultado definirá las condiciones de su integración comercial con Norteamérica por al menos una generación.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/06/29/comienza-formalmente-la-revision-del-t-mec-las-ventajas-de-mexico/",
+    "source": "El Financiero",
+    "published": "2026-06-29T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China Births Two Robot Unicorns as Sector Funding Stays Strong",
+    "summary": "Two Chinese robotics startups have each been valued above $2.9 billion in recent funding rounds, becoming unicorns as investor appetite for AI-enabled robotics remains robust. The valuations reflect sustained capital allocation toward companies building humanoid and industrial robots to compete with US firms like Tesla and Figure AI. China's robotics sector is emerging as a key battleground in the broader US-China AI and advanced manufacturing competition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong",
+    "source": "Bloomberg",
+    "published": "2026-06-29T09:24:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Unicornios y Centauros en la era de la Inteligencia Artificial",
+    "summary": "El artículo analiza dos metáforas que compiten por definir el futuro del trabajo: el 'unicornio', que simboliza la esperanza de que la IA resolverá todo de forma autónoma, y el 'centauro', que representa la colaboración humano-máquina. La evidencia empírica favorece al centauro: equipos que integran IA de forma colaborativa superan tanto a los puramente humanos como a los puramente automatizados. La discusión tiene implicaciones directas para cómo las organizaciones diseñan sus procesos de adopción de IA y forman a sus equipos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/06/29/unicornios-y-centauros-en-la-era-de-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-06-29T09:15:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AirTrunk Is Said to Be Near Confidential Filing for Biggest Singapore IPO in Years",
+    "summary": "Blackstone-backed data center operator AirTrunk is reportedly close to filing confidentially for a REIT IPO in Singapore that would be among the largest listings in the country in years. The offering would give public market investors direct exposure to AI infrastructure through data center real estate, reflecting surging demand for compute capacity across Asia-Pacific. The move follows a global wave of data center M&A and capital markets activity as AI investment drives unprecedented demand for physical infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/airtrunk-is-said-to-near-confidential-filing-for-biggest-singapore-ipo-in-years",
+    "source": "Bloomberg",
+    "published": "2026-06-29T09:09:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Exportaciones crecen 25 por ciento durante mayo y mantienen solidez",
+    "summary": "Las exportaciones mexicanas crecieron 25.4% anual en mayo hasta 69,544 millones de dólares, respaldadas por un repunte del 45.2% en petróleo crudo y doce meses consecutivos de crecimiento de dos dígitos en manufacturas no automotrices. Las importaciones también avanzaron 24%, manteniendo un superávit comercial modesto. El resultado confirma la solidez exportadora de México, aunque persiste la interrogante de cuánto se debe al adelanto de compras de importadores estadounidenses ante posibles aranceles.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/29/exportaciones-crecen-25-por-ciento-durante-mayo-y-mantienen-solidez/",
+    "source": "El Financiero",
+    "published": "2026-06-29T08:42:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El T-MEC que definirá el legado de Ebrard",
+    "summary": "La renegociación del T-MEC, que arranca el 1 de julio, será una prueba decisiva para el secretario de Economía Marcelo Ebrard, cuyo desempeño podría proyectarlo como candidato presidencial en 2030. El proceso, que puede extenderse hasta 2028, estará marcado por la presión de Trump para repatriar producción automotriz —con potencial daño severo a México y Canadá— y por los pendientes de seguridad bilateral. Del resultado dependerá la viabilidad de la plataforma industrial exportadora de México para las próximas dos décadas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jorge-molina-larrondo/2026/06/29/el-t-mec-que-definira-el-legado-de-ebrard/",
+    "source": "El Financiero",
+    "published": "2026-06-29T08:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mundial 2026: México lidera ciberfraudes ante embestida de sitios falsos en internet",
+    "summary": "México es el país anfitrión del Mundial 2026 más afectado por ciberfraudes, con un promedio de 3,548 ataques semanales por organización en abril, un incremento del 4% frente al año anterior. Los ciberdelincuentes explotan la fiebre mundialista mediante phishing, smishing y sitios falsos que simulan plataformas de venta de boletos o redes WiFi maliciosas. La concentración de México como objetivo prioritario subraya la vulnerabilidad del ecosistema digital empresarial ante amenazas oportunistas de gran escala.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/29/mundial-2026-mexico-lidera-ciberfraudes-ante-embestida-de-sitios-falsos-en-internet/",
+    "source": "El Financiero",
+    "published": "2026-06-29T08:16:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Baidu's CFO on How It Became a Full-Stack AI Player",
+    "summary": "Baidu CFO Henry He explains how the company evolved from a search engine into a full-stack AI player with proprietary chips, large language models (Ernie), cloud infrastructure, and a self-driving car business (Apollo Go). He discusses how Chinese tech firms approach AI safety and alignment differently from Western counterparts, and how maximizing token utilization is now a core financial metric. Baidu's vertical integration strategy — owning the full AI stack — is the model Chinese firms are pursuing to reduce dependence on US AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-how-it-became-a-full-stack-ai-player-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T08:12:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Architectural Decisions, Planetary Implications: Interview with UIA 2026 Barcelona Curatorial Team",
+    "summary": "The curatorial team behind the UIA 2026 World Congress of Architects in Barcelona presents its central premise: architecture can no longer be understood as a self-contained object but only through its ecological, material, and political systems. The 2026 theme — 'Becoming. Architectures for a Planet in Transition' — challenges the profession to think at a planetary scale about the built environment's role in ecological and social transition. Barcelona revisits questions it first posed at the influential 1996 congress, now under the urgency of ecological crisis.",
+    "link": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
+    "source": "ArchDaily",
+    "published": "2026-06-29T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Indicadores del 29 de junio al 3 de julio: Expectativas económicas, remesas y venta de autos",
+    "summary": "Esta semana arranca el segundo semestre con una agenda cargada de indicadores clave: en México se publicarán expectativas económicas y empresariales, remesas, venta de autos y confianza del consumidor. En Estados Unidos, los mercados estarán atentos a la encuesta JOLTS de vacantes laborales (mayo) y a otros datos del mercado laboral. El Banco de México publicará el martes los resultados de su subasta de valores gubernamentales, ofreciendo pistas sobre las expectativas de tasas.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-29-junio-3-julio-expectativas-economicas-remesas-venta-autos-20260629-820512.html",
+    "source": "El Economista",
+    "published": "2026-06-29T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Corea del Sur invertirá 1.2 billones de dólares en su industria de chips y centros de datos de IA",
+    "summary": "Corea del Sur lanzó un megaproyecto de inversión público-privada por aproximadamente 1.2 billones de dólares —más de dos tercios de su PIB— en semiconductores y centros de datos para inteligencia artificial. Samsung Electronics y SK Hynix encabezarán la iniciativa con 800 billones de wones en un nuevo polo de fabricación en el suroeste del país. El presidente Lee Jae Myung lo calificó como 'estrategia de supervivencia nacional' frente a la competencia global en IA.",
+    "link": "https://www.eleconomista.com.mx/internacionales/corea-sur-invertira-1-2-billones-dolares-industria-chips-centros-datos-ia-20260629-820748.html",
+    "source": "El Economista",
+    "published": "2026-06-29T06:29:34-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "British American Tobacco anuncia plan de reducción de costes que afectará a 9,000 empleos",
+    "summary": "British American Tobacco anunció un recorte de aproximadamente el 20% de su plantilla global —5,500 despidos directos y 3,500 externalizados a empresas como Accenture— como parte de un programa de transformación basado en inteligencia artificial para reducir costos. La reestructuración busca generar ahorros anualizados de 600 millones de libras para 2028, excluyendo a Estados Unidos, su mayor mercado. El caso ilustra cómo la adopción de IA está acelerando rediseños organizacionales profundos en grandes corporaciones globales.",
+    "link": "https://www.eleconomista.com.mx/empresas/british-american-tobacco-anuncia-plan-reduccion-costes-afectara-9-000-empleos-20260629-820744.html",
+    "source": "El Economista",
+    "published": "2026-06-29T05:57:46-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "South Korea Unveils Plan to Sustain Lead in AI",
     "summary": "South Korea launched a sweeping national AI strategy with Samsung and SK Hynix committing large-scale investments in memory chips, data centers, and robotics under direct presidential sponsorship. Both company leaders sat alongside President Lee Jae Myung at the briefing, underscoring strong government-industry alignment behind the initiative. The plan positions South Korea as a hardware-layer powerhouse in the global AI infrastructure race.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-29/south-korea-unveils-plan-to-sustain-lead-in-ai-video",
@@ -19,6 +250,28 @@
     "category": "AI & Agents",
     "relevance_score": 85,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "UIA World Congress of Architecture 2026 Opens in Barcelona Under the Theme \"Architectures for a Planet in Transition\"",
+    "summary": "The 29th UIA World Congress of Architects opened in Barcelona on June 28 under the theme 'Becoming. Architectures for a Planet in Transition,' gathering an expected 10,000 professionals, students, and researchers through July 2. The congress is distributed across multiple venues in Barcelona, UNESCO World Capital of Architecture 2026, exploring ecological, social, material, and cultural transitions. It marks the second time Barcelona has hosted the triennial event, thirty years after the landmark 1996 edition.",
+    "link": "https://www.archdaily.com/1042829/uia-world-congress-of-architecture-2026-opens-in-barcelona-under-the-theme-architectures-for-a-planet-in-transition",
+    "source": "ArchDaily",
+    "published": "2026-06-29T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Pasa Tulum de joya a destino en crisis",
+    "summary": "Tulum, que por años fue referente del turismo de lujo en el Caribe Mexicano, enfrenta una crisis por el aumento de la inseguridad y la extorsión, que ha provocado una caída sostenida de visitantes de alto poder adquisitivo. La presencia del crimen organizado está erosionando la imagen del destino entre turistas nacionales e internacionales. El deterioro representa un desafío serio para el mercado inmobiliario y turístico de la zona, que depende en buena medida del visitante extranjero.",
+    "link": "https://www.reforma.com/pasa-tulum-de-joya-a-destino-en-crisis/ar3231086",
+    "source": "Reforma",
+    "published": "2026-06-29T05:01:32-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
     "light": true
   },
   {
@@ -64,6 +317,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Otros indicadores",
+    "summary": "La presidenta Sheinbaum reconoció que el PIB es un indicador incompleto para medir el bienestar y propone complementarlo con métricas alternativas, en el contexto de una contracción del 0.6% en Q1 2026 y un nivel del PIB actual 2% inferior al de Q3 2024. El columnista reconoce validez en los indicadores complementarios, pero señala que no sustituyen el hecho de un crecimiento agregado débil en los últimos siete años. El debate sobre qué medir en la economía mexicana adquiere mayor relevancia de cara a las elecciones intermedias de 2027.",
+    "link": "https://www.eleconomista.com.mx/opinion/otros-indicadores-20260629-820740.html",
+    "source": "El Economista",
+    "published": "2026-06-29T01:43:08-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Los desafíos de Elizabeth González: ¿Cuáles serán las prioridades de la nueva CFO de Pemex?",
