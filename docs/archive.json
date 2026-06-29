@@ -1,5 +1,126 @@
 [
   {
+    "title": "Hugging Face CEO Weighs In on Anthropic AI Model's 'Dangerous' Label",
+    "summary": "Hugging Face CEO Clem Delangue argues that being labeled \"too dangerous\" by the US government could paradoxically serve as a marketing advantage for frontier AI companies like Anthropic, whose Mythos model faces national security scrutiny. The episode places Anthropic at the center of a pivotal policy debate about how governments balance AI regulation with the imperative to maintain domestic AI leadership.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/delangue-on-anthropic-ai-model-s-dangerous-label-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T17:42:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's Mythos 5 Gets US Approval for Wider Use",
+    "summary": "Anthropic secured US government approval to restore broader access to its Mythos 5 AI model after resolving Trump administration concerns about potential national security threats. Former White House CIO Theresa Payton notes the outcome shows the US is balancing national security oversight with enabling domestic AI adoption in critical sectors — a framework that will shape how frontier AI models reach enterprise users.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-gets-us-approval-for-wider-use-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T17:31:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "FINNOSUMMIT 2026 apuesta por conectar retail, salud y logística para redefinir el futuro financiero de América Latina",
+    "summary": "FINNOSUMMIT 2026 celebrará su décima edición el 23 y 24 de septiembre en Expo Santa Fe, Ciudad de México, bajo la premisa de integrar soluciones financieras avanzadas en sectores como retail, salud y logística. El ecosistema proyecta la creación de más de 6,000 empleos vinculados a fintech —70% orientados a soluciones B2B—, reflejando el creciente interés corporativo en herramientas financieras integradas más allá del sector bancario tradicional.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/06/29/finnosummit-2026-apuesta-por-conectar-retail-salud-y-logistica-para-redefinir-el-futuro-financiero-de-america-latina/",
+    "source": "El Financiero",
+    "published": "2026-06-29T17:03:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso no se 'inmuta' en inicio de operaciones ante el dólar",
+    "summary": "El peso mexicano mantuvo estabilidad frente al dólar al inicio de la sesión del lunes 29 de junio, con el tipo de cambio en 17.50 unidades sin variación respecto al cierre previo. Los mercados asimilan noticias de los bombardeos de EU contra Irán y la posible reanudación de conversaciones de paz en Doha, con analistas de Banco Base señalando menor aversión al riesgo como factor estabilizador.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/29/peso-dolar-precio-hoy-29-de-junio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-06-29T16:54:45+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mexico Central Bank Adds Bond-Buying Tool to Support Liquidity",
+    "summary": "Banxico published new regulations enabling it to purchase local government securities to support money-market liquidity — a preemptive instrument designed to intervene if investors face forced selling of Mexican assets. The measure adds a bond-buying tool to Banxico's toolkit, signaling proactive preparation for potential market stress in the current volatile geopolitical environment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-central-bank-adds-bond-buying-tool-to-support-liquidity",
+    "source": "Bloomberg",
+    "published": "2026-06-29T16:45:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dual Perspectives on AI Investment Costs",
+    "summary": "PSP Growth's Momei Qu outlines two contrasting market views on AI investment: one camp argues massive capital flows reflect genuine business demand, while the other warns that AI infrastructure costs keep rising and raise the burden of proof for continued spending. The debate captures the central dilemma for financial services firms evaluating AI adoption — whether the ROI timeline justifies front-running infrastructure expenditure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/dual-perspectives-on-ai-investment-costs-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T16:03:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The rise of vibe lawyering",
+    "summary": "AI tools are encouraging a surge in self-representation in legal proceedings — dubbed \"vibe lawyering\" — as individuals use AI to navigate court systems previously accessible mainly to trained attorneys. While the trend democratizes access to justice, outcomes are mixed, raising questions about the practical limits of AI as a substitute for professional legal expertise.",
+    "link": "https://www.economist.com/business/2026/06/29/the-rise-of-vibe-lawyering",
+    "source": "The Economist",
+    "published": "2026-06-29T15:43:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ardian Plans to Invest Over €3 Billion in Nordic Data Centers",
+    "summary": "Private equity firm Ardian is committing over €3 billion ($3.4 billion) to data center construction across the Nordic countries, drawn by lower energy costs and abundant land. The investment reflects continued strong institutional appetite for AI computing infrastructure, with the Nordics emerging as a preferred geography for energy-intensive AI workloads despite broader tech sector volatility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers",
+    "source": "Bloomberg",
+    "published": "2026-06-29T15:00:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Corea del Sur invertirá 1.2 bdd en semiconductores y centros de datos de IA",
+    "summary": "Corea del Sur anunció inversiones de al menos 880,000 millones de dólares en semiconductores y centros de datos de inteligencia artificial, encabezadas por Samsung y SK Hynix. La estrategia apunta a mantener la ventaja competitiva del país en la cadena de suministro global de IA, posicionándolo como nodo crítico del ecosistema tecnológico mundial en la era de los modelos de frontera.",
+    "link": "https://expansion.mx/tecnologia/2026/06/29/corea-del-sur-invertira-semiconductores-centros-de-datos-ia",
+    "source": "Expansión",
+    "published": "2026-06-29T15:00:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mexico Exchange Resumes Trading After Hours-Long Halt",
+    "summary": "Mexico's BMV Group suffered its largest trading outage in years, halting equities, metals, and fixed income markets before the session open on June 29. Trading resumed at 9:55 a.m. after BMV confirmed the suspension was not caused by a failure in its core MoNet trading engine, though the episode renewed scrutiny over market infrastructure resilience.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-exchange-halts-trading-ahead-of-session-open",
+    "source": "Bloomberg",
+    "published": "2026-06-29T14:20:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banco Plata inicia contrataciones para lanzar casa de bolsa",
+    "summary": "Plata, la fintech mexicana que inició operaciones como banco en marzo de 2026, está reclutando para una casa de bolsa que planea lanzar en diciembre de 2026, previa obtención de licencia de la CNBV. La expansión convierte a Plata en un actor de servicios financieros más completo —sumando corretaje a banca y asesoría de inversiones—, respaldado por líneas de crédito de Oaktree y Macquarie, compitiendo en un mercado que incluye a GBM y Bursanet.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banco-plata-inicia-contrataciones-para-lanzar-casa-de-bolsa/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-29T13:36:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Millennium Builds AI Lab in Push for Cutting-Edge Products",
     "summary": "Hedge fund giant Millennium Management is establishing a dedicated AI laboratory to accelerate development and deployment of advanced technologies across its operations. The move signals growing adoption of in-house AI infrastructure among major financial firms rather than relying on third-party tools. This is part of a broader trend in financial services of building proprietary AI capabilities to gain competitive edge in trading, risk, and product development.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/millennium-builds-ai-lab-in-push-for-cutting-edge-products",
@@ -8,6 +129,17 @@
     "category": "AI & Agents",
     "relevance_score": 72,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Acusan IP y ciudadanos anomalías en licencias de Tulum",
+    "summary": "Empresarios y ciudadanos señalan irregularidades y burocracia excesiva en el sistema de licencias de construcción de Tulum, que frena el desarrollo ordenado del destino. La complejidad regulatoria y los altos costos de permisos representan un obstáculo tanto para inversionistas locales como para desarrolladores de bienes raíces en uno de los mercados más atractivos del Caribe mexicano.",
+    "link": "https://www.reforma.com/acusan-ip-y-ciudadanos-anomalias-en-licencias-de-tulum/ar3231369",
+    "source": "Reforma",
+    "published": "2026-06-29T12:03:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
     "light": true
   },
   {
@@ -20,6 +152,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La IA ya puede hacer tu declaración ante el SAT, pero aún no sustituye al contador",
+    "summary": "Herramientas de inteligencia artificial ya son capaces de completar declaraciones fiscales ante el SAT, aunque todavía no sustituyen al contador en casos complejos ni para optimización fiscal avanzada. El avance ilustra cómo la IA comienza a penetrar los servicios profesionales financieros en México, con potencial impacto en la demanda de asesoría contable en el mediano plazo.",
+    "link": "https://expansion.mx/tecnologia/2026/06/29/ia-ya-puede-hacer-tu-declaracion-ante-el-sat",
+    "source": "Expansión",
+    "published": "2026-06-29T11:55:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Microsoft's $570 Billion Rout Sets Up Its Worst Month Since 2000",
@@ -77,6 +220,17 @@
     "light": true
   },
   {
+    "title": "BMV reanuda operaciones tras suspensión antes de la apertura",
+    "summary": "La Bolsa Mexicana de Valores reanudó operaciones a las 9:55 del lunes 29 de junio tras una suspensión preventiva que afectó los mercados de acciones, metales y renta fija —la mayor interrupción en años. La BMV aclaró que no fue una falla en su motor de negociación MoNet y que se aplicaron medidas para garantizar equidad en la continuidad de la negociación.",
+    "link": "https://www.eleconomista.com.mx/mercados/bmv-reanuda-operaciones-suspension-apertura-20260629-820781.html",
+    "source": "El Economista",
+    "published": "2026-06-29T10:28:16-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El misterio del crecimiento de las exportaciones",
     "summary": "Las exportaciones mexicanas acumulan cuatro meses de crecimiento de dos dígitos con un alza anual de 25.4% en mayo, pero el columnista argumenta que una parte significativa podría explicarse por el adelanto de compras de importadores estadounidenses antes de posibles aranceles. Las manufacturas no automotrices lideran el dinamismo con doce meses consecutivos de tasas de dos dígitos, aunque la industria automotriz retrocedió 2.2%. Si la hipótesis del adelanto de inventarios es correcta, el impulso exportador sería transitorio y no reflejaría una ganancia permanente de competitividad.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/29/el-misterio-del-crecimiento-de-las-exportaciones/",
@@ -84,6 +238,17 @@
     "published": "2026-06-29T10:25:40+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La SEC multa con 7.5 millones de dólares a Merrill Lynch por no alertar de actividad sospechosa",
+    "summary": "La SEC impuso una multa de 7.5 millones de dólares a Merrill Lynch de Bank of America por no presentar numerosos reportes de actividad sospechosa (SAR) entre abril de 2020 y septiembre de 2024, incumpliendo la Ley de Secreto Bancario. El caso revela los riesgos sistémicos de los modelos de cumplimiento automatizado: Merrill dependía del software de BofA con un umbral de riesgo demasiado restrictivo, dejando pasar transacciones potencialmente sospechosas sin reporte ante FinCEN.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/sec-multa-7-5-millones-dolares-merrill-lynch-alertar-actividad-sospechosa-20260629-820780.html",
+    "source": "El Economista",
+    "published": "2026-06-29T10:23:46-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
