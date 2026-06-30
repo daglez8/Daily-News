@@ -1,5 +1,214 @@
 [
   {
+    "title": "El mito del estímulo cuantitativo de Banxico",
+    "summary": "El Banco de México publicó la circular 8/2026 que establece reglas para comprar bonos del gobierno federal en el mercado secundario mediante subastas, lo que algunos han confundido con un programa de estímulo cuantitativo al estilo de la Fed. Sin embargo, el autor aclara que esta medida no autoriza a Banxico a financiar al gobierno ni tiene por objetivo bajar las tasas de interés: el banco ya contaba con esta facultad previamente y solo formalizó las reglas de subasta.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/06/30/el-mito-del-estimulo-cuantitativo-de-banxico/",
+    "source": "El Financiero",
+    "published": "2026-06-30T12:46:29+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "A un año de FinCEN: del cumplimiento formal a la prevención consciente",
+    "summary": "Un año después de la comunicación de FinCEN, el sistema bancario mexicano enfrenta la necesidad de pasar de un enfoque documental de cumplimiento a una cultura operativa de prevención proactiva de riesgos. La vicepresidencia de Supervisión de Procesos Preventivos de la CNBV ejerce ahora facultades de supervisión tecnológica para verificar el cumplimiento de obligaciones, reconociendo que la estabilidad bancaria y la integridad financiera son inseparables.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/06/30/a-un-ano-de-fincen-del-cumplimiento-formal-a-la-prevencion-consciente/",
+    "source": "El Financiero",
+    "published": "2026-06-30T12:38:43+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Leverage Is More Worrying Than Valuations, IMF's Adrian Says",
+    "summary": "A senior IMF official warned that AI-related debt issuance poses a greater financial stability risk than current AI stock valuations, as leverage in AI investments could amplify systemic vulnerabilities in ways that equity prices don't fully reflect. The remarks, made at the ECB's annual symposium in Sintra, point to the IMF's growing focus on the debt-fueled buildup behind the AI investment cycle.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-leverage-is-more-worrying-than-valuations-imf-s-adrian-says",
+    "source": "Bloomberg",
+    "published": "2026-06-30T12:14:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Baubap obtiene línea de crédito por 400 millones de pesos para ampliar el acceso al financiamiento",
+    "summary": "La fintech mexicana Baubap aseguró una línea de crédito por 400 millones de pesos con BBVA Spark y SixPoint Capital —a 48 meses— con la que fortalecerá su capacidad para otorgar microcréditos digitales a personas excluidas del sistema financiero. Con esta operación, Baubap opera por primera vez con toda su estructura de fondeo en pesos mexicanos, habiendo otorgado créditos a más de 2 millones de personas en México desde su fundación en 2018.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/baubap-obtiene-linea-credito-400-millones-pesos-ampliar-acceso-financiamiento-20260630-820892.html",
+    "source": "El Economista",
+    "published": "2026-06-30T12:10:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reshoring, el concepto que está redibujando el mapa logístico",
+    "summary": "El reshoring está redefiniendo las cadenas logísticas globales, impulsando una reconfiguración industrial con México como uno de los principales beneficiarios del nearshoring. El fenómeno crea oportunidades tanto en real estate industrial como en financiamiento para nuevas instalaciones en regiones estratégicas del país.",
+    "link": "https://expansion.mx/opinion/2026/06/30/reshoring-el-concepto-que-esta-redibujando-el-mapa-logistico",
+    "source": "Expansión",
+    "published": "2026-06-30T12:05:49+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La pregunta del millón, ¿liberar o regular la IA?",
+    "summary": "El debate sobre si liberar o regular la inteligencia artificial se intensifica globalmente, con posturas divergentes entre quienes abogan por la innovación sin restricciones y quienes exigen marcos de gobernanza para mitigar riesgos en sectores críticos como el financiero. La disyuntiva afecta directamente a empresas de servicios financieros que adoptan IA en crédito, underwriting y CRM.",
+    "link": "https://expansion.mx/opinion/2026/06/30/la-pregunta-del-millon-liberar-o-regular-la-ia",
+    "source": "Expansión",
+    "published": "2026-06-30T12:04:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "TMEC: de tratado a contrato anual",
+    "summary": "La revisión del T-MEC llega en un contexto de cambio estructural en la política industrial estadounidense que combina proteccionismo bipartidista con redefinición de cadenas de suministro globales, dejando a México en un limbo sobre las condiciones de largo plazo del acuerdo. A diferencia de 1994, el tratado ya no funciona como ancla permanente sino como un acuerdo potencialmente revisable en cada ciclo político, obligando a las empresas a planear bajo mayor incertidumbre regulatoria.",
+    "link": "https://www.elfinanciero.com.mx/opinion/raquel-lopez-portillo-maltos/2026/06/30/tmec-de-tratado-a-contrato-anual/",
+    "source": "El Financiero",
+    "published": "2026-06-30T12:00:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La IA hace marketing para todos; diferenciarse será el verdadero negocio",
+    "summary": "La inteligencia artificial democratiza el marketing al permitir que cualquier empresa genere contenido y campañas de forma automatizada, lo que paradójicamente convierte la diferenciación genuina de marca y estrategia en el verdadero reto competitivo de 2026. Para las empresas de servicios financieros, esto implica que la ventaja ya no está en la producción de contenido sino en la propuesta de valor y la relación con el cliente.",
+    "link": "https://expansion.mx/tecnologia/2026/06/30/mientras-todos-usan-ia-secreto-para-diferenciarse",
+    "source": "Expansión",
+    "published": "2026-06-30T11:55:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump Tariff Defeat Is Market Tailwind 'No One Is Talking About'",
+    "summary": "The US Supreme Court's decision to unwind Trump's sweeping tariffs has quietly shifted from a market headwind to a potential tailwind, with some companies poised for an earnings boost as trade barriers fall. The ruling sets a new baseline for US trade policy with positive implications for supply chains tied to Mexico and cross-border manufacturing under the USMCA framework.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/trump-tariff-defeat-is-market-tailwind-no-one-is-talking-about",
+    "source": "Bloomberg",
+    "published": "2026-06-30T11:54:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BOE's Breeden Warns AI Agents Risk Causing Market Meltdowns",
+    "summary": "Bank of England Deputy Governor Sarah Breeden warned that autonomous AI agents risk triggering \"market meltdowns\" due to their potential to amplify volatility during financial stress, calling for tighter regulation of AI agents in financial markets. She spoke at the ECB's annual symposium in Sintra, positioning AI agent governance as a systemic financial stability concern alongside traditional market risks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-breeden-warns-ai-agents-risk-triggering-market-meltdowns",
+    "source": "Bloomberg",
+    "published": "2026-06-30T11:27:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Call Center Stocks Fall on Worry AI Makes Them 'Uninvestible'",
+    "summary": "Shares of call-center companies fell sharply amid growing investor concerns that AI adoption in customer service is making these businesses uninvestible, as enterprises increasingly deploy AI to handle customer interactions. The selloff reflects a broader market reassessment of industries—including outsourced financial services CRM—most exposed to AI-driven automation in service roles.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/call-center-stocks-fall-on-worry-ai-is-makes-them-uninvestible",
+    "source": "Bloomberg",
+    "published": "2026-06-30T11:16:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock Downgrades Emerging-Market Equities Over AI Risks",
+    "summary": "BlackRock's research arm has downgraded emerging-market equities and turned bullish on short- and medium-term euro-area government bonds in its 2026 mid-year global outlook, citing AI-driven risks that could disproportionately impact EM economies through trade and competitive dynamics. The move is particularly relevant for Mexican financial assets given the country's elevated exposure to US capital flows and technology-driven economic shifts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/blackrock-downgrades-emerging-market-equities-over-ai-risks",
+    "source": "Bloomberg",
+    "published": "2026-06-30T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué suben las computadoras y celulares?",
+    "summary": "La demanda de chips de memoria impulsada por la inteligencia artificial ha provocado un fenómeno llamado \"chipflation\": los precios de la DRAM se duplicaron en 2025 y volvieron a subir entre 40% y 90% en el primer trimestre de 2026, llevando a Apple y Microsoft a elevar los precios de sus productos. Este ciclo —el mayor aumento en una década según TrendForce— encarece toda la infraestructura tecnológica empresarial, incluyendo la adopción de IA en servicios financieros.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/30/por-que-suben-las-computadoras-y-celulares/",
+    "source": "El Financiero",
+    "published": "2026-06-30T10:54:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Notetakers in Meetings Raise Mounting Privacy Concerns",
+    "summary": "AI-powered meeting notetakers are generating significant privacy and governance concerns as they frequently join corporate meetings without explicit consent, recording conversations across organizational boundaries. Executives and legal teams are grappling with policies around data retention, cross-border privacy rules, and liability when AI tools capture sensitive financial or strategic discussions.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/ai-meeting-notetakers-spark-privacy-concerns-recording-you-without-consent",
+    "source": "Bloomberg",
+    "published": "2026-06-30T10:30:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IMF: Cyberattacks Getting Faster",
+    "summary": "IMF's Tobias Adrian warned that the time between discovering a software vulnerability and its exploitation by malicious actors is shrinking rapidly, posing a mounting systemic threat to financial sector stability. Speaking at the ECB Forum in Sintra, he highlighted accelerating cyberattack cycles as a critical risk for financial institutions globally, with implications for model risk and operational resilience frameworks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/imf-cyberattacks-getting-faster-video",
+    "source": "Bloomberg",
+    "published": "2026-06-30T10:03:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Weak Hiring Is Hurting Young Workers More than AI, Study Says",
+    "summary": "A Federal Reserve Bank of St. Louis study found that weak job market demand—not lack of AI skills—is the primary driver of youth unemployment in the US, challenging the narrative that AI displacement is the main cause of young workers' difficulties. The finding has important implications for workforce transformation strategies: companies investing in AI upskilling programs may be addressing a secondary problem while the primary issue is structural labor demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/weak-hiring-is-hurting-young-workers-more-than-ai-study-says",
+    "source": "Bloomberg",
+    "published": "2026-06-30T09:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
+    "summary": "SAP is centralizing AI product and engineering strategy under its CEO and COO in its second major reshuffle this year, as Europe's largest software company races to stay competitive against AI-native rivals. The reorganization illustrates how established enterprise software leaders are reconfiguring management structures—not just products—to respond to the pace of AI competition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
+    "source": "Bloomberg",
+    "published": "2026-06-30T09:24:10+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What the Saga Over Anthropic's Mythos Tells Us About the Cyber Risks From AI",
+    "summary": "Anthropic's Mythos AI model is reportedly so capable at finding software vulnerabilities that the company has restricted its release to only 200 partner organizations, citing risks of enabling sophisticated cyberattacks on critical infrastructure. The saga highlights a core tension in frontier AI: models powerful enough to defend against cyberattacks are equally powerful as offensive tools, raising urgent questions about access controls and model risk governance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
+    "source": "Bloomberg",
+    "published": "2026-06-30T08:52:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inteligencia artificial como aceleradora en la construcción de vivienda",
+    "summary": "La inteligencia artificial está transformando la construcción de vivienda desde la planeación y permisos hasta la venta, con el 77% de los recursos invertidos en tecnología constructiva en 2025 dirigidos a soluciones de IA, según el reporte Top 50 ConTech Startups 2026 de Cemex Ventures. Ciudades, naciones y empresas han comenzado a usar IA para reducir obstáculos regulatorios, acelerar tiempos de desarrollo y ampliar la oferta habitacional asequible, con implicaciones directas para el financiamiento hipotecario en México.",
+    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-aceleradora-construccion-vivienda-20260630-820935.html",
+    "source": "El Economista",
+    "published": "2026-06-30T07:50:19+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Por qué el foco fintech de MercadoLibre será clave como ventaja competitiva, según analistas",
     "summary": "El negocio fintech de MercadoLibre (Mercado Pago y Mercado Crédito) crecerá más de 30% en 2026 y ya genera más del 60% del volumen de pagos fuera de su propia plataforma, consolidándose como ventaja competitiva estructural. El take rate del 4.6% tiene margen de expansión a través de mayores comisiones y crédito al consumo, según Bloomberg Intelligence. El margen financiero neto cayó 490 pb en el primer trimestre por mayor peso de tarjetas de crédito, aunque los analistas ven esto como una transición, no un deterioro.",
     "link": "https://www.bloomberglinea.com/latinoamerica/argentina/por-que-el-foco-fintech-de-mercadolibre-sera-clave-como-ventaja-competitiva-segun-analistas/",
@@ -8,6 +217,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 73,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Studio Gang and Henning Larsen Complete One Milestone Life Science Campus in Boston",
+    "summary": "International firms Studio Gang and Henning Larsen completed the first phase of the Enterprise Research Campus in Boston's Allston neighborhood, a 47,380 sqm mixed-use district designed as a hub for science, creativity, and entrepreneurship. The project represents a new model for urban life-science campuses integrating research, innovation, and community programming in a major university city.",
+    "link": "https://www.archdaily.com/1042862/studio-gang-and-henning-larsen-complete-one-milestone-life-science-campus-in-boston",
+    "source": "ArchDaily",
+    "published": "2026-06-30T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -64,6 +284,28 @@
     "relevance_score": 63,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Private equity fund investors turn to debt-like deals in downturn",
+    "summary": "PE fund investors agreed to $9 billion in alternative debt-like transactions in 2025, up from $6 billion in 2024, as backers of buyout funds seek more predictable returns amid a tougher exit environment. This shift toward hybrid debt-equity structures reflects broader repricing of illiquidity risk in private markets, with implications for financial services M&A valuations and deal structures.",
+    "link": "https://www.ft.com/content/4675b8bb-4047-458a-be01-90c2aff29219",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Building Forward: How Vernacular Knowledge Is Shaping Contemporary Architecture",
+    "summary": "Contemporary architects are revisiting vernacular building traditions—earth walls, bamboo structures, shaded thresholds, collective construction processes—not as aesthetic references but as practical tools for conditions shaped by climate change, resource constraints, and community needs. This approach treats indigenous building knowledge as an active toolkit rather than a historical legacy, resonating with high-end residential and mountain home design seeking authenticity and sustainability.",
+    "link": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
+    "source": "ArchDaily",
+    "published": "2026-06-30T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Businesses face up to budget-busting AI bills",
@@ -185,6 +427,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Former Governors Team Up to Address AI Job Losses",
+    "summary": "Former Indiana Governor Eric Holcomb is co-chairing RAISE US, a bipartisan initiative backed by Amazon, Anthropic, and Microsoft aimed at easing the American workforce's transition to an AI-driven economy by preparing workers for AI-enhanced roles. The collaboration between former government officials and leading AI companies signals a growing institutional effort to manage the social impact of AI adoption at scale.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/former-governors-teams-up-to-address-ai-job-losses-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T19:53:37+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
   },
   {
     "title": "BMV reanuda operaciones tras suspensión por duplicidad de información",
