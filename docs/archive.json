@@ -1,5 +1,214 @@
 [
   {
+    "title": "Por qué el foco fintech de MercadoLibre será clave como ventaja competitiva, según analistas",
+    "summary": "El negocio fintech de MercadoLibre (Mercado Pago y Mercado Crédito) crecerá más de 30% en 2026 y ya genera más del 60% del volumen de pagos fuera de su propia plataforma, consolidándose como ventaja competitiva estructural. El take rate del 4.6% tiene margen de expansión a través de mayores comisiones y crédito al consumo, según Bloomberg Intelligence. El margen financiero neto cayó 490 pb en el primer trimestre por mayor peso de tarjetas de crédito, aunque los analistas ven esto como una transición, no un deterioro.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/por-que-el-foco-fintech-de-mercadolibre-sera-clave-como-ventaja-competitiva-segun-analistas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-30T06:41:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 73,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "What would multilateral 'AI arms control' look like?",
+    "summary": "The article examines whether a US-China agreement on AI safety is achievable given intense geopolitical competition, exploring possible frameworks for multilateral AI governance modeled on nuclear arms control treaties. It debates the feasibility of verification mechanisms and what constraints would be binding given the asymmetry in AI development between the two powers. The piece is broadly skeptical that any meaningful deal is near given the strategic stakes for both sides.",
+    "link": "https://www.ft.com/content/7aa4b53d-2e07-4971-9e30-8b0c63eb4ff2",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Heavy corporate AI spenders add staff faster than peers",
+    "summary": "A study of 22,000 US companies found that firms investing heavily in generative AI are actually hiring employees faster than industry peers, directly challenging widespread fears of AI-driven broad job displacement. The findings suggest early AI adopters are using the technology to grow and expand capacity rather than cut headcount, at least in this initial phase. The research has significant implications for workforce strategy and the organizational transformation narrative around AI adoption.",
+    "link": "https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:18+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
+    "summary": "A major rotation in US equity markets saw investors shift out of Magnificent Seven mega-caps, wiping $2.3 trillion in combined market value, and into chipmakers directly benefiting from hyperscalers' massive AI infrastructure spending. The rotation reflects a repricing of which companies most directly capture value from the AI buildout — with picks-and-shovels chip suppliers surging as platform companies pulled back. The shift signals growing investor sophistication about the distribution of AI economics across the supply chain.",
+    "link": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Is AI an exoskeleton for the mind?",
+    "summary": "The article explores how AI, like physical exoskeletons that help people perform tasks beyond their normal limits, augments cognitive capabilities but raises concerns about potential atrophy of underlying skills when the technology is removed. It draws parallels to how prior assistive technologies changed human abilities over time and questions whether AI dependency could weaken the very mental faculties it augments. The piece frames AI adoption as a trade-off between near-term capability enhancement and long-term cognitive resilience.",
+    "link": "https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The great wealth transfer rattling Wall Street",
+    "summary": "Tens of trillions of dollars are shifting between generations in the largest intergenerational wealth transfer in history, disrupting traditional wealth management relationships as younger heirs show little loyalty to their parents' financial advisers. Wealth managers are scrambling to adapt their services, digital interfaces, and communication styles to retain assets through the transition. The transfer is creating unprecedented opportunity and disruption across private banking, trust, and advisory businesses globally.",
+    "link": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Businesses face up to budget-busting AI bills",
+    "summary": "Enterprises are confronting unexpectedly large and volatile AI costs as vendors shift to usage-based pricing models and release more powerful but more expensive models, forcing companies to rethink AI spending strategies. CFOs who budgeted for AI as a fixed-cost transformation investment are now building cost governance frameworks and tiering models by task complexity to manage expenses. The shift is accelerating conversations about AI ROI discipline and whether near-term productivity gains justify rapidly expanding bills.",
+    "link": "https://www.ft.com/content/811247b5-c42d-4bf5-8bfd-c73d85f70293",
+    "source": "Financial Times",
+    "published": "2026-06-30T03:30:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EY staff charged with accessing Australian prime minister's bank details",
+    "summary": "Two EY employees aged 21 and 25, while on secondment to Australia's largest lender, were charged with illegally accessing the Australian Prime Minister's personal banking information. The case highlights insider threat risks and governance gaps in financial institutions when hosting third-party consultants with elevated data access. It is expected to prompt tighter access controls, segregation of privileged data, and audit procedures at major banks globally.",
+    "link": "https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a",
+    "source": "Financial Times",
+    "published": "2026-06-30T02:16:52+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "StanChart Former AI Chief Joins Accenture as Southeast Asia Head",
+    "summary": "David Hardoon, Standard Chartered's former global head of AI enablement, has joined Accenture as managing director and head of advanced AI for Southeast Asia, reflecting intensifying competition among professional services firms and banks for AI talent with deep financial-sector experience. The move signals Accenture's push to capture AI transformation mandates across Southeast Asian financial institutions. Hardoon's profile — bridging banking operations and enterprise AI at scale — is increasingly in demand as banks race to deploy AI across credit, compliance, and customer service.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/stanchart-former-ai-chief-joins-accenture-as-southeast-asia-head",
+    "source": "Bloomberg",
+    "published": "2026-06-30T01:33:48+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "South Korea to Speed Nuclear Push to Meet Surging Power Demand",
+    "summary": "South Korea's government is exploring ways to accelerate nuclear power plant construction timelines as surging AI-driven electricity demand from data centers strains the national grid, positioning nuclear as the backbone of its AI infrastructure strategy. The policy shift reflects a broader global reckoning with the energy requirements of large-scale AI computing and the limitations of intermittent renewable sources for continuous data center loads. South Korea's experience could serve as a model for other AI-heavy economies grappling with power constraints.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand",
+    "source": "Bloomberg",
+    "published": "2026-06-30T01:30:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jalisco ve riesgos y oportunidades en revisión del T-MEC",
+    "summary": "Con la revisión formal del T-MEC iniciándose el 1 de julio, Jalisco enfrenta riesgos en reglas de origen automotrices y sectores laborales y agroindustriales, pero también oportunidades para fortalecer su integración regional, dado que exportó más de 52,000 millones de dólares en 2025. El proceso de revisión podría extenderse hasta 2027, aunque se esperan acuerdos sectoriales en el segundo semestre de 2026. La revisión es clave para el entorno de negocios y la inversión productiva en el estado con mayor exposición a las cadenas de valor norteamericanas.",
+    "link": "https://www.eleconomista.com.mx/estados/jalisco-ve-riesgos-oportunidades-revision-t-mec-20260630-820915.html",
+    "source": "El Economista",
+    "published": "2026-06-30T00:16:51-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Aprendiendo de los fondos soberanos de inversión adecuados",
+    "summary": "Los fondos soberanos del Golfo Pérsico, que controlan ~6 billones de dólares en activos, han evolucionado de simples vehículos de inversión a herramientas de política exterior e inversión estratégica en IA, logística y renovables. El artículo examina si Latinoamérica podría adoptar modelos similares, contextualizando las iniciativas recientes de Canadá y EE.UU. de crear sus propios fondos soberanos. El análisis es relevante para el debate sobre canalización de capital institucional hacia infraestructura digital y energética en la región.",
+    "link": "https://www.eleconomista.com.mx/opinion/aprendiendo-fondos-soberanos-inversion-adecuados-20260630-820913.html",
+    "source": "El Economista",
+    "published": "2026-06-30T00:06:28-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Presidentes de EU y Canadá perfilan conversación sobre el T-MEC",
+    "summary": "Trump y Carney se aproximan a una reunión bilateral para abordar la revisión del T-MEC, con posturas aún distantes sobre si prolongar el tratado por 16 años o mantener revisiones anuales. El embajador estadounidense en Canadá indicó que ambos países están cercanos a un marco o acuerdo provisional. Los tres países definirán el 1 de julio sus respectivas posturas sobre el horizonte de reautorización del acuerdo comercial.",
+    "link": "https://www.eleconomista.com.mx/empresas/presidentes-eu-canada-perfilan-conversacion-sobre-t-mec-20260629-820910.html",
+    "source": "El Economista",
+    "published": "2026-06-29T23:43:02-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Caja chica del gobierno?: no, Banxico",
+    "summary": "Banco de México aclaró mediante comunicado oficial que las recientes modificaciones a sus facultades de compra de deuda gubernamental en el mercado secundario no constituyen un programa de Quantitative Easing ni de control de la curva de rendimientos, desmintiendo especulaciones sobre su independencia. El banco enfatizó que cualquier compra dependerá de condiciones de liquidez del mercado, no de necesidades de financiamiento del Ejecutivo. La aclaración llega en un contexto de mayor escrutinio sobre la calificación crediticia de México y la relación entre el banco central y el gobierno federal.",
+    "link": "https://www.eleconomista.com.mx/opinion/caja-chica-gobierno-banxico-20260629-820909.html",
+    "source": "El Economista",
+    "published": "2026-06-29T23:39:52-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sabadell ve crédito en energía y hoteles tras colocar 4,000 mdp",
+    "summary": "Banco Sabadell México colocó exitosamente 4,000 millones de pesos en el mercado y anuncia que su estrategia de crédito corporativo se enfocará en los sectores de energía y hotelería, dos de los segmentos con mayor dinamismo de inversión en el país. La colocación refleja el apetito de la banca internacional por el mercado de financiamiento corporativo en México. El banco busca capitalizar el crecimiento en infraestructura energética y el auge del turismo como motor de demanda crediticia empresarial.",
+    "link": "https://expansion.mx/economia/2026/06/29/sabadell-pidio-4000-mdp-mexico-va-por-energia-hoteles",
+    "source": "Expansión",
+    "published": "2026-06-29T21:54:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "LSEG CEO on AI Market Impact, Share Buybacks, Volatility",
+    "summary": "LSEG CEO David Schwimmer highlighted AI as a major growth driver for the exchange group, arguing that AI dramatically enhances the value of LSEG's proprietary data — which constitutes over 90% of its dataset — by enabling new analytical and product capabilities. Despite a difficult 2025 for the company's shares, Schwimmer sees AI as a significant long-term opportunity for financial market infrastructure players who own unique datasets. He also discussed share buyback strategy and managing volatility in the current market environment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/lseg-ceo-highlights-ai-as-a-major-growth-driver-video",
+    "source": "Bloomberg",
+    "published": "2026-06-29T20:02:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banxico incorpora una herramienta de compra de bonos para respaldar liquidez",
+    "summary": "Banco de México publicó una normativa que le permitirá adquirir Cetes de cupón cero y Bondes F en el mercado secundario a partir del tercer trimestre de 2026 para sostener la liquidez en episodios de estrés de mercado, una medida preventiva sin precedentes en la historia reciente del banco. La acción llega después de que Moody's bajara la calificación crediticia de México al nivel más bajo dentro del grado de inversión y S&P revisara su perspectiva a negativa. Banxico aclaró que las compras son discrecionales y condicionadas a necesidades de liquidez, no a financiamiento fiscal.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-incorpora-una-herramienta-de-compra-de-bonos-para-respaldar-liquidez/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-29T19:55:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BMV reanuda operaciones tras suspensión por duplicidad de información",
+    "summary": "La Bolsa Mexicana de Valores (BMV) suspendió temporalmente sus operaciones el 29 de junio a raíz de una anomalía técnica de duplicidad en la información del sistema de negociación, reanudándolas una vez resuelto el problema. El incidente afectó la operatividad del mercado de valores mexicano durante un período breve pero generó preocupación entre participantes del mercado. El evento subraya la importancia de la resiliencia tecnológica en la infraestructura financiera crítica del país.",
+    "link": "https://expansion.mx/mercados/2026/06/29/bmv-reanuda-operaciones-tras-suspension-por-duplicidad-de-informacion",
+    "source": "Expansión",
+    "published": "2026-06-29T19:20:37+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿En qué invertir en Wall Street? La empresa de computación cuántica que sugieren BofA y UBS",
+    "summary": "Quantinuum Inc. (QNT), empresa de computación cuántica que debutó en bolsa el 4 de junio de 2026, atrajo recomendaciones de compra de BofA (precio objetivo US$100) y UBS (US$93), con el papel cotizando en US$75.57 en su debut. Los analistas destacan a Helios, la plataforma de hardware y software de Quantinuum, como líder comercial del sector con clientes como Amgen y BMW, valuada en ~10x el valor empresa sobre ingresos esperados. El caso ilustra el apetito del mercado por compañías con exposición a la próxima oleada de infraestructura computacional más allá de la IA clásica.",
+    "link": "https://www.bloomberglinea.com/mercados/en-que-invertir-en-wall-street-la-empresa-de-computacion-cuantica-que-sugieren-bofa-y-ubs/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-29T18:21:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Hugging Face CEO Weighs In on Anthropic AI Model's 'Dangerous' Label",
     "summary": "Hugging Face CEO Clem Delangue argues that being labeled \"too dangerous\" by the US government could paradoxically serve as a marketing advantage for frontier AI companies like Anthropic, whose Mythos model faces national security scrutiny. The episode places Anthropic at the center of a pivotal policy debate about how governments balance AI regulation with the imperative to maintain domestic AI leadership.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-29/delangue-on-anthropic-ai-model-s-dangerous-label-video",
@@ -77,6 +286,17 @@
     "light": true
   },
   {
+    "title": "Corte Suprema de EU invalida el despido de Lisa Cook, gobernadora de la Fed, que ordenó Trump",
+    "summary": "La Corte Suprema de Estados Unidos anuló el despido de Lisa Cook, gobernadora de la Reserva Federal ordenado por el presidente Trump, en una decisión que refuerza la independencia institucional de la Fed frente a presiones del Ejecutivo. El fallo tiene implicaciones importantes para la gobernanza de los bancos centrales en EE.UU. y para la percepción global de la autonomía de la política monetaria estadounidense. La decisión podría estabilizar las expectativas del mercado sobre la trayectoria de tasas de la Fed, reduciendo la prima de riesgo político sobre activos en dólares.",
+    "link": "https://expansion.mx/economia/2026/06/29/corte-suprema-de-eu-invalida-el-despido-de-lisa-cook-gobernadora-de-la-fed-que-ordeno-trump",
+    "source": "Expansión",
+    "published": "2026-06-29T15:11:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ardian Plans to Invest Over €3 Billion in Nordic Data Centers",
     "summary": "Private equity firm Ardian is committing over €3 billion ($3.4 billion) to data center construction across the Nordic countries, drawn by lower energy costs and abundant land. The investment reflects continued strong institutional appetite for AI computing infrastructure, with the Nordics emerging as a preferred geography for energy-intensive AI workloads despite broader tech sector volatility.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers",
@@ -152,6 +372,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Trestle Cabin / Miller Hull Partnership",
+    "summary": "Miller Hull Partnership has completed the Trestle Cabin, a compact 868-square-foot retreat in Seattle designed for year-round use, combining refined materiality with spatial efficiency in a minimal-footprint format. The project exemplifies the firm's approach to site-responsive residential design at small scale, photographed by Juan Benavides in 2024. The cabin demonstrates how thoughtful architecture can deliver high-quality living environments while maintaining a light ecological footprint.",
+    "link": "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership",
+    "source": "ArchDaily",
+    "published": "2026-06-29T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "La IA ya puede hacer tu declaración ante el SAT, pero aún no sustituye al contador",
