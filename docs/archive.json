@@ -1,5 +1,159 @@
 [
   {
+    "title": "Rubenstein Doesn't See the AI Stock Bubble Bursting",
+    "summary": "Carlyle Group co-chairman David Rubenstein said he doesn't expect the AI stock bubble to burst anytime soon. He made the comments on Bloomberg Surveillance amid ongoing investor debate over AI valuations.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/rubenstein-doesn-t-see-the-ai-stock-bubble-bursting-video",
+    "source": "Bloomberg",
+    "published": "2026-06-30T18:30:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Aspiring Nvidia Rival Gets Backing From Jane Street",
+    "summary": "AI chip startup Etched is emerging from stealth aiming to compete with Nvidia as the industry shifts from training AI models to running them. The company has raised $800 million, including backing from Jane Street and a TSMC-linked venture firm.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/aspiring-nvidia-rival-gets-backing-from-jane-street-video",
+    "source": "Bloomberg",
+    "published": "2026-06-30T17:50:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HSBC advierte de repunte ‘explosivo’ del dólar frente al ‘superpeso’",
+    "summary": "HSBC advierte que un fuerte repunte del dólar podría convertirse en una de las mayores \"pain trades\" para los mercados durante la segunda mitad del año. El banco prevé un fortalecimiento gradual del dólar durante el primer semestre de 2027, que podría volverse \"explosivo\" si la Fed señala una postura más restrictiva o si se intensifican las tensiones geopolíticas.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/30/aguas-mexico-y-superpeso-hsbc-advierte-de-repunte-explosivo-del-dolar/",
+    "source": "El Financiero",
+    "published": "2026-06-30T17:17:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casas que llegan de China y se arman en una hora: cuánto cuesta la vivienda prefabricada en Argentina",
+    "summary": "Importar viviendas prefabricadas desde China emerge como alternativa frente a los altos costos y plazos de la construcción tradicional en Argentina. Una casa de 100 metros cuadrados lista para vivir cuesta entre US$45,000 y US$80,000, sumando fabricación, flete, impuestos y montaje.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/casas-que-llegan-de-china-y-se-arman-en-una-hora-cuanto-cuesta-la-vivienda-prefabricada-en-argentina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-30T17:11:14+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Releases Claude Science for Automating Research",
+    "summary": "Anthropic is releasing new software called Claude Science aimed at helping scientists automate parts of the research process. The company hopes it will reduce some of the tedious, repetitive work involved in scientific research.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
+    "source": "Bloomberg",
+    "published": "2026-06-30T17:00:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El 1 de julio, la fecha ‘fatídica’ para el T-MEC: ¿Por qué se define mañana su futuro, según Sheinbaum?",
+    "summary": "La reunión entre México, Estados Unidos y Canadá del 1 de julio marcará el rumbo del T-MEC ante la posibilidad de que el gobierno de Trump decida no extender el tratado comercial por 16 años. La presidenta Sheinbaum afirmó que México y Canadá presentarán un frente común para ampliar su vigencia, aunque aún se desconoce la postura de Estados Unidos.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/06/30/el-1-de-julio-la-fecha-fatidica-para-el-t-mec-por-que-se-define-manana-su-futuro-segun-sheinbaum/",
+    "source": "El Financiero",
+    "published": "2026-06-30T16:58:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ganancias de más de 800%: las acciones más rentables del S&P 500 durante el primer semestre",
+    "summary": "El auge de la inteligencia artificial volvió a dominar Wall Street en el primer semestre, con el S&P 500 cerrando su mejor trimestre en seis años y el índice de semiconductores de Filadelfia cerca de un récord histórico. Las mayores ganancias se concentraron en compañías que suministran la infraestructura para sostener esa expansión, con Sandisk a la cabeza del índice.",
+    "link": "https://www.bloomberglinea.com/mercados/ganancias-de-mas-de-800-las-acciones-mas-rentables-del-sp-500-durante-el-primer-semestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-06-30T16:47:57+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Investigan error de 1,100 mdd en OPI de SpaceX: 'Inclinamos la cabeza en señal de disculpa'",
+    "summary": "Un error de comunicación dejó a Mirae Asset Securities, la mayor firma de administración de activos de Corea del Sur, sin ninguna asignación de acciones en la histórica OPI de SpaceX pese a ser uno de los 23 suscriptores. El episodio obligó a la firma a disculparse con sus clientes y subraya cómo fallos operativos pueden tener grandes consecuencias en acuerdos multimillonarios.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/30/salida-a-bolsa-de-spacex-hunde-a-la-empresa-surcoreana-mirae-por-que-se-quedo-sin-acciones/",
+    "source": "El Financiero",
+    "published": "2026-06-30T16:47:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+    "summary": "Schneider Electric agreed to acquire industrial AI software firm Cognite in an all-cash deal valued at $3.1 billion. The acquisition is meant to expand Schneider's industrial data and AI software business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
+    "source": "Bloomberg",
+    "published": "2026-06-30T16:05:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BDC Veteran Tannenbaum Plans Comeback to Industry Near 'Crisis'",
+    "summary": "Len Tannenbaum, who sold his $5 billion credit firm to distressed-debt pioneer Oaktree nearly a decade ago, is looking to raise a new fund to capitalize on turmoil in the $1.8 trillion private credit market. His planned comeback comes amid growing concern about stress in the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/bdc-veteran-tannenbaum-plans-comeback-to-industry-near-crisis",
+    "source": "Bloomberg",
+    "published": "2026-06-30T15:21:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sovereign Funds Back Private Credit",
+    "summary": "Institutional investors, including sovereign wealth funds, are increasing allocations to private credit even as retail investors grow more cautious. Bloomberg notes that fundraising is separating industry leaders from the rest, with AI emerging as a major opportunity for private equity and private credit.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/sovereign-funds-back-private-credit-video",
+    "source": "Bloomberg",
+    "published": "2026-06-30T14:59:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Won't Be Substitute for Human Workers, OpenAI Economist Says",
+    "summary": "OpenAI Chief Economist Ronnie Chatterji said the rise of artificial intelligence won't make human workers superfluous. His comments push back against fears that widespread AI adoption will broadly displace the workforce.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says",
+    "source": "Bloomberg",
+    "published": "2026-06-30T14:37:28+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Donald Trump's AI regime is opaque, unpredictable—and unsustainable",
+    "summary": "The Economist argues that the Trump administration's approach to AI policy is opaque and unpredictable, having positioned itself to control who gets access to the most capable models. The piece warns this regime, as currently structured, is unsustainable.",
+    "link": "https://www.economist.com/business/2026/06/30/donald-trumps-ai-regime-is-opaque-unpredictable-and-unsustainable",
+    "source": "The Economist",
+    "published": "2026-06-30T14:21:33+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Caída en ingresos petroleros e ISR le pasaron factura a las finanzas públicas",
+    "summary": "La caída en los ingresos petroleros y una menor recaudación por Impuesto sobre la Renta continuaron afectando las finanzas públicas de México entre enero y mayo, según el Informe de Finanzas Públicas y la Deuda Pública de la SHCP. Los ingresos públicos sumaron 3 billones 554,847 millones de pesos en el periodo, una caída de 1.8% en comparación anual.",
+    "link": "https://www.eleconomista.com.mx/economia/caida-ingresos-petroleros-e-isr-le-pasaron-factura-finanzas-publicas-20260630-821018.html",
+    "source": "El Economista",
+    "published": "2026-06-30T12:59:42-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El mito del estímulo cuantitativo de Banxico",
     "summary": "El Banco de México publicó la circular 8/2026 que establece reglas para comprar bonos del gobierno federal en el mercado secundario mediante subastas, lo que algunos han confundido con un programa de estímulo cuantitativo al estilo de la Fed. Sin embargo, el autor aclara que esta medida no autoriza a Banxico a financiar al gobierno ni tiene por objetivo bajar las tasas de interés: el banco ya contaba con esta facultad previamente y solo formalizó las reglas de subasta.",
     "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/06/30/el-mito-del-estimulo-cuantitativo-de-banxico/",
@@ -121,6 +275,17 @@
     "light": true
   },
   {
+    "title": "EU alarga revisión del T-MEC con amenaza de aranceles y sin apertura plena regional frente a China",
+    "summary": "El gobierno de Estados Unidos alargará este miércoles el proceso formal de revisión del T-MEC, manteniendo la amenaza de nuevos aranceles y sin ofrecer una apertura plena regional frente al desafío económico de China. El proceso comenzará sin una reactivación automática del acuerdo, con una tercera ronda de negociaciones entre México y Estados Unidos programada para el 20 de julio.",
+    "link": "https://www.eleconomista.com.mx/empresas/eu-alarga-revision-t-mec-amenaza-aranceles-apertura-plena-regional-frente-china-20260630-820998.html",
+    "source": "El Economista",
+    "published": "2026-06-30T11:08:31-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "BlackRock Downgrades Emerging-Market Equities Over AI Risks",
     "summary": "BlackRock's research arm has downgraded emerging-market equities and turned bullish on short- and medium-term euro-area government bonds in its 2026 mid-year global outlook, citing AI-driven risks that could disproportionately impact EM economies through trade and competitive dynamics. The move is particularly relevant for Mexican financial assets given the country's elevated exposure to US capital flows and technology-driven economic shifts.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/blackrock-downgrades-emerging-market-equities-over-ai-risks",
@@ -195,6 +360,17 @@
     "category": "AI & Agents",
     "relevance_score": 88,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anunciaría EU el miércoles que no prorrogará el T-MEC",
+    "summary": "El gobierno de Estados Unidos anunciaría este miércoles que no prorrogará el T-MEC, lo que marcaría el inicio de un plazo de 10 años para su potencial disolución.",
+    "link": "https://www.reforma.com/anunciaria-eu-el-miercoles-que-no-prorrogara-el-t-mec/ar3231836",
+    "source": "Reforma",
+    "published": "2026-06-30T08:02:58-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "es",
     "light": true
   },
   {
@@ -282,6 +458,17 @@
     "published": "2026-06-30T04:00:08+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Elliott's acolytes: how Paul Singer's hedge fund became a spinout factory",
+    "summary": "The Financial Times profiles how Paul Singer's Elliott Management has spawned a wave of spinout hedge funds, echoing the way Julian Robertson's Tiger Management produced the \"Tiger cubs.\" The piece examines this new generation of activist and event-driven investors.",
+    "link": "https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d",
+    "source": "Financial Times",
+    "published": "2026-06-30T04:00:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
