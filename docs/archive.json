@@ -1,5 +1,137 @@
 [
   {
+    "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
+    "summary": "Meta is developing a new cloud infrastructure business to sell excess AI computing capacity and models to outside customers. The move would put Meta in direct competition with established cloud leaders AWS, Microsoft Azure and Google Cloud.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+    "source": "Bloomberg",
+    "published": "2026-07-01T12:35:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "A 29 años de las Afores: ahora viene la prueba de fuego",
+    "summary": "El sistema de Afores en México cumple 29 años justo cuando la primera generación que cotizó bajo la Ley de 1997 comienza a jubilarse, lo que traslada el debate de las proyecciones a los resultados reales. Aunque las administradoras muestran comisiones históricamente bajas y la reforma de 2020 aumentó las aportaciones patronales, esa mejora llegó demasiado tarde para quienes ya se retiran con pensiones insuficientes.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/01/a-29-anos-de-las-afores-ahora-viene-la-prueba-de-fuego/",
+    "source": "El Financiero",
+    "published": "2026-07-01T12:30:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "What Medallia's faceplant tells us about private credit",
+    "summary": "The Financial Times looks at what the collapse in equity value and debt distress at Medallia signals for the broader private credit market. The piece questions whether the episode is an isolated stumble or a warning sign for the sector.",
+    "link": "https://www.ft.com/content/7db5dff0-7b8a-4920-8676-8bd12e2649b4",
+    "source": "Financial Times",
+    "published": "2026-07-01T11:13:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bending Spoons IPO Turns Italian College Pals Into Billionaires",
+    "summary": "Bending Spoons' initial public offering has turned its four co-founders, former college friends who built the Italian software rollup, into some of the country's youngest self-made billionaires. The IPO marks a milestone for the tech consolidator's growth strategy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/bending-spoons-ipo-turns-italian-college-pals-into-billionaires",
+    "source": "Bloomberg",
+    "published": "2026-07-01T11:07:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oracle Warns Its Splurge on AI Data Centers May Not Pay Off",
+    "summary": "Oracle has outlined the risks tied to its massive spending on AI data centers, warning that the cloud build-out undertaken to meet surging AI demand may not pay off as expected. The disclosure highlights growing investor scrutiny of AI infrastructure economics.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/oracle-warns-ai-data-center-splurge-may-not-pay-off",
+    "source": "Bloomberg",
+    "published": "2026-07-01T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Video Search Startup Raises $100 Million From Amazon, VC Funds",
+    "summary": "Video-search AI startup Twelve Labs is raising $100 million from investors including Amazon, NEA and Naver Ventures. The funding will support development of its AI technology for quickly searching and analyzing large volumes of video content.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
+    "source": "Bloomberg",
+    "published": "2026-07-01T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI, Forging New Risks, Isn't a Market Wizard After All",
+    "summary": "New research is examining the risks of widespread reliance on the same AI models for trading and investment decisions. Studies suggest that if many market participants converge on identical AI tools, it could amplify correlated behavior and systemic risk rather than simply improving returns.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/ai-models-could-make-hedge-fund-trading-riskier-wall-street-researchers-warn",
+    "source": "Bloomberg",
+    "published": "2026-07-01T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
+    "summary": "US tech and finance sectors are shedding roughly 28,000 jobs a month, a trend increasingly tied to AI adoption reshaping headcount needs. While it remains debated whether AI will cause mass long-term workforce cuts, the impact is already visible in employment data.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+    "source": "Bloomberg",
+    "published": "2026-07-01T09:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La confusión sobre la circular del Banxico",
+    "summary": "Banxico emitió una circular el 15 de junio que establece un procedimiento de subastas para comprar, en el mercado secundario, Bonos de Regulación Monetaria y valores gubernamentales, como herramienta adicional de política monetaria. La medida generó desconcierto y críticas de analistas que temen que ponga en riesgo la autonomía del banco central, aunque el autor atribuye la confusión al desconocimiento técnico sobre cómo se instrumenta la política monetaria.",
+    "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/07/01/la-confusion-sobre-la-circular-del-banxico/",
+    "source": "El Financiero",
+    "published": "2026-07-01T08:03:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Unen fuerzas por las Pymes",
+    "summary": "Nacional Financiera (Nafin) y la Cámara de la Industria de Transformación de Nuevo León (Caintra) firmaron un convenio para ampliar el acceso a financiamiento de las mipymes mediante factoraje, garantías y capacitación, operando en su primera etapa con Banregio y la plataforma +PyMEx. El programa ya ha generado 1,761 millones de dólares adicionales en compras a proveedores y podría beneficiar a más de 20,000 empresas, de las cuales unas 250 ya reciben apoyo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/07/01/unen-fuerzas-por-las-pymes/",
+    "source": "El Financiero",
+    "published": "2026-07-01T07:34:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft se sumará a ola de despidos del sector tecnológico: Recortará al 2.5% de su plantilla",
+    "summary": "Microsoft planea recortar menos del 2.5% de su plantilla en una nueva ronda de despidos que podría anunciarse la próxima semana, según Business Insider. Los recortes se suman a una ola más amplia de despidos en tecnología, medios y finanzas mientras las empresas controlan costos e invierten fuertemente en infraestructura de inteligencia artificial, afectando áreas como ventas, consultoría y la división Xbox.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/microsoft-sumara-ola-despidos-sector-tecnologico-recortara-2-5-plantilla-20260701-821181.html",
+    "source": "El Economista",
+    "published": "2026-07-01T06:25:36-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La UE mantuvo conversaciones \"constructivas\" con Tim Cook tras el choque con Apple por la IA",
+    "summary": "La responsable europea de Tecnología, Henna Virkkunen, sostuvo una conversación \"constructiva\" con Tim Cook de Apple tras el choque entre la UE y la compañía por el despliegue de las funciones de IA de Siri en Europa. Apple señala que las normas de competencia del bloque le han impedido lanzar su asistente actualizado en la región, y ambas partes continúan trabajando en el tema.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ue-mantuvo-conversaciones-constructivas-tim-cook-choque-apple-ia-20260701-821180.html",
+    "source": "El Economista",
+    "published": "2026-07-01T06:20:31-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic Says US Lifted Restrictions on Fable 5",
     "summary": "El gobierno de Estados Unidos levantó las restricciones de exportación sobre el modelo de IA Fable 5 de Anthropic, permitiendo su distribución internacional más amplia. La medida llega después de que restricciones similares sobre el modelo Mythos ya se habían flexibilizado el 26 de junio.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
@@ -29,6 +161,28 @@
     "published": "2026-07-01T04:15:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI and crypto wealth driving private jet boom, says Flexjet",
+    "summary": "Fractional jet ownership provider Flexjet says newly minted wealth from AI and crypto is fueling a boom in private aviation demand. The company notes it now counts customers in their twenties among its clientele.",
+    "link": "https://www.ft.com/content/31cd2c1c-fb5e-44e8-9cc5-2367274b81dd",
+    "source": "Financial Times",
+    "published": "2026-07-01T04:00:26+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "A Giant Cable Exposes Ireland's AI Ambitions and Security Risks",
+    "summary": "A new Amazon transatlantic fiber-optic cable highlights Ireland's ambitions as a hub for AI and cloud infrastructure. The project also underscores the country's chronic underinvestment in defense, raising questions about the security risks tied to its growing role in critical tech infrastructure.",
+    "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+    "source": "Bloomberg",
+    "published": "2026-07-01T04:00:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -84,6 +238,17 @@
     "published": "2026-07-01T00:05:22+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Lifts Export Restrictions on Anthropic's Fable 5 AI Model",
+    "summary": "The US government has lifted foreign access restrictions on Anthropic's Fable 5 AI model, clearing the way for wider international distribution. The move comes after Anthropic resolved safety concerns previously raised by the Trump administration.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
+    "source": "Bloomberg",
+    "published": "2026-06-30T23:55:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
     "language": "en",
     "light": true
   },
@@ -5333,27 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Melides House / Sabrab",
-    "summary": "A contemporary 500 m² house in Portugal's Melides region pairing restrained volumes with natural materials and landscape integration — an example of high-end residential design worth tracking.",
-    "link": "https://www.archdaily.com/1042498/melides-house-sabrab",
-    "source": "ArchDaily",
-    "published": "2026-06-17T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Villa CORA – Bamboo House in Tulum / terrAurea studio",
-    "summary": "ArchDaily features Villa CORA, a bamboo house in Tulum by terrAurea studio blending tropical materials with modern resort design — a reference for high-end, climate-adapted architecture in Mexico's coastal markets.",
-    "link": "https://www.archdaily.com/1042454/villa-cora-bamboo-house-in-tulum-terraurea-studio",
-    "source": "ArchDaily",
-    "published": "2026-06-17T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 70,
-    "language": "en",
-    "light": false
   }
 ]
