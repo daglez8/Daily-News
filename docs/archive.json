@@ -1,5 +1,137 @@
 [
   {
+    "title": "Sheinbaum busca 'la mano' de BlackRock para reactivar inversión en México: 'Proyectos están estancados'",
+    "summary": "Funcionarios del gobierno de Claudia Sheinbaum se reunieron con gestores de activos globales como BlackRock, KKR y Macquarie Asset Management para explorar vías de reactivar la inversión privada en infraestructura mexicana. Pese al cortejo a inversionistas desde 2025, el gobierno aún no ha estructurado vehículos de inversión específicos, aunque el repunte reciente en el sector eléctrico sugiere que las negociaciones ganan impulso.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/01/sheinbaum-busca-la-mano-de-blackrock-para-reactivar-inversion-en-mexico-proyectos-estan-estancados/",
+    "source": "El Financiero",
+    "published": "2026-07-01T19:00:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Blackstone Offloads Stakes in Trio of Virginia Data Centers",
+    "summary": "Blackstone is selling its stakes in three data centers across Northern Virginia for $3.5 billion, cashing out of part of a real estate bet it made less than three years ago. The deal highlights continued investor appetite for data-center infrastructure assets amid the AI compute boom.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/blackstone-offloads-stakes-in-trio-of-data-centers-video",
+    "source": "Bloomberg",
+    "published": "2026-07-01T18:37:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuatro razones por las que las salidas a bolsa de OpenAI y Anthropic cambiarían la IA",
+    "summary": "Las posibles salidas a bolsa de OpenAI y Anthropic, con valoraciones que podrían superar el billón de dólares cada una, marcarían un punto de inflexión para la industria de la IA. Según Deutsche Bank, estas operaciones aportarían transparencia y financiamiento sin precedentes al sector, además de dar a los inversionistas una referencia bursátil pura de IA.",
+    "link": "https://www.bloomberglinea.com/mercados/cuatro-razones-por-las-que-las-salidas-a-bolsa-de-openai-y-anthropic-cambiarian-la-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-01T17:50:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Finance App Network Maker Plaid Is Said to Consider US IPO",
+    "summary": "Plaid Inc., the fintech infrastructure company that connects banking apps to customer accounts, is reportedly weighing a US IPO. The move would mark a major public listing for a key player in financial-services connectivity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo",
+    "source": "Bloomberg",
+    "published": "2026-07-01T17:45:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano cae tras decisión de Estados Unidos de no renovar el T-MEC",
+    "summary": "El peso mexicano se depreció 0.3% frente al dólar tras confirmarse que Estados Unidos no renovará el T-MEC y optará por revisiones anuales en su lugar. Analistas de Banco Base atribuyen la caída también a la especulación sobre una posible intervención del Banco de Japón y al inicio formal de la revisión trilateral del acuerdo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cae-tras-decision-de-estados-unidos-de-no-renovar-el-t-mec/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-01T17:40:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BlackRock's Tseng to Exit as CEO of Troubled Private Credit Fund",
+    "summary": "The head of BlackRock's beleaguered private credit fund is leaving the firm following months of losses on soured loans and a US regulatory probe into the unit's valuation practices. The exit underscores growing scrutiny of private-credit risk management.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/blackrock-s-tseng-to-exit-as-ceo-of-troubled-private-credit-fund",
+    "source": "Bloomberg",
+    "published": "2026-07-01T17:29:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Remesas a México alcanzan 5 mil 611 mdd en mayo y ligan cuatro meses de crecimiento",
+    "summary": "Las remesas a México sumaron 5,611 millones de dólares en mayo, un alza anual de 3.8% y su cuarto mes consecutivo de crecimiento, según Banxico. Sin embargo, al excluir la baja base de comparación de 2024-2025, el ritmo de crecimiento es el más débil para un mes de mayo desde 2015.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/01/remesas-a-mexico-alcanzan-5-mil-611-mdd-en-mayo-y-ligan-cuatro-meses-de-crecimiento/",
+    "source": "El Financiero",
+    "published": "2026-07-01T17:13:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Lifts Export Restrictions on Anthropic's Fable 5",
+    "summary": "The Trump administration lifted foreign export restrictions on Anthropic's Fable 5 AI model after the company addressed government safety concerns. The move signals how Washington is calibrating access controls on frontier AI models for international markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde",
+    "source": "Bloomberg",
+    "published": "2026-07-01T16:41:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¡ES OFICIAL! Donald Trump no renueva el T-MEC; opta por revisiones anuales con México y Canadá",
+    "summary": "Estados Unidos confirmó que no renovará el T-MEC con México y Canadá, y en su lugar realizará revisiones anuales del pacto, que seguirá vigente por otra década salvo que algún país se retire. La decisión, impulsada por el descontento de Trump con el acuerdo, abre la puerta a años de negociaciones sobre las reglas que rigen el comercio norteamericano.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/07/01/es-oficial-donald-trump-no-renueva-el-t-mec-opta-por-revisiones-anuales-con-mexico-y-canada/",
+    "source": "El Financiero",
+    "published": "2026-07-01T16:31:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "This is how we can make AI safe for everyone",
+    "summary": "A Financial Times opinion piece argues that while AI labs build the technology, it should be citizens and their elected representatives who set the rules governing it. The piece frames AI safety as fundamentally a governance and accountability question, not just a technical one.",
+    "link": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca",
+    "source": "Financial Times",
+    "published": "2026-07-01T16:23:20+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Equity Bets on AI Growth",
+    "summary": "EQT's Eric Liu discusses how AI is reshaping private equity investing, highlighting a growing divide between software companies that win from AI and those that lose. He notes high-quality assets keep trading even as the broader PE exit market slows.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/private-equity-bets-on-ai-growth-video",
+    "source": "Bloomberg",
+    "published": "2026-07-01T15:40:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La economía mexicana está en \"punto muerto\": IMEF",
+    "summary": "El IMEF advirtió que la economía mexicana está en 'punto muerto', con el indicador manufacturero cayendo a 47.3 puntos en junio, su 27º mes consecutivo en zona de contracción. El organismo señala que tanto la actividad manufacturera como la no manufacturera operan sin señales claras de recuperación sostenida.",
+    "link": "https://www.eleconomista.com.mx/empresas/economia-mexicana-punto-muerto-imef-20260701-821222.html",
+    "source": "El Economista",
+    "published": "2026-07-01T12:35:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
     "summary": "Meta is developing a new cloud infrastructure business to sell excess AI computing capacity and models to outside customers. The move would put Meta in direct competition with established cloud leaders AWS, Microsoft Azure and Google Cloud.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
@@ -20,6 +152,17 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Google ordered to pay Klarna $2bn antitrust damages",
+    "summary": "A Swedish court ordered Google to pay fintech Klarna $2 billion in antitrust damages, ruling that the search engine favored its own price-comparison tool over Klarna's PriceRunner site. The ruling is a significant win for a major European fintech in its fight against Big Tech platform dominance.",
+    "link": "https://www.ft.com/content/1f30ea07-63f7-4c74-b5d2-acf313177778",
+    "source": "Financial Times",
+    "published": "2026-07-01T12:19:33+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "What Medallia's faceplant tells us about private credit",
@@ -66,6 +209,17 @@
     "light": true
   },
   {
+    "title": "Dólar fuerte golpeó a América Latina en el primer semestre: las monedas que ganaron y perdieron",
+    "summary": "El dólar cerró el primer semestre con cuatro trimestres consecutivos de fortalecimiento, impulsado por el giro de la Reserva Federal bajo Kevin Warsh, aunque el impacto en América Latina fue desigual. Algunas divisas se apreciaron por mayores remesas, exportaciones e inversión extranjera, mientras otras cedieron terreno por factores locales.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-fuerte-golpeo-a-america-latina-en-el-primer-semestre-las-monedas-que-ganaron-y-perdieron/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-01T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI, Forging New Risks, Isn't a Market Wizard After All",
     "summary": "New research is examining the risks of widespread reliance on the same AI models for trading and investment decisions. Studies suggest that if many market participants converge on identical AI tools, it could amplify correlated behavior and systemic risk rather than simply improving returns.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/ai-models-could-make-hedge-fund-trading-riskier-wall-street-researchers-warn",
@@ -75,6 +229,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "FedEx vende su división de logística que gestiona almacenes a la naviera francesa CMA CGM",
+    "summary": "FedEx cerró la venta de su filial FedEx Supply Chain a la naviera francesa CMA CGM por 1,400 millones de dólares, en una operación que busca triplicar la escala de las operaciones de logística de CMA CGM en Norteamérica. Ambas compañías planean además firmar acuerdos comerciales plurianuales de transporte aéreo y marítimo.",
+    "link": "https://www.eleconomista.com.mx/empresas/fedex-vende-division-logistica-gestiona-almacenes-naviera-francesa-cma-cgm-20260701-821208.html",
+    "source": "El Economista",
+    "published": "2026-07-01T10:21:27-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
@@ -5331,171 +5496,6 @@
     "published": "2026-06-19T03:36:08+00:00",
     "category": "AI & Agents",
     "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La inteligencia artificial y la trampa del ingreso medio",
-    "summary": "Columna de El Economista sobre cómo la inteligencia artificial podría agravar o aliviar la 'trampa del ingreso medio' en economías como México, ligando adopción de IA con productividad y crecimiento.",
-    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-trampa-ingreso-medio-20260619-819293.html",
-    "source": "El Economista",
-    "published": "2026-06-19T01:34:16-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EU set to remove barriers to banks’ cross-border capital flows",
-    "summary": "A draft European Commission report aims to ease cross-border capital flows for EU banks, seeking to close the performance gap with US rivals — relevant to how banking competition and FIG strategy evolve.",
-    "link": "https://www.ft.com/content/bec1c122-04d6-4eab-b69c-c33d874cfa5b",
-    "source": "Financial Times",
-    "published": "2026-06-18T22:04:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX plots $20bn bond deal after record IPO",
-    "summary": "Fresh off an $86bn record IPO, SpaceX is tapping debt markets for a ~$20bn bond deal. The move shows how mega-cap tech/AI issuers are pairing equity debuts with large-scale debt financing.",
-    "link": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
-    "source": "Financial Times",
-    "published": "2026-06-18T22:01:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Companies Move to Secure Data as AI Increases Security Risks",
-    "summary": "As AI raises new security exposures, companies and the US government are moving quickly to lock down data and ensure compliance. A signal of rising governance and cybersecurity expectations around enterprise AI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-18/companies-move-to-secure-data-amid-ai-security-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-06-18T21:19:30+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fibra Educa obtiene 4,000 mdp con 3 bonos en la BMV",
-    "summary": "Fibra Educa colocó 4,000 millones de pesos en tres bonos en la BMV, reflejando apetito del mercado mexicano por instrumentos de deuda en bienes raíces. Una señal positiva para la emisión local de capital.",
-    "link": "https://www.eleconomista.com.mx/mercados/fibra-educa-obtiene-4-000-mdp-3-bonos-bmv-20260618-819248.html",
-    "source": "El Economista",
-    "published": "2026-06-18T21:15:57-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dólar toca niveles no vistos desde mayo de 2025: las monedas de América Latina que más caen",
-    "summary": "El dólar alcanzó su nivel más alto desde mayo de 2025 tras el mensaje antiinflacionario de la Fed, arrastrando a la baja a la mayoría de las monedas de América Latina y añadiendo presión cambiaria para México.",
-    "link": "https://www.bloomberglinea.com/mercados/dolar-toca-niveles-no-vistos-desde-mayo-de-2025-las-monedas-de-america-latina-que-mas-caen/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-18T21:09:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fmr. Lululemon CIO on AI’s Impact on C-Suites, Jobs",
-    "summary": "Former Lululemon/REI/Nordstrom CIO Julie Averill discusses how AI is reshaping C-suites and jobs, drawing on her book on impact-driven leadership — a useful lens on talent and organizational change.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-18/fmr-lululemon-cio-on-ai-s-impact-on-c-suites-jobs-video",
-    "source": "Bloomberg",
-    "published": "2026-06-18T20:53:04+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPM Asset Mgt. CEO: AI Can Power Markets for Some Time",
-    "summary": "JPMorgan Asset Management's CEO argued that AI-driven innovation and a wave of mega-cap tech IPOs can sustain market momentum, framing the trend as a 'rising tide' of investment opportunity.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-18/jpm-asset-mgt-ceo-ai-can-power-markets-for-some-time-video",
-    "source": "Bloomberg",
-    "published": "2026-06-18T20:35:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
-    "summary": "Meta secured new AI computing agreements with data-center developer Crusoe, bolstering the infrastructure behind its AI ambitions amid an escalating race for compute capacity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
-    "source": "Bloomberg",
-    "published": "2026-06-18T20:13:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico advierte de los riesgos en el uso de IA en el sistema financiero",
-    "summary": "El Banco de México alertó sobre los riesgos del uso creciente de inteligencia artificial en el sistema financiero —riesgo de modelo, concentración tecnológica y ciberseguridad— anticipando mayor supervisión sobre cómo bancos y entidades adoptan IA.",
-    "link": "https://expansion.mx/economia/2026/06/18/banxico-advierte-de-los-riesgos-en-el-uso-de-ia-en-el-sistema-financiero",
-    "source": "Expansión",
-    "published": "2026-06-18T19:00:56+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pimco realizó una apuesta de US$2.000 millones por Colombia antes de la primera vuelta",
-    "summary": "Pimco invirtió US$2,000 millones en deuda de administraciones locales de Colombia antes de la primera vuelta electoral, una apuesta de gran tamaño sobre el crédito soberano y subsoberano en la región.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/pimco-realizo-una-apuesta-de-us2000-millones-por-colombia-antes-de-la-primera-vuelta/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-18T16:39:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Acts to Speed Up Power Grid Hook-Ups for AI Data Centers",
-    "summary": "US regulators took their biggest step yet to speed grid connections for AI data centers while trying to contain rising utility bills — underscoring the collision between AI infrastructure growth and energy policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-18/us-to-fast-track-grid-connections-for-ai-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-06-18T15:05:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX abre la puerta: las OPI que podrían mover miles de millones de dólares en 2026",
-    "summary": "El debut bursátil de SpaceX reavivó expectativas de una nueva ola de OPI tecnológicas en 2026, con al menos seis grandes empresas privadas perfilándose para salir a bolsa — señal de una ventana de liquidez más favorable.",
-    "link": "https://www.bloomberglinea.com/mercados/spacex-abre-la-puerta-las-opi-que-podrian-mover-miles-de-millones-de-dolares-en-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-18T13:49:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Stocks Rise With Nvidia Leading as Semiconductor Companies Surge",
-    "summary": "US stocks rose as semiconductor shares extended their rally, with Nvidia leading S&P 500 gainers. The chip-led move reflects continued investor enthusiasm for the AI hardware cycle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-18/us-stock-futures-rise-with-intel-leading-semiconductor-rally",
-    "source": "Bloomberg",
-    "published": "2026-06-18T11:43:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "A new golden age for Japanese banks comes with a catch",
-    "summary": "The Economist examines how rising rates revived profitability at Japanese banks while smaller lenders sit on low-return bonds they can't sell — a window into how rate regimes reshape bank economics.",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
-    "source": "The Economist",
-    "published": "2026-06-18T09:23:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
     "language": "en",
     "light": true
   }
