@@ -1,5 +1,148 @@
 [
   {
+    "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+    "summary": "El gobierno de Estados Unidos levantó las restricciones de exportación sobre el modelo de IA Fable 5 de Anthropic, permitiendo su distribución internacional más amplia. La medida llega después de que restricciones similares sobre el modelo Mythos ya se habían flexibilizado el 26 de junio.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
+    "source": "Bloomberg",
+    "published": "2026-07-01T06:09:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 96,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Abu Dhabi’s MGX Raises $49 Billion for One of the Biggest Ever AI Funds",
+    "summary": "MGX, la firma de inversión de Abu Dhabi, recaudó 49,000 millones de dólares para uno de los mayores fondos dedicados a IA jamás creados, catapultando a la firma de apenas dos años de existencia a las filas de los inversionistas más relevantes del sector a nivel global. El monto refleja el apetito creciente de capital soberano e institucional por infraestructura y acuerdos de inteligencia artificial.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever",
+    "source": "Bloomberg",
+    "published": "2026-07-01T06:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
+    "summary": "The Cotswold Company, a UK upscale furniture maker built around its English-countryside branding, is bracing for a shift as AI shopping agents increasingly make purchasing decisions on behalf of consumers. The piece looks at how a traditional retailer adapts as autonomous bots take over buying tasks once done by people.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+    "source": "Bloomberg",
+    "published": "2026-07-01T04:15:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vertiv Opens Malaysia Plant to Meet AI Data Centers’ Power Needs",
+    "summary": "Vertiv Holdings opened a new manufacturing plant in Malaysia to supply power equipment for AI data centers, reflecting the rapid build-out of AI infrastructure across Asia-Pacific. The facility adds regional capacity as demand for data-center power systems keeps climbing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs",
+    "source": "Bloomberg",
+    "published": "2026-07-01T04:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Japan Investment Corp.'s Hata on AI, Strategic Sectors",
+    "summary": "Yuka Hata of Japan Investment Corporation said demand for capital is rising as Japan redirects investment toward physical AI and deep-tech sectors. She noted that labor shortages are accelerating the need for AI-driven solutions, making the space a top investment priority for JIC.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/japan-investment-corp-s-hata-on-ai-strategic-sectors-video",
+    "source": "Bloomberg",
+    "published": "2026-07-01T03:34:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El capitalismo de vigilancia y la CURP biométrica",
+    "summary": "El Poder Judicial de la Federación emitió tres tesis que abordan el alcance del derecho a la soberanía digital personal frente a la implementación de la CURP biométrica por parte del gobierno mexicano. La columna analiza cómo estos precedentes podrían limitar el capitalismo de vigilancia estatal y reforzar la protección de datos personales en México.",
+    "link": "https://www.eleconomista.com.mx/opinion/capitalismo-vigilancia-curp-biometrica-20260701-821148.html",
+    "source": "El Economista",
+    "published": "2026-07-01T00:36:20-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
+    "summary": "Lime, the Uber-backed micromobility company, and some of its shareholders raised $174 million in a US IPO priced at the midpoint of its marketed range. The listing adds to a busy stretch of tech-adjacent companies tapping public markets in 2026.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share",
+    "source": "Bloomberg",
+    "published": "2026-07-01T00:29:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
+    "summary": "Bending Spoons, the Italian software consolidator that owns Vimeo, and its backers raised $1.68 billion in a US IPO priced above the marketed range. The strong pricing signals continued investor appetite for software roll-up businesses heading into the second half of the year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
+    "source": "Bloomberg",
+    "published": "2026-07-01T00:05:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crédito de la banca comercial mostró ligera recuperación en mayo",
+    "summary": "El crédito vigente de la banca comercial al sector privado mostró una ligera recuperación en mayo frente a abril, aunque su ritmo de crecimiento sigue estancado en lo que va de 2026, según los Agregados Monetarios y Actividad Financiera de Banxico. La cartera total creció 1.7% en su comparación real anual, un avance modesto que refleja la debilidad persistente del crédito bancario mexicano.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/credito-banca-comercial-mostro-ligera-recuperacion-mayo-20260630-821143.html",
+    "source": "El Economista",
+    "published": "2026-06-30T23:48:13-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lanzan aplicación para impulsar el ahorro entre niños",
+    "summary": "La Caja Popular Oblatos, en alianza con la fintech de innovación digital Zumura, lanzó Playcoop, una aplicación móvil que busca fomentar el ahorro y la educación financiera entre niños y adolescentes mediante juegos, recompensas y contenidos interactivos. La iniciativa responde al reto del sector cooperativo de atraer a las nuevas generaciones hacia la cultura del ahorro.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/lanzan-aplicacion-impulsar-ahorro-ninos-20260630-821141.html",
+    "source": "El Economista",
+    "published": "2026-06-30T23:41:25-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street cierra su mejor trimestre en seis años, impulsado por IA y chips",
+    "summary": "Wall Street cerró su mejor trimestre en seis años, impulsado por el auge de la inteligencia artificial y las empresas de semiconductores. El repunte refleja el fuerte apetito inversor por la infraestructura y las acciones ligadas al boom de IA.",
+    "link": "https://expansion.mx/mercados/2026/06/30/wall-street-cierra-su-mejor-trimestre-en-seis-anos-impulsado-por-ia-y-chips",
+    "source": "Expansión",
+    "published": "2026-06-30T23:19:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oaktree Capital-Backed ITG Raises $312.2 Million in US IPO",
+    "summary": "ITG Inc., a digital infrastructure services firm backed by Oaktree Capital, raised $312.2 million in a US IPO priced below its marketed range. The listing adds another private-equity-backed name to this year's steady flow of infrastructure IPOs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/oaktree-capital-backed-itg-raises-312-2-million-in-us-ipo",
+    "source": "Bloomberg",
+    "published": "2026-06-30T22:51:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Debt and Risky Bets Fuel South Korea and Taiwan's AI Stock Boom",
+    "summary": "An AI-driven boom has fueled historic stock rallies in South Korea and Taiwan, but much of the gains are being financed by borrowed money and risky leveraged bets. The segment examines what could happen to these markets if AI enthusiasm cools.",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/debt-and-risky-bets-fuel-south-korea-and-taiwan-s-ai-stock-boom",
+    "source": "Bloomberg",
+    "published": "2026-06-30T21:30:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Rubenstein Doesn't See the AI Stock Bubble Bursting",
     "summary": "Carlyle Group co-chairman David Rubenstein said he doesn't expect the AI stock bubble to burst anytime soon. He made the comments on Bloomberg Surveillance amid ongoing investor debate over AI valuations.",
     "link": "https://www.bloomberg.com/news/videos/2026-06-30/rubenstein-doesn-t-see-the-ai-stock-bubble-bursting-video",
@@ -20,6 +163,28 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
+    "summary": "El Hotel Avándaro se posiciona como una nueva propuesta de hospitalidad de lujo en Valle de Bravo, uno de los destinos turísticos y de segunda residencia más codiciados cerca de la Ciudad de México. La apuesta refleja el creciente interés por proyectos de alta gama en zonas residenciales y vacacionales del país.",
+    "link": "https://expansion.mx/bespoke-ad/2026/06/30/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
+    "source": "Expansión",
+    "published": "2026-06-30T17:34:28+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Elizabeth González, la primera mujer en dirigir las finanzas de Pemex",
+    "summary": "Elizabeth González se convirtió en la primera mujer en dirigir las finanzas de Pemex, un nombramiento histórico dentro de la petrolera estatal mexicana. Su llegada ocurre en un momento clave para la gestión financiera de la empresa.",
+    "link": "https://expansion.mx/empresas/2026/06/30/elizabeth-gonzalez-primera-mujer-en-dirigir-finanzas-pemex",
+    "source": "Expansión",
+    "published": "2026-06-30T17:19:04+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
   },
   {
     "title": "HSBC advierte de repunte ‘explosivo’ del dólar frente al ‘superpeso’",
@@ -326,6 +491,17 @@
     "published": "2026-06-30T10:03:54+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lee’s $880 Billion AI Bet Ties Legacy to Korea’s Chip Boom",
+    "summary": "South Korean President Lee Jae Myung is staking his political legacy on an $880 billion push to turn the country's less-developed southwest into a global chip hub, building on Korea's status as a major AI-boom winner. The plan ties national industrial strategy directly to the AI and semiconductor race.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/lee-s-880-billion-ai-bet-ties-legacy-to-south-korea-chip-boom",
+    "source": "Bloomberg",
+    "published": "2026-06-30T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
