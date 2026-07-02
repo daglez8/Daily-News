@@ -11,6 +11,149 @@
     "light": true
   },
   {
+    "title": "Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI",
+    "summary": "Microsoft is setting up a new organization of 6,000 employees dedicated to helping businesses with the technical and strategic work of deploying artificial intelligence. The initiative underscores how enterprise AI adoption remains a top corporate priority.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-02T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Debt Binge Fueling Private Bond Market | The Close 7/1/2026",
+    "summary": "Bloomberg Television's markets programming discussed how debt tied to the AI investment boom is increasingly flowing into the private bond market, with strategists and analysts weighing in on the risks of an AI-fueled credit expansion.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-02/ai-debt-binge-fueling-private-bond-market-the-close-7-1-2026",
+    "source": "Bloomberg",
+    "published": "2026-07-02T12:55:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Two Blue Owl Private Credit Funds Impose Caps After Redemption Requests",
+    "summary": "For the second consecutive quarter, two Blue Owl Capital private credit funds were hit with the industry's largest redemption requests, forcing the manager to cap withdrawals again. The repeated caps highlight growing investor unease with private credit fund liquidity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/blue-owl-bdcs-impose-caps-after-facing-19-38-requests-to-exit",
+    "source": "Bloomberg",
+    "published": "2026-07-02T12:35:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Robinhood CEO on AI, Expansion & Trump Accounts",
+    "summary": "Robinhood is expanding into the UK and Europe with a new agentic AI offering and perpetual futures trading, with crypto trading expected to follow soon, CEO Vlad Tenev said on Bloomberg Radio. The push comes as competition among fintech apps intensifies across the UK and EU.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video",
+    "source": "Bloomberg",
+    "published": "2026-07-02T12:21:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave Junk Bonds Slide Further as Investors Question AI Boom",
+    "summary": "Bonds issued last month by AI infrastructure firm CoreWeave fell for a second straight day after reports that Meta is developing a competing cloud business, hitting both CoreWeave's shares and its debt. Investors are increasingly questioning the durability of the AI infrastructure boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
+    "source": "Bloomberg",
+    "published": "2026-07-02T12:15:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revisión anual del T-MEC mantendrá a México con un crecimiento menor a 2%",
+    "summary": "Expansión reporta que la revisión anual del T-MEC mantendría a México con un crecimiento económico inferior al 2%, según el artículo sobre el impacto del acuerdo en el potencial de crecimiento del país.",
+    "link": "https://expansion.mx/economia/2026/07/02/revision-anual-tmec-frena-potencial-crecimiento-mexico",
+    "source": "Expansión",
+    "published": "2026-07-02T11:55:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Meta Looks to Make Money From Its AI Spending Binge",
+    "summary": "Meta is considering launching a cloud computing business to help generate revenue from its massive AI infrastructure spending. The company is looking for ways to monetize the excess capacity it has built up during its AI buildout.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-02/meta-considers-cloud-business-to-make-money-from-ai-capacity",
+    "source": "Bloomberg",
+    "published": "2026-07-02T11:02:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Riesgo país en América Latina: toda la región mejoró en el primer semestre",
+    "summary": "Los bonos soberanos de América Latina tuvieron un fuerte avance en el primer semestre de 2026, reduciendo el riesgo país (EMBI) en toda la región; el caso más notable fue Venezuela, cuyo índice cayó de 12,741 a 6,625 tras la caída y encarcelamiento de Nicolás Maduro. Colombia también mejoró de forma significativa, impulsada por la llegada de un gobierno pro-mercado.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/riesgo-pais-en-america-latina-toda-la-region-mejoro-en-el-primer-semestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-02T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "T-MEC, nearshoring y escenario industrial",
+    "summary": "La decisión de Trump de no renovar el T-MEC en su formato actual reaviva la incertidumbre en el mercado inmobiliario industrial mexicano, especialmente en los segmentos ligados a la manufactura de exportación. El artículo recuerda que en 2025 la disponibilidad industrial en el norte y noroeste del país ya había subido 36% frente a los niveles récord de la pandemia, reflejo de la cautela de los inversionistas ante la renegociación del acuerdo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/07/02/t-mec-nearshoring-y-escenario-industrial/",
+    "source": "El Financiero",
+    "published": "2026-07-02T11:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Finance and Tech Cut 28,000 Jobs Monthly as AI Takes Hold",
+    "summary": "Finance and technology companies are cutting roughly 28,000 jobs a month as AI adoption accelerates, driven by slower hiring, higher attrition, and firms choosing not to replace departing workers. The trend signals AI-driven headcount reduction is emerging first in the sectors most exposed to automation.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-02/ai-job-cuts-emerging-first-in-finance-and-tech",
+    "source": "Bloomberg",
+    "published": "2026-07-02T10:30:02+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Are stablecoins money?",
+    "summary": "The Economist examines whether stablecoins qualify as money, arguing that policymakers' central task is to make them both safe and useful as the sector grows in importance to the financial system.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "source": "The Economist",
+    "published": "2026-07-02T09:37:02+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
+    "summary": "SAP said it will cut back on hiring and travel spending to free up resources for its AI development push, as Europe's largest software company works to fend off new competitors. The move reflects how AI investment is reshaping corporate cost priorities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push",
+    "source": "Bloomberg",
+    "published": "2026-07-02T07:45:57+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank Plans to Offer AI Compute in US at 10-Gigawatt Scale",
+    "summary": "SoftBank Group and its telecom unit plan to start renting AI computing capacity to US companies next fiscal year, drawing on a growing pipeline of data centers. The company aims to compete with rivals like CoreWeave and Nebius in the 10-gigawatt-scale AI infrastructure market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+    "source": "Bloomberg",
+    "published": "2026-07-02T07:31:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La mayoría de las OPI fracasan y las nuevas no serán la excepción",
     "summary": "El artículo advierte que la euforia por las próximas salidas a bolsa de SpaceX, OpenAI, Anthropic, Databricks y Anduril podría generar decepción, ya que históricamente la mayoría de las OPI no beneficia a los inversionistas minoristas. El autor argumenta que fundadores e inversionistas iniciales buscan vender caro aprovechando el entusiasmo por la IA, mientras los compradores enfrentan asimetría de información sobre el verdadero valor de las empresas.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/02/la-mayoria-de-las-opi-fracasan-y-las-nuevas-no-seran-la-excepcion/",
@@ -31,6 +174,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El BCE rechaza las peticiones para reducir los niveles de capital de los bancos",
+    "summary": "El Banco Central Europeo rechazó las peticiones del sector bancario para reducir los requisitos de capital, argumentando que los niveles actuales son necesarios por seguridad y no limitan la concesión de crédito. Claudia Buch, responsable de supervisión del BCE, dijo que el aumento de los requisitos desde la crisis financiera no ha mermado la capacidad de los bancos para otorgar préstamos.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-rechaza-peticiones-reducir-niveles-capital-bancos-20260702-821362.html",
+    "source": "El Economista",
+    "published": "2026-07-02T06:21:12-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Nvidia Offers Revenue Sharing Model for Aspiring AI Startups",
@@ -162,6 +316,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 90,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hacienda dejará de recaudar 3.4 billones de pesos en 2026 y 2027 por estímulos y exenciones fiscales",
+    "summary": "Expansión reporta que la Secretaría de Hacienda dejará de recaudar 3.4 billones de pesos entre 2026 y 2027 debido a estímulos y exenciones fiscales otorgados.",
+    "link": "https://expansion.mx/economia/2026/07/01/hacienda-dejara-de-recaudar-3-4-billones-de-pesos-en-2026-y-2027-por-estimulos-y-exenciones-fiscales",
+    "source": "Expansión",
+    "published": "2026-07-01T21:11:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
     "light": true
   },
   {
@@ -5333,170 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Mexico Is Tapping Global Debt Markets to Fund Bond Buyback",
-    "summary": "Mexico is accessing global bond markets to fund a buyback of existing sovereign debt as credit-rating agencies increase pressure on the government to rein in its fiscal deficit. The move is a strategic liability management exercise aimed at improving Mexico's debt profile and signals active engagement with international capital markets under fiscal scrutiny.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/mexico-is-tapping-global-debt-markets-to-fund-bond-buyback",
-    "source": "Bloomberg",
-    "published": "2026-06-22T12:51:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Falleció Alan Greenspan, ex presidente de la Fed",
-    "summary": "Alan Greenspan, economista y ex presidente de la Reserva Federal de Estados Unidos durante los mandatos de cuatro presidentes, falleció a los 100 años de edad. Greenspan lideró la Fed entre 1987 y 2006, período que abarcó la burbuja puntocom, el 11 de septiembre y el inicio de la burbuja inmobiliaria que desembocó en la crisis financiera de 2008.",
-    "link": "https://www.reforma.com/fallecio-alan-greenspan-ex-presidente-de-la-fed/ar3226891",
-    "source": "Reforma",
-    "published": "2026-06-22T12:25:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Robinhood Seeks to Raise $2 Billion in Convertible Bond Sale",
-    "summary": "Robinhood Markets is seeking $2 billion through a convertible bond offering as retail fintech companies continue accessing capital markets at scale. The deal reflects sustained investor appetite for fintech paper and Robinhood's ongoing expansion into new financial products and markets, in a buoyant environment for fintech capital raises.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/robinhood-seeks-to-raise-2-billion-in-convertible-bond-sale",
-    "source": "Bloomberg",
-    "published": "2026-06-22T12:23:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX Bankers Kick Off Marketing for Debut High-Grade Bond Sale",
-    "summary": "SpaceX launched its first investment-grade bond offering following its record $75 billion IPO, in what is expected to be the start of a major borrowing program to fund the company's AI ambitions. The move highlights how top-tier private companies are tapping public debt markets to finance AI infrastructure, a trend reshaping capital allocation and credit markets across industries.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering",
-    "source": "Bloomberg",
-    "published": "2026-06-22T12:15:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¡Goleada pluvial!",
-    "summary": "Scotiabank México, liderado por Pablo Elek, convocó una mesa de trabajo de alto nivel en la Ciudad de México para fortalecer la integración del corredor económico regional, reafirmando la apuesta del banco canadiense por el mercado mexicano en el contexto del nearshoring. El artículo también destaca la alianza entre Rotoplas y bebbia para financiar sistemas de captación pluvial en deportivos públicos de la capital, un modelo de financiamiento de infraestructura urbana de interés.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/06/22/goleada-pluvial/",
-    "source": "El Financiero",
-    "published": "2026-06-22T12:08:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cuomo to Lead Crypto Venture With New York Stock Exchange Owner",
-    "summary": "Former New York Governor Andrew Cuomo is partnering with cryptocurrency exchange OKX and Intercontinental Exchange (owner of the NYSE) to build a venture that merges digital and traditional financial markets. The initiative signals mainstream financial infrastructure moving aggressively into crypto, raising the prospect of regulated digital asset markets at institutional scale.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/cuomo-to-lead-crypto-venture-with-new-york-stock-exchange-owner",
-    "source": "Bloomberg",
-    "published": "2026-06-22T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Finsus actualiza trámite bancario tras crecer 72% en activos",
-    "summary": "Finsus, institución financiera mexicana, actualizó sus procesos de trámite bancario tras registrar un crecimiento del 72% en activos, lo que refleja la aceleración de competidores digitales en el segmento de servicios financieros en México. El dinamismo de la institución subraya la presión competitiva que enfrentan bancos tradicionales y SOFOMes ante la expansión de jugadores fintech en el mercado de crédito nacional.",
-    "link": "https://expansion.mx/economia/2026/06/22/finsus-actualiza-tramite-bancario-tras-crecer-72-en-activos",
-    "source": "Expansión",
-    "published": "2026-06-22T11:55:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "'Las 500 empresas más importantes de México' 2026: el top 10",
-    "summary": "Expansión publicó el ranking anual de las 500 empresas más importantes de México para 2026, destacando el top 10 de corporaciones que lideran en ingresos y relevancia económica en el país. El listado es una referencia clave del ecosistema empresarial mexicano, útil para identificar actores dominantes en sectores de interés como banca, finanzas y bienes raíces.",
-    "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
-    "source": "Expansión",
-    "published": "2026-06-22T11:50:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Saudi Central Bank Said to Pull Money From at Least Two Managers",
-    "summary": "Saudi Arabia's central bank SAMA has pulled billions of dollars from at least two global asset managers in recent months, signaling that one of the world's largest sovereign capital custodians is growing more selective with deployment. The shift may indicate broader reallocation trends in institutional capital with potential ripple effects on global asset management mandates and emerging market flows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/saudi-arabia-s-central-bank-sama-pulls-money-from-at-least-two-asset-managers",
-    "source": "Bloomberg",
-    "published": "2026-06-22T11:49:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Presta Infonavit más con morosidad récord",
-    "summary": "Infonavit registra una cartera en morosidad que ya alcanza niveles récord, mientras expertos advierten que el incremento en el otorgamiento de créditos podría agravar aún más la situación. El crecimiento de la colocación sin mejoras paralelas en recuperación de cartera representa un riesgo sistémico relevante para la institución de vivienda más grande de México y para el mercado hipotecario en general.",
-    "link": "https://www.reforma.com/presta-infonavit-mas-con-morosidad-record/ar3226807",
-    "source": "Reforma",
-    "published": "2026-06-22T11:01:08+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 88,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "China Makes Sweeping Education Reforms to Prepare for AI Era",
-    "summary": "China has eliminated over 12,000 university degree programs it considers relics of a pre-AI era, representing the most sweeping overhaul of its higher education system in decades. The reforms underscore the scale of workforce transformation governments are undertaking as AI reshapes labor markets, raising parallel questions for corporate talent strategy and the future of knowledge-worker roles.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/china-s-ai-programs-for-students-eliminate-12-000-university-degrees",
-    "source": "Bloomberg",
-    "published": "2026-06-22T10:30:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center",
-    "summary": "Microsoft and Chevron signed a 20-year agreement for Chevron to supply natural-gas power for what could become one of the largest AI data centers in the US, located in West Texas. The deal exemplifies the massive energy infrastructure commitments being made to support AI compute buildout and the convergence of energy and technology capital expenditure cycles.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/microsoft-chevron-sign-20-year-power-deal-for-texas-data-center",
-    "source": "Bloomberg",
-    "published": "2026-06-22T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Getty Images Soars 200% in Early Trading After OpenAI Deal",
-    "summary": "Getty Images shares surged approximately 200% in premarket trading after announcing a licensing deal with OpenAI. The deal marks another major step in AI companies formalizing content licensing agreements with media rights holders, a model with significant implications for AI training data governance and the emerging framework for AI content rights.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
-    "source": "Bloomberg",
-    "published": "2026-06-22T09:31:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vidriera del Mundial 2026 no pone piso a acciones de Globant: por qué caen a mínimos desde 2017",
-    "summary": "Las acciones de Globant acumulan una caída del 53% en 2026 a mínimos desde 2017, arrastradas por la advertencia de Accenture de que la inteligencia artificial impactará negativamente su facturación próxima —la mayor caída intradía en la historia de Accenture. El desplome evidencia que la IA está comenzando a desplazar segmentos clave de consultoría y outsourcing tecnológico, con la acción cotizando a menos de la mitad del precio objetivo de los analistas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vidriera-del-mundial-2026-no-frena-caida-de-acciones-de-globant-por-que-caen-a-minimos-desde-2017/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-22T09:10:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Vacantes de IA en México se duplicaron en el último año",
-    "summary": "La demanda de talento en inteligencia artificial en México se duplicó en el último año, señal de que la adopción de IA en el país entra a una etapa temprana de madurez — relevante para talento y transformación.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/vacantes-ia-mexico-duplicaron-ultimo-ano-20260622-819385.html",
-    "source": "El Economista",
-    "published": "2026-06-22T08:05:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
   }
 ]
