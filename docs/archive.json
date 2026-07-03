@@ -11,6 +11,116 @@
     "light": true
   },
   {
+    "title": "EU Agrees to Cut ESG Reporting Requirements for Asset Managers",
+    "summary": "European asset managers will no longer be required to report ESG data on every asset they hold, under revised EU disclosure rules that ease the regulatory burden on money managers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/eu-agrees-to-cut-esg-reporting-requirements-for-asset-managers",
+    "source": "Bloomberg",
+    "published": "2026-07-03T11:26:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Tech Sends Workers Into the Field to Help Customers Use AI",
+    "summary": "Microsoft and Amazon are following AI-native companies by building units of 'forward-deployed' engineers who work directly with customers to help them use AI tools. The move reflects growing pressure on enterprise software giants to show tangible results from AI adoption.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-03T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mamoon Hamid on the Importance of Identifying Potential",
+    "summary": "Kleiner Perkins partner Mamoon Hamid discusses his approach to early AI investing and how he identified potential in companies like Slack and Figma, in a Bloomberg interview on the venture-capital view of the AI revolution.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-03/mamoon-hamid-on-the-importance-of-identifying-potential-video",
+    "source": "Bloomberg",
+    "published": "2026-07-03T11:01:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Otro episodio en la Corte de Lenia contra las empresas… que perdió",
+    "summary": "Ocho de los nueve ministros de la Suprema Corte determinaron que el recurso fiscal contra FEMSA impulsado por la ministra Lenia Batres era improcedente, confirmando la resolución favorable que ya tenía la empresa. El caso reaviva las críticas de la comunidad jurídica y de inversionistas sobre litigios fiscales retroactivos contra empresas mexicanas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/confidencial/2026/07/03/otro-episodio-en-la-corte-de-lenia-contra-las-empresas-que-perdio/",
+    "source": "El Financiero",
+    "published": "2026-07-03T10:57:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "This is nuts upon nuts. When’s the crash?",
+    "summary": "A Financial Times commentary warns of an 'earnings/valuation double bubble of Pleistocene proportions' in current markets, questioning when a correction might arrive.",
+    "link": "https://www.ft.com/content/8e9337f8-9191-48e9-9289-a8defda89431",
+    "source": "Financial Times",
+    "published": "2026-07-03T10:40:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors Track Tokens for Clues on AI Trade’s Next Move",
+    "summary": "Investors are closely tracking AI token prices for clues about where the volatile AI trade will move next, as sentiment around the sector remains fragile.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-03/investors-track-tokens-for-clues-on-ai-trade-s-next-move",
+    "source": "Bloomberg",
+    "published": "2026-07-03T10:16:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Así les fue a los ETF de América Latina en el primer semestre: fuertes avances en Colombia y Perú",
+    "summary": "Los ETF latinoamericanos tuvieron un primer semestre mayormente positivo: Perú (+15.4%) y Colombia (+16.9%) lideraron tras triunfos electorales promercado, mientras el ETF mexicano EWW avanzó 8.57% y el chileno cerró en terreno negativo. El fondo regional ILF subió 10.84%, superando el 9.55% del S&P 500.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/asi-les-fue-a-los-etf-de-america-latina-en-el-primer-semestre-fuertes-avances-en-colombia-y-peru/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-03T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+    "summary": "Allianz Chief Economist Ludovic Subran said artificial intelligence is likely to have a less even economic impact than current market hype suggests, warning of 'exuberance' around AI productivity hopes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+    "source": "Bloomberg",
+    "published": "2026-07-03T08:43:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Del desplome del petróleo al rebote de Wall Street: las 8 claves del segundo trimestre",
+    "summary": "Un informe de Deutsche Bank resume las 8 claves del segundo trimestre de 2026, marcado por una caída de 38.4% del Brent tras el acuerdo interino entre EU e Irán, la reducción de temores de estanflación y el mejor trimestre de Wall Street desde 2020. El cambio de escenario permitió una recuperación de las bolsas y de la renta fija global.",
+    "link": "https://www.bloomberglinea.com/mercados/del-desplome-del-petroleo-al-rebote-de-wall-street-las-8-claves-del-segundo-trimestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-03T08:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Windsor: Market Has Mistaken Demand for AI Compute",
+    "summary": "Semiconductor stocks suffered their worst two-day selloff in nearly a month at the start of the third quarter, following an 88% quarterly rally. Analyst Richard Windsor told Bloomberg the market has mistaken current demand patterns for durable AI compute demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-03/windsor-market-has-mistaken-demand-for-ai-compute-video",
+    "source": "Bloomberg",
+    "published": "2026-07-03T07:17:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Factories Create Winners and Losers in Power Equipment Market",
     "summary": "The buildout of next-generation AI data centers is reshaping the power equipment industry, forcing suppliers to adapt their portfolios to capture a market projected to exceed $200 billion annually. Some equipment makers stand to benefit significantly while others risk being left behind as AI infrastructure demand accelerates.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market",
@@ -77,6 +187,28 @@
     "light": true
   },
   {
+    "title": "Gymshark founder in talks to buy back stake from General Atlantic",
+    "summary": "Gymshark founder Ben Francis, 34, is in talks to buy back a stake from private equity firm General Atlantic in an effort to regain full control of the fitness brand after a rocky period for the business.",
+    "link": "https://www.ft.com/content/2096f4b1-7590-42d4-9a8b-a1358ad6f77b",
+    "source": "Financial Times",
+    "published": "2026-07-03T04:00:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mexico City Architecture City Guide: 38 Projects From Tenochtitlan to the 21st Century",
+    "summary": "ArchDaily's city guide traces 38 architecture projects across Mexico City, from the Pre-Hispanic Templo Mayor and colonial Catedral Metropolitana to the mid-century Mexican Modernism of Ciudad Universitaria, Félix Candela's shell structures, and the brutalist work of González de León and Zabludovsky. The piece frames the capital as a continuous dialogue between historical eras and contemporary design.",
+    "link": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+    "source": "ArchDaily",
+    "published": "2026-07-03T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 70,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "¿Protección o rapiña?",
     "summary": "El litigio de FEMSA contra el SAT llegó al Pleno del Tribunal Constitucional por insistencia de la ministra Lenia Batres, pese a que la empresa ya contaba con una resolución favorable; la SCJN terminó confirmando la anulación de un crédito fiscal por 2,868 millones de pesos. El caso reaviva el debate sobre los límites entre la defensa de la hacienda pública y principios como la seguridad jurídica y la irretroactividad de la ley.",
     "link": "https://www.eleconomista.com.mx/opinion/proteccion-rapina-20260703-821524.html",
@@ -99,6 +231,17 @@
     "light": false
   },
   {
+    "title": "Kioxia Ships Next-Gen AI Memory Samples to Get Ahead of Rivals",
+    "summary": "Kioxia has started shipping samples of its next-generation flash memory chips to AI data center operators, seeking to gain ground against rivals in the lucrative AI memory business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers",
+    "source": "Bloomberg",
+    "published": "2026-07-02T23:53:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Estados prefieren la inversión productiva como destino de su deuda",
     "summary": "Después de cuatro años, los gobiernos estatales y municipales mexicanos destinaron más recursos de sus financiamientos a inversión pública productiva que a refinanciar deuda, según datos de la SHCP. Del total de 18,829 millones de pesos contratados en el primer semestre, 45.4% se dirigió a inversión productiva, revirtiendo una tendencia que no se veía desde 2021.",
     "link": "https://www.eleconomista.com.mx/estados/estados-prefieren-inversion-productiva-destino-deuda-20260702-821514.html",
@@ -119,6 +262,17 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+    "summary": "Hong Kong has become a vital conduit for high-tech goods moving in and out of China, emerging as one node in a $2 trillion Asian trade network fueled by the global AI boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+    "source": "Bloomberg",
+    "published": "2026-07-02T23:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "China Quant Funds Draw Billions as AI Trounces Human Traders",
@@ -284,6 +438,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
+    "summary": "El Hotel Avándaro se posiciona como un nuevo referente de hospitalidad de lujo en Valle de Bravo, según una nota de Expansión.",
+    "link": "https://expansion.mx/bespoke-ad/2026/07/02/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
+    "source": "Expansión",
+    "published": "2026-07-02T16:25:28+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Altman’s AI safety proposal: let us win, or everybody loses",
@@ -5331,171 +5496,6 @@
     "published": "2026-06-23T10:05:20+00:00",
     "category": "AI & Agents",
     "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google Taps Employee Alumni Network With AI Startup Incubator",
-    "summary": "Alphabet's Google launched an AI startup incubator targeted at former employees, leveraging one of Silicon Valley's largest and most influential alumni networks to build a strategic pipeline into early-stage AI ventures. The initiative goes beyond traditional corporate venture by channeling institutional knowledge into AI-native startups, potentially giving Google early access to emerging technologies from deeply informed founders. This reflects the intensification of Big Tech's race to build sustainable moats in the AI ecosystem beyond in-house R&D.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
-    "source": "Bloomberg",
-    "published": "2026-06-23T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CIBC Square / WilkinsonEyre",
-    "summary": "CIBC Square is a major 330,000 m² mixed-use complex in Toronto, Ontario designed by WilkinsonEyre and completed in 2026. The project, developed for a leading Canadian financial institution, represents one of the largest corporate real estate developments recently completed in North America. The building exemplifies contemporary corporate campus and transit-oriented design in a major financial hub.",
-    "link": "https://www.archdaily.com/1042663/cibc-square-wilkinsoneyre",
-    "source": "ArchDaily",
-    "published": "2026-06-23T10:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Allianz CIO Sees Markets Pricing 'Darwinian Effect of AI'",
-    "summary": "Allianz's chief investment officer described current market dynamics as pricing in a 'Darwinian effect of AI,' where rapid competitive pressures will swiftly create decisive winners and losers across technology and the industries it disrupts. The interview also covered central bank policy and inflation implications as AI reshapes productivity expectations at a macro level. The framework offers useful language for evaluating how AI-exposed equities and financial services firms should be positioned through the current bout of AI valuation volatility.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/allianz-sees-markets-pricing-darwinian-effect-of-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-06-23T08:53:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México va por 6 mil 300 millones de dólares en los mercados internacionales",
-    "summary": "México lanzó una colocación de bonos internacionales por 6,300 millones de dólares: 4,800 millones a 2037 a 185 pb sobre Tesoros y 1,500 millones a 2056 a 195 pb, ambos por debajo de la guía inicial tras demanda robusta de inversores. Los recursos se destinarán a recomprar deuda en dólares con vencimiento en 2027 y 2028, y bonos en euros a 2029, en una operación estratégica de manejo de pasivos. La transacción ocurre bajo la mirada crítica de las calificadoras, que advierten sobre el creciente déficit fiscal y el riesgo para el grado de inversión soberano de México.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/06/23/mexico-va-por-6-mil-300-millones-de-dolares-en-los-mercados-internacionales/",
-    "source": "El Financiero",
-    "published": "2026-06-23T08:11:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Chip Stocks Plunge as AI Selloff Ripples Across From Asia",
-    "summary": "US chip stocks plunged as a global selloff in chipmakers — sparked by South Korea's 10% Kospi decline and sharp drops in SK Hynix and Samsung — raised doubts about the sustainability of the AI-driven technology rally and triggered broad-based declines in AI-adjacent companies. The market repricing reflects growing investor anxiety about whether AI capital spending commitments will translate into near-term earnings and revenue growth proportionate to current valuations. Major US indexes fell sharply, with the Nasdaq concentrating the heaviest losses among semiconductor and AI platform companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers",
-    "source": "Bloomberg",
-    "published": "2026-06-23T06:16:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Building, Taxing, and Financing: New York City's Recent Measures to Tackle the Housing Crisis",
-    "summary": "New York City rolled out housing policies combining zoning adjustments, targeted tax incentives, and public financing mechanisms to address a structural shortage of affordable units in the country's largest urban market. The policy mix illustrates how public authorities leverage fiscal and financing tools alongside private capital to stimulate housing supply — a relevant comparative lens for housing finance markets facing affordability gaps. The framework resonates with challenges facing Mexican cities experiencing nearshoring-driven demand growth and similar affordability pressure.",
-    "link": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
-    "source": "ArchDaily",
-    "published": "2026-06-23T05:30:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Petróleo de México cae tras permiso de EE.UU. a Irán para vender crudo",
-    "summary": "La Mezcla Mexicana de Exportación cayó a US$72 por barril después de que EE.UU. otorgó a Irán una licencia para exportar crudo como parte del acuerdo de paz, presionando los ingresos petroleros del gobierno mexicano. Cada dólar de variación en el precio del barril impacta en US$600 millones las finanzas públicas, según Hacienda. Wood Mackenzie proyecta que el Brent promediará US$78 en 2027 pero podría descender a US$70 en el cuarto trimestre.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petroleo-de-mexico-cae-tras-permiso-de-eeuu-a-iran-para-vender-crudo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-23T04:31:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Masayoshi Son Dismisses Musk's Idea for Orbital Data Centers",
-    "summary": "SoftBank's Masayoshi Son dismissed Elon Musk's concept of space-based data centers, arguing the AI race will be decided by ground-based compute rather than orbital infrastructure, and reaffirmed SoftBank's strategy of massive terrestrial AI infrastructure investment. Speaking at WEF Dalian, Son positioned Earth-bound compute capacity as the decisive competitive factor in the global AI competition. The statement sharpens the debate among major AI investors about where physical infrastructure will determine strategic advantage.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner",
-    "source": "Bloomberg",
-    "published": "2026-06-23T04:16:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Warsh has a chance to enact lasting reform at the Fed",
-    "summary": "FT opinion argues that incoming Federal Reserve leadership under Kevin Warsh has a rare window to reform the Fed's inflation framework and balance-sheet policy in ways that could structurally reduce long-term monetary uncertainty. Changing how the Fed communicates inflation targets and manages its balance sheet would ripple through global capital markets, affecting borrowing costs, credit spreads, and the investment environment for rate-sensitive sectors. For Mexico and other emerging markets, a more predictable Fed framework would reduce external monetary policy risk and support more stable peso borrowing conditions.",
-    "link": "https://www.ft.com/content/f0b24cda-de76-41c0-9464-ac1dba7633c3",
-    "source": "Financial Times",
-    "published": "2026-06-23T04:00:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Citadel built an energy empire from Enron's ashes",
-    "summary": "Ken Griffin's Citadel built a powerful energy trading and commodities empire by systematically acquiring talent, data, and infrastructure from the ruins of Enron, transforming one of history's largest corporate failures into a foundation for financial dominance in energy markets. The FT traces how Citadel expanded beyond financial trading into direct commodity participation, creating a model that blurs boundaries between hedge funds and commodity producers. The piece is a case study in alternative investment evolution and how sophisticated capital can convert distressed industrial assets into enduring competitive advantage.",
-    "link": "https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda",
-    "source": "Financial Times",
-    "published": "2026-06-23T04:00:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alan Greenspan y la Fed: las dos caras de un legado que marcó a los mercados",
-    "summary": "El fallecimiento de Alan Greenspan a los 100 años cierra una era de la banca central moderna: durante casi dos décadas al frente de la Fed presidió una de las expansiones económicas más largas de EE.UU. y consolidó un banco central más activo ante crisis financieras. Su legado tiene dos caras —presidió el auge de la productividad tecnológica, pero su confianza en la autorregulación de mercados sentó las bases de los excesos que culminaron en la crisis de 2008. La figura de Greenspan marcó el precedente de cómo la retórica del banco central puede mover mercados globales con una sola frase.",
-    "link": "https://www.bloomberglinea.com/mundo/estados-unidos/alan-greenspan-y-la-fed-las-dos-caras-de-un-legado-que-marco-a-los-mercados/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-23T02:32:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Registro de celulares en México: ¿Qué pasará con las apps de bancos si no cumples?",
-    "summary": "La Asociación de Bancos de México (ABM) advierte que el vencimiento del plazo de registro de líneas celulares con CURP el 30 de junio podría cortar el acceso a la banca móvil de más de 80 millones de usuarios que aún no han completado el trámite. Sin la línea registrada, los usuarios perderían funciones clave de sus aplicaciones bancarias como transferencias y consultas de saldo. Las instituciones financieras intensificaron campañas ante la ausencia de una prórroga oficial por parte de las autoridades.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/06/22/registro-de-celulares-en-mexico-que-pasara-con-las-apps-de-bancos-si-no-cumples/",
-    "source": "El Financiero",
-    "published": "2026-06-23T02:03:26+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Empresas de energía eólica invertirán US$5.000 millones en México",
-    "summary": "Empresas del sector eólico anunciaron inversiones por US$5.000 millones en México vía convocatorias de la Secretaría de Energía y esquemas de inversión mixta con la CFE, con una capacidad instalada de hasta 3.900 MW en 14 parques ubicados principalmente en Tamaulipas para 2029. Los proyectos incluirán sistemas de almacenamiento en baterías equivalentes al 40% de la capacidad instalada. Este flujo de capital extranjero refuerza el perfil de México como destino de inversión energética en el contexto del nearshoring.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/empresas-de-energia-eolica-invertiran-us5000-millones-en-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-23T01:54:24+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bancos brasileños recurren a México por designación de EU sobre grupos terroristas",
-    "summary": "El sector financiero brasileño busca asesoría en México sobre mejores prácticas de cumplimiento ante el riesgo de que EE.UU. aplique las mismas herramientas usadas en 2025, cuando prácticamente expulsó del sistema financiero a tres bancos mexicanos acusados de lavar recursos del narco. La designación de los dos principales grupos criminales de Brasil como organizaciones terroristas activa el temor a acciones similares contra instituciones brasileñas con exposición a esos grupos. Los bancos mexicanos que vivieron esa crisis se convirtieron en referente obligado de gestión de riesgo de cumplimiento para el sector financiero regional.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/06/22/bancos-brasilenos-recurren-a-mexico-por-designacion-de-eu-sobre-grupos-terroristas/",
-    "source": "El Financiero",
-    "published": "2026-06-23T01:48:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Internet Stocks Will Be Next Area of AI Cycle, Standard Chartered Says",
-    "summary": "Standard Chartered's Daniel Lam predicts the next phase of the AI investment cycle will broaden to benefit internet stocks, even as US equities face a mild correction from current elevated levels. The analysis comes as AI-linked semiconductor and hardware stocks face profit-taking after outperforming for much of the year. Lam sees the AI theme shifting from chip-infrastructure plays toward companies that will monetize AI at the application and internet-services layer.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/internet-stocks-will-be-next-area-of-ai-cycle-stanchart-video",
-    "source": "Bloomberg",
-    "published": "2026-06-23T01:04:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
     "language": "en",
     "light": true
   }
