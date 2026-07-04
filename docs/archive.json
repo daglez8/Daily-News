@@ -11,6 +11,50 @@
     "light": true
   },
   {
+    "title": "Credit Agricole Increases BPM Stake, Boosting Position in Italy",
+    "summary": "Crédit Agricole has increased its stake in Italy's Banco BPM, deepening its foothold in the Italian banking sector. The move underscores continued consolidation and cross-border positioning among major European financial institutions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy",
+    "source": "Bloomberg",
+    "published": "2026-07-04T11:38:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Toman mal parado al País las revisiones del T-MEC",
+    "summary": "Expertos de Grupo Coppel y Banorte advierten que las revisiones anuales del T-MEC dejan a México en una posición débil frente a sus serios problemas de crecimiento económico. El análisis señala que la incertidumbre derivada de este mecanismo de revisión, en lugar de una renovación plena del tratado, complica las perspectivas económicas del país.",
+    "link": "https://www.reforma.com/toman-mal-parado-al-pais-las-revisiones-del-t-mec/ar3234413",
+    "source": "Reforma",
+    "published": "2026-07-04T05:01:13-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "La desventaja de México por el ‘castigo’ de Trump",
+    "summary": "El secretario de Economía, Marcelo Ebrard, confía en que la vigencia del T-MEC —aunque sujeto a revisiones anuales en lugar de una renovación plena por 16 años— representará una oportunidad de crecimiento e inversión para México. Sin embargo, analistas advierten que la falta de una extensión completa del tratado incrementa la incertidumbre para empresas e inversionistas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/03/la-desventaja-de-mexico-por-el-castigo-de-trump/",
+    "source": "El Financiero",
+    "published": "2026-07-04T04:04:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bancos evitarán fraudes con nueva regulación biométrica",
+    "summary": "Una nueva regulación biométrica en México busca reforzar la prevención de fraudes en el sistema bancario, según Expansión. La medida apunta a fortalecer los mecanismos de identificación de clientes para reducir el riesgo de suplantación y fraude financiero.",
+    "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
+    "source": "Expansión",
+    "published": "2026-07-04T00:58:37+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Las claves económicas de la semana (29 de junio al 3 de julio): De remesas y ventas de autos",
     "summary": "Un repaso semanal de El Economista destaca que la confianza del consumidor en México se recuperó en junio a 43.8 puntos tras el desplome de mayo, en plena temporada mundialista. La nota también resume datos de remesas, venta de automóviles, y cifras de confianza del consumidor y desempleo en Estados Unidos durante la semana del 29 de junio al 3 de julio.",
     "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-29-junio-3-julio-remesas-ventas-autos-20260703-821657.html",
@@ -18,6 +62,17 @@
     "published": "2026-07-03T23:48:14-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
+    "summary": "Pese a que las tasas de interés hipotecarias en México se mantienen en niveles altos, la originación de créditos para vivienda sigue creciendo, de acuerdo con un reporte de Expansión. La nota examina por qué la demanda no se ha frenado a pesar del costo elevado del financiamiento.",
+    "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
+    "source": "Expansión",
+    "published": "2026-07-03T21:37:05+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 92,
     "language": "es",
     "light": false
   },
@@ -31,6 +86,28 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El Tec crea su propio ChatGPT para ordenar el uso de la IA en las aulas",
+    "summary": "El Tecnológico de Monterrey desarrolló su propia herramienta de inteligencia artificial generativa, similar a ChatGPT, para regular y estandarizar el uso de la IA dentro de sus aulas. La iniciativa busca dar a la institución mayor control sobre cómo estudiantes y profesores utilizan estas herramientas en el proceso educativo.",
+    "link": "https://expansion.mx/carrera/2026/07/03/tec-monterrey-crea-propio-chatgpt",
+    "source": "Expansión",
+    "published": "2026-07-03T20:18:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La historia de Bital: el banco mexicano que terminó en manos de un gigante inglés en el nuevo milenio",
+    "summary": "Expansión repasa la historia de Bital, uno de los bancos mexicanos más importantes de finales del siglo XX, que terminó siendo adquirido por HSBC a inicios de los 2000. El artículo recorre el ascenso y las dificultades financieras que llevaron a esa venta al gigante bancario británico.",
+    "link": "https://expansion.mx/economia/2026/07/03/bital-banco-mexicano-se-convirtio-en-hsbc",
+    "source": "Expansión",
+    "published": "2026-07-03T19:40:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Los Wealthy Hand-to-Mouth (hogares con patrimonio pero restringidos por liquidez) y las remesas",
@@ -5421,82 +5498,5 @@
     "relevance_score": 90,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Cerebras Drops After 2026 Sales Outlook Disappoints Investors",
-    "summary": "Shares of Cerebras Systems fell roughly 10% in after-hours trading after the newly public AI chipmaker's 2026 sales forecast fell short of investor expectations, despite its positioning in the AI data center market. The result reflects market skepticism that newer hardware entrants can capture meaningful share from Nvidia in a segment where incumbency, software ecosystems, and developer familiarity create significant competitive moats. For those tracking AI infrastructure investment, this is a reminder that AI hardware demand is not uniformly distributed and incumbent advantage remains very strong.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/cerebras-projects-2026-sales-that-leave-investors-wanting-more",
-    "source": "Bloomberg",
-    "published": "2026-06-23T21:05:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México aprovecha el desplome chino en EU para ganar comercio en 22 industrias",
-    "summary": "México ha ganado participación de mercado en Estados Unidos en 22 industrias, aprovechando la contracción del comercio chino con ese país en el contexto del nearshoring. Este avance refleja la reconfiguración de cadenas de suministro en favor de México, con implicaciones directas para la demanda de bienes raíces industriales, crédito empresarial y financiamiento de infraestructura. La tendencia posiciona a México como el principal beneficiario de la diversificación comercial en Norteamérica.",
-    "link": "https://expansion.mx/economia/2026/06/23/mexico-gana-comercio-eu-china-22-industrias",
-    "source": "Expansión",
-    "published": "2026-06-23T20:49:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
-    "summary": "La Secretaría de Hacienda llevó a cabo una recompra de bonos de deuda externa por 6,300 millones de dólares, una operación de gestión de pasivos relevante para el perfil de deuda soberana de México. Este tipo de operaciones reduce el saldo de bonos externos, mejora el perfil de vencimientos y puede señalizar confianza gubernamental en la disponibilidad de liquidez. La operación tiene implicaciones para los diferenciales de crédito soberano de México y el mercado de bonos en moneda extranjera.",
-    "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
-    "source": "Expansión",
-    "published": "2026-06-23T19:42:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "SpaceX pitches investors juicy yields in $25bn bond deal",
-    "summary": "SpaceX launched a debut $25 billion bond offering upsized after overwhelming investor demand attracted by high yields in a rising-rate environment, ranking among the largest investment-grade transactions in the US market this year. While equity markets have long embraced SpaceX's growth story, debt investors are applying more scrutiny to the company's projected cash burn over the coming years. The deal tests how bond markets price risk for Elon Musk's rocket, satellite, and AI conglomerate at its debut in the public credit markets.",
-    "link": "https://www.ft.com/content/7ea76b60-ea21-4e50-b0e2-bbcc842af289",
-    "source": "Financial Times",
-    "published": "2026-06-23T18:44:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street abre a la baja por 'desconfianza' en el sector tecnológico",
-    "summary": "Los principales índices de Wall Street operaron a la baja impulsados por una menor demanda de activos tecnológicos, mientras los inversores cuestionan si el ritmo de inversión en inteligencia artificial puede sostener las elevadas valuaciones del sector; el Nasdaq retrocedió 1.74% y el S&P 500 bajó 1.03%. A nivel europeo, los principales índices también registraron descensos generalizados ante el mismo telón de fondo. En México, la atención permanece sobre la evolución de la inflación y las decisiones de Banxico, según el economista en jefe de Actinver.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/23/bmv-wall-street-hoy-23-de-junio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-06-23T18:28:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A Jevons Paradox in Bureaucracy",
-    "summary": "This Bloomberg analysis explores whether AI will actually boost organizational productivity or simply expand the scope and complexity of work — a phenomenon economists call the Jevons Paradox, where greater efficiency increases overall consumption of a resource rather than reducing it. The argument raises questions about AI's net effect on headcount, workflow design, and the actual ROI organizations can expect from enterprise AI deployments. The piece is directly relevant to how leadership should calibrate expectations for AI-driven efficiency gains and restructure teams accordingly.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/a-jevons-paradox-in-bureaucracy",
-    "source": "Bloomberg",
-    "published": "2026-06-23T18:14:44+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Petrobras y Pemex firman acuerdo para producción y refinación de petróleo",
-    "summary": "Petrobras y Pemex firmaron un Memorando de Entendimiento para cooperar estratégicamente en exploración y producción en el Golfo de México, revitalización de campos maduros, refinación y petroquímica, con vigencia de dos años y sin constituir un compromiso vinculante de inversión ni crear empresa conjunta. La presidenta de Petrobras, Magda Chambriard, señaló que la alianza podría posicionar a la empresa brasileña como socia relevante de Pemex en un nuevo ciclo de fortalecimiento de la actividad petrolera en México. El acuerdo también abre la puerta a exploración conjunta en otras regiones, incluyendo Brasil y el continente africano.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petrobras-y-pemex-firman-acuerdo-para-produccion-y-refinacion-de-petroleo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-23T18:01:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
