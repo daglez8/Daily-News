@@ -22,6 +22,17 @@
     "light": true
   },
   {
+    "title": "El Vasco Aguirre y el código invisible de la Selección Mexicana",
+    "summary": "El técnico Javier 'Vasco' Aguirre ha sido visto leyendo The Culture Code, de Daniel Coyle, un libro sobre cómo se construyen culturas de alto desempeño mediante seguridad, vulnerabilidad compartida y propósito. El artículo, publicado en la sección Capital Humano de El Economista, analiza a la Selección Mexicana como un caso de estudio organizacional sobre liderazgo y construcción de cultura de equipo.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/vasco-aguirre-codigo-invisible-seleccion-mexicana-20260704-821600.html",
+    "source": "El Economista",
+    "published": "2026-07-04T08:05:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Toman mal parado al País las revisiones del T-MEC",
     "summary": "Expertos de Grupo Coppel y Banorte advierten que las revisiones anuales del T-MEC dejan a México en una posición débil frente a sus serios problemas de crecimiento económico. El análisis señala que la incertidumbre derivada de este mecanismo de revisión, en lugar de una renovación plena del tratado, complica las perspectivas económicas del país.",
     "link": "https://www.reforma.com/toman-mal-parado-al-pais-las-revisiones-del-t-mec/ar3234413",
@@ -5485,17 +5496,6 @@
     "published": "2026-06-23T21:34:30+00:00",
     "category": "AI & Agents",
     "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Customer Sues US Over Loss of Fable AI Access",
-    "summary": "An AI startup that relies on Anthropic's models filed suit against the US government after a federal order restricted foreign nationals from accessing Anthropic's most advanced AI models, including Fable — affecting US-based companies with international employees or customers. The case challenges the legal basis for AI export controls and tests the boundary between national security regulation and legitimate commercial AI access. This is a landmark AI governance case: restrictions on frontier model access are already causing material business disruption and will face sustained legal scrutiny.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-customer-sues-us-over-losing-access-to-fable-ai-model",
-    "source": "Bloomberg",
-    "published": "2026-06-23T21:22:05+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 90,
     "language": "en",
     "light": true
   }
