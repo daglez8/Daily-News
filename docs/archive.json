@@ -11,6 +11,50 @@
     "light": true
   },
   {
+    "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
+    "summary": "Bending Spoons' Nasdaq listing caps more than a decade of acquisitions that turned the Italian startup into a $23 billion global internet company, according to the Financial Times. The story illustrates how an aggressive, serial M&A roll-up strategy can extract outsized value from distressed and underperforming brands.",
+    "link": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
+    "source": "Financial Times",
+    "published": "2026-07-05T04:00:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street banks recover in China amid trading boom",
+    "summary": "The China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year as a trading boom fuels a rebound for Wall Street banks in the country, the Financial Times reports. The recovery signals renewed momentum for foreign banks in Chinese capital markets after years of pullback.",
+    "link": "https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2",
+    "source": "Financial Times",
+    "published": "2026-07-05T04:00:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors Looking for Shelter From AI Storm Are Turning to India",
+    "summary": "After largely missing out on the global AI equity rally, Indian stocks are regaining investor attention as a refuge from mounting AI market turbulence, per Bloomberg. The rotation reflects growing caution around stretched AI-driven valuations elsewhere.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
+    "source": "Bloomberg",
+    "published": "2026-07-05T02:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
+    "summary": "Banco del Bienestar incrementó su capital social en 4,245 millones de pesos, según Expansión. El resumen disponible no detalla el destino específico de los recursos ni el marco regulatorio de la operación.",
+    "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
+    "source": "Expansión",
+    "published": "2026-07-04T18:34:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Credit Agricole Increases BPM Stake, Boosting Position in Italy",
     "summary": "Crédit Agricole has increased its stake in Italy's Banco BPM, deepening its foothold in the Italian banking sector. The move underscores continued consolidation and cross-border positioning among major European financial institutions.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy",
@@ -5454,49 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "México baraja hipótesis de T-MEC vigente por 10 años con revisiones anuales",
-    "summary": "A una semana de la reunión virtual del 1 de julio en que los tres países decidirán el futuro del T-MEC, México maneja como hipótesis de trabajo que, si EU rechaza la renovación automática por 16 años, el tratado continuará vigente 10 años con revisiones anuales. El secretario Marcelo Ebrard precisó que el peor escenario para México es 10 años de certidumbre comercial, lo que preserva en todo caso el acceso preferencial al mercado estadounidense para inversiones y cadenas de valor. La continuidad del T-MEC en cualquiera de sus versiones es el principal ancla de certidumbre para el nearshoring y la inversión extranjera directa en México.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-baraja-hipotesis-de-t-mec-vigente-por-10-anos-con-revisiones-anuales/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-23T22:40:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inbursa y Aeroméxico presentan una forma de viajar y acumular valor",
-    "summary": "Inbursa, el banco del Grupo Carso de Carlos Slim, y Aeroméxico lanzaron conjuntamente un producto financiero co-branded que permite a los usuarios acumular valor a través del uso del crédito vinculado a beneficios de la aerolínea. La alianza integra servicios bancarios con un programa de fidelización de viajes para atraer y retener clientes de ambas marcas en un mercado financiero altamente competitivo. Este tipo de acuerdos entre bancos mexicanos y aerolíneas responde a la estrategia de diversificar la propuesta de valor del crédito al consumo más allá del precio.",
-    "link": "https://expansion.mx/economia/2026/06/23/inbursa-y-aeromexico-presentan-una-forma-de-viajar-y-acumular-valor",
-    "source": "Expansión",
-    "published": "2026-06-23T22:39:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China le arrebata a Estados Unidos la corona de la supercomputación",
-    "summary": "China superó a Estados Unidos en el liderazgo global de la supercomputación, consolidando su capacidad para ejecutar modelos de IA a gran escala y avanzar en computación científica de frontera. Este cambio en el ranking mundial refuerza la carrera tecnológica entre ambas potencias en inteligencia artificial y procesamiento de grandes volúmenes de datos. Para empresas y reguladores, el resultado subraya la importancia estratégica de las políticas de exportación de chips y el control del acceso a infraestructura de cómputo de alta performance.",
-    "link": "https://expansion.mx/tecnologia/2026/06/23/china-arrebata-estados-unidos-corona-supercomputadora",
-    "source": "Expansión",
-    "published": "2026-06-23T22:00:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "America's data-centre backlash puts the AI boom at risk",
-    "summary": "Community opposition to data centers is spreading across the United States, driven by concerns over water consumption, noise, electricity demand, and local tax impacts, creating permitting delays and zoning challenges in key markets. Developers face unprecedented regulatory and community hurdles that threaten to slow AI infrastructure deployment well below what the industry requires to meet demand. The backlash introduces a material constraint on AI scaling that goes beyond chip supply or capital availability, and could reshape where and how fast AI compute capacity gets built.",
-    "link": "https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk",
-    "source": "The Economist",
-    "published": "2026-06-23T21:34:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
   }
 ]
