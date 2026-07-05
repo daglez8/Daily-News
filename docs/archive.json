@@ -11,6 +11,50 @@
     "light": true
   },
   {
+    "title": "Semiconductor Stocks Slide Amid AI Spending Concerns",
+    "summary": "Las acciones de semiconductoras cayeron bajo presión mientras los inversionistas cuestionan si el rápido ritmo de gasto en infraestructura de IA puede sostenerse más allá de 2026, pese a los compromisos continuos de las grandes tecnológicas, según Bloomberg. La próxima colocación de ADR de SK Hynix en EU se citó como una vía para dar a los inversionistas acceso a un proveedor líder de chips de memoria para IA mientras financia su expansión.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video",
+    "source": "Bloomberg",
+    "published": "2026-07-05T12:25:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cómo el capital de IA está cambiando al mundo financiero? Esto ve un gigante de Wall Street",
+    "summary": "Un informe de Goldman Sachs Investment Banking estima que la infraestructura de IA requerirá cerca de US$7 billones de inversión entre 2026 y 2031, financiados con acciones, deuda pública y privada, capital soberano y nuevas joint ventures. El banco advierte que el impacto de la IA apenas comienza a extenderse más allá del software hacia manufactura, robótica, defensa y energía.",
+    "link": "https://www.bloomberglinea.com/mercados/como-el-capital-de-ia-esta-cambiando-al-mundo-financiero-esto-ve-un-gigante-de-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-05T11:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 87,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
+    "summary": "Hon Hai Precision, socio de ensamblaje de servidores de Nvidia, reportó un salto de ventas trimestrales del 40%, superando expectativas, y dijo que la demanda de IA sigue creciendo. Los resultados refuerzan que la demanda de hardware para IA se mantiene sólida pese a las dudas más amplias sobre la sostenibilidad del gasto de capital.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
+    "source": "Bloomberg",
+    "published": "2026-07-05T07:47:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dinero en efectivo sigue siendo base de la economía mexicana",
+    "summary": "Ocho de cada 10 transacciones comerciales en México aún se realizan en efectivo, frente a cuatro de cada diez en Brasil y tres de cada diez en EU, según un investigador del Instituto de Investigaciones Económicas citado por El Economista. Pese al impulso a la banca digital, persisten la desconfianza y el desconocimiento hacia los servicios bancarios electrónicos.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/dinero-efectivo-sigue-siendo-base-economia-mexicana-20260705-821708.html",
+    "source": "El Economista",
+    "published": "2026-07-05T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
     "summary": "Bending Spoons' Nasdaq listing caps more than a decade of acquisitions that turned the Italian startup into a $23 billion global internet company, according to the Financial Times. The story illustrates how an aggressive, serial M&A roll-up strategy can extract outsized value from distressed and underperforming brands.",
     "link": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
@@ -18,6 +62,17 @@
     "published": "2026-07-05T04:00:11+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover",
+    "summary": "Uber está frenando su expansión de reparto de comida en Europa, cancelando el lanzamiento en cinco de siete mercados planeados para este año, mientras busca adquirir Delivery Hero. El movimiento apunta a un giro estratégico hacia la consolidación en lugar del crecimiento orgánico en el negocio de delivery.",
+    "link": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
+    "source": "Financial Times",
+    "published": "2026-07-05T04:00:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 73,
     "language": "en",
     "light": true
   },
@@ -5440,61 +5495,6 @@
     "source": "Expansión",
     "published": "2026-06-24T01:46:16+00:00",
     "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Vientos de crisis fiscal",
-    "summary": "La deuda pública de México casi se ha duplicado de 2018 a la fecha, alcanzando 18,681 miles de millones de pesos en abril de 2026, con un ritmo de endeudamiento que en 2025 llegó a 2,133 mil millones de pesos anuales. Los ingresos del erario cayeron 2.2% real en abril contra el año anterior, mientras el gasto subió 1.4% impulsado por servicios personales, subsidios y jubilaciones. El espacio fiscal se está agotando y la inversión física cayó 18.4%, lo que limita la capacidad del gobierno para impulsar crecimiento productivo.",
-    "link": "https://www.eleconomista.com.mx/opinion/vientos-crisis-fiscal-20260624-819985.html",
-    "source": "El Economista",
-    "published": "2026-06-24T01:21:35-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacienda blinda perfil crediticio de México",
-    "summary": "La Secretaría de Hacienda colocó 6,300 millones de dólares en bonos —un instrumento a 11 años al 6.25% con vencimiento en 2037 y una reapertura del bono 2056 al 6.75%— para financiar la recompra de deuda externa con vencimientos en 2027, 2028 y parte de 2029. La operación reduce el riesgo de refinanciamiento en el corto plazo y mejora el perfil de vencimientos del gobierno federal sin incrementar la deuda neta total. Con esta estrategia, México fortalece su curva de rendimientos en dólares y facilita el acceso de emisores del sector público y privado a los mercados internacionales de capital.",
-    "link": "https://www.eleconomista.com.mx/opinion/hacienda-blinda-perfil-crediticio-mexico-20260624-819971.html",
-    "source": "El Economista",
-    "published": "2026-06-24T00:24:13-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia's banned AI chips double in price on China's black market",
-    "summary": "Nvidia's restricted AI processors are fetching prices nearly double their official levels on China's black market as US export controls tighten and enforcement risk escalates, making illicit procurement riskier and more expensive. The surge reflects insatiable Chinese demand for cutting-edge AI compute and the effectiveness of US restrictions in constraining legal supply channels. AI chip regulation has become a significant financial and geopolitical variable for any firm assessing AI infrastructure strategy or exposure to the China market.",
-    "link": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69",
-    "source": "Financial Times",
-    "published": "2026-06-24T00:15:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comercio minorista crece en las 32 entidades del país",
-    "summary": "Los ingresos del comercio al por menor crecieron en términos anuales en los 32 estados de México durante los primeros cuatro meses de 2026, incluso en un entorno adverso de bajas remesas, alta tasa de interés nominal y menor dinamismo en el empleo. Ciudad de México lideró con una alza de 5.75%, seguida de Puebla y Quintana Roo, mientras que Oaxaca registró la variación más baja con 3.37%. La resiliencia del consumo interno a nivel subnacional ofrece un contexto positivo para el crédito al consumo y los servicios financieros en México, a pesar del entorno macroeconómico desfavorable.",
-    "link": "https://www.eleconomista.com.mx/estados/comercio-minorista-crece-32-entidades-pais-20260623-819963.html",
-    "source": "El Economista",
-    "published": "2026-06-23T23:44:32-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Consumidores de EU prefieren comprar vivienda en lugar de alquilarla",
-    "summary": "Por primera vez desde 2023, la mayoría de los consumidores estadounidenses prefiere comprar vivienda en lugar de rentar, con 53% de los 2,000 encuestados por Bank of America inclinándose por la adquisición pese a tasas hipotecarias elevadas y oferta limitada. El cambio es liderado por la Generación Z y los millennials, que parecen cada vez menos dispuestos a esperar mejores condiciones de mercado. Si este giro en la demanda se mantiene, podría impulsar el mercado hipotecario en el mediano plazo incluso en un entorno de tasas restrictivas.",
-    "link": "https://www.eleconomista.com.mx/economia/consumidores-eu-prefieren-comprar-vivienda-lugar-alquilarla-20260623-819959.html",
-    "source": "El Economista",
-    "published": "2026-06-23T23:24:53-06:00",
-    "category": "Mortgage / Housing Finance",
     "relevance_score": 68,
     "language": "es",
     "light": false
