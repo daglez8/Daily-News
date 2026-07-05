@@ -11,6 +11,39 @@
     "light": true
   },
   {
+    "title": "Women’s progress at work appears to be stalling",
+    "summary": "The Economist examines signs that women's career progress may be stalling after the \"lean in\" generation, asking whether professional women are now leaning out of the workforce. The piece frames this as a possible reversal of decades of gains in female workplace advancement.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
+    "source": "The Economist",
+    "published": "2026-07-05T17:22:02+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EasyJet Agrees to Castlelake’s Latest Bid Topping £5 Billion",
+    "summary": "EasyJet agreed in principle to a takeover offer of more than £5 billion from private credit firm Castlelake LP. The bid emerged as the UK budget carrier struggled with soaring jet fuel prices and weaker demand following the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/easyjet-agrees-to-castlelake-s-5-2-billion-takeover-offer",
+    "source": "Bloomberg",
+    "published": "2026-07-05T16:21:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing",
+    "summary": "SK Hynix's $29 billion US stock listing this week could be the biggest-ever first-time share sale by a foreign company, giving it fresh access to AI-focused investors. Beyond raising cash, the move positions SK Hynix to compete more directly in the memory-chip segment powering global AI computing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
+    "source": "Bloomberg",
+    "published": "2026-07-05T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Semiconductor Stocks Slide Amid AI Spending Concerns",
     "summary": "Las acciones de semiconductoras cayeron bajo presión mientras los inversionistas cuestionan si el rápido ritmo de gasto en infraestructura de IA puede sostenerse más allá de 2026, pese a los compromisos continuos de las grandes tecnológicas, según Bloomberg. La próxima colocación de ADR de SK Hynix en EU se citó como una vía para dar a los inversionistas acceso a un proveedor líder de chips de memoria para IA mientras financia su expansión.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video",
@@ -29,6 +62,28 @@
     "published": "2026-07-05T11:00:01+00:00",
     "category": "AI & Agents",
     "relevance_score": 87,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Japón planea desarrollar un modelo de IA propio y tener 10 millones de robots en 2040",
+    "summary": "Japón anunció planes para desarrollar un modelo de inteligencia artificial soberano y desplegar 10 millones de robots equipados con IA en más de una docena de sectores para 2040. El gobierno invertirá cerca de US$6,000 millones a través de Noetra, un consorcio liderado por SoftBank y Sony que espera sumar hasta 44 empresas, en un esfuerzo por reducir la dependencia tecnológica de Estados Unidos y China.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/japon-planea-desarrollar-modelo-ia-propio-10-millones-robots-20260705-821709.html",
+    "source": "El Economista",
+    "published": "2026-07-05T08:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Acciones HALO ganan protagonismo en los mercados emergentes",
+    "summary": "Las acciones HALO (\"heavy assets, low obsolescence\") ganan protagonismo entre inversionistas de mercados emergentes, impulsadas por la demanda de infraestructura física que genera el boom de la inteligencia artificial, según Goldman Sachs Research. Una canasta de acciones intensivas en capital —redes eléctricas, energía y manufactura— subió 115% desde fines de 2025 hasta junio, frente a solo 7% de las acciones \"capital-light\".",
+    "link": "https://www.bloomberglinea.com/mercados/acciones-halo-ganan-protagonismo-en-los-mercados-emergentes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-05T08:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
@@ -107,6 +162,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 78,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Rosso listening bar / Naso",
+    "summary": "ArchDaily features the Rosso Listening Bar, a 40 m² space in Mexico City designed by Naso, with photography by Jose Ignacio Vargas. The 2026 project is a recent example of boutique interior design in the Mexican capital.",
+    "link": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
+    "source": "ArchDaily",
+    "published": "2026-07-04T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -5432,71 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Indian Tech's Nifty Share Shrinks to Record Low on AI Worries",
-    "summary": "India's software exporters have steadily lost ground on the country's stock market as investors price in AI-driven disruption to traditional outsourcing and IT services models. The sector's weighting on India's Nifty index has fallen to a record low, reflecting sustained selling as generative AI tools reduce demand for headcount-intensive services. The trend signals a structural revaluation of traditional IT services businesses amid accelerating enterprise AI adoption globally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/indian-tech-s-nifty-share-shrinks-to-record-low-on-ai-worries",
-    "source": "Bloomberg",
-    "published": "2026-06-24T04:04:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Venezuela to reveal $240bn debt pile in world's largest restructuring",
-    "summary": "Venezuela is preparing to disclose a $240 billion debt burden—far exceeding what was publicly known under the Maduro regime—following the political transition after Maduro's overthrow. The scale would make this the world's largest-ever sovereign debt restructuring, dwarfing prior cases such as Argentina's. Investors in Venezuelan bonds and Latin American debt markets are closely watching for precedent-setting outcomes on haircuts and recovery rates.",
-    "link": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
-    "source": "Financial Times",
-    "published": "2026-06-24T04:00:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How HSBC ended up at the centre of a $330mn embezzlement scandal",
-    "summary": "HSBC's Swiss unit is under formal investigation over whether it helped facilitate a $330 million embezzlement scheme allegedly orchestrated by Lebanon's central bank governor. The case highlights ongoing conduct risk in private banking and compliance failures at major international institutions. It comes as regulatory scrutiny of AML frameworks and correspondent banking relationships continues to intensify globally.",
-    "link": "https://www.ft.com/content/cb6413a7-f76e-49dc-9644-3e3ac8fee2e8",
-    "source": "Financial Times",
-    "published": "2026-06-24T04:00:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Function Follows Form: Designing Adaptive Buildings That Outlast Their Original Use",
-    "summary": "An Amsterdam building designed for elderly residents was successfully repurposed for young families shortly after completion, offering a case study in adaptive design: buildings with generous spaces and flexible structures can accommodate uses entirely different from their original program. Architects Tom Frantzen and Karel van Eijken argue that formal generosity—rather than programmatic specificity—enables buildings to resist obsolescence without destructive renovation. The article makes the case for a design philosophy where longevity and adaptability are embedded in structure and proportion from the outset.",
-    "link": "https://www.archdaily.com/1042664/function-follows-form-designing-adaptive-buildings-that-outlast-their-original-use",
-    "source": "ArchDaily",
-    "published": "2026-06-24T04:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gain",
-    "summary": "Chinese AI model maker Zhipu is considering a multi-billion dollar share sale in Hong Kong after its stock surged 2,000% since its January listing, making it one of the most dramatic AI valuation stories in global markets. The potential offering would test international institutional appetite for Chinese AI companies amid persistent US-China tech tensions and export control uncertainty. The story highlights the divergence between exuberant AI equity valuations in China's domestic market and the geopolitical uncertainty that clouds cross-border AI investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
-    "source": "Bloomberg",
-    "published": "2026-06-24T03:43:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Park Life debuta en la Bolsa Mexicana para institucionalizar la vivienda en renta",
-    "summary": "Park Life realizó su debut en la Bolsa Mexicana de Valores con el objetivo de institucionalizar el mercado de vivienda en renta en México, un segmento que históricamente ha operado de forma informal y fragmentada. La cotización busca atraer capital institucional hacia el arrendamiento residencial, replicando en México modelos similares a los REIT que operan en mercados más desarrollados. Esta apertura marca un hito para el mercado inmobiliario mexicano al abrir una nueva vía de financiamiento para el sector de vivienda en renta.",
-    "link": "https://expansion.mx/bespoke-ad/2026/06/23/park-life-debuta-en-la-bolsa-mexicana",
-    "source": "Expansión",
-    "published": "2026-06-24T01:46:16+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
