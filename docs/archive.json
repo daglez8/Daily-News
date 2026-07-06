@@ -11,6 +11,94 @@
     "light": true
   },
   {
+    "title": "Biometría: la nueva ‘bóveda’ de la banca",
+    "summary": "La CNBV modificó la Circular Única de Bancos para permitir que las instituciones financieras integren y operen sus propias bases de datos biométricas, incluyendo huellas dactilares y biometría facial, y no solo las del INE. El cambio busca reforzar la seguridad en un sistema que atiende a más de 90 millones de clientes y 165 millones de contratos bancarios, en momentos en que el fraude también se sofistica con inteligencia artificial capaz de imitar voces y crear identidades falsas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/06/biometria-la-nueva-boveda-de-la-banca/",
+    "source": "El Financiero",
+    "published": "2026-07-06T07:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Pretende Banxico financiar ilimitadamente al Gobierno?",
+    "summary": "Banxico emitió la Circular 8/2026, que modifica una norma de 2012 sobre subastas de valores gubernamentales y ahora permite también subastas de compra de bonos gubernamentales de largo plazo en el mercado secundario. El autor sostiene que, pese a la controversia en redes sobre una supuesta “argentinización” de la economía, el cambio regulatorio no implica que el banco central pueda financiar de forma ilimitada al gobierno.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/07/06/pretende-banxico-financiar-ilimitadamente-al-gobierno/",
+    "source": "El Financiero",
+    "published": "2026-07-06T07:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "EasyJet Accepts Castlelake’s $5 Billion Bid in Principle",
+    "summary": "EasyJet has agreed in principle to a takeover offer of more than £5 billion from investment firm Castlelake, as the UK budget carrier struggles with soaring jet fuel prices and weaker demand following the Iran war. The deal marks a significant private-capital move into a major European airline.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/easyjet-accepts-castlelake-s-5-billion-bid-in-principle-video",
+    "source": "Bloomberg",
+    "published": "2026-07-06T05:56:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why OpenAI and Anthropic may struggle to float",
+    "summary": "The Financial Times argues that OpenAI and Anthropic could struggle to go public given the punishing costs of staying at the frontier of AI development. At the same time, it notes the penalties for falling behind in the AI race may be even steeper than those costs.",
+    "link": "https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75",
+    "source": "Financial Times",
+    "published": "2026-07-06T04:00:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big investors commit billions to private credit despite turmoil",
+    "summary": "The Financial Times reports that institutional investors poured billions into private credit funds even as retail money fled the asset class. The divergence highlights differing risk appetites between institutional and retail capital amid recent market turmoil.",
+    "link": "https://www.ft.com/content/ea275bbd-e411-4db5-a9d2-415666f2a923",
+    "source": "Financial Times",
+    "published": "2026-07-06T04:00:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Son bets the house on AI",
+    "summary": "The FT profiles SoftBank's Masayoshi Son, who has placed himself at the center of the global AI boom through a series of aggressive bets. Some observers quoted worry the veteran investor now wields too much control over the industry's direction.",
+    "link": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
+    "source": "Financial Times",
+    "published": "2026-07-06T04:00:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ByteDance, Alibaba Pull AI Companions as Beijing Tightens Rules",
+    "summary": "ByteDance and Alibaba are shutting down features that let users build and chat with AI companion characters, getting ahead of new Chinese rules governing human interaction with artificial intelligence. The move shows how Beijing's tightening AI governance is directly reshaping product decisions at the country's largest tech firms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules",
+    "source": "Bloomberg",
+    "published": "2026-07-06T03:03:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Poses Biggest Security Challenge of Decade, UK’s Cooper Warns",
+    "summary": "Britain's foreign secretary is set to warn that artificial intelligence poses the biggest security challenge of the decade, calling for the world to urgently develop guardrails to contain the threat. The remarks underscore growing government concern over containing AI-related risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns",
+    "source": "Bloomberg",
+    "published": "2026-07-05T21:30:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Women’s progress at work appears to be stalling",
     "summary": "The Economist examines signs that women's career progress may be stalling after the \"lean in\" generation, asking whether professional women are now leaning out of the workforce. The piece frames this as a possible reversal of decades of gains in female workplace advancement.",
     "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
@@ -5408,94 +5496,6 @@
     "published": "2026-06-24T06:45:55+00:00",
     "category": "AI & Agents",
     "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX lanza oferta de bonos por 25,000 millones de dólares para pagar deuda y expanderse en la IA",
-    "summary": "SpaceX lanzó una emisión de bonos en cinco tramos buscando recaudar al menos 25,000 millones de dólares para financiar su expansión en inteligencia artificial, que requiere inversiones masivas en centros de datos, hardware computacional e infraestructura energética. Los bonos sénior no garantizados tienen vencimientos a 5, 7, 10, 20 y 30 años, y la demanda superó los 85,000 millones de dólares. Es la primera emisión con calificación de inversión de SpaceX, gestionada por Bank of America, Citi, JP Morgan, Goldman Sachs y Morgan Stanley.",
-    "link": "https://www.eleconomista.com.mx/mercados/spacex-lanza-oferta-bonos-25-000-millones-dolares-pagar-deuda-expandirse-ia-20260624-819995.html",
-    "source": "El Economista",
-    "published": "2026-06-24T06:41:36-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Casa Meyra / Di Frenna Arquitectos",
-    "summary": "Casa Meyra is a 360 m² residential project by Di Frenna Arquitectos located in Colima, Mexico, completed in 2025 and photographed by Lorena Darquea. The project represents contemporary Mexican residential architecture by a practice with a distinct regional identity. It is a notable example of high-quality single-family design from a Mexican architecture firm outside the capital.",
-    "link": "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-06-24T06:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Park Reimagines the Interiors of Milano Centrale, Mussolini's Fascist-Era Rail Monument",
-    "summary": "Italian interdisciplinary collective Park has been selected to redesign the ground floor and mezzanine levels of Milano Centrale, Italy's monumental Fascist-era station built in 1931, following a private competition by Grandi Stazioni Retail. The project aims to transform the landmark into a contemporary urban platform while engaging with its imposing historical architecture. The renovation offers a compelling case study in how to update heritage civic infrastructure for 21st-century mixed-use purposes.",
-    "link": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
-    "source": "ArchDaily",
-    "published": "2026-06-24T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Consejos de administración en tiempos de incertidumbre: el mapa y la brújula",
-    "summary": "En un entorno donde el 58% de los líderes empresariales en México reconoce que 2026 estará marcado por disrupción y cambios regulatorios, los consejos de administración enfrentan la disyuntiva entre seguir un mapa (planeación racional) o una brújula (principios guía flexibles) para navegar la volatilidad, según investigación de la Kellogg School of Management. La revisión del T-MEC, aranceles impredecibles y un PIB que apenas creció 0.7% en 2025 hacen que la rigidez de los planes estratégicos sea más un riesgo que una fortaleza. Para los líderes financieros en México, la lección es gobernar con agilidad adaptativa mientras el entorno regulatorio y comercial sigue en redefinición.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/06/23/consejos-de-administracion-en-tiempos-de-incertidumbre-el-mapa-y-la-brujula/",
-    "source": "El Financiero",
-    "published": "2026-06-24T05:05:42+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tencent Testing New AI Agent for WeChat Workplace App",
-    "summary": "Tencent is piloting an AI agent powered by DeepSeek for its enterprise Slack-like communication app, intensifying China's race among tech giants to embed AI into corporate workflows and lock in enterprise users. The move positions Tencent against Alibaba and ByteDance in a critical battle for enterprise AI adoption in the post-ChatGPT era. For financial services and productivity-focused firms, the deployment signals accelerating real-world integration of AI agents in workplace collaboration tools.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/tencent-tests-deepseek-powered-ai-agent-for-wechat-corporate-app",
-    "source": "Bloomberg",
-    "published": "2026-06-24T04:29:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Global Loan",
-    "summary": "ByteDance, TikTok's parent, is in preliminary talks with banks for a $20 billion offshore loan — the largest in its history — to fund a major expansion in artificial intelligence. The deal would represent a significant vote of confidence from global lenders in ByteDance's AI strategy despite ongoing regulatory headwinds in Western markets. It underscores the scale of capital flowing into AI infrastructure buildout among leading tech platforms and raises the bar for AI-focused capital markets activity in 2026.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan",
-    "source": "Bloomberg",
-    "published": "2026-06-24T04:27:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock-Backed AIP, KKR Said to Court Stack Asia Data Centers",
-    "summary": "BlackRock's Artificial Intelligence Infrastructure Partnership and KKR are among potential bidders for Stack Infrastructure's Asia-Pacific data centers, highlighting intense competition for AI-enabling physical assets. State-backed and institutional investors continue to view data center acquisitions as premium targets in the AI infrastructure race, with Brookfield also reportedly interested. The deal, if completed, would mark another major reallocation of institutional capital toward AI-adjacent infrastructure in the Asia-Pacific region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/blackrock-backed-aip-said-to-be-interested-in-stack-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-06-24T04:27:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Seeks Stake in Japan's Top Utility to Power AI Boom",
-    "summary": "SoftBank is seeking to invest in Japan's largest power utility to secure the electricity needed to expand its rapidly growing AI and data center operations, according to CEO Masayoshi Son. The move reflects the mounting energy infrastructure challenge for AI scaling — data centers require vast, reliable power that existing grids are struggling to supply. Son simultaneously confirmed he has abandoned plans to retire, signaling his intent to lead SoftBank's AI push for at least another decade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom",
-    "source": "Bloomberg",
-    "published": "2026-06-24T04:22:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
