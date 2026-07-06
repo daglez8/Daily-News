@@ -11,6 +11,72 @@
     "light": true
   },
   {
+    "title": "Fintech mexicana Aviva recauda US$18 millones para ampliar presencia y productos financieros",
+    "summary": "La fintech mexicana Aviva recaudó US$18 millones en una ronda Serie A liderada por Valor Capital Group, con la participación de BID Labs, Caravela Capital, Endeavor Forward y otros inversionistas existentes. La compañía planea usar el capital para expandir su presencia a 1,000 ubicaciones en México y ampliar su oferta de crédito para población de baja bancarización y pequeños negocios de la economía informal. Aviva otorga créditos de entre US$100 y US$1,000 mediante videollamadas con bots en quioscos físicos, procesados con modelos de inteligencia artificial.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fintech-mexicana-aviva-recauda-us18-millones-para-ampliar-presencia-y-productos-financieros/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-06T13:04:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Transformación y economía digital: los intermediarios financieros no bancarios",
+    "summary": "El Instituto Mexicano de Ejecutivos de Finanzas organiza un foro sobre inteligencia artificial, “de la adopción a la decisión estratégica”, que reunirá a líderes empresariales, financieros y tecnológicos. El artículo, firmado por el presidente del Comité Técnico de Intermediarios Financieros No Bancarios, señala que la IA ya transforma procesos clave del sector financiero como evaluación de riesgos, prevención de fraude, cobranza, análisis crediticio y personalización de productos. El reto actual ya no es adoptar la tecnología, sino decidir estratégicamente cómo integrarla en los modelos de negocio y la cultura organizacional.",
+    "link": "https://www.elfinanciero.com.mx/opinion/imef/2026/07/06/transformacion-y-economia-digital-los-intermediarios-financieros-no-bancarios/",
+    "source": "El Financiero",
+    "published": "2026-07-06T12:25:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Indicadores cíclicos perfilan un mayor impulso de la economía en México",
+    "summary": "El Sistema de Indicadores Cíclicos del Inegi muestra que la economía mexicana apunta a mayor dinamismo en los próximos meses, aunque sin una expansión acelerada todavía. El Indicador Coincidente subió a 99.8 puntos en abril, su séptimo mes consecutivo al alza, pero se mantiene por debajo del umbral de 100 puntos que marca la tendencia de largo plazo. El Indicador Adelantado, que anticipa los puntos de giro del ciclo económico, subió a 100.9 unidades en mayo.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/06/indicadores-ciclicos-perfilan-un-mayor-impulso-de-la-economia-en-mexico/",
+    "source": "El Financiero",
+    "published": "2026-07-06T09:22:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
+    "summary": "Ireland's technology sector, heavily reliant on US multinationals, is experiencing widespread labor-market disruption as AI adoption drives declines in high-tech employment. Bloomberg reports the shift reflects broader pressure on tech hubs exposed to US AI investment cycles.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
+    "source": "Bloomberg",
+    "published": "2026-07-06T08:52:36+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indicadores del 6 al 10 de julio: Inversión fija, inflación, actividad industrial y minutas",
+    "summary": "El calendario económico de la semana del 6 al 10 de julio en México incluye datos sobre inversión fija bruta, consumo privado, empleo formal, inflación, balanza comercial y actividad industrial, además de las minutas de política monetaria de la Reserva Federal y de Banxico. El lunes destacan el Indicador Mensual de la Formación Bruta de Capital Fijo y el Indicador Mensual del Consumo Privado de abril, junto con los PMI de servicios de Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-6-10-julio-inversion-fija-inflacion-actividad-industrial-minutas-20260706-821761.html",
+    "source": "El Economista",
+    "published": "2026-07-06T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Falsas aplicaciones de ChatGPT impulsan ciberataques contra pymes",
+    "summary": "Ciberdelincuentes están usando aplicaciones falsas de ChatGPT para engañar a empleados de pequeñas y medianas empresas e instalar software malicioso en sus dispositivos. Entre enero y abril de 2026 se registraron 33,300 de estos ataques contra pymes, casi cinco veces más que en el mismo periodo del año anterior, aprovechando el auge del uso de herramientas de inteligencia artificial.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/falsas-aplicaciones-chatgpt-impulsan-ciberataques-pymes-20260706-821707.html",
+    "source": "El Economista",
+    "published": "2026-07-06T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Biometría: la nueva ‘bóveda’ de la banca",
     "summary": "La CNBV modificó la Circular Única de Bancos para permitir que las instituciones financieras integren y operen sus propias bases de datos biométricas, incluyendo huellas dactilares y biometría facial, y no solo las del INE. El cambio busca reforzar la seguridad en un sistema que atiende a más de 90 millones de clientes y 165 millones de contratos bancarios, en momentos en que el fraude también se sofistica con inteligencia artificial capaz de imitar voces y crear identidades falsas.",
     "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/06/biometria-la-nueva-boveda-de-la-banca/",
@@ -86,6 +152,39 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Ven diversas oportunidades para prolongar el T-MEC",
+    "summary": "El T-MEC tiene varias vías posibles para prolongarse más allá de su vigencia actual: una reactivación por 16 años si México y Canadá ofrecen concesiones rápidas a Estados Unidos, o negociaciones alargadas hasta el fin del mandato de Trump en enero de 2029. El análisis de El Economista plantea que incluso si un sucesor de Trump no quisiera extender el tratado, existirían nuevas oportunidades en periodos presidenciales futuros.",
+    "link": "https://www.eleconomista.com.mx/empresas/ven-diversas-oportunidades-prolongar-t-mec-20260706-821823.html",
+    "source": "El Economista",
+    "published": "2026-07-06T00:24:17-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lo que México puede ceder y lo que no",
+    "summary": "El T-MEC sigue vigente hasta 2036, pero Estados Unidos rechazó extenderlo hasta 2042 y en cambio impondrá revisiones anuales, tras reducir su pliego de exigencias comerciales de 54 a 14 puntos respecto al año pasado. El análisis advierte que el mayor riesgo ya no es una eventual salida de Estados Unidos del tratado, sino la incertidumbre permanente sobre la inversión que generan esas revisiones anuales. El texto distingue entre exigencias negociables, como barreras no arancelarias y trámites aduaneros, y aquellas que México consideraría innegociables.",
+    "link": "https://www.eleconomista.com.mx/opinion/mexico-ceder-20260706-821818.html",
+    "source": "El Economista",
+    "published": "2026-07-06T00:02:02-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sancionan a 35 funcionarios; 13 dependencias y 3 empresas",
+    "summary": "La Secretaría Anticorrupción y Buen Gobierno aplicó sanciones a 35 servidores públicos de 13 dependencias y tres empresas, con inhabilitaciones de hasta 15 años y multas por 70.4 millones de pesos. El Tribunal Federal de Justicia Administrativa impuso las sanciones por 16 faltas graves y 14 infracciones no graves, en casos que incluyen bienes entregados sin evidencia y uso indebido de contratos de distribución.",
+    "link": "https://www.eleconomista.com.mx/politica/sancionan-35-funcionarios-13-dependencias-3-empresas-20260706-821817.html",
+    "source": "El Economista",
+    "published": "2026-07-06T00:00:40-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Poses Biggest Security Challenge of Decade, UK’s Cooper Warns",
@@ -5396,105 +5495,6 @@
     "source": "Bloomberg",
     "published": "2026-06-24T10:30:00+00:00",
     "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fintech Unicorn Is Said to Tap Citi and EFG for Cairo Listing",
-    "summary": "Egyptian fintech unicorn MNT-Halan is planning an IPO of its Egyptian business in Cairo as soon as this year, tapping Citi and EFG as bankers. The deal is part of a broader wave of fintech IPOs in emerging markets where access to capital is expanding. MNT-Halan's listing would be a notable benchmark transaction for EM fintech valuations and investor appetite.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/fintech-unicorn-is-said-to-tap-citi-and-efg-for-cairo-listing",
-    "source": "Bloomberg",
-    "published": "2026-06-24T10:27:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La economía también anotó",
-    "summary": "El Indicador Global de la Actividad Económica (IGAE) de México creció 2.2% anual en abril, su mejor lectura del año, con avances tanto en cifras desestacionalizadas mensuales como anuales. El columnista señala que la acumulación de indicadores positivos sugiere que la economía comienza a recuperar terreno tras un largo período de debilidad. El efecto del Mundial 2026 contribuye a impulsar el consumo doméstico, aunque el autor advierte que una golondrina no hace verano.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/24/la-economia-tambien-anoto/",
-    "source": "El Financiero",
-    "published": "2026-06-24T10:07:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
-    "summary": "SK Hynix plans to raise $29.4 billion in a landmark US listing — potentially one of the top five largest share sales of all time — to fund capacity expansion for AI memory chip demand, with trading expected to start July 10. The deal underscores the massive capital requirements of the AI supply chain and strong investor appetite for AI-adjacent infrastructure. It comes days after SK Hynix shares were among the hardest hit in the recent AI-driven market selloff.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
-    "source": "Bloomberg",
-    "published": "2026-06-24T08:15:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Micron Earnings Take on New Gravity With Market on Edge Over AI",
-    "summary": "Micron Technology's quarterly earnings became a pivotal market event as investors sought signals on whether the AI investment rally is sustainable after chipmaker stocks suffered a major selloff. With Micron shares up nearly 300% in 2026 on AI data center demand, the results are seen as a bellwether for the entire AI hardware cycle and the health of memory chip markets. A disappointing forecast could trigger further derisking in AI-related equities across the semiconductor sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-earnings-take-on-new-gravity-with-market-on-edge-over-ai",
-    "source": "Bloomberg",
-    "published": "2026-06-24T08:07:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paris as a Living Laboratory: Proximity, Inclusion, and the School as Climate and Social Infrastructure",
-    "summary": "Paris is one of nine cities in ReGreeneration, a Horizon Europe project advancing urban regeneration through nature-based solutions, participatory governance, and integrated climate resilience. The article explores Paris's approach to proximity urbanism and the role of schools as climate and social infrastructure in densely built neighborhoods, with examples including Herzog & de Meuron's Tour Triangle. The project draws lessons from Paris's sustainability transformation for broader application across European city typologies.",
-    "link": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
-    "source": "ArchDaily",
-    "published": "2026-06-24T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Inflación se desaceleró por sexta quincena consecutiva; se ubicó en 3.55% en la primera mitad de junio",
-    "summary": "La inflación en México se ubicó en 3.55% anual en la primera quincena de junio, acumulando seis desaceleraciones consecutivas y manteniéndose dentro del objetivo de Banxico de 3% ±1 punto porcentual. El INPC registró una variación de -0.11% quincenal, el primer descenso a mediados de junio desde 2013. Economistas señalan que el proceso de desinflación se ha reanudado, acercando la inflación al punto medio del rango objetivo del banco central.",
-    "link": "https://www.eleconomista.com.mx/economia/inflacion-desacelero-sexta-quincena-consecutiva-ubico-3-55-primera-mitad-junio-20260624-819997.html",
-    "source": "El Economista",
-    "published": "2026-06-24T06:54:22-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dólar toca pico de 13 meses, impulsado por expectativas sobre tasas y declive bursátil",
-    "summary": "El índice dólar tocó 101.71 unidades, su máximo en 13 meses, impulsado por expectativas de alzas adicionales de la Fed y la búsqueda de refugio ante la volatilidad bursátil en sectores tecnológicos y de semiconductores. Los inversores se mostraron nerviosos ante liquidaciones en acciones vinculadas a la IA, lo que desencadenó demanda de activos de refugio como el dólar y los bonos. La situación se ve agravada por incertidumbre en torno a puntos clave del acuerdo entre Estados Unidos e Irán.",
-    "link": "https://www.eleconomista.com.mx/mercados/dolar-toca-pico-13-meses-impulsado-expectativas-sobre-tasas-declive-bursatil-20260624-819996.html",
-    "source": "El Economista",
-    "published": "2026-06-24T06:49:16-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters",
-    "summary": "US technology stocks were poised to rebound Wednesday after concerns about AI valuations wiped out nearly $1.3 trillion from Nasdaq 100 market caps over two sessions. The selloff reflected growing investor anxiety over whether massive AI infrastructure spending will translate into commensurate earnings. Micron Technology's upcoming results stand as the immediate catalyst the sector is watching.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
-    "source": "Bloomberg",
-    "published": "2026-06-24T06:48:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "South Korea stock volatility hits record high amid AI doubts",
-    "summary": "Shares of Samsung Electronics and SK Hynix gyrated wildly as South Korean stock volatility hit a record, driven by investor doubt about the durability of AI chip demand. Leveraged ETF unwinding amplified the declines in the two chipmakers that had been among the biggest beneficiaries of the AI boom. The episode underscores how fragile AI-driven equity valuations become when growth expectations are questioned.",
-    "link": "https://www.ft.com/content/f17f318c-ec77-433c-be79-fce191bd78d5",
-    "source": "Financial Times",
-    "published": "2026-06-24T06:45:55+00:00",
-    "category": "AI & Agents",
     "relevance_score": 65,
     "language": "en",
     "light": true
