@@ -11,6 +11,50 @@
     "light": true
   },
   {
+    "title": "Public Spending in Mexico Ends Prolonged Fall in Fixed Investment",
+    "summary": "Mexico's fixed investment rebounded in April, snapping a prolonged decline, driven mainly by increased government spending rather than private investment. The uptick offers only limited relief to President Claudia Sheinbaum's push for stronger economic growth, since private investment continues to lag.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/public-spending-in-mexico-ends-prolonged-fall-in-fixed-investment",
+    "source": "Bloomberg",
+    "published": "2026-07-06T18:35:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Runway Expands Global AI Footprint",
+    "summary": "AI video startup Runway is expanding globally, opening new hubs in London, Tokyo, and Paris as part of a plan to invest nearly $300 million over the next few years. CEO Cristóbal Valenzuela says the expansion will scale both the company's commercial business and its AI research.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/runway-expands-global-ai-footprint-video",
+    "source": "Bloomberg",
+    "published": "2026-07-06T18:23:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "'Nos va a ir bien en el segundo semestre', 'predice' Sheinbaum por resultado de indicadores económicos",
+    "summary": "La presidenta Claudia Sheinbaum afirmó en su conferencia matutina que México tendrá un buen desempeño económico en el segundo semestre del año, apoyado en los programas de bienestar. Destacó que, pese a la incertidumbre internacional, el peso se mantiene estable y la inflación ha bajado.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/06/claudia-sheinbaum-mananera-temas-hoy-6-de-julio-de-2026-en-vivo/",
+    "source": "El Financiero",
+    "published": "2026-07-06T16:55:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso se recupera de la 'cruda' mundialista y avanza ante el dólar: Así está el tipo de cambio HOY",
+    "summary": "El peso mexicano inicia la semana con ligeras ganancias frente al dólar, en una sesión con pocos datos económicos relevantes. Gestoras como Invesco y AllianceBernstein señalan que dependen cada vez menos del dólar para financiar sus posiciones en mercados emergentes, mientras el billete verde recupera fuerza global.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/06/peso-dolar-precio-hoy-6-de-julio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-07-06T16:30:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Fintech mexicana Aviva recauda US$18 millones para ampliar presencia y productos financieros",
     "summary": "La fintech mexicana Aviva recaudó US$18 millones en una ronda Serie A liderada por Valor Capital Group, con la participación de BID Labs, Caravela Capital, Endeavor Forward y otros inversionistas existentes. La compañía planea usar el capital para expandir su presencia a 1,000 ubicaciones en México y ampliar su oferta de crédito para población de baja bancarización y pequeños negocios de la economía informal. Aviva otorga créditos de entre US$100 y US$1,000 mediante videollamadas con bots en quioscos físicos, procesados con modelos de inteligencia artificial.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fintech-mexicana-aviva-recauda-us18-millones-para-ampliar-presencia-y-productos-financieros/",
@@ -29,6 +73,50 @@
     "published": "2026-07-06T12:25:15+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Capital privado levanta la cabeza en abril e impulsa mayor repunte de la inversión fija desde 2019",
+    "summary": "La inversión fija en México registró en abril su mayor repunte mensual desde enero de 2019, con un crecimiento de 4.0% frente a marzo, impulsado por la recuperación del capital privado. En su comparación anual avanzó 5.1%, rompiendo una racha de 19 meses consecutivos de caídas interanuales.",
+    "link": "https://www.eleconomista.com.mx/empresas/capital-privado-levanta-cabeza-abril-e-impulsa-mayor-repunte-inversion-fija-20260706-821863.html",
+    "source": "El Economista",
+    "published": "2026-07-06T11:57:34-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso cae espera minutas de la FED y Banxico",
+    "summary": "El peso mexicano cae este lunes frente al dólar, en una jornada marcada por la espera de la publicación de las minutas de política monetaria de la Reserva Federal de Estados Unidos y de Banxico.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-cae-espera-minutas-fed-banxico-20260706-821860.html",
+    "source": "El Economista",
+    "published": "2026-07-06T11:24:09-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué es un crédito educativo y cómo funciona para pagar la universidad?",
+    "summary": "El crédito educativo es un instrumento financiero diseñado específicamente para cubrir el costo de estudios universitarios con pagos manejables, a diferencia de un préstamo personal tradicional. El artículo ejemplifica cómo este financiamiento permitió a un estudiante reducir su mensualidad de 10,000 a 2,500 pesos al no conseguir un lugar en educación pública.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/credito-educativo-funciona-pagar-universidad-20260706-821069.html",
+    "source": "El Economista",
+    "published": "2026-07-06T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cómo negociar una quita? Cuatro puntos clave que debes revisar de tu carta convenio",
+    "summary": "Una 'quita' es un acuerdo entre deudor y acreedor para pagar solo una parte de la deuda total, con descuentos que suelen ir del 50% al 90% según el perfil del deudor. El artículo detalla los puntos clave que conviene revisar en la carta convenio antes de firmar una negociación de este tipo.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/negociar-quita-cuatro-puntos-clave-debes-revisar-carta-convenio-20260706-821308.html",
+    "source": "El Economista",
+    "published": "2026-07-06T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
     "language": "es",
     "light": false
   },
@@ -106,6 +194,17 @@
     "published": "2026-07-06T05:56:48+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Job Disruption Has Come for Ireland's Technology Sector",
+    "summary": "Ireland's tech sector, which boomed after attracting major US multinationals, is now facing job cuts at companies like Meta and TikTok as firms slash roles in the name of AI-driven efficiency. The trend signals AI disruption reaching beyond US tech hubs into the European operations that once benefited from the multinational jobs boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption",
+    "source": "Bloomberg",
+    "published": "2026-07-06T04:00:26+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
     "language": "en",
     "light": true
   },
@@ -5399,104 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "La inflación retrocede a 3.55% en la primera quincena de junio",
-    "summary": "La inflación en México se moderó a 3.55% en la primera quincena de junio, acercándose al objetivo del Banco de México de 3%, a pesar del impulso de consumo asociado al inicio del Mundial 2026. La tendencia bajista abre espacio para que el Banxico continúe su ciclo de recortes de tasas de interés en los próximos meses. La moderación de precios mejora las perspectivas para el crédito y el consumo en el segundo semestre de 2026.",
-    "link": "https://expansion.mx/economia/2026/06/24/la-inflacion-retrocede-a-3-55-en-la-primera-quincena-de-junio-pese-a-inicio-del-mundial",
-    "source": "Expansión",
-    "published": "2026-06-24T12:43:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools",
-    "summary": "Microsoft reported that its Copilot AI tools helped investigators defeat old malware technology and dismantle cybercrime infrastructure. This highlights a growing enterprise use case of AI in active cybersecurity operations, moving beyond detection into takedown capability. The development underscores AI's expanding role in financial-sector risk management and regulatory compliance.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
-    "source": "Bloomberg",
-    "published": "2026-06-24T12:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El valor de producción de constructora rompió en abril racha de 23 caídas a tasa anual; creció 0.4%",
-    "summary": "El sector constructor en México registró en abril su primer crecimiento anual en casi dos años (+0.4%), rompiendo una racha de 23 caídas consecutivas impulsado por obras de agua, riego, electricidad y petroquímica. El avance fue detonado por el alza de 8.7% en obras de agua y saneamiento y un incremento de 9.8% en electricidad y comunicaciones, aunque edificación y transporte —que representan más de la mitad del total— mostraron resultados negativos. El sector comienza a visualizar una recuperación incipiente apuntalada por obra pública, aunque desigual por rubro.",
-    "link": "https://www.eleconomista.com.mx/empresas/valor-produccion-constructora-rompio-abril-racha-23-caidas-tasa-anual-crecio-0-20260624-820049.html",
-    "source": "El Economista",
-    "published": "2026-06-24T12:29:05-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Qualcomm to Buy Modular For $3.9 Billion to Help AI Push",
-    "summary": "Qualcomm announced a $3.9 billion all-stock deal to acquire AI software company Modular Inc., adding software capabilities to bolster its push into data centers. The acquisition reflects Qualcomm's strategy to compete in the AI infrastructure market by integrating hardware and software. This is a significant AI-adjacent M&A transaction with implications for the broader enterprise AI stack.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push",
-    "source": "Bloomberg",
-    "published": "2026-06-24T12:00:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
-    "summary": "Meta and Microsoft each committed tens of billions in additional data center leases in their most recent quarters, contributing to an $850 billion boom in AI infrastructure spending. The massive commitments reflect competitive pressure on hyperscalers to secure compute capacity ahead of demand. This capex surge is reshaping commercial real estate and infrastructure investment globally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases",
-    "source": "Bloomberg",
-    "published": "2026-06-24T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La interminable caída de la inversión",
-    "summary": "La formación bruta de capital fijo en México se contrajo 1.9% trimestral y 3.0% anual en el primer trimestre de 2026, acumulando seis trimestres consecutivos en negativo, exactamente los que lleva la administración actual. La inversión privada cayó 4.5% anual, aunque la inversión pública sorprendió con un repunte de 6.7%, su primer avance tras cuatro trimestres de caídas de doble dígito. La persistente debilidad de la inversión privada sigue siendo el principal lastre del crecimiento y el crédito productivo en México.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/06/24/la-interminable-caida-de-la-inversion/",
-    "source": "El Financiero",
-    "published": "2026-06-24T10:41:23+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "MGX Sets Up $50 Billion AI Fund",
-    "summary": "Abu Dhabi's MGX has raised close to $50 billion from regional and global investors to create one of the largest ever dedicated AI investment vehicles. The fund marks a significant new capital pool targeting AI companies and infrastructure globally, signaling that sovereign wealth is now a primary driver of AI financing. The scale of sovereign involvement suggests AI investment has moved firmly into mainstream institutional asset management.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/mgx-sets-up-50-billion-ai-fund-video",
-    "source": "Bloomberg",
-    "published": "2026-06-24T10:34:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Scammers Are Using AI to Create Fake Auto Loan Documents",
-    "summary": "AI-generated fake auto loan documents are becoming a growing problem for US auto lenders already facing the highest delinquency rates in years. Fraudsters are using AI tools to create convincing falsified loan applications, complicating lenders' risk assessment and fraud detection systems. The trend has direct implications for any financial institution operating in consumer credit, highlighting emerging model risk from AI-enabled document fraud.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/ai-auto-loan-fraud-is-rising-as-lenders-struggle-with-delinquencies",
-    "source": "Bloomberg",
-    "published": "2026-06-24T10:30:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Billionaires Score Win in $29 Million New York Proxy Fight",
-    "summary": "AI billionaires including Marc Andreessen and OpenAI President Greg Brockman backed a candidate who won a $29 million New York congressional primary, defeating a pro-regulation Democrat. The race became an explicit proxy battle over AI regulation policy, with Silicon Valley deploying political capital to shape the legislative landscape. The outcome signals that the AI industry is increasingly willing to invest politically to steer its regulatory environment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ai-billionaires-score-win-in-29-million-new-york-proxy-fight",
-    "source": "Bloomberg",
-    "published": "2026-06-24T10:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
