@@ -11,6 +11,138 @@
     "light": true
   },
   {
+    "title": "Anthropic Says Claude Can Mimic How The Human Brain Processes Information",
+    "summary": "Anthropic released a video and report claiming Claude can mimic patterns of how the human brain processes information, describing the discovery as \"J-space,\" drawn from a mathematical technique involving the Jacobian. EqualAI's Miriam Vogel joined Bloomberg to discuss what the finding could mean for the future of AI and the broader AI-consciousness debate.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/anthropic-s-report-fuels-ai-consciousness-debate-video",
+    "source": "Bloomberg",
+    "published": "2026-07-07T18:48:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "We Are A Blockchain Capital Market: Cagney",
+    "summary": "Figure Technology is acquiring Kiavi, a major lender to home flippers and small landlords in the US, and forming a joint venture with Sixth Street to buy an accompanying loan portfolio, according to Figure co-founder Mike Cagney. The deal expands Figure's blockchain-based mortgage and real estate lending capital markets business.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/we-are-a-blockchain-capital-market-cagney-video",
+    "source": "Bloomberg",
+    "published": "2026-07-07T18:41:38+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta releases first image model since Zuckerberg's AI overhaul",
+    "summary": "Meta launched Muse Spark Image, its first new image-generation model since Mark Zuckerberg's AI reorganization, and will integrate it into the company's AI chatbot and Instagram's photo app. The release marks Meta's latest move to keep pace with rivals in generative AI product features.",
+    "link": "https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994",
+    "source": "Financial Times",
+    "published": "2026-07-07T18:26:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amazon Fuels AI Debt Boom With Another Bond Sale",
+    "summary": "Amazon is seeking to raise at least $25 billion in a new dollar bond sale, its latest jumbo debt offering to fund artificial intelligence infrastructure spending. The deal adds to a wave of AI-related corporate debt issuance from major tech companies this year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/amazon-fuels-ai-debt-boom-with-another-bond-sale-video",
+    "source": "Bloomberg",
+    "published": "2026-07-07T18:25:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "I-Xport apuesta por la inteligencia artificial para fortalecer el cumplimiento de empresas IMMEX",
+    "summary": "El SAT ha intensificado su fiscalización de empresas del programa IMMEX apoyándose en inteligencia artificial, lo que llevó a la mexicana I-Xport a lanzar I-Xport IA, una nueva versión de su sistema de Anexo 24 con capacidades de IA para automatizar el cumplimiento de comercio exterior. Su directora, Lorena Beltrán, señaló que las empresas deben igualar la sofisticación tecnológica de la autoridad para mantenerse en regla.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/07/06/i-xport-apuesta-por-la-inteligencia-artificial-para-fortalecer-el-cumplimiento-de-empresas-immex/",
+    "source": "El Financiero",
+    "published": "2026-07-07T18:07:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México recupera lugar en el top 10 de la IED mundial, aunque el nearshoring pierde brillo",
+    "summary": "México regresó al top 10 de receptores de inversión extranjera directa a nivel mundial, según cifras citadas por Expansión, aunque el atractivo del nearshoring como motor de esa inversión muestra signos de debilitamiento. La noticia matiza el optimismo sobre la relocalización de cadenas de suministro hacia México.",
+    "link": "https://expansion.mx/economia/2026/07/07/mexico-inversion-extranjera-nearshoring-unctad",
+    "source": "Expansión",
+    "published": "2026-07-07T17:14:16+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hyperscalers Look 'Downright Cheap' to Morgan Stanley's Shalett",
+    "summary": "Morgan Stanley's Lisa Shalett argues that hyperscaler stocks still look attractively valued despite recent volatility, urging investors not to write off the Magnificent Seven tech giants. Her view pushes back against growing market skepticism about the sustainability of AI-driven spending and valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/hyperscalers-look-downright-cheap-to-morgan-stanley-s-shalett",
+    "source": "Bloomberg",
+    "published": "2026-07-07T16:56:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
+    "summary": "Microsoft is starting to swap out OpenAI and Anthropic models for its own in-house AI within products like Excel and Outlook, aiming to cut the costs of running third-party models. The move signals Microsoft's push toward greater independence in its AI stack even as it maintains partnerships elsewhere.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
+    "source": "Bloomberg",
+    "published": "2026-07-07T16:19:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Fuels Record M&A Boom",
+    "summary": "Record M&A volumes are being driven by AI, abundant capital, and a friendlier regulatory environment, though Jones Day's Robert Profusek notes private equity remains largely on the sidelines because sellers' price expectations are still too high. He also warned that AI valuations are reaching unprecedented levels, raising doubts about how long the current dealmaking boom can last.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/ai-fuels-record-m-a-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-07-07T15:58:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El auge de la IA abre un nuevo debate en Wall Street sobre las grandes tecnológicas",
+    "summary": "Las grandes tecnológicas siguen invirtiendo con fuerza en capacidad de IA, pero los inversionistas empiezan a cuestionar cuándo llegarán los retornos de esas apuestas multimillonarias. En el primer semestre de 2026, Microsoft y Oracle cayeron en bolsa mientras Alphabet avanzó, reflejo de la creciente cautela del mercado sobre la rentabilidad futura de la IA.",
+    "link": "https://www.bloomberglinea.com/mercados/el-auge-de-la-ia-abre-un-nuevo-debate-en-wall-street-sobre-las-grandes-tecnologicas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-07T14:21:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tu mejor cliente podría no ser humano, ¿estás preparado?",
+    "summary": "Una columna de opinión en Expansión plantea que los agentes de IA podrían convertirse en los próximos \"clientes\" de las empresas, un cambio que exige repensar productos, interfaces y estrategias comerciales. El planteamiento se enmarca en el debate creciente sobre la adopción de agentes autónomos de IA en los negocios.",
+    "link": "https://expansion.mx/opinion/2026/07/07/tu-mejor-cliente-podria-no-ser-humano-estas-preparado",
+    "source": "Expansión",
+    "published": "2026-07-07T12:04:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La reinvención del talento junior: cómo frenar la inminente \"crisis de sucesión\" corporativa",
+    "summary": "Una columna de opinión en Expansión advierte sobre una inminente \"crisis de sucesión\" corporativa y plantea cómo repensar el desarrollo del talento junior dentro de las organizaciones para evitarla. El tema se suma al debate sobre el futuro del trabajo y la gestión del talento en las empresas.",
+    "link": "https://expansion.mx/opinion/2026/07/07/la-reinvencion-del-talento-junior-como-frenar-la-inminente-crisis-de-sucesion-corporativa",
+    "source": "Expansión",
+    "published": "2026-07-07T12:03:10+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Legal Startup Norm Valued at $1.2 Billion in Funding Round",
     "summary": "Legal-AI startup Norm Ai raised $120 million in a new funding round that values the company at $1.2 billion, aiming to automate legal services and rethink how the industry bills for its work.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round",
@@ -64,6 +196,17 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Declara jueza a TV Azteca en concurso mercantil",
+    "summary": "Una jueza declaró a TV Azteca en concurso mercantil, lo que abre un plazo de un año para que la empresa llegue a un acuerdo con sus acreedores o sea declarada en quiebra. La resolución marca una nueva etapa en la crisis financiera de la televisora mexicana.",
+    "link": "https://www.reforma.com/declara-jueza-a-tv-azteca-en-concurso-mercantil/ar3235865",
+    "source": "Reforma",
+    "published": "2026-07-07T09:49:46-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Inversión fija bruta en México rompe racha negativa y repunta 5 por ciento",
@@ -5354,149 +5497,6 @@
     "category": "Personal Interest Watchlist",
     "relevance_score": 63,
     "language": "en",
-    "light": false
-  },
-  {
-    "title": "Afecta CFE a 20 estados",
-    "summary": "Una ola de apagones y variaciones de voltaje de la Comisión Federal de Electricidad afectó al menos 20 estados del país en los últimos 10 días, según Reforma. La presidenta Sheinbaum calificó las fallas como simples 'interrupciones', no apagones, en una distinción que generó críticas por minimizar el impacto real en empresas y hogares. Las fallas en la red de distribución representan un riesgo operativo creciente para la industria y la infraestructura digital en México.",
-    "link": "https://www.reforma.com/afecta-cfe-a-20-estados/ar3228876",
-    "source": "Reforma",
-    "published": "2026-06-25T05:01:01-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Micron posts 15-fold profit surge in boost for global AI stocks",
-    "summary": "Micron reported a 15-fold jump in profits driven by sustained AI demand for computer memory chips, with its sales forecast far exceeding Wall Street expectations. The blowout results boosted AI-related stocks across global markets, reinforcing investor confidence in the semiconductor sector as a core AI infrastructure beneficiary. The chipmaker's guidance signals that AI-fueled memory shortages are expected to persist.",
-    "link": "https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a",
-    "source": "Financial Times",
-    "published": "2026-06-25T04:54:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿'Guerra' por la IA? Anthropic acusa a Alibaba de intentar acceder a Claude con miles de cuentas falsas",
-    "summary": "Anthropic acusó a Alibaba de orquestar 28.8 millones de transacciones a través de casi 25,000 cuentas fraudulentas entre abril y junio para acceder ilícitamente a su modelo Claude, en lo que describió como el mayor intento documentado de una empresa china de explotar laboratorios de IA estadounidenses. La campaña, vinculada al laboratorio Qwen de Alibaba, apuntó específicamente a las capacidades de ingeniería de software y razonamiento automatizado de Claude. Anthropic comunicó el hallazgo a senadores estadounidenses y funcionarios de la Casa Blanca.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/06/24/guerra-por-la-ia-anthropic-acusa-a-alibaba-de-intentar-acceder-a-claude-con-miles-de-cuentas-falsas/",
-    "source": "El Financiero",
-    "published": "2026-06-25T03:59:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fuga de talentos: Google está a punto de perder a dos empleados del equipo de IA; irán a Anthropic",
-    "summary": "Los investigadores Jonas Adler y Alexander Pritzel, miembros clave del equipo del modelo Gemini de Google, se unirán a Anthropic, sumándose a una ola de salidas que ya incluye al Nobel John Jumper y al investigador Noam Shazeer. Adler lideraba la programación de IA y Pritzel participaba en el entrenamiento de sistemas de inteligencia artificial de Google. La fuga agrava el reto competitivo de Google frente a Anthropic y OpenAI en el segmento de talento de IA de élite.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/24/fuga-de-talentos-google-esta-a-punto-de-perder-a-dos-empleados-del-equipo-de-ia-iran-a-anthropic/",
-    "source": "El Financiero",
-    "published": "2026-06-25T03:52:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alibaba Slides to 16-Month Low After Anthropic's AI Accusations",
-    "summary": "Alibaba shares dropped to a 16-month low in Hong Kong after Anthropic publicly accused the Chinese tech giant of illicitly accessing its Claude AI model through thousands of fraudulent accounts linked to its Qwen AI lab. The market reaction reflects investor concern over potential US regulatory and trade consequences for Alibaba's AI operations. The allegations add new friction to Alibaba's efforts to establish Qwen as a leading AI model.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model",
-    "source": "Bloomberg",
-    "published": "2026-06-25T03:28:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kioxia Plans New US Listing in Spring, Stock Split at Home",
-    "summary": "Kioxia plans to offer US depositary shares in spring 2027 and execute a stock split in Japan to capitalize on surging investor demand for AI-related memory chip stocks. The move follows strong market appetite seen in rival SK Hynix's $29.4 billion US listing and Micron's blowout quarterly results. Kioxia's strategy underscores how AI infrastructure demand is prompting memory chipmakers to access deeper US capital markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring",
-    "source": "Bloomberg",
-    "published": "2026-06-25T02:34:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone, Bain Are Said Among Bidders for Fuji Media Unit",
-    "summary": "Blackstone and Bain Capital have advanced to the second round of bidding for the real estate unit of Fuji Media Holdings in what could be Japan's largest-ever property deal. The sale highlights continued private equity appetite for Asian real estate assets and the ongoing restructuring of Japanese conglomerates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/blackstone-bain-said-among-bidders-for-fuji-media-property-unit",
-    "source": "Bloomberg",
-    "published": "2026-06-25T02:07:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DigitalBridge Is Said to Explore Options for AIMS Data Centre",
-    "summary": "DigitalBridge is weighing options for Malaysia's AIMS Data Centre, including capital raises, bringing in new investors, or an outright sale. The exploration reflects continued PE and infrastructure fund activity around data center assets as AI-driven demand for compute capacity accelerates across Asia-Pacific. The potential transaction could fetch a premium given sustained institutional demand for digital infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre",
-    "source": "Bloomberg",
-    "published": "2026-06-25T02:04:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 67,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lecciones de Petrobras para Pemex",
-    "summary": "En 22 años los papeles se invirtieron: Petrobras pasó de 1.57 a 3.2 millones de barriles diarios y ganó $19.6 mil millones en 2025, mientras Pemex cayó de 3.38 a 1.65 millones y perdió 780 mil millones de pesos en 2024, recibiendo hoy $19 mil millones mensuales del gobierno para sobrevivir. El memorándum firmado entre ambas empresas abre la pregunta sobre qué lecciones de gobierno corporativo y gestión técnica puede extraer México del caso brasileño.",
-    "link": "https://www.eleconomista.com.mx/opinion/lecciones-petrobras-pemex-20260625-820195.html",
-    "source": "El Economista",
-    "published": "2026-06-25T01:56:38-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CFE obtiene línea de crédito por US$500 millones para financiar centrales eléctricas de gas natural",
-    "summary": "La Comisión Federal de Electricidad obtuvo una línea de crédito de US$500 millones del Banco Centroamericano de Integración Económica para financiar proyectos de generación eléctrica de ciclo combinado de gas natural y tecnologías de alta eficiencia. La operación busca ampliar la capacidad de generación nacional y garantizar un suministro más confiable para la industria. El anuncio coincide con el plan del gobierno de agregar más de 22,000 MW adicionales de capacidad, principalmente renovable, hacia 2030.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-obtiene-linea-de-credito-por-us500-millones-para-financiar-centrales-electricas-de-gas-natural/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-25T01:08:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "'Grandes bancos, preparados para enfrentar recesión'",
-    "summary": "La Reserva Federal confirmó que los 32 grandes bancos estadounidenses superaron las pruebas de resistencia anuales, absorbiendo más de $708 mil millones en pérdidas crediticias hipotéticas con una reducción de capital de solo 1.6 puntos porcentuales. El resultado reafirma la solidez del sistema bancario, aunque la Fed trabaja en aumentar la transparencia de las pruebas.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/grandes-bancos-preparados-enfrentar-recesion-20260625-820185.html",
-    "source": "El Economista",
-    "published": "2026-06-25T01:07:03-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bessent aplaude reducción de las orientaciones de la Fed",
-    "summary": "El secretario del Tesoro Scott Bessent respaldó el plan del presidente de la Fed Kevin Warsh de eliminar el gráfico de puntos y reducir el forward guidance, señalando que los modelos de IA podrían elevar la productividad y alterar la dinámica inflacionaria. Bessent mantiene posición abierta sobre el impacto del conflicto con Irán en la inflación, reconociendo la incertidumbre en el entorno actual de política monetaria.",
-    "link": "https://www.eleconomista.com.mx/economia/bessent-aplaude-reduccion-orientaciones-fed-20260625-820184.html",
-    "source": "El Economista",
-    "published": "2026-06-25T01:04:37-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Avanza el Polo de Desarrollo del Bienestar en Michoacán",
-    "summary": "Al menos ocho empresas manifestaron interés formal en instalarse en el Polo de Desarrollo del Bienestar (Podebi) de Zinapécuaro, Michoacán, con primeras operaciones posibles en 10-12 meses tras el inicio de construcción en septiembre. El polo, parte del Plan México de Sheinbaum, contempla una inversión de 2,926 millones de pesos en esquema público-privado y se posiciona estratégicamente entre Guadalajara y Ciudad de México. Michoacán se perfila como uno de los estados más avanzados en la implementación de estos hubs industriales de sustitución de importaciones.",
-    "link": "https://www.eleconomista.com.mx/estados/avanza-polo-desarrollo-bienestar-michoacan-20260625-820181.html",
-    "source": "El Economista",
-    "published": "2026-06-25T00:57:40-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
     "light": false
   }
 ]
