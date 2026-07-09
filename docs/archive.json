@@ -11,6 +11,116 @@
     "light": true
   },
   {
+    "title": "The century-old device choking the world’s AI push",
+    "summary": "Surging power demand from AI data centers is straining global supply chains for electrical transformers, a century-old technology now emerging as a bottleneck for the AI buildout. The shortage threatens to slow the pace at which hyperscalers can bring new AI infrastructure online.",
+    "link": "https://ig.ft.com/transformers/",
+    "source": "Financial Times",
+    "published": "2026-07-09T04:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Recruiters Shift Focus to Specialized AI Jobs to Stay Relevant",
+    "summary": "Recruitment firms are repositioning around niche, high-demand AI roles as they face competition from AI-powered applicant-screening tools that threaten their traditional business. The shift reflects how the AI economy is reshaping talent markets and the recruiting industry itself.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+    "source": "Bloomberg",
+    "published": "2026-07-09T03:45:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Wayfair Has Built AI Into Its Future",
+    "summary": "Wayfair CFO Kate Gulliver discussed how the furniture retailer is embedding AI across its 25-year-old e-commerce platform to improve customer experience and streamline internal operations. The conversation, part of Bloomberg's Chief Future Officer series, highlights how legacy retailers are operationalizing AI beyond pilot projects.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-09/how-wayfair-has-built-ai-into-its-future",
+    "source": "Bloomberg",
+    "published": "2026-07-09T01:33:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Costs Lead Westpac to Prod Staff Toward ‘Sensible’ Model Use",
+    "summary": "Westpac is tightening oversight of its AI spending, tracking token usage across the bank and steering simpler tasks toward cheaper models to control costs. The move illustrates how large financial institutions are moving from AI experimentation to disciplined cost management as adoption scales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/ai-costs-lead-westpac-to-prod-staff-toward-sensible-model-use",
+    "source": "Bloomberg",
+    "published": "2026-07-08T23:42:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Zhipu Surges 22% After $4 Billion Share Sale Priced at Low End",
+    "summary": "Chinese AI model developer Zhipu saw its shares jump as much as 22% in Hong Kong trading after pricing a $4 billion share sale at the low end of its marketed range. The strong reception underscores continued investor appetite for AI-focused capital raises despite cautious pricing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/ai-firm-zhipu-prices-4-billion-placement-at-hk-1-588-each-share",
+    "source": "Bloomberg",
+    "published": "2026-07-08T23:19:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bain Capital Exits Kioxia After Chip Deal Yields Big Returns",
+    "summary": "Bain Capital has fully exited its stake in flash-memory maker Kioxia, closing out a private-equity deal that delivered outsized returns and reshaped Japan's tech and investment landscape. The exit highlights how AI-driven demand for memory chips has turned into one of the standout PE trades of the cycle.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/bain-exits-kioxia-after-landmark-chip-deal-yields-record-returns",
+    "source": "Bloomberg",
+    "published": "2026-07-08T23:01:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Rival Positron Holds Talks to Raise Funds at $5 Billion Valuation",
+    "summary": "AI chip startup Positron is negotiating a two-phase funding round of roughly $750 million that would value the company at $5 billion, as it positions itself as a challenger to Nvidia. The talks reflect the continued flood of capital into companies attempting to break Nvidia's grip on AI chip supply.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+    "source": "Bloomberg",
+    "published": "2026-07-08T22:32:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Early-Stage VC Founder: AI Race Is Now About Efficiency",
+    "summary": "Venture investor Songyee Yoon argued that the AI race is shifting from raw capacity to efficiency, pointing to a growing divergence between the chip cycle and hyperscalers' spending cycle. She flagged the risk that hyperscalers could pull back on AI infrastructure spending as costs continue to climb.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-08/hp-s-board-director-rasies-questions-on-ai-spending-video",
+    "source": "Bloomberg",
+    "published": "2026-07-08T21:38:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Elon Musk and the age of the corporate leviathan",
+    "summary": "The Economist examines how Elon Musk's outsized control over Tesla, SpaceX and xAI illustrates a broader trend of the world's largest companies operating outside traditional corporate-governance norms. The piece frames this as a governance risk that investors and boards increasingly have to reckon with.",
+    "link": "https://www.economist.com/business/2026/07/08/elon-musk-and-the-age-of-the-corporate-leviathan",
+    "source": "The Economist",
+    "published": "2026-07-08T21:22:34+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet",
+    "summary": "Meta will invest about $10 billion to build its first data center in Canada, extending its global infrastructure buildout to support growing AI workloads. The project adds to the wave of hyperscaler capital spending underpinning the current AI boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+    "source": "Bloomberg",
+    "published": "2026-07-08T19:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "BofA Makes U-Turn on OpenAI, Provides $520M Credit Line",
     "summary": "Bank of America has reversed its earlier stance on lending to OpenAI, agreeing to extend the ChatGPT maker a $520 million credit line, according to people familiar with the matter. The deal marks a shift in how major banks are underwriting risk tied to fast-growing AI companies.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-makes-u-turn-on-openai-provides-520m-credit-line-video",
@@ -5386,116 +5496,6 @@
     "published": "2026-06-26T10:30:01+00:00",
     "category": "AI & Agents",
     "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Island Crest / ONOMA Architecture",
-    "summary": "ONOMA Architecture completed Island Crest, a 4,000-square-foot high-end residence on Mercer Island near Seattle, with photography by Rafael Soldi documenting the 2025 project. The house represents premium Pacific Northwest residential design in a waterfront island setting. The project is featured on ArchDaily as part of the studio's contemporary residential portfolio.",
-    "link": "https://www.archdaily.com/1042770/island-crest-onoma-architecture",
-    "source": "ArchDaily",
-    "published": "2026-06-26T10:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Exclusiva: No nos obsesiona salir a bolsa sino ser un motor del emprendimiento — gerente de Rappi en Colombia",
-    "summary": "El country manager de Rappi en Colombia descarta la urgencia de una IPO y afirma que el verdadero objetivo es consolidarse como motor del emprendimiento en Latinoamérica, priorizando el crecimiento en ciudades intermedias y estratos medios. La startup, con presencia en nueve países, ya genera EBITDA positivo y crece más del 30% anual, reinvirtiendo el 100% de sus utilidades. La estrategia de expansión hacia mercados menos saturados posiciona a Rappi para una eventual salida a bolsa sin la presión inmediata de ejecutarla.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/no-nos-obsesiona-salir-a-bolsa-gerente-de-rappi-en-colombia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-26T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico inicia pausa prolongada en tasa de interés: La deja en 6.5 por ciento",
-    "summary": "La Junta de Gobierno del Banco de México decidió por unanimidad mantener la tasa de referencia en 6.50%, iniciando una pausa monetaria prolongada orientada a consolidar la inflación en 3% para el segundo trimestre de 2027. El banco consideró el nivel actual del tipo de cambio, la ausencia de presiones de demanda y el grado de restricción monetaria vigente como factores que validan la postura ante un entorno macroeconómico complejo.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/06/26/banxico-inicia-pausa-prolongada-en-tasa-de-interes-la-deja-en-65-por-ciento/",
-    "source": "El Financiero",
-    "published": "2026-06-26T09:05:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive",
-    "summary": "Volkswagen plans to cut up to 100,000 jobs—close to one in six workers—in what would rank among the largest corporate restructurings in history, as the automaker faces mounting pressure from EV competition and slowing demand. The scale of the cuts signals a profound transformation of the traditional automotive industry's workforce model, with broad implications for manufacturing-dependent economies and global industrial employment strategy.",
-    "link": "https://www.ft.com/content/d0760eaf-d345-4964-b2ae-f55f6dfd9a4a",
-    "source": "Financial Times",
-    "published": "2026-06-26T08:49:30+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El reto de las mipymes, crecer en un entorno con pocos incentivos",
-    "summary": "Las micro, pequeñas y medianas empresas mexicanas enfrentan barreras serias para acceder a financiamiento formal: la percepción de mayores cargas fiscales y laborales al formalizarse desincentiva la incorporación al sector regulado. El presidente de la Red Nacional México Emprende pide acceso a créditos y tasas preferenciales como condición básica para que las mipymes —motor de la economía— puedan crecer sin quedar atrapadas en la informalidad.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/reto-mipymes-crecer-entorno-pocos-incentivos-20260626-820275.html",
-    "source": "El Economista",
-    "published": "2026-06-26T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How a New Generation of Architects Is Designing with Natural Light",
-    "summary": "This piece traces how contemporary architects are inheriting and evolving the tradition of treating natural light as a primary design material, citing works from Tadao Ando and Alvar Aalto as lineage references for current practitioners. Through the VELUX program presentations, it shows how daylight shapes spatial experience, comfort, and the perception of time within buildings. The article frames natural light not as a sustainability metric but as an irreplaceable architectural substance that defines presence.",
-    "link": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
-    "source": "ArchDaily",
-    "published": "2026-06-26T06:45:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "One Day, Four Earthquakes: What Seismic Resilience Reveals About the Built Environment",
-    "summary": "Within 36 hours, four major earthquakes struck Venezuela, Japan, and California—but Venezuela's casualties were far higher, exposing dramatic differences in building codes and construction quality across regions. ArchDaily examines how earthquake outcomes reveal the built environment's critical role in disaster risk, with implications for housing development standards and real estate valuations in seismically active markets.",
-    "link": "https://www.archdaily.com/1042788/one-day-four-earthquakes-what-seismic-resilience-reveals-about-the-built-environment",
-    "source": "ArchDaily",
-    "published": "2026-06-26T06:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "The AI Trade Is No Longer About Owning One Thing: Taking Stock",
-    "summary": "The case for the AI investment trade remains intact, but the risk of getting it wrong has risen considerably as the theme evolves beyond a single dominant position. This week's market activity illustrated how unforgiving the AI trade has become, with sharp reversals in previously consensus holdings catching investors off guard. Portfolio construction around AI increasingly demands granular sector judgment rather than broad thematic exposure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
-    "source": "Bloomberg",
-    "published": "2026-06-26T06:13:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Snøhetta Reimagines Aino and Alvar Aalto's Paimio Sanatorium as a Wellness and Cultural Destination",
-    "summary": "Snøhetta has developed a masterplan to transform Alvar Aalto's iconic Paimio Sanatorium—a UNESCO-listed modernist complex from 1929–1933—into a hospitality, wellness, and cultural destination that reinterprets the original therapeutic design principles for contemporary use. The project preserves all 14 structures while creating spaces for international dialogue and high-end wellness tourism, offering a model for adaptive reuse of modernist architectural heritage.",
-    "link": "https://www.archdaily.com/1042779/snohetta-reimagines-aino-and-alvar-aaltos-paimio-sanatorium-as-a-wellness-and-cultural-destination",
-    "source": "ArchDaily",
-    "published": "2026-06-26T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SemiAnalysis Xie on Asia AI Supply Chain",
-    "summary": "SemiAnalysis research lead Myron Xie identifies the Asian hardware suppliers emerging as clear winners in the AI demand surge, based on production capacity, technology advantage in high-bandwidth memory, and strategic positioning with hyperscalers. The analysis highlights how the AI supply chain is bifurcating between commodity hardware and premium AI-optimized components, with the latter commanding outsized margins. Understanding these dynamics is critical for assessing the durability of capex cycles driving AI infrastructure investment.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-26/semianalysis-xie-on-asia-ai-supply-chain-video",
-    "source": "Bloomberg",
-    "published": "2026-06-26T05:14:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
     "language": "en",
     "light": true
   }
