@@ -11,6 +11,94 @@
     "light": true
   },
   {
+    "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
+    "summary": "A group of Aston Martin creditors led by Arini Capital Management, BlackRock and Sculptor Capital has banded together to block any debt restructuring they fear would erode their standing. The standoff highlights the leverage private-credit and distressed-debt investors wield in corporate restructurings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
+    "source": "Bloomberg",
+    "published": "2026-07-10T18:34:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
+    "summary": "Investors are pulling back from longer-dated bonds tied to AI infrastructure buildouts as Big Tech's borrowing binge fuels scepticism about the sector's long-term profitability. Waning demand for this debt signals growing caution about how ballooning AI capital spending will ultimately pay off.",
+    "link": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
+    "source": "Financial Times",
+    "published": "2026-07-10T16:29:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy advanced technologies including AI-capable semiconductors and commercial satellites. The move marks a shift in US policy toward expanding AI chip access for a key Middle Eastern partner.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "source": "Bloomberg",
+    "published": "2026-07-10T16:21:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nu México recibe autorización para iniciar operaciones como banco",
+    "summary": "Nubank recibió autorización de la Comisión Nacional Bancaria y de Valores (CNBV) para operar como banco en México, casi tres años después de solicitar la licencia. Su fundador y CEO, David Vélez, calificó el paso como decisivo dentro de la apuesta de largo plazo de la fintech en el país, que se suma a una inversión estimada de US$4,200 millones anunciada para 2026-2030.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nu-mexico-recibe-autorizacion-para-iniciar-operaciones-como-banco/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-10T15:27:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Government Action is Crucial for AI Entrepreneurs Says Pelgo CEO",
+    "summary": "A new ILO study estimates AI could reshape roughly 80 million jobs across Southeast Asia, though it has not yet triggered large-scale layoffs. Pelgo's CEO argues government action is essential to help displaced workers adapt, framing AI as a redeployment tool rather than a pure job eliminator.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T15:08:48+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Bust Fallout Would Be 'More Significant' Than Dot-Com, Says George Noble",
+    "summary": "Money manager George Noble warns that if the AI-driven stock rally unwinds, the fallout could be worse than the dot-com bust, since gains have been concentrated in a small handful of mega-cap names. He argues today's narrow market breadth compares unfavorably to prior bubble cycles.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T15:05:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Caída del precio del jitomate, huevo y chiles baja la inflación en junio",
+    "summary": "La caída en los precios del jitomate, el huevo y los chiles ayudó a moderar la inflación de junio en México, según un podcast de Expansión.",
+    "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/10/caida-precio-jitomate-huevo-chiles-baja-inflacion-junio",
+    "source": "Expansión",
+    "published": "2026-07-10T13:43:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reino Unido vigilará a Amazon, Microsoft, Google y Oracle por su riesgo para el sistema financiero",
+    "summary": "El Banco de Inglaterra, la PRA y la FCA comenzarán a supervisar a Amazon, Microsoft, Google y Oracle al designarlas 'terceras partes críticas' para el sistema financiero británico, dado que numerosas firmas dependen de sus servicios en la nube. Los reguladores buscan reducir el riesgo de que una falla en estos proveedores se propague por todo el sistema financiero del Reino Unido.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/reino-unido-vigilara-amazon-microsoft-google-oracle-riesgo-sistema-financiero-20260710-822664.html",
+    "source": "El Economista",
+    "published": "2026-07-10T12:54:53-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El T-MEC se negocia en julio: la competitividad se construye hoy",
     "summary": "La segunda ronda de negociaciones del T-MEC concluyó con la definición, prevista para julio, de si el acuerdo tendrá una extensión automática de 16 años o revisiones periódicas cada 10. México llega con cifras récord de comercio exterior y nearshoring operativo, pero con un PIB que apenas creció 0.2% en el primer trimestre de 2026 y solo 11% de los proyectos de nearshoring anunciados desde 2023 materializados en inversión confirmada.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/10/el-t-mec-se-negocia-en-julio-la-competitividad-se-construye-hoy/",
@@ -22,6 +110,28 @@
     "light": false
   },
   {
+    "title": "Peso mexicano avanza frente al dólar por mayor apetito por riesgo en el mercado",
+    "summary": "El peso mexicano avanzó frente al dólar impulsado por un mayor apetito por riesgo en los mercados, según un video de El Economista.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-avanza-frente-dolar-mayor-apetito-riesgo-mercado-20260710-822658.html",
+    "source": "El Economista",
+    "published": "2026-07-10T12:37:34-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CAT de tarjetas: qué revisar antes de contratar",
+    "summary": "Un breve video explica qué es el Costo Anual Total (CAT) y qué puntos conviene revisar antes de contratar una tarjeta de crédito en México.",
+    "link": "https://www.eleconomista.com.mx/videos/cat-tarjetas-revisar-contratar-20260710-822657.html",
+    "source": "El Economista",
+    "published": "2026-07-10T12:32:43-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Talento sin fronteras: cómo competir cuando el mercado paga en dólares",
     "summary": "México registró un récord histórico de inversión extranjera directa en el primer trimestre de 2025, impulsando la demanda de talento en manufactura, tecnología y servicios especializados. Empresas como CEMEX, Mercado Libre y Nubank se han convertido en semilleros de profesionales que hoy reciben ofertas de compañías globales que pagan en dólares con trabajo remoto, generando tensión entre el talento local especializado y las empresas que compiten por retenerlo.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/10/talento-sin-fronteras-como-competir-cuando-el-mercado-paga-en-dolares/",
@@ -29,6 +139,39 @@
     "published": "2026-07-10T12:28:29+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Conseguir un empleo en tecnología exige hoy tres veces más esfuerzo",
+    "summary": "Conseguir un empleo en el sector tecnológico en México ahora exige, en promedio, el triple de esfuerzo que antes, según un reporte de Expansión.",
+    "link": "https://expansion.mx/tecnologia/2026/07/10/conseguir-empleo-en-tecnologia-ahora-cuesta-triple",
+    "source": "Expansión",
+    "published": "2026-07-10T11:55:18+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "T-MEC: Incertidumbre exige mayor competitividad",
+    "summary": "Un video de El Economista aborda cómo la incertidumbre en torno a la revisión del T-MEC exige a México reforzar su competitividad.",
+    "link": "https://www.eleconomista.com.mx/videos/t-mec-incertidumbre-exige-mayor-competitividad-20260710-822648.html",
+    "source": "El Economista",
+    "published": "2026-07-10T11:32:05-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tarjetas de crédito fáciles de tramitar: ¿Cuál es el costo real de su inmediatez?",
+    "summary": "Solicitar una tarjeta de crédito en México es hoy tan sencillo como unos clics desde el celular, con bancos y sofipos como Nu, Klar, Stori y Plata compitiendo por aprobaciones rápidas. La Condusef advierte que esa inmediatez suele venir acompañada de tasas de interés altas y comisiones que conviene comparar antes de elegir.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/tarjetas-credito-faciles-tramitar-costo-real-inmediatez-20260710-822545.html",
+    "source": "El Economista",
+    "published": "2026-07-10T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
     "language": "es",
     "light": false
   },
@@ -231,6 +374,17 @@
     "light": true
   },
   {
+    "title": "All you never wanted to know about corporate bond market issuance",
+    "summary": "A Financial Times explainer walks through how corporate bond issuance is actually structured and priced in debt capital markets. It offers a primer on the mechanics behind the bond deals companies rely on for financing.",
+    "link": "https://www.ft.com/content/47a66129-548e-45c6-8855-0691616e92da",
+    "source": "Financial Times",
+    "published": "2026-07-10T04:00:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Luxury square that shows London's mansions are not selling",
     "summary": "In London's Knightsbridge, prices on the exclusive Montpelier Square have fallen sharply over the past decade as foreign buyers increasingly look toward other markets. The piece illustrates how shifting international capital flows are reshaping demand for ultra-prime residential real estate.",
     "link": "https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1",
@@ -238,6 +392,17 @@
     "published": "2026-07-10T04:00:04+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Payment Firms Emerge as Target in Fight Against Illegal Casinos",
+    "summary": "A European gambling industry trade body filed a complaint with Lithuania's banking regulator seeking an investigation into a payment company it accuses of enabling unlicensed online casinos. The case underscores rising regulatory pressure on payment processors linked to illegal gambling operations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments",
+    "source": "Bloomberg",
+    "published": "2026-07-10T04:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -5333,170 +5498,5 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "BMV reanuda operaciones tras suspensión antes de la apertura",
-    "summary": "La Bolsa Mexicana de Valores reanudó operaciones a las 9:55 del lunes 29 de junio tras una suspensión preventiva que afectó los mercados de acciones, metales y renta fija —la mayor interrupción en años. La BMV aclaró que no fue una falla en su motor de negociación MoNet y que se aplicaron medidas para garantizar equidad en la continuidad de la negociación.",
-    "link": "https://www.eleconomista.com.mx/mercados/bmv-reanuda-operaciones-suspension-apertura-20260629-820781.html",
-    "source": "El Economista",
-    "published": "2026-06-29T10:28:16-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El misterio del crecimiento de las exportaciones",
-    "summary": "Las exportaciones mexicanas acumulan cuatro meses de crecimiento de dos dígitos con un alza anual de 25.4% en mayo, pero el columnista argumenta que una parte significativa podría explicarse por el adelanto de compras de importadores estadounidenses antes de posibles aranceles. Las manufacturas no automotrices lideran el dinamismo con doce meses consecutivos de tasas de dos dígitos, aunque la industria automotriz retrocedió 2.2%. Si la hipótesis del adelanto de inventarios es correcta, el impulso exportador sería transitorio y no reflejaría una ganancia permanente de competitividad.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/29/el-misterio-del-crecimiento-de-las-exportaciones/",
-    "source": "El Financiero",
-    "published": "2026-06-29T10:25:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La SEC multa con 7.5 millones de dólares a Merrill Lynch por no alertar de actividad sospechosa",
-    "summary": "La SEC impuso una multa de 7.5 millones de dólares a Merrill Lynch de Bank of America por no presentar numerosos reportes de actividad sospechosa (SAR) entre abril de 2020 y septiembre de 2024, incumpliendo la Ley de Secreto Bancario. El caso revela los riesgos sistémicos de los modelos de cumplimiento automatizado: Merrill dependía del software de BofA con un umbral de riesgo demasiado restrictivo, dejando pasar transacciones potencialmente sospechosas sin reporte ante FinCEN.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/sec-multa-7-5-millones-dolares-merrill-lynch-alertar-actividad-sospechosa-20260629-820780.html",
-    "source": "El Economista",
-    "published": "2026-06-29T10:23:46-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google Cloud to Offer Specialist AI Models for Science Research",
-    "summary": "Google Cloud will offer specialist AI models from SandboxAQ through its platform, targeting enterprise and research applications in drug discovery, materials science, and semiconductor manufacturing. The move expands Google's enterprise AI portfolio beyond general-purpose LLMs into high-value scientific domains where specialized models deliver clear ROI. The partnership reflects a broader trend of cloud providers building AI model marketplaces for specific professional verticals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
-    "source": "Bloomberg",
-    "published": "2026-06-29T10:00:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comienza formalmente la revisión del T-MEC: las ventajas de México",
-    "summary": "El 1 de julio arranca la primera revisión conjunta del T-MEC entre México, Estados Unidos y Canadá, un proceso que determinará si el tratado se renueva hasta 2042 o entra en revisiones anuales que podrían conducir a su terminación en 2036. Los tres países tienen hasta 2028 para llegar a un acuerdo, en un contexto marcado por la agenda arancelaria de Trump y los temas de seguridad bilateral. Para México, el resultado definirá las condiciones de su integración comercial con Norteamérica por al menos una generación.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/06/29/comienza-formalmente-la-revision-del-t-mec-las-ventajas-de-mexico/",
-    "source": "El Financiero",
-    "published": "2026-06-29T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Births Two Robot Unicorns as Sector Funding Stays Strong",
-    "summary": "Two Chinese robotics startups have each been valued above $2.9 billion in recent funding rounds, becoming unicorns as investor appetite for AI-enabled robotics remains robust. The valuations reflect sustained capital allocation toward companies building humanoid and industrial robots to compete with US firms like Tesla and Figure AI. China's robotics sector is emerging as a key battleground in the broader US-China AI and advanced manufacturing competition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong",
-    "source": "Bloomberg",
-    "published": "2026-06-29T09:24:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Unicornios y Centauros en la era de la Inteligencia Artificial",
-    "summary": "El artículo analiza dos metáforas que compiten por definir el futuro del trabajo: el 'unicornio', que simboliza la esperanza de que la IA resolverá todo de forma autónoma, y el 'centauro', que representa la colaboración humano-máquina. La evidencia empírica favorece al centauro: equipos que integran IA de forma colaborativa superan tanto a los puramente humanos como a los puramente automatizados. La discusión tiene implicaciones directas para cómo las organizaciones diseñan sus procesos de adopción de IA y forman a sus equipos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/06/29/unicornios-y-centauros-en-la-era-de-la-inteligencia-artificial/",
-    "source": "El Financiero",
-    "published": "2026-06-29T09:15:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AirTrunk Is Said to Be Near Confidential Filing for Biggest Singapore IPO in Years",
-    "summary": "Blackstone-backed data center operator AirTrunk is reportedly close to filing confidentially for a REIT IPO in Singapore that would be among the largest listings in the country in years. The offering would give public market investors direct exposure to AI infrastructure through data center real estate, reflecting surging demand for compute capacity across Asia-Pacific. The move follows a global wave of data center M&A and capital markets activity as AI investment drives unprecedented demand for physical infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/airtrunk-is-said-to-near-confidential-filing-for-biggest-singapore-ipo-in-years",
-    "source": "Bloomberg",
-    "published": "2026-06-29T09:09:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Exportaciones crecen 25 por ciento durante mayo y mantienen solidez",
-    "summary": "Las exportaciones mexicanas crecieron 25.4% anual en mayo hasta 69,544 millones de dólares, respaldadas por un repunte del 45.2% en petróleo crudo y doce meses consecutivos de crecimiento de dos dígitos en manufacturas no automotrices. Las importaciones también avanzaron 24%, manteniendo un superávit comercial modesto. El resultado confirma la solidez exportadora de México, aunque persiste la interrogante de cuánto se debe al adelanto de compras de importadores estadounidenses ante posibles aranceles.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/06/29/exportaciones-crecen-25-por-ciento-durante-mayo-y-mantienen-solidez/",
-    "source": "El Financiero",
-    "published": "2026-06-29T08:42:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El T-MEC que definirá el legado de Ebrard",
-    "summary": "La renegociación del T-MEC, que arranca el 1 de julio, será una prueba decisiva para el secretario de Economía Marcelo Ebrard, cuyo desempeño podría proyectarlo como candidato presidencial en 2030. El proceso, que puede extenderse hasta 2028, estará marcado por la presión de Trump para repatriar producción automotriz —con potencial daño severo a México y Canadá— y por los pendientes de seguridad bilateral. Del resultado dependerá la viabilidad de la plataforma industrial exportadora de México para las próximas dos décadas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jorge-molina-larrondo/2026/06/29/el-t-mec-que-definira-el-legado-de-ebrard/",
-    "source": "El Financiero",
-    "published": "2026-06-29T08:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mundial 2026: México lidera ciberfraudes ante embestida de sitios falsos en internet",
-    "summary": "México es el país anfitrión del Mundial 2026 más afectado por ciberfraudes, con un promedio de 3,548 ataques semanales por organización en abril, un incremento del 4% frente al año anterior. Los ciberdelincuentes explotan la fiebre mundialista mediante phishing, smishing y sitios falsos que simulan plataformas de venta de boletos o redes WiFi maliciosas. La concentración de México como objetivo prioritario subraya la vulnerabilidad del ecosistema digital empresarial ante amenazas oportunistas de gran escala.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/06/29/mundial-2026-mexico-lidera-ciberfraudes-ante-embestida-de-sitios-falsos-en-internet/",
-    "source": "El Financiero",
-    "published": "2026-06-29T08:16:16+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Baidu's CFO on How It Became a Full-Stack AI Player",
-    "summary": "Baidu CFO Henry He explains how the company evolved from a search engine into a full-stack AI player with proprietary chips, large language models (Ernie), cloud infrastructure, and a self-driving car business (Apollo Go). He discusses how Chinese tech firms approach AI safety and alignment differently from Western counterparts, and how maximizing token utilization is now a core financial metric. Baidu's vertical integration strategy — owning the full AI stack — is the model Chinese firms are pursuing to reduce dependence on US AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-how-it-became-a-full-stack-ai-player-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T08:12:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Architectural Decisions, Planetary Implications: Interview with UIA 2026 Barcelona Curatorial Team",
-    "summary": "The curatorial team behind the UIA 2026 World Congress of Architects in Barcelona presents its central premise: architecture can no longer be understood as a self-contained object but only through its ecological, material, and political systems. The 2026 theme — 'Becoming. Architectures for a Planet in Transition' — challenges the profession to think at a planetary scale about the built environment's role in ecological and social transition. Barcelona revisits questions it first posed at the influential 1996 congress, now under the urgency of ecological crisis.",
-    "link": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
-    "source": "ArchDaily",
-    "published": "2026-06-29T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Indicadores del 29 de junio al 3 de julio: Expectativas económicas, remesas y venta de autos",
-    "summary": "Esta semana arranca el segundo semestre con una agenda cargada de indicadores clave: en México se publicarán expectativas económicas y empresariales, remesas, venta de autos y confianza del consumidor. En Estados Unidos, los mercados estarán atentos a la encuesta JOLTS de vacantes laborales (mayo) y a otros datos del mercado laboral. El Banco de México publicará el martes los resultados de su subasta de valores gubernamentales, ofreciendo pistas sobre las expectativas de tasas.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-29-junio-3-julio-expectativas-economicas-remesas-venta-autos-20260629-820512.html",
-    "source": "El Economista",
-    "published": "2026-06-29T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Corea del Sur invertirá 1.2 billones de dólares en su industria de chips y centros de datos de IA",
-    "summary": "Corea del Sur lanzó un megaproyecto de inversión público-privada por aproximadamente 1.2 billones de dólares —más de dos tercios de su PIB— en semiconductores y centros de datos para inteligencia artificial. Samsung Electronics y SK Hynix encabezarán la iniciativa con 800 billones de wones en un nuevo polo de fabricación en el suroeste del país. El presidente Lee Jae Myung lo calificó como 'estrategia de supervivencia nacional' frente a la competencia global en IA.",
-    "link": "https://www.eleconomista.com.mx/internacionales/corea-sur-invertira-1-2-billones-dolares-industria-chips-centros-datos-ia-20260629-820748.html",
-    "source": "El Economista",
-    "published": "2026-06-29T06:29:34-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
