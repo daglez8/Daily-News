@@ -11,6 +11,105 @@
     "light": true
   },
   {
+    "title": "Prepare for a perilous summer in markets",
+    "summary": "Financial Times outlines potential market hotspots for the coming months, including a more dovish incoming Fed chair, a persistently weak Japanese yen, and an unusually high-stakes corporate earnings season. The piece frames these as compounding risks investors should watch heading into summer.",
+    "link": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
+    "source": "Financial Times",
+    "published": "2026-07-11T04:00:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Productividad defensiva",
+    "summary": "El columnista Alberto Tovar describe la 'productividad defensiva': ejecutivos que se mantienen ocupados respondiendo mensajes y encadenando reuniones para sentirse menos expuestos, sin avanzar en las decisiones estratégicas de fondo. Contrasta el liderazgo guiado por el reloj (horarios y tareas) con el guiado por la brújula (dirección correcta), y advierte que la actividad constante puede ser una forma de evitar conversaciones difíciles.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/10/productividad-defensiva/",
+    "source": "El Financiero",
+    "published": "2026-07-11T03:01:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué todas las personas morales en México deberían tributar con base en el flujo de efectivo?",
+    "summary": "Un colaborador invitado de El Financiero argumenta que las personas morales en México deberían tributar el ISR sobre flujo de efectivo y no sobre ingresos devengados, dado que los plazos de cobro a clientes se han alargado y muchas empresas terminan pagando impuestos sobre dinero que aún no reciben. Cita el precedente del IVA, que migró a base de flujo de efectivo en 2003 con resultados positivos, como modelo para una reforma similar en el régimen general de ISR.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/10/por-que-todas-las-personas-morales-en-mexico-deberian-tributar-con-base-en-el-flujo-de-efectivo/",
+    "source": "El Financiero",
+    "published": "2026-07-11T03:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kazakh Tycoon Turlov's Freedom Raises $300 Million for Expansion",
+    "summary": "Kazakhstan billionaire Timur Turlov's Freedom Holding Corp. raised $300 million through a share sale, funds the fintech and brokerage group plans to use for further international expansion. The move underscores continued capital-markets appetite for fast-growing emerging-market financial firms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-11/kazakh-tycoon-turlov-s-freedom-raises-300-million-for-expansion",
+    "source": "Bloomberg",
+    "published": "2026-07-11T02:59:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+    "summary": "OpenAI's head of safety, Johannes Heidecke, is departing the company following an internal reorganization, according to a Wired report cited by Bloomberg. The exit adds to a string of high-profile departures from OpenAI's safety leadership, raising fresh questions about the company's AI governance priorities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+    "source": "Bloomberg",
+    "published": "2026-07-11T02:15:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gensler: Big Deals a Sign of 'High-Valuation Market'",
+    "summary": "Former SEC Chair Gary Gensler tells Bloomberg's 'The Close' that the wave of blockbuster listings — including SK Hynix's $26.5 billion Nasdaq debut, Google's $85 billion capital raise, and SpaceX's move to go public — signals a 'high-valuation market.' He frames the return of large-scale IPO activity as a barometer of investor risk appetite heading into the back half of the year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T22:25:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US relaxes export controls on advanced chips and drones for UAE",
+    "summary": "The Financial Times reports that the US is easing export controls on advanced chips and drones for the United Arab Emirates, giving the Gulf state access to more sophisticated American AI-related technology. The move marks a shift in Washington's approach to balancing AI-chip export restrictions with strengthening ties to Gulf allies.",
+    "link": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
+    "source": "Financial Times",
+    "published": "2026-07-10T21:25:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Qué destino le dará SK hynix a los fondos recaudados en su histórica salida a Wall Street",
+    "summary": "SK Hynix, que logró la mayor salida a bolsa de una empresa extranjera en la historia de EE.UU. con más de US$26,500 millones recaudados, destinará los fondos principalmente a expandir su capacidad de producción de memoria DRAM, NAND y HBM, con una nueva planta y una instalación avanzada de empaquetado en Corea del Sur. La compañía ya tiene comprometida su capacidad hasta 2026 por la demanda de Nvidia, y UBS proyecta que podría capturar cerca de 70% del mercado de HBM4 para la próxima plataforma Rubin.",
+    "link": "https://www.bloomberglinea.com/mercados/que-destino-le-dara-sk-hynix-a-los-fondos-recaudados-en-su-historica-salida-a-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-10T20:45:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
+    "summary": "ArchDaily profiles Arriaga Linear Park by Laboratorio Regional de Arquitectura, a public space built alongside Mexico's Interoceanic Railway project that reconnects regional rail mobility with everyday local life. Mexico's Secretariat of the Navy undertook the surrounding station and public-space renovation as part of the broader southeastern rail corridor initiative.",
+    "link": "https://www.archdaily.com/1092461/arriaga-linear-park-laboratorio-regional-de-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-07-10T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
     "summary": "A group of Aston Martin creditors led by Arini Capital Management, BlackRock and Sculptor Capital has banded together to block any debt restructuring they fear would erode their standing. The standoff highlights the leverage private-credit and distressed-debt investors wield in corporate restructurings.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
@@ -319,6 +418,17 @@
     "light": true
   },
   {
+    "title": "Presume SHCP bonanza; hay otros datos",
+    "summary": "Reforma señala que el gobierno mexicano presumió indicadores de 'fortaleza' económica, pero que los datos oficiales de la SHCP muestran que el país crece a un ritmo más lento que antes de la pandemia. La nota contrasta el discurso oficial con las cifras de crecimiento reportadas.",
+    "link": "https://www.reforma.com/presume-shcp-bonanza-hay-otros-datos/ar3237892",
+    "source": "Reforma",
+    "published": "2026-07-10T05:00:35-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
     "summary": "China dropped a numerical target for urban job creation from its next five-year plan for the first time in decades, an apparent acknowledgment of rising uncertainty over employment as AI spreads through the economy. The move signals Beijing's recognition that traditional labor-market planning tools may no longer fit an economy being reshaped by automation.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
@@ -403,6 +513,28 @@
     "published": "2026-07-10T04:00:00+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ojo aquí, Sam Altman: Apple acusa a OpenAI de robar secretos comerciales y señala a su jefe de hardware",
+    "summary": "Apple demandó a OpenAI por presunto robo de secretos comerciales, acusando a la startup y a su jefe de hardware, Tang Tan (exejecutivo de Apple), de coordinar una campaña para obtener información sobre productos aún no anunciados. La demanda, presentada ante el Tribunal del Distrito Norte de California, marca un giro drástico en la relación entre ambas empresas, que actualmente colaboran en Apple Intelligence y Siri.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/07/10/ojo-aqui-sam-altman-apple-acusa-a-openai-de-robar-secretos-comerciales-y-senala-a-su-jefe-de-hardware/",
+    "source": "El Financiero",
+    "published": "2026-07-10T03:14:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
+    "summary": "Tencent is reportedly in talks to become the largest external shareholder in Manus, the agentic-AI startup, in a deal to buy back the company after Chinese regulators blocked Meta's earlier acquisition attempt. The move would give Tencent significant control over one of the most closely watched AI-agent pioneers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
+    "source": "Bloomberg",
+    "published": "2026-07-10T03:06:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
     "language": "en",
     "light": true
   },
@@ -955,6 +1087,17 @@
     "relevance_score": 75,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "China may struggle to fund Xi Jinping's tech dreams",
+    "summary": "The Economist examines whether China can keep funding Xi Jinping's ambitious technology goals even as the country's capital markets stage a comeback. The piece questions whether renewed market activity is enough to sustain Beijing's tech-investment ambitions long term.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
+    "source": "The Economist",
+    "published": "2026-07-09T08:27:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Can India Leverage Talent to Catch Up in the AI Race?",
@@ -5353,149 +5496,6 @@
     "published": "2026-06-29T15:00:44+00:00",
     "category": "AI & Agents",
     "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Corea del Sur invertirá 1.2 bdd en semiconductores y centros de datos de IA",
-    "summary": "Corea del Sur anunció inversiones de al menos 880,000 millones de dólares en semiconductores y centros de datos de inteligencia artificial, encabezadas por Samsung y SK Hynix. La estrategia apunta a mantener la ventaja competitiva del país en la cadena de suministro global de IA, posicionándolo como nodo crítico del ecosistema tecnológico mundial en la era de los modelos de frontera.",
-    "link": "https://expansion.mx/tecnologia/2026/06/29/corea-del-sur-invertira-semiconductores-centros-de-datos-ia",
-    "source": "Expansión",
-    "published": "2026-06-29T15:00:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mexico Exchange Resumes Trading After Hours-Long Halt",
-    "summary": "Mexico's BMV Group suffered its largest trading outage in years, halting equities, metals, and fixed income markets before the session open on June 29. Trading resumed at 9:55 a.m. after BMV confirmed the suspension was not caused by a failure in its core MoNet trading engine, though the episode renewed scrutiny over market infrastructure resilience.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-exchange-halts-trading-ahead-of-session-open",
-    "source": "Bloomberg",
-    "published": "2026-06-29T14:20:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banco Plata inicia contrataciones para lanzar casa de bolsa",
-    "summary": "Plata, la fintech mexicana que inició operaciones como banco en marzo de 2026, está reclutando para una casa de bolsa que planea lanzar en diciembre de 2026, previa obtención de licencia de la CNBV. La expansión convierte a Plata en un actor de servicios financieros más completo —sumando corretaje a banca y asesoría de inversiones—, respaldado por líneas de crédito de Oaktree y Macquarie, compitiendo en un mercado que incluye a GBM y Bursanet.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banco-plata-inicia-contrataciones-para-lanzar-casa-de-bolsa/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-29T13:36:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Millennium Builds AI Lab in Push for Cutting-Edge Products",
-    "summary": "Hedge fund giant Millennium Management is establishing a dedicated AI laboratory to accelerate development and deployment of advanced technologies across its operations. The move signals growing adoption of in-house AI infrastructure among major financial firms rather than relying on third-party tools. This is part of a broader trend in financial services of building proprietary AI capabilities to gain competitive edge in trading, risk, and product development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/millennium-builds-ai-lab-in-push-for-cutting-edge-products",
-    "source": "Bloomberg",
-    "published": "2026-06-29T12:15:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Acusan IP y ciudadanos anomalías en licencias de Tulum",
-    "summary": "Empresarios y ciudadanos señalan irregularidades y burocracia excesiva en el sistema de licencias de construcción de Tulum, que frena el desarrollo ordenado del destino. La complejidad regulatoria y los altos costos de permisos representan un obstáculo tanto para inversionistas locales como para desarrolladores de bienes raíces en uno de los mercados más atractivos del Caribe mexicano.",
-    "link": "https://www.reforma.com/acusan-ip-y-ciudadanos-anomalias-en-licencias-de-tulum/ar3231369",
-    "source": "Reforma",
-    "published": "2026-06-29T12:03:00-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "The Uninvited Meeting Guest Is an AI Notetaker",
-    "summary": "AI-powered notetaking bots are increasingly joining video calls uninvited, recording and transcribing meetings without clear consent from all participants, and their proliferation is outpacing workplace norms. The spread of tools like Otter.ai and Fireflies raises questions about privacy, confidentiality, and professional etiquette in hybrid-work environments. Organizations are only beginning to grapple with governance policies for AI recording in professional settings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ai-notetaker-tools-recording-zoom-meetings-threaten-privacy-etiquette",
-    "source": "Bloomberg",
-    "published": "2026-06-29T12:00:17+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trestle Cabin / Miller Hull Partnership",
-    "summary": "Miller Hull Partnership has completed the Trestle Cabin, a compact 868-square-foot retreat in Seattle designed for year-round use, combining refined materiality with spatial efficiency in a minimal-footprint format. The project exemplifies the firm's approach to site-responsive residential design at small scale, photographed by Juan Benavides in 2024. The cabin demonstrates how thoughtful architecture can deliver high-quality living environments while maintaining a light ecological footprint.",
-    "link": "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership",
-    "source": "ArchDaily",
-    "published": "2026-06-29T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "La IA ya puede hacer tu declaración ante el SAT, pero aún no sustituye al contador",
-    "summary": "Herramientas de inteligencia artificial ya son capaces de completar declaraciones fiscales ante el SAT, aunque todavía no sustituyen al contador en casos complejos ni para optimización fiscal avanzada. El avance ilustra cómo la IA comienza a penetrar los servicios profesionales financieros en México, con potencial impacto en la demanda de asesoría contable en el mediano plazo.",
-    "link": "https://expansion.mx/tecnologia/2026/06/29/ia-ya-puede-hacer-tu-declaracion-ante-el-sat",
-    "source": "Expansión",
-    "published": "2026-06-29T11:55:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft's $570 Billion Rout Sets Up Its Worst Month Since 2000",
-    "summary": "Microsoft shares are on track for their worst monthly performance since the dot-com era, having shed roughly $570 billion in market value as investors question the company's positioning in an AI-dominated landscape. The selloff reflects uncertainty about whether Microsoft's heavy AI infrastructure investments will translate into commensurate revenue growth. The decline contrasts with AI infrastructure pure-plays like Nvidia, which have surged on the same investment wave.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/microsoft-s-570-billion-rout-sets-up-its-worst-month-since-2000",
-    "source": "Bloomberg",
-    "published": "2026-06-29T11:31:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "América Latina tiene una nueva reina en Wall Street: así cambiaron las acciones más valiosas",
-    "summary": "El repunte de las materias primas en el primer semestre de 2026 reconfiguró el ranking de empresas latinoamericanas en Wall Street: Petrobras desplazó a MercadoLibre del primer lugar con más de 101,000 millones de dólares de capitalización, mientras Itaú Unibanco ascendió al segundo lugar. Nu Holdings retrocedió del segundo al quinto puesto, reflejando un giro de los inversionistas desde activos de crecimiento digital hacia valor y commodities. El movimiento es relevante para el sector fintech latinoamericano, que encabezó el rally de años previos.",
-    "link": "https://www.bloomberglinea.com/mercados/america-latina-tiene-una-nueva-reina-en-wall-street-asi-cambiaron-las-acciones-mas-valiosas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-29T11:24:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ferrari Luce, New Golf Cart Reflect Apple Design Aesthetic",
-    "summary": "Former Apple design chief Jony Ive and collaborator Marc Newson have channeled their minimalist Apple aesthetic into two new vehicles: the Ferrari Luce electric car and the Amble premium golf cart. Both feature the clean, restrained design language that defined their Apple industrial design era, positioning luxury mobility as a design-forward experience. The Amble golf cart in particular signals growing convergence of premium product design and golf lifestyle.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/ferrari-luce-new-amble-golf-car-reflect-apple-design-flair",
-    "source": "Bloomberg",
-    "published": "2026-06-29T11:02:01+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China Pushes All School Levels to Teach AI in Xi's Tech Drive",
-    "summary": "China has announced a formal plan to integrate AI education across all levels of schooling, from primary through higher education, as part of President Xi Jinping's campaign to dominate advanced technologies globally. The initiative aligns national curricula with AI development goals to build a large-scale pipeline of AI-literate talent. The move intensifies global competition for AI talent and signals how national AI strategies are embedding themselves into educational systems.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
-    "source": "Bloomberg",
-    "published": "2026-06-29T10:42:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Germany Wants and Needs AI to Take Human Jobs",
-    "summary": "Germany is actively embracing AI as a workforce replacement tool, driven by an aging and rapidly retiring labor force creating critical skill gaps across the economy. Unlike debates in other markets, German policymakers and businesses frame AI job displacement as a necessity rather than a threat, given acute demographic constraints. The trend is accelerating AI adoption in labor-intensive sectors as companies substitute automation for scarce human capital.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/germany-turns-to-ai-to-fill-the-gap-left-by-retiring-workers",
-    "source": "Bloomberg",
-    "published": "2026-06-29T10:30:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   }
