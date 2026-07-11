@@ -1,62 +1,29 @@
 [
   {
-    "title": "Prepare for a perilous summer in markets",
-    "summary": "The FT flags several potential hotspots for markets this summer, including the appointment of a reformist new Fed chair, a weak Japanese yen, and a high-stakes corporate earnings season. Any of these could trigger volatility across global capital markets in the coming months.",
-    "link": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
+    "title": "How AI rebrands fail to deliver a lasting share price boost",
+    "summary": "Un análisis del FT encontró que la mayoría de las empresas que giraron su marca hacia la IA no han logrado sostener las ganancias de valuación que siguieron a ese pivote. El hallazgo cuestiona si el reposicionamiento en torno a la IA se traduce en valor de mercado duradero.",
+    "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
     "source": "Financial Times",
-    "published": "2026-07-11T04:00:41+00:00",
-    "category": "Capital Markets & M&A",
+    "published": "2026-07-11T15:41:24+00:00",
+    "category": "AI & Agents",
     "relevance_score": 68,
     "language": "en",
     "light": true
   },
   {
-    "title": "Los 'otros datos' del mercado laboral formal",
-    "summary": "El empleo formal afiliado al IMSS mejoró en junio con 61 mil nuevas plazas (+0.3% mensual), la cifra más alta para un mes de junio desde 2021. Sin embargo, el análisis detalla que buena parte del crecimiento proviene de trabajadores de plataformas digitales como Uber y DiDi, que ahora tienen obligación de registro, matizando la fortaleza real del dato.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/10/los-otros-datos-del-mercado-laboral-formal/",
-    "source": "El Financiero",
-    "published": "2026-07-11T03:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 67,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Productividad defensiva",
-    "summary": "Esta columna describe la 'productividad defensiva': ejecutivos que llenan su agenda de actividad constante para sentirse menos expuestos, en lugar de generar impacto real, evitando así conversaciones difíciles o decisiones estratégicas pendientes. El autor contrasta el trabajo guiado por el reloj (horarios y ocupación) con el guiado por la brújula (dirección y prioridades verdaderas).",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/10/productividad-defensiva/",
-    "source": "El Financiero",
-    "published": "2026-07-11T03:01:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kazakh Tycoon Turlov's Freedom Raises $300 Million for Expansion",
-    "summary": "Kazakhstan billionaire Timur Turlov's Freedom Holding Corp. raised $300 million in a share sale to fund its ongoing international expansion, adding to the fintech and brokerage group's capital base.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/kazakh-tycoon-turlov-s-freedom-raises-300-million-for-expansion",
-    "source": "Bloomberg",
-    "published": "2026-07-11T02:59:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Tu cuenta de Instagram es pública? Meta puede usar tus fotos para entrenar su IA: Así puedes cambiarlo",
-    "summary": "El sindicato de actores SAG-AFTRA criticó el lanzamiento de Muse Image, el generador de imágenes con IA de Meta, por permitir que fotos públicas de usuarios de Instagram se usen para crear contenido generado por IA sin consentimiento explícito. La organización exige que Meta adopte un sistema de autorización voluntaria ('opt-in') para este tipo de usos.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/07/10/tu-cuenta-de-instagram-es-publica-meta-puede-usar-tus-fotos-para-entrenar-su-ia-asi-puedes-cambiarlo/",
-    "source": "El Financiero",
-    "published": "2026-07-11T02:49:19+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
+    "title": "La ciudad con la vivienda más cara del país... también tiene enormes diferencias entre alcaldías",
+    "summary": "La Ciudad de México se consolidó en junio de 2026 como la entidad con el precio promedio de vivienda más alto del país, según el Índice Banorte de Precios de Vivienda (Inbaprevi), con un metro cuadrado promedio de 58,257 pesos. El indicador esconde diferencias de hasta 3.8 veces entre alcaldías, como Cuauhtémoc y Tláhuac.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/ciudad-vivienda-cara-pais-enormes-diferencias-alcaldias-20260711-822539.html",
+    "source": "El Economista",
+    "published": "2026-07-11T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
   {
     "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-    "summary": "OpenAI's head of safety, Johannes Heidecke, is departing the company following an internal reorganization, according to a Wired report cited by Bloomberg. The exit adds to a string of leadership changes around AI safety functions at major AI labs.",
+    "summary": "Johannes Heidecke, jefe de seguridad de OpenAI, dejará la compañía tras una reorganización interna, según Wired. La salida se suma al escrutinio sobre el liderazgo de seguridad y gobernanza de IA en la empresa en medio de su rápida expansión comercial.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
     "source": "Bloomberg",
     "published": "2026-07-11T02:15:21+00:00",
@@ -66,8 +33,63 @@
     "light": true
   },
   {
+    "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
+    "summary": "Expansión analiza qué podría implicar para los usuarios de Nu México la evolución de los rendimientos que ofrece el producto de ahorro 'Cajitas', una pieza clave de la propuesta de la fintech en el mercado mexicano.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/10/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-las-cajitas",
+    "source": "Expansión",
+    "published": "2026-07-11T00:21:24+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
+    "summary": "Expansión explora quién es el propietario de Patio Universidad, la plaza comercial que compite frente al dominio de Carlos Slim con Plaza Universidad en la Ciudad de México.",
+    "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
+    "source": "Expansión",
+    "published": "2026-07-10T23:48:06+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hedge Fund Elliott Builds Stake in Software Firm CCC",
+    "summary": "El inversionista activista Elliott Investment Management construyó una participación importante en CCC Intelligent Solutions, proveedor de software para seguros de autos que ha estado explorando una posible venta. El movimiento apunta a un renovado interés de M&A en plataformas de software para el sector asegurador.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/hedge-fund-elliott-builds-stake-in-software-firm-ccc",
+    "source": "Bloomberg",
+    "published": "2026-07-10T22:19:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Sues OpenAI for Trade Secret Theft",
+    "summary": "Apple demandó a OpenAI por robo de secretos comerciales, acusando a la startup de IA y a su jefe de hardware de una campaña coordinada para obtener información, componentes y diseños de sus próximos productos. El caso marca una escalada en la disputa entre ambas compañías por talento y liderazgo en hardware de IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T21:04:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hasta 50% de las juntas en el trabajo son improductivas: cómo implementar un día sin juntas correctamente",
+    "summary": "Expansión señala que hasta 50% de las juntas de trabajo son improductivas y ofrece recomendaciones para implementar correctamente un día sin reuniones dentro de las organizaciones.",
+    "link": "https://expansion.mx/carrera/2026/07/10/juntas-en-trabajo-son-burocracia-cotidiana",
+    "source": "Expansión",
+    "published": "2026-07-10T20:19:58+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
-    "summary": "As part of Mexico's Interoceanic Railway project, the Secretariat of the Navy built new railway infrastructure and surrounding public spaces in Arriaga, designed by Laboratorio Regional de Arquitectura. The linear park reconnects regional rail mobility with local community life in the country's southeast.",
+    "summary": "Como parte del proyecto del Tren Interoceánico del gobierno mexicano para conectar el sureste del país, la Secretaría de Marina reconstruyó infraestructura ferroviaria, incluyendo los espacios públicos alrededor de las estaciones. El Parque Lineal Arriaga, de Laboratorio Regional de Arquitectura, reconecta la movilidad regional con la vida cotidiana local.",
     "link": "https://www.archdaily.com/1092461/arriaga-linear-park-laboratorio-regional-de-arquitectura",
     "source": "ArchDaily",
     "published": "2026-07-10T19:00:00+00:00",
@@ -77,19 +99,30 @@
     "light": false
   },
   {
-    "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
-    "summary": "Investors are pulling back from longer-dated debt tied to AI infrastructure financing, reflecting growing scepticism about the sector's long-term profitability even as Big Tech firms ramp up borrowing to fund data center buildouts.",
-    "link": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
-    "source": "Financial Times",
-    "published": "2026-07-10T16:29:50+00:00",
+    "title": "Velas Resorts lidera los premios Travelers’ Choice 2026 de TripAdvisor",
+    "summary": "Velas Resorts lideró los premios Travelers' Choice 2026 de TripAdvisor, destacando entre los resorts de lujo mejor calificados por los viajeros en esta edición.",
+    "link": "https://expansion.mx/bespoke-ad/2026/07/10/velas-resorts-lidera-los-premios-travelers-choice-2026-de-tripadvisor",
+    "source": "Expansión",
+    "published": "2026-07-10T18:51:33+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SK Hynix ADRs Surge After Record $26.5 Billion US Offering",
+    "summary": "Los ADR de SK Hynix subieron por encima de su precio de oferta después de que la fabricante surcoreana de memoria recaudara 26,500 millones de dólares en la mayor colocación en EU por una empresa extranjera, abriendo 14% arriba en Nasdaq. El debut confirma el fuerte apetito de los inversionistas por exposición directa a la demanda de memoria impulsada por la IA, pese a la reciente volatilidad del sector.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T16:35:58+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 71,
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
   {
     "title": "Nu México recibe autorización para iniciar operaciones como banco",
-    "summary": "La fintech brasileña Nubank recibió autorización de la CNBV para operar como banco en México, casi tres años después de solicitar la conversión, uniéndose a otras fintechs como Revolut y Plata que siguieron esta ruta. El fundador y CEO David Vélez destacó que México es un mercado clave y reiteró una inversión estimada de US$4,200 millones en el país entre 2026 y 2030, tras una reunión con la presidenta Claudia Sheinbaum.",
+    "summary": "La fintech de origen brasileño Nubank recibió autorización de la CNBV para iniciar operaciones como banco en México, casi tres años después de solicitar la conversión. Se suma a otras fintechs como Revolut y, más recientemente, Plata, que han seguido la misma ruta regulatoria, consolidando la apuesta de largo plazo de Nu en el mercado mexicano, según su fundador David Vélez.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/nu-mexico-recibe-autorizacion-para-iniciar-operaciones-como-banco/",
     "source": "Bloomberg Línea",
     "published": "2026-07-10T15:27:26+00:00",
@@ -99,63 +132,8 @@
     "light": false
   },
   {
-    "title": "La UE declara culpable a Meta por \"diseño adictivo\" de Facebook e Instagram",
-    "summary": "La Unión Europea determinó que Meta es responsable de un diseño 'adictivo' en Facebook e Instagram, lo que podría derivar en sanciones regulatorias bajo el marco de protección al consumidor y gobernanza digital del bloque. La decisión se suma a la creciente presión regulatoria europea sobre las grandes plataformas tecnológicas.",
-    "link": "https://expansion.mx/tecnologia/2026/07/10/ue-declara-culpable-meta-diseno-adictivo-facebook-instagram",
-    "source": "Expansión",
-    "published": "2026-07-10T15:00:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Caída del precio del jitomate, huevo y chiles baja la inflación en junio",
-    "summary": "Este episodio de Expansión Daily explica cómo la caída en los precios del jitomate, el huevo y los chiles contribuyó a reducir la inflación general de México en junio. La disminución de estos precios de referencia impactó directamente en el índice de precios al consumidor del mes.",
-    "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/10/caida-precio-jitomate-huevo-chiles-baja-inflacion-junio",
-    "source": "Expansión",
-    "published": "2026-07-10T13:43:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA no vive en el modelo, vive en los sistemas",
-    "summary": "Esta columna de opinión en Expansión sostiene que el valor real de la inteligencia artificial no está en el modelo aislado, sino en su integración dentro de los sistemas y procesos de una organización. El argumento central es que las empresas deben priorizar la implementación sistémica de la IA por encima de la sofisticación del modelo en sí mismo.",
-    "link": "https://expansion.mx/opinion/2026/07/10/la-ia-no-vive-en-el-modelo-vive-en-los-sistemas",
-    "source": "Expansión",
-    "published": "2026-07-10T12:03:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Conseguir un empleo en tecnología exige hoy tres veces más esfuerzo",
-    "summary": "Expansión reporta que conseguir un empleo en el sector tecnológico se ha vuelto considerablemente más difícil, requiriendo a los candidatos un esfuerzo estimado en tres veces mayor que en años anteriores. La nota refleja un mercado laboral tecnológico más competido y selectivo.",
-    "link": "https://expansion.mx/tecnologia/2026/07/10/conseguir-empleo-en-tecnologia-ahora-cuesta-triple",
-    "source": "Expansión",
-    "published": "2026-07-10T11:55:18+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ojo aquí, Sam Altman: Apple acusa a OpenAI de robar secretos comerciales y señala a su jefe de hardware",
-    "summary": "Apple demandó a OpenAI por presunto robo de secretos comerciales, acusando a la startup y a su jefe de hardware, Tang Tan (exVP de diseño de Apple), de coordinar una campaña para obtener información confidencial sobre productos aún no anunciados. La demanda, presentada en un tribunal federal de California, marca un quiebre en la relación entre ambas compañías, que hasta hace poco colaboraban en tecnología para Apple Intelligence y Siri.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/07/10/ojo-aqui-sam-altman-apple-acusa-a-openai-de-robar-secretos-comerciales-y-senala-a-su-jefe-de-hardware/",
-    "source": "El Financiero",
-    "published": "2026-07-10T03:14:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
     "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
-    "summary": "Tencent is reportedly in talks to become the largest external shareholder of Manus, the agentic AI startup, after Chinese regulators blocked Meta's earlier bid to acquire it. The deal would give Tencent a significant stake in one of the sector's prominent AI agent developers.",
+    "summary": "Tencent está en pláticas para convertirse en el mayor accionista externo de Manus, en un acuerdo para recomprar a la pionera de IA agéntica luego de que reguladores chinos bloquearan la adquisición previa por parte de Meta. El movimiento refleja la disputa entre gigantes tecnológicos chinos por capacidades de agentes de IA.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
     "source": "Bloomberg",
     "published": "2026-07-10T03:06:47+00:00",
@@ -163,38 +141,5 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "¿Por qué todas las personas morales en México deberían tributar con base en el flujo de efectivo?",
-    "summary": "El artículo argumenta que las personas morales en México deberían pagar el ISR con base en el flujo de efectivo realmente cobrado, en lugar del régimen actual que en muchos casos obliga a pagar impuestos sobre ingresos aún no percibidos. El autor cita como precedente la reforma del IVA de 2003, que mejoró la recaudación y la equidad del sistema al cambiar a un esquema de flujo de efectivo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/10/por-que-todas-las-personas-morales-en-mexico-deberian-tributar-con-base-en-el-flujo-de-efectivo/",
-    "source": "El Financiero",
-    "published": "2026-07-10T03:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 69,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Sabes donde está tu Afore? Así puedes localizar tus datos",
-    "summary": "Expansión ofrece una guía práctica para que los trabajadores en México identifiquen en qué Afore está registrada su cuenta de ahorro para el retiro y cómo consultar sus datos personales. La nota busca ayudar a los usuarios a mantener control sobre su ahorro previsional.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/09/como-funciona-afore-saber-donde-esta",
-    "source": "Expansión",
-    "published": "2026-07-10T00:37:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street sube impulsado por las acciones de semiconductores mientras cae el petróleo",
-    "summary": "Las acciones estadounidenses cerraron al alza impulsadas por un fuerte repunte de las empresas de semiconductores, con el Nasdaq subiendo 1.30% en medio de renovado optimismo sobre la inteligencia artificial. Micron Technology anunció que elevará hasta US$250,000 millones su inversión en nuevas plantas en EU, mientras la colocación de ADR de SK Hynix recibió una demanda superior a siete veces el volumen ofrecido.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-avanza-impulsado-por-las-tecnologicas-mientras-persisten-tensiones-con-iran/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-09T20:12:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]

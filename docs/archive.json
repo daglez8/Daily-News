@@ -11,6 +11,28 @@
     "light": true
   },
   {
+    "title": "How AI rebrands fail to deliver a lasting share price boost",
+    "summary": "Un análisis del FT encontró que la mayoría de las empresas que giraron su marca hacia la IA no han logrado sostener las ganancias de valuación que siguieron a ese pivote. El hallazgo cuestiona si el reposicionamiento en torno a la IA se traduce en valor de mercado duradero.",
+    "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+    "source": "Financial Times",
+    "published": "2026-07-11T15:41:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La ciudad con la vivienda más cara del país... también tiene enormes diferencias entre alcaldías",
+    "summary": "La Ciudad de México se consolidó en junio de 2026 como la entidad con el precio promedio de vivienda más alto del país, según el Índice Banorte de Precios de Vivienda (Inbaprevi), con un metro cuadrado promedio de 58,257 pesos. El indicador esconde diferencias de hasta 3.8 veces entre alcaldías, como Cuauhtémoc y Tláhuac.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/ciudad-vivienda-cara-pais-enormes-diferencias-alcaldias-20260711-822539.html",
+    "source": "El Economista",
+    "published": "2026-07-11T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Prepare for a perilous summer in markets",
     "summary": "Financial Times outlines potential market hotspots for the coming months, including a more dovish incoming Fed chair, a persistently weak Japanese yen, and an unusually high-stakes corporate earnings season. The piece frames these as compounding risks investors should watch heading into summer.",
     "link": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
@@ -88,11 +110,44 @@
     "light": true
   },
   {
+    "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
+    "summary": "Expansión analiza qué podría implicar para los usuarios de Nu México la evolución de los rendimientos que ofrece el producto de ahorro 'Cajitas', una pieza clave de la propuesta de la fintech en el mercado mexicano.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/10/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-las-cajitas",
+    "source": "Expansión",
+    "published": "2026-07-11T00:21:24+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
+    "summary": "Expansión explora quién es el propietario de Patio Universidad, la plaza comercial que compite frente al dominio de Carlos Slim con Plaza Universidad en la Ciudad de México.",
+    "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
+    "source": "Expansión",
+    "published": "2026-07-10T23:48:06+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Gensler: Big Deals a Sign of 'High-Valuation Market'",
     "summary": "Former SEC Chair Gary Gensler tells Bloomberg's 'The Close' that the wave of blockbuster listings — including SK Hynix's $26.5 billion Nasdaq debut, Google's $85 billion capital raise, and SpaceX's move to go public — signals a 'high-valuation market.' He frames the return of large-scale IPO activity as a barometer of investor risk appetite heading into the back half of the year.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video",
     "source": "Bloomberg",
     "published": "2026-07-10T22:25:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hedge Fund Elliott Builds Stake in Software Firm CCC",
+    "summary": "El inversionista activista Elliott Investment Management construyó una participación importante en CCC Intelligent Solutions, proveedor de software para seguros de autos que ha estado explorando una posible venta. El movimiento apunta a un renovado interés de M&A en plataformas de software para el sector asegurador.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/hedge-fund-elliott-builds-stake-in-software-firm-ccc",
+    "source": "Bloomberg",
+    "published": "2026-07-10T22:19:12+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
@@ -110,6 +165,17 @@
     "light": true
   },
   {
+    "title": "Apple Sues OpenAI for Trade Secret Theft",
+    "summary": "Apple demandó a OpenAI por robo de secretos comerciales, acusando a la startup de IA y a su jefe de hardware de una campaña coordinada para obtener información, componentes y diseños de sus próximos productos. El caso marca una escalada en la disputa entre ambas compañías por talento y liderazgo en hardware de IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T21:04:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Qué destino le dará SK hynix a los fondos recaudados en su histórica salida a Wall Street",
     "summary": "SK Hynix, que logró la mayor salida a bolsa de una empresa extranjera en la historia de EE.UU. con más de US$26,500 millones recaudados, destinará los fondos principalmente a expandir su capacidad de producción de memoria DRAM, NAND y HBM, con una nueva planta y una instalación avanzada de empaquetado en Corea del Sur. La compañía ya tiene comprometida su capacidad hasta 2026 por la demanda de Nvidia, y UBS proyecta que podría capturar cerca de 70% del mercado de HBM4 para la próxima plataforma Rubin.",
     "link": "https://www.bloomberglinea.com/mercados/que-destino-le-dara-sk-hynix-a-los-fondos-recaudados-en-su-historica-salida-a-wall-street/",
@@ -117,6 +183,17 @@
     "published": "2026-07-10T20:45:55+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hasta 50% de las juntas en el trabajo son improductivas: cómo implementar un día sin juntas correctamente",
+    "summary": "Expansión señala que hasta 50% de las juntas de trabajo son improductivas y ofrece recomendaciones para implementar correctamente un día sin reuniones dentro de las organizaciones.",
+    "link": "https://expansion.mx/carrera/2026/07/10/juntas-en-trabajo-son-burocracia-cotidiana",
+    "source": "Expansión",
+    "published": "2026-07-10T20:19:58+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -132,6 +209,17 @@
     "light": false
   },
   {
+    "title": "Velas Resorts lidera los premios Travelers’ Choice 2026 de TripAdvisor",
+    "summary": "Velas Resorts lideró los premios Travelers' Choice 2026 de TripAdvisor, destacando entre los resorts de lujo mejor calificados por los viajeros en esta edición.",
+    "link": "https://expansion.mx/bespoke-ad/2026/07/10/velas-resorts-lidera-los-premios-travelers-choice-2026-de-tripadvisor",
+    "source": "Expansión",
+    "published": "2026-07-10T18:51:33+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
     "summary": "A group of Aston Martin creditors led by Arini Capital Management, BlackRock and Sculptor Capital has banded together to block any debt restructuring they fear would erode their standing. The standoff highlights the leverage private-credit and distressed-debt investors wield in corporate restructurings.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
@@ -139,6 +227,17 @@
     "published": "2026-07-10T18:34:58+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SK Hynix ADRs Surge After Record $26.5 Billion US Offering",
+    "summary": "Los ADR de SK Hynix subieron por encima de su precio de oferta después de que la fabricante surcoreana de memoria recaudara 26,500 millones de dólares en la mayor colocación en EU por una empresa extranjera, abriendo 14% arriba en Nasdaq. El debut confirma el fuerte apetito de los inversionistas por exposición directa a la demanda de memoria impulsada por la IA, pese a la reciente volatilidad del sector.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T16:35:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -5397,105 +5496,6 @@
     "published": "2026-06-29T21:54:56+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "LSEG CEO on AI Market Impact, Share Buybacks, Volatility",
-    "summary": "LSEG CEO David Schwimmer highlighted AI as a major growth driver for the exchange group, arguing that AI dramatically enhances the value of LSEG's proprietary data — which constitutes over 90% of its dataset — by enabling new analytical and product capabilities. Despite a difficult 2025 for the company's shares, Schwimmer sees AI as a significant long-term opportunity for financial market infrastructure players who own unique datasets. He also discussed share buyback strategy and managing volatility in the current market environment.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/lseg-ceo-highlights-ai-as-a-major-growth-driver-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T20:02:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico incorpora una herramienta de compra de bonos para respaldar liquidez",
-    "summary": "Banco de México publicó una normativa que le permitirá adquirir Cetes de cupón cero y Bondes F en el mercado secundario a partir del tercer trimestre de 2026 para sostener la liquidez en episodios de estrés de mercado, una medida preventiva sin precedentes en la historia reciente del banco. La acción llega después de que Moody's bajara la calificación crediticia de México al nivel más bajo dentro del grado de inversión y S&P revisara su perspectiva a negativa. Banxico aclaró que las compras son discrecionales y condicionadas a necesidades de liquidez, no a financiamiento fiscal.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-incorpora-una-herramienta-de-compra-de-bonos-para-respaldar-liquidez/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-29T19:55:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Former Governors Team Up to Address AI Job Losses",
-    "summary": "Former Indiana Governor Eric Holcomb is co-chairing RAISE US, a bipartisan initiative backed by Amazon, Anthropic, and Microsoft aimed at easing the American workforce's transition to an AI-driven economy by preparing workers for AI-enhanced roles. The collaboration between former government officials and leading AI companies signals a growing institutional effort to manage the social impact of AI adoption at scale.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/former-governors-teams-up-to-address-ai-job-losses-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T19:53:37+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BMV reanuda operaciones tras suspensión por duplicidad de información",
-    "summary": "La Bolsa Mexicana de Valores (BMV) suspendió temporalmente sus operaciones el 29 de junio a raíz de una anomalía técnica de duplicidad en la información del sistema de negociación, reanudándolas una vez resuelto el problema. El incidente afectó la operatividad del mercado de valores mexicano durante un período breve pero generó preocupación entre participantes del mercado. El evento subraya la importancia de la resiliencia tecnológica en la infraestructura financiera crítica del país.",
-    "link": "https://expansion.mx/mercados/2026/06/29/bmv-reanuda-operaciones-tras-suspension-por-duplicidad-de-informacion",
-    "source": "Expansión",
-    "published": "2026-06-29T19:20:37+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿En qué invertir en Wall Street? La empresa de computación cuántica que sugieren BofA y UBS",
-    "summary": "Quantinuum Inc. (QNT), empresa de computación cuántica que debutó en bolsa el 4 de junio de 2026, atrajo recomendaciones de compra de BofA (precio objetivo US$100) y UBS (US$93), con el papel cotizando en US$75.57 en su debut. Los analistas destacan a Helios, la plataforma de hardware y software de Quantinuum, como líder comercial del sector con clientes como Amgen y BMW, valuada en ~10x el valor empresa sobre ingresos esperados. El caso ilustra el apetito del mercado por compañías con exposición a la próxima oleada de infraestructura computacional más allá de la IA clásica.",
-    "link": "https://www.bloomberglinea.com/mercados/en-que-invertir-en-wall-street-la-empresa-de-computacion-cuantica-que-sugieren-bofa-y-ubs/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-29T18:21:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hugging Face CEO Weighs In on Anthropic AI Model's 'Dangerous' Label",
-    "summary": "Hugging Face CEO Clem Delangue argues that being labeled \"too dangerous\" by the US government could paradoxically serve as a marketing advantage for frontier AI companies like Anthropic, whose Mythos model faces national security scrutiny. The episode places Anthropic at the center of a pivotal policy debate about how governments balance AI regulation with the imperative to maintain domestic AI leadership.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/delangue-on-anthropic-ai-model-s-dangerous-label-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T17:42:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic's Mythos 5 Gets US Approval for Wider Use",
-    "summary": "Anthropic secured US government approval to restore broader access to its Mythos 5 AI model after resolving Trump administration concerns about potential national security threats. Former White House CIO Theresa Payton notes the outcome shows the US is balancing national security oversight with enabling domestic AI adoption in critical sectors — a framework that will shape how frontier AI models reach enterprise users.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-gets-us-approval-for-wider-use-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T17:31:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "FINNOSUMMIT 2026 apuesta por conectar retail, salud y logística para redefinir el futuro financiero de América Latina",
-    "summary": "FINNOSUMMIT 2026 celebrará su décima edición el 23 y 24 de septiembre en Expo Santa Fe, Ciudad de México, bajo la premisa de integrar soluciones financieras avanzadas en sectores como retail, salud y logística. El ecosistema proyecta la creación de más de 6,000 empleos vinculados a fintech —70% orientados a soluciones B2B—, reflejando el creciente interés corporativo en herramientas financieras integradas más allá del sector bancario tradicional.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/06/29/finnosummit-2026-apuesta-por-conectar-retail-salud-y-logistica-para-redefinir-el-futuro-financiero-de-america-latina/",
-    "source": "El Financiero",
-    "published": "2026-06-29T17:03:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso no se 'inmuta' en inicio de operaciones ante el dólar",
-    "summary": "El peso mexicano mantuvo estabilidad frente al dólar al inicio de la sesión del lunes 29 de junio, con el tipo de cambio en 17.50 unidades sin variación respecto al cierre previo. Los mercados asimilan noticias de los bombardeos de EU contra Irán y la posible reanudación de conversaciones de paz en Doha, con analistas de Banco Base señalando menor aversión al riesgo como factor estabilizador.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/06/29/peso-dolar-precio-hoy-29-de-junio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-06-29T16:54:45+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
     "language": "es",
     "light": false
   }
