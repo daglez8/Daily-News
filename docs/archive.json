@@ -22,6 +22,17 @@
     "light": true
   },
   {
+    "title": "Los 'otros datos' del mercado laboral formal",
+    "summary": "El empleo formal afiliado al IMSS mejoró en junio con 61 mil nuevas plazas (+0.3% mensual), la cifra más alta para un mes de junio desde 2021. Sin embargo, el análisis detalla que buena parte del crecimiento proviene de trabajadores de plataformas digitales como Uber y DiDi, que ahora tienen obligación de registro, matizando la fortaleza real del dato.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/10/los-otros-datos-del-mercado-laboral-formal/",
+    "source": "El Financiero",
+    "published": "2026-07-11T03:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Productividad defensiva",
     "summary": "El columnista Alberto Tovar describe la 'productividad defensiva': ejecutivos que se mantienen ocupados respondiendo mensajes y encadenando reuniones para sentirse menos expuestos, sin avanzar en las decisiones estratégicas de fondo. Contrasta el liderazgo guiado por el reloj (horarios y tareas) con el guiado por la brújula (dirección correcta), y advierte que la actividad constante puede ser una forma de evitar conversaciones difíciles.",
     "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/10/productividad-defensiva/",
@@ -53,6 +64,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Tu cuenta de Instagram es pública? Meta puede usar tus fotos para entrenar su IA: Así puedes cambiarlo",
+    "summary": "El sindicato de actores SAG-AFTRA criticó el lanzamiento de Muse Image, el generador de imágenes con IA de Meta, por permitir que fotos públicas de usuarios de Instagram se usen para crear contenido generado por IA sin consentimiento explícito. La organización exige que Meta adopte un sistema de autorización voluntaria ('opt-in') para este tipo de usos.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/07/10/tu-cuenta-de-instagram-es-publica-meta-puede-usar-tus-fotos-para-entrenar-su-ia-asi-puedes-cambiarlo/",
+    "source": "El Financiero",
+    "published": "2026-07-11T02:49:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
@@ -176,6 +198,17 @@
     "light": true
   },
   {
+    "title": "La UE declara culpable a Meta por \"diseño adictivo\" de Facebook e Instagram",
+    "summary": "La Unión Europea determinó que Meta es responsable de un diseño 'adictivo' en Facebook e Instagram, lo que podría derivar en sanciones regulatorias bajo el marco de protección al consumidor y gobernanza digital del bloque. La decisión se suma a la creciente presión regulatoria europea sobre las grandes plataformas tecnológicas.",
+    "link": "https://expansion.mx/tecnologia/2026/07/10/ue-declara-culpable-meta-diseno-adictivo-facebook-instagram",
+    "source": "Expansión",
+    "published": "2026-07-10T15:00:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Caída del precio del jitomate, huevo y chiles baja la inflación en junio",
     "summary": "La caída en los precios del jitomate, el huevo y los chiles ayudó a moderar la inflación de junio en México, según un podcast de Expansión.",
     "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/10/caida-precio-jitomate-huevo-chiles-baja-inflacion-junio",
@@ -238,6 +271,17 @@
     "published": "2026-07-10T12:28:29+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La IA no vive en el modelo, vive en los sistemas",
+    "summary": "Esta columna de opinión en Expansión sostiene que el valor real de la inteligencia artificial no está en el modelo aislado, sino en su integración dentro de los sistemas y procesos de una organización. El argumento central es que las empresas deben priorizar la implementación sistémica de la IA por encima de la sofisticación del modelo en sí mismo.",
+    "link": "https://expansion.mx/opinion/2026/07/10/la-ia-no-vive-en-el-modelo-vive-en-los-sistemas",
+    "source": "Expansión",
+    "published": "2026-07-10T12:03:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
     "language": "es",
     "light": false
   },
@@ -579,6 +623,17 @@
     "published": "2026-07-10T00:38:18-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Sabes donde está tu Afore? Así puedes localizar tus datos",
+    "summary": "Expansión ofrece una guía práctica para que los trabajadores en México identifiquen en qué Afore está registrada su cuenta de ahorro para el retiro y cómo consultar sus datos personales. La nota busca ayudar a los usuarios a mantener control sobre su ahorro previsional.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/09/como-funciona-afore-saber-donde-esta",
+    "source": "Expansión",
+    "published": "2026-07-10T00:37:21+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -5443,60 +5498,5 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Mexico Central Bank Adds Bond-Buying Tool to Support Liquidity",
-    "summary": "Banxico published new regulations enabling it to purchase local government securities to support money-market liquidity — a preemptive instrument designed to intervene if investors face forced selling of Mexican assets. The measure adds a bond-buying tool to Banxico's toolkit, signaling proactive preparation for potential market stress in the current volatile geopolitical environment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-central-bank-adds-bond-buying-tool-to-support-liquidity",
-    "source": "Bloomberg",
-    "published": "2026-06-29T16:45:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dual Perspectives on AI Investment Costs",
-    "summary": "PSP Growth's Momei Qu outlines two contrasting market views on AI investment: one camp argues massive capital flows reflect genuine business demand, while the other warns that AI infrastructure costs keep rising and raise the burden of proof for continued spending. The debate captures the central dilemma for financial services firms evaluating AI adoption — whether the ROI timeline justifies front-running infrastructure expenditure.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/dual-perspectives-on-ai-investment-costs-video",
-    "source": "Bloomberg",
-    "published": "2026-06-29T16:03:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The rise of vibe lawyering",
-    "summary": "AI tools are encouraging a surge in self-representation in legal proceedings — dubbed \"vibe lawyering\" — as individuals use AI to navigate court systems previously accessible mainly to trained attorneys. While the trend democratizes access to justice, outcomes are mixed, raising questions about the practical limits of AI as a substitute for professional legal expertise.",
-    "link": "https://www.economist.com/business/2026/06/29/the-rise-of-vibe-lawyering",
-    "source": "The Economist",
-    "published": "2026-06-29T15:43:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Corte Suprema de EU invalida el despido de Lisa Cook, gobernadora de la Fed, que ordenó Trump",
-    "summary": "La Corte Suprema de Estados Unidos anuló el despido de Lisa Cook, gobernadora de la Reserva Federal ordenado por el presidente Trump, en una decisión que refuerza la independencia institucional de la Fed frente a presiones del Ejecutivo. El fallo tiene implicaciones importantes para la gobernanza de los bancos centrales en EE.UU. y para la percepción global de la autonomía de la política monetaria estadounidense. La decisión podría estabilizar las expectativas del mercado sobre la trayectoria de tasas de la Fed, reduciendo la prima de riesgo político sobre activos en dólares.",
-    "link": "https://expansion.mx/economia/2026/06/29/corte-suprema-de-eu-invalida-el-despido-de-lisa-cook-gobernadora-de-la-fed-que-ordeno-trump",
-    "source": "Expansión",
-    "published": "2026-06-29T15:11:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ardian Plans to Invest Over €3 Billion in Nordic Data Centers",
-    "summary": "Private equity firm Ardian is committing over €3 billion ($3.4 billion) to data center construction across the Nordic countries, drawn by lower energy costs and abundant land. The investment reflects continued strong institutional appetite for AI computing infrastructure, with the Nordics emerging as a preferred geography for energy-intensive AI workloads despite broader tech sector volatility.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-06-29T15:00:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
   }
 ]
