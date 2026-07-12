@@ -1,5 +1,38 @@
 [
   {
+    "title": "Funds Fret Over $4.4 Trillion AI Trio’s Grip on Emerging Markets",
+    "summary": "Investors are increasingly looking beyond a handful of dominant AI stocks in emerging markets, where just three technology companies worth a combined $4.4 trillion account for an outsized share of index returns. Fund managers are rotating into more diversified EM positions as concerns grow over concentration risk tied to the AI trade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets",
+    "source": "Bloomberg",
+    "published": "2026-07-12T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Founder Control Is Reshaping Public Markets",
+    "summary": "SpaceX's record IPO gave investors access to one of the world's most valuable companies without equal voting rights, since CEO Elon Musk holds roughly 40% of equity but controls more than 80% of the vote. The dual-class structure has become a test case for how much governance control public markets will tolerate from superstar founders, with some investors already rejecting the stock over accountability concerns.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-12/how-founder-control-is-reshaping-public-markets-video",
+    "source": "Bloomberg",
+    "published": "2026-07-12T12:03:18+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Options Brokers With Niche Expertise Defy Automation, AI Shift",
+    "summary": "Even as automation and artificial intelligence reshape equity markets, some specialized options brokers with deep client relationships and niche expertise are continuing to thrive. Their resilience suggests certain trading niches remain difficult for AI-driven platforms to fully replicate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-12/options-brokers-with-niche-expertise-defy-automation-ai-shift",
+    "source": "Bloomberg",
+    "published": "2026-07-12T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
     "summary": "The founder of Chinese AI lab Zhipu argued that frontier AI models should remain broadly accessible rather than controlled by a small number of companies or individuals. His remarks add to the growing debate over how to balance open access with the safety risks posed by increasingly powerful AI systems.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
@@ -44,12 +77,34 @@
     "light": true
   },
   {
+    "title": "China cracks down on top ratings for corporate bonds",
+    "summary": "Chinese regulators are pressuring domestic ratings agencies to limit triple-A designations for higher-interest corporate borrowers, aiming to improve the credibility of the country's bond-rating system. The crackdown could reshape borrowing costs and risk pricing across China's corporate debt market.",
+    "link": "https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8",
+    "source": "Financial Times",
+    "published": "2026-07-12T04:00:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
     "summary": "Kevin Warsh is set to make his first congressional appearance as Federal Reserve chairman, testifying over two days alongside newly released US inflation data. Lawmakers are expected to press him on how the data will shape the Fed's next interest-rate decisions.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
     "source": "Bloomberg",
     "published": "2026-07-11T20:00:00+00:00",
     "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banks’ Record Bond Short Sparks Quest for Answers",
+    "summary": "For the first time in recent history, primary dealers have gone net short on government debt they traditionally held in large volumes, prompting analysts to search for explanations. The unusual positioning highlights shifting dynamics in the bond market as banks recalibrate their exposure to rate and credit risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-07-11T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 63,
     "language": "en",
     "light": true
@@ -75,6 +130,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Matita-Perê House / Matéria Base",
+    "summary": "Nestled in Brazil's Mantiqueira Mountains, this house was designed as a transitional retreat between urban routine and rural life, taking shape as an extension of the surrounding earth and landscape. The project reflects a broader interest in architecture that responds directly to mountainous terrain and remote siting.",
+    "link": "https://www.archdaily.com/1041951/matita-pere-house-materia-base",
+    "source": "ArchDaily",
+    "published": "2026-07-11T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "La ciudad con la vivienda más cara del país... también tiene enormes diferencias entre alcaldías",
@@ -209,6 +275,17 @@
     "light": true
   },
   {
+    "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+    "summary": "SK Hynix pulled off the largest-ever US listing by a foreign company, with shares surging 13% on their Nasdaq debut, in a bet that AI-driven memory demand will break the industry's traditional boom-and-bust cycle. The offering underscores investor appetite for direct exposure to companies at the center of the AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+    "source": "Bloomberg",
+    "published": "2026-07-10T21:52:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 69,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US relaxes export controls on advanced chips and drones for UAE",
     "summary": "The Financial Times reports that the US is easing export controls on advanced chips and drones for the United Arab Emirates, giving the Gulf state access to more sophisticated American AI-related technology. The move marks a shift in Washington's approach to balancing AI-chip export restrictions with strengthening ties to Gulf allies.",
     "link": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
@@ -242,6 +319,17 @@
     "light": false
   },
   {
+    "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+    "summary": "Apple sued OpenAI, accusing the AI company and its hardware chief of orchestrating a campaign to steal trade secrets about Apple's upcoming products via former employees. The case underscores an intensifying battle between the two companies over AI talent and hardware ambitions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+    "source": "Bloomberg",
+    "published": "2026-07-10T20:30:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Hasta 50% de las juntas en el trabajo son improductivas: cómo implementar un día sin juntas correctamente",
     "summary": "Expansión señala que hasta 50% de las juntas de trabajo son improductivas y ofrece recomendaciones para implementar correctamente un día sin reuniones dentro de las organizaciones.",
     "link": "https://expansion.mx/carrera/2026/07/10/juntas-en-trabajo-son-burocracia-cotidiana",
@@ -251,6 +339,17 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Lumen Completes Acquisition of Cloud Networking Firm Alkira",
+    "summary": "Lumen completed its acquisition of Alkira, a cloud-native networking company that helps enterprises manage connectivity across cloud, data center and edge environments through a single control plane. Lumen's CFO discussed the deal's strategic rationale in an interview with Bloomberg.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/lumen-completes-acquisition-alkira-video",
+    "source": "Bloomberg",
+    "published": "2026-07-10T19:17:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
@@ -5397,105 +5496,6 @@
     "published": "2026-06-30T04:00:18+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Is AI an exoskeleton for the mind?",
-    "summary": "The article explores how AI, like physical exoskeletons that help people perform tasks beyond their normal limits, augments cognitive capabilities but raises concerns about potential atrophy of underlying skills when the technology is removed. It draws parallels to how prior assistive technologies changed human abilities over time and questions whether AI dependency could weaken the very mental faculties it augments. The piece frames AI adoption as a trade-off between near-term capability enhancement and long-term cognitive resilience.",
-    "link": "https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The great wealth transfer rattling Wall Street",
-    "summary": "Tens of trillions of dollars are shifting between generations in the largest intergenerational wealth transfer in history, disrupting traditional wealth management relationships as younger heirs show little loyalty to their parents' financial advisers. Wealth managers are scrambling to adapt their services, digital interfaces, and communication styles to retain assets through the transition. The transfer is creating unprecedented opportunity and disruption across private banking, trust, and advisory businesses globally.",
-    "link": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Elliott's acolytes: how Paul Singer's hedge fund became a spinout factory",
-    "summary": "The Financial Times profiles how Paul Singer's Elliott Management has spawned a wave of spinout hedge funds, echoing the way Julian Robertson's Tiger Management produced the \"Tiger cubs.\" The piece examines this new generation of activist and event-driven investors.",
-    "link": "https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private equity fund investors turn to debt-like deals in downturn",
-    "summary": "PE fund investors agreed to $9 billion in alternative debt-like transactions in 2025, up from $6 billion in 2024, as backers of buyout funds seek more predictable returns amid a tougher exit environment. This shift toward hybrid debt-equity structures reflects broader repricing of illiquidity risk in private markets, with implications for financial services M&A valuations and deal structures.",
-    "link": "https://www.ft.com/content/4675b8bb-4047-458a-be01-90c2aff29219",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Building Forward: How Vernacular Knowledge Is Shaping Contemporary Architecture",
-    "summary": "Contemporary architects are revisiting vernacular building traditions—earth walls, bamboo structures, shaded thresholds, collective construction processes—not as aesthetic references but as practical tools for conditions shaped by climate change, resource constraints, and community needs. This approach treats indigenous building knowledge as an active toolkit rather than a historical legacy, resonating with high-end residential and mountain home design seeking authenticity and sustainability.",
-    "link": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
-    "source": "ArchDaily",
-    "published": "2026-06-30T04:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Businesses face up to budget-busting AI bills",
-    "summary": "Enterprises are confronting unexpectedly large and volatile AI costs as vendors shift to usage-based pricing models and release more powerful but more expensive models, forcing companies to rethink AI spending strategies. CFOs who budgeted for AI as a fixed-cost transformation investment are now building cost governance frameworks and tiering models by task complexity to manage expenses. The shift is accelerating conversations about AI ROI discipline and whether near-term productivity gains justify rapidly expanding bills.",
-    "link": "https://www.ft.com/content/811247b5-c42d-4bf5-8bfd-c73d85f70293",
-    "source": "Financial Times",
-    "published": "2026-06-30T03:30:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EY staff charged with accessing Australian prime minister's bank details",
-    "summary": "Two EY employees aged 21 and 25, while on secondment to Australia's largest lender, were charged with illegally accessing the Australian Prime Minister's personal banking information. The case highlights insider threat risks and governance gaps in financial institutions when hosting third-party consultants with elevated data access. It is expected to prompt tighter access controls, segregation of privileged data, and audit procedures at major banks globally.",
-    "link": "https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a",
-    "source": "Financial Times",
-    "published": "2026-06-30T02:16:52+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "StanChart Former AI Chief Joins Accenture as Southeast Asia Head",
-    "summary": "David Hardoon, Standard Chartered's former global head of AI enablement, has joined Accenture as managing director and head of advanced AI for Southeast Asia, reflecting intensifying competition among professional services firms and banks for AI talent with deep financial-sector experience. The move signals Accenture's push to capture AI transformation mandates across Southeast Asian financial institutions. Hardoon's profile — bridging banking operations and enterprise AI at scale — is increasingly in demand as banks race to deploy AI across credit, compliance, and customer service.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/stanchart-former-ai-chief-joins-accenture-as-southeast-asia-head",
-    "source": "Bloomberg",
-    "published": "2026-06-30T01:33:48+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "South Korea to Speed Nuclear Push to Meet Surging Power Demand",
-    "summary": "South Korea's government is exploring ways to accelerate nuclear power plant construction timelines as surging AI-driven electricity demand from data centers strains the national grid, positioning nuclear as the backbone of its AI infrastructure strategy. The policy shift reflects a broader global reckoning with the energy requirements of large-scale AI computing and the limitations of intermittent renewable sources for continuous data center loads. South Korea's experience could serve as a model for other AI-heavy economies grappling with power constraints.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand",
-    "source": "Bloomberg",
-    "published": "2026-06-30T01:30:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
     "language": "en",
     "light": true
   }
