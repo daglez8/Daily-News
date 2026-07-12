@@ -1,5 +1,126 @@
 [
   {
+    "title": "La IA no está destruyendo empleos: OCDE descarta una caída generalizada del trabajo",
+    "summary": "La OCDE reporta que el desempleo en sus países miembro se mantiene cerca de mínimos históricos (4.9%) y que no hay indicios de que la mayor adopción de IA por las empresas esté reduciendo de forma generalizada la demanda de mano de obra. El secretario general Mathias Cormann señaló que la IA está transformando las competencias que buscan las empresas más que eliminando empleos, aunque persisten retos para la incorporación laboral de los jóvenes.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ia-destruyendo-empleos-ocde-descarta-caida-generalizada-trabajo-20260712-822811.html",
+    "source": "El Economista",
+    "published": "2026-07-12T18:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Demographic Shift Tests AI Promise",
+    "summary": "Martha Gimbel of Yale's Budget Lab argues AI is unlikely to offset the economic challenges of an aging population, since the US faces two major transitions simultaneously rather than one solving the other. She sees AI improving productivity in some caregiving tasks but questions consumer acceptance of automation where human interaction matters most.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-12/demographic-shift-tests-ai-promise-video",
+    "source": "Bloomberg",
+    "published": "2026-07-12T17:20:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Storm clouds gather over America's financial supremacy",
+    "summary": "The Economist warns that risks to US financial dominance are mounting, with American payments firms flagged as potentially the first casualties of the shift. The piece frames this as an early signal of broader structural change in global financial leadership.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+    "source": "The Economist",
+    "published": "2026-07-12T17:05:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Toyota y el traslado de producción a EU: 6 claves que resumen qué pasará con sus plantas en México",
+    "summary": "Toyota anunció que transferirá parte de su producción en México a Estados Unidos, tras la falta de renovación del T-MEC en su forma actual, aunque la automotriz japonesa lo enmarca como una reestructuración global. Sus dos plantas en Tijuana y Apaseo el Grande generan cerca de 5,000 empleos directos y fabrican la pick-up Tacoma, por lo que la decisión genera incertidumbre sobre el futuro de la industria automotriz mexicana.",
+    "link": "https://www.eleconomista.com.mx/empresas/toyota-traslado-produccion-eu-6-claves-resumen-pasara-plantas-mexico-20260712-822756.html",
+    "source": "El Economista",
+    "published": "2026-07-12T17:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La tokenización puede transformar la arquitectura del sistema financiero mundial, según el FMI",
+    "summary": "El FMI advierte que la tokenización de activos financieros va más allá de una mejora tecnológica: al mover activos y pasivos a registros digitales compartidos, procesos hoy secuenciales como ejecución, compensación y liquidación podrían realizarse simultáneamente. Según Tobias Adrian, las decisiones regulatorias que se tomen ahora determinarán si esto fortalece o fragmenta el sistema financiero global.",
+    "link": "https://www.bloomberglinea.com/economia/la-tokenizacion-puede-transformar-la-arquitectura-del-sistema-financiero-mundial-segun-el-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-12T15:40:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Banks Set Up Strong Earnings Week",
+    "summary": "Bloomberg Intelligence expects major US banks to post strong earnings driven by trading, investment banking and resilient lending, with investors watching consumer health, credit quality, net interest margins and AI-related financing activity.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-12/big-banks-set-up-strong-earnings-week-video",
+    "source": "Bloomberg",
+    "published": "2026-07-12T15:28:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cómo impacta el régimen matrimonial en la compra, venta y propiedad de los inmuebles?",
+    "summary": "El régimen patrimonial elegido al casarse —sociedad conyugal o separación de bienes— determina cómo una pareja adquiere, administra y dispone de sus inmuebles en México, con efectos directos sobre créditos hipotecarios, compraventas y divorcios. Especialistas de Kallify explican las diferencias clave entre ambos esquemas para proteger el patrimonio inmobiliario familiar.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/impacta-regimen-matrimonial-compra-venta-propiedad-inmuebles-20260712-822553.html",
+    "source": "El Economista",
+    "published": "2026-07-12T15:10:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ChatGPT Work: claves del nuevo agente de IA de OpenAI para el trabajo",
+    "summary": "OpenAI lanzó ChatGPT Work, un agente basado en GPT-5.6 diseñado para ejecutar proyectos completos —documentos, hojas de cálculo, presentaciones y análisis— integrando información de aplicaciones y flujos de trabajo con menor intervención del usuario. El agente puede reunir contexto y proponer un plan paso a paso antes de ejecutar tareas, intensificando la competencia con Anthropic y otros por el mercado de productividad impulsada por IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/chatgpt-work-claves-nuevo-agente-ia-openai-trabajo-20260712-822806.html",
+    "source": "El Economista",
+    "published": "2026-07-12T15:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
+    "summary": "Three major AI developers released new models within the same week, each promising greater capability. Bloomberg notes their strongest immediate selling point may be aggressive pricing rather than raw performance, intensifying cost competition in enterprise AI adoption.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+    "source": "Bloomberg",
+    "published": "2026-07-12T14:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Una guía para invertir en el semestre: cinco apuestas para navegar la segunda mitad del año",
+    "summary": "Firmas internacionales de análisis coinciden en que la volatilidad seguirá marcando los mercados en el segundo semestre de 2026, pero no justifica una retirada hacia posiciones defensivas. Los inversionistas están rotando hacia activos que se benefician de cambios estructurales en política monetaria, inteligencia artificial y reorganización del comercio mundial, tras un primer semestre marcado por el conflicto Estados Unidos-Irán.",
+    "link": "https://www.bloomberglinea.com/mercados/una-guia-para-invertir-en-el-semestre-cinco-apuestas-para-navegar-la-segunda-mitad-del-ano/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-12T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu ya es banco: clientes pierden beneficio fiscal, pero ganan productos",
+    "summary": "Nu obtuvo su licencia bancaria en México, un cambio que implica que sus clientes pierdan cierto beneficio fiscal asociado a su esquema anterior, a cambio de acceso a nuevos productos financieros. La conversión marca un paso relevante para el fintech brasileño en su competencia con la banca tradicional mexicana.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/12/nu-ya-es-banco-clientes-pierden-beneficio-fiscal-pero-ganan-productos",
+    "source": "Expansión",
+    "published": "2026-07-12T13:48:29+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Funds Fret Over $4.4 Trillion AI Trio’s Grip on Emerging Markets",
     "summary": "Investors are increasingly looking beyond a handful of dominant AI stocks in emerging markets, where just three technology companies worth a combined $4.4 trillion account for an outsized share of index returns. Fund managers are rotating into more diversified EM positions as concerns grow over concentration risk tied to the AI trade.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets",
@@ -42,6 +163,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Los nombramientos del grupo de trabajo de la Reserva Federal aportan credibilidad",
+    "summary": "Los asesores externos designados por el presidente de la Fed, Kevin Warsh, para liderar cinco nuevos grupos de trabajo aportan credibilidad a su esfuerzo por replantear la comunicación y aplicación de la política monetaria, según economistas consultados. Cualquier recomendación que surja de estos grupos, previstos para fin de año, requerirá la aprobación del FOMC.",
+    "link": "https://www.bloomberglinea.com/actualidad/los-nombramientos-del-grupo-de-trabajo-de-la-reserva-federal-aportan-credibilidad/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-12T05:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Dónde ‘se fabrica’ la inteligencia artificial",
@@ -350,6 +482,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Inversiones en Perú: cuál es la estrategia de Deutsche Bank en renta fija en el país",
+    "summary": "Deutsche Bank recomendó posicionarse en bonos soberanos peruanos a 2034, anticipando un aplanamiento de la curva de rendimientos ante la expectativa de que el Banco Central de Reserva de Perú mantenga su tasa de referencia en 4.25% por un período prolongado. El banco alemán coincide en que el repunte inflacionario es transitorio, aunque advierte riesgos si El Niño y presiones globales elevan las expectativas de inflación.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/peru/inversiones-en-peru-cual-es-la-estrategia-de-deutsche-bank-en-renta-fija-en-el-pais/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-10T19:08:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
@@ -5355,148 +5498,5 @@
     "relevance_score": 72,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "AI Notetakers in Meetings Raise Mounting Privacy Concerns",
-    "summary": "AI-powered meeting notetakers are generating significant privacy and governance concerns as they frequently join corporate meetings without explicit consent, recording conversations across organizational boundaries. Executives and legal teams are grappling with policies around data retention, cross-border privacy rules, and liability when AI tools capture sensitive financial or strategic discussions.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/ai-meeting-notetakers-spark-privacy-concerns-recording-you-without-consent",
-    "source": "Bloomberg",
-    "published": "2026-06-30T10:30:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IMF: Cyberattacks Getting Faster",
-    "summary": "IMF's Tobias Adrian warned that the time between discovering a software vulnerability and its exploitation by malicious actors is shrinking rapidly, posing a mounting systemic threat to financial sector stability. Speaking at the ECB Forum in Sintra, he highlighted accelerating cyberattack cycles as a critical risk for financial institutions globally, with implications for model risk and operational resilience frameworks.",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/imf-cyberattacks-getting-faster-video",
-    "source": "Bloomberg",
-    "published": "2026-06-30T10:03:54+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lee’s $880 Billion AI Bet Ties Legacy to Korea’s Chip Boom",
-    "summary": "South Korean President Lee Jae Myung is staking his political legacy on an $880 billion push to turn the country's less-developed southwest into a global chip hub, building on Korea's status as a major AI-boom winner. The plan ties national industrial strategy directly to the AI and semiconductor race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/lee-s-880-billion-ai-bet-ties-legacy-to-south-korea-chip-boom",
-    "source": "Bloomberg",
-    "published": "2026-06-30T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Weak Hiring Is Hurting Young Workers More than AI, Study Says",
-    "summary": "A Federal Reserve Bank of St. Louis study found that weak job market demand—not lack of AI skills—is the primary driver of youth unemployment in the US, challenging the narrative that AI displacement is the main cause of young workers' difficulties. The finding has important implications for workforce transformation strategies: companies investing in AI upskilling programs may be addressing a secondary problem while the primary issue is structural labor demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/weak-hiring-is-hurting-young-workers-more-than-ai-study-says",
-    "source": "Bloomberg",
-    "published": "2026-06-30T09:30:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
-    "summary": "SAP is centralizing AI product and engineering strategy under its CEO and COO in its second major reshuffle this year, as Europe's largest software company races to stay competitive against AI-native rivals. The reorganization illustrates how established enterprise software leaders are reconfiguring management structures—not just products—to respond to the pace of AI competition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-    "source": "Bloomberg",
-    "published": "2026-06-30T09:24:10+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What the Saga Over Anthropic's Mythos Tells Us About the Cyber Risks From AI",
-    "summary": "Anthropic's Mythos AI model is reportedly so capable at finding software vulnerabilities that the company has restricted its release to only 200 partner organizations, citing risks of enabling sophisticated cyberattacks on critical infrastructure. The saga highlights a core tension in frontier AI: models powerful enough to defend against cyberattacks are equally powerful as offensive tools, raising urgent questions about access controls and model risk governance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-    "source": "Bloomberg",
-    "published": "2026-06-30T08:52:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anunciaría EU el miércoles que no prorrogará el T-MEC",
-    "summary": "El gobierno de Estados Unidos anunciaría este miércoles que no prorrogará el T-MEC, lo que marcaría el inicio de un plazo de 10 años para su potencial disolución.",
-    "link": "https://www.reforma.com/anunciaria-eu-el-miercoles-que-no-prorrogara-el-t-mec/ar3231836",
-    "source": "Reforma",
-    "published": "2026-06-30T08:02:58-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La inteligencia artificial como aceleradora en la construcción de vivienda",
-    "summary": "La inteligencia artificial está transformando la construcción de vivienda desde la planeación y permisos hasta la venta, con el 77% de los recursos invertidos en tecnología constructiva en 2025 dirigidos a soluciones de IA, según el reporte Top 50 ConTech Startups 2026 de Cemex Ventures. Ciudades, naciones y empresas han comenzado a usar IA para reducir obstáculos regulatorios, acelerar tiempos de desarrollo y ampliar la oferta habitacional asequible, con implicaciones directas para el financiamiento hipotecario en México.",
-    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-aceleradora-construccion-vivienda-20260630-820935.html",
-    "source": "El Economista",
-    "published": "2026-06-30T07:50:19+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Por qué el foco fintech de MercadoLibre será clave como ventaja competitiva, según analistas",
-    "summary": "El negocio fintech de MercadoLibre (Mercado Pago y Mercado Crédito) crecerá más de 30% en 2026 y ya genera más del 60% del volumen de pagos fuera de su propia plataforma, consolidándose como ventaja competitiva estructural. El take rate del 4.6% tiene margen de expansión a través de mayores comisiones y crédito al consumo, según Bloomberg Intelligence. El margen financiero neto cayó 490 pb en el primer trimestre por mayor peso de tarjetas de crédito, aunque los analistas ven esto como una transición, no un deterioro.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/por-que-el-foco-fintech-de-mercadolibre-sera-clave-como-ventaja-competitiva-segun-analistas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-06-30T06:41:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 73,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Studio Gang and Henning Larsen Complete One Milestone Life Science Campus in Boston",
-    "summary": "International firms Studio Gang and Henning Larsen completed the first phase of the Enterprise Research Campus in Boston's Allston neighborhood, a 47,380 sqm mixed-use district designed as a hub for science, creativity, and entrepreneurship. The project represents a new model for urban life-science campuses integrating research, innovation, and community programming in a major university city.",
-    "link": "https://www.archdaily.com/1042862/studio-gang-and-henning-larsen-complete-one-milestone-life-science-campus-in-boston",
-    "source": "ArchDaily",
-    "published": "2026-06-30T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "What would multilateral 'AI arms control' look like?",
-    "summary": "The article examines whether a US-China agreement on AI safety is achievable given intense geopolitical competition, exploring possible frameworks for multilateral AI governance modeled on nuclear arms control treaties. It debates the feasibility of verification mechanisms and what constraints would be binding given the asymmetry in AI development between the two powers. The piece is broadly skeptical that any meaningful deal is near given the strategic stakes for both sides.",
-    "link": "https://www.ft.com/content/7aa4b53d-2e07-4971-9e30-8b0c63eb4ff2",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Heavy corporate AI spenders add staff faster than peers",
-    "summary": "A study of 22,000 US companies found that firms investing heavily in generative AI are actually hiring employees faster than industry peers, directly challenging widespread fears of AI-driven broad job displacement. The findings suggest early AI adopters are using the technology to grow and expand capacity rather than cut headcount, at least in this initial phase. The research has significant implications for workforce strategy and the organizational transformation narrative around AI adoption.",
-    "link": "https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:18+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
-    "summary": "A major rotation in US equity markets saw investors shift out of Magnificent Seven mega-caps, wiping $2.3 trillion in combined market value, and into chipmakers directly benefiting from hyperscalers' massive AI infrastructure spending. The rotation reflects a repricing of which companies most directly capture value from the AI buildout — with picks-and-shovels chip suppliers surging as platform companies pulled back. The shift signals growing investor sophistication about the distribution of AI economics across the supply chain.",
-    "link": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
-    "source": "Financial Times",
-    "published": "2026-06-30T04:00:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
   }
 ]
