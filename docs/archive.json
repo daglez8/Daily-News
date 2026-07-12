@@ -1,5 +1,60 @@
 [
   {
+    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+    "summary": "The founder of Chinese AI lab Zhipu argued that frontier AI models should remain broadly accessible rather than controlled by a small number of companies or individuals. His remarks add to the growing debate over how to balance open access with the safety risks posed by increasingly powerful AI systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "source": "Bloomberg",
+    "published": "2026-07-12T06:59:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dónde ‘se fabrica’ la inteligencia artificial",
+    "summary": "México se consolidó como pieza clave de la infraestructura global de la inteligencia artificial, liderado por Ciudad Juárez y Guadalajara. Las exportaciones de servidores para centros de datos crecieron 144.8% en 2025 hasta 85,416 millones de dólares, y ya representan cerca del 21.5% de las exportaciones totales del país entre enero y abril de 2026, impulsadas por inversiones multimillonarias de empresas globales.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/07/11/donde-se-fabrica-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-07-12T04:47:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech to face fines for consumer protection failures, says EU official",
+    "summary": "EU Justice Commissioner Michael McGrath said Brussels wants to strengthen social media safeguards and warned that Big Tech companies could face fines for consumer protection failures. The comments signal tighter regulatory scrutiny of major tech platforms operating in Europe.",
+    "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+    "source": "Financial Times",
+    "published": "2026-07-12T04:00:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "It pays to kiss up and kick down",
+    "summary": "New research explores workplace dynamics in which employees curry favor with superiors while treating colleagues poorly, arguing this behavior pays off less than the worst offenders assume. The findings touch on incentive structures and management culture shaping organizational behavior.",
+    "link": "https://www.ft.com/content/719ce75b-dd30-4c98-ab48-a296188dfb8f",
+    "source": "Financial Times",
+    "published": "2026-07-12T04:00:06+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+    "summary": "Kevin Warsh is set to make his first congressional appearance as Federal Reserve chairman, testifying over two days alongside newly released US inflation data. Lawmakers are expected to press him on how the data will shape the Fed's next interest-rate decisions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
+    "source": "Bloomberg",
+    "published": "2026-07-11T20:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Meta planea vender servicios de nube y se dispara 7% en Wall Street",
     "summary": "Meta Platforms anunció planes para comenzar a vender servicios de cómputo en la nube, aprovechando su infraestructura de inteligencia artificial. La noticia impulsó un alza de 7% en sus acciones en Wall Street.",
     "link": "https://expansion.mx/tecnologia/2026/07/11/meta-vender-servicios-nube-acciones-se-disparan",
@@ -5443,60 +5498,5 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Jalisco ve riesgos y oportunidades en revisión del T-MEC",
-    "summary": "Con la revisión formal del T-MEC iniciándose el 1 de julio, Jalisco enfrenta riesgos en reglas de origen automotrices y sectores laborales y agroindustriales, pero también oportunidades para fortalecer su integración regional, dado que exportó más de 52,000 millones de dólares en 2025. El proceso de revisión podría extenderse hasta 2027, aunque se esperan acuerdos sectoriales en el segundo semestre de 2026. La revisión es clave para el entorno de negocios y la inversión productiva en el estado con mayor exposición a las cadenas de valor norteamericanas.",
-    "link": "https://www.eleconomista.com.mx/estados/jalisco-ve-riesgos-oportunidades-revision-t-mec-20260630-820915.html",
-    "source": "El Economista",
-    "published": "2026-06-30T00:16:51-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 67,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Aprendiendo de los fondos soberanos de inversión adecuados",
-    "summary": "Los fondos soberanos del Golfo Pérsico, que controlan ~6 billones de dólares en activos, han evolucionado de simples vehículos de inversión a herramientas de política exterior e inversión estratégica en IA, logística y renovables. El artículo examina si Latinoamérica podría adoptar modelos similares, contextualizando las iniciativas recientes de Canadá y EE.UU. de crear sus propios fondos soberanos. El análisis es relevante para el debate sobre canalización de capital institucional hacia infraestructura digital y energética en la región.",
-    "link": "https://www.eleconomista.com.mx/opinion/aprendiendo-fondos-soberanos-inversion-adecuados-20260630-820913.html",
-    "source": "El Economista",
-    "published": "2026-06-30T00:06:28-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Presidentes de EU y Canadá perfilan conversación sobre el T-MEC",
-    "summary": "Trump y Carney se aproximan a una reunión bilateral para abordar la revisión del T-MEC, con posturas aún distantes sobre si prolongar el tratado por 16 años o mantener revisiones anuales. El embajador estadounidense en Canadá indicó que ambos países están cercanos a un marco o acuerdo provisional. Los tres países definirán el 1 de julio sus respectivas posturas sobre el horizonte de reautorización del acuerdo comercial.",
-    "link": "https://www.eleconomista.com.mx/empresas/presidentes-eu-canada-perfilan-conversacion-sobre-t-mec-20260629-820910.html",
-    "source": "El Economista",
-    "published": "2026-06-29T23:43:02-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Caja chica del gobierno?: no, Banxico",
-    "summary": "Banco de México aclaró mediante comunicado oficial que las recientes modificaciones a sus facultades de compra de deuda gubernamental en el mercado secundario no constituyen un programa de Quantitative Easing ni de control de la curva de rendimientos, desmintiendo especulaciones sobre su independencia. El banco enfatizó que cualquier compra dependerá de condiciones de liquidez del mercado, no de necesidades de financiamiento del Ejecutivo. La aclaración llega en un contexto de mayor escrutinio sobre la calificación crediticia de México y la relación entre el banco central y el gobierno federal.",
-    "link": "https://www.eleconomista.com.mx/opinion/caja-chica-gobierno-banxico-20260629-820909.html",
-    "source": "El Economista",
-    "published": "2026-06-29T23:39:52-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sabadell ve crédito en energía y hoteles tras colocar 4,000 mdp",
-    "summary": "Banco Sabadell México colocó exitosamente 4,000 millones de pesos en el mercado y anuncia que su estrategia de crédito corporativo se enfocará en los sectores de energía y hotelería, dos de los segmentos con mayor dinamismo de inversión en el país. La colocación refleja el apetito de la banca internacional por el mercado de financiamiento corporativo en México. El banco busca capitalizar el crecimiento en infraestructura energética y el auge del turismo como motor de demanda crediticia empresarial.",
-    "link": "https://expansion.mx/economia/2026/06/29/sabadell-pidio-4000-mdp-mexico-va-por-energia-hoteles",
-    "source": "Expansión",
-    "published": "2026-06-29T21:54:56+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
   }
 ]

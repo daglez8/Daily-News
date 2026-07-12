@@ -1,24 +1,68 @@
 [
   {
-    "title": "How AI rebrands fail to deliver a lasting share price boost",
-    "summary": "Un análisis del FT encontró que la mayoría de las empresas que giraron su marca hacia la IA no han logrado sostener las ganancias de valuación que siguieron a ese pivote. El hallazgo cuestiona si el reposicionamiento en torno a la IA se traduce en valor de mercado duradero.",
-    "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-    "source": "Financial Times",
-    "published": "2026-07-11T15:41:24+00:00",
+    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+    "summary": "The founder of Chinese AI lab Zhipu argued that frontier AI models should remain broadly accessible rather than controlled by a small number of companies or individuals. His remarks add to the growing debate over how to balance open access with the safety risks posed by increasingly powerful AI systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "source": "Bloomberg",
+    "published": "2026-07-12T06:59:51+00:00",
     "category": "AI & Agents",
-    "relevance_score": 68,
+    "relevance_score": 76,
     "language": "en",
     "light": true
   },
   {
-    "title": "La ciudad con la vivienda más cara del país... también tiene enormes diferencias entre alcaldías",
-    "summary": "La Ciudad de México se consolidó en junio de 2026 como la entidad con el precio promedio de vivienda más alto del país, según el Índice Banorte de Precios de Vivienda (Inbaprevi), con un metro cuadrado promedio de 58,257 pesos. El indicador esconde diferencias de hasta 3.8 veces entre alcaldías, como Cuauhtémoc y Tláhuac.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/ciudad-vivienda-cara-pais-enormes-diferencias-alcaldias-20260711-822539.html",
-    "source": "El Economista",
-    "published": "2026-07-11T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
+    "title": "Dónde ‘se fabrica’ la inteligencia artificial",
+    "summary": "México se consolidó como pieza clave de la infraestructura global de la inteligencia artificial, liderado por Ciudad Juárez y Guadalajara. Las exportaciones de servidores para centros de datos crecieron 144.8% en 2025 hasta 85,416 millones de dólares, y ya representan cerca del 21.5% de las exportaciones totales del país entre enero y abril de 2026, impulsadas por inversiones multimillonarias de empresas globales.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/07/11/donde-se-fabrica-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-07-12T04:47:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech to face fines for consumer protection failures, says EU official",
+    "summary": "EU Justice Commissioner Michael McGrath said Brussels wants to strengthen social media safeguards and warned that Big Tech companies could face fines for consumer protection failures. The comments signal tighter regulatory scrutiny of major tech platforms operating in Europe.",
+    "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+    "source": "Financial Times",
+    "published": "2026-07-12T04:00:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "It pays to kiss up and kick down",
+    "summary": "New research explores workplace dynamics in which employees curry favor with superiors while treating colleagues poorly, arguing this behavior pays off less than the worst offenders assume. The findings touch on incentive structures and management culture shaping organizational behavior.",
+    "link": "https://www.ft.com/content/719ce75b-dd30-4c98-ab48-a296188dfb8f",
+    "source": "Financial Times",
+    "published": "2026-07-12T04:00:06+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+    "summary": "Kevin Warsh is set to make his first congressional appearance as Federal Reserve chairman, testifying over two days alongside newly released US inflation data. Lawmakers are expected to press him on how the data will shape the Fed's next interest-rate decisions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
+    "source": "Bloomberg",
+    "published": "2026-07-11T20:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+    "summary": "The Andes mountain range spans vastly different climates and ecosystems across Ecuador, Peru, Bolivia, Colombia, and Chile, from páramos to snow-covered highlands. Architects working in these regions must adapt to shifting altitude, temperature, and terrain, producing distinct building strategies for each microclimate.",
+    "link": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+    "source": "ArchDaily",
+    "published": "2026-07-11T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
     "light": false
   },
   {
@@ -99,17 +143,6 @@
     "light": false
   },
   {
-    "title": "Velas Resorts lidera los premios Travelers’ Choice 2026 de TripAdvisor",
-    "summary": "Velas Resorts lideró los premios Travelers' Choice 2026 de TripAdvisor, destacando entre los resorts de lujo mejor calificados por los viajeros en esta edición.",
-    "link": "https://expansion.mx/bespoke-ad/2026/07/10/velas-resorts-lidera-los-premios-travelers-choice-2026-de-tripadvisor",
-    "source": "Expansión",
-    "published": "2026-07-10T18:51:33+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
     "title": "SK Hynix ADRs Surge After Record $26.5 Billion US Offering",
     "summary": "Los ADR de SK Hynix subieron por encima de su precio de oferta después de que la fabricante surcoreana de memoria recaudara 26,500 millones de dólares en la mayor colocación en EU por una empresa extranjera, abriendo 14% arriba en Nasdaq. El debut confirma el fuerte apetito de los inversionistas por exposición directa a la demanda de memoria impulsada por la IA, pese a la reciente volatilidad del sector.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
@@ -117,6 +150,17 @@
     "published": "2026-07-10T16:35:58+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy advanced semiconductors and other technology needed to build out its AI ambitions. The move marks a shift in US policy on AI-chip trade with Gulf allies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "source": "Bloomberg",
+    "published": "2026-07-10T16:21:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -130,16 +174,5 @@
     "relevance_score": 93,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
-    "summary": "Tencent está en pláticas para convertirse en el mayor accionista externo de Manus, en un acuerdo para recomprar a la pionera de IA agéntica luego de que reguladores chinos bloquearan la adquisición previa por parte de Meta. El movimiento refleja la disputa entre gigantes tecnológicos chinos por capacidades de agentes de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
-    "source": "Bloomberg",
-    "published": "2026-07-10T03:06:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
   }
 ]
