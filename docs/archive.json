@@ -1,5 +1,60 @@
 [
   {
+    "title": "Palantir Co-Founder Joe Lonsdale on the AI Investment Boom",
+    "summary": "8VC managing partner and Palantir co-founder Joe Lonsdale discussed the AI investment boom in a Bloomberg TV interview, highlighting the firm's record $1.5 billion fund and increasingly large startup funding rounds. He also outlined where he sees the next wave of opportunity in defense tech and AI companies.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/palantir-co-founder-lonsdale-on-the-ai-investment-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-07-13T18:34:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Apple’s Lawsuit Could Disrupt OpenAI’s Bid to Rival the iPhone",
+    "summary": "Apple has filed a lawsuit accusing OpenAI of systematically stealing its intellectual property, a case that threatens to disrupt OpenAI's ambitions to build a rival device to the iPhone long before it is resolved. The dispute adds a new front to the intensifying AI rivalry between the two companies.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/apple-s-lawsuit-could-disrupt-openai-bid-to-rival-iphone-video",
+    "source": "Bloomberg",
+    "published": "2026-07-13T18:32:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Economistas y premios Nobel piden crear nuevas políticas ante el impacto económico de la IA",
+    "summary": "Un grupo de economistas y premios Nobel pidió la creación de nuevas políticas públicas para atender el impacto económico de la inteligencia artificial. El llamado surge ante la creciente preocupación por los efectos de la IA en el empleo y la economía global.",
+    "link": "https://expansion.mx/tecnologia/2026/07/13/premios-nobel-piden-crear-politicas-impacto-economico-ia",
+    "source": "Expansión",
+    "published": "2026-07-13T17:16:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "More Than 200 Experts Urge Action to Steer AI for Society’s Good",
+    "summary": "More than 200 economists and AI researchers signed a call for stronger study and oversight of artificial intelligence, warning the technology could become ‘radically more powerful’ within a decade. They urged policymakers to steer its development in a human-friendly direction before risks compound.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/more-than-200-experts-urge-action-to-steer-ai-for-society-s-good",
+    "source": "Bloomberg",
+    "published": "2026-07-13T15:57:55+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lazard's Bilicic Sees 'Tremendous' Demand for AI Data Center Power",
+    "summary": "Lazard's global head of power, energy and infrastructure George Bilicic said the industry remains far from solving surging energy demand from AI data centers. He expects the shortfall to keep pushing natural gas prices higher.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/lazard-s-bilicic-sees-tremendous-demand-for-ai-power-video",
+    "source": "Bloomberg",
+    "published": "2026-07-13T15:27:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Global tech stocks fall as Asian memory chipmakers hammered",
     "summary": "Global tech stocks dropped as Asian memory chipmakers were hit hard, part of a broader risk-off move as oil jumped on escalating US-Iran hostilities. The selloff highlights how exposed global equity markets have become to swings in AI-related chip demand.",
     "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
@@ -51,6 +106,17 @@
     "published": "2026-07-13T12:03:11+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
+    "summary": "Intel is investing €5 billion ($5.7 billion) to expand its manufacturing hub in Ireland as it seeks to regain its footing in AI chip manufacturing. The move underscores the scale of capital chipmakers are committing to capture AI-driven demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race",
+    "source": "Bloomberg",
+    "published": "2026-07-13T12:02:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -119,6 +185,17 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Crédito puente crece y favorece el desarrollo de vivienda media sobre la social",
+    "summary": "El crédito puente de la banca comercial para construcción de vivienda alcanzó 129,117 millones de pesos al cierre de mayo, uno de los niveles más altos registrados por Banxico, impulsando la edificación de 66,130 viviendas en el primer semestre (7% más que en 2025). La producción, sin embargo, sigue concentrada en vivienda media y tradicional, que representó 83% del total, mientras la vivienda económica y popular apenas alcanzó 15%.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/credito-puente-crece-vivienda-social-pierde-terreno-desarrolladores-20260713-822947.html",
+    "source": "El Economista",
+    "published": "2026-07-13T10:47:15-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Researchers Raise Concerns That AI May Atrophy Human Skills",
@@ -5421,82 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Vertiv Opens Malaysia Plant to Meet AI Data Centers’ Power Needs",
-    "summary": "Vertiv Holdings opened a new manufacturing plant in Malaysia to supply power equipment for AI data centers, reflecting the rapid build-out of AI infrastructure across Asia-Pacific. The facility adds regional capacity as demand for data-center power systems keeps climbing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs",
-    "source": "Bloomberg",
-    "published": "2026-07-01T04:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Japan Investment Corp.'s Hata on AI, Strategic Sectors",
-    "summary": "Yuka Hata of Japan Investment Corporation said demand for capital is rising as Japan redirects investment toward physical AI and deep-tech sectors. She noted that labor shortages are accelerating the need for AI-driven solutions, making the space a top investment priority for JIC.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/japan-investment-corp-s-hata-on-ai-strategic-sectors-video",
-    "source": "Bloomberg",
-    "published": "2026-07-01T03:34:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El capitalismo de vigilancia y la CURP biométrica",
-    "summary": "El Poder Judicial de la Federación emitió tres tesis que abordan el alcance del derecho a la soberanía digital personal frente a la implementación de la CURP biométrica por parte del gobierno mexicano. La columna analiza cómo estos precedentes podrían limitar el capitalismo de vigilancia estatal y reforzar la protección de datos personales en México.",
-    "link": "https://www.eleconomista.com.mx/opinion/capitalismo-vigilancia-curp-biometrica-20260701-821148.html",
-    "source": "El Economista",
-    "published": "2026-07-01T00:36:20-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
-    "summary": "Lime, the Uber-backed micromobility company, and some of its shareholders raised $174 million in a US IPO priced at the midpoint of its marketed range. The listing adds to a busy stretch of tech-adjacent companies tapping public markets in 2026.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share",
-    "source": "Bloomberg",
-    "published": "2026-07-01T00:29:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
-    "summary": "Bending Spoons, the Italian software consolidator that owns Vimeo, and its backers raised $1.68 billion in a US IPO priced above the marketed range. The strong pricing signals continued investor appetite for software roll-up businesses heading into the second half of the year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
-    "source": "Bloomberg",
-    "published": "2026-07-01T00:05:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Lifts Export Restrictions on Anthropic's Fable 5 AI Model",
-    "summary": "The US government has lifted foreign access restrictions on Anthropic's Fable 5 AI model, clearing the way for wider international distribution. The move comes after Anthropic resolved safety concerns previously raised by the Trump administration.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
-    "source": "Bloomberg",
-    "published": "2026-06-30T23:55:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crédito de la banca comercial mostró ligera recuperación en mayo",
-    "summary": "El crédito vigente de la banca comercial al sector privado mostró una ligera recuperación en mayo frente a abril, aunque su ritmo de crecimiento sigue estancado en lo que va de 2026, según los Agregados Monetarios y Actividad Financiera de Banxico. La cartera total creció 1.7% en su comparación real anual, un avance modesto que refleja la debilidad persistente del crédito bancario mexicano.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/credito-banca-comercial-mostro-ligera-recuperacion-mayo-20260630-821143.html",
-    "source": "El Economista",
-    "published": "2026-06-30T23:48:13-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
   }
 ]
