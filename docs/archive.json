@@ -1,5 +1,126 @@
 [
   {
+    "title": "TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum",
+    "summary": "TSMC reported quarterly sales up 36%, beating expectations and signaling that global demand for AI hardware remains intact despite broader market jitters. The results reinforce the view that enterprise AI infrastructure spending is still accelerating.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum",
+    "source": "Bloomberg",
+    "published": "2026-07-13T05:40:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street feasts on fees from SpaceX IPO and mega-mergers",
+    "summary": "Top US banks are benefiting from a revival of large dealmaking, with fee income boosted by the SpaceX IPO and a wave of mega-mergers, as AI optimism and resilient consumer spending fuel a broader market rally.",
+    "link": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
+    "source": "Financial Times",
+    "published": "2026-07-13T04:00:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI is not enough to arrest China's decline",
+    "summary": "The piece argues that AI adoption alone cannot offset the more powerful structural forces weighing on China's economy, pushing back on the narrative that AI investment will single-handedly reverse the country's economic slowdown.",
+    "link": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053",
+    "source": "Financial Times",
+    "published": "2026-07-13T04:00:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Companies turn to Chinese AI models to cut costs",
+    "summary": "DoorDash, Siemens and Airbnb are among the companies turning to Chinese AI models to curb ballooning bills and reduce reliance on US technology providers, a sign that enterprise AI adoption decisions are increasingly driven by cost and vendor diversification, not just capability.",
+    "link": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+    "source": "Financial Times",
+    "published": "2026-07-13T04:00:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jane Fraser's ruthless remake of Citigroup",
+    "summary": "The piece profiles Citigroup CEO Jane Fraser's turnaround effort, which has involved asset sales, job cuts and controversial new hires alongside a closer relationship with Trump, asking whether the overhaul is enough to restore the bank's standing among its top-tier peers.",
+    "link": "https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713",
+    "source": "Financial Times",
+    "published": "2026-07-13T04:00:05+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Employers pushed staff to use AI more. That has backfired",
+    "summary": "Companies that pushed employees hard to adopt AI tools are now facing backlash as the costs of those tools start to bite, forcing a rethink of incentive structures around AI usage. The piece is a cautionary case study in how workplace AI adoption programs can go wrong once budget pressure hits.",
+    "link": "https://www.ft.com/content/cc03adda-7b56-4392-8f9a-e83a71a25ea1",
+    "source": "Financial Times",
+    "published": "2026-07-13T03:00:03+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inflación que el Banco de México no puede controlar",
+    "summary": "En junio la inflación anual bajó a 3.37%, su nivel más bajo desde diciembre de 2020, pero el dato mensual bueno no borra los riesgos de fondo. La columna advierte sobre presiones de largo plazo, ligadas al cambio climático, que escapan al control directo de Banxico y de la política monetaria convencional.",
+    "link": "https://www.eleconomista.com.mx/opinion/inflacion-banco-mexico-controlar-20260713-822899.html",
+    "source": "El Economista",
+    "published": "2026-07-13T00:26:38-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Regulación de redes sociales y de IA: Estos son los temas primordiales para Morena en el Congreso",
+    "summary": "El grupo parlamentario de Morena en la Cámara de Diputados definió sus prioridades legislativas para el próximo periodo ordinario, entre las que destaca la regulación de las redes sociales y del uso de la inteligencia artificial. El documento marca la agenda de gobernanza de IA que el Congreso mexicano abordará en los próximos meses.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/12/regulacion-de-redes-sociales-y-de-ia-estos-son-los-temas-primordiales-para-morena-en-el-congreso/",
+    "source": "El Financiero",
+    "published": "2026-07-12T23:58:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México: furor por los fondos de inversión",
+    "summary": "Los fondos de inversión en México registran un dinamismo extraordinario desde la pandemia, con cifras que marcan hitos notables y que, según el análisis, podrían duplicarse en los próximos años. La columna describe una tendencia estructural y no un repunte pasajero en el ahorro e inversión de los mexicanos.",
+    "link": "https://www.eleconomista.com.mx/opinion/mexico-furor-fondos-inversion-20260712-822893.html",
+    "source": "El Economista",
+    "published": "2026-07-12T23:56:56-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El Mundial dejó una prueba de estrés para los pagos digitales; deben ser más resilientes",
+    "summary": "La Copa Mundial 2026 evidenció que, en eventos de alta concentración de personas, el éxito de los pagos digitales depende menos de la terminal en el comercio que de la solidez de toda la infraestructura tecnológica detrás. Directivos de tecnología de pagos como CLAI Payments piden reforzar la resiliencia del ecosistema mexicano de pagos.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mundial-dejo-prueba-estres-pagos-digitales-deben-resilientes-20260712-822886.html",
+    "source": "El Economista",
+    "published": "2026-07-12T23:29:50-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu ya operará como banco en México; recibió autorización de la CNBV",
+    "summary": "Nu México, filial del gigante brasileño de servicios financieros digitales, recibió autorización final de la CNBV para operar como banco, sumándose a los 54 bancos que operan en el país. Es el más reciente ejemplo de un jugador digital que da el salto a banca plena en el mercado mexicano.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/nu-operara-banco-mexico-recibio-autorizacion-cnbv-20260712-822885.html",
+    "source": "El Economista",
+    "published": "2026-07-12T23:25:03-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La IA no está destruyendo empleos: OCDE descarta una caída generalizada del trabajo",
     "summary": "La OCDE reporta que el desempleo en sus países miembro se mantiene cerca de mínimos históricos (4.9%) y que no hay indicios de que la mayor adopción de IA por las empresas esté reduciendo de forma generalizada la demanda de mano de obra. El secretario general Mathias Cormann señaló que la IA está transformando las competencias que buscan las empresas más que eliminando empleos, aunque persisten retos para la incorporación laboral de los jóvenes.",
     "link": "https://www.eleconomista.com.mx/tecnologia/ia-destruyendo-empleos-ocde-descarta-caida-generalizada-trabajo-20260712-822811.html",
@@ -86,6 +207,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+    "summary": "A rundown of Apple's upcoming M6, M7 and M8 chip lineup illustrates how AI is reshaping the company's hardware roadmap, alongside plans for new Apple Pencils.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro",
+    "source": "Bloomberg",
+    "published": "2026-07-12T14:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
@@ -273,6 +405,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": false
+  },
+  {
+    "title": "Apple Sues OpenAI Over AI Talent Fight",
+    "summary": "Apple has sued OpenAI, alleging that former employees who left for OpenAI's hardware division improperly took trade secrets, reflecting an intensifying battle for AI talent and device leadership between the two companies.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+    "source": "Bloomberg",
+    "published": "2026-07-11T14:37:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "La ciudad con la vivienda más cara del país... también tiene enormes diferencias entre alcaldías",
@@ -5353,149 +5496,6 @@
     "published": "2026-06-30T12:46:29+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A un año de FinCEN: del cumplimiento formal a la prevención consciente",
-    "summary": "Un año después de la comunicación de FinCEN, el sistema bancario mexicano enfrenta la necesidad de pasar de un enfoque documental de cumplimiento a una cultura operativa de prevención proactiva de riesgos. La vicepresidencia de Supervisión de Procesos Preventivos de la CNBV ejerce ahora facultades de supervisión tecnológica para verificar el cumplimiento de obligaciones, reconociendo que la estabilidad bancaria y la integridad financiera son inseparables.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/06/30/a-un-ano-de-fincen-del-cumplimiento-formal-a-la-prevencion-consciente/",
-    "source": "El Financiero",
-    "published": "2026-06-30T12:38:43+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Leverage Is More Worrying Than Valuations, IMF's Adrian Says",
-    "summary": "A senior IMF official warned that AI-related debt issuance poses a greater financial stability risk than current AI stock valuations, as leverage in AI investments could amplify systemic vulnerabilities in ways that equity prices don't fully reflect. The remarks, made at the ECB's annual symposium in Sintra, point to the IMF's growing focus on the debt-fueled buildup behind the AI investment cycle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-leverage-is-more-worrying-than-valuations-imf-s-adrian-says",
-    "source": "Bloomberg",
-    "published": "2026-06-30T12:14:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Baubap obtiene línea de crédito por 400 millones de pesos para ampliar el acceso al financiamiento",
-    "summary": "La fintech mexicana Baubap aseguró una línea de crédito por 400 millones de pesos con BBVA Spark y SixPoint Capital —a 48 meses— con la que fortalecerá su capacidad para otorgar microcréditos digitales a personas excluidas del sistema financiero. Con esta operación, Baubap opera por primera vez con toda su estructura de fondeo en pesos mexicanos, habiendo otorgado créditos a más de 2 millones de personas en México desde su fundación en 2018.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/baubap-obtiene-linea-credito-400-millones-pesos-ampliar-acceso-financiamiento-20260630-820892.html",
-    "source": "El Economista",
-    "published": "2026-06-30T12:10:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reshoring, el concepto que está redibujando el mapa logístico",
-    "summary": "El reshoring está redefiniendo las cadenas logísticas globales, impulsando una reconfiguración industrial con México como uno de los principales beneficiarios del nearshoring. El fenómeno crea oportunidades tanto en real estate industrial como en financiamiento para nuevas instalaciones en regiones estratégicas del país.",
-    "link": "https://expansion.mx/opinion/2026/06/30/reshoring-el-concepto-que-esta-redibujando-el-mapa-logistico",
-    "source": "Expansión",
-    "published": "2026-06-30T12:05:49+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La pregunta del millón, ¿liberar o regular la IA?",
-    "summary": "El debate sobre si liberar o regular la inteligencia artificial se intensifica globalmente, con posturas divergentes entre quienes abogan por la innovación sin restricciones y quienes exigen marcos de gobernanza para mitigar riesgos en sectores críticos como el financiero. La disyuntiva afecta directamente a empresas de servicios financieros que adoptan IA en crédito, underwriting y CRM.",
-    "link": "https://expansion.mx/opinion/2026/06/30/la-pregunta-del-millon-liberar-o-regular-la-ia",
-    "source": "Expansión",
-    "published": "2026-06-30T12:04:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 67,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "TMEC: de tratado a contrato anual",
-    "summary": "La revisión del T-MEC llega en un contexto de cambio estructural en la política industrial estadounidense que combina proteccionismo bipartidista con redefinición de cadenas de suministro globales, dejando a México en un limbo sobre las condiciones de largo plazo del acuerdo. A diferencia de 1994, el tratado ya no funciona como ancla permanente sino como un acuerdo potencialmente revisable en cada ciclo político, obligando a las empresas a planear bajo mayor incertidumbre regulatoria.",
-    "link": "https://www.elfinanciero.com.mx/opinion/raquel-lopez-portillo-maltos/2026/06/30/tmec-de-tratado-a-contrato-anual/",
-    "source": "El Financiero",
-    "published": "2026-06-30T12:00:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 67,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA hace marketing para todos; diferenciarse será el verdadero negocio",
-    "summary": "La inteligencia artificial democratiza el marketing al permitir que cualquier empresa genere contenido y campañas de forma automatizada, lo que paradójicamente convierte la diferenciación genuina de marca y estrategia en el verdadero reto competitivo de 2026. Para las empresas de servicios financieros, esto implica que la ventaja ya no está en la producción de contenido sino en la propuesta de valor y la relación con el cliente.",
-    "link": "https://expansion.mx/tecnologia/2026/06/30/mientras-todos-usan-ia-secreto-para-diferenciarse",
-    "source": "Expansión",
-    "published": "2026-06-30T11:55:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trump Tariff Defeat Is Market Tailwind 'No One Is Talking About'",
-    "summary": "The US Supreme Court's decision to unwind Trump's sweeping tariffs has quietly shifted from a market headwind to a potential tailwind, with some companies poised for an earnings boost as trade barriers fall. The ruling sets a new baseline for US trade policy with positive implications for supply chains tied to Mexico and cross-border manufacturing under the USMCA framework.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/trump-tariff-defeat-is-market-tailwind-no-one-is-talking-about",
-    "source": "Bloomberg",
-    "published": "2026-06-30T11:54:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BOE's Breeden Warns AI Agents Risk Causing Market Meltdowns",
-    "summary": "Bank of England Deputy Governor Sarah Breeden warned that autonomous AI agents risk triggering \"market meltdowns\" due to their potential to amplify volatility during financial stress, calling for tighter regulation of AI agents in financial markets. She spoke at the ECB's annual symposium in Sintra, positioning AI agent governance as a systemic financial stability concern alongside traditional market risks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-breeden-warns-ai-agents-risk-triggering-market-meltdowns",
-    "source": "Bloomberg",
-    "published": "2026-06-30T11:27:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Call Center Stocks Fall on Worry AI Makes Them 'Uninvestible'",
-    "summary": "Shares of call-center companies fell sharply amid growing investor concerns that AI adoption in customer service is making these businesses uninvestible, as enterprises increasingly deploy AI to handle customer interactions. The selloff reflects a broader market reassessment of industries—including outsourced financial services CRM—most exposed to AI-driven automation in service roles.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/call-center-stocks-fall-on-worry-ai-is-makes-them-uninvestible",
-    "source": "Bloomberg",
-    "published": "2026-06-30T11:16:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EU alarga revisión del T-MEC con amenaza de aranceles y sin apertura plena regional frente a China",
-    "summary": "El gobierno de Estados Unidos alargará este miércoles el proceso formal de revisión del T-MEC, manteniendo la amenaza de nuevos aranceles y sin ofrecer una apertura plena regional frente al desafío económico de China. El proceso comenzará sin una reactivación automática del acuerdo, con una tercera ronda de negociaciones entre México y Estados Unidos programada para el 20 de julio.",
-    "link": "https://www.eleconomista.com.mx/empresas/eu-alarga-revision-t-mec-amenaza-aranceles-apertura-plena-regional-frente-china-20260630-820998.html",
-    "source": "El Economista",
-    "published": "2026-06-30T11:08:31-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BlackRock Downgrades Emerging-Market Equities Over AI Risks",
-    "summary": "BlackRock's research arm has downgraded emerging-market equities and turned bullish on short- and medium-term euro-area government bonds in its 2026 mid-year global outlook, citing AI-driven risks that could disproportionately impact EM economies through trade and competitive dynamics. The move is particularly relevant for Mexican financial assets given the country's elevated exposure to US capital flows and technology-driven economic shifts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/blackrock-downgrades-emerging-market-equities-over-ai-risks",
-    "source": "Bloomberg",
-    "published": "2026-06-30T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Por qué suben las computadoras y celulares?",
-    "summary": "La demanda de chips de memoria impulsada por la inteligencia artificial ha provocado un fenómeno llamado \"chipflation\": los precios de la DRAM se duplicaron en 2025 y volvieron a subir entre 40% y 90% en el primer trimestre de 2026, llevando a Apple y Microsoft a elevar los precios de sus productos. Este ciclo —el mayor aumento en una década según TrendForce— encarece toda la infraestructura tecnológica empresarial, incluyendo la adopción de IA en servicios financieros.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/06/30/por-que-suben-las-computadoras-y-celulares/",
-    "source": "El Financiero",
-    "published": "2026-06-30T10:54:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "es",
     "light": false
   }
