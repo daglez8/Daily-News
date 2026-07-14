@@ -1,5 +1,148 @@
 [
   {
+    "title": "Por qué la inflación está controlada y el peso sigue fuerte",
+    "summary": "Pese a la no renovación de mediano plazo del T-MEC, el aumento de la deuda pública y las advertencias de calificadoras sobre el grado de inversión de México, la inflación se mantiene controlada en 3.37% anual en junio y el peso se ha fortalecido en lugar de devaluarse. El autor atribuye esta aparente paradoja a que el tipo de cambio no refleja directamente los riesgos institucionales y fiscales que enfrenta el país.",
+    "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/07/14/por-que-la-inflacion-esta-controlada-y-el-peso-sigue-fuerte/",
+    "source": "El Financiero",
+    "published": "2026-07-14T13:01:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Top 10 en captación de inversión extranjera directa",
+    "summary": "La UNCTAD reportó que los flujos globales de inversión extranjera directa (IED) crecieron 6% en 2025, alcanzando 1.6 billones de dólares tras dos años de caídas consecutivas. Sin embargo, la recuperación es frágil y desigual: las 20 principales economías receptoras concentran más del 80% de los flujos, y las economías desarrolladas captaron la mayor parte del crecimiento.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/07/14/top-10-en-captacion-de-inversion-extranjera-directa/",
+    "source": "El Financiero",
+    "published": "2026-07-14T12:33:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
+    "summary": "The Bank for International Settlements warns that the race to build AI infrastructure is on pace to exceed previous technology booms that ended in severe market disruptions. The debt-fueled buildout raises concerns about a potential bust once the investment cycle turns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
+    "source": "Bloomberg",
+    "published": "2026-07-14T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 79,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IBM shares plunge 23% on profit warning",
+    "summary": "IBM shares plunged 23% after the company warned it would miss market expectations, blaming sluggish customer spending on AI infrastructure. The warning raises questions about whether enterprise AI capex is cooling even as other parts of the AI buildout accelerate.",
+    "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+    "source": "Financial Times",
+    "published": "2026-07-14T11:57:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Capital Is Plugging State Spending Gap, Apollo's Zelter Says",
+    "summary": "Apollo Global Management president Jim Zelter said private capital is increasingly stepping in to finance large-scale industrial capital expenditure as government balance sheets shrink. He argued state budgets no longer have the capacity to fund infrastructure at the scale needed, opening the door for private credit and equity providers.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/private-capital-is-plugging-state-spending-gap-zelter-video",
+    "source": "Bloomberg",
+    "published": "2026-07-14T11:27:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nebius to Sell $1 Billion in AI Capacity to Reflection",
+    "summary": "Cloud provider Nebius Group agreed to sell more than $1 billion in computing capacity to Reflection AI, a model developer founded by former Google DeepMind researchers. The deal underscores continued heavy demand for AI compute even amid growing bubble concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/nebius-to-sell-1-billion-in-ai-capacity-to-startup-reflection",
+    "source": "Bloomberg",
+    "published": "2026-07-14T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek Mulls New Funding Weeks After $7 Billion Round, FT Says",
+    "summary": "Chinese AI developer DeepSeek is reportedly considering another funding round just weeks after closing a $7 billion raise, according to the Financial Times. The pace of fundraising highlights how aggressively capital continues to flow into frontier AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-07-14T10:59:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed’s Three Picks for Task Force Show AI Bullishness",
+    "summary": "Fed Chair Kevin Warsh named a task force including Marc Andreessen and a Stanford economist to study how AI could reshape the US economy. Warsh has argued AI could let the economy grow faster without stoking as much inflation, signaling the Fed's bullish read on the technology's macro impact.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-14/fed-s-warsh-forms-ai-panel-with-andreessen-stanford-s-jones-to-study-economy",
+    "source": "Bloomberg",
+    "published": "2026-07-14T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 69,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IA y petróleo: la doble cara de la coyuntura global para México",
+    "summary": "El FMI proyecta que la economía mundial crecerá 3% en 2026, una desaceleración frente al promedio de 2024-25, en un contexto marcado por la guerra entre EU e Irán y el boom de inversión en inteligencia artificial. Los precios de la energía ya son 25% más altos que antes del conflicto, mientras que México enfrenta un balance mixto: débil posición energética pero un panorama más favorable frente a la ola de IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/eugenio-gomez/2026/07/14/ia-y-petroleo-la-doble-cara-de-la-coyuntura-global-para-mexico/",
+    "source": "El Financiero",
+    "published": "2026-07-14T10:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 79,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office",
+    "summary": "Job candidates are increasingly using AI tools to cheat on interviews and coding tests, leaving hiring managers paranoid and scrambling to adapt their processes. The trend is forcing companies to rethink how they evaluate talent in an AI-saturated hiring market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests",
+    "source": "Bloomberg",
+    "published": "2026-07-14T10:00:22+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 69,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "summary": "In an exclusive interview, Google DeepMind co-founder Demis Hassabis lays out his vision for developing artificial intelligence safely. The piece signals how one of the field's most influential leaders is thinking about balancing rapid AI progress with responsible governance.",
+    "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
+    "source": "The Economist",
+    "published": "2026-07-14T09:30:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 83,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dólar, Fed y elecciones: los factores que definirán a las monedas de América Latina este semestre",
+    "summary": "BBVA y Citi anticipan que el segundo semestre de 2026 será más desafiante para las monedas latinoamericanas debido al fortalecimiento del dólar y la incertidumbre sobre la política monetaria de EU. El desempeño cambiario dependerá cada vez más de factores específicos de cada país, como la disciplina fiscal, los procesos electorales y sectores como minería y energía.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-fed-y-elecciones-los-factores-que-definiran-a-las-monedas-de-america-latina-este-semestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-14T09:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
+    "summary": "The Philippines' main business-process outsourcing association cut its industry revenue and employment forecasts, warning that AI, shifting geopolitics, and rising competition could shrink the sector going forward. It's an early signal of AI's disruptive effect on labor-intensive outsourcing industries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-14T08:53:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
     "summary": "Nvidia partner GMI Cloud is seeking a $635 million multi-tranche, GPU-backed loan in Asia — one of the region's first such financings — using customer GPU contracts as collateral to fund data-center capacity amid surging AI demand.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
@@ -8,6 +151,39 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Thomson Reuters venderá el 51% de su negocio Global Print a KKR por 500 millones de dólares",
+    "summary": "Thomson Reuters acordó vender el 51% de su división Global Print a KKR por unos 500 millones de dólares, creando una empresa conjunta en la que la firma de capital privado obtendrá la licencia exclusiva de distribución de contenido impreso y digital. Thomson Reuters conservará los derechos de propiedad intelectual y el control editorial, además de una participación del 49% en el negocio.",
+    "link": "https://www.eleconomista.com.mx/empresas/thomson-reuters-vendera-51-negocio-global-print-kkr-500-millones-dolares-20260714-823116.html",
+    "source": "El Economista",
+    "published": "2026-07-14T06:13:30-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SoftBank’s Son ridicules AI critics for ‘spitting upwards’",
+    "summary": "SoftBank founder Masayoshi Son dismissed AI skeptics, saying business leaders unwilling to embrace the technology \"should play the role of spouse.\" The remarks underscore Son's aggressive, all-in stance on AI investment even as bubble concerns mount elsewhere in the market.",
+    "link": "https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00",
+    "source": "Financial Times",
+    "published": "2026-07-14T05:09:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revela Banxico temores de la IP",
+    "summary": "Banxico reveló que los principales temores de la iniciativa privada mexicana giran en torno a la inseguridad en el país, la falta de Estado de Derecho y la fragilidad de las finanzas públicas. Estos factores continúan pesando sobre la confianza empresarial y las decisiones de inversión.",
+    "link": "https://www.reforma.com/revela-banxico-temores-de-la-ip/ar3239806",
+    "source": "Reforma",
+    "published": "2026-07-14T05:01:07-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
     "light": true
   },
   {
@@ -5321,182 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 62,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum busca 'la mano' de BlackRock para reactivar inversión en México: 'Proyectos están estancados'",
-    "summary": "Funcionarios del gobierno de Claudia Sheinbaum se reunieron con gestores de activos globales como BlackRock, KKR y Macquarie Asset Management para explorar vías de reactivar la inversión privada en infraestructura mexicana. Pese al cortejo a inversionistas desde 2025, el gobierno aún no ha estructurado vehículos de inversión específicos, aunque el repunte reciente en el sector eléctrico sugiere que las negociaciones ganan impulso.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/01/sheinbaum-busca-la-mano-de-blackrock-para-reactivar-inversion-en-mexico-proyectos-estan-estancados/",
-    "source": "El Financiero",
-    "published": "2026-07-01T19:00:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Casa Continuum / Inverse Project",
-    "summary": "Casa Continuum is a 1,600-square-meter residence by Inverse Project set within the Peninsula Papagayo resort community in Costa Rica, completed in 2025. The project reflects a broader trend of high-end contemporary residential architecture in Latin American resort destinations.",
-    "link": "https://www.archdaily.com/1042769/casa-continuum-inverse-project",
-    "source": "ArchDaily",
-    "published": "2026-07-01T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Las Siete Magníficas ya no lideran Wall Street y el mercado gira hacia otras acciones",
-    "summary": "Las 'Siete Magníficas' tecnológicas dejaron de liderar Wall Street en 2026, cayendo 1.55% en el año frente a un avance de 16.85% del resto del S&P 500. Analistas de Freedom Capital Markets señalan que los inversionistas ahora exigen retornos concretos del gasto en inteligencia artificial, en lugar de premiar solo el anuncio de inversión.",
-    "link": "https://www.bloomberglinea.com/mercados/las-siete-magnificas-ya-no-lideran-wall-street-y-el-mercado-gira-hacia-otras-acciones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-01T18:50:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blackstone Offloads Stakes in Trio of Virginia Data Centers",
-    "summary": "Blackstone is selling its stakes in three data centers across Northern Virginia for $3.5 billion, cashing out of part of a real estate bet it made less than three years ago. The deal highlights continued investor appetite for data-center infrastructure assets amid the AI compute boom.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/blackstone-offloads-stakes-in-trio-of-data-centers-video",
-    "source": "Bloomberg",
-    "published": "2026-07-01T18:37:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can Bending Spoons thrive as a listed company?",
-    "summary": "Bending Spoons, a rare Italian software star, is testing whether its private-equity-style playbook of aggressive acquisitions can succeed as a publicly listed company. The piece examines the challenges the roll-up strategy faces under public-market scrutiny.",
-    "link": "https://www.economist.com/business/2026/07/01/can-bending-spoons-thrive-as-a-listed-company",
-    "source": "The Economist",
-    "published": "2026-07-01T18:23:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuatro razones por las que las salidas a bolsa de OpenAI y Anthropic cambiarían la IA",
-    "summary": "Las posibles salidas a bolsa de OpenAI y Anthropic, con valoraciones que podrían superar el billón de dólares cada una, marcarían un punto de inflexión para la industria de la IA. Según Deutsche Bank, estas operaciones aportarían transparencia y financiamiento sin precedentes al sector, además de dar a los inversionistas una referencia bursátil pura de IA.",
-    "link": "https://www.bloomberglinea.com/mercados/cuatro-razones-por-las-que-las-salidas-a-bolsa-de-openai-y-anthropic-cambiarian-la-ia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-01T17:50:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Finance App Network Maker Plaid Is Said to Consider US IPO",
-    "summary": "Plaid Inc., the fintech infrastructure company that connects banking apps to customer accounts, is reportedly weighing a US IPO. The move would mark a major public listing for a key player in financial-services connectivity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo",
-    "source": "Bloomberg",
-    "published": "2026-07-01T17:45:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano cae tras decisión de Estados Unidos de no renovar el T-MEC",
-    "summary": "El peso mexicano se depreció 0.3% frente al dólar tras confirmarse que Estados Unidos no renovará el T-MEC y optará por revisiones anuales en su lugar. Analistas de Banco Base atribuyen la caída también a la especulación sobre una posible intervención del Banco de Japón y al inicio formal de la revisión trilateral del acuerdo.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cae-tras-decision-de-estados-unidos-de-no-renovar-el-t-mec/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-01T17:40:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BlackRock's Tseng to Exit as CEO of Troubled Private Credit Fund",
-    "summary": "The head of BlackRock's beleaguered private credit fund is leaving the firm following months of losses on soured loans and a US regulatory probe into the unit's valuation practices. The exit underscores growing scrutiny of private-credit risk management.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/blackrock-s-tseng-to-exit-as-ceo-of-troubled-private-credit-fund",
-    "source": "Bloomberg",
-    "published": "2026-07-01T17:29:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Remesas a México alcanzan 5 mil 611 mdd en mayo y ligan cuatro meses de crecimiento",
-    "summary": "Las remesas a México sumaron 5,611 millones de dólares en mayo, un alza anual de 3.8% y su cuarto mes consecutivo de crecimiento, según Banxico. Sin embargo, al excluir la baja base de comparación de 2024-2025, el ritmo de crecimiento es el más débil para un mes de mayo desde 2015.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/01/remesas-a-mexico-alcanzan-5-mil-611-mdd-en-mayo-y-ligan-cuatro-meses-de-crecimiento/",
-    "source": "El Financiero",
-    "published": "2026-07-01T17:13:59+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Lifts Export Restrictions on Anthropic's Fable 5",
-    "summary": "The Trump administration lifted foreign export restrictions on Anthropic's Fable 5 AI model after the company addressed government safety concerns. The move signals how Washington is calibrating access controls on frontier AI models for international markets.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde",
-    "source": "Bloomberg",
-    "published": "2026-07-01T16:41:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¡ES OFICIAL! Donald Trump no renueva el T-MEC; opta por revisiones anuales con México y Canadá",
-    "summary": "Estados Unidos confirmó que no renovará el T-MEC con México y Canadá, y en su lugar realizará revisiones anuales del pacto, que seguirá vigente por otra década salvo que algún país se retire. La decisión, impulsada por el descontento de Trump con el acuerdo, abre la puerta a años de negociaciones sobre las reglas que rigen el comercio norteamericano.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/07/01/es-oficial-donald-trump-no-renueva-el-t-mec-opta-por-revisiones-anuales-con-mexico-y-canada/",
-    "source": "El Financiero",
-    "published": "2026-07-01T16:31:10+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "This is how we can make AI safe for everyone",
-    "summary": "A Financial Times opinion piece argues that while AI labs build the technology, it should be citizens and their elected representatives who set the rules governing it. The piece frames AI safety as fundamentally a governance and accountability question, not just a technical one.",
-    "link": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca",
-    "source": "Financial Times",
-    "published": "2026-07-01T16:23:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private Equity Bets on AI Growth",
-    "summary": "EQT's Eric Liu discusses how AI is reshaping private equity investing, highlighting a growing divide between software companies that win from AI and those that lose. He notes high-quality assets keep trading even as the broader PE exit market slows.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/private-equity-bets-on-ai-growth-video",
-    "source": "Bloomberg",
-    "published": "2026-07-01T15:40:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La economía mexicana está en \"punto muerto\": IMEF",
-    "summary": "El IMEF advirtió que la economía mexicana está en 'punto muerto', con el indicador manufacturero cayendo a 47.3 puntos en junio, su 27º mes consecutivo en zona de contracción. El organismo señala que tanto la actividad manufacturera como la no manufacturera operan sin señales claras de recuperación sostenida.",
-    "link": "https://www.eleconomista.com.mx/empresas/economia-mexicana-punto-muerto-imef-20260701-821222.html",
-    "source": "El Economista",
-    "published": "2026-07-01T12:35:59-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
-    "summary": "Meta is developing a new cloud infrastructure business to sell excess AI computing capacity and models to outside customers. The move would put Meta in direct competition with established cloud leaders AWS, Microsoft Azure and Google Cloud.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-    "source": "Bloomberg",
-    "published": "2026-07-01T12:35:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
     "light": true
   }
 ]
