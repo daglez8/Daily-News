@@ -1,5 +1,27 @@
 [
   {
+    "title": "Caída de precios en EU ‘infla’ al peso: ¿Cuánto gana al dólar HOY 14 de julio?",
+    "summary": "El peso mexicano se apreció 0.57% frente al dólar este martes, ubicando el tipo de cambio en 17.42 unidades, luego de que el IPC de Estados Unidos se ubicara en 3.5% en junio, por debajo del 3.7% esperado por el mercado. Analistas de Monex señalaron que el dato reduce el margen para que la Reserva Federal continúe subiendo tasas de interés a corto plazo.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/14/peso-dolar-precio-hoy-14-de-julio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-07-14T17:19:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tras regular las redes sociales, Australia crea una Oficina de IA",
+    "summary": "Australia anunció la creación de una Oficina de Inteligencia Artificial como parte de sus esfuerzos por supervisar el desarrollo y uso de esta tecnología. La medida llega después de que el país avanzara en la regulación de las redes sociales, en un movimiento más amplio hacia una mayor gobernanza de las tecnologías digitales emergentes.",
+    "link": "https://expansion.mx/tecnologia/2026/07/14/australia-crea-una-oficina-para-regular-ia",
+    "source": "Expansión",
+    "published": "2026-07-14T17:10:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Por qué la inflación está controlada y el peso sigue fuerte",
     "summary": "Pese a la no renovación de mediano plazo del T-MEC, el aumento de la deuda pública y las advertencias de calificadoras sobre el grado de inversión de México, la inflación se mantiene controlada en 3.37% anual en junio y el peso se ha fortalecido en lugar de devaluarse. El autor atribuye esta aparente paradoja a que el tipo de cambio no refleja directamente los riesgos institucionales y fiscales que enfrenta el país.",
     "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/07/14/por-que-la-inflacion-esta-controlada-y-el-peso-sigue-fuerte/",
@@ -7,6 +29,28 @@
     "published": "2026-07-14T13:01:33+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Roots House / Studio Gontijo Arquitetura",
+    "summary": "Casa Raízes sits atop a cliff in Trancoso, Bahia, designed by Studio Gontijo Arquitetura around a deep relationship with its coastal site. The home offers permanent ocean and horizon views, framed by the surrounding Atlantic Forest and a private trail leading to Itapororoca Beach.",
+    "link": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
+    "source": "ArchDaily",
+    "published": "2026-07-14T13:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Ahorros en Afores caen 9%; registran plusvalías por 484,079 millones de pesos en la primera mitad de 2026",
+    "summary": "Los ahorros de los trabajadores en las Afores generaron plusvalías por 484,079 millones de pesos en el primer semestre de 2026, una caída de 9% frente al mismo periodo de 2025, según la Consar. Las Afores hilaron en junio su tercer mes consecutivo de rendimientos positivos, tras las minusvalías registradas en marzo por la volatilidad derivada del conflicto en Irán.",
+    "link": "https://www.eleconomista.com.mx/economia/ahorros-afores-caen-9-registran-plusvalias-484-079-millones-pesos-primera-mitad-20260714-823163.html",
+    "source": "El Economista",
+    "published": "2026-07-14T12:46:12-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 79,
     "language": "es",
     "light": false
   },
@@ -33,6 +77,17 @@
     "light": true
   },
   {
+    "title": "Inflación esperada para las principales economías de América Latina: esto pronostica el mercado",
+    "summary": "Las encuestas de expectativas de los bancos centrales de la región anticipan que la inflación en México, Perú y Chile se mantendrá dentro de los rangos meta, mientras que Brasil y Colombia enfrentan un panorama más desafiante en 2026. Argentina, pese a seguir entre los países con mayor inflación del mundo, mostraría una desaceleración sin perforar el 10% anual.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-esperada-para-las-principales-economias-de-america-latina-esto-pronostica-el-mercado/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-14T12:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "IBM shares plunge 23% on profit warning",
     "summary": "IBM shares plunged 23% after the company warned it would miss market expectations, blaming sluggish customer spending on AI infrastructure. The warning raises questions about whether enterprise AI capex is cooling even as other parts of the AI buildout accelerate.",
     "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
@@ -44,6 +99,28 @@
     "light": true
   },
   {
+    "title": "Demandan a Meta por seleccionar con IA a trabajadores con problemas de salud para despedirlos",
+    "summary": "Meta enfrenta una demanda que acusa a la compañía de utilizar inteligencia artificial para identificar a empleados con problemas de salud con el fin de despedirlos. El caso reaviva el debate sobre los riesgos legales y éticos del uso de sistemas de IA en decisiones de recursos humanos.",
+    "link": "https://www.eleconomista.com.mx/videos/demandan-meta-seleccionar-ia-trabajadores-problemas-salud-despedirlos-20260714-823154.html",
+    "source": "El Economista",
+    "published": "2026-07-14T11:45:33-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Una IA necesita un buen jefe, no un líder",
+    "summary": "La columna argumenta que la inteligencia artificial no sustituye primero a los empleados, sino que expone a los malos jefes, ya que usarla bien exige claridad para pedir, priorizar y definir resultados. Plantea que la IA no premia el carisma ni el discurso de liderazgo, sino la capacidad de dirigir con precisión operativa.",
+    "link": "https://www.eleconomista.com.mx/opinion/ia-necesita-buen-jefe-lider-20260714-823151.html",
+    "source": "El Economista",
+    "published": "2026-07-14T11:38:46-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 79,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Private Capital Is Plugging State Spending Gap, Apollo's Zelter Says",
     "summary": "Apollo Global Management president Jim Zelter said private capital is increasingly stepping in to finance large-scale industrial capital expenditure as government balance sheets shrink. He argued state budgets no longer have the capacity to fund infrastructure at the scale needed, opening the door for private credit and equity providers.",
     "link": "https://www.bloomberg.com/news/videos/2026-07-14/private-capital-is-plugging-state-spending-gap-zelter-video",
@@ -53,6 +130,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Tipo de cambio impulsará los reportes trimestrales de las emisoras de la BMV: Monex",
+    "summary": "Monex pronosticó buenos resultados para el segundo trimestre de las emisoras de la BMV, impulsados por la apreciación del peso frente al dólar, con un margen Ebitda del IPyC estimado en 23.2%, por encima del 21.9% de 2025. Peñoles, Grupo México, Orbia, Cemex y Vesta destacarían entre los ganadores por el efecto cambiario y la mejora en el consumo.",
+    "link": "https://www.eleconomista.com.mx/mercados/tipo-cambio-impulsara-reportes-trimestrales-emisoras-bmv-monex-20260714-823149.html",
+    "source": "El Economista",
+    "published": "2026-07-14T11:03:06-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 73,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Nebius to Sell $1 Billion in AI Capacity to Reflection",
@@ -143,6 +231,28 @@
     "light": true
   },
   {
+    "title": "Céline & Lolo Hotel / Powerhouse Company",
+    "summary": "Powerhouse Company transformed a 1970s brutalist villa in Nairobi's Lavington neighborhood into Céline & Lolo, a boutique hotel blending guest rooms, a restaurant, bars, a pool deck and a terrace. The design evokes the feeling of returning to a sun-warmed holiday home full of character.",
+    "link": "https://www.archdaily.com/1092337/celine-and-lolo-hotel-powerhouse-company",
+    "source": "ArchDaily",
+    "published": "2026-07-14T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "World Architecture Festival Reveals the 2026 Shortlist",
+    "summary": "The World Architecture Festival announced its 2026 Awards shortlist, recognizing completed buildings, future projects, interiors and landscape works from around the world. Shortlisted teams will present live to international judging panels at the festival in Fort Lauderdale, Florida, from November 18-20, 2026.",
+    "link": "https://www.archdaily.com/1148633/world-architecture-festival-reveals-the-2026-shortlist",
+    "source": "ArchDaily",
+    "published": "2026-07-14T06:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
     "summary": "Nvidia partner GMI Cloud is seeking a $635 million multi-tranche, GPU-backed loan in Asia — one of the region's first such financings — using customer GPU contracts as collateral to fund data-center capacity amid surging AI demand.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
@@ -162,6 +272,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Herzog & de Meuron Unveils New Images of Lusail Museum on Qatar's Al Maha Island",
+    "summary": "Herzog & de Meuron unveiled new images of the Lusail Museum on Qatar's human-made Al Maha Island, designed as a 'vertically layered souk' housing a collection of Orientalist art. The museum is expected to become the cultural anchor of Lusail City, off the coast north of Doha.",
+    "link": "https://www.archdaily.com/1148610/herzog-and-de-meuron-unveils-new-images-of-lusail-museum-on-qatars-al-maha-island",
+    "source": "ArchDaily",
+    "published": "2026-07-14T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 67,
+    "language": "en",
     "light": false
   },
   {
@@ -5376,127 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 72,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Absolutely No Sign' of Let Up in AI Demand, UBS Says",
-    "summary": "Hartmut Issel of UBS Wealth Management said the firm remains 'slightly overweight' semiconductor stocks, telling Bloomberg there is 'absolutely no sign' of any let-up in overall AI demand.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/-absolutely-no-sign-of-let-up-in-ai-demand-ubs-says-video",
-    "source": "Bloomberg",
-    "published": "2026-07-02T03:02:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Musk-Altman Judge Enlists Mediator to Resolve AI Titans' Battle",
-    "summary": "The judge overseeing the legal battle between Elon Musk and Sam Altman over their rival AI ventures has brought in a mediator to help resolve the dispute.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/musk-altman-judge-enlists-mediator-to-resolve-ai-titans-battle",
-    "source": "Bloomberg",
-    "published": "2026-07-02T02:33:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Data Center Firm Switch Seeks $2 Billion in Funding Round",
-    "summary": "Switch Inc. is kicking off a private funding round led by Andreessen Horowitz that could raise about $2 billion. The raise reflects continued investor demand for data-center infrastructure supporting the AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/data-center-firm-switch-seeks-2-billion-in-funding-round",
-    "source": "Bloomberg",
-    "published": "2026-07-02T01:45:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pagos internacionales ponen en riesgo principalidad bancaria",
-    "summary": "Un estudio de FXC Intelligence para Mastercard advierte que las deficiencias en pagos transfronterizos están erosionando la 'principalidad bancaria' de las pymes en México, Brasil y Colombia: 90% de las empresas encuestadas consideraría cambiar de proveedor para sus pagos internacionales. Los bancos tradicionales pierden terreno frente a proveedores alternativos más ágiles en este segmento.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/pagos-internacionales-ponen-riesgo-principalidad-bancaria-20260702-821348.html",
-    "source": "El Economista",
-    "published": "2026-07-02T00:41:07-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Antes de pedir un préstamo desde tu celular, detecta estas señales de un \"montadeudas\"",
-    "summary": "CONDUSEF advierte sobre las señales de alerta para identificar aplicaciones de préstamo fraudulentas o abusivas ('montadeudas') antes de solicitar un crédito desde el celular. La recomendación busca proteger a los consumidores del creciente mercado de crédito digital en México.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/01/apps-de-prestamos-montadeudas-advertencias-condusef",
-    "source": "Expansión",
-    "published": "2026-07-01T23:54:27+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Advierten vulnerabilidades en intermediarios financieros no bancarios",
-    "summary": "Autoridades advirtieron sobre vulnerabilidades en los intermediarios financieros no bancarios (IFNB) en México. El segmento ha ganado peso dentro del sistema financiero mexicano en los últimos años, lo que ha elevado la vigilancia regulatoria sobre riesgos sistémicos fuera de la banca tradicional.",
-    "link": "https://expansion.mx/economia/2026/07/01/advierten-vulnerabilidades-en-intermediarios-financieros-no-bancarios",
-    "source": "Expansión",
-    "published": "2026-07-01T23:22:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "White House accelerates plans for AI model standards",
-    "summary": "The White House is set to accelerate guidance on AI model standards, with an announcement expected as soon as next week. The move follows direct government intervention in the rollout of models from Anthropic and OpenAI.",
-    "link": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
-    "source": "Financial Times",
-    "published": "2026-07-01T22:51:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hacienda dejará de recaudar 3.4 billones de pesos en 2026 y 2027 por estímulos y exenciones fiscales",
-    "summary": "Expansión reporta que la Secretaría de Hacienda dejará de recaudar 3.4 billones de pesos entre 2026 y 2027 debido a estímulos y exenciones fiscales otorgados.",
-    "link": "https://expansion.mx/economia/2026/07/01/hacienda-dejara-de-recaudar-3-4-billones-de-pesos-en-2026-y-2027-por-estimulos-y-exenciones-fiscales",
-    "source": "Expansión",
-    "published": "2026-07-01T21:11:46+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "EU levanta el veto sobre la IA de Anthropic, pero mantiene vigilancia sobre los modelos más poderosos",
-    "summary": "La Unión Europea levantó el veto que pesaba sobre los modelos de inteligencia artificial de Anthropic, aunque mantendrá vigilancia reforzada sobre los sistemas más avanzados. La decisión refleja el enfoque regulatorio europeo de permitir el despliegue de IA bajo condiciones de supervisión continua.",
-    "link": "https://expansion.mx/tecnologia/2026/07/01/eu-libera-claude-fable-5-pero-limita-mythos-5",
-    "source": "Expansión",
-    "published": "2026-07-01T21:00:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 90,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "FIBRAs buscan atraer ahorro pensionario para financiar infraestructura del Plan México",
-    "summary": "Las Fibras (fideicomisos de inversión en bienes raíces) buscan atraer recursos de las Afores para financiar proyectos de infraestructura del Plan México. La iniciativa apunta a canalizar el ahorro para el retiro hacia el desarrollo de infraestructura nacional.",
-    "link": "https://expansion.mx/mercados/2026/07/01/fibras-afores-financiar-infraestructura-plan-mexico",
-    "source": "Expansión",
-    "published": "2026-07-01T19:28:48+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "México deja de gastar más de 418,000 millones de pesos, pero el déficit fiscal se dispara 42%",
-    "summary": "El gobierno de México redujo su gasto en más de 418,000 millones de pesos, pero el déficit fiscal se disparó 42% en el periodo. La cifra refleja la presión sobre las finanzas públicas pese al recorte al gasto.",
-    "link": "https://expansion.mx/economia/2026/07/01/mexico-recorta-418000-mdp-gasto-deficit-fiscal-dispara",
-    "source": "Expansión",
-    "published": "2026-07-01T19:20:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
     "light": true
   }
 ]
