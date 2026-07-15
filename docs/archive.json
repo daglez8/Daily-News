@@ -1,5 +1,71 @@
 [
   {
+    "title": "Crowdfunding inmobiliario expande",
+    "summary": "El crowdfunding inmobiliario en México creció a un ritmo de 42% de nuevo fondeo, acumulando 5,909 millones de pesos captados al cierre de 2025, según Daniel Quintanilla, director general de Inverteca. El directivo lo describe como un nicho complementario a vehículos institucionales como FIBRAS y CKDs, al democratizar el acceso a la inversión inmobiliaria para tickets más pequeños.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/14/crowdfunding-inmobiliario-expande/",
+    "source": "El Financiero",
+    "published": "2026-07-15T04:31:33+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
+    "summary": "Se anunció una inversión de 10 millones de pesos orientada a proteger a pequeñas y medianas empresas mexicanas frente a ataques cibernéticos, según Expansión. La iniciativa busca reducir el riesgo de que las mipymes cierren operaciones a causa de incidentes de ciberseguridad.",
+    "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
+    "source": "Expansión",
+    "published": "2026-07-15T01:08:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El gasto oculto de la IA: empresas desvían su presupuesto de software a centros de datos",
+    "summary": "Empresas estarían redirigiendo presupuesto que antes destinaban a software hacia infraestructura de centros de datos para inteligencia artificial, según Expansión. La nota señala este desvío de gasto como un costo oculto de la adopción de IA en las organizaciones.",
+    "link": "https://expansion.mx/tecnologia/2026/07/14/el-gasto-oculto-de-la-ia-empresas-desvian-presupuesto",
+    "source": "Expansión",
+    "published": "2026-07-15T00:55:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nuevo intento por penalizar la IA",
+    "summary": "La diputada morenista Dolores Padierna presentó una iniciativa para reformar el Código Penal Federal que castigaría con 3 a 7 años de prisión a quien use sistemas de IA para suplantar o manipular la identidad de un tercero sin su consentimiento. La propuesta se adelantó al proceso de debate público sobre regulación de IA que la Presidenta Sheinbaum había anunciado para después del Mundial.",
+    "link": "https://www.eleconomista.com.mx/empresas/nuevo-intento-penalizar-ia-20260715-823304.html",
+    "source": "El Economista",
+    "published": "2026-07-15T00:31:12-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
+    "summary": "Expansión compara la competencia entre BBVA y Santander, los dos mayores bancos españoles con operación en México, en términos de ingresos, número de empleados y red de sucursales en el país. El artículo se enmarca en la disputa por participación de mercado entre ambas instituciones en el sistema bancario mexicano.",
+    "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
+    "source": "Expansión",
+    "published": "2026-07-14T22:19:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta enfrenta demanda por presunto uso de IA para seleccionar despidos",
+    "summary": "Meta enfrenta una demanda por el presunto uso de inteligencia artificial para determinar a qué empleados despedir, según Expansión. El caso se suma a la creciente atención legal sobre el uso de sistemas de IA en decisiones de recursos humanos.",
+    "link": "https://expansion.mx/tecnologia/2026/07/14/meta-enfrenta-demanda-por-uso-ia-seleccionar-despidos",
+    "source": "Expansión",
+    "published": "2026-07-14T21:00:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Caída de precios en EU ‘infla’ al peso: ¿Cuánto gana al dólar HOY 14 de julio?",
     "summary": "El peso mexicano se apreció 0.57% frente al dólar este martes, ubicando el tipo de cambio en 17.42 unidades, luego de que el IPC de Estados Unidos se ubicara en 3.5% en junio, por debajo del 3.7% esperado por el mercado. Analistas de Monex señalaron que el dato reduce el margen para que la Reserva Federal continúe subiendo tasas de interés a corto plazo.",
     "link": "https://www.elfinanciero.com.mx/mercados/2026/07/14/peso-dolar-precio-hoy-14-de-julio-de-2026/",
@@ -5430,72 +5496,6 @@
     "published": "2026-07-02T06:26:50+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El BCE rechaza las peticiones para reducir los niveles de capital de los bancos",
-    "summary": "El Banco Central Europeo rechazó las peticiones del sector bancario para reducir los requisitos de capital, argumentando que los niveles actuales son necesarios por seguridad y no limitan la concesión de crédito. Claudia Buch, responsable de supervisión del BCE, dijo que el aumento de los requisitos desde la crisis financiera no ha mermado la capacidad de los bancos para otorgar préstamos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-rechaza-peticiones-reducir-niveles-capital-bancos-20260702-821362.html",
-    "source": "El Economista",
-    "published": "2026-07-02T06:21:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia Offers Revenue Sharing Model for Aspiring AI Startups",
-    "summary": "Nvidia is expanding access to its AI hardware by granting token credits to developers in exchange for a share of their future sales. The revenue-sharing model aims to lower the barrier to entry for startups building on Nvidia's AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
-    "source": "Bloomberg",
-    "published": "2026-07-02T04:54:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "GMI Cloud CEO on Business Strategy, AI Ecosystem",
-    "summary": "Alex Yeh, founder and CEO of GMI Cloud, discussed the company's business strategy and the outlook for the AI ecosystem in an interview from the sidelines of the IVS2026 conference in Kyoto.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/gmi-cloud-ceo-on-business-strategy-ai-ecosystem-video",
-    "source": "Bloomberg",
-    "published": "2026-07-02T04:07:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "MUIP CIO on AI Investments, Innovation",
-    "summary": "Takashi Sano, CIO at Mitsubishi UFJ Innovation Partners, discussed investment opportunities in AI and the outlook for the innovation landscape from the sidelines of the IVS2026 conference in Kyoto.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/muip-cio-on-ai-investments-innovation-video",
-    "source": "Bloomberg",
-    "published": "2026-07-02T04:02:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
-    "summary": "OpenAI has entered preliminary discussions about giving the US government a 5% stake in the company, according to the Financial Times. The talks come amid rising political pressure on the AI industry and reflect a push toward a public-ownership structure.",
-    "link": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
-    "source": "Financial Times",
-    "published": "2026-07-02T04:00:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Former Goldman Analyst's AI Startup Is Said to Raise $22 Million",
-    "summary": "LinqAlpha, an AI-powered investment research company founded by a former Goldman Sachs analyst, is close to raising $22 million in a Series A round. The deal underscores continued investor appetite for AI tools targeting financial research.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/former-goldman-analyst-s-ai-startup-is-said-to-raise-22-million",
-    "source": "Bloomberg",
-    "published": "2026-07-02T03:19:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   }
