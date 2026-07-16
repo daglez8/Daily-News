@@ -1,5 +1,60 @@
 [
   {
+    "title": "EU busca reducir el déficit comercial con México: Jamieson Greer",
+    "summary": "El representante comercial de EU, Jamieson Greer, adelantó en el Aspen Security Forum que la revisión del T-MEC buscará endurecer reglas de origen y mecanismos (aranceles o cuotas) para reducir el déficit comercial con México y favorecer la relocalización de manufactura hacia EU. Calificó el déficit como \"un problema\" derivado de distorsiones del comercio global.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/16/eu-busca-reducir-el-deficit-comercial-con-mexico-jamieson-greer/",
+    "source": "El Financiero",
+    "published": "2026-07-16T07:01:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Así cerró la inflación en los países de América Latina en el primer semestre de 2026",
+    "summary": "La guerra en Irán y el cierre del estrecho de Ormuz elevaron las expectativas inflacionarias en América Latina durante el primer semestre de 2026, aunque solo Argentina, Venezuela y Cuba cerrarían el año con inflación de dos dígitos. México registra una inflación interanual de 3.37%, entre las más bajas de la región.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/asi-cerro-la-inflacion-en-los-paises-de-america-latina-en-el-primer-semestre-de-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-16T06:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+    "summary": "Nvidia will supply AI hardware and software to Toyota to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long partnership that began with autonomous vehicle development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+    "source": "Bloomberg",
+    "published": "2026-07-15T23:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Exhibition Design for Constelaciones y derivas: arte de América Latina desde la Colección FEMSA",
+    "summary": "Max von Werz Arquitectos, in collaboration with Mauricio Mesta Arquitectos, designed the exhibition space for \"Constelaciones y derivas: arte de América Latina desde la Colección FEMSA\" at the Museo de Arte Contemporáneo de Monterrey (MARCO). The show opened March 19, 2026 and runs through August 9, 2026.",
+    "link": "https://www.archdaily.com/1148699/exhibition-design-for-constelaciones-y-derivas-arte-de-america-latina-desde-la-coleccion-femsa-max-von-werz-arquitectos-plus-maurici-mesta-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-07-15T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Murati's Thinking Machines Releases First AI Model for Broad Use",
+    "summary": "Thinking Machines Lab is releasing its first AI model for broad use, more than a year after former OpenAI executive Mira Murati founded the artificial intelligence startup.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
+    "source": "Bloomberg",
+    "published": "2026-07-15T18:00:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Flotas mexicanas logran ahorros de hasta 30% con análisis de datos",
     "summary": "El alza en los precios de los combustibles y la escasez de operadores están llevando a las empresas de autotransporte en México a adoptar telemática e inteligencia artificial para reducir costos y mejorar la seguridad vial. Geotab, que procesa datos de más de seis millones de vehículos conectados en 163 países, señala que estos modelos predictivos ayudan a anticipar fallas mecánicas e identificar conductores de mayor riesgo.",
     "link": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/07/15/flotas-mexicanas-logran-ahorros-de-hasta-30-con-analisis-de-datos/",
@@ -11,6 +66,17 @@
     "light": false
   },
   {
+    "title": "Palantir's CTO Sees Chinese AI Models Posing Economic Risk to US",
+    "summary": "Palantir CTO Shyam Sankar said China has developed a new vanguard of AI models through unauthorized use of work produced by Silicon Valley AI developers, posing an economic threat to the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us",
+    "source": "Bloomberg",
+    "published": "2026-07-15T17:29:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "China acaba con los \"amantes\" y amistades generadas con IA",
     "summary": "China prohibió a las aplicaciones de inteligencia artificial ofrecer 'amantes' y amistades generadas por IA, según Expansión. La medida se suma a los esfuerzos regulatorios del país para limitar ciertos usos de la IA generativa dirigidos al entretenimiento y la compañía emocional.",
     "link": "https://expansion.mx/tecnologia/2026/07/15/china-prohibe-amantes-generados-ia",
@@ -20,6 +86,17 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Microsoft Gives Sellers Tips to Knock Down Anthropic, OpenAI",
+    "summary": "Microsoft is coaching its sales team on how to vigorously compete against Anthropic and OpenAI, playing up shortcomings in products from the two AI firms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
+    "source": "Bloomberg",
+    "published": "2026-07-15T14:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
   },
   {
     "title": "México frena gasto público en medio de acción de calificadoras S&P y Moody's",
@@ -154,6 +231,17 @@
     "light": false
   },
   {
+    "title": "Cathedral House / JAK Architecture",
+    "summary": "Cathedral House is a new residential build in Thornton, Victoria, sited on a rural hillside overlooking the Cathedral Ranges. It was designed as a low-maintenance weekend retreat for a family seeking a strong connection to the surrounding landscape.",
+    "link": "https://www.archdaily.com/1092490/cathedral-house-jak-architecture",
+    "source": "ArchDaily",
+    "published": "2026-07-15T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Stripe y Advent presentan una oferta por PayPal de más de 53,000 millones de dólares",
     "summary": "Stripe y la firma de capital privado Advent International presentaron una oferta conjunta de 60.50 dólares por acción para adquirir PayPal, valorando a la empresa de pagos en más de 53,000 millones de dólares. La propuesta, respaldada por unos 50,000 millones de dólares en financiamiento bancario comprometido, representa una prima de alrededor de 28% sobre el cierre previo de la acción y se originó en un primer acercamiento en abril.",
     "link": "https://www.eleconomista.com.mx/sectorfinanciero/stripe-advent-presentan-oferta-paypal-53-000-millones-dolares-20260715-823326.html",
@@ -185,6 +273,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "PayPal Works With Goldman, Evercore as Stripe, Advent Make $50B-Plus Offer",
+    "summary": "PayPal has been working with advisers to review strategic options as Stripe and private equity firm Advent pursue a takeover of the fintech pioneer valued at more than $50 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/stripe-advent-offer-to-buy-paypal-for-53-billion-reuters-says",
+    "source": "Bloomberg",
+    "published": "2026-07-15T03:47:43+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Casa Jar / Estudio Nada",
@@ -5397,105 +5496,6 @@
     "published": "2026-07-02T16:58:14+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
-    "summary": "El Hotel Avándaro se posiciona como un nuevo referente de hospitalidad de lujo en Valle de Bravo, según una nota de Expansión.",
-    "link": "https://expansion.mx/bespoke-ad/2026/07/02/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
-    "source": "Expansión",
-    "published": "2026-07-02T16:25:28+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Altman’s AI safety proposal: let us win, or everybody loses",
-    "summary": "Sam Altman's latest AI safety proposal argues that a US-led global order is necessary to keep AI development safe, but critics note this framing would hand a significant advantage to an American oligopoly that includes OpenAI itself. The piece questions whether Altman's safety rhetoric is separable from his commercial interests.",
-    "link": "https://www.ft.com/content/5e92ffa4-c164-4fdd-8219-de08053d4076",
-    "source": "Financial Times",
-    "published": "2026-07-02T16:15:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Revisiones anuales del T-MEC dan golpe anímico a la inversión privada en México",
-    "summary": "Empresarios y analistas advierten que el paso de Estados Unidos a un esquema de revisiones anuales del T-MEC, en lugar de su renovación automática, representa un golpe anímico para la inversión privada en México, que ya navegaba en un entorno de incertidumbre. La presidenta Claudia Sheinbaum insistió en que el tratado se mantiene vigente y que existe certidumbre para la inversión.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/revisiones-anuales-del-t-mec-dan-golpe-animico-a-la-inversion-privada-en-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-02T16:12:59+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Jersey Mike’s, Cumberland Farms Join Swelling IPO Pipeline in US",
-    "summary": "Blackstone-backed Jersey Mike's Subs and convenience-store operator Cumberland Farms both filed for US IPOs, signaling that the new-listings market is broadening beyond AI-linked companies. The filings add to a swelling pipeline of private equity-backed offerings testing investor appetite this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump",
-    "source": "Bloomberg",
-    "published": "2026-07-02T16:03:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Canada's Pembina Advances Gas-Fired Data Center Project",
-    "summary": "Pembina Pipeline will proceed with a C$4.6 billion gas-fired power plant in Alberta to supply electricity for a new AI data center project. The investment reflects the surging energy demands of AI infrastructure buildouts across North America.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/canada-s-pembino-to-advance-with-gas-powered-data-center-project",
-    "source": "Bloomberg",
-    "published": "2026-07-02T15:48:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso avanza tras débil reporte de empleo en EU: ¿Cuánto gana al dólar HOY?",
-    "summary": "El peso mexicano se apreció 0.48% frente al dólar este jueves, hasta 17.46 unidades, después de que el reporte de empleo de Estados Unidos mostrara solo 57 mil nuevas nóminas no agrícolas en junio, muy por debajo de lo esperado. Analistas de Banco Base señalan que el enfriamiento laboral reduce la presión sobre la Reserva Federal para subir tasas de interés.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/02/peso-dolar-precio-hoy-2-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-02T15:42:17+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China’s Kling AI Raises $2 Billion to Expand AI Video",
-    "summary": "Kling AI, the generative video spinoff of China's Kuaishou Technology, has raised an initial $2 billion in venture capital to expand its AI video operations. The mega-round underscores how capital continues to pour into generative AI startups globally despite growing questions about overcapacity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
-    "source": "Bloomberg",
-    "published": "2026-07-02T15:18:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mexican Football Federation High-Performance Center (CAR) / Gensler",
-    "summary": "Gensler designed the Mexican Football Federation's new High-Performance Center (CAR) in Mexico City, a 21,714-square-meter facility completed in 2026. The project is part of a wave of large-scale sports and training infrastructure being built in and around Mexico City.",
-    "link": "https://www.archdaily.com/1042881/mexican-football-federation-high-performance-center-car-rockwell-group-with-gensler",
-    "source": "ArchDaily",
-    "published": "2026-07-02T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 64,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Anthropic in Talks With Samsung for Custom AI Chip: Information",
-    "summary": "Anthropic is reportedly in talks with Samsung Electronics to serve as a manufacturing partner for a custom AI chip, according to The Information. The move would mark another step by a leading AI lab to diversify chip supply beyond Nvidia and reduce reliance on third-party silicon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4",
-    "source": "Bloomberg",
-    "published": "2026-07-02T14:12:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
     "language": "en",
     "light": true
   }
