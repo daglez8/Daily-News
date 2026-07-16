@@ -1,5 +1,71 @@
 [
   {
+    "title": "El norte magnético",
+    "summary": "El Banco de México ha ampliado y desplazado el rango de su tasa de interés neutral (r*) de 1.7%-3.3% en 2016 a 1.8%-3.6% actualmente, con punto medio de 2.7%. El artículo usa la metáfora del norte magnético para explicar por qué esta referencia teórica de política monetaria debe corregirse constantemente en lugar de tomarse como fija.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/16/el-norte-magnetico/",
+    "source": "El Financiero",
+    "published": "2026-07-16T12:47:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Google Must Give Gemini Rivals Equal Access to Android System, EU Says",
+    "summary": "The EU is directing Google to give AI rivals equal access to certain Android features, part of a broader push to open the search data behind its search engine to competitors. The move adds to regulatory pressure on Google's AI and search dominance in Europe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/google-must-give-gemini-rivals-equal-access-to-android-system-eu-says",
+    "source": "Bloomberg",
+    "published": "2026-07-16T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vital Signals Announces $399 Signal Ring That Gives Blood Pressure Readings",
+    "summary": "Startup Vital Signals unveiled a $399 smart ring it claims can measure blood pressure as accurately as a traditional arm cuff, with ambitions to eventually support medical diagnoses. If it delivers on the claim, the device would mark a significant leap for consumer wearables.",
+    "link": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings",
+    "source": "Bloomberg",
+    "published": "2026-07-16T11:00:20+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Respuesta vertical",
+    "summary": "La oferta de vivienda vertical en la Ciudad de México, de 18 mil unidades, se agotará en menos de 20 meses según Tinsa by Accumin Intelligence, en un mercado donde los precios ya superan los 90 mil pesos por m2. El desarrollo vertical busca maximizar rentabilidad ante la escasez de tierra, impulsando también el crecimiento de las rentas en corredores como Reforma.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/07/16/respuesta-vertical/",
+    "source": "El Financiero",
+    "published": "2026-07-16T10:57:39+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Broker Alpaca Raises $435 Million, Explores Prime Broking Entry",
+    "summary": "Trading infrastructure startup Alpaca raised $435 million ($135 million in equity, $300 million in debt) to expand its platform, which lets investors trade across financial markets using AI agents. The funding also supports Alpaca's push into prime brokerage.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/broker-alpaca-raises-435-million-explores-prime-broking-entry",
+    "source": "Bloomberg",
+    "published": "2026-07-16T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead",
+    "summary": "Chinese AI startup Moonshot is preparing to launch Kimi K3, a model expected to outperform Anthropic's Claude Opus 4.8. The move signals a narrowing gap between US and Chinese labs at the frontier of AI development.",
+    "link": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-16T09:51:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "EU busca reducir el déficit comercial con México: Jamieson Greer",
     "summary": "El representante comercial de EU, Jamieson Greer, adelantó en el Aspen Security Forum que la revisión del T-MEC buscará endurecer reglas de origen y mecanismos (aranceles o cuotas) para reducir el déficit comercial con México y favorecer la relocalización de manufactura hacia EU. Calificó el déficit como \"un problema\" derivado de distorsiones del comercio global.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/07/16/eu-busca-reducir-el-deficit-comercial-con-mexico-jamieson-greer/",
@@ -7,6 +73,17 @@
     "published": "2026-07-16T07:01:04+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Robo y perdida de equipo le cuesta 230 millones de pesos al año a las empresas medianas",
+    "summary": "Un estudio de Samsara revela que el robo y extravío de equipo cuesta a las empresas medianas mexicanas unos 230 millones de pesos al año, equivalente a 5% de sus ingresos anuales. El robo de activos de alto valor creció 62% en México, más que el 49% registrado en EU, Reino Unido, Francia, Alemania y Canadá.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/robo-perdida-equipo-le-cuesta-230-millones-pesos-ano-empresas-medianas-20260716-823465.html",
+    "source": "El Economista",
+    "published": "2026-07-16T07:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -5420,83 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 78,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "‘Boom’ exportador de México, en riesgo por revisiones anuales al T-MEC: ¿Por qué?",
-    "summary": "La decisión de Trump de someter el T-MEC a revisiones anuales, en lugar de renovarlo automáticamente, introduce un nuevo nivel de incertidumbre para las empresas que basaron su estrategia de inversión en México en el acceso garantizado al mercado estadounidense. Cerca del 80% de las exportaciones mexicanas se dirige a EU, por lo que el cambio amenaza con profundizar la caída de la inversión que ya afecta a la economía mexicana.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/02/boom-exportador-de-mexico-en-riesgo-por-revisiones-anuales-al-t-mec-por-que/",
-    "source": "El Financiero",
-    "published": "2026-07-02T17:52:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Prison Phone Company Aventiv Clears Hurdle for Lenders’ Takeover",
-    "summary": "Aventiv Technologies has reached an out-of-court deal allowing its lenders to take control of the prison phone company from private equity owner Platinum Equity, ending a lengthy regulatory approval process. The restructuring illustrates the continued wave of lender-led takeovers among heavily leveraged private equity portfolio companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/prison-phone-company-aventiv-clears-hurdle-for-lenders-takeover",
-    "source": "Bloomberg",
-    "published": "2026-07-02T17:34:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banregio primer banco que se suma a la alianza de NAFIN y CAINTRA con financiamiento para pymes",
-    "summary": "Banregio se convirtió en el primer banco en sumarse a la alianza entre Nacional Financiera (Nafin) y la Cámara de la Industria de Transformación de Nuevo León (Caintra) para impulsar el financiamiento a pequeñas y medianas empresas. El director general de Banregio, Héctor Cantú Reyes, destacó que el 85% de la cartera de crédito del banco está orientada al sector empresarial, con foco prioritario en pymes.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/07/02/banregio-primer-banco-que-se-suma-a-la-alianza-de-nafin-y-caintra-con-financiamiento-para-pymes/",
-    "source": "El Financiero",
-    "published": "2026-07-02T17:30:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Moody’s vuelve a elevar la calificación crediticia de Veracruz y mejora su perspectiva a positiva",
-    "summary": "Moody's Local México elevó la calificación de emisor en moneda local de largo plazo del Gobierno de Veracruz de A.mx a A+.mx y mejoró su perspectiva de estable a positiva, además de confirmar en AAA.mx los 12 créditos bancarios vigentes del estado. La agencia atribuye la mejora al fortalecimiento sostenido de los indicadores financieros y espera que Veracruz mantenga balances operativos positivos durante 2026 y 2027.",
-    "link": "https://www.elfinanciero.com.mx/estados/2026/07/02/moodys-vuelve-a-elevar-la-calificacion-crediticia-de-veracruz-y-mejora-su-perspectiva-a-positiva/",
-    "source": "El Financiero",
-    "published": "2026-07-02T17:19:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tech, Finance Titans Redraw Stablecoin Map in Threat to Circle",
-    "summary": "Volatility in Circle Internet Group's shares this week suggests investors are repricing the stablecoin race, betting that the biggest rewards may go to companies controlling stablecoin distribution and payment rails rather than the issuers themselves. Tech and finance giants are increasingly moving into this infrastructure layer, threatening Circle's position.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/tech-finance-titans-redraw-stablecoin-map-in-threat-to-circle",
-    "source": "Bloomberg",
-    "published": "2026-07-02T17:10:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How AI Creates Jobs",
-    "summary": "Revelio Labs Chief Economist Lisa Simon argued that a weaker-than-expected US jobs report doesn't tell the full story, citing hiring data from LinkedIn, Glassdoor and H-1B filings to show AI is helping fuel employment. She said companies investing most heavily in AI are expanding both entry-level and experienced hiring, countering fears of AI-driven job losses.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/how-ai-creates-jobs-video",
-    "source": "Bloomberg",
-    "published": "2026-07-02T16:58:40+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kayne Anderson CEO on Bridgepoint Deal",
-    "summary": "Bridgepoint is making a $1.4 billion bet on Kayne Anderson Real Estate, with co-founder and CEO Al Rabil framing the deal as preparation for a \"10-year supercycle\" driven by AI infrastructure, healthcare real estate and long-term demographic trends. Rabil said the merger unlocks additional capital while preserving the firm's investment autonomy.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/kayne-anderson-ceo-on-bridgepoint-deal-video",
-    "source": "Bloomberg",
-    "published": "2026-07-02T16:58:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
     "light": true
   }
 ]
