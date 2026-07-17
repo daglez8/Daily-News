@@ -1,5 +1,104 @@
 [
   {
+    "title": "Lula’s Panda-Bond Push Tests China’s Appeal for Brazil’s Firms",
+    "summary": "Brazil is pushing an ambitious plan for its companies to tap China's onshore bond market through so-called panda bonds, but the initiative's success hinges on whether Brazilian corporates actually follow the government's lead. The push highlights Brazil's effort to diversify its capital-raising options beyond traditional Western markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/lula-s-panda-bond-push-tests-china-s-appeal-for-brazil-s-firms",
+    "source": "Bloomberg",
+    "published": "2026-07-17T11:26:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IBM’s Warning Is a ‘Hammer’ Slamming Down on Tech’s AI Outsiders",
+    "summary": "IBM's warning this week that its sales are falling well short of expectations has exposed a widening gap between artificial-intelligence winners and the rest of the tech sector. The result adds to concerns that AI-driven gains are concentrating among a handful of companies while others struggle to keep pace.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/ibm-s-warning-is-a-hammer-slamming-down-on-tech-s-ai-outsiders",
+    "source": "Bloomberg",
+    "published": "2026-07-17T11:05:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI-Based Businesses Are Diversifying and Rejecting AI Model Monogamy",
+    "summary": "Companies that depend on a single AI model are increasingly diversifying across providers to avoid being left vulnerable to outages, pricing shifts, or sudden model changes. The trend reflects growing enterprise caution about betting exclusively on one AI vendor as competition among model makers intensifies.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy",
+    "source": "Bloomberg",
+    "published": "2026-07-17T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "summary": "Apple has escalated its legal offensive against OpenAI, sending letters to dozens of its employees as part of an ongoing trade-secrets dispute between the two companies. The move signals rising tension in the AI talent war between Big Tech and leading AI labs.",
+    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-17T10:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La mejor ciudad del mundo está en México: así quedó el ranking 2026 de Travel + Leisure",
+    "summary": "San Miguel de Allende fue elegida la mejor ciudad del mundo en los World's Best Awards 2026 de Travel + Leisure, con base en más de 661,000 evaluaciones de viajeros. Ciudad de México y Oaxaca también entraron al top 10, consolidando a México como uno de los pocos destinos fuera de Asia en el ranking, impulsado por su arquitectura colonial y oferta gastronómica.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/la-mejor-ciudad-del-mundo-esta-en-mexico-asi-quedo-el-ranking-2026-de-travel-leisure/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T10:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Morosidad entre neobancos argentinos va del 5% al 50% de la cartera, según datos del BCRA",
+    "summary": "La morosidad del sistema financiero argentino alcanzó en abril su nivel más alto en más de una década (6.8%), según datos del BCRA, con Carrefour Banco a la cabeza del ranking entre neobancos minoristas. El deterioro golpea sobre todo a los préstamos a individuos, el segmento donde se concentran las fintechs con licencia bancaria como Ualá, Voii y Brubank.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/desde-carrefour-a-voii-los-neobancos-argentinos-con-la-mayor-morosidad-segun-el-bcra/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T09:07:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BlackRock confía que México mantendrá el grado de inversión",
+    "summary": "Pese a los riesgos sobre las finanzas públicas y la incertidumbre por la renegociación del T-MEC, directivos de BlackRock México confían en que la Secretaría de Hacienda logrará contener el aumento de la deuda para conservar el grado de inversión del país. Destacaron que México mantiene ventajas estructurales, como su integración con EU y Canadá, que sostendrían el interés de la inversión extranjera de largo plazo.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/17/blackrock-confia-que-mexico-mantendra-el-grado-de-inversion/",
+    "source": "El Financiero",
+    "published": "2026-07-17T08:12:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China’s Moonshot Unveils AI Model That Narrows Gap With US Firms",
+    "summary": "Chinese AI lab Moonshot unveiled a new model that it claims performs on par with top-tier platforms from OpenAI and Anthropic, the latest sign that Chinese AI labs are closing the technology gap with US rivals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+    "source": "Bloomberg",
+    "published": "2026-07-17T07:01:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El segundo semestre no perdona: 3 decisiones fiscales para tu empresa",
+    "summary": "Una columna de El Economista advierte que las empresas mexicanas deben tomar decisiones fiscales clave en el segundo semestre, ya que la autoridad fiscal está fiscalizando con más datos, mayor velocidad y menos tolerancia que en ejercicios anteriores. Entre las recomendaciones destaca dejar de tratar el cumplimiento fiscal como un trámite de fin de año y vigilar de cerca los comprobantes fiscales (CFDI).",
+    "link": "https://www.eleconomista.com.mx/el-empresario/segundo-semestre-perdona-3-decisiones-fiscales-empresa-20260717-823698.html",
+    "source": "El Economista",
+    "published": "2026-07-17T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Secretario de la ONU pide evitar que ‘un puñado de países’ controle la inteligencia artificial",
     "summary": "El secretario general de la ONU, António Guterres, advirtió en la apertura de la Conferencia Mundial de IA en Shanghái que no debe permitirse que “un puñado de países o empresas” controlen el futuro de la inteligencia artificial. Llamó a garantizar que la tecnología sirva a toda la humanidad y reduzca, en lugar de ampliar, las desigualdades globales.",
     "link": "https://www.elfinanciero.com.mx/mundo/2026/07/17/secretario-de-la-onu-pide-evitar-que-un-punado-de-paises-controle-la-inteligencia-artificial/",
@@ -40,6 +139,17 @@
     "published": "2026-07-17T06:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hotel group Accor hired law firm to investigate conduct of CEO Bazin",
+    "summary": "Hotel group Accor hired an outside law firm to investigate allegations of impropriety involving CEO Bazin's dealings with associates, and the resulting report found no wrongdoing. The episode highlights the heightened scrutiny facing executive conduct and governance at major corporates.",
+    "link": "https://www.ft.com/content/3bf0b475-21bb-4420-8402-57999ed91628?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-17T04:00:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
     "language": "en",
     "light": true
   },
@@ -132,6 +242,17 @@
     "light": false
   },
   {
+    "title": "Xi Seeks Global AI Sway as Surging Chinese Models Spur Alarm",
+    "summary": "Chinese President Xi Jinping is using the rapid rise of the country's AI models to assert his ambition to help shape the technology's global rules. The surging power of Chinese AI systems is simultaneously stirring security concerns in both Washington and Beijing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma",
+    "source": "Bloomberg",
+    "published": "2026-07-16T23:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "México mantendrá precios máximos y subsidios a combustibles para evitar inflación",
     "summary": "La presidenta Claudia Sheinbaum confirmó que México mantendrá los precios máximos y subsidios a gasolina y diésel para contener la inflación ante la escalada de la guerra en Medio Oriente y su impacto en los mercados energéticos. El gasto se compensa parcialmente con ingresos de Pemex, que atraviesa su nivel de producción más bajo en cuatro décadas y una deuda de 79,000 millones de dólares.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-mantendra-precios-maximos-y-subsidios-a-combustibles-para-evitar-inflacion/",
@@ -196,6 +317,17 @@
     "relevance_score": 95,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "MA House – Atibaia / Estúdio Rossi Arquitetos",
+    "summary": "Estudio Rossi Arquitetos designed the MA House on a sloping plot within a gated community in Atibaia, Brazil, organizing the year-round residence around the site's geography and surrounding landscape.",
+    "link": "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
+    "source": "ArchDaily",
+    "published": "2026-07-16T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Podcast: Tokenization, Digital Twins and the Future of ETFs",
@@ -295,6 +427,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Treinta y Nueve Árboles / Grizzo Studio",
+    "summary": "Grizzo Studio's Treinta y Nueve Arboles house sits on a forested plot in Carilo, Argentina, designed to preserve the site's trees and filtered sunlight. The house intertwines with the surrounding forest rather than imposing on it, creating a space for contemplating nature.",
+    "link": "https://www.archdaily.com/1148783/treinta-y-nueve-arboles-grizzo-studio",
+    "source": "ArchDaily",
+    "published": "2026-07-16T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Así invierten los grandes fondos en América Latina: más Colombia y cautela con Brasil y México",
@@ -550,6 +693,17 @@
     "light": false
   },
   {
+    "title": "Faro Santander Museum / David Chipperfield Architects",
+    "summary": "David Chipperfield Architects has reimagined the historic Pereda Building, former Banco Santander headquarters, as Faro Santander, a new cultural space opening September 8 under the Banco Santander Foundation. The ten-story building will house the bank's art collection alongside temporary exhibitions, creative spaces, a cafe, restaurant, and rooftop terrace.",
+    "link": "https://www.archdaily.com/1148647/faro-santander-museum-david-chipperfield-architects",
+    "source": "ArchDaily",
+    "published": "2026-07-16T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Uber Agrees to Buy Delivery Hero in $14.8 Billion Deal",
     "summary": "Uber Technologies has agreed to acquire German food-delivery company Delivery Hero for $14.8 billion, expanding its global delivery operations. The deal marks continued consolidation in the food-delivery sector.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates",
@@ -569,6 +723,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 63,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "ZASIP house, renovation and expansion / Raketa",
+    "summary": "Studio Raketa's renovation and expansion of the ZASIP house updates architect Oton Jugovec's holiday home overlooking Slovenia's Lake Bled. The project respects the original architecture and its dramatic natural-terrace setting while enabling contemporary living.",
+    "link": "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
+    "source": "ArchDaily",
+    "published": "2026-07-16T06:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
     "light": false
   },
   {
@@ -5331,171 +5496,6 @@
     "published": "2026-07-04T18:34:48+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rosso listening bar / Naso",
-    "summary": "ArchDaily features the Rosso Listening Bar, a 40 m² space in Mexico City designed by Naso, with photography by Jose Ignacio Vargas. The 2026 project is a recent example of boutique interior design in the Mexican capital.",
-    "link": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
-    "source": "ArchDaily",
-    "published": "2026-07-04T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Credit Agricole Increases BPM Stake, Boosting Position in Italy",
-    "summary": "Crédit Agricole has increased its stake in Italy's Banco BPM, deepening its foothold in the Italian banking sector. The move underscores continued consolidation and cross-border positioning among major European financial institutions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy",
-    "source": "Bloomberg",
-    "published": "2026-07-04T11:38:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El Vasco Aguirre y el código invisible de la Selección Mexicana",
-    "summary": "El técnico Javier 'Vasco' Aguirre ha sido visto leyendo The Culture Code, de Daniel Coyle, un libro sobre cómo se construyen culturas de alto desempeño mediante seguridad, vulnerabilidad compartida y propósito. El artículo, publicado en la sección Capital Humano de El Economista, analiza a la Selección Mexicana como un caso de estudio organizacional sobre liderazgo y construcción de cultura de equipo.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/vasco-aguirre-codigo-invisible-seleccion-mexicana-20260704-821600.html",
-    "source": "El Economista",
-    "published": "2026-07-04T08:05:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Toman mal parado al País las revisiones del T-MEC",
-    "summary": "Expertos de Grupo Coppel y Banorte advierten que las revisiones anuales del T-MEC dejan a México en una posición débil frente a sus serios problemas de crecimiento económico. El análisis señala que la incertidumbre derivada de este mecanismo de revisión, en lugar de una renovación plena del tratado, complica las perspectivas económicas del país.",
-    "link": "https://www.reforma.com/toman-mal-parado-al-pais-las-revisiones-del-t-mec/ar3234413",
-    "source": "Reforma",
-    "published": "2026-07-04T05:01:13-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La desventaja de México por el ‘castigo’ de Trump",
-    "summary": "El secretario de Economía, Marcelo Ebrard, confía en que la vigencia del T-MEC —aunque sujeto a revisiones anuales en lugar de una renovación plena por 16 años— representará una oportunidad de crecimiento e inversión para México. Sin embargo, analistas advierten que la falta de una extensión completa del tratado incrementa la incertidumbre para empresas e inversionistas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/03/la-desventaja-de-mexico-por-el-castigo-de-trump/",
-    "source": "El Financiero",
-    "published": "2026-07-04T04:04:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bancos evitarán fraudes con nueva regulación biométrica",
-    "summary": "Una nueva regulación biométrica en México busca reforzar la prevención de fraudes en el sistema bancario, según Expansión. La medida apunta a fortalecer los mecanismos de identificación de clientes para reducir el riesgo de suplantación y fraude financiero.",
-    "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
-    "source": "Expansión",
-    "published": "2026-07-04T00:58:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las claves económicas de la semana (29 de junio al 3 de julio): De remesas y ventas de autos",
-    "summary": "Un repaso semanal de El Economista destaca que la confianza del consumidor en México se recuperó en junio a 43.8 puntos tras el desplome de mayo, en plena temporada mundialista. La nota también resume datos de remesas, venta de automóviles, y cifras de confianza del consumidor y desempleo en Estados Unidos durante la semana del 29 de junio al 3 de julio.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-29-junio-3-julio-remesas-ventas-autos-20260703-821657.html",
-    "source": "El Economista",
-    "published": "2026-07-03T23:48:14-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
-    "summary": "Pese a que las tasas de interés hipotecarias en México se mantienen en niveles altos, la originación de créditos para vivienda sigue creciendo, de acuerdo con un reporte de Expansión. La nota examina por qué la demanda no se ha frenado a pesar del costo elevado del financiamiento.",
-    "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
-    "source": "Expansión",
-    "published": "2026-07-03T21:37:05+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
-    "summary": "In a Bloomberg 'Masters in Business' conversation, Kleiner Perkins partner Mamoon Hamid discusses his approach to early-stage AI investing and how he became an early backer of companies like Slack and Figma. He also reflects on how the firm evaluates AI deals it passed on, offering a window into venture capital thinking during the current AI boom.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
-    "source": "Bloomberg",
-    "published": "2026-07-03T21:13:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El Tec crea su propio ChatGPT para ordenar el uso de la IA en las aulas",
-    "summary": "El Tecnológico de Monterrey desarrolló su propia herramienta de inteligencia artificial generativa, similar a ChatGPT, para regular y estandarizar el uso de la IA dentro de sus aulas. La iniciativa busca dar a la institución mayor control sobre cómo estudiantes y profesores utilizan estas herramientas en el proceso educativo.",
-    "link": "https://expansion.mx/carrera/2026/07/03/tec-monterrey-crea-propio-chatgpt",
-    "source": "Expansión",
-    "published": "2026-07-03T20:18:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La historia de Bital: el banco mexicano que terminó en manos de un gigante inglés en el nuevo milenio",
-    "summary": "Expansión repasa la historia de Bital, uno de los bancos mexicanos más importantes de finales del siglo XX, que terminó siendo adquirido por HSBC a inicios de los 2000. El artículo recorre el ascenso y las dificultades financieras que llevaron a esa venta al gigante bancario británico.",
-    "link": "https://expansion.mx/economia/2026/07/03/bital-banco-mexicano-se-convirtio-en-hsbc",
-    "source": "Expansión",
-    "published": "2026-07-03T19:40:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los Wealthy Hand-to-Mouth (hogares con patrimonio pero restringidos por liquidez) y las remesas",
-    "summary": "Un artículo de opinión en El Economista retoma el concepto de los 'Wealthy Hand-to-Mouth households' —hogares con cierto patrimonio pero con restricciones de liquidez— para explicar por qué las remesas tienen un efecto tan fuerte sobre el consumo en México. El autor argumenta que, a diferencia de Estados Unidos, donde la iliquidez surge de activos no líquidos, en México suele deberse a bajos ingresos y poco patrimonio, aunque el resultado —una alta propensión a gastar ingresos extraordinarios— es similar.",
-    "link": "https://www.eleconomista.com.mx/opinion/wealthy-hand-to-mouth-hogares-patrimonio-restringidos-liquidez-remesas-20260703-821629.html",
-    "source": "El Economista",
-    "published": "2026-07-03T19:02:48-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Por qué Whirlpool cerrará una planta en México? La reestructuración detrás de la decisión",
-    "summary": "Expansión reporta el cierre de una planta de Whirlpool en México y explora la reestructuración corporativa detrás de la decisión. La nota analiza las implicaciones del cierre para las operaciones de la compañía en el país.",
-    "link": "https://expansion.mx/empresas/2026/07/03/whirpool-cerrara-apocada-que-pasara-planta",
-    "source": "Expansión",
-    "published": "2026-07-03T18:00:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Goldman Sachs ve oportunidades en América Latina tras mejorar su visión sobre emergentes",
-    "summary": "Goldman Sachs adoptó una visión más constructiva sobre los mercados emergentes para la segunda mitad de 2026, tras la caída de los precios del petróleo, y ve oportunidades diferenciadas en América Latina en renta variable, divisas, deuda local y crédito soberano. El banco advirtió que persisten riesgos ligados a la política monetaria de EU y a factores políticos internos de la región.",
-    "link": "https://www.bloomberglinea.com/mercados/goldman-sachs-ve-oportunidades-en-america-latina-tras-mejorar-su-vision-sobre-emergentes/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-03T17:48:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bolsa Mexicana abre con ganancias y Wall Street ‘descansa’ por la Independencia de EU: ¿Cómo opera HOY?",
-    "summary": "La Bolsa Mexicana de Valores abrió con ganancias este viernes, con el S&P/BMV IPC subiendo 0.05% y el FTSE-BIVA avanzando 0.01%, mientras Wall Street permaneció cerrado por el feriado de independencia de EU. Los mercados globales avanzan ante la expectativa de que la Fed no suba tasas en su próxima reunión.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/03/bmv-wall-street-hoy-3-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-03T17:24:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
     "language": "es",
     "light": false
   }
