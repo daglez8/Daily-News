@@ -1,5 +1,137 @@
 [
   {
+    "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
+    "summary": "Meta is in talks to spend up to $10bn leasing data-centre computing power to Anthropic, as the social media giant explores launching its own cloud business atop its $145bn infrastructure buildout. The deal would mark a major shift for Meta from AI developer to AI infrastructure provider, deepening ties between Big Tech and leading AI labs.",
+    "link": "https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-17T18:32:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street abre negativo por venta de títulos tecnológicos: ¿Cómo opera HOY?",
+    "summary": "Wall Street abrió con pérdidas lideradas por el Nasdaq, mientras los inversionistas cuestionan la rentabilidad de las inversiones en inteligencia artificial. Las bolsas europeas y los principales índices mexicanos también resintieron la toma de utilidades en el sector tecnológico.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/17/bmv-wall-street-hoy-17-de-julio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-07-17T17:23:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why the Moonshot Moment May Not Be a DeepSeek Moment",
+    "summary": "A Bloomberg analysis argues that Moonshot AI's new Kimi K3 model, despite triggering fresh tech-stock selloffs, may not repeat the market shock of DeepSeek's debut given differences in scale and market positioning. The piece cautions that history doesn't always repeat itself when China's AI challengers rattle US markets.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/why-the-moonshot-moment-may-not-be-a-deepseek-moment",
+    "source": "Bloomberg",
+    "published": "2026-07-17T17:13:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las tres razones por las que Bank of America cree que el dólar se puede fortalecer este año",
+    "summary": "Bank of America prevé que el dólar recupere terreno frente a las divisas latinoamericanas en la segunda mitad de 2026, impulsado por las tensiones en Medio Oriente, una Fed restrictiva y el gasto de capital en IA de las hiperescaladoras. El pronóstico contrasta con la apreciación que han mostrado varias monedas de la región en lo que va del año.",
+    "link": "https://www.bloomberglinea.com/mercados/las-tres-razones-por-las-que-bank-of-america-cree-que-el-dolar-se-puede-fortalecer-este-ano/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T16:20:52+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Moonshot sacude a Wall Street: qué es Kimi K3 y por qué revive el temor a un “momento DeepSeek”",
+    "summary": "El lanzamiento de Kimi K3, el nuevo modelo de IA de la startup china Moonshot AI, provocó una nueva ola de ventas en el sector tecnológico y revivió el temor a un 'momento DeepSeek', al mostrar que China reduce la brecha tecnológica con EU a menor costo. Analistas señalan que el episodio reabre el debate sobre si las multimillonarias inversiones en IA generarán la rentabilidad que el mercado descuenta.",
+    "link": "https://www.bloomberglinea.com/mercados/moonshot-sacude-a-wall-street-que-es-kimi-k3-y-por-que-revive-el-temor-a-un-momento-deepseek/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T15:28:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Spain, Portugal Data Center Boom Faces Electrical Grid Bottlenecks",
+    "summary": "Spain and Portugal's data-center construction boom is being slowed by electrical grid capacity constraints, network access limits and permitting bottlenecks, according to Bloomberg. The constraints illustrate the infrastructure and governance challenges accompanying the global AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spain-and-portugal-s-data-center-boom-faces-grid-bottlenecks",
+    "source": "Bloomberg",
+    "published": "2026-07-17T13:09:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Por qué la IA nos da la razón, aunque estemos equivocados",
+    "summary": "Una columna de opinión en Expansión explora por qué los modelos de inteligencia artificial tienden a validar las opiniones del usuario incluso cuando está equivocado, un fenómeno de sesgo de complacencia. El texto plantea implicaciones para la confiabilidad de la IA en la toma de decisiones.",
+    "link": "https://expansion.mx/opinion/2026/07/17/por-que-la-ia-nos-da-la-razon-aunque-estemos-equivocados",
+    "source": "Expansión",
+    "published": "2026-07-17T12:03:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Desaprender, ¿el nuevo superpoder del talento humano?",
+    "summary": "Una columna de opinión en Expansión plantea que 'desaprender' hábitos y conocimientos obsoletos se está convirtiendo en una habilidad clave para el talento humano en la era de la transformación tecnológica. El texto se suma al debate sobre cómo deben rediseñarse las competencias laborales frente a la disrupción de la IA.",
+    "link": "https://expansion.mx/opinion/2026/07/17/desaprender-el-nuevo-superpoder-del-talento-humano",
+    "source": "Expansión",
+    "published": "2026-07-17T12:02:46+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "La carrera por la IA: el verdadero valor lo aporta la persona",
+    "summary": "Una columna de opinión en Expansión argumenta que, en la carrera por la inteligencia artificial, el verdadero valor diferencial sigue proviniendo de las personas y no solo de la tecnología. El texto invita a las organizaciones a priorizar el desarrollo del talento humano junto con la adopción de IA.",
+    "link": "https://expansion.mx/opinion/2026/07/17/la-carrera-por-la-ia-el-verdadero-valor-lo-aporta-la-persona",
+    "source": "Expansión",
+    "published": "2026-07-17T12:02:29+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Una de cada tres grandes empresas en México desconoce cuánto destina a la inteligencia artificial",
+    "summary": "Un estudio de Accenture, IPADE Business School y Empresas Globales encontró que 34.1% de las grandes empresas en México no sabe qué proporción de su presupuesto destina a inteligencia artificial, mientras 47.7% invierte entre 1% y 5%. La falta de claridad presupuestal refleja que la IA aún compite por recursos con otras prioridades corporativas pese al avance en su adopción.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/tres-grandes-empresas-mexico-desconoce-cuanto-destina-inteligencia-artificial-20260717-823786.html",
+    "source": "El Economista",
+    "published": "2026-07-17T12:00:30-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México invierte 213 veces menos que EU en IA, pero las startups aún tienen una oportunidad",
+    "summary": "México invierte 213 veces menos que Estados Unidos en inteligencia artificial, de acuerdo con un reporte citado por Expansión. Pese a la brecha, el artículo señala que las startups mexicanas todavía tienen una oportunidad para posicionarse en el sector.",
+    "link": "https://expansion.mx/tecnologia/2026/07/17/mexico-invierte-213-veces-menos-que-eu-en-ia",
+    "source": "Expansión",
+    "published": "2026-07-17T11:55:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
+    "summary": "Los fraudes bancarios cuestan a las víctimas hasta 50,000 pesos en promedio, de acuerdo con un reporte citado por Expansión. La cifra pone en relieve los riesgos de conducta financiera y protección al consumidor que enfrenta el sistema bancario mexicano.",
+    "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
+    "source": "Expansión",
+    "published": "2026-07-17T11:55:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Lula’s Panda-Bond Push Tests China’s Appeal for Brazil’s Firms",
     "summary": "Brazil is pushing an ambitious plan for its companies to tap China's onshore bond market through so-called panda bonds, but the initiative's success hinges on whether Brazilian corporates actually follow the government's lead. The push highlights Brazil's effort to diversify its capital-raising options beyond traditional Western markets.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/lula-s-panda-bond-push-tests-china-s-appeal-for-brazil-s-firms",
@@ -9,6 +141,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Sectur presenta Plan \"Tulum Renace\"; se elimina el cobro al parque El Jaguar",
+    "summary": "La Secretaría de Turismo presentó el plan 'Tulum Renace', una estrategia de 10 puntos que incluye entrada gratuita al Parque del Jaguar y reducción a la mitad de las tarifas de acceso del INAH y la Conanp, buscando reposicionar al destino tras una caída en la ocupación hotelera. La medida responde a percepciones de precios altos y problemas de movilidad que han afectado la afluencia turística.",
+    "link": "https://www.eleconomista.com.mx/estados/sectur-presenta-plan-tulum-renace-eliminan-cobro-parque-jaguar-20260717-823778.html",
+    "source": "El Economista",
+    "published": "2026-07-17T11:11:17-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "IBM’s Warning Is a ‘Hammer’ Slamming Down on Tech’s AI Outsiders",
@@ -29,6 +172,17 @@
     "published": "2026-07-17T11:02:01+00:00",
     "category": "AI & Agents",
     "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Can Still Win the AI Race With Inferior Technology",
+    "summary": "A Bloomberg opinion piece argues China can still win the global AI race even with technologically inferior models, framing the contest as being as much about economics and power as raw engineering. The analysis comes amid renewed market jitters over Chinese AI models like Moonshot's Kimi K3 closing the gap with US labs.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/china-can-still-win-the-ai-race-with-inferior-technology",
+    "source": "Bloomberg",
+    "published": "2026-07-17T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -176,6 +330,17 @@
     "light": true
   },
   {
+    "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
+    "summary": "Emerging-market stocks slumped toward a weekly loss and a key gauge neared a technical correction as mounting doubts over AI valuations spread beyond US and Asian tech markets. The selloff underscores how sensitive EM equities, including Latin America, have become to swings in AI-driven sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
+    "source": "Bloomberg",
+    "published": "2026-07-17T03:54:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Slim compra participación en campo petrolero de México a TotalEnergies",
     "summary": "Carlos Slim, a través de Grupo Carso, acordó comprar el 30% de participación de TotalEnergies en el Bloque 30 del Golfo de México, que contiene el yacimiento KAN operado por Harbour Energy. La operación, sujeta a autorizaciones gubernamentales, amplía la creciente presencia de Slim en el sector energético mexicano.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/slim-compra-participacion-en-campo-petrolero-de-mexico-a-totalenergies/",
@@ -185,6 +350,17 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+    "summary": "Japan's Nikkei 225 tumbled more than 10% below its June 25 peak, entering a technical correction as investors grow wary that the global AI rally has run too far. The decline mirrors similar pullbacks in chip and tech stocks worldwide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+    "source": "Bloomberg",
+    "published": "2026-07-17T00:52:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Despidos en el sector de la transformación hilan un año y medio",
@@ -262,6 +438,28 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Chip Stocks Fall to Bear-Market Brink in AI Unwind: Markets Wrap",
+    "summary": "A selloff in semiconductor stocks accelerated, pushing the group that led this year's market rally to the edge of a bear market amid growing doubts that AI spending can justify current valuations. The rout reflects broader investor anxiety about the sustainability of the AI capital-expenditure boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg",
+    "published": "2026-07-16T22:05:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreLogic Tweaks Terms on Struggling Debt Sale, Boosts Loan",
+    "summary": "CoreLogic amended the terms of its roughly $5.3 billion debt offering and shifted part of the funding from bonds to loans after struggling to find investor demand. The move by the major US real-estate and mortgage-data provider signals tighter appetite for structured mortgage-related debt in current credit markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
+    "source": "Bloomberg",
+    "published": "2026-07-16T21:32:22+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
   },
   {
     "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
@@ -5300,203 +5498,5 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Ven diversas oportunidades para prolongar el T-MEC",
-    "summary": "El T-MEC tiene varias vías posibles para prolongarse más allá de su vigencia actual: una reactivación por 16 años si México y Canadá ofrecen concesiones rápidas a Estados Unidos, o negociaciones alargadas hasta el fin del mandato de Trump en enero de 2029. El análisis de El Economista plantea que incluso si un sucesor de Trump no quisiera extender el tratado, existirían nuevas oportunidades en periodos presidenciales futuros.",
-    "link": "https://www.eleconomista.com.mx/empresas/ven-diversas-oportunidades-prolongar-t-mec-20260706-821823.html",
-    "source": "El Economista",
-    "published": "2026-07-06T00:24:17-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lo que México puede ceder y lo que no",
-    "summary": "El T-MEC sigue vigente hasta 2036, pero Estados Unidos rechazó extenderlo hasta 2042 y en cambio impondrá revisiones anuales, tras reducir su pliego de exigencias comerciales de 54 a 14 puntos respecto al año pasado. El análisis advierte que el mayor riesgo ya no es una eventual salida de Estados Unidos del tratado, sino la incertidumbre permanente sobre la inversión que generan esas revisiones anuales. El texto distingue entre exigencias negociables, como barreras no arancelarias y trámites aduaneros, y aquellas que México consideraría innegociables.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-ceder-20260706-821818.html",
-    "source": "El Economista",
-    "published": "2026-07-06T00:02:02-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sancionan a 35 funcionarios; 13 dependencias y 3 empresas",
-    "summary": "La Secretaría Anticorrupción y Buen Gobierno aplicó sanciones a 35 servidores públicos de 13 dependencias y tres empresas, con inhabilitaciones de hasta 15 años y multas por 70.4 millones de pesos. El Tribunal Federal de Justicia Administrativa impuso las sanciones por 16 faltas graves y 14 infracciones no graves, en casos que incluyen bienes entregados sin evidencia y uso indebido de contratos de distribución.",
-    "link": "https://www.eleconomista.com.mx/politica/sancionan-35-funcionarios-13-dependencias-3-empresas-20260706-821817.html",
-    "source": "El Economista",
-    "published": "2026-07-06T00:00:40-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Poses Biggest Security Challenge of Decade, UK’s Cooper Warns",
-    "summary": "Britain's foreign secretary is set to warn that artificial intelligence poses the biggest security challenge of the decade, calling for the world to urgently develop guardrails to contain the threat. The remarks underscore growing government concern over containing AI-related risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns",
-    "source": "Bloomberg",
-    "published": "2026-07-05T21:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Women’s progress at work appears to be stalling",
-    "summary": "The Economist examines signs that women's career progress may be stalling after the \"lean in\" generation, asking whether professional women are now leaning out of the workforce. The piece frames this as a possible reversal of decades of gains in female workplace advancement.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
-    "source": "The Economist",
-    "published": "2026-07-05T17:22:02+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EasyJet Agrees to Castlelake’s Latest Bid Topping £5 Billion",
-    "summary": "EasyJet agreed in principle to a takeover offer of more than £5 billion from private credit firm Castlelake LP. The bid emerged as the UK budget carrier struggled with soaring jet fuel prices and weaker demand following the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/easyjet-agrees-to-castlelake-s-5-2-billion-takeover-offer",
-    "source": "Bloomberg",
-    "published": "2026-07-05T16:21:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing",
-    "summary": "SK Hynix's $29 billion US stock listing this week could be the biggest-ever first-time share sale by a foreign company, giving it fresh access to AI-focused investors. Beyond raising cash, the move positions SK Hynix to compete more directly in the memory-chip segment powering global AI computing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
-    "source": "Bloomberg",
-    "published": "2026-07-05T13:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Semiconductor Stocks Slide Amid AI Spending Concerns",
-    "summary": "Las acciones de semiconductoras cayeron bajo presión mientras los inversionistas cuestionan si el rápido ritmo de gasto en infraestructura de IA puede sostenerse más allá de 2026, pese a los compromisos continuos de las grandes tecnológicas, según Bloomberg. La próxima colocación de ADR de SK Hynix en EU se citó como una vía para dar a los inversionistas acceso a un proveedor líder de chips de memoria para IA mientras financia su expansión.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video",
-    "source": "Bloomberg",
-    "published": "2026-07-05T12:25:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cómo el capital de IA está cambiando al mundo financiero? Esto ve un gigante de Wall Street",
-    "summary": "Un informe de Goldman Sachs Investment Banking estima que la infraestructura de IA requerirá cerca de US$7 billones de inversión entre 2026 y 2031, financiados con acciones, deuda pública y privada, capital soberano y nuevas joint ventures. El banco advierte que el impacto de la IA apenas comienza a extenderse más allá del software hacia manufactura, robótica, defensa y energía.",
-    "link": "https://www.bloomberglinea.com/mercados/como-el-capital-de-ia-esta-cambiando-al-mundo-financiero-esto-ve-un-gigante-de-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-05T11:00:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 87,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Japón planea desarrollar un modelo de IA propio y tener 10 millones de robots en 2040",
-    "summary": "Japón anunció planes para desarrollar un modelo de inteligencia artificial soberano y desplegar 10 millones de robots equipados con IA en más de una docena de sectores para 2040. El gobierno invertirá cerca de US$6,000 millones a través de Noetra, un consorcio liderado por SoftBank y Sony que espera sumar hasta 44 empresas, en un esfuerzo por reducir la dependencia tecnológica de Estados Unidos y China.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/japon-planea-desarrollar-modelo-ia-propio-10-millones-robots-20260705-821709.html",
-    "source": "El Economista",
-    "published": "2026-07-05T08:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Acciones HALO ganan protagonismo en los mercados emergentes",
-    "summary": "Las acciones HALO (\"heavy assets, low obsolescence\") ganan protagonismo entre inversionistas de mercados emergentes, impulsadas por la demanda de infraestructura física que genera el boom de la inteligencia artificial, según Goldman Sachs Research. Una canasta de acciones intensivas en capital —redes eléctricas, energía y manufactura— subió 115% desde fines de 2025 hasta junio, frente a solo 7% de las acciones \"capital-light\".",
-    "link": "https://www.bloomberglinea.com/mercados/acciones-halo-ganan-protagonismo-en-los-mercados-emergentes/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-05T08:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
-    "summary": "Hon Hai Precision, socio de ensamblaje de servidores de Nvidia, reportó un salto de ventas trimestrales del 40%, superando expectativas, y dijo que la demanda de IA sigue creciendo. Los resultados refuerzan que la demanda de hardware para IA se mantiene sólida pese a las dudas más amplias sobre la sostenibilidad del gasto de capital.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
-    "source": "Bloomberg",
-    "published": "2026-07-05T07:47:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dinero en efectivo sigue siendo base de la economía mexicana",
-    "summary": "Ocho de cada 10 transacciones comerciales en México aún se realizan en efectivo, frente a cuatro de cada diez en Brasil y tres de cada diez en EU, según un investigador del Instituto de Investigaciones Económicas citado por El Economista. Pese al impulso a la banca digital, persisten la desconfianza y el desconocimiento hacia los servicios bancarios electrónicos.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/dinero-efectivo-sigue-siendo-base-economia-mexicana-20260705-821708.html",
-    "source": "El Economista",
-    "published": "2026-07-05T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
-    "summary": "Bending Spoons' Nasdaq listing caps more than a decade of acquisitions that turned the Italian startup into a $23 billion global internet company, according to the Financial Times. The story illustrates how an aggressive, serial M&A roll-up strategy can extract outsized value from distressed and underperforming brands.",
-    "link": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
-    "source": "Financial Times",
-    "published": "2026-07-05T04:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover",
-    "summary": "Uber está frenando su expansión de reparto de comida en Europa, cancelando el lanzamiento en cinco de siete mercados planeados para este año, mientras busca adquirir Delivery Hero. El movimiento apunta a un giro estratégico hacia la consolidación en lugar del crecimiento orgánico en el negocio de delivery.",
-    "link": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
-    "source": "Financial Times",
-    "published": "2026-07-05T04:00:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street banks recover in China amid trading boom",
-    "summary": "The China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year as a trading boom fuels a rebound for Wall Street banks in the country, the Financial Times reports. The recovery signals renewed momentum for foreign banks in Chinese capital markets after years of pullback.",
-    "link": "https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2",
-    "source": "Financial Times",
-    "published": "2026-07-05T04:00:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors Looking for Shelter From AI Storm Are Turning to India",
-    "summary": "After largely missing out on the global AI equity rally, Indian stocks are regaining investor attention as a refuge from mounting AI market turbulence, per Bloomberg. The rotation reflects growing caution around stretched AI-driven valuations elsewhere.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
-    "source": "Bloomberg",
-    "published": "2026-07-05T02:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
-    "summary": "Banco del Bienestar incrementó su capital social en 4,245 millones de pesos, según Expansión. El resumen disponible no detalla el destino específico de los recursos ni el marco regulatorio de la operación.",
-    "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
-    "source": "Expansión",
-    "published": "2026-07-04T18:34:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
   }
 ]
