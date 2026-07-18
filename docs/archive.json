@@ -1,5 +1,60 @@
 [
   {
+    "title": "Cobra intereses: Top 8 de cuentas con rendimientos ALV (a la vista) para poner a trabajar tu dinero",
+    "summary": "El Financiero comparó las cuentas de ahorro con rendimiento que ofrecen bancos y fintechs como Nu, Mercado Pago y Plata en México, con tasas anuales de entre 8% y 15% frente a una inflación de 3.37%. El dinero permanece disponible para retiros, aunque cada institución impone condiciones distintas de saldo mínimo o uso de tarjeta.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/07/18/cuentas-con-rendimientos-para-invertir-dinero/",
+    "source": "El Financiero",
+    "published": "2026-07-18T13:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Moonshot's Kimi Upends Conventional Wisdom on US Lead Over China",
+    "summary": "Chinese AI leaders had warned earlier this year that China remained meaningfully behind the US in frontier AI development, but Moonshot's new Kimi model is undercutting that narrative. The release is fueling fresh debate over how close China's AI labs have actually gotten to US frontier models.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
+    "source": "Bloomberg",
+    "published": "2026-07-18T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inversión inmobiliaria en Buenos Aires: en qué barrios conviene invertir",
+    "summary": "Con señales de reactivación de los créditos hipotecarios en Argentina, los precios de propiedades en el Gran Buenos Aires volvieron a subir tras dos meses de estabilidad. Zonaprop reportó que el metro cuadrado avanzó 0.3% en junio en GBA sur y norte, aunque el ritmo de incremento sigue por debajo del registrado en el mismo periodo de 2025.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inversion-inmobiliaria-en-buenos-aires-en-que-barrios-conviene-invertir/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-18T10:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China Joins Rush to Rethink the Smartphone for the AI Era",
+    "summary": "ZTE unveiled a lineup of smartphones co-designed with built-in AI services, joining a growing number of Chinese manufacturers trying to rebuild mobile devices around artificial intelligence. The move reflects intensifying competition among Chinese tech firms to embed AI at the core of consumer hardware.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
+    "source": "Bloomberg",
+    "published": "2026-07-18T05:45:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sugieren auditoría externa sobre las cifras de Pemex",
+    "summary": "Especialistas consultados por Reforma consideraron que Pemex debería someterse a una auditoría externa que analice su producción de crudo, el destino de esos volúmenes y la publicación transparente de resultados. La propuesta responde a dudas persistentes sobre la fiabilidad de las cifras oficiales de la petrolera estatal.",
+    "link": "https://www.reforma.com/sugieren-auditoria-externa-sobre-las-cifras-de-pemex/ar3242563",
+    "source": "Reforma",
+    "published": "2026-07-18T05:00:44-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "El Mundial quedó a deber en México",
     "summary": "Las ventas de tiendas ANTAD cayeron 1.6% en junio frente al mismo mes de 2025 —la primera contracción anual desde febrero de 2025—, una caída que se amplía a 4.8% en términos reales al descontar la inflación. ANTAD atribuyó el resultado a un efecto de calendario y al Mundial 2026, que modificó temporalmente los hábitos de consumo y redujo la afluencia a tiendas físicas.",
     "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/17/el-mundial-quedo-a-deber-en-mexico/",
@@ -31,6 +86,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Tu empresa gana o trasciende?",
+    "summary": "En esta columna de opinión, Alberto Tovar recoge la filosofía de Óscar Ibarra —autor de 'Hacer Dinero o Hacer Empresa'— sobre ver a la empresa como un ecosistema de clientes, empleados, proveedores y comunidad, en lugar de un proyecto individual del fundador. El planteamiento es especialmente relevante para las empresas familiares mexicanas que buscan trascender más allá del resultado inmediato.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/17/tu-empresa-gana-o-trasciende/",
+    "source": "El Financiero",
+    "published": "2026-07-18T03:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
@@ -77,6 +143,39 @@
     "light": false
   },
   {
+    "title": "Uber sumará otros US$500 millones en inversiones para Argentina",
+    "summary": "Uber anunció US$500 millones adicionales de inversión en Argentina durante los próximos tres años, sumándose a otros US$500 millones anunciados en marzo, mientras avanza en su adquisición de Delivery Hero por US$14,800 millones. Los fondos se destinarán a expandir el negocio de movilidad y relanzar Uber Eats en el país.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/uber-sumara-otros-us500-millones-en-inversiones-para-argentina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T21:13:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El balón no infló el PIB: Mundial 2026 deja un impacto económico limitado en México",
+    "summary": "El Mundial 2026 dejó estadios llenos en México pero no logró dinamizar una economía debilitada que sufrió una contracción en el primer trimestre, según economistas consultados. El país fue sede de 13 de los 104 partidos, pero el impacto se concentró en pocos sectores —hoteles, restaurantes y comercio— de CDMX, Guadalajara y Monterrey, sin alterar la trayectoria económica de fondo.",
+    "link": "https://www.eleconomista.com.mx/deportes/balon-inflo-pib-mundial-2026-deja-impacto-economico-limitado-mexico-20260717-823868.html",
+    "source": "El Economista",
+    "published": "2026-07-17T21:08:43-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México alista inversiones por MXN$200.000 millones para evitar apagones eléctricos",
+    "summary": "La presidenta Claudia Sheinbaum anunció una inversión de MXN$200,000 millones (US$11,400 millones) para fortalecer las líneas de transmisión eléctrica y reducir los apagones que afectan al país en temporada de verano, con foco especial en el sureste. La CFE, dirigida por Emilia Calleja, también alista la emisión de más Fibras para financiar la infraestructura de red.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-alista-inversiones-por-mxn200000-millones-para-evitar-apagones-electricos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T20:53:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Upheaval Crushes Retail Traders Crowding Into Leveraged Funds",
     "summary": "A surprise AI breakthrough from Chinese startup Moonshot rippled through global markets, sending AI and semiconductor stocks sharply lower and hitting retail traders crowded into leveraged funds. The episode underscored how fast markets are being reshaped and how quickly assumptions about tomorrow's winners can change.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
@@ -86,6 +185,28 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "IPhone Hacking Firm Sues Ex-Worker Over Alleged Theft of Secrets",
+    "summary": "Canadian cybersecurity firm Magnet Forensics accused a former contractor of sharing trade secrets about a previously unknown iPhone-hacking flaw with a rival company. The case highlights ongoing risks around trade-secret theft in the cybersecurity industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets",
+    "source": "Bloomberg",
+    "published": "2026-07-17T20:11:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street cierra la semana con pérdidas mientras Moonshot suma dudas sobre el auge de la IA",
+    "summary": "Wall Street cerró la semana con pérdidas, presionada por una nueva ola de ventas en semiconductores y tecnología tras la presentación del modelo Kimi K3 de la china Moonshot, que afirma poder competir con OpenAI y Anthropic. El Nasdaq cayó 1.40% y el índice de semiconductores de Filadelfia llegó a acercarse a un mercado bajista, con caídas cercanas al 20% desde su máximo histórico.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-retrocede-con-la-venta-de-acciones-de-fabricantes-de-chips-y-el-desplome-de-netflix/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T20:09:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
@@ -163,6 +284,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+    "summary": "ASML will give employees a one-time €20,000 bonus, joining other chip-industry firms handing out payouts as AI-driven demand fuels record sales. The bonus underscores how strong AI-related capital spending is flowing through to the semiconductor supply chain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+    "source": "Bloomberg",
+    "published": "2026-07-17T14:16:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Spain, Portugal Data Center Boom Faces Electrical Grid Bottlenecks",
@@ -5366,137 +5498,5 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Runway Expands Global AI Footprint",
-    "summary": "AI video startup Runway is expanding globally, opening new hubs in London, Tokyo, and Paris as part of a plan to invest nearly $300 million over the next few years. CEO Cristóbal Valenzuela says the expansion will scale both the company's commercial business and its AI research.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/runway-expands-global-ai-footprint-video",
-    "source": "Bloomberg",
-    "published": "2026-07-06T18:23:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Beware the top-heavy economy",
-    "summary": "Massive, concentrated capital flows into a handful of dominant companies are reshaping the business landscape, and this trend of top-heavy investment is quietly building systemic risk.",
-    "link": "https://www.economist.com/business/2026/07/06/beware-the-top-heavy-economy",
-    "source": "The Economist",
-    "published": "2026-07-06T18:22:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Nos va a ir bien en el segundo semestre', 'predice' Sheinbaum por resultado de indicadores económicos",
-    "summary": "La presidenta Claudia Sheinbaum afirmó en su conferencia matutina que México tendrá un buen desempeño económico en el segundo semestre del año, apoyado en los programas de bienestar. Destacó que, pese a la incertidumbre internacional, el peso se mantiene estable y la inflación ha bajado.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/06/claudia-sheinbaum-mananera-temas-hoy-6-de-julio-de-2026-en-vivo/",
-    "source": "El Financiero",
-    "published": "2026-07-06T16:55:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso se recupera de la 'cruda' mundialista y avanza ante el dólar: Así está el tipo de cambio HOY",
-    "summary": "El peso mexicano inicia la semana con ligeras ganancias frente al dólar, en una sesión con pocos datos económicos relevantes. Gestoras como Invesco y AllianceBernstein señalan que dependen cada vez menos del dólar para financiar sus posiciones en mercados emergentes, mientras el billete verde recupera fuerza global.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/06/peso-dolar-precio-hoy-6-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-06T16:30:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fintech mexicana Aviva recauda US$18 millones para ampliar presencia y productos financieros",
-    "summary": "La fintech mexicana Aviva recaudó US$18 millones en una ronda Serie A liderada por Valor Capital Group, con la participación de BID Labs, Caravela Capital, Endeavor Forward y otros inversionistas existentes. La compañía planea usar el capital para expandir su presencia a 1,000 ubicaciones en México y ampliar su oferta de crédito para población de baja bancarización y pequeños negocios de la economía informal. Aviva otorga créditos de entre US$100 y US$1,000 mediante videollamadas con bots en quioscos físicos, procesados con modelos de inteligencia artificial.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fintech-mexicana-aviva-recauda-us18-millones-para-ampliar-presencia-y-productos-financieros/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-06T13:04:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Transformación y economía digital: los intermediarios financieros no bancarios",
-    "summary": "El Instituto Mexicano de Ejecutivos de Finanzas organiza un foro sobre inteligencia artificial, “de la adopción a la decisión estratégica”, que reunirá a líderes empresariales, financieros y tecnológicos. El artículo, firmado por el presidente del Comité Técnico de Intermediarios Financieros No Bancarios, señala que la IA ya transforma procesos clave del sector financiero como evaluación de riesgos, prevención de fraude, cobranza, análisis crediticio y personalización de productos. El reto actual ya no es adoptar la tecnología, sino decidir estratégicamente cómo integrarla en los modelos de negocio y la cultura organizacional.",
-    "link": "https://www.elfinanciero.com.mx/opinion/imef/2026/07/06/transformacion-y-economia-digital-los-intermediarios-financieros-no-bancarios/",
-    "source": "El Financiero",
-    "published": "2026-07-06T12:25:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Terrace Mountain Residence / A Parallel Architecture",
-    "summary": "A Parallel Architecture completed the Terrace Mountain Residence, a nearly 5,000-square-foot home in West Lake Hills, United States, finished in 2025 and photographed by Chase Daniel. The project is a contemporary residential design adapted to a hillside terrain.",
-    "link": "https://www.archdaily.com/1042943/terrace-mountain-residence-a-parallel-architecture",
-    "source": "ArchDaily",
-    "published": "2026-07-06T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Capital privado levanta la cabeza en abril e impulsa mayor repunte de la inversión fija desde 2019",
-    "summary": "La inversión fija en México registró en abril su mayor repunte mensual desde enero de 2019, con un crecimiento de 4.0% frente a marzo, impulsado por la recuperación del capital privado. En su comparación anual avanzó 5.1%, rompiendo una racha de 19 meses consecutivos de caídas interanuales.",
-    "link": "https://www.eleconomista.com.mx/empresas/capital-privado-levanta-cabeza-abril-e-impulsa-mayor-repunte-inversion-fija-20260706-821863.html",
-    "source": "El Economista",
-    "published": "2026-07-06T11:57:34-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso cae espera minutas de la FED y Banxico",
-    "summary": "El peso mexicano cae este lunes frente al dólar, en una jornada marcada por la espera de la publicación de las minutas de política monetaria de la Reserva Federal de Estados Unidos y de Banxico.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-cae-espera-minutas-fed-banxico-20260706-821860.html",
-    "source": "El Economista",
-    "published": "2026-07-06T11:24:09-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué es un crédito educativo y cómo funciona para pagar la universidad?",
-    "summary": "El crédito educativo es un instrumento financiero diseñado específicamente para cubrir el costo de estudios universitarios con pagos manejables, a diferencia de un préstamo personal tradicional. El artículo ejemplifica cómo este financiamiento permitió a un estudiante reducir su mensualidad de 10,000 a 2,500 pesos al no conseguir un lugar en educación pública.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/credito-educativo-funciona-pagar-universidad-20260706-821069.html",
-    "source": "El Economista",
-    "published": "2026-07-06T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cómo negociar una quita? Cuatro puntos clave que debes revisar de tu carta convenio",
-    "summary": "Una 'quita' es un acuerdo entre deudor y acreedor para pagar solo una parte de la deuda total, con descuentos que suelen ir del 50% al 90% según el perfil del deudor. El artículo detalla los puntos clave que conviene revisar en la carta convenio antes de firmar una negociación de este tipo.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/negociar-quita-cuatro-puntos-clave-debes-revisar-carta-convenio-20260706-821308.html",
-    "source": "El Economista",
-    "published": "2026-07-06T10:55:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Indicadores cíclicos perfilan un mayor impulso de la economía en México",
-    "summary": "El Sistema de Indicadores Cíclicos del Inegi muestra que la economía mexicana apunta a mayor dinamismo en los próximos meses, aunque sin una expansión acelerada todavía. El Indicador Coincidente subió a 99.8 puntos en abril, su séptimo mes consecutivo al alza, pero se mantiene por debajo del umbral de 100 puntos que marca la tendencia de largo plazo. El Indicador Adelantado, que anticipa los puntos de giro del ciclo económico, subió a 100.9 unidades en mayo.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/06/indicadores-ciclicos-perfilan-un-mayor-impulso-de-la-economia-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-07-06T09:22:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
