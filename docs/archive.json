@@ -1,5 +1,93 @@
 [
   {
+    "title": "El Mundial quedó a deber en México",
+    "summary": "Las ventas de tiendas ANTAD cayeron 1.6% en junio frente al mismo mes de 2025 —la primera contracción anual desde febrero de 2025—, una caída que se amplía a 4.8% en términos reales al descontar la inflación. ANTAD atribuyó el resultado a un efecto de calendario y al Mundial 2026, que modificó temporalmente los hábitos de consumo y redujo la afluencia a tiendas físicas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/17/el-mundial-quedo-a-deber-en-mexico/",
+    "source": "El Financiero",
+    "published": "2026-07-18T04:17:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Asia AI bets power record equities run for Wall Street banks",
+    "summary": "Investments tied to Asian semiconductor and AI bets are fueling record regional equities revenue for US banks. The trend shows AI enthusiasm continuing to flow through to Wall Street's trading and investment-banking results despite growing volatility in AI-linked stocks.",
+    "link": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-18T04:00:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The next crash: why this time might not be different",
+    "summary": "The FT argues that stock markets are ignoring obvious risks and remain imbued with extreme optimism, raising the question of whether investors are set up for another painful surprise. The piece warns current conditions echo prior periods of complacency before major downturns.",
+    "link": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-18T04:00:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
+    "summary": "China rejected allegations from US AI firms, including Anthropic, that Chinese rivals are illicitly distilling results from top American models to advance their own capabilities. The dispute adds to rising US-China friction over AI development and intellectual property.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+    "source": "Bloomberg",
+    "published": "2026-07-18T02:59:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Baker Tilly Eyes $3 Billion in Debt to Replace Private Credit",
+    "summary": "Deutsche Bank is preparing to sell about $3 billion in debt for accounting firm Baker Tilly Advisory Group, aimed at refinancing existing private credit loans. The deal illustrates a growing trend of companies tapping public debt markets to replace pricier private credit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit",
+    "source": "Bloomberg",
+    "published": "2026-07-17T22:10:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gauge of Oracle’s Credit Risk Hits Fresh All Time High",
+    "summary": "A gauge of Oracle's credit risk hit a fresh all-time high as investors grew concerned about the company's aggressive cash burn and the future profitability of its AI investments. Worries were compounded by a new Chinese AI model that could rival offerings from OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/gauge-of-oracle-s-credit-risk-hits-fresh-all-time-high",
+    "source": "Bloomberg",
+    "published": "2026-07-17T21:43:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (13 al 17 de julio): De líneas de pobreza e inflación en EU",
+    "summary": "Resumen semanal de indicadores clave para México y el mundo: los mexicanos necesitaron 4,888 pesos en junio para acceder a la canasta básica, mientras en EU se publicaron datos de inflación al consumidor y productor y la Fed difundió su Libro Beige. Los Cetes a 28 días tocaron además su nivel más bajo desde mediados de 2022.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-13-17-julio-lineas-pobreza-e-inflacion-eu-20260717-823872.html",
+    "source": "El Economista",
+    "published": "2026-07-17T21:30:21-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Upheaval Crushes Retail Traders Crowding Into Leveraged Funds",
+    "summary": "A surprise AI breakthrough from Chinese startup Moonshot rippled through global markets, sending AI and semiconductor stocks sharply lower and hitting retail traders crowded into leveraged funds. The episode underscored how fast markets are being reshaped and how quickly assumptions about tomorrow's winners can change.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
+    "source": "Bloomberg",
+    "published": "2026-07-17T20:36:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
     "summary": "Meta is in talks to spend up to $10bn leasing data-centre computing power to Anthropic, as the social media giant explores launching its own cloud business atop its $145bn infrastructure buildout. The deal would mark a major shift for Meta from AI developer to AI infrastructure provider, deepening ties between Big Tech and leading AI labs.",
     "link": "https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864?syn-25a6b1a6=1",
@@ -7,6 +95,17 @@
     "published": "2026-07-17T18:32:45+00:00",
     "category": "AI & Agents",
     "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What Is Moonshot AI? Why China’s New Model Is Roiling Markets",
+    "summary": "Chinese startup Moonshot AI released a powerful new model on July 17 that drew global attention for its capabilities and triggered a sharp selloff in stock markets worldwide. The episode revived comparisons to last year's 'DeepSeek moment,' raising fresh doubts about returns on massive AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
+    "source": "Bloomberg",
+    "published": "2026-07-17T18:04:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
     "language": "en",
     "light": true
   },
@@ -29,6 +128,17 @@
     "published": "2026-07-17T17:13:12+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta in Talks to Sell Computing Power to Anthropic",
+    "summary": "Meta is in early talks to lease computing power from its data centers to Anthropic, an opportunity to build a new business around its heavy investment in AI infrastructure. The talks would deepen ties between two major AI players as demand for compute continues to outstrip supply.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
+    "source": "Bloomberg",
+    "published": "2026-07-17T16:40:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
     "language": "en",
     "light": true
   },
@@ -294,6 +404,17 @@
     "category": "AI & Agents",
     "relevance_score": 74,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ralentiza la 4T el crecimiento",
+    "summary": "Pese a un posible repunte del PIB en el cuarto trimestre, México cerrará 2026 con una economía que ha crecido a una tasa media anual de apenas 0.8% en los últimos ocho años. El dato refleja el estancamiento estructural del crecimiento mexicano pese a episodios de recuperación puntual.",
+    "link": "https://www.reforma.com/ralentiza-la-4t-el-crecimiento/ar3241927",
+    "source": "Reforma",
+    "published": "2026-07-17T05:00:56-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
     "light": true
   },
   {
@@ -5377,126 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
-    "summary": "Ireland's technology sector, heavily reliant on US multinationals, is experiencing widespread labor-market disruption as AI adoption drives declines in high-tech employment. Bloomberg reports the shift reflects broader pressure on tech hubs exposed to US AI investment cycles.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
-    "source": "Bloomberg",
-    "published": "2026-07-06T08:52:36+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Indicadores del 6 al 10 de julio: Inversión fija, inflación, actividad industrial y minutas",
-    "summary": "El calendario económico de la semana del 6 al 10 de julio en México incluye datos sobre inversión fija bruta, consumo privado, empleo formal, inflación, balanza comercial y actividad industrial, además de las minutas de política monetaria de la Reserva Federal y de Banxico. El lunes destacan el Indicador Mensual de la Formación Bruta de Capital Fijo y el Indicador Mensual del Consumo Privado de abril, junto con los PMI de servicios de Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-6-10-julio-inversion-fija-inflacion-actividad-industrial-minutas-20260706-821761.html",
-    "source": "El Economista",
-    "published": "2026-07-06T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Falsas aplicaciones de ChatGPT impulsan ciberataques contra pymes",
-    "summary": "Ciberdelincuentes están usando aplicaciones falsas de ChatGPT para engañar a empleados de pequeñas y medianas empresas e instalar software malicioso en sus dispositivos. Entre enero y abril de 2026 se registraron 33,300 de estos ataques contra pymes, casi cinco veces más que en el mismo periodo del año anterior, aprovechando el auge del uso de herramientas de inteligencia artificial.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/falsas-aplicaciones-chatgpt-impulsan-ciberataques-pymes-20260706-821707.html",
-    "source": "El Economista",
-    "published": "2026-07-06T07:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Biometría: la nueva ‘bóveda’ de la banca",
-    "summary": "La CNBV modificó la Circular Única de Bancos para permitir que las instituciones financieras integren y operen sus propias bases de datos biométricas, incluyendo huellas dactilares y biometría facial, y no solo las del INE. El cambio busca reforzar la seguridad en un sistema que atiende a más de 90 millones de clientes y 165 millones de contratos bancarios, en momentos en que el fraude también se sofistica con inteligencia artificial capaz de imitar voces y crear identidades falsas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/06/biometria-la-nueva-boveda-de-la-banca/",
-    "source": "El Financiero",
-    "published": "2026-07-06T07:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Pretende Banxico financiar ilimitadamente al Gobierno?",
-    "summary": "Banxico emitió la Circular 8/2026, que modifica una norma de 2012 sobre subastas de valores gubernamentales y ahora permite también subastas de compra de bonos gubernamentales de largo plazo en el mercado secundario. El autor sostiene que, pese a la controversia en redes sobre una supuesta “argentinización” de la economía, el cambio regulatorio no implica que el banco central pueda financiar de forma ilimitada al gobierno.",
-    "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/07/06/pretende-banxico-financiar-ilimitadamente-al-gobierno/",
-    "source": "El Financiero",
-    "published": "2026-07-06T07:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EasyJet Accepts Castlelake’s $5 Billion Bid in Principle",
-    "summary": "EasyJet has agreed in principle to a takeover offer of more than £5 billion from investment firm Castlelake, as the UK budget carrier struggles with soaring jet fuel prices and weaker demand following the Iran war. The deal marks a significant private-capital move into a major European airline.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/easyjet-accepts-castlelake-s-5-billion-bid-in-principle-video",
-    "source": "Bloomberg",
-    "published": "2026-07-06T05:56:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Job Disruption Has Come for Ireland's Technology Sector",
-    "summary": "Ireland's tech sector, which boomed after attracting major US multinationals, is now facing job cuts at companies like Meta and TikTok as firms slash roles in the name of AI-driven efficiency. The trend signals AI disruption reaching beyond US tech hubs into the European operations that once benefited from the multinational jobs boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption",
-    "source": "Bloomberg",
-    "published": "2026-07-06T04:00:26+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why OpenAI and Anthropic may struggle to float",
-    "summary": "The Financial Times argues that OpenAI and Anthropic could struggle to go public given the punishing costs of staying at the frontier of AI development. At the same time, it notes the penalties for falling behind in the AI race may be even steeper than those costs.",
-    "link": "https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75",
-    "source": "Financial Times",
-    "published": "2026-07-06T04:00:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big investors commit billions to private credit despite turmoil",
-    "summary": "The Financial Times reports that institutional investors poured billions into private credit funds even as retail money fled the asset class. The divergence highlights differing risk appetites between institutional and retail capital amid recent market turmoil.",
-    "link": "https://www.ft.com/content/ea275bbd-e411-4db5-a9d2-415666f2a923",
-    "source": "Financial Times",
-    "published": "2026-07-06T04:00:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Son bets the house on AI",
-    "summary": "The FT profiles SoftBank's Masayoshi Son, who has placed himself at the center of the global AI boom through a series of aggressive bets. Some observers quoted worry the veteran investor now wields too much control over the industry's direction.",
-    "link": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
-    "source": "Financial Times",
-    "published": "2026-07-06T04:00:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ByteDance, Alibaba Pull AI Companions as Beijing Tightens Rules",
-    "summary": "ByteDance and Alibaba are shutting down features that let users build and chat with AI companion characters, getting ahead of new Chinese rules governing human interaction with artificial intelligence. The move shows how Beijing's tightening AI governance is directly reshaping product decisions at the country's largest tech firms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules",
-    "source": "Bloomberg",
-    "published": "2026-07-06T03:03:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
   }
 ]
