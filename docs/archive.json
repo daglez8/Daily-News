@@ -1,5 +1,27 @@
 [
   {
+    "title": "Alibaba’s Qwen Unveils Preview of Flagship AI Model",
+    "summary": "Alibaba's Qwen unveiled a preview of its Qwen3.8 Max model, positioning it as comparable to leading frontier AI systems and second only to Anthropic's Fable 5. The launch underscores how quickly Chinese AI labs are closing the gap with US frontier models.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+    "source": "Bloomberg",
+    "published": "2026-07-19T11:02:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Netflix acelera su apuesta por la IA y confirma que la ha usado en 300 producciones en 2026",
+    "summary": "Netflix confirmó a sus accionistas que ha usado inteligencia artificial generativa en 300 producciones durante 2026, aplicándola a lo largo de todo el proceso creativo, con mayor concentración en posproducción. La compañía asegura que la tecnología permite resultados de mayor calidad, más rápidos y más baratos que los métodos tradicionales, y que algunas producciones no habrían sido posibles sin ella.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/netflix-acelera-su-apuesta-por-la-ia-y-confirma-que-la-ha-usado-en-300-producciones-en-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-19T08:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough",
     "summary": "Moonshot AI is preparing to pursue a public listing within about six months, according to people familiar with the matter, aiming to capitalize on capital-markets access after its latest AI model upended assumptions about China's capabilities. The model's debut has already sent global tech stocks reeling as investors reassess China's position in the AI race.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
@@ -7,6 +29,17 @@
     "published": "2026-07-19T05:31:31+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks",
+    "summary": "South Korean equities have become an unlikely bellwether for global markets, as fund managers in London, New York and Tokyo increasingly check the AI-heavy Kospi before trading begins elsewhere. The shift reflects how concentrated AI-related exposure has made Korean stocks a leading indicator for global tech sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks",
+    "source": "Bloomberg",
+    "published": "2026-07-19T00:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
@@ -251,6 +284,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Netflix se desploma en bolsa: estas son las cinco dudas que explican el castigo de Wall Street",
+    "summary": "Netflix se desplomó 7.26% el viernes tras sus resultados trimestrales, acumulando una caída de 24.22% en el año, pese a que los fundamentales del negocio siguen sólidos según analistas. Citi advirtió que el aumento del engagement sin cambios en la guía decepciona a los inversionistas alcistas, generando dudas sobre el poder de fijación de precios futuro de la compañía.",
+    "link": "https://www.bloomberglinea.com/mercados/netflix-se-desploma-en-bolsa-estas-son-las-cinco-dudas-que-explican-el-castigo-de-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-17T20:18:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "IPhone Hacking Firm Sues Ex-Worker Over Alleged Theft of Secrets",
@@ -5454,49 +5498,5 @@
     "relevance_score": 60,
     "language": "en",
     "light": false
-  },
-  {
-    "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
-    "summary": "A Nobel Prize-winning economist has warned that artificial intelligence will not restore Western economies to an era of rapid productivity growth, suggesting that period of growth may be gone for good.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
-    "source": "Bloomberg",
-    "published": "2026-07-07T05:15:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sufre el gasto público mayor retraso en 21 años",
-    "summary": "El gasto neto del Gobierno mexicano entre enero y mayo fue de 3.97 billones de pesos, 9.5% por debajo de lo programado, el mayor rezago en la ejecución del gasto público desde 2005. La cifra apunta a un subejercicio significativo en la administración de Sheinbaum.",
-    "link": "https://www.reforma.com/sufre-el-gasto-publico-mayor-retraso-en-21-anos/ar3235695",
-    "source": "Reforma",
-    "published": "2026-07-07T05:01:17-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Apuesta Toyota por Texas; recorta producción en BC",
-    "summary": "Toyota invertirá 3,000 millones de dólares en su complejo de Texas y trasladará ahí parte de la producción de la Tacoma, una de sus camionetas más vendidas en EU, reduciendo la manufactura en Baja California. La decisión ilustra la presión que enfrenta la industria automotriz instalada en México ante los aranceles y la relocalización de producción hacia EU.",
-    "link": "https://www.reforma.com/apuesta-toyota-por-texas-recorta-produccion-en-bc/ar3235789",
-    "source": "Reforma",
-    "published": "2026-07-07T05:01:17-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "How to stop AI becoming the enemy of younger workers",
-    "summary": "South Korea's \"seniority-biased\" hiring patterns, which favor experienced workers over younger job seekers as AI reshapes entry-level roles, offer a cautionary lesson for labor markets elsewhere grappling with AI-driven disruption.",
-    "link": "https://www.ft.com/content/0b67e331-4ff0-4af6-85b7-0d7d6710d603",
-    "source": "Financial Times",
-    "published": "2026-07-07T04:00:22+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
   }
 ]
