@@ -1,5 +1,38 @@
 [
   {
+    "title": "Why Apple's OpenAI Lawsuit Doesn't Mention Jony Ive; AI Recording at Genius Bar",
+    "summary": "Bloomberg notes that Apple's lawsuit against OpenAI notably omits any mention of former design chief Jony Ive, despite his ties to both companies. The report also flags that Apple is piloting AI-based recording for Genius Bar appointments, part of its cautious expansion of AI tools into customer service.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+    "source": "Bloomberg",
+    "published": "2026-07-19T14:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+    "summary": "After last week's wipeout in chip and broader tech stocks, pressure is building on the biggest AI spenders to justify their expenditures to increasingly skittish traders. The piece frames a turning point where markets are demanding evidence of AI returns rather than rewarding capex growth alone.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+    "source": "Bloomberg",
+    "published": "2026-07-19T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Safest Carry in Emerging Markets Is in Latin American Currencies",
+    "summary": "Emerging-market currency volatility has dropped to its lowest level since the start of the year, re-energizing carry trades, with Latin American currencies seen as offering the juiciest risk-adjusted returns. Investors are increasingly favoring the region's rate differentials as a relatively safe income source.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/safest-carry-in-emerging-markets-is-in-latin-american-currencies",
+    "source": "Bloomberg",
+    "published": "2026-07-19T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Alibaba’s Qwen Unveils Preview of Flagship AI Model",
     "summary": "Alibaba's Qwen unveiled a preview of its Qwen3.8 Max model, positioning it as comparable to leading frontier AI systems and second only to Anthropic's Fable 5. The launch underscores how quickly Chinese AI labs are closing the gap with US frontier models.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
@@ -9,6 +42,28 @@
     "relevance_score": 85,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "US day traders flock to 'the most dangerous product in crypto'",
+    "summary": "The Trump administration has opened US markets to highly leveraged crypto perpetual futures, drawing retail day traders into what the FT calls \"the most dangerous product in crypto.\" The move raises fresh questions about consumer protection and regulatory oversight of high-risk derivatives.",
+    "link": "https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-19T10:10:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cuánto cuesta rentar cerca de la universidad? Guía de precios en CDMX, Guadalajara y Monterrey",
+    "summary": "Un análisis de Inmuebles24 muestra que rentar cerca de universidades en México cuesta entre 14,000 y más de 38,000 pesos mensuales, con la Ciudad de México registrando los precios más altos —hasta 38,151 pesos en la Condesa—, mientras Guadalajara y Monterrey ofrecen opciones más económicas. El estudio detalla diferencias notables entre colonias y campus ante el próximo inicio del ciclo escolar.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/cuanto-cuesta-rentar-cerca-universidad-guia-precios-cdmx-guadalajara-monterrey-20260719-823821.html",
+    "source": "El Economista",
+    "published": "2026-07-19T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Netflix acelera su apuesta por la IA y confirma que la ha usado en 300 producciones en 2026",
@@ -29,6 +84,17 @@
     "published": "2026-07-19T05:31:31+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The art of knowing when to step down",
+    "summary": "The FT explores why knowing when to step down from a leadership role is one of the hardest career skills to master, with few executives getting the timing right. The piece touches on succession and how ego and identity complicate exit decisions.",
+    "link": "https://www.ft.com/content/3e1393cf-a256-40fc-b2e3-35544444474b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-19T04:00:12+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -209,6 +275,28 @@
     "light": true
   },
   {
+    "title": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
+    "summary": "La Secretaría de Hacienda reinstauró el subsidio a la gasolina Premium en México en respuesta al reciente alza en los precios internacionales del petróleo. La medida busca amortiguar el impacto de la escalada de precios en los consumidores mexicanos.",
+    "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
+    "source": "Expansión",
+    "published": "2026-07-18T02:10:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Mercados cierran la semana entre petróleo al alza y temor a un nuevo \"momento DeepSeek\"",
+    "summary": "Los mercados mexicanos cerraron la semana con el petróleo al alza en medio del conflicto entre EU e Irán, mientras crecía entre los inversionistas el temor a un nuevo \"momento DeepSeek\" tras el lanzamiento del modelo chino Kimi K3. El sentimiento de cautela se suma a la incertidumbre sobre las valuaciones del sector de IA.",
+    "link": "https://expansion.mx/mercados/2026/07/17/mercados-cierre-semana-petroleo-kimi-k3-momento-deepseek",
+    "source": "Expansión",
+    "published": "2026-07-17T22:56:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Baker Tilly Eyes $3 Billion in Debt to Replace Private Credit",
     "summary": "Deutsche Bank is preparing to sell about $3 billion in debt for accounting firm Baker Tilly Advisory Group, aimed at refinancing existing private credit loans. The deal illustrates a growing trend of companies tapping public debt markets to replace pricier private credit.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit",
@@ -217,6 +305,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Empresas impulsan corredor para camiones eléctricos de Ciudad de México a Nuevo Laredo rumbo a 2030",
+    "summary": "Un grupo de empresas impulsa la creación de un corredor para camiones eléctricos entre la Ciudad de México y Nuevo Laredo, con miras a tenerlo operativo hacia 2030. El proyecto se enmarca en la creciente inversión en infraestructura logística vinculada al nearshoring.",
+    "link": "https://expansion.mx/empresas/2026/07/17/corredor-camiones-electricos-cdmx-nuevo-laredo-2030",
+    "source": "Expansión",
+    "published": "2026-07-17T22:03:35+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 61,
+    "language": "es",
     "light": true
   },
   {
@@ -295,6 +394,17 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
+    "summary": "Sony ajustará el cobro de PlayStation a pesos mexicanos tras la presión regulatoria de Profeco derivada de la polémica en torno a sus precios en México. El cambio responde a exigencias de protección al consumidor sobre la transparencia de precios.",
+    "link": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
+    "source": "Expansión",
+    "published": "2026-07-17T20:15:52+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
   },
   {
     "title": "IPhone Hacking Firm Sues Ex-Worker Over Alleged Theft of Secrets",
@@ -5387,116 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 85,
     "language": "es",
-    "light": false
-  },
-  {
-    "title": "Qué le falta a Pomelo para ser unicornio: el detrás de escena de su nuevo negocio mundial",
-    "summary": "Pomelo, la fintech argentina de infraestructura de tarjetas para bancos y fintechs (con clientes como Santander, BBVA, Bancolombia y Rappi), elevó su valuación 70% tras levantar US$55 millones, acercándose al estatus de unicornio. La compañía, socia de Visa y Mastercard, espera crecer más de 80% este año mientras expande su producto a más de 150 países.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/que-le-falta-a-pomelo-para-ser-unicornio-el-detras-de-escena-de-su-nuevo-negocio-global/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-07T07:55:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Architecture in the Andes: How Altitude Shapes Design Decisions",
-    "summary": "ArchDaily explores how the Andes' extreme range of altitudes and microclimates — from arid highlands to snow-covered peaks — forces architects to adapt building strategies to intense solar radiation, humidity swings, and steep terrain. The piece uses homes like the Rumilahua House in Ecuador to illustrate how altitude directly shapes design decisions.",
-    "link": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
-    "source": "ArchDaily",
-    "published": "2026-07-07T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "México duplica el crecimiento de productividad de la OCDE",
-    "summary": "México registró un crecimiento de productividad de 1.96% entre 2023 y 2024, casi el triple del promedio de la OCDE (0.62%), según el informe Perspectivas del Empleo 2026 del organismo. A diferencia de EU, donde la mejora se vinculó a la adopción de IA, en México el avance se explica principalmente por una reducción de las horas trabajadas.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/mexico-duplica-crecimiento-productividad-ocde-20260707-821952.html",
-    "source": "El Economista",
-    "published": "2026-07-07T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lanzan capacitación gratuita en finanzas para emprendedores y microempresarios",
-    "summary": "MetLife y la plataforma Simón lanzaron 'Crece tu negocio', una capacitación gratuita en finanzas en formato de video corto dirigida a emprendedores y microempresarios mexicanos. El programa busca cerrar la brecha de conocimientos financieros, con la meta de alcanzar 5,000 usuarios mediante la difusión de gobiernos estatales.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/lanzan-capacitacion-gratuita-finanzas-emprendedores-microempresarios-20260707-821905.html",
-    "source": "El Economista",
-    "published": "2026-07-07T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "M&A: un mercado selectivo",
-    "summary": "El mercado latinoamericano de fusiones y adquisiciones se volvió más selectivo: según el reporte TTR Data LATAM de mayo de 2026 (patrocinado por Datasite), las transacciones cayeron 29.7% a 879 operaciones, pero el monto agregado creció 3.2% a 43.6 mmd. Los compradores exigen mejores fundamentos y mayor escrutinio, con oportunidades concentradas en manufactura avanzada, logística, autopartes y parques industriales.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/07/07/ma-un-mercado-selectivo/",
-    "source": "El Financiero",
-    "published": "2026-07-07T07:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IMSS: Jubilados enfermos, finanzas al límite",
-    "summary": "El informe financiero y de riesgos 2024-2025 del IMSS admite que el envejecimiento acelerado de su población derechohabiente y la expansión de enfermedades crónicas están llevando al instituto a una zona de alto riesgo financiero. La sostenibilidad del Seguro de Enfermedades y Maternidad ya no depende solo de la disciplina contable, sino de la capacidad real del sistema para contener la carga de enfermedad.",
-    "link": "https://www.eleconomista.com.mx/opinion/imss-jubilados-enfermos-finanzas-limite-20260707-822020.html",
-    "source": "El Economista",
-    "published": "2026-07-07T06:36:16-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El BCE da 4 meses a los bancos de la zona del euro para elaborar planes contra los ataques con IA",
-    "summary": "El Banco Central Europeo dio a los bancos de la eurozona un plazo de cuatro meses para presentar planes de defensa contra ciberataques basados en inteligencia artificial, ante el temor de que modelos avanzados como Claude Mythos de Anthropic puedan comprometer la confidencialidad y resiliencia de sus sistemas TIC. El regulador instó a priorizar la protección de activos tecnológicos expuestos, incluido software de terceros.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-da-4-meses-bancos-zona-euro-elaborar-planes-ataques-ia-20260707-822018.html",
-    "source": "El Economista",
-    "published": "2026-07-07T06:28:08-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El Banco de Inglaterra ve en la IA riesgos cada vez mayores para la estabilidad financiera",
-    "summary": "El Banco de Inglaterra advirtió que la inteligencia artificial representa una amenaza creciente para la estabilidad financiera, al aumentar la vulnerabilidad de los bancos ante ciberataques mientras los inversionistas apuestan fuertemente por su éxito. El regulador señaló riesgos adicionales por el apalancamiento de fondos de cobertura y el elevado endeudamiento de empresas ligadas a la IA, aunque calificó al sistema bancario británico como resiliente.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banco-inglaterra-ve-ia-riesgos-vez-mayores-estabilidad-financiera-20260707-822017.html",
-    "source": "El Economista",
-    "published": "2026-07-07T06:24:31-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek está desarrollando su propio chip de IA para reducir su dependencia de Nvidia y Huawei",
-    "summary": "DeepSeek está desarrollando su propio chip de inteligencia artificial enfocado en inferencia, según fuentes cercanas, en un esfuerzo por reducir su dependencia de los semiconductores de Nvidia y Huawei. De concretarse, el movimiento marcaría un giro estratégico para la empresa china, considerada la 'campeona de IA' del país, e intensificaría la competencia tecnológica frente a Huawei.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/deepseek-desarrollando-propio-chip-ia-reducir-dependencia-nvidia-huawei-20260707-822015.html",
-    "source": "El Economista",
-    "published": "2026-07-07T06:11:43-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Snøhetta's Shanghai Grand Opera House Nears Completion Ahead of October Opening",
-    "summary": "Snøhetta's Shanghai Grand Opera House has entered its final construction phase ahead of an official opening on October 17, 2026, which will launch a season of 82 performances across 47 productions. The spiralling design was selected through an international competition and marks one of the studio's most prominent cultural projects underway.",
-    "link": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
-    "source": "ArchDaily",
-    "published": "2026-07-07T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
     "light": false
   }
 ]
