@@ -1,5 +1,93 @@
 [
   {
+    "title": "Peso recorta más de 10 centavos al dólar en semana de revisión del T-MEC",
+    "summary": "El peso mexicano se aprecia 0.61% frente al dólar, hasta 17.41 unidades, en la semana en que arrancan las negociaciones entre México y Estados Unidos para la revisión del T-MEC, tras la decisión de EU de no renovarlo por 16 años más. El representante comercial de EU, Jamieson Greer, se reunirá con el secretario Marcelo Ebrard en la Ciudad de México, mientras los mercados también están atentos a los próximos anuncios de política monetaria.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/20/peso-dolar-precio-hoy-20-de-julio-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-07-20T17:18:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US probes insurers owned by billionaire Mark Walter over asset disclosures",
+    "summary": "US prosecutors and securities regulators are investigating insurers owned by billionaire Mark Walter over whether the companies properly disclosed their holdings in affiliated entities. The probe raises fresh questions about disclosure practices and oversight in the insurance sector.",
+    "link": "https://www.ft.com/content/5e79b5d1-6b2a-4d9d-8b46-6980e861856d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-20T17:04:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Immigration Policies Sink Mexican Grocery Chain Chedraui",
+    "summary": "Donald Trump's immigration crackdown in the US is driving the worst stock rout of the year on the Mexican exchange, hitting shares of grocery chain Chedraui particularly hard. The pressure reflects investor concern over how enforcement is affecting the cross-border Mexican consumer and labor economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-immigration-policies-hammer-mexican-grocery-chain-chedraui",
+    "source": "Bloomberg",
+    "published": "2026-07-20T16:18:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tres mil millones de dólares confirman la megatendencia del Golfo, y el momento de Puerto Progreso en Yucatán",
+    "summary": "Una columna de opinión analiza la inversión de más de 3,200 millones de dólares de Saronic Technologies en un astillero de próxima generación en Brownsville, Texas, como señal de una megatendencia de inversión en el Golfo de México que también beneficia a puertos mexicanos como Puerto Progreso, en Yucatán. El autor destaca que la clave para atraer estas inversiones es contar con tierra escalable, mano de obra disponible e infraestructura portuaria lista, no solo la tradición histórica del puerto.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/07/20/tres-mil-millones-de-dolares-confirman-la-megatendencia-del-golfo-y-el-momento-de-puerto-progreso-en-yucatan/",
+    "source": "El Financiero",
+    "published": "2026-07-20T16:13:04+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI",
+    "summary": "Chinese AI firm Z.AI has completed a massive data center built entirely with domestic Chinese chips, marking a significant step in Beijing's push to reduce dependence on restricted Nvidia hardware for AI development. The move underscores accelerating efforts by Chinese firms to build a self-sufficient AI compute supply chain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-20T15:02:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock Eyes More Than $12 Billion Debt for Data Center",
+    "summary": "BlackRock is seeking to sell more than $12 billion in bonds to help finance a Meta data center campus in El Paso, Texas, part of a growing wave of debt deals funding Big Tech's AI infrastructure buildout. The scale of the financing highlights how capital markets are increasingly underwriting the AI capex boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-eyes-more-than-12-billion-debt-for-data-center",
+    "source": "Bloomberg",
+    "published": "2026-07-20T14:33:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise",
+    "summary": "US stocks rebounded Monday from last week's slump as chipmakers including Nvidia rallied, ahead of a wave of earnings reports set to test whether Big Tech's AI-driven profit growth can match elevated investor expectations. The bounce highlights how sensitive markets remain to AI capex sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
+    "source": "Bloomberg",
+    "published": "2026-07-20T13:41:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+    "summary": "Alphabet shares rose after a report that Google is developing a new server chip specifically designed to optimize its Gemini AI model. The move signals Google's continued push toward custom silicon to improve the efficiency and cost of running its AI systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+    "source": "Bloomberg",
+    "published": "2026-07-20T13:22:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Goldman Offers Preferred Stock Days After Post-Crisis Spread Low",
     "summary": "Goldman Sachs is moving to sell new preferred shares just days after a key risk-and-value metric for these securities hit its lowest level since the global financial crisis. The timing suggests the bank is capitalizing on unusually favorable pricing conditions in the preferred market.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/goldman-offers-preferred-stock-days-after-post-crisis-spread-low",
@@ -33,6 +121,17 @@
     "light": false
   },
   {
+    "title": "La verdadera carrera de la inteligencia artificial no es por los algoritmos, es por los datos",
+    "summary": "Una columna de opinión en Expansión argumenta que la verdadera disputa competitiva en inteligencia artificial ya no se centra en los algoritmos, sino en el acceso y control de los datos con los que se entrenan los modelos. El texto plantea que esta ventaja de datos será determinante para el liderazgo futuro en IA.",
+    "link": "https://expansion.mx/opinion/2026/07/20/la-verdadera-carrera-de-la-inteligencia-artificial-no-es-por-los-algoritmos-es-por-los-datos",
+    "source": "Expansión",
+    "published": "2026-07-20T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Moonshot’s Kimi AI Model Sets Off Anxiety in the US",
     "summary": "Moonshot AI's release of its Kimi K3 model has sparked fierce debate in the US over China's progress in frontier AI development. The launch is fueling anxiety in Silicon Valley about how quickly Chinese labs are closing the gap with leading US model developers.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us",
@@ -55,6 +154,17 @@
     "light": true
   },
   {
+    "title": "ABC para abrir una cuenta de Cetesdirecto desde la app, invierte desde tu celular",
+    "summary": "El Economista explica cómo abrir una cuenta en Cetesdirecto desde la aplicación móvil, una alternativa de inversión directa sin comisiones ni costos por transacción, cada vez más usada por inversionistas mexicanos que buscan alternativas de ahorro. El proceso de registro consta de tres fases y también puede iniciarse desde el sitio web oficial.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/abc-abrir-cuenta-cetesdirecto-app-invierte-celular-20260720-823853.html",
+    "source": "El Economista",
+    "published": "2026-07-20T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
     "summary": "Moonshot's release of Kimi K3 is forcing Silicon Valley to reconsider long-held assumptions about the AI race, unsettling investors and directly challenging the perceived lead held by Anthropic and OpenAI. The model's performance suggests Chinese AI labs are closing the competitive gap faster than expected.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
@@ -62,6 +172,17 @@
     "published": "2026-07-20T10:30:02+00:00",
     "category": "AI & Agents",
     "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ChatGPT, Claude Infiltrate Dating Apps by Helping Singles Flirt With Matches",
+    "summary": "Bloomberg reports that singles are increasingly outsourcing dating-app conversations to ChatGPT and Claude, using the AI assistants to draft opening messages and flirt on their behalf. The trend is complicating how romantic connections form and raising questions about authenticity in online dating.",
+    "link": "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches",
+    "source": "Bloomberg",
+    "published": "2026-07-20T10:15:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -5375,127 +5496,6 @@
     "published": "2026-07-08T01:24:02-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Industria automotriz mexicana, el efecto Trump",
-    "summary": "Los aranceles impuestos por Estados Unidos a la industria automotriz mexicana están golpeando al sector, evidenciado por la reorientación de inversión de Toyota hacia EU y una desaceleración en exportaciones y producción automotriz del país. El columnista advierte que ambas noticias llegan justo cuando el gobierno mexicano busca sostener la relación comercial bajo revisión del T-MEC.",
-    "link": "https://www.eleconomista.com.mx/opinion/industria-automotriz-mexicana-efecto-trump-20260708-822204.html",
-    "source": "El Economista",
-    "published": "2026-07-08T00:38:49-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Este ingreso del gobierno está creciendo rápido",
-    "summary": "Los ingresos de Hacienda por impuestos a la importación crecen a un ritmo real de 3% anual en México, muy por encima del crecimiento económico general, que apenas roza el 1%. El columnista destaca esta fuente de recaudación —ligada a prácticamente todo lo que entra legalmente al país— como una de las pocas áreas de expansión fiscal robusta.",
-    "link": "https://www.eleconomista.com.mx/opinion/ingreso-gobierno-creciendo-rapido-20260708-822200.html",
-    "source": "El Economista",
-    "published": "2026-07-08T00:15:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grupos aeroportuarios lideran caídas en la Bolsa Mexicana tras mostrar tráfico débil en el mes del Mundial",
-    "summary": "Las acciones de los tres grupos aeroportuarios privados de México (OMAB, GAP y ASUR) lideraron las caídas en la Bolsa Mexicana de Valores tras reportar tráfico de pasajeros más débil de lo esperado en junio, mes de arranque del Mundial 2026. OMAB retrocedió 4.7%, GAP 6% y ASUR 6.1%, pese a que México albergó 13 partidos del torneo.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupos-aeroportuarios-lideran-caidas-en-la-bolsa-mexicana-tras-mostrar-trafico-debil-en-el-mes-del-mundial/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-08T00:08:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gamesa, Sabritas y Turín: las 10 empresas mexicanas que ahora pertenecen a gigantes extranjeros",
-    "summary": "Un repaso de diez marcas emblemáticas mexicanas —entre ellas Gamesa, Sabritas y Turín— que con los años pasaron a manos de conglomerados extranjeros. El reportaje ilustra cómo estas adquisiciones transformaron la propiedad de íconos del consumo mexicano.",
-    "link": "https://expansion.mx/empresas/2026/07/07/10-marcas-mexicanas-que-cambiaron-de-propietario",
-    "source": "Expansión",
-    "published": "2026-07-07T23:35:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pese al dólar fuerte, las oportunidades para invertir florecen en los mercados de Asia, Brasil y México",
-    "summary": "A pesar de la fortaleza del dólar, distintos analistas identifican oportunidades de inversión en mercados emergentes como Asia, Brasil y México. El artículo explora por qué estas economías podrían atraer capital pese al entorno cambiario desafiante.",
-    "link": "https://expansion.mx/mercados/2026/07/07/dolar-fuerte-ya-no-destruye-mercados-emergentes-2026",
-    "source": "Expansión",
-    "published": "2026-07-07T23:33:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IED a nivel mundial repuntó 6% en el 2025; recuperación es desigual",
-    "summary": "La Inversión Extranjera Directa mundial creció 6.0% en 2025 hasta 1.6 billones de dólares, según la UNCTAD, tras dos años de caída, aunque la recuperación fue calificada de \"limitada, frágil y desigual\" ya que 20 países concentraron más del 80% del total. México subió del lugar 11 al 10 entre las economías receptoras, al captar cerca de 41,000 millones de dólares.",
-    "link": "https://www.eleconomista.com.mx/economia/ied-nivel-mundial-repunto-6-2025-recuperacion-desigual-20260707-822193.html",
-    "source": "El Economista",
-    "published": "2026-07-07T23:20:12-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El BCE endurece la supervisión frente a los riesgos de la IA",
-    "summary": "El Banco Central Europeo dio a los bancos de la eurozona hasta el 31 de octubre para presentar planes que refuercen sus defensas frente a ciberamenazas impulsadas por IA, adoptando una postura más estricta que otros bancos centrales. Su presidenta de supervisión, Claudia Buch, advirtió que los modelos de IA más avanzados pueden tener implicaciones profundas para la confidencialidad e integridad de las entidades financieras.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-endurece-supervision-frente-riesgos-ia-20260707-822190.html",
-    "source": "El Economista",
-    "published": "2026-07-07T23:10:07-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "En una década, la deuda interna pasó de representar 64 a 78% del total",
-    "summary": "En la última década, la deuda interna del gobierno federal mexicano pasó de representar 64% del total en 2016 a 78% en 2026, según la SHCP, reflejando una estrategia deliberada de financiarse más en pesos que en moneda extranjera. El cambio busca mitigar la exposición cambiaria y reducir el impacto de una eventual depreciación del peso sobre el costo de la deuda.",
-    "link": "https://www.eleconomista.com.mx/economia/decada-deuda-interna-paso-representar-64-78-total-20260707-822187.html",
-    "source": "El Economista",
-    "published": "2026-07-07T22:55:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México tiene base de ahorro pensionario, pero falta camino por recorrer: Amafore",
-    "summary": "A 29 años de la creación del Sistema de Ahorro para el Retiro, México cuenta con una base creciente de ahorro pensionario que lo consolida como el segundo intermediario financiero más grande del país, según Amafore. La asociación reconoce, sin embargo, que aún falta camino por recorrer frente a economías donde el ahorro pensionario supera el 100% del PIB.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mexico-base-ahorro-pensionario-falta-camino-recorrer-amafore-20260707-822186.html",
-    "source": "El Economista",
-    "published": "2026-07-07T22:51:46-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Equifax acuerda la adquisición de Círculo de Crédito por 750 millones de dólares para expandirse en México",
-    "summary": "Equifax acordó adquirir el 100% de Círculo de Crédito, una de las dos sociedades de información crediticia que operan en México, en una operación valuada en 750 millones de dólares. La transacción busca fortalecer la presencia de Equifax en el mercado mexicano y ampliar su oferta de datos, analítica e inteligencia artificial; entre los vendedores figuran Banca Afirme, Coppel y Grupo Elektra.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/equifax-acuerda-adquisicion-circulo-credito-750-millones-dolares-expandirse-mexico-20260707-822185.html",
-    "source": "El Economista",
-    "published": "2026-07-07T22:49:34-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 95,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grupos cibercriminales, la principal amenaza para instituciones financieras en el primer semestre",
-    "summary": "Los grupos cibercriminales y el ransomware \"as-a-service\" fueron la principal amenaza para las instituciones financieras mexicanas durante el primer semestre de 2026, según el Índice de Riesgo de Ciberataques de Banxico. El Reporte de Estabilidad Financiera del banco central también señala que la inteligencia artificial, aunque genera beneficios, plantea retos y riesgos que requieren seguimiento.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/grupos-cibercriminales-principal-amenaza-instituciones-financieras-primer-semestre-20260707-822183.html",
-    "source": "El Economista",
-    "published": "2026-07-07T22:45:05-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
     "language": "es",
     "light": false
   }
