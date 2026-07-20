@@ -1,5 +1,104 @@
 [
   {
+    "title": "Segro Rejects Fresh £13.5 Billion Cash and Share Prologis Offer",
+    "summary": "Segro Plc rejected Prologis's latest takeover proposal, valued at roughly £13.5 billion in cash and shares, for the UK warehouse landlord. The rebuff marks the latest twist in Prologis's pursuit of the logistics real estate company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/segro-rejects-fresh-13-5-billion-cash-and-share-prologis-offer",
+    "source": "Bloomberg",
+    "published": "2026-07-20T06:18:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Prysmian Signs $6.3 Billion Molex Deal for Data-Center Gear",
+    "summary": "Prysmian SpA signed a deal worth up to $6.3 billion with Koch Inc.'s Molex to supply optical cables for data centers. The agreement taps into surging investment in AI infrastructure as demand for data-center connectivity grows.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear",
+    "source": "Bloomberg",
+    "published": "2026-07-20T05:21:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot's Kimi K3 May Be More About Memory Than Compute",
+    "summary": "Moonshot AI's release of Kimi K3 triggered a selloff in semiconductor stocks, echoing the reaction to DeepSeek's R1 debut in 2025 when nearly $600 billion was wiped from Nvidia's market value. The model suggests AI performance gains may increasingly come from memory architecture rather than raw compute.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
+    "source": "Bloomberg",
+    "published": "2026-07-20T04:50:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 79,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Training AI models might be the chance for a workplace power play",
+    "summary": "The Financial Times argues that training AI models is becoming a new arena for workplace power dynamics, since the specialized knowledge these systems need is currently locked inside employees' heads. That dependency could reshape how organizations value and negotiate with knowledge workers.",
+    "link": "https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-20T04:00:28+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley becomes Wall Street's top bank for AI debt deals",
+    "summary": "Morgan Stanley has become Wall Street's top bank for AI-related debt deals, as Big Tech-backed financing has helped lower borrowing costs for AI infrastructure buildouts. The trend is also deepening the financial industry's exposure to the AI sector's fortunes.",
+    "link": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-20T04:00:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Pioneer Kai-Fu Lee's Startup Targets Hong Kong IPO Next Year",
+    "summary": "01.ai, the Chinese AI startup founded by Kai-Fu Lee, is pushing ahead with plans to raise funds ahead of a targeted Hong Kong IPO in 2027. The move reflects continued investor appetite for Chinese AI ventures despite geopolitical friction.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
+    "source": "Bloomberg",
+    "published": "2026-07-20T03:40:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 71,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump lanza la persecución financiera de la izquierda",
+    "summary": "El gobierno de Trump presentó una arquitectura antiterrorista para combatir el ‘terrorismo de extrema izquierda’, usando la OFAC para congelar activos y vetar el acceso al sistema financiero estadounidense sin necesidad de juicio. El riesgo para México es directo, ya que el mecanismo podría aplicarse a ONGs mexicanas que se opongan a proyectos energéticos o mineros estadounidenses o documenten abusos de derechos humanos.",
+    "link": "https://www.eleconomista.com.mx/opinion/trump-lanza-persecucion-financiera-izquierda-20260720-824040.html",
+    "source": "El Economista",
+    "published": "2026-07-20T00:53:27-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Competencia por decreto en afores",
+    "summary": "Consar y la Comisión Nacional Antimonopolio firmaron un convenio para fortalecer la competencia en el Sistema de Ahorro para el Retiro, tras años de regulación sobre comisiones y traspasos entre afores. El artículo advierte que homogeneizar precios y restringir la movilidad de cuentas puede proteger a los trabajadores de abusos inmediatos, pero también debilitar los incentivos que obligan a las afores a mejorar su oferta.",
+    "link": "https://www.eleconomista.com.mx/opinion/competencia-decreto-afores-20260720-824032.html",
+    "source": "El Economista",
+    "published": "2026-07-20T00:27:18-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027",
+    "summary": "Teleperformance SE plans to make artificial intelligence part of the workflow for its entire 500,000-person BPO workforce by 2027. The move accelerates adoption of technology that is already driving disruption across the outsourcing labor market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+    "source": "Bloomberg",
+    "published": "2026-07-19T23:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Why Apple's OpenAI Lawsuit Doesn't Mention Jony Ive; AI Recording at Genius Bar",
     "summary": "Bloomberg notes that Apple's lawsuit against OpenAI notably omits any mention of former design chief Jony Ive, despite his ties to both companies. The report also flags that Apple is piloting AI-based recording for Genius Bar appointments, part of its cautious expansion of AI tools into customer service.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
@@ -42,6 +141,17 @@
     "relevance_score": 85,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Bonos de empresas con grado de inversión quedan rezagados frente a las acciones en 2026",
+    "summary": "Los bonos corporativos estadounidenses con grado de inversión están rezagados frente a las acciones en 2026, según Goldman Sachs Research, con una beta de las acciones respecto del crédito en máximos históricos. La divergencia se acentuó desde el inicio del conflicto con Irán, cuando el S&P 500 avanzó cerca de 10% mientras el crédito con grado de inversión apenas subió 0.9%.",
+    "link": "https://www.bloomberglinea.com/mundo/estados-unidos/bonos-de-empresas-con-grado-de-inversion-quedan-rezagados-frente-a-las-acciones-en-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-19T11:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "US day traders flock to 'the most dangerous product in crypto'",
@@ -5386,116 +5496,6 @@
     "published": "2026-07-07T14:21:03+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tu mejor cliente podría no ser humano, ¿estás preparado?",
-    "summary": "Una columna de opinión en Expansión plantea que los agentes de IA podrían convertirse en los próximos \"clientes\" de las empresas, un cambio que exige repensar productos, interfaces y estrategias comerciales. El planteamiento se enmarca en el debate creciente sobre la adopción de agentes autónomos de IA en los negocios.",
-    "link": "https://expansion.mx/opinion/2026/07/07/tu-mejor-cliente-podria-no-ser-humano-estas-preparado",
-    "source": "Expansión",
-    "published": "2026-07-07T12:04:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La reinvención del talento junior: cómo frenar la inminente \"crisis de sucesión\" corporativa",
-    "summary": "Una columna de opinión en Expansión advierte sobre una inminente \"crisis de sucesión\" corporativa y plantea cómo repensar el desarrollo del talento junior dentro de las organizaciones para evitarla. El tema se suma al debate sobre el futuro del trabajo y la gestión del talento en las empresas.",
-    "link": "https://expansion.mx/opinion/2026/07/07/la-reinvencion-del-talento-junior-como-frenar-la-inminente-crisis-de-sucesion-corporativa",
-    "source": "Expansión",
-    "published": "2026-07-07T12:03:10+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Amazon’s New Bonds Get Cooler Reception as AI Debt Floods Market",
-    "summary": "Amazon returned to the US bond market to fund its AI infrastructure buildout, but this offering received a cooler investor reception than its record-breaking sale earlier in the year, signaling growing fatigue over the wave of AI-related debt financings. The shift suggests investors are becoming more selective about backing hyperscaler AI capex with bonds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
-    "source": "Bloomberg",
-    "published": "2026-07-07T12:00:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Legal Startup Norm Valued at $1.2 Billion in Funding Round",
-    "summary": "Legal-AI startup Norm Ai raised $120 million in a new funding round that values the company at $1.2 billion, aiming to automate legal services and rethink how the industry bills for its work.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round",
-    "source": "Bloomberg",
-    "published": "2026-07-07T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dudley: Still Bullish on AI Spending",
-    "summary": "Franklin Templeton strategist Katrina Dudley said she remains bullish on AI infrastructure spending despite the recent slump in Samsung shares, arguing the pullback doesn't undercut the longer-term investment case for AI buildout.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-07/dudley-still-bullish-on-ai-spending-video",
-    "source": "Bloomberg",
-    "published": "2026-07-07T11:59:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
-    "summary": "A former Tesla scientist who worked on Elon Musk's Optimus project unveiled plans for a lightweight European humanoid robot targeting manufacturing plants, logistics warehouses, and homes, adding a new entrant to the fast-growing humanoid robotics race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
-    "source": "Bloomberg",
-    "published": "2026-07-07T10:20:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
-    "summary": "Deutsche Bank analyst Jim Reid says artificial intelligence is likely to meaningfully boost productivity, but any measurable economic impact is still years away. The comment adds to a growing debate among economists over the near-term payoff of enterprise AI investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
-    "source": "Bloomberg",
-    "published": "2026-07-07T10:08:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nos van a desplegar",
-    "summary": "Microsoft lanzó Frontier Company, una unidad de 2,500 millones de dólares y 6,000 ingenieros para instalarse dentro de empresas clientes y operar sus sistemas de IA, siguiendo pasos similares de AWS, OpenAI (con TPG) y Anthropic (con Blackstone, Hellman & Friedman y Goldman Sachs). El movimiento responde a un estudio del MIT que halló que 95% de los pilotos de IA generativa en empresas no genera impacto medible en resultados, evidenciando que el reto está en la integración con procesos reales de negocio.",
-    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/07/07/nos-van-a-desplegar/",
-    "source": "El Financiero",
-    "published": "2026-07-07T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Declara jueza a TV Azteca en concurso mercantil",
-    "summary": "Una jueza declaró a TV Azteca en concurso mercantil, lo que abre un plazo de un año para que la empresa llegue a un acuerdo con sus acreedores o sea declarada en quiebra. La resolución marca una nueva etapa en la crisis financiera de la televisora mexicana.",
-    "link": "https://www.reforma.com/declara-jueza-a-tv-azteca-en-concurso-mercantil/ar3235865",
-    "source": "Reforma",
-    "published": "2026-07-07T09:49:46-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Inversión fija bruta en México rompe racha negativa y repunta 5 por ciento",
-    "summary": "La inversión fija bruta en México creció 5.1% anual en abril, rompiendo una racha de 19 meses de contracción, impulsada principalmente por la construcción residencial (+16.7%), mientras el gasto en maquinaria y equipo se mantiene débil. Analistas de Monex calificaron el dato como una señal positiva, aunque advierten que la inversión de origen nacional aún cae.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/07/inversion-fija-bruta-en-mexico-rompe-racha-negativa-y-repunta-5-por-ciento/",
-    "source": "El Financiero",
-    "published": "2026-07-07T09:19:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
     "language": "es",
     "light": false
   }
