@@ -1,5 +1,159 @@
 [
   {
+    "title": "OpenAI's Agents Reach 10 Million Users After ChatGPT Work Debut",
+    "summary": "OpenAI's AI agents have seen a sharp jump in demand following the recent launch of ChatGPT Work, giving the company fresh momentum in its race with rival Anthropic. The surge signals accelerating enterprise adoption of AI agents as a productivity tool.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
+    "source": "Bloomberg",
+    "published": "2026-07-21T12:55:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Garmin Debuts $200 Screenless Fitness Band in Challenge to Whoop",
+    "summary": "Garmin has launched a $200 screenless fitness band, entering the wearable recovery-tracking segment popularized by Whoop. The device intensifies competition in a health-wearables market increasingly focused on data over displays.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop",
+    "source": "Bloomberg",
+    "published": "2026-07-21T12:53:32+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bessent Says US Will Scrutinize Chinese AI Models for IP Theft",
+    "summary": "US Treasury Secretary Scott Bessent said Washington will closely scrutinize open-source AI models developed abroad, including in China, for signs of intellectual property theft from American firms. He indicated the US is prepared to act on any evidence found.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft",
+    "source": "Bloomberg",
+    "published": "2026-07-21T12:29:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+    "summary": "Proyectos de inversión por 22,000 millones de dólares enfrentan obstáculos en México en momentos en que crece la presión derivada de la revisión del T-MEC. La incertidumbre sobre el futuro del tratado comercial estaría frenando decisiones de inversión de largo plazo en el país.",
+    "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+    "source": "Expansión",
+    "published": "2026-07-21T11:55:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La odisea de la inteligencia artificial",
+    "summary": "Esta columna de opinión compara el actual auge de la inteligencia artificial con la odisea de Ulises, argumentando que la gran discusión económica de esta generación será sobre quién produce, controla y captura el valor de la IA. El autor sostiene que los centros de datos, procesadores y algoritmos son hoy la infraestructura clave que definirá el rumbo económico global.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/07/21/la-odisea-de-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-07-21T10:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Berenberg discovers accounting manipulation designed to flatter profits",
+    "summary": "Berenberg's auditor uncovered accounting manipulation designed to flatter profits, delaying sign-off on the bank's 2025 accounts, which showed net profit collapse from €81.6mn to €20.2mn. The finding raises fresh governance and financial-reporting risk questions for the German bank.",
+    "link": "https://www.ft.com/content/a4fff814-a4f9-4eb5-a774-e52dfe4d7bea?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-21T09:53:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México: el riesgo de no invertir",
+    "summary": "Esta columna argumenta que, pese a la inseguridad, incertidumbre regulatoria y presión de infraestructura que enfrenta México, la ecuación de inversión de largo plazo sigue siendo atractiva para el capital privado nacional. El autor destaca al nearshoring y la relocalización de cadenas de suministro como la principal oportunidad, independientemente del entorno político con Trump.",
+    "link": "https://www.elfinanciero.com.mx/opinion/luis-castro-obregon/2026/07/21/mexico-el-riesgo-de-no-invertir/",
+    "source": "El Financiero",
+    "published": "2026-07-21T09:19:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Funcionan los aranceles de México: Importaciones desde Asia caen 23.2 por ciento",
+    "summary": "Los aranceles que México impuso en diciembre de 2025 a productos sin TLC comenzaron a surtir efecto: entre enero y mayo, las importaciones de las fracciones arancelarias afectadas cayeron 23.2% anual, de 15,383 a 11,808 millones de dólares. China concentró el mayor ajuste, con una caída de 28.4% en sus exportaciones a México bajo el nuevo esquema.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/21/funcionan-los-aranceles-de-mexico-importaciones-desde-asia-caen-232-por-ciento/",
+    "source": "El Financiero",
+    "published": "2026-07-21T09:13:55+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La empresa familiar mexicana: vender no es perder",
+    "summary": "Esta columna analiza cómo el mercado mexicano de fusiones y adquisiciones está indisolublemente ligado a las dinámicas de las empresas familiares, que representan el 90% de las unidades de negocio y 85% del PIB del país. El autor argumenta que la percepción de vender como 'fracaso' está cambiando conforme madura un mercado de liquidez con compradores serios y precios justos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/21/la-empresa-familiar-mexicana-vender-no-es-perder/",
+    "source": "El Financiero",
+    "published": "2026-07-21T08:23:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Datacenters, el nearshoring necesario",
+    "summary": "La columna plantea que México puede replicar su éxito en la industria automotriz en el mercado digital, posicionándose como socio de centros de datos, nube e infraestructura de IA para Norteamérica. La Asociación Mexicana de Data Centers estima inversiones por 82,500 millones de dólares en el sector, en un momento en que EU necesita capacidad y aliados confiables para escalar IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/07/21/datacenters-el-nearshoring-necesario/",
+    "source": "El Financiero",
+    "published": "2026-07-21T08:12:58+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Hay una burbuja en la IA? BlackRock y Janus revelan oportunidades y segmentos “sobrevalorados”",
+    "summary": "Gestoras como BlackRock y Janus analizan si el rally bursátil concentrado en un puñado de tecnológicas —diez empresas representan cerca del 40% del S&P 500— constituye una burbuja de IA, aunque señalan que, a diferencia de la era puntocom, los fundamentos actuales sí justificarían buena parte de las valoraciones. Advierten que la liquidez y las condiciones crediticias, más que las valoraciones en sí, serán claves para anticipar una corrección.",
+    "link": "https://www.bloomberglinea.com/mercados/hay-una-burbuja-en-la-ia-blackrock-y-janus-revelan-oportunidades-y-segmentos-sobrevalorados/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-21T08:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El mexicano David Martínez vende una participación del 1.6% en Sabadell",
+    "summary": "El inversionista mexicano David Martínez, quien dejó el consejo de Banco Sabadell tras el fracaso de la OPA de BBVA, vendió una participación de 1.6% en la entidad española, sin revelar comprador ni precio. Martínez, que fue el mayor accionista dispuesto a aceptar la oferta hostil de BBVA, aún conserva un 1.9% del banco, valorado en unos 300 millones de euros.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mexicano-david-martinez-vende-participacion-1-6-sabadell-20260721-824260.html",
+    "source": "El Economista",
+    "published": "2026-07-21T06:27:50-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banco Azteca marca pauta",
+    "summary": "Euromoney reconoció el modelo de negocio de Banco Azteca, destacando su eficiencia, solidez y enfoque en crédito responsable para impulsar el desarrollo económico de comunidades alejadas de las grandes ciudades. La columna resalta que el banco combina financiamiento con capacitación y educación financiera, en un país donde 7 de cada 10 negocios desaparecen en sus primeros dos años.",
+    "link": "https://www.eleconomista.com.mx/opinion/banco-azteca-marca-pauta-20260721-824253.html",
+    "source": "El Economista",
+    "published": "2026-07-21T05:51:39-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The United States Enacts Sweeping Housing Reform Legislation to Expand Affordable Housing",
+    "summary": "The bipartisan ROAD to Housing Act became law in the US on 11 July, marking the most significant federal housing legislation since 1990. It revises housing programs, expands financing options, funds community grants, and targets regulatory barriers and ownership concentration to boost affordable housing supply.",
+    "link": "https://www.archdaily.com/1164586/the-united-states-enacts-sweeping-housing-reform-legislation-to-expand-affordable-housing",
+    "source": "ArchDaily",
+    "published": "2026-07-21T05:30:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Se acerca el ‘Día Q’: The MBA Tour llama a ejecutivos a prepararse ante la IA",
     "summary": "The MBA Tour advierte a los ejecutivos mexicanos sobre la urgencia de prepararse ante la IA, señalando que mientras el 97% de las empresas en EU ya la implementa, México mantiene una brecha tecnológica importante. La nota destaca que, aunque el 89% de las compañías privadas ve a la IA como motor de innovación, muchas carecen de estrategias digitales formales.",
     "link": "https://www.elfinanciero.com.mx/empresas/2026/07/20/se-acerca-el-dia-q-the-mba-tour-llama-a-ejecutivos-a-prepararse-ante-la-ia/",
@@ -52,6 +206,17 @@
     "category": "Personal Interest Watchlist",
     "relevance_score": 60,
     "language": "en",
+    "light": false
+  },
+  {
+    "title": "Reforma tributaria no, reforma fiscal sí",
+    "summary": "El IMEF advirtió sobre la insostenibilidad de mediano plazo de las finanzas públicas mexicanas, con el gasto en pensiones absorbiendo cerca de 6% del PIB para 2026, más que el gasto combinado en salud, educación e inversión pública. El autor, uno de los economistas consultados, argumenta a favor de una reforma fiscal integral en lugar de solo tributaria para atender la insuficiencia estructural de ingresos.",
+    "link": "https://www.eleconomista.com.mx/opinion/reforma-tributaria-reforma-fiscal-20260721-824246.html",
+    "source": "El Economista",
+    "published": "2026-07-21T01:17:06-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
     "light": false
   },
   {
@@ -130,6 +295,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Google prepara un nuevo chip para Gemini y acelera la carrera por reducir la dependencia de Nvidia",
+    "summary": "Google prepararía un nuevo chip propio para impulsar su modelo Gemini, en un movimiento que aceleraría la carrera de la compañía por reducir su dependencia de los procesadores de Nvidia. La iniciativa se suma a la tendencia de las grandes tecnológicas de desarrollar silicio propio para sus cargas de trabajo de IA.",
+    "link": "https://expansion.mx/tecnologia/2026/07/20/google-nuevo-chip-gemini-frozen-v2",
+    "source": "Expansión",
+    "published": "2026-07-20T22:00:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
@@ -5322,181 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "La IA domina las conversaciones entre empresas e inversionistas, según Deutsche Bank",
-    "summary": "Un análisis de Deutsche Bank elaborado por Jim Reid muestra que las menciones a la disrupción de la inteligencia artificial crecieron de forma exponencial en las earnings calls de las empresas. El estudio confirma que la IA no solo impulsa el desempeño de las compañías tecnológicas, sino que también ocupa un lugar cada vez más central en las conversaciones entre empresas e inversionistas.",
-    "link": "https://www.bloomberglinea.com/mercados/la-ia-domina-las-conversaciones-entre-empresas-e-inversionistas-segun-deutsche-bank/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-08T17:44:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blackstone Data-Center Firm QTS Taps Leveraged Loans",
-    "summary": "A Blackstone-backed unit of QTS Realty Trust is seeking to raise $2 billion in the US leveraged-loan market to repay data-center-related debt and fund a distribution. The deal highlights how data-center financing is increasingly tapping credit markets to fund AI-driven infrastructure growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/blackstone-s-qts-taps-us-loan-market-in-data-center-backed-deal",
-    "source": "Bloomberg",
-    "published": "2026-07-08T17:44:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
-    "summary": "SpaceXAI unveiled a new AI model developed with coding startup Cursor that is designed to be more capable at finance, legal and coding tasks. The move is part of Elon Musk's push to compete more directly with rivals Anthropic and OpenAI in enterprise-focused AI applications.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
-    "source": "Bloomberg",
-    "published": "2026-07-08T17:31:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum responde al FMI: ‘No hay incertidumbre para invertir en México’",
-    "summary": "La presidenta Claudia Sheinbaum rechazó que exista incertidumbre para invertir en México, luego de que el FMI ajustara a la baja sus estimaciones de crecimiento económico para el país. En su conferencia matutina, la mandataria destacó que México se ubica entre los diez países más atractivos del mundo para la inversión extranjera, según cifras de la Secretaría de Hacienda.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/08/sheinbaum-responde-al-fmi-no-hay-incertidumbre-para-invertir-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-07-08T16:27:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Zillow, Rocket to Face August FTC Trial Over Rental-Listing Deal",
-    "summary": "Zillow Group and Rocket Companies' Redfin are headed to an August trial after a federal judge in Virginia declined to fast-track the FTC's antitrust challenge to their apartment-listing partnership. The case centers on whether the deal between the two real estate and mortgage-adjacent platforms unfairly limits competition in rental listings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/zillow-rocket-to-face-august-ftc-trial-over-rental-listing-deal",
-    "source": "Bloomberg",
-    "published": "2026-07-08T16:10:33+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IMF Says AI Offsets Middle East Fallout",
-    "summary": "The IMF left its global growth forecast largely unchanged this year, saying the artificial intelligence boom has helped offset the economic fallout from the conflict in the Middle East. IMF Research Department deputy director Petya Koeva Brooks discussed the findings from the updated World Economic Outlook.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-08/imf-says-ai-offsets-middle-east-fallout-video",
-    "source": "Bloomberg",
-    "published": "2026-07-08T15:31:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech’s $25 Billion Mega Bond Sales Are Pushing Market Limits",
-    "summary": "Jumbo bond sales of $25 billion or more, once reserved for historic acquisitions, have become a routine financing tool for tech giants funding AI expansion — Amazon's sale this week marked the seventh such deal this year alone. Morgan Stanley's Vishal Khanduja said the pace of issuance is testing the limits of investor appetite for tech debt.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-08/big-tech-s-25b-mega-bond-sales-push-market-limits-video",
-    "source": "Bloomberg",
-    "published": "2026-07-08T15:30:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
-    "summary": "China plans to let its leading AI companies buy a limited quantity of Nvidia's H200 chips, according to a report from the Information, signaling that Beijing is easing restrictions on the sought-after US technology. The move would mark a shift in China's approach to foreign AI hardware amid the broader tech rivalry with the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
-    "source": "Bloomberg",
-    "published": "2026-07-08T15:21:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blue Owl Unveils Infrastructure Venture Catering to Data Centers",
-    "summary": "Blue Owl Capital is launching a new infrastructure venture aimed at the data-center boom that will develop, own and operate fiber networks underpinning the buildout. The move positions the alternative asset manager to capture more of the capital flowing into AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/blue-owl-unveils-infrastructure-venture-catering-to-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-07-08T15:10:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Financials Have Been 'Less Loved,' Hermann Says",
-    "summary": "Julia Hermann, global market strategist at New York Life Investment Management, said financial stocks have been 'less loved' by the market lately despite the sector's strong balance sheets. She characterized financials as a high-quality, undervalued area of the market on Bloomberg Open Interest.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-08/financials-have-been-less-loved-hermann-says-video",
-    "source": "Bloomberg",
-    "published": "2026-07-08T14:44:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P fija plazo y motivos por los que bajaría la calificación crediticia de México",
-    "summary": "S&P Global fijó un plazo y los motivos por los que podría bajar la calificación crediticia de México, señalando la persistente incertidumbre entre inversionistas y el débil crecimiento económico en medio de las prolongadas negociaciones del T-MEC. La agencia advirtió que la decisión de Estados Unidos de no renovar automáticamente el tratado por 16 años, optando en cambio por revisiones anuales, es un factor clave de riesgo para el país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sp-fija-plazo-y-motivos-por-los-que-bajaria-la-calificacion-crediticia-de-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-08T13:17:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IMF warns inflation threat looms large over global economy",
-    "summary": "The IMF raised its projections for global price growth, warning that inflation risks loom large over the world economy. The revision comes as President Trump declared the ceasefire with Iran 'over,' adding fresh uncertainty to the outlook.",
-    "link": "https://www.ft.com/content/878ff470-0fc8-4a29-9d1a-e0ce69ca7135",
-    "source": "Financial Times",
-    "published": "2026-07-08T13:00:03+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Autoridades de la Fed mostraron mayor preocupación por la inflación en reunión de junio: Minutas",
-    "summary": "Las minutas de la reunión de la Reserva Federal de junio revelaron una mayor preocupación entre las autoridades por la persistencia de la inflación, aunque el debate estuvo dividido entre quienes veían necesario subir las tasas de interés de inmediato y quienes esperaban que los precios cedieran por sí solos. Los responsables, siguiendo el estilo del presidente Kevin Warsh, optaron por una declaración de política monetaria más concisa que en meses anteriores.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/autoridades-fed-mostraron-mayor-preocupacion-inflacion-reunion-junio-minutas-20260708-822266.html",
-    "source": "El Economista",
-    "published": "2026-07-08T12:34:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI lanza GPT-Live: El modo de voz de ChatGPT que escucha y habla al mismo tiempo",
-    "summary": "OpenAI presentó GPT-Live, una nueva familia de modelos de voz capaces de escuchar y hablar simultáneamente en tiempo real, disponible en dos versiones: GPT-Live-1 y GPT-Live-1 mini. El lanzamiento llega mientras la startup se prepara para salir a bolsa y sigue expandiendo su oferta de productos de IA a nivel global.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/openai-lanza-gpt-live-voz-chatgpt-escucha-habla-20260708-822264.html",
-    "source": "El Economista",
-    "published": "2026-07-08T12:11:13-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Felifer impulsa programa para facilitar herencias y donaciones y regularizar el patrimonio familiar",
-    "summary": "El gobierno municipal de Querétaro, encabezado por Felipe Fernando Macías Olvera, implementó el Programa de Estímulo Fiscal Familiar por Transmisión Patrimonial (PEF-TP) 2026 para facilitar herencias, donaciones y la regularización del patrimonio familiar. El programa contempla estímulos fiscales en el impuesto sobre traslado de dominio y en el predial, buscando destrabar trámites patrimoniales.",
-    "link": "https://www.eleconomista.com.mx/politica/felifer-impulsa-programa-facilitar-herencias-donaciones-regularizar-patrimonio-familiar-20260708-822262.html",
-    "source": "El Economista",
-    "published": "2026-07-08T12:04:44-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The great AI data centre cover-up",
-    "summary": "The Financial Times argues that tech companies need to be more transparent about the mounting environmental fallout from their race to build ever more AI data centers. The piece frames the lack of disclosure as a governance problem that regulators and investors should be pressing the industry to address.",
-    "link": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
-    "source": "Financial Times",
-    "published": "2026-07-08T12:00:08+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
   }
 ]
