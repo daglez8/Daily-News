@@ -1,5 +1,126 @@
 [
   {
+    "title": "China Cuts AI Gap as Moonshot Shows Zhipu Isn’t One-Off, BI Says",
+    "summary": "Chinese AI models narrowed their performance gap with U.S. counterparts to a record-low 6% in June, down from 9% in May, according to Bloomberg Intelligence. The improvement, driven by labs like Moonshot and Zhipu, raises questions about how long U.S. AI labs can maintain their technological lead.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-cuts-ai-gap-as-moonshot-shows-zhipu-isn-t-one-off-bi-says",
+    "source": "Bloomberg",
+    "published": "2026-07-23T06:19:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
+    "summary": "La desaceleración económica en México está alcanzando a los emprendimientos del país, que muestran un menor apetito por financiamiento, según reportó Expansión.",
+    "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
+    "source": "Expansión",
+    "published": "2026-07-23T01:27:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Khosla Ventures in Talks to Raise $5.5 Billion in New Funds",
+    "summary": "Khosla Ventures, an early OpenAI backer, is discussing raising as much as $5.5 billion for its latest venture funds, according to people familiar with the matter. The haul would mark the firm's largest fundraising event in its two-decade history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds",
+    "source": "Bloomberg",
+    "published": "2026-07-23T01:10:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Models Spent Hours on Hack That Usually Takes Weeks",
+    "summary": "OpenAI's advanced AI models breached AI startup Hugging Face's internal systems last week, completing in mere hours a hack that would typically take a skilled human far longer, according to people familiar with the matter. The incident underscores mounting concerns about AI models being used for offensive cybersecurity operations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected",
+    "source": "Bloomberg",
+    "published": "2026-07-23T00:32:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cuánto cuesta mantener una casa al año en México? Los 7 pagos que se comen tu dinero",
+    "summary": "Expansión repasa los siete pagos recurrentes —como predial, mantenimiento y seguros— que conforman el verdadero costo anual de ser propietario de una vivienda en México.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/22/cuanto-cuesta-mantener-una-casa-al-ano-en-mexico",
+    "source": "Expansión",
+    "published": "2026-07-22T23:46:41+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Uber Cuts 10% of Customer Service Jobs to ‘Embrace’ AI",
+    "summary": "Uber said it has cut 10% of jobs within its customer service operations as part of a broader effort to simplify its ranks and “embrace artificial intelligence.” The move adds to a growing list of companies citing AI adoption as a driver of headcount reductions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-22T23:40:53+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bait alcanza la rentabilidad para Walmart con ingresos de 3,800 mdp, pese a un menor ritmo de suscripciones",
+    "summary": "La fintech Bait, de Walmart México, alcanzó la rentabilidad con ingresos de 3,800 millones de pesos, aunque su ritmo de crecimiento en suscripciones se desaceleró, según reportó Expansión.",
+    "link": "https://expansion.mx/empresas/2026/07/22/bait-tiene-menos-usuarios-pero-genera-rentabilidad-walmart",
+    "source": "Expansión",
+    "published": "2026-07-22T23:29:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+    "summary": "Banorte superó a Inbursa en el mercado de crédito automotriz en México, de acuerdo con un reporte de Expansión sobre la disputa entre ambas instituciones financieras por este segmento.",
+    "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
+    "source": "Expansión",
+    "published": "2026-07-22T23:28:42+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Absorción de naves industriales aumenta 125% en Monterrey",
+    "summary": "La absorción bruta de naves industriales en Monterrey se disparó 125% trimestral en el segundo trimestre de 2026, alcanzando 295,000 m², según un reporte de CBRE. La manufactura diversa concentró 78% de la demanda, con empresas de EU, Dinamarca y Alemania liderando la ocupación, en un mercado que sigue reflejando el impulso del nearshoring en el noreste de México.",
+    "link": "https://www.eleconomista.com.mx/estados/absorcion-naves-industriales-aumenta-125-monterrey-20260722-824627.html",
+    "source": "El Economista",
+    "published": "2026-07-22T23:16:07-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué pasa si nunca eliges una Afore? Esto ocurre con tu ahorro para el retiro y quién administrará tu cuenta",
+    "summary": "Expansión explica qué sucede con el ahorro para el retiro de los trabajadores mexicanos que nunca eligen una Afore y quién termina administrando su cuenta por defecto.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/22/que-pasa-si-nunca-eliges-afore",
+    "source": "Expansión",
+    "published": "2026-07-22T21:27:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
+    "summary": "Alphabet raised its capital spending forecast to as much as $205 billion this year, reigniting investor concerns about fiscal discipline in the race to dominate artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
+    "source": "Bloomberg",
+    "published": "2026-07-22T20:10:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Addi logra financiación por US$630 millones con JPMorgan, Goldman Sachs, BBVA y otros bancos",
     "summary": "La fintech colombiana Addi cerró operaciones de financiamiento por más de US$630 millones con el respaldo de JPMorgan, Goldman Sachs, BBVA y otras instituciones internacionales. Destaca una línea de crédito de US$150 millones liderada por JPMorgan, la primera estructura tipo warehouse que el banco ejecuta para una empresa colombiana, un precedente que podría facilitar financiamiento similar para otras fintechs de la región.",
     "link": "https://www.bloomberglinea.com/latinoamerica/colombia/addi-logra-financiacion-por-us630-millones-con-jpmorgan-goldman-sachs-bbva-y-otros-bancos/",
@@ -326,6 +447,17 @@
     "published": "2026-07-22T02:24:15+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De México para el mundo: La Casa de Toño analiza venta de más de 400 mdd para expandirse por EU y Latam",
+    "summary": "La cadena mexicana de restaurantes La Casa de Toño contrató a BBVA México como asesor financiero exclusivo para explorar una venta valuada en más de 400 millones de dólares, con Grupo Gigante entre los principales interesados. La operación se valuaría en más de ocho veces las ganancias ajustadas de la cadena, el doble de la valoración de operadores comparables como Alsea o Arcos Dorados.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/22/de-mexico-para-el-mundo-la-casa-de-tono-analiza-venta-de-mas-de-400-mdd-para-expandirse-por-eu-y-latam/",
+    "source": "El Financiero",
+    "published": "2026-07-22T02:05:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
     "language": "es",
     "light": false
   },
@@ -5366,137 +5498,5 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "All you never wanted to know about corporate bond market issuance",
-    "summary": "A Financial Times explainer walks through how corporate bond issuance is actually structured and priced in debt capital markets. It offers a primer on the mechanics behind the bond deals companies rely on for financing.",
-    "link": "https://www.ft.com/content/47a66129-548e-45c6-8855-0691616e92da",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Luxury square that shows London's mansions are not selling",
-    "summary": "In London's Knightsbridge, prices on the exclusive Montpelier Square have fallen sharply over the past decade as foreign buyers increasingly look toward other markets. The piece illustrates how shifting international capital flows are reshaping demand for ultra-prime residential real estate.",
-    "link": "https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:04+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Payment Firms Emerge as Target in Fight Against Illegal Casinos",
-    "summary": "A European gambling industry trade body filed a complaint with Lithuania's banking regulator seeking an investigation into a payment company it accuses of enabling unlicensed online casinos. The case underscores rising regulatory pressure on payment processors linked to illegal gambling operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments",
-    "source": "Bloomberg",
-    "published": "2026-07-10T04:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ojo aquí, Sam Altman: Apple acusa a OpenAI de robar secretos comerciales y señala a su jefe de hardware",
-    "summary": "Apple demandó a OpenAI por presunto robo de secretos comerciales, acusando a la startup y a su jefe de hardware, Tang Tan (exejecutivo de Apple), de coordinar una campaña para obtener información sobre productos aún no anunciados. La demanda, presentada ante el Tribunal del Distrito Norte de California, marca un giro drástico en la relación entre ambas empresas, que actualmente colaboran en Apple Intelligence y Siri.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/07/10/ojo-aqui-sam-altman-apple-acusa-a-openai-de-robar-secretos-comerciales-y-senala-a-su-jefe-de-hardware/",
-    "source": "El Financiero",
-    "published": "2026-07-10T03:14:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
-    "summary": "Tencent is reportedly in talks to become the largest external shareholder in Manus, the agentic-AI startup, in a deal to buy back the company after Chinese regulators blocked Meta's earlier acquisition attempt. The move would give Tencent significant control over one of the most closely watched AI-agent pioneers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
-    "source": "Bloomberg",
-    "published": "2026-07-10T03:06:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tencent leads deal to unwind Meta's $2bn Manus acquisition",
-    "summary": "Chinese tech giant Tencent is set to become the largest shareholder in Manus, the Chinese agentic-AI start-up, after Beijing ordered the reversal of Meta's earlier $2 billion acquisition of the company. The deal underscores how geopolitical scrutiny is reshaping cross-border AI M&A between US and Chinese players.",
-    "link": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
-    "source": "Financial Times",
-    "published": "2026-07-10T03:03:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trabajadores de Uber y DiDi alivian empleo formal en México ante demanda por Mundial 2026",
-    "summary": "El empleo formal en México registró en junio su mayor crecimiento mensual desde 2021, con 61,023 nuevos puestos, impulsado en gran parte por trabajo en plataformas digitales como Uber y DiDi ante la mayor demanda de transporte por el Mundial 2026. Dos terceras partes de esos empleos correspondieron a plataformas frente a sectores tradicionales.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/trabajadores-de-uber-y-didi-alivian-empleo-formal-en-mexico-ante-demanda-por-mundial-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-10T02:13:44+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué sigue después de Toyota?",
-    "summary": "El columnista analiza cómo la decisión de Toyota de trasladar producción desde México hacia Estados Unidos refleja una reestructuración global de la industria automotriz impulsada por aranceles y presiones de la administración Trump. Advierte que otras armadoras podrían seguir moviendo su proveeduría hacia manufactura \"Made in USA\" para reducir costos arancelarios, con la tarifa promedio pagada desde México ya en 17%.",
-    "link": "https://www.eleconomista.com.mx/opinion/sigue-toyota-20260710-822607.html",
-    "source": "El Economista",
-    "published": "2026-07-10T00:58:50-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México resiste, pero no despega",
-    "summary": "Pese a cifras récord de empleo formal (22.8 millones), inflación a la baja (3.37% anual en junio) y comercio bilateral con EU por 839,000 millones de dólares, el FMI proyecta que México crecerá apenas 2% este año, uno de los ritmos más lentos entre economías emergentes. El columnista argumenta que la estabilidad macroeconómica del país no se está traduciendo en un crecimiento robusto de la inversión productiva.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-resiste-despega-20260710-822602.html",
-    "source": "El Economista",
-    "published": "2026-07-10T00:38:18-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Sabes donde está tu Afore? Así puedes localizar tus datos",
-    "summary": "Expansión ofrece una guía práctica para que los trabajadores en México identifiquen en qué Afore está registrada su cuenta de ahorro para el retiro y cómo consultar sus datos personales. La nota busca ayudar a los usuarios a mantener control sobre su ahorro previsional.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/09/como-funciona-afore-saber-donde-esta",
-    "source": "Expansión",
-    "published": "2026-07-10T00:37:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
-    "summary": "México se prepara para la revisión del T-MEC con la protección a inversionistas como uno de los temas centrales de la negociación. El tema aborda las implicaciones que el proceso podría tener para el marco de arbitraje y la certidumbre jurídica de las inversiones extranjeras en el país.",
-    "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
-    "source": "Expansión",
-    "published": "2026-07-10T00:28:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Taiwán y Vietnam rebasan a China y México en superávits con EU",
-    "summary": "Taiwán y Vietnam superaron a China y México en superávit comercial con Estados Unidos entre enero y mayo de 2026, ganando participación en las importaciones estadounidenses más rápido que México pese al proceso de desacoplamiento de la cadena de suministro china. Ambas economías asiáticas ascendieron varios lugares en el ranking de mayores superávits con EU en el último año.",
-    "link": "https://www.eleconomista.com.mx/empresas/taiwan-vietnam-rebasan-china-mexico-superavits-eu-20260710-822596.html",
-    "source": "El Economista",
-    "published": "2026-07-10T00:13:46-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
