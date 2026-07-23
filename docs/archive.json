@@ -1,5 +1,82 @@
 [
   {
+    "title": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
+    "summary": "La alta rotación laboral en México aleja a siete de cada 10 trabajadores de la posibilidad de comprar una vivienda propia, según Expansión. La inestabilidad en el empleo dificulta cumplir los requisitos de estabilidad de ingresos que exigen los créditos hipotecarios.",
+    "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
+    "source": "Expansión",
+    "published": "2026-07-23T11:55:13+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Keeping Kids Safe Online From AI Shows US and China on Different Paths",
+    "summary": "Bloomberg contrasts US and Chinese approaches to protecting children online from AI and social media risks, suggesting China's more proactive regulatory stance is showing better results than the more hands-off US approach.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/keeping-kids-safe-online-from-ai-shows-us-and-china-on-different-paths",
+    "source": "Bloomberg",
+    "published": "2026-07-23T11:02:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Quién decide qué inteligencia compra su empresa",
+    "summary": "En menos de una semana, tres señales —el modelo Kimi K3 de la china Moonshot AI, el contrato de más de mil millones de dólares de Reflection AI con Nebius, y las pláticas de Anthropic para rentarle infraestructura a Meta— muestran que la IA está dejando de ser un producto único para convertirse en un mercado con múltiples proveedores. El artículo argumenta que las empresas ya no deben preguntarse \"qué modelo usar\", sino construir un portafolio de proveedores de IA, como lo hacen con los bancos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/07/23/quien-decide-que-inteligencia-compra-su-empresa/",
+    "source": "El Financiero",
+    "published": "2026-07-23T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Colombia no logra levantar al sector vivienda: ventas, construcción e iniciaciones continúan a la baja",
+    "summary": "El mercado de vivienda en Colombia mantuvo en el primer semestre de 2026 su tendencia de desaceleración: las ventas cayeron 9.9% interanual (78,423 unidades), con una contracción de 16.5% en el segmento No VIS y 6.6% en VIS, mientras los costos de construcción siguen creciendo por encima de la inflación. Asobancaria reconoce la necesidad de una hoja de ruta sectorial para reimpulsar la demanda.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-no-logra-levantar-al-sector-vivienda-ventas-construccion-e-iniciaciones-siguen-para-atras/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-23T10:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Centros comerciales se nutren de estrategia selectiva",
+    "summary": "Los centros comerciales en México adoptan una estrategia de crecimiento más selectivo y menos masivo, priorizando la rentabilidad de los espacios sobre la expansión histórica agresiva. El pipeline actual incluye 22 nuevos proyectos, reflejando un replanteamiento del ritmo de crecimiento del sector retail inmobiliario.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/07/23/centros-comerciales-se-nutren-de-estrategia-selectiva/",
+    "source": "El Financiero",
+    "published": "2026-07-23T09:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Can China dominate AI exports, too?",
+    "summary": "The Economist examines whether China can extend its AI dominance from models to physical AI exports, using the early rollout of robotaxis as a test case for Chinese firms competing globally in autonomous technology.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
+    "source": "The Economist",
+    "published": "2026-07-23T09:03:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can prediction markets win over Wall Street?",
+    "summary": "The Economist asks whether prediction markets can break into mainstream Wall Street trading, noting that clearing regulatory hurdles is only half the challenge facing this emerging asset class.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
+    "source": "The Economist",
+    "published": "2026-07-23T08:59:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "China Cuts AI Gap as Moonshot Shows Zhipu Isn’t One-Off, BI Says",
     "summary": "Chinese AI models narrowed their performance gap with U.S. counterparts to a record-low 6% in June, down from 9% in May, according to Bloomberg Intelligence. The improvement, driven by labs like Moonshot and Zhipu, raises questions about how long U.S. AI labs can maintain their technological lead.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-cuts-ai-gap-as-moonshot-shows-zhipu-isn-t-one-off-bi-says",
@@ -97,6 +174,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Why the US is losing Chinese AI stars",
+    "summary": "The Financial Times reports that more Chinese AI entrepreneurs now see greater opportunity at home than in Silicon Valley, signaling a shift in where AI talent chooses to build. The trend raises questions about the durability of the US's edge in the global AI race.",
+    "link": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-22T23:01:08+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
   },
   {
     "title": "¿Qué pasa si nunca eliges una Afore? Esto ocurre con tu ahorro para el retiro y quién administrará tu cuenta",
@@ -5408,94 +5496,6 @@
     "published": "2026-07-10T06:07:25+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Acuerdos que afectan el empleo y la productividad en México",
-    "summary": "La OCDE publicó su informe Panorama del Empleo 2026, que por primera vez analiza a fondo las disparidades regionales de empleo y salarios en los países miembros, incluyendo el impacto de la transición digital y la inteligencia artificial en el mercado laboral. El estudio revela que los acuerdos anticompetitivos entre empresas —como los pactos de no captación de personal— para limitar la movilidad y el poder de negociación de los trabajadores son más comunes de lo que se asumía.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/acuerdos-afectan-empleo-productividad-mexico-20260710-822549.html",
-    "source": "El Economista",
-    "published": "2026-07-10T06:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "TCS CEO: AI Could Reach 20% Revenue, Jobs Shift",
-    "summary": "Tata Consultancy Services CEO K. Krithivasan said AI could account for roughly 20% of the company's revenue within four to six quarters, as automation reshapes existing roles even as new AI-related jobs emerge across the business. His comments reflect how large IT services firms are recalibrating workforce strategy around AI adoption.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/tcs-ceo-ai-could-reach-20-revenue-jobs-shift-video",
-    "source": "Bloomberg",
-    "published": "2026-07-10T05:39:43+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Presume SHCP bonanza; hay otros datos",
-    "summary": "Reforma señala que el gobierno mexicano presumió indicadores de 'fortaleza' económica, pero que los datos oficiales de la SHCP muestran que el país crece a un ritmo más lento que antes de la pandemia. La nota contrasta el discurso oficial con las cifras de crecimiento reportadas.",
-    "link": "https://www.reforma.com/presume-shcp-bonanza-hay-otros-datos/ar3237892",
-    "source": "Reforma",
-    "published": "2026-07-10T05:00:35-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
-    "summary": "China dropped a numerical target for urban job creation from its next five-year plan for the first time in decades, an apparent acknowledgment of rising uncertainty over employment as AI spreads through the economy. The move signals Beijing's recognition that traditional labor-market planning tools may no longer fit an economy being reshaped by automation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
-    "source": "Bloomberg",
-    "published": "2026-07-10T04:58:26+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HSBC seeks buyers for risky Hong Kong property loans",
-    "summary": "HSBC is seeking buyers for a portfolio of riskier property loans at Hang Seng Bank, the Hong Kong retail lender it took private this year. The intended sale signals how the UK bank plans to overhaul the unit's loan book as part of a broader restructuring.",
-    "link": "https://www.ft.com/content/1faf3134-933f-4526-a790-b15dbc3210eb",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:26+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI and Google sell AI models to blacklisted China groups",
-    "summary": "OpenAI and Google have reportedly been supplying AI services to Singapore-based subsidiaries of Alibaba, Baidu and Tencent, entities that are blacklisted in the US. The report raises fresh questions about the effectiveness of US export controls on AI technology to China.",
-    "link": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UBS helped trigger exodus from Blue Owl private credit fund",
-    "summary": "UBS advised some wealth-management clients to reduce their exposure to a Blue Owl private-credit fund it had itself helped set up, contributing to a wave of investor withdrawals. The episode highlights growing scrutiny of liquidity and conflict-of-interest risks in the private-credit market.",
-    "link": "https://www.ft.com/content/4c75ea97-8411-445d-b1fd-393b2b4222f8",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why AI could be a financial 'sludge' buster",
-    "summary": "Financial regulators are exploring how AI could help cut bureaucratic \"sludge\" and red tape in oversight processes. The piece examines the potential for AI tools to streamline regulatory compliance and supervision in financial services.",
-    "link": "https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f",
-    "source": "Financial Times",
-    "published": "2026-07-10T04:00:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
     "language": "en",
     "light": true
   }
