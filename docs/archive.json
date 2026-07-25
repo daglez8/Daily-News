@@ -1,5 +1,27 @@
 [
   {
+    "title": "Nvidia vs. AMD: dos apuestas para la próxima batalla de la inteligencia artificial",
+    "summary": "La rivalidad entre Nvidia y AMD se traslada de los aceleradores de IA a los procesadores para servidores y las plataformas completas de centros de datos. Bank of America elevó su precio objetivo para AMD a US$620 al considerar que la empresa pasó de proveedor de GPU a proveedor integral de sistemas a escala de rack capaz de competir con Nvidia. El debate entre analistas ahora gira en torno a si la IA agéntica está limitada por el tiempo de finalización de un agente o por el número de agentes por rack.",
+    "link": "https://www.bloomberglinea.com/mercados/nvidia-vs-amd-dos-apuestas-para-la-proxima-batalla-de-la-inteligencia-artificial/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-25T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
+    "summary": "Big Tech's insatiable appetite for AI investment is unleashing a relentless wave of corporate bond sales, according to Bloomberg's Credit Weekly. The scale of this debt-fueled capex is having a bigger impact on the US corporate bond market than commonly recognized, reshaping how credit risk is priced.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-07-25T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Los agentes de IA comprarán por ti? Así podría cambiar el comercio electrónico",
     "summary": "Un informe de BTG Pactual plantea que la IA agéntica representa el primer desafío creíble al modelo de e-commerce que dominan Amazon y MercadoLibre: agentes autónomos podrían hacer la compra por el consumidor en lugar de que este navegue una tienda en línea. El cambio no busca vender más, sino transformar cómo el consumidor interactúa con el comercio digital.",
     "link": "https://www.bloomberglinea.com/tecnologia/los-agentes-de-ia-compraran-por-ti-asi-podria-cambiar-el-comercio-electronico/",
@@ -7,6 +29,28 @@
     "published": "2026-07-25T07:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
+    "summary": "Samsung Electronics won a contract worth more than $200 billion to manufacture chips for Broadcom, as both companies compete for a larger share of the booming AI infrastructure market. The deal underscores the scale of capital now committed to AI chip supply chains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
+    "source": "Bloomberg",
+    "published": "2026-07-25T06:30:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Sientes que tu carrera está congelada?",
+    "summary": "Una columna de opinión analiza el estancamiento profesional, citando un reporte del Wall Street Journal según el cual uno de cada cuatro trabajadores de cuello blanco lleva al menos cinco años sin ascensos ni aumentos significativos. El autor señala que las estructuras organizacionales más planas y la percepción de la edad influyen en este fenómeno, más allá de la falta de ambición individual.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/24/sientes-que-tu-carrera-esta-congelada/",
+    "source": "El Financiero",
+    "published": "2026-07-25T04:21:36+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -20,6 +64,28 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Dropping quarterly company reports in US may not be a bad thing",
+    "summary": "Despite backlash against the SEC over discussions to scrap mandatory quarterly reporting for US public companies, the FT argues the change could benefit corporate governance and long-term decision-making if implemented carefully. The debate touches on how reporting frequency shapes investor short-termism.",
+    "link": "https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557",
+    "source": "Financial Times",
+    "published": "2026-07-25T04:00:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El T-MEC y su 'blindaje' arancelario a México",
+    "summary": "Las exportaciones mexicanas de manufacturas no automotrices explicaron dos de cada tres dólares de ventas externas entre enero y mayo de 2026, gracias a la exclusión arancelaria bajo las reglas de origen del T-MEC. Pese a que casi 85% de las exportaciones mexicanas ingresan a EU con arancel cero, persisten medidas unilaterales de la Sección 232 sobre autos, acero, aluminio y cobre, y la administración Trump anunció nuevos aranceles mínimos de 10% para la mayoría de sus socios comerciales.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/24/el-t-mec-y-su-blindaje-arancelario-a-mexico/",
+    "source": "El Financiero",
+    "published": "2026-07-25T03:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Nu se convierte en banco el 6 de agosto y pausará las transferencias SPEI por unas horas",
@@ -5430,72 +5496,6 @@
     "published": "2026-07-13T05:40:42+00:00",
     "category": "AI & Agents",
     "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Teatro Mauri Restoration Preserves a 1951 Modernist Landmark in Valparaíso, Chile",
-    "summary": "The restored Teatro Mauri, a 1951 modernist landmark on Cerro Bellavista in Valparaíso, reopened after a restoration led by architects Laura Garrido and Gregorio Garretón. The building sits alongside Pablo Neruda's La Sebastiana and represents an important piece of Latin America's modernist architectural legacy.",
-    "link": "https://www.archdaily.com/1148542/teatro-mauri-restoration-revives-a-1951-modernist-landmark-in-valparaiso-chile",
-    "source": "ArchDaily",
-    "published": "2026-07-13T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Produce Dos Bocas a 42% de capacidad",
-    "summary": "La Refinería de Dos Bocas produjo en mayo 144,400 barriles diarios de petróleo, muy por debajo de su capacidad de diseño de 340,000 barriles, según cifras de Pemex. El dato confirma el rezago operativo de la refinería insignia del sexenio anterior.",
-    "link": "https://www.reforma.com/produce-dos-bocas-a-42-de-capacidad/ar3239213",
-    "source": "Reforma",
-    "published": "2026-07-13T05:01:24-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Wall Street feasts on fees from SpaceX IPO and mega-mergers",
-    "summary": "Top US banks are benefiting from a revival of large dealmaking, with fee income boosted by the SpaceX IPO and a wave of mega-mergers, as AI optimism and resilient consumer spending fuel a broader market rally.",
-    "link": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
-    "source": "Financial Times",
-    "published": "2026-07-13T04:00:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI is not enough to arrest China's decline",
-    "summary": "The piece argues that AI adoption alone cannot offset the more powerful structural forces weighing on China's economy, pushing back on the narrative that AI investment will single-handedly reverse the country's economic slowdown.",
-    "link": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053",
-    "source": "Financial Times",
-    "published": "2026-07-13T04:00:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Companies turn to Chinese AI models to cut costs",
-    "summary": "DoorDash, Siemens and Airbnb are among the companies turning to Chinese AI models to curb ballooning bills and reduce reliance on US technology providers, a sign that enterprise AI adoption decisions are increasingly driven by cost and vendor diversification, not just capability.",
-    "link": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
-    "source": "Financial Times",
-    "published": "2026-07-13T04:00:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jane Fraser's ruthless remake of Citigroup",
-    "summary": "The piece profiles Citigroup CEO Jane Fraser's turnaround effort, which has involved asset sales, job cuts and controversial new hires alongside a closer relationship with Trump, asking whether the overhaul is enough to restore the bank's standing among its top-tier peers.",
-    "link": "https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713",
-    "source": "Financial Times",
-    "published": "2026-07-13T04:00:05+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
     "language": "en",
     "light": true
   }
