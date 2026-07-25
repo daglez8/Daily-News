@@ -1,5 +1,126 @@
 [
   {
+    "title": "¿Los agentes de IA comprarán por ti? Así podría cambiar el comercio electrónico",
+    "summary": "Un informe de BTG Pactual plantea que la IA agéntica representa el primer desafío creíble al modelo de e-commerce que dominan Amazon y MercadoLibre: agentes autónomos podrían hacer la compra por el consumidor en lugar de que este navegue una tienda en línea. El cambio no busca vender más, sino transformar cómo el consumidor interactúa con el comercio digital.",
+    "link": "https://www.bloomberglinea.com/tecnologia/los-agentes-de-ia-compraran-por-ti-asi-podria-cambiar-el-comercio-electronico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-25T07:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why this philosopher turned down Anthropic",
+    "summary": "The Financial Times reports the AI industry is courting humanities scholars to work on model behavior and ethics, but a philosopher who turned down Anthropic argues the industry is asking the wrong questions about what these hires should actually address.",
+    "link": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+    "source": "Financial Times",
+    "published": "2026-07-25T04:00:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nu se convierte en banco el 6 de agosto y pausará las transferencias SPEI por unas horas",
+    "summary": "Nu completará su conversión a banco en México el 6 de agosto, un paso que suspenderá temporalmente las transferencias SPEI de sus usuarios mientras se formaliza el cambio regulatorio.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-banco-6-agosto-suspendera-spei",
+    "source": "Expansión",
+    "published": "2026-07-25T01:38:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+    "summary": "Anthropic has asked SK Hynix, one of the world's largest memory-chip makers, for supplies to produce its own semiconductors, according to SK Group Chairman Chey Tae Won — a sign the AI lab is moving toward more vertically integrated infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+    "source": "Bloomberg",
+    "published": "2026-07-25T00:44:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
+    "summary": "Nvidia will invest $1 billion in South Korea's Naver to help finance an AI data center under construction, part of a broader expansion of its accord with SK Group and the latest in a wave of AI infrastructure deals by the world's most valuable company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
+    "source": "Bloomberg",
+    "published": "2026-07-24T23:58:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta sale de iniciativa global de energías limpias para apostar por centros de datos a gas",
+    "summary": "Meta abandonó RE100, la iniciativa que agrupa a grandes empresas comprometidas a abastecerse solo de energía renovable, en medio de la carrera por construir centros de datos para IA. La salida, confirmada tras dejar de aparecer como miembro en el sitio de Climate Group, refleja cómo la demanda energética de la IA está reordenando prioridades climáticas corporativas.",
+    "link": "https://www.eleconomista.com.mx/arteseideas/meta-sale-iniciativa-global-energias-limpias-apostar-centros-datos-gas-20260724-824980.html",
+    "source": "El Economista",
+    "published": "2026-07-24T21:29:48-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+    "summary": "Expansión reporta que la construcción de infraestructura de inteligencia artificial ('fábricas de IA') ya está presente en México y que el sector enfrenta escasez de ingenieros especializados para sostener su crecimiento.",
+    "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
+    "source": "Expansión",
+    "published": "2026-07-24T20:56:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "CFTC Warns Prediction Markets Over Blanket Self-Certifications",
+    "summary": "The Commodity Futures Trading Commission is pushing back on prediction markets' practice of self-certifying broad, boilerplate contracts meant to cover a wide range of future events, signaling tighter regulatory scrutiny of the fast-growing sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/cftc-warns-prediction-markets-over-blanket-self-certifications",
+    "source": "Bloomberg",
+    "published": "2026-07-24T20:45:18+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street cierra una semana volátil entre las presiones del petróleo, la IA y los aranceles",
+    "summary": "Wall Street cerró mixto una semana volátil: el S&P 500 subió apenas 0.05% y el Dow avanzó 0.46%, mientras el Nasdaq cayó 0.64% lastrado por un desplome de casi 4.25% en semiconductores. Los inversionistas siguen evaluando si las multimillonarias inversiones en IA se traducirán en crecimiento suficiente, además de vigilar el conflicto EU-Irán, los aranceles de Trump y la próxima reunión de la Fed.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-mixto-entre-el-alivio-del-petroleo-y-nuevos-riesgos-por-iran-y-los-aranceles/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-24T20:07:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US tech groups cut 140,000 jobs despite AI spending boom",
+    "summary": "Major US tech companies have cut roughly 140,000 jobs even as they pour record sums into AI investment, the Financial Times reports, reshaping Silicon Valley's workforce while the broader US jobs market holds steady — a stark illustration of AI-driven organizational restructuring.",
+    "link": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-24T20:00:04+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano resiste la tensión global",
+    "summary": "El peso mexicano se mantiene resistente pese a la tensión en los mercados globales derivada de la volatilidad petrolera, los aranceles y la incertidumbre sobre la IA, según El Economista.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-resiste-tension-global-20260724-824966.html",
+    "source": "El Economista",
+    "published": "2026-07-24T19:52:27-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "¿Dónde rinde más tu dinero en 2026? Nu, Klar, Mercado Pago, Kubo Financiero y Cetes comparados",
     "summary": "Expansión compara los rendimientos que ofrecen en 2026 aplicaciones financieras como Nu, Klar y Mercado Pago frente a Kubo Financiero y los Cetes, para ayudar a los usuarios a decidir dónde invertir su dinero. El artículo analiza cuál de estas opciones conviene más para el ahorro personal.",
     "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento",
@@ -8,6 +129,28 @@
     "category": "Financial Services Mexico",
     "relevance_score": 78,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "El auge de la inteligencia artificial pone a prueba la capacidad eléctrica",
+    "summary": "Expansión señala que el crecimiento acelerado de la inteligencia artificial está tensionando la capacidad de la red eléctrica, un reto que también afecta a México conforme se instala más infraestructura de cómputo intensivo.",
+    "link": "https://expansion.mx/bespoke-ad/2026/07/24/el-auge-de-la-inteligencia-artificial-pone-a-prueba-la-capacidad-electrica",
+    "source": "Expansión",
+    "published": "2026-07-24T18:02:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+    "summary": "The selloff in SpaceX shares has pushed the stock close to a level implying investors assign zero value to its AI business, according to Morgan Stanley analysts — another data point in the broader market's growing skepticism toward AI valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+    "source": "Bloomberg",
+    "published": "2026-07-24T17:48:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
     "light": true
   },
   {
@@ -42,6 +185,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Evolución de las acciones de Santander en 2026: resultados récord y qué esperan los analistas",
+    "summary": "Las acciones de Banco Santander acumulan una revalorización de 18.33% en 2026 tras resultados semestrales récord: beneficio atribuido de 8,973 millones de euros (+31%) y un nuevo programa de recompra por 1,800 millones de euros. Analistas destacan la sorpresa positiva en el margen de intereses como señal de fortaleza del grupo.",
+    "link": "https://www.bloomberglinea.com/mercados/evolucion-de-las-acciones-de-santander-en-2026-resultados-record-y-que-esperan-los-analistas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-24T16:19:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "The Real Reason Behind the Private Credit-Insurance Nexus",
@@ -713,6 +867,17 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "The world's balance-sheet is out of kilter with its economy",
+    "summary": "The Economist examines a global imbalance between the world's aggregate balance-sheet (assets, debt and financial claims) and the size of the underlying economy, warning that restoring balance could prove painful for markets and policymakers alike.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+    "source": "The Economist",
+    "published": "2026-07-23T09:42:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Centros comerciales se nutren de estrategia selectiva",
@@ -5333,170 +5498,5 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Belonging to the Earth: Architecture in the Worldviews of Indigenous Peoples of Latin America",
-    "summary": "The piece moves beyond materiality and construction technique to examine how Indigenous worldviews across Latin America shape architectural thinking, focusing on cosmology and relationship to land rather than aesthetics alone. It offers a broader cultural lens on regional architecture beyond typical design coverage.",
-    "link": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
-    "source": "ArchDaily",
-    "published": "2026-07-13T04:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Employers pushed staff to use AI more. That has backfired",
-    "summary": "Companies that pushed employees hard to adopt AI tools are now facing backlash as the costs of those tools start to bite, forcing a rethink of incentive structures around AI usage. The piece is a cautionary case study in how workplace AI adoption programs can go wrong once budget pressure hits.",
-    "link": "https://www.ft.com/content/cc03adda-7b56-4392-8f9a-e83a71a25ea1",
-    "source": "Financial Times",
-    "published": "2026-07-13T03:00:03+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La inflación que el Banco de México no puede controlar",
-    "summary": "En junio la inflación anual bajó a 3.37%, su nivel más bajo desde diciembre de 2020, pero el dato mensual bueno no borra los riesgos de fondo. La columna advierte sobre presiones de largo plazo, ligadas al cambio climático, que escapan al control directo de Banxico y de la política monetaria convencional.",
-    "link": "https://www.eleconomista.com.mx/opinion/inflacion-banco-mexico-controlar-20260713-822899.html",
-    "source": "El Economista",
-    "published": "2026-07-13T00:26:38-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Regulación de redes sociales y de IA: Estos son los temas primordiales para Morena en el Congreso",
-    "summary": "El grupo parlamentario de Morena en la Cámara de Diputados definió sus prioridades legislativas para el próximo periodo ordinario, entre las que destaca la regulación de las redes sociales y del uso de la inteligencia artificial. El documento marca la agenda de gobernanza de IA que el Congreso mexicano abordará en los próximos meses.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/12/regulacion-de-redes-sociales-y-de-ia-estos-son-los-temas-primordiales-para-morena-en-el-congreso/",
-    "source": "El Financiero",
-    "published": "2026-07-12T23:58:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México: furor por los fondos de inversión",
-    "summary": "Los fondos de inversión en México registran un dinamismo extraordinario desde la pandemia, con cifras que marcan hitos notables y que, según el análisis, podrían duplicarse en los próximos años. La columna describe una tendencia estructural y no un repunte pasajero en el ahorro e inversión de los mexicanos.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-furor-fondos-inversion-20260712-822893.html",
-    "source": "El Economista",
-    "published": "2026-07-12T23:56:56-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El Mundial dejó una prueba de estrés para los pagos digitales; deben ser más resilientes",
-    "summary": "La Copa Mundial 2026 evidenció que, en eventos de alta concentración de personas, el éxito de los pagos digitales depende menos de la terminal en el comercio que de la solidez de toda la infraestructura tecnológica detrás. Directivos de tecnología de pagos como CLAI Payments piden reforzar la resiliencia del ecosistema mexicano de pagos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mundial-dejo-prueba-estres-pagos-digitales-deben-resilientes-20260712-822886.html",
-    "source": "El Economista",
-    "published": "2026-07-12T23:29:50-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nu ya operará como banco en México; recibió autorización de la CNBV",
-    "summary": "Nu México, filial del gigante brasileño de servicios financieros digitales, recibió autorización final de la CNBV para operar como banco, sumándose a los 54 bancos que operan en el país. Es el más reciente ejemplo de un jugador digital que da el salto a banca plena en el mercado mexicano.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/nu-operara-banco-mexico-recibio-autorizacion-cnbv-20260712-822885.html",
-    "source": "El Economista",
-    "published": "2026-07-12T23:25:03-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA no está destruyendo empleos: OCDE descarta una caída generalizada del trabajo",
-    "summary": "La OCDE reporta que el desempleo en sus países miembro se mantiene cerca de mínimos históricos (4.9%) y que no hay indicios de que la mayor adopción de IA por las empresas esté reduciendo de forma generalizada la demanda de mano de obra. El secretario general Mathias Cormann señaló que la IA está transformando las competencias que buscan las empresas más que eliminando empleos, aunque persisten retos para la incorporación laboral de los jóvenes.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/ia-destruyendo-empleos-ocde-descarta-caida-generalizada-trabajo-20260712-822811.html",
-    "source": "El Economista",
-    "published": "2026-07-12T18:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Demographic Shift Tests AI Promise",
-    "summary": "Martha Gimbel of Yale's Budget Lab argues AI is unlikely to offset the economic challenges of an aging population, since the US faces two major transitions simultaneously rather than one solving the other. She sees AI improving productivity in some caregiving tasks but questions consumer acceptance of automation where human interaction matters most.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-12/demographic-shift-tests-ai-promise-video",
-    "source": "Bloomberg",
-    "published": "2026-07-12T17:20:13+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Storm clouds gather over America's financial supremacy",
-    "summary": "The Economist warns that risks to US financial dominance are mounting, with American payments firms flagged as potentially the first casualties of the shift. The piece frames this as an early signal of broader structural change in global financial leadership.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
-    "source": "The Economist",
-    "published": "2026-07-12T17:05:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Toyota y el traslado de producción a EU: 6 claves que resumen qué pasará con sus plantas en México",
-    "summary": "Toyota anunció que transferirá parte de su producción en México a Estados Unidos, tras la falta de renovación del T-MEC en su forma actual, aunque la automotriz japonesa lo enmarca como una reestructuración global. Sus dos plantas en Tijuana y Apaseo el Grande generan cerca de 5,000 empleos directos y fabrican la pick-up Tacoma, por lo que la decisión genera incertidumbre sobre el futuro de la industria automotriz mexicana.",
-    "link": "https://www.eleconomista.com.mx/empresas/toyota-traslado-produccion-eu-6-claves-resumen-pasara-plantas-mexico-20260712-822756.html",
-    "source": "El Economista",
-    "published": "2026-07-12T17:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La tokenización puede transformar la arquitectura del sistema financiero mundial, según el FMI",
-    "summary": "El FMI advierte que la tokenización de activos financieros va más allá de una mejora tecnológica: al mover activos y pasivos a registros digitales compartidos, procesos hoy secuenciales como ejecución, compensación y liquidación podrían realizarse simultáneamente. Según Tobias Adrian, las decisiones regulatorias que se tomen ahora determinarán si esto fortalece o fragmenta el sistema financiero global.",
-    "link": "https://www.bloomberglinea.com/economia/la-tokenizacion-puede-transformar-la-arquitectura-del-sistema-financiero-mundial-segun-el-fmi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-12T15:40:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Big Banks Set Up Strong Earnings Week",
-    "summary": "Bloomberg Intelligence expects major US banks to post strong earnings driven by trading, investment banking and resilient lending, with investors watching consumer health, credit quality, net interest margins and AI-related financing activity.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-12/big-banks-set-up-strong-earnings-week-video",
-    "source": "Bloomberg",
-    "published": "2026-07-12T15:28:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cómo impacta el régimen matrimonial en la compra, venta y propiedad de los inmuebles?",
-    "summary": "El régimen patrimonial elegido al casarse —sociedad conyugal o separación de bienes— determina cómo una pareja adquiere, administra y dispone de sus inmuebles en México, con efectos directos sobre créditos hipotecarios, compraventas y divorcios. Especialistas de Kallify explican las diferencias clave entre ambos esquemas para proteger el patrimonio inmobiliario familiar.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/impacta-regimen-matrimonial-compra-venta-propiedad-inmuebles-20260712-822553.html",
-    "source": "El Economista",
-    "published": "2026-07-12T15:10:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ChatGPT Work: claves del nuevo agente de IA de OpenAI para el trabajo",
-    "summary": "OpenAI lanzó ChatGPT Work, un agente basado en GPT-5.6 diseñado para ejecutar proyectos completos —documentos, hojas de cálculo, presentaciones y análisis— integrando información de aplicaciones y flujos de trabajo con menor intervención del usuario. El agente puede reunir contexto y proponer un plan paso a paso antes de ejecutar tareas, intensificando la competencia con Anthropic y otros por el mercado de productividad impulsada por IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/chatgpt-work-claves-nuevo-agente-ia-openai-trabajo-20260712-822806.html",
-    "source": "El Economista",
-    "published": "2026-07-12T15:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
   }
 ]
