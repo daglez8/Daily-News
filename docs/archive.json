@@ -1,5 +1,27 @@
 [
   {
+    "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
+    "summary": "DeepSeek has told prospective investors in its second fundraising round that the deal is being suspended for now, days after comments widely attributed to founder Liang Wenfeng about US-China AI competition went viral. The pause adds uncertainty to the Chinese AI lab's capital-raising plans amid heightened geopolitical scrutiny.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+    "source": "Bloomberg",
+    "published": "2026-07-25T14:49:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La moderna noche de los Cuchillos Largos",
+    "summary": "Una columna de opinión advierte sobre un patrón corporativo creciente: empresas tecnológicas adquieren masivamente libros antiguos, descatalogados y enciclopedias históricas, los digitalizan para entrenar modelos de lenguaje y luego destruyen los ejemplares físicos para reducir costos de almacenamiento o evitar litigios de propiedad intelectual. El texto lo describe como una forma moderna de \"destrucción por asimilación digital\", con implicaciones para el patrimonio bibliográfico y la gobernanza de la IA generativa.",
+    "link": "https://www.eleconomista.com.mx/opinion/moderna-noche-cuchillos-largos-20260725-824994.html",
+    "source": "El Economista",
+    "published": "2026-07-25T11:21:32-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Nvidia vs. AMD: dos apuestas para la próxima batalla de la inteligencia artificial",
     "summary": "La rivalidad entre Nvidia y AMD se traslada de los aceleradores de IA a los procesadores para servidores y las plataformas completas de centros de datos. Bank of America elevó su precio objetivo para AMD a US$620 al considerar que la empresa pasó de proveedor de GPU a proveedor integral de sistemas a escala de rack capaz de competir con Nvidia. El debate entre analistas ahora gira en torno a si la IA agéntica está limitada por el tiempo de finalización de un agente o por el número de agentes por rack.",
     "link": "https://www.bloomberglinea.com/mercados/nvidia-vs-amd-dos-apuestas-para-la-proxima-batalla-de-la-inteligencia-artificial/",
@@ -20,6 +42,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CDMX proyecta entregar 10,000 hogares de bajo costo durante 2026",
+    "summary": "La jefa de Gobierno de la CDMX, Clara Brugada, anunció la meta de entregar 10,000 viviendas de bajo costo y otorgar 40,000 apoyos para mejoramiento habitacional durante 2026 a través del Instituto de Vivienda (INVI). La administración capitalina ha destinado 18,000 millones de pesos a política habitacional en casi dos años de gobierno y ya entregó 2,000 casas en lo que va del año.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/cdmx-proyecta-entregar-10-000-hogares-costo-20260725-824977.html",
+    "source": "El Economista",
+    "published": "2026-07-25T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿Los agentes de IA comprarán por ti? Así podría cambiar el comercio electrónico",
@@ -5465,38 +5498,5 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Farmacias Similares lanza una tarjeta de crédito del Dr. Simi en colaboración con Stori",
-    "summary": "Farmacias Similares y la fintech Stori lanzaron una tarjeta de crédito de marca compartida dirigida a los millones de mexicanos sin acceso al sistema financiero formal. La iniciativa ofrece descuentos en compras y se suma a otras alianzas entre comercios minoristas y fintechs que vinculan productos de crédito con el consumo cotidiano.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/farmacias-similares-lanza-tarjeta-credito-dr-simi-colaboracion-stori-20260713-822911.html",
-    "source": "El Economista",
-    "published": "2026-07-13T06:33:45-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Más de 200 expertos piden medidas urgentes para afrontar el impacto económico de la IA",
-    "summary": "Más de 200 investigadores y economistas, incluidos 15 premios Nobel y expertos de OpenAI, Anthropic y Google, pidieron a gobiernos y líderes tecnológicos crear con urgencia medidas e instituciones para enfrentar el impacto económico de la IA. La declaración advierte que la IA podría provocar una transformación económica mayor que la Revolución Industrial, pero en un plazo mucho más breve, con riesgos como la pérdida de empleo a gran escala.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/200-expertos-piden-medidas-urgentes-afrontar-impacto-economico-ia-20260713-822910.html",
-    "source": "El Economista",
-    "published": "2026-07-13T06:25:52-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum",
-    "summary": "TSMC reported quarterly sales up 36%, beating expectations and signaling that global demand for AI hardware remains intact despite broader market jitters. The results reinforce the view that enterprise AI infrastructure spending is still accelerating.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum",
-    "source": "Bloomberg",
-    "published": "2026-07-13T05:40:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
   }
 ]
