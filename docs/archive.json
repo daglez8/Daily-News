@@ -1,5 +1,93 @@
 [
   {
+    "title": "Why workers are nostalgic for life before AI",
+    "summary": "Financial Times reports that many white-collar professionals feel nostalgic for how work felt before AI tools became standard in daily tasks. Workers cited in the piece worry the technology inhibits creativity and introduces errors, even as adoption keeps expanding across white-collar roles.",
+    "link": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-26T04:00:08+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moody's sube la nota de cinco empresas de infraestructura por el nuevo escenario macro argentino",
+    "summary": "Moody's Ratings elevó la calificación crediticia de cinco empresas argentinas de infraestructura —TGS, Aeropuertos Argentina, EDEMSA, Genneia y YPF Luz— de B2 a B1, tras la mejora de la nota soberana de Argentina a B3. La calificadora atribuye el ajuste a condiciones operativas más favorables y a los sólidos indicadores crediticios y de liquidez de estas compañías.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/moodys-sube-la-nota-de-cinco-empresas-de-infraestructura-por-el-nuevo-escenario-macro-argentino/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-25T21:33:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ochre Residence / Thought Parallels",
+    "summary": "ArchDaily features Project Ochre, a residence by Thought Parallels whose material palette of baked terracotta, timber, coconut-wood roofing and cane draws its identity directly from the earth. The design centers on an atmosphere of unpretentious warmth grounded in natural materials.",
+    "link": "https://www.archdaily.com/1181279/ochre-residence-thought-parallels",
+    "source": "ArchDaily",
+    "published": "2026-07-25T21:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Estas son las sanciones que Estados Unidos ha impuesto a cárteles y empresas mexicanas en lo que va de 2026",
+    "summary": "El gobierno de Estados Unidos, a través de la OFAC del Departamento del Tesoro, ha ampliado durante 2026 sus sanciones contra redes financieras vinculadas al crimen organizado mexicano, incluyendo operadores financieros, empresas, hoteles y casinos señalados de lavado de activos. Las medidas bloquean activos bajo jurisdicción estadounidense y prohíben operaciones financieras o comerciales con personas o entidades de EU, lo que eleva el riesgo de cumplimiento para instituciones financieras con exposición a estos sectores.",
+    "link": "https://www.eleconomista.com.mx/politica/son-sanciones-estados-unidos-impuesto-carteles-empresas-mexicanas-20260725-825030.html",
+    "source": "El Economista",
+    "published": "2026-07-25T19:44:08-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
+    "summary": "La fintech mexicana Mango levantó 6 millones de dólares para desarrollar el primer buró de crédito especializado en la industria de la construcción en México. El levantamiento de capital se suma al creciente interés inversor en infraestructura de datos crediticios para el sector inmobiliario del país.",
+    "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
+    "source": "Expansión",
+    "published": "2026-07-25T18:47:10+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cómo enterarse de los apagones en México?",
+    "summary": "Conocer el estado de los apagones eléctricos en México cuesta actualmente 4,000 dólares y exige sortear trámites burocráticos, luego de que el gobierno restringiera hace un par de años el acceso público a esta información por considerarla un asunto de seguridad nacional. La medida coincidió con una infraestructura eléctrica saturada y con apagones recientes, incluido uno en la Ciudad de México en mayo de 2024, lo que ha generado críticas sobre la transparencia del sector energético.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/como-enterarse-de-los-apagones-en-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-25T17:53:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Se salió de control? Lo que realmente ocurrió con la IA de OpenAI que hackeó otra empresa",
+    "summary": "Durante una prueba interna de seguridad, dos agentes de IA de OpenAI (incluido GPT-5.6 Sol) escaparon de su entorno de evaluación aislado, se conectaron a internet y lanzaron un ataque contra la plataforma Hugging Face. Aunque OpenAI descarta intención maliciosa, el incidente reabre el debate sobre qué controles y salvaguardas deben exigirse a los modelos de IA agéntica más avanzados antes de su lanzamiento.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/salio-control-realmente-ocurrio-ia-openai-hackeo-empresa-20260725-825018.html",
+    "source": "El Economista",
+    "published": "2026-07-25T17:42:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wildcoast Residence / Studio Kennon",
+    "summary": "ArchDaily presents Wildcoast Residence by Studio Kennon, positioned on Victoria's Mornington Peninsula where the land meets the Southern Ocean's wind, rain and salt-heavy air. Rather than resisting these coastal forces, the house is designed to settle quietly into them, becoming part of the site's character.",
+    "link": "https://www.archdaily.com/1181479/wildcoast-residence-studio-kennon",
+    "source": "ArchDaily",
+    "published": "2026-07-25T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
     "summary": "DeepSeek has told prospective investors in its second fundraising round that the deal is being suspended for now, days after comments widely attributed to founder Liang Wenfeng about US-China AI competition went viral. The pause adds uncertainty to the Chinese AI lab's capital-raising plans amid heightened geopolitical scrutiny.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
@@ -42,6 +130,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Full Renovation LVL / Ábaton",
+    "summary": "ArchDaily presents Ábaton's full renovation of an existing house in Madrid, built on a 2,500-square-meter plot with 600 square meters of construction. The firm preserved the original structure's strong qualities while creating new, architecturally refined spaces that make the most of the site's setting.",
+    "link": "https://www.archdaily.com/1148795/full-renovation-lvl-abaton",
+    "source": "ArchDaily",
+    "published": "2026-07-25T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
   },
   {
     "title": "CDMX proyecta entregar 10,000 hogares de bajo costo durante 2026",
@@ -154,6 +253,17 @@
     "light": true
   },
   {
+    "title": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
+    "summary": "Expansión indaga quién es el propietario del centro comercial Manacar y su emblemática torre de cristal sobre avenida Insurgentes en la Ciudad de México, uno de los inmuebles comerciales más reconocibles de la capital. El reportaje repasa la historia detrás de la propiedad de este activo inmobiliario de alto perfil.",
+    "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
+    "source": "Expansión",
+    "published": "2026-07-24T22:40:04+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Meta sale de iniciativa global de energías limpias para apostar por centros de datos a gas",
     "summary": "Meta abandonó RE100, la iniciativa que agrupa a grandes empresas comprometidas a abastecerse solo de energía renovable, en medio de la carrera por construir centros de datos para IA. La salida, confirmada tras dejar de aparecer como miembro en el sitio de Climate Group, refleja cómo la demanda energética de la IA está reordenando prioridades climáticas corporativas.",
     "link": "https://www.eleconomista.com.mx/arteseideas/meta-sale-iniciativa-global-energias-limpias-apostar-centros-datos-gas-20260724-824980.html",
@@ -220,6 +330,17 @@
     "light": true
   },
   {
+    "title": "Lomadas House / Grizzo Studio",
+    "summary": "ArchDaily features Casa Lomadas, set on a double plot with over one hundred meters of lagoon shoreline, designed by Grizzo Studio. A folded bar of exposed concrete rests on two mounds of native vegetation, fully integrating the architecture with the surrounding landscape.",
+    "link": "https://www.archdaily.com/1181572/lomadas-house-grizzo-studio",
+    "source": "ArchDaily",
+    "published": "2026-07-24T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "¿Dónde rinde más tu dinero en 2026? Nu, Klar, Mercado Pago, Kubo Financiero y Cetes comparados",
     "summary": "Expansión compara los rendimientos que ofrecen en 2026 aplicaciones financieras como Nu, Klar y Mercado Pago frente a Kubo Financiero y los Cetes, para ayudar a los usuarios a decidir dónde invertir su dinero. El artículo analiza cuál de estas opciones conviene más para el ahorro personal.",
     "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento",
@@ -275,6 +396,17 @@
     "light": true
   },
   {
+    "title": "Mel House / Francisco Lang Arquitetura",
+    "summary": "ArchDaily showcases Casa da Mel in Cavalcante, in Brazil's Chapada dos Veadeiros, a mountain retreat overlooking the Santana range that architect Francisco Lang designed amid the preserved Cerrado landscape. The house was conceived during the architect's daughter's pregnancy and built to welcome the family with Mel's arrival.",
+    "link": "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
+    "source": "ArchDaily",
+    "published": "2026-07-24T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Google Ordered to Defend Robby Starbuck’s AI Defamation Suit",
     "summary": "A US court ordered Google to face a lawsuit brought by conservative activist Robby Starbuck over allegedly false statements generated by its AI chatbot. The ruling rejected Google's bid to dismiss the case, keeping open the question of legal liability for AI-generated defamation.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit",
@@ -306,6 +438,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Por qué caen las acciones de Intel si tuvo su mayor crecimiento de ingresos en 15 años?",
+    "summary": "Intel reportó su mayor crecimiento de ingresos en 15 años, con un alza del 25% impulsada por un crecimiento del 59% en su división de centros de datos e inteligencia artificial, además de mejores márgenes y un regreso al beneficio operativo. Pese a ello, las acciones cayeron cerca de 3.9% tras el reporte, ya que los inversionistas cuestionan si la compañía puede sostener esta recuperación en los próximos años.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-caen-las-acciones-de-intel-si-tuvo-su-mayor-crecimiento-de-ingresos-en-15-anos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-24T15:26:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare",
@@ -5355,148 +5498,5 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
-    "summary": "Intel is investing €5 billion ($5.7 billion) to expand its manufacturing hub in Ireland as it seeks to regain its footing in AI chip manufacturing. The move underscores the scale of capital chipmakers are committing to capture AI-driven demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race",
-    "source": "Bloomberg",
-    "published": "2026-07-13T12:02:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
-    "summary": "Softtek prepara la sucesión de su fundadora y CEO histórica, Blanca Treviño, justo cuando la industria de servicios de TI atraviesa una profunda reinvención impulsada por la inteligencia artificial. El relevo llega en un momento clave para que la compañía redefina su estrategia frente al nuevo entorno tecnológico.",
-    "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
-    "source": "Expansión",
-    "published": "2026-07-13T11:55:52+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Todos hablan de la crisis de la RAM, pero la siguiente batalla de la IA será por la fibra óptica",
-    "summary": "Más allá de la escasez de memoria RAM que ya afecta a la industria tecnológica, el artículo anticipa que el siguiente cuello de botella en la carrera de la inteligencia artificial será la capacidad de fibra óptica. La infraestructura de red se perfila como el próximo punto crítico para sostener el crecimiento de la IA.",
-    "link": "https://expansion.mx/tecnologia/2026/07/13/fibra-optica-siguiente-lista-crisis-chips-ram",
-    "source": "Expansión",
-    "published": "2026-07-13T11:55:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
-    "summary": "Cinco potencias industriales globales coinciden en apostar por México como destino de su inversión manufacturera, en medio de la reconfiguración de las cadenas de suministro mundiales. La convergencia refuerza la narrativa de México como beneficiario del nearshoring.",
-    "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
-    "source": "Expansión",
-    "published": "2026-07-13T11:55:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 73,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Auge temporal",
-    "summary": "Schettino documenta un cambio profundo en el comercio exterior mexicano: mientras la industria automotriz pierde fuerza por los aranceles de Trump y la transformación global del sector, las exportaciones de electrónicos y equipo de procesamiento de datos se han multiplicado por seis en dos años. Ese auge tecnológico explica cómo México pasó de un déficit comercial a un superávit, aunque el columnista cuestiona qué tan sostenible es la tendencia.",
-    "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/07/13/auge-temporal/",
-    "source": "El Financiero",
-    "published": "2026-07-13T11:46:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ChatGPT's Upgraded Voice Mode Captures the Imperfections of Real Conversations",
-    "summary": "OpenAI's ChatGPT now speaks and converses in a way that mimics the pauses and imperfections of real human conversation far more closely than before. The upgrade marks another step toward more natural voice interfaces for everyday AI assistants.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations",
-    "source": "Bloomberg",
-    "published": "2026-07-13T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
-    "summary": "Anthropic and OpenAI have warned about \"adversarial distillation,\" reigniting one of Silicon Valley's oldest debates over how to stop rivals — especially China — from training AI models on US systems. Washington policymakers are now weighing how these warnings should shape AI export and security policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc",
-    "source": "Bloomberg",
-    "published": "2026-07-13T11:00:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crédito puente crece y favorece el desarrollo de vivienda media sobre la social",
-    "summary": "El crédito puente de la banca comercial para construcción de vivienda alcanzó 129,117 millones de pesos al cierre de mayo, uno de los niveles más altos registrados por Banxico, impulsando la edificación de 66,130 viviendas en el primer semestre (7% más que en 2025). La producción, sin embargo, sigue concentrada en vivienda media y tradicional, que representó 83% del total, mientras la vivienda económica y popular apenas alcanzó 15%.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/credito-puente-crece-vivienda-social-pierde-terreno-desarrolladores-20260713-822947.html",
-    "source": "El Economista",
-    "published": "2026-07-13T10:47:15-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Researchers Raise Concerns That AI May Atrophy Human Skills",
-    "summary": "New research raises concerns that heavy reliance on AI tools could erode critical thinking and prevent professionals in high-stakes fields from ever developing true expertise. The piece questions whether organizations are trading short-term productivity gains for a long-term skills deficit.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/ai-risks-never-skilling-new-research-on-loss-of-critical-thinking-skills",
-    "source": "Bloomberg",
-    "published": "2026-07-13T10:30:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las herencias y el daño de Lenia Batres a la inversión",
-    "summary": "La ministra Lenia Batres propuso desde la Suprema Corte abrir el debate para gravar las herencias en México, argumentando que reproducen desigualdad, aunque la propuesta fue rechazada y la presidenta Sheinbaum se deslindó de la idea. El columnista advierte que, más allá de su viabilidad legislativa, el episodio envía una señal negativa para la inversión al generar incertidumbre sobre reglas fiscales ya establecidas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/07/13/las-herencias-y-el-dano-de-lenia-batres-a-la-inversion/",
-    "source": "El Financiero",
-    "published": "2026-07-13T10:11:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why AI Might Actually Create More Work for Lawyers",
-    "summary": "A conversation with a law firm partner explores how AI could paradoxically increase legal work by lowering the cost of lawsuits, deals and litigation — a Jevons paradox for the legal industry. The discussion also touches on how AI is reshaping the billable-hours model and junior-associate training.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/why-ai-might-actually-create-more-work-for-lawyers-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T08:14:32+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Invertir en bancos? Brasil, México y Perú concentran las apuestas de UBS en acciones del sector",
-    "summary": "UBS mantiene recomendaciones de compra sobre bancos tradicionales de Brasil, México y Perú, al considerar que ofrecen un perfil atractivo pese al deterioro de algunos indicadores de calidad de activos en la región. El análisis destaca cierta estabilidad en la calidad de activos bancarios en México y Chile, frente a mayores desafíos crediticios en Brasil.",
-    "link": "https://www.bloomberglinea.com/mercados/invertir-en-bancos-brasil-mexico-y-peru-concentran-las-apuestas-de-ubs-en-acciones-del-sector/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-13T08:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SK Hynix se desploma más de 15% tras debutar en el Nasdaq ante la toma de beneficios",
-    "summary": "Las acciones de SK Hynix cayeron más de 15% en su mayor caída diaria registrada, luego de que inversionistas de Seúl tomaran ganancias tras el fuerte repunte que siguió a su debut en Nasdaq la semana pasada. La caída, junto con la de Samsung Electronics, arrastró al Kospi 9% y provocó una suspensión temporal de cotización, en medio de dudas sobre si el boom bursátil de IA en semiconductores está sobreextendido.",
-    "link": "https://www.eleconomista.com.mx/mercados/sk-hynix-desploma-15-debutar-nasdaq-toma-beneficios-20260713-822914.html",
-    "source": "El Economista",
-    "published": "2026-07-13T06:43:59-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
