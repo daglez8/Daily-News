@@ -1,5 +1,16 @@
 [
   {
+    "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
+    "summary": "Bloomberg reports that the long-standing pact between US tech giants and investors -heavy AI spending rewarded by rising revenue- is breaking down as earnings season collides with growing market skepticism over AI capital expenditure. Big Tech's results are now testing investor patience on whether massive AI investment can keep translating into growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+    "source": "Bloomberg",
+    "published": "2026-07-26T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Brazil ETF Market Triples in Boom for New Latin America Funds",
     "summary": "Exchange-traded funds are proliferating rapidly in local Latin American markets, with Brazil's ETF market tripling in size as investors flock to a wave of new products tailored to domestic demand, according to Bloomberg.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/brazil-etf-market-triples-in-boom-for-new-latin-america-funds",
@@ -33,6 +44,28 @@
     "light": false
   },
   {
+    "title": "T-MEC: así cerró la tercera ronda de negociaciones entre México y EU; avances, desacuerdos y lo que sigue",
+    "summary": "La tercera ronda de negociaciones del T-MEC concluyó en la Ciudad de México con avances en temas como acero, aluminio y cadenas de suministro regionales, pero las diferencias más importantes entre México y Estados Unidos siguen sin resolverse. Encabezada por el secretario Marcelo Ebrard y el representante comercial de EU, Jamieson Greer -quien también se reunió con la presidenta Sheinbaum-, ambas delegaciones acordaron una cuarta ronda de pláticas a inicios de septiembre en Washington.",
+    "link": "https://www.eleconomista.com.mx/politica/t-mec-asi-cerro-tercera-ronda-negociaciones-mexico-eu-avances-desacuerdos-sigue-20260726-825037.html",
+    "source": "El Economista",
+    "published": "2026-07-26T10:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Vas a comprar una casa? Así puede protegerte la prelación registral",
+    "summary": "La proptech Kallify explica que, al comprar una vivienda en México, la prioridad legal sobre una propiedad no depende de la fecha en que se firmó el contrato, sino del momento exacto en que este se inscribe en el Registro Público de la Propiedad (día, hora, minuto y segundo). Según Diana Sandoval, directora de Kallify, este principio de prelación registral protege a compradores, acreedores y terceros frente a conflictos cuando existen dos o más actos jurídicos sobre un mismo inmueble.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/vas-comprar-casa-asi-protegerte-prelacion-registral-20260726-824982.html",
+    "source": "El Economista",
+    "published": "2026-07-26T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Inter apuesta por los pagos internacionales para crecer en América Latina",
     "summary": "El banco brasileño Inter busca convertir su infraestructura de pagos internacionales en uno de sus principales motores de crecimiento en América Latina, ampliando la plataforma que conecta a clientes brasileños con EE.UU. para atender también a personas, empresas e instituciones financieras extranjeras sin presencia en Brasil. Directivos del banco explicaron a Bloomberg Línea la estrategia para consolidarse como institución financiera regional.",
     "link": "https://www.bloomberglinea.com/negocios/inter-apuesta-por-los-pagos-internacionales-para-crecer-en-america-latina/",
@@ -40,6 +73,17 @@
     "published": "2026-07-26T07:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El problema no es Trump, es EU",
+    "summary": "En esta columna de opinión, Enrique Quintana argumenta que el reemplazo del arancel general de EU por un nuevo gravamen mínimo de 10% a unos 60 socios comerciales -México incluido, ahora justificado por supuestas fallas en el combate al trabajo forzoso- revela que el verdadero cambio no es Trump, sino una redefinición más profunda de la estrategia comercial estadounidense. Advierte que México no puede darse el lujo de malinterpretar esta transformación estructural mientras avanza la revisión del T-MEC.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/07/25/el-problema-no-es-trump-es-eu/",
+    "source": "El Financiero",
+    "published": "2026-07-26T04:36:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -5452,50 +5496,6 @@
     "published": "2026-07-13T18:32:02+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economistas y premios Nobel piden crear nuevas políticas ante el impacto económico de la IA",
-    "summary": "Un grupo de economistas y premios Nobel pidió la creación de nuevas políticas públicas para atender el impacto económico de la inteligencia artificial. El llamado surge ante la creciente preocupación por los efectos de la IA en el empleo y la economía global.",
-    "link": "https://expansion.mx/tecnologia/2026/07/13/premios-nobel-piden-crear-politicas-impacto-economico-ia",
-    "source": "Expansión",
-    "published": "2026-07-13T17:16:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "More Than 200 Experts Urge Action to Steer AI for Society’s Good",
-    "summary": "More than 200 economists and AI researchers signed a call for stronger study and oversight of artificial intelligence, warning the technology could become ‘radically more powerful’ within a decade. They urged policymakers to steer its development in a human-friendly direction before risks compound.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/more-than-200-experts-urge-action-to-steer-ai-for-society-s-good",
-    "source": "Bloomberg",
-    "published": "2026-07-13T15:57:55+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lazard's Bilicic Sees 'Tremendous' Demand for AI Data Center Power",
-    "summary": "Lazard's global head of power, energy and infrastructure George Bilicic said the industry remains far from solving surging energy demand from AI data centers. He expects the shortfall to keep pushing natural gas prices higher.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/lazard-s-bilicic-sees-tremendous-demand-for-ai-power-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T15:27:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global tech stocks fall as Asian memory chipmakers hammered",
-    "summary": "Global tech stocks dropped as Asian memory chipmakers were hit hard, part of a broader risk-off move as oil jumped on escalating US-Iran hostilities. The selloff highlights how exposed global equity markets have become to swings in AI-related chip demand.",
-    "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-    "source": "Financial Times",
-    "published": "2026-07-13T12:46:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
     "language": "en",
     "light": true
   }
