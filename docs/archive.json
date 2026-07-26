@@ -1,5 +1,49 @@
 [
   {
+    "title": "Brazil ETF Market Triples in Boom for New Latin America Funds",
+    "summary": "Exchange-traded funds are proliferating rapidly in local Latin American markets, with Brazil's ETF market tripling in size as investors flock to a wave of new products tailored to domestic demand, according to Bloomberg.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/brazil-etf-market-triples-in-boom-for-new-latin-america-funds",
+    "source": "Bloomberg",
+    "published": "2026-07-26T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why wages and productivity look set to diverge further",
+    "summary": "The Financial Times reports that AI adoption and a falling labor share of GDP risk accelerating the divergence between wages and productivity across rich-world economies.",
+    "link": "https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-26T11:00:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Dónde invertir más allá de la IA? Goldman Sachs revela tres oportunidades en Wall Street",
+    "summary": "Ante la fuerte volatilidad de las acciones ligadas a infraestructura de IA -la mayor en 45 años fuera de recesiones, según el factor momentum de Goldman Sachs Research-, el banco identificó tres estrategias de inversión en Wall Street con baja correlación a ese segmento para inversionistas que buscan diversificar. El estratega jefe de renta variable Ben Snider lidera el análisis.",
+    "link": "https://www.bloomberglinea.com/mercados/donde-invertir-mas-alla-de-la-ia-goldman-sachs-revela-tres-oportunidades-en-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-26T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inter apuesta por los pagos internacionales para crecer en América Latina",
+    "summary": "El banco brasileño Inter busca convertir su infraestructura de pagos internacionales en uno de sus principales motores de crecimiento en América Latina, ampliando la plataforma que conecta a clientes brasileños con EE.UU. para atender también a personas, empresas e instituciones financieras extranjeras sin presencia en Brasil. Directivos del banco explicaron a Bloomberg Línea la estrategia para consolidarse como institución financiera regional.",
+    "link": "https://www.bloomberglinea.com/negocios/inter-apuesta-por-los-pagos-internacionales-para-crecer-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-26T07:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Why workers are nostalgic for life before AI",
     "summary": "Financial Times reports that many white-collar professionals feel nostalgic for how work felt before AI tools became standard in daily tasks. Workers cited in the piece worry the technology inhibits creativity and introduces errors, even as adoption keeps expanding across white-collar roles.",
     "link": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
@@ -5452,50 +5496,6 @@
     "published": "2026-07-13T12:46:07+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Convertir la oportunidad en inversión",
-    "summary": "El columnista argumenta que la reorganización del comercio global y la próxima revisión del T-MEC han vuelto a colocar a México en el radar de los inversionistas, pero advierte que la oportunidad no se traduce automáticamente en resultados. El Plan México plantea elevar la inversión al 28% del PIB hacia 2030, meta que exigirá movilizar ahorro institucional y fortalecer el mercado de capitales para financiar proyectos productivos de largo plazo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/13/convertir-la-oportunidad-en-inversion/",
-    "source": "El Financiero",
-    "published": "2026-07-13T12:34:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple's Lawsuit Threatens to Disrupt OpenAI's Bid to Rival the iPhone",
-    "summary": "Apple's lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt OpenAI's device ambitions long before the case is resolved. The dispute adds a new front to the intensifying rivalry between the two companies over AI hardware and talent.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
-    "source": "Bloomberg",
-    "published": "2026-07-13T12:32:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tracción o dispersión: la batalla diaria del ejecutivo moderno",
-    "summary": "El columnista reflexiona sobre cómo la distracción no intencionada, más que la competencia o la presión del mercado, es el mayor obstáculo cotidiano para los ejecutivos modernos. Propone rituales para ganar tracción y sostener periodos de concentración capaces de resolver asuntos complejos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/mauricio-candiani/2026/07/13/traccion-o-dispersion-la-batalla-diaria-del-ejecutivo-moderno/",
-    "source": "El Financiero",
-    "published": "2026-07-13T12:22:54+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom",
-    "summary": "After years of watching stablecoins evolve into a payments network moving tens of trillions of dollars annually, US banks are dusting off the collaborative playbook that produced Zelle to build shared infrastructure. The move signals banks are treating stablecoins as a structural competitive threat to their business, not a niche crypto product.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/wall-street-mounts-pushback-on-trillion-dollar-stablecoin-boom",
-    "source": "Bloomberg",
-    "published": "2026-07-13T12:03:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
     "language": "en",
     "light": true
   }
