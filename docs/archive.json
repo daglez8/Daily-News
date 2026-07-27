@@ -1,5 +1,104 @@
 [
   {
+    "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
+    "summary": "SoftBank Group's $40 billion bridge loan backing its investment in OpenAI has attracted 21 new lenders in a broader syndication round, according to people familiar with the matter. The expanded lender base underscores the scale of capital being mobilized to fund OpenAI's growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+    "source": "Bloomberg",
+    "published": "2026-07-27T04:30:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI companies spend record sums on Washington lobbying",
+    "summary": "OpenAI, Anthropic, Google and Microsoft have ramped up spending on Washington lobbying to record levels, reflecting an intensifying battle over federal AI policy. The rising outlays signal how central regulatory outcomes have become to the AI industry's competitive strategy.",
+    "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-27T04:00:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Regular la IA es el reto más importante al que se ha enfrentado la humanidad: Pablo Pruneda",
+    "summary": "Pablo Pruneda Gross, coordinador general del Consejo Coordinador de Inteligencia Artificial (CCOIA) de la UNAM, afirmó que regular la IA es el reto más importante que ha enfrentado la humanidad en la historia del derecho, pues abarca dimensiones educativas, laborales y éticas. Destacó que la regulación de la IA es una prioridad para la presidenta Claudia Sheinbaum y para el gobierno mexicano.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/07/26/regular-la-ia-es-el-reto-mas-importante-al-que-se-ha-enfrentado-la-humanidad-pablo-pruneda/",
+    "source": "El Financiero",
+    "published": "2026-07-27T01:56:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
+    "summary": "China's Moonshot AI is set to release its Kimi K3 model for public download, expanding its footprint in the global open-source AI community. The move comes amid growing US concern over China's advances at the frontier of AI development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+    "source": "Bloomberg",
+    "published": "2026-07-27T01:00:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
+    "summary": "Nvidia is in talks to provide a financing guarantee to help OpenAI lease computing capacity from a $500 billion US data center project planned for 2028. The deal would see the world's most valuable company funnel capital into the infrastructure underpinning its own core business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+    "source": "Bloomberg",
+    "published": "2026-07-26T23:31:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EQT Lifts Takeover Offer for Perpetual to $1.8 Billion",
+    "summary": "EQT AB raised its takeover offer for Australian wealth manager Perpetual Ltd. to roughly A$2.6 billion ($1.8 billion), sweetening its bid for the investment management firm.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/eqt-raises-takeover-offer-for-australia-wealth-manager-perpetual",
+    "source": "Bloomberg",
+    "published": "2026-07-26T23:30:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México ha avanzado en pensiones, pero aún no es un trabajo terminado: OCDE",
+    "summary": "El sistema de pensiones de México ha avanzado con las reformas impulsadas en la última década, pero aún es un trabajo inconcluso, señaló Pablo Antolín, director de Pensiones y Seguros de la OCDE, durante el Seminario Internacional de Pensiones FIAP-WPA 2026 en Costa Rica. Antolín subrayó que los sistemas pensionarios deben seguir evolucionando junto con el mercado laboral y la tecnología.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mexico-avanzado-pensiones-aun-trabajo-terminado-ocde-20260726-825145.html",
+    "source": "El Economista",
+    "published": "2026-07-26T22:52:50-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pagos sin contacto repuntaron en México durante la justa mundialista",
+    "summary": "Los pagos sin contacto de tarjetahabientes Visa Internacionales crecieron 105% en México entre el 11 de junio y el 5 de julio, coincidiendo con la justa mundialista de futbol celebrada en Ciudad de México, Guadalajara y Monterrey. El repunte refleja el impacto económico del torneo en el uso de medios de pago digitales en el país.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/pagos-contacto-repuntaron-mexico-justa-mundialista-20260726-825144.html",
+    "source": "El Economista",
+    "published": "2026-07-26T22:50:28-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mimado Restaurant / García de Alba + Ponce Arquitectos",
+    "summary": "Mimado is a new restaurant in Temozón Norte, Mérida, where García de Alba and Ponce Arquitectos transformed a double-height commercial space into a warm, layered interior. The design draws on Art Deco references, green tile, white oak, and a mural made from recycled books.",
+    "link": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-07-26T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
     "summary": "Bloomberg reports that the long-standing pact between US tech giants and investors -heavy AI spending rewarded by rising revenue- is breaking down as earnings season collides with growing market skepticism over AI capital expenditure. Big Tech's results are now testing investor patience on whether massive AI investment can keep translating into growth.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
@@ -5399,104 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "CPM amplía base de socios; crece el sector cooperativo",
-    "summary": "Caja Popular Mexicana superó los 4 millones de socios, reflejando la expansión del sector cooperativo de ahorro y préstamo en México. Según la CNBV, el número de socios de las Socaps a nivel nacional creció 4.93% anual, apoyado en mayor presencia territorial y fortalecimiento de canales digitales.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/cpm-amplia-base-socios-crece-sector-cooperativo-20260713-823086.html",
-    "source": "El Economista",
-    "published": "2026-07-13T23:48:40-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bancos de Wall Street aceleran uso de asistentes digitales",
-    "summary": "Los grandes bancos de Wall Street aceleran la adopción de IA agéntica —asistentes capaces de operar con mínima supervisión humana— en gestión patrimonial, verificación de clientes, trading y tesorería. Una encuesta de KPMG halló que 51% de los bancos ya prueba agentes de IA, redefiniendo qué roles serán humanos, híbridos o completamente agénticos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bancos-wall-street-aceleran-asistentes-digitales-20260713-823082.html",
-    "source": "El Economista",
-    "published": "2026-07-13T23:40:55-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "New Mountain Capital CEO: AI SaaSpocalypse Is Overstated",
-    "summary": "Steve Klinsky, founder and CEO of New Mountain Capital, said fears of an 'AI SaaSpocalypse' are overstated, noting recent credit-fund redemptions came mainly from retail investors while institutional appetite remains strong, with smarter institutional investors moving further into credit to capitalize on lower prices.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/new-mountain-capital-ceo-ai-saaspocalypse-is-overstated-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T21:33:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Amexcap busca reducir de 2 años a 6 meses el tiempo para levantar fondos",
-    "summary": "Expansión reporta que Amexcap, la asociación mexicana de capital privado, busca reducir de dos años a seis meses el tiempo que toma a los fondos levantar capital, una señal de esfuerzos por dinamizar el mercado de private equity y venture capital en México.",
-    "link": "https://expansion.mx/mercados/2026/07/13/amexcap-busca-reducir-de-2-anos-a-6-meses-el-tiempo-para-levantar-fondos",
-    "source": "Expansión",
-    "published": "2026-07-13T21:25:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI-Fueled Rally to Continue Into 2027, Analyst Luria Says",
-    "summary": "D.A. Davidson's Gil Luria said fundamentals still support semiconductor and AI-related stocks, predicting the AI-fueled market rally will continue into 2027.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/ai-stock-rally-to-continue-into-2027-analyst-luria-says-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T21:11:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Farmacias Simi quiere reducir uso de efectivo y ofrecer servicio de remesas con Stori",
-    "summary": "Expansión reporta que Farmacias Similares busca reducir el uso de efectivo en sus operaciones y ofrecer un servicio de remesas en alianza con la fintech Stori, ampliando la oferta de servicios financieros desde puntos de venta minoristas en México.",
-    "link": "https://expansion.mx/economia/2026/07/13/farmacias-simi-quiere-reducir-uso-de-efectivo-y-ofrecer-servicio-de-remesas-con-stori",
-    "source": "Expansión",
-    "published": "2026-07-13T21:00:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IPO: YPF Luz solicita salir a cotizar en las bolsas de Nueva York y Buenos Aires",
-    "summary": "YPF Luz, la generadora eléctrica argentina, solicitó una oferta pública inicial simultánea en la Bolsa de Nueva York y en BYMA de Buenos Aires, la segunda solicitud de IPO de una empresa argentina en julio tras Genneia, reflejando un renovado apetito inversor por activos argentinos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipo-ypf-luz-solicita-salir-a-cotizar-en-las-bolsas-de-nueva-york-y-buenos-aires/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-13T20:30:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Palantir Co-Founder Joe Lonsdale on the AI Investment Boom",
-    "summary": "8VC managing partner and Palantir co-founder Joe Lonsdale discussed the AI investment boom in a Bloomberg TV interview, highlighting the firm's record $1.5 billion fund and increasingly large startup funding rounds. He also outlined where he sees the next wave of opportunity in defense tech and AI companies.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/palantir-co-founder-lonsdale-on-the-ai-investment-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T18:34:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Apple’s Lawsuit Could Disrupt OpenAI’s Bid to Rival the iPhone",
-    "summary": "Apple has filed a lawsuit accusing OpenAI of systematically stealing its intellectual property, a case that threatens to disrupt OpenAI's ambitions to build a rival device to the iPhone long before it is resolved. The dispute adds a new front to the intensifying AI rivalry between the two companies.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/apple-s-lawsuit-could-disrupt-openai-bid-to-rival-iphone-video",
-    "source": "Bloomberg",
-    "published": "2026-07-13T18:32:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
   }
 ]
