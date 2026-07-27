@@ -1,5 +1,115 @@
 [
   {
+    "title": "China Vows Response to US Sanctions Threat Against AI Firms",
+    "summary": "China warned it would take “all necessary measures” if the US moves to sanction Chinese AI companies accused of improperly using American models to train their own systems. The dispute adds to rising US-China tension over AI technology and export controls.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
+    "source": "Bloomberg",
+    "published": "2026-07-27T11:02:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand",
+    "summary": "OpenAI is expanding its European headquarters in Dublin, adding 250 new jobs to meet growing demand for its AI products. The expansion reflects OpenAI's continued scaling of its international operations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/openai-announces-irish-expansion-to-meet-growing-ai-demand",
+    "source": "Bloomberg",
+    "published": "2026-07-27T10:54:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI and Layoffs: How Companies Are Talking to Employees and Investors",
+    "summary": "As companies increasingly tie layoffs to AI adoption, executives face a communications challenge: reassuring investors that AI is driving efficiency while avoiding messaging that alarms employees. The piece examines how firms are threading that needle in earnings calls and internal communications.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/ai-and-layoffs-how-companies-are-talking-to-employees-and-investors",
+    "source": "Bloomberg",
+    "published": "2026-07-27T10:44:05+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing",
+    "summary": "Nvidia is negotiating a fresh wave of AI infrastructure deals potentially worth more than $750 billion, extending a streak of investments that critics say may be artificially inflating demand and valuations across the AI industry. The scale of the dealmaking has revived concerns about circular financing arrangements propping up the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+    "source": "Bloomberg",
+    "published": "2026-07-27T10:20:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "German Lender NordLB to Expand Into Fund Finance and CLOs",
+    "summary": "German lender NordLB is expanding its capital markets business by increasing lending to third-party funds and packaging loans into instruments sold to investors, including CLOs. The move reflects a broader push among European banks to grow fee-generating, securitization-linked business lines.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/german-lender-nordlb-to-expand-into-fund-finance-and-clos",
+    "source": "Bloomberg",
+    "published": "2026-07-27T10:20:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
+    "summary": "HSBC plans to hire more than 100 artificial intelligence specialists in Singapore and launch a global AI center there later this year, part of a broader push by the British bank to embed AI across its operations. The move underscores how AI investment is reshaping talent strategy and workflows at major global banks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+    "source": "Bloomberg",
+    "published": "2026-07-27T10:04:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
+    "summary": "Multiverse Computing is raising $570 million in a funding round that would value the AI-cost-reduction startup at $1.7 billion, as investors continue to back companies that make AI models cheaper to run. The round reflects growing investor appetite for efficiency-focused AI infrastructure plays.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+    "source": "Bloomberg",
+    "published": "2026-07-27T07:10:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Angel Ventures lleva su experiencia en startups a los negocios tradicionales con Apex Lab",
+    "summary": "Angel Ventures amplía su estrategia de inversión más allá del capital de riesgo con el lanzamiento de Apex Lab, una nueva unidad que desarrollará empresas propias y adquirirá negocios tradicionales con potencial de crecimiento. La unidad se apoya en tecnología, capital y profesionalización de procesos, y se suma a las líneas de venture capital y crédito empresarial de la firma dentro de su plataforma AltCore.",
+    "link": "https://www.eleconomista.com.mx/empresas/angel-ventures-lleva-experiencia-startups-negocios-tradicionales-apex-lab-20260727-825158.html",
+    "source": "El Economista",
+    "published": "2026-07-27T07:00:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La Casa de Toño y la pregunta que todo emprendedor debería responder: ¿cuánto vale su empresa?",
+    "summary": "La posible adquisición de La Casa de Toño por parte de Grupo Gigante, con una valuación estimada en 400 millones de dólares, reavivó el debate sobre cómo se determina el valor de una empresa en México. El artículo explica que el precio de un negocio depende de factores como rentabilidad, capacidad de crecimiento y posición de mercado, más allá de las ventas o el número de sucursales.",
+    "link": "https://www.eleconomista.com.mx/empresas/casa-tono-pregunta-todo-emprendedor-deberia-responder-cuanto-vale-su-empresa-20260727-825159.html",
+    "source": "El Economista",
+    "published": "2026-07-27T07:00:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casa Macahuite / Studio Font",
+    "summary": "Casa Macahuite by Studio Font is composed of five planes—four walls and a floating pergola—arranged to frame views of the sea and mountains. The design uses shade, cross-ventilation, and site orientation as its primary climate and spatial strategies.",
+    "link": "https://www.archdaily.com/1181251/casa-macahuite-studio-font",
+    "source": "ArchDaily",
+    "published": "2026-07-27T07:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
     "summary": "SoftBank Group's $40 billion bridge loan backing its investment in OpenAI has attracted 21 new lenders in a broader syndication round, according to people familiar with the matter. The expanded lender base underscores the scale of capital being mobilized to fund OpenAI's growth.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
@@ -5388,115 +5498,5 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "DeepSeek’s Liang Tops Amodei and Brockman as Richest AI Founder",
-    "summary": "DeepSeek founder Liang Wenfeng became the world's richest AI model creator after his firm's latest fundraising round more than doubled his net worth, surpassing Anthropic's Dario Amodei and OpenAI's Greg Brockman.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-s-liang-tops-amodei-and-brockman-as-richest-ai-founder",
-    "source": "Bloomberg",
-    "published": "2026-07-14T03:53:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia halves Asia buyer list in China chip crackdown",
-    "summary": "The Financial Times reports Nvidia has halved its approved buyer list across Asia amid tougher vetting in Singapore, Malaysia and Japan, reflecting Washington's push to close loopholes in US export controls on AI chips to China.",
-    "link": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
-    "source": "Financial Times",
-    "published": "2026-07-14T03:25:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Gobernador Durazo atrae proyectos de inversión extranjera; visitan Sonora empresarios de Singapur",
-    "summary": "El gobernador de Sonora, Alfonso Durazo, recibió una misión empresarial de Singapur interesada en proyectos de minería, manufactura avanzada, automotriz y energía limpia en el estado, en el marco de la estrategia de atracción de inversión extranjera e impulso al nearshoring.",
-    "link": "https://www.elfinanciero.com.mx/estados/2026/07/13/gobernador-durazo-atrae-proyectos-de-inversion-extranjera-visitan-sonora-empresarios-de-singapur/",
-    "source": "El Financiero",
-    "published": "2026-07-14T03:23:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI’s Feud With xAI Carries On as Apple Secrets Fight Revs Up",
-    "summary": "OpenAI asked a judge to dismiss xAI's trade-secret theft lawsuit as meritless and is seeking to recoup over $1 million in legal costs from Elon Musk's company, as the feud between the two AI labs escalates alongside a related Apple trade-secrets dispute.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-feud-with-xai-carries-on-as-apple-secrets-fight-revs-up",
-    "source": "Bloomberg",
-    "published": "2026-07-14T01:47:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mala experiencia con pagos internacionales puede alejar a pymes de bancos en Latam: estudio",
-    "summary": "Un estudio de Mastercard y FXC Intelligence halló que 90% de las pymes latinoamericanas cambiaría de proveedor de pagos internacionales por mala experiencia, y 95% de ellas también migraría otros servicios bancarios en los próximos 12 meses. México concentra 44% de los cerca de US$23,000 millones anuales en ingresos por pagos transfronterizos de pymes en la región, exponiendo a la banca tradicional al riesgo de perder relación con sus clientes.",
-    "link": "https://www.bloomberglinea.com/negocios/mala-experiencia-con-pagos-internacionales-puede-alejar-a-pymes-de-bancos-en-latam-estudio/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-14T01:37:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México quiere atraer inteligencia artificial sin electricidad suficiente",
-    "summary": "El Economista analiza cómo México busca atraer inversión en centros de datos de IA —concentrada en Querétaro, CDMX y Monterrey— sin haber resuelto el déficit de capacidad eléctrica necesaria para sostenerlos. La cartera de proyectos ya suma 600 megavatios frente a apenas 160 disponibles, mientras la demanda energética global de la IA crece cerca de 30% al año.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-quiere-atraer-inteligencia-artificial-electricidad-suficiente-20260714-823100.html",
-    "source": "El Economista",
-    "published": "2026-07-14T00:57:07-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Telecomunicaciones, multa histórica",
-    "summary": "Un tribunal colegiado confirmó una multa histórica de mil 311 millones de pesos contra Telnor, subsidiaria de América Móvil, por incumplir las medidas de preponderancia que le impuso el extinto IFT. Es la sanción más alta aplicada al Agente Económico Preponderante en Telecomunicaciones en los 12 años de existencia del instituto.",
-    "link": "https://www.eleconomista.com.mx/opinion/telecomunicaciones-multa-historica-20260714-823094.html",
-    "source": "El Economista",
-    "published": "2026-07-14T00:27:53-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué busca el gobierno cuando habla de regular la IA?",
-    "summary": "Columna de opinión en El Economista sobre el anuncio de la presidenta Sheinbaum de impulsar, tras el Mundial, una regulación de la inteligencia artificial y las redes sociales. El autor advierte que el gobierno mexicano aún no ha logrado distinguir con claridad entre IA, plataformas digitales y proveedores de internet, lo que podría derivar en propuestas regulatorias mal dirigidas.",
-    "link": "https://www.eleconomista.com.mx/opinion/busca-gobierno-habla-regular-ia-20260714-823093.html",
-    "source": "El Economista",
-    "published": "2026-07-14T00:25:55-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banca: cinco jugadores digitales se han sumado al sector en menos de año y medio",
-    "summary": "Con la autorización de Nu México para operar como banco múltiple, ya son cinco entidades digitales (Openbank, Revolut, Hey Banco, Plata y Nu) las que se sumaron a la banca mexicana en menos de año y medio, aunque sus activos combinados apenas representan 0.5% del sector, dominado por BBVA, Santander y Banorte. Mercado Pago también espera su licencia bancaria.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banca-cinco-jugadores-digitales-han-sumado-sector-ano-medio-20260714-823088.html",
-    "source": "El Economista",
-    "published": "2026-07-14T00:04:06-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
-    "summary": "Expansión reporta que, más allá de Nu, otras aplicaciones financieras buscan obtener licencia bancaria para operar formalmente como bancos en México, sumándose a la ola de conversión de fintechs en instituciones bancarias reguladas.",
-    "link": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
-    "source": "Expansión",
-    "published": "2026-07-13T23:55:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
   }
 ]
