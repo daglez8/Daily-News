@@ -1,5 +1,71 @@
 [
   {
+    "title": "Nafin registra resultado neto positivo de 1,930 mdp al primer semestre de 2026",
+    "summary": "Nacional Financiera (Nafin) reportó una utilidad neta de 1,930 millones de pesos en el primer semestre de 2026, con un Índice de Capitalización de 18.84% y una cartera de crédito en balance de 280 mil mdp. El banco de desarrollo colocó 539,155 mdp en crédito directo e inducido al sector privado, beneficiando a cerca de 294 mil empresas, con una morosidad mínima de 0.94%.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/28/nafin-registra-resultado-neto-positivo-de-1930-mdp-al-primer-semestre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-07-28T18:14:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fondos mexicanos con mandato ESG registran retiros por casi 3,900 mdp",
+    "summary": "Los fondos de inversión mexicanos con mandato ESG registraron retiros por casi 3,900 millones de pesos, según reportó Expansión.",
+    "link": "https://expansion.mx/mercados/2026/07/28/fondos-mexicanos-esg-registran-retiros-por-3-900-mdp",
+    "source": "Expansión",
+    "published": "2026-07-28T18:03:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CEO de Visa despide a 2 mil 600 empleados por ‘culpa’ de la IA: ‘Aceleró la manera en que se trabaja’",
+    "summary": "Visa despedirá a 2,600 empleados, cerca del 7% de su plantilla, principalmente en tecnología y producto, en una medida que su CEO Ryan McInerney atribuyó a la mayor eficiencia que permite la inteligencia artificial. La decisión se suma a recortes similares de competidores fintech como PayPal y Block, mientras las acciones de Visa subieron antes de la apertura del mercado.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/28/ceo-de-visa-despide-a-2-mil-600-empleados-por-culpa-de-la-ia-acelero-la-manera-en-que-se-trabaja/",
+    "source": "El Financiero",
+    "published": "2026-07-28T17:07:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US-Based Cybersecurity Firm AlgoSec Is Said to Mull London IPO",
+    "summary": "AlgoSec, a US-based cybersecurity firm, is reportedly considering a London Stock Exchange IPO, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-based-cybersecurity-firm-algosec-is-said-to-mull-london-ipo",
+    "source": "Bloomberg",
+    "published": "2026-07-28T16:52:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
+    "summary": "Employees at OpenAI and Anthropic are circulating a petition urging the US government to help “deliberately pace” AI development, days after OpenAI disclosed its tools had mistakenly hacked another firm's systems. The letter signals growing internal concern over AI safety and governance at two of the leading labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
+    "source": "Bloomberg",
+    "published": "2026-07-28T16:38:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kapital acelera su consolidación: gana 858 millones de pesos en el primer semestre y supera los 93 mil millones en activos",
+    "summary": "Kapital Grupo Financiero reportó una utilidad neta de 858 millones de pesos en el primer semestre de 2026, con activos por más de 93 mil millones de pesos tras crecer 220% en cartera de crédito y 234% en captación. La institución mantiene una morosidad inferior a 3% y entra en una fase de consolidación tras años de expansión vía adquisiciones.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/07/28/kapital-acelera-su-consolidacion-gana-858-millones-de-pesos-en-el-primer-semestre-y-supera-los-93-mil-millones-en-activos/",
+    "source": "El Financiero",
+    "published": "2026-07-28T16:14:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "México espera nuevo arancel de EE.UU. tras superávit comercial récord",
     "summary": "México anticipa un nuevo arancel de Estados Unidos después de que su superávit comercial alcanzara un récord, según el secretario de Economía Marcelo Ebrard. La administración Trump prepara una nueva lista arancelaria para la primera semana de agosto, en medio de investigaciones bajo la Sección 301 por trabajo forzoso y capacidad excedente.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-nuevo-arancel-de-eeuu-tras-superavit-comercial-record/",
@@ -7,6 +73,17 @@
     "published": "2026-07-28T12:44:53+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El BPI alerta que el \"boom\" de la IA aumenta el riesgo de errores de los bancos centrales",
+    "summary": "El Banco de Pagos Internacionales (BPI) advirtió que el auge de la inteligencia artificial puede distorsionar indicadores clave como la tasa de interés natural y el desempleo, elevando el riesgo de una “mala calibración” de la política monetaria por parte de los bancos centrales. El informe señala que la IA afecta simultáneamente oferta y demanda de forma desigual entre sectores, complicando el análisis de tendencias económicas.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bpi-alerta-boom-ia-aumenta-riesgo-errores-bancos-centrales-20260728-825424.html",
+    "source": "El Economista",
+    "published": "2026-07-28T12:11:57-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
     "language": "es",
     "light": false
   },
@@ -29,6 +106,28 @@
     "published": "2026-07-28T11:50:26+00:00",
     "category": "AI & Agents",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fitch pone una corrección del mercado de la IA entre sus riesgos crediticios para el 3T",
+    "summary": "Fitch incluyó una eventual corrección del mercado de IA entre los principales riesgos crediticios globales para el tercer trimestre de 2026, junto con la incertidumbre por el conflicto entre Estados Unidos e Irán. La calificadora advierte que el gasto sin precedentes en IA y las valoraciones tecnológicas podrían estar adelantándose a rendimientos futuros inciertos, elevando el riesgo de una venta masiva de acciones.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fitch-pone-correccion-mercado-ia-riesgos-crediticios-3t-20260728-825419.html",
+    "source": "El Economista",
+    "published": "2026-07-28T11:46:15-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu operará como banco: cambios fiscales y otras modificaciones que debes conocer como cliente",
+    "summary": "Nu México iniciará operaciones como banco el 6 de agosto, tras recibir autorización de la CNBV, convirtiéndose en la mayor institución bancaria digital del país con más de 15 millones de clientes. Especialistas anticipan que la transición le permitirá ampliar su oferta más allá de tarjetas de crédito y ahorro hacia crédito hipotecario, nómina y seguros.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/nu-operara-banco-cambios-fiscales-modificaciones-debes-conocer-cliente-20260728-825036.html",
+    "source": "El Economista",
+    "published": "2026-07-28T11:00:00-06:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 85,
     "language": "es",
     "light": false
   },
@@ -62,6 +161,17 @@
     "published": "2026-07-28T10:45:17+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI’s Circular Financing Is Back With Nvidia’s Latest Deals",
+    "summary": "Bloomberg reports that circular financing deals are resurfacing around Nvidia's latest agreements, with investors warning such arrangements could artificially inflate AI demand and magnify losses if the technology fails to turn a profit.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/ai-s-circular-financing-is-back-with-nvidia-s-latest-deals",
+    "source": "Bloomberg",
+    "published": "2026-07-28T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
     "language": "en",
     "light": true
   },
@@ -121,6 +231,17 @@
     "light": false
   },
   {
+    "title": "Vulcan dice que tribunal determinó que México violó TLCAN, pero recibe compensación insignificante",
+    "summary": "Vulcan Materials dijo que un tribunal internacional determinó que México violó el TLCAN por el cierre de su mina de piedra caliza Calica, aunque la indemnización otorgada fue insignificante. La Secretaría de Economía señaló que el tribunal desestimó casi todas las reclamaciones de la empresa, salvo una medida que representa menos del 1% del monto original demandado.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/vulcan-dice-que-tribunal-determino-que-mexico-violo-tlcan-pero-recibe-compensacion-insignificante/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-28T06:01:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Vienen nuevos aranceles de EU a México? Ebrard adelanta posibles tarifas por sobrecapacidad de producción",
     "summary": "El secretario de Economía, Marcelo Ebrard, anticipó que México podría enfrentar nuevos aranceles de EU en agosto por una investigación de sobrecapacidad de producción bajo la Sección 301, en paralelo a otra revisión sobre trabajo forzoso. Calificó las negociaciones del T-MEC como \"una batalla cada semana\", aunque México conserva un arancel preferencial del 10% frente a otros 60 países afectados.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/vienen-nuevos-aranceles-de-eu-a-mexico-ebrard-adelanta-posibles-tarifas-por-sobrecapacidad-de-produccion/",
@@ -176,6 +297,17 @@
     "light": false
   },
   {
+    "title": "Capufe moderniza las casetas para avanzar a un esquema de \"Cero Efectivo”",
+    "summary": "Capufe está modernizando las casetas de cobro en México para avanzar hacia un esquema de “Cero Efectivo”, según reportó Expansión.",
+    "link": "https://expansion.mx/tendencias/2026/07/27/capufe-moderniza-las-casetas-para-avanzar-a-un-esquema-de-cero-efectivo",
+    "source": "Expansión",
+    "published": "2026-07-28T02:30:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
     "summary": "La Unión Europea prepara un nuevo esquema arancelario comercial, mientras México busca preservar el 85% de sus exportaciones libres de arancel en el marco de las negociaciones actuales, según Expansión.",
     "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
@@ -220,6 +352,17 @@
     "light": false
   },
   {
+    "title": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
+    "summary": "El Puerto de Liverpool elevó 55% su utilidad en el segundo trimestre, impulsado por su negocio financiero y por Nordstrom, según Expansión.",
+    "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
+    "source": "Expansión",
+    "published": "2026-07-28T00:03:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "México gana caso contra filial de Vulcan Materials Company ante CIADI",
     "summary": "El CIADI falló mayoritariamente a favor de México en el arbitraje iniciado por una filial de Vulcan Materials tras el cierre de sus operaciones de extracción de piedra caliza en Quintana Roo. El tribunal desestimó casi todas las reclamaciones de la empresa, salvo una medida que representa menos del 1% del monto originalmente reclamado.",
     "link": "https://www.eleconomista.com.mx/empresas/mexico-gana-caso-filial-vulcan-materials-company-ciadi-20260727-825369.html",
@@ -229,6 +372,28 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Invertir 10,000 pesos en CETES: este es el rendimiento que puedes recibir con las tasas actuales",
+    "summary": "Expansión detalla cuánto rendimiento se puede obtener al invertir 10,000 pesos en Cetes con las tasas de interés actuales.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/27/invertir-10-000-pesos-en-cetes-rendimiento-tasas-actuales",
+    "source": "Expansión",
+    "published": "2026-07-27T23:36:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
+    "summary": "Bloomberg reports that Big Tech's flood of AI-linked bond issuance is entering a tougher phase, with weakening demand and rising costs as bubble concerns mount around deals like BlackRock's $12.5 billion debt raise for a Meta data center.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
+    "source": "Bloomberg",
+    "published": "2026-07-27T21:47:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Big Tech credit risks rise sharply as AI spending soars",
@@ -559,6 +724,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Vergalderie - Alpine Guesthouse and Gallery / Christian Tonko",
+    "summary": "ArchDaily profiles the Vergalderie, an alpine guesthouse and gallery by Christian Tonko in the mountain village of Gargellen, Austria, at 1,530 meters. The minimalist, gable-roofed structure houses three holiday apartments and a central gallery space for contemporary art.",
+    "link": "https://www.archdaily.com/1181539/vergalderie-alpine-guesthouse-and-gallery-christian-tonko",
+    "source": "ArchDaily",
+    "published": "2026-07-27T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
@@ -5322,181 +5498,5 @@
     "relevance_score": 72,
     "language": "es",
     "light": true
-  },
-  {
-    "title": "Exhibition Design for Constelaciones y derivas: arte de América Latina desde la Colección FEMSA",
-    "summary": "Max von Werz Arquitectos, in collaboration with Mauricio Mesta Arquitectos, designed the exhibition space for \"Constelaciones y derivas: arte de América Latina desde la Colección FEMSA\" at the Museo de Arte Contemporáneo de Monterrey (MARCO). The show opened March 19, 2026 and runs through August 9, 2026.",
-    "link": "https://www.archdaily.com/1148699/exhibition-design-for-constelaciones-y-derivas-arte-de-america-latina-desde-la-coleccion-femsa-max-von-werz-arquitectos-plus-maurici-mesta-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-07-15T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Murati's Thinking Machines Releases First AI Model for Broad Use",
-    "summary": "Thinking Machines Lab is releasing its first AI model for broad use, more than a year after former OpenAI executive Mira Murati founded the artificial intelligence startup.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
-    "source": "Bloomberg",
-    "published": "2026-07-15T18:00:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Flotas mexicanas logran ahorros de hasta 30% con análisis de datos",
-    "summary": "El alza en los precios de los combustibles y la escasez de operadores están llevando a las empresas de autotransporte en México a adoptar telemática e inteligencia artificial para reducir costos y mejorar la seguridad vial. Geotab, que procesa datos de más de seis millones de vehículos conectados en 163 países, señala que estos modelos predictivos ayudan a anticipar fallas mecánicas e identificar conductores de mayor riesgo.",
-    "link": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/07/15/flotas-mexicanas-logran-ahorros-de-hasta-30-con-analisis-de-datos/",
-    "source": "El Financiero",
-    "published": "2026-07-15T17:36:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Palantir's CTO Sees Chinese AI Models Posing Economic Risk to US",
-    "summary": "Palantir CTO Shyam Sankar said China has developed a new vanguard of AI models through unauthorized use of work produced by Silicon Valley AI developers, posing an economic threat to the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us",
-    "source": "Bloomberg",
-    "published": "2026-07-15T17:29:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meet the committee to buy Europe",
-    "summary": "The Economist profiles Europe's leading dealmakers, arguing the continent's private equity and M&A figures deserve more attention amid a wave of consolidation. The piece highlights the growing influence of dealmaking on Europe's corporate landscape.",
-    "link": "https://www.economist.com/business/2026/07/15/meet-the-committee-to-buy-europe",
-    "source": "The Economist",
-    "published": "2026-07-15T17:22:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China acaba con los \"amantes\" y amistades generadas con IA",
-    "summary": "China prohibió a las aplicaciones de inteligencia artificial ofrecer 'amantes' y amistades generadas por IA, según Expansión. La medida se suma a los esfuerzos regulatorios del país para limitar ciertos usos de la IA generativa dirigidos al entretenimiento y la compañía emocional.",
-    "link": "https://expansion.mx/tecnologia/2026/07/15/china-prohibe-amantes-generados-ia",
-    "source": "Expansión",
-    "published": "2026-07-15T14:40:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft Gives Sellers Tips to Knock Down Anthropic, OpenAI",
-    "summary": "Microsoft is coaching its sales team on how to vigorously compete against Anthropic and OpenAI, playing up shortcomings in products from the two AI firms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
-    "source": "Bloomberg",
-    "published": "2026-07-15T14:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México frena gasto público en medio de acción de calificadoras S&P y Moody's",
-    "summary": "El gobierno de Claudia Sheinbaum frenó el gasto público ante la vigilancia de S&P Global y Moody's sobre la calificación crediticia de México, en momentos en que las finanzas públicas transitan un terreno deficitario. Entre enero y mayo de 2026 el gasto ascendió a 3.9 billones de pesos, 9.5% por debajo de lo programado, el mayor subejercicio para ese periodo desde 2005.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-frena-gasto-publico-en-medio-de-accion-de-calificadoras-sp-y-moodys/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-15T13:03:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Momento de invertir en América Latina? BlackRock explica por qué ve a la región con mejores perspectivas",
-    "summary": "BlackRock ve un panorama más favorable para América Latina en el segundo semestre de 2026 que para otros mercados emergentes, gracias a una inflación más estable y marcos monetarios más creíbles, según su country manager Diego Mora. La gestora advierte, sin embargo, que la disciplina fiscal, las transiciones políticas en Colombia y Perú, y la revisión comercial entre México y Estados Unidos serán los principales riesgos a vigilar.",
-    "link": "https://www.bloomberglinea.com/mercados/momento-de-invertir-en-america-latina-blackrock-explica-por-que-ve-a-la-region-con-mejores-perspectivas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-15T13:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Moody's reconoce el crecimiento financiero de Banco Azteca Guatemala con mejor calificación",
-    "summary": "Moody's Local Guatemala elevó la calificación de riesgo de Banco Azteca de Guatemala, subiendo su nota de largo plazo a A+.gt y la de corto plazo a ML A-1.gt, con perspectiva estable. El ajuste refleja el crecimiento sostenido de utilidades, una liquidez robusta y un modelo de negocio de créditos personales y de consumo alineado con su matriz, Grupo Elektra.",
-    "link": "https://www.eleconomista.com.mx/empresas/moody-s-reconoce-crecimiento-financiero-banco-azteca-guatemala-mejor-calificacion-20260715-823359.html",
-    "source": "El Economista",
-    "published": "2026-07-15T12:45:46-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Legislar sobre inteligencia artificial",
-    "summary": "El próximo periodo legislativo en México activará con una prioridad inusitada las discusiones sobre regulación de inteligencia artificial, impulsadas por la presidenta Sheinbaum y legisladores como Ricardo Monreal y el senador Zapata. El autor advierte que la tendencia legislativa se inclina hacia un enfoque penal para sancionar usos indebidos de la IA generativa, aunque considera que esa vía no es la más adecuada para abordar el tema.",
-    "link": "https://www.elfinanciero.com.mx/opinion/pedro-salazar/2026/07/15/legislar-sobre-inteligencia-artificial/",
-    "source": "El Financiero",
-    "published": "2026-07-15T11:59:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Morgan Stanley wealth management boosted by SpaceX millionaires",
-    "summary": "Morgan Stanley's wealth management business got an unusual boost from newly minted SpaceX millionaires, as the investment bank became the latest to shatter earnings forecasts amid the AI-driven markets boom. The results add to a string of stronger-than-expected earnings from major US investment banks this quarter.",
-    "link": "https://www.ft.com/content/fff726e3-42df-4525-bb8e-278254932a48",
-    "source": "Financial Times",
-    "published": "2026-07-15T11:43:34+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Registros del Infonavit revelan alta intermitencia en empleo formal, trabajadores cotizan 4 de cada 10 periodos",
-    "summary": "Un estudio del Infonavit —Radiografía del mercado laboral formal en México— revela que la formalidad laboral no es estable para buena parte de los trabajadores, con una densidad de cotización promedio de 42.2%, es decir que cotizan solo cuatro de cada diez periodos analizados. El problema se agudiza entre los trabajadores de menores ingresos, lo que plantea retos estructurales para la continuidad laboral y la equidad de género.",
-    "link": "https://www.eleconomista.com.mx/empresas/registros-infonavit-revelan-alta-intermitencia-empleo-formal-trabajadores-cotizan-4-10-periodos-20260715-823370.html",
-    "source": "El Economista",
-    "published": "2026-07-15T11:22:34-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Afore XXI Banorte recibe máxima calificación de excelencia por Siefores: Fitch Ratings",
-    "summary": "Fitch Ratings ratificó la calificación de \"Excelente\" para la calidad de administración de inversiones de Afore XXI Banorte, cubriendo sus 10 Fondos Básicos Generacionales y 11 Fondos Adicionales. La agencia también refrendó la nota \"AAAf(mex)\" para la deuda de sus portafolios, destacando una estructura organizacional robusta y especializada en la gestión de riesgos financieros.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/15/afore-xxi-banorte-recibe-maxima-calificacion-de-excelencia-por-siefores-fitch-ratings/",
-    "source": "El Financiero",
-    "published": "2026-07-15T11:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El T-MEC, de la certidumbre a la revisión permanente",
-    "summary": "La decisión de Estados Unidos de someter el T-MEC a una revisión anual transforma el tratado de un marco de certidumbre a un instrumento sujeto a negociación política recurrente, según el autor. Advierte que esta incertidumbre golpeará en particular a sectores que requieren inversiones de largo plazo, como el automotriz, electrónico, aeroespacial y de dispositivos médicos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/07/15/el-t-mec-de-la-certidumbre-a-la-revision-permanente/",
-    "source": "El Financiero",
-    "published": "2026-07-15T11:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Quién tiene la inflación más baja: México o EU?",
-    "summary": "La inflación general en México se ubicó en 3.4% anual en junio, dentro del rango objetivo de Banxico, tras una desaceleración desde el 3.9% de mayo. En Estados Unidos, el índice de precios al consumidor bajó a 3.5% anual, su primera caída mensual en seis años, y el autor compara ambas trayectorias de desinflación y sus implicaciones de política monetaria.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/07/15/quien-tiene-la-inflacion-mas-baja-mexico-o-eu/",
-    "source": "El Financiero",
-    "published": "2026-07-15T10:20:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
