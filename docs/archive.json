@@ -1,5 +1,104 @@
 [
   {
+    "title": "¿Vienen nuevos aranceles de EU a México? Ebrard adelanta posibles tarifas por sobrecapacidad de producción",
+    "summary": "El secretario de Economía, Marcelo Ebrard, anticipó que México podría enfrentar nuevos aranceles de EU en agosto por una investigación de sobrecapacidad de producción bajo la Sección 301, en paralelo a otra revisión sobre trabajo forzoso. Calificó las negociaciones del T-MEC como \"una batalla cada semana\", aunque México conserva un arancel preferencial del 10% frente a otros 60 países afectados.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/vienen-nuevos-aranceles-de-eu-a-mexico-ebrard-adelanta-posibles-tarifas-por-sobrecapacidad-de-produccion/",
+    "source": "El Financiero",
+    "published": "2026-07-28T05:51:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI stock sell-off deepens as investors dump chipmakers",
+    "summary": "Shares of SK Hynix and Samsung tumbled, pushing South Korea's Kospi down more than 10% from its June peak, as an AI-driven stock sell-off deepened. The rout reflects mounting investor anxiety over whether the AI spending boom's returns can justify current chipmaker valuations.",
+    "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-28T05:16:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
+    "summary": "Taiwanese prosecutors detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, drawing the company into a high-profile case over the black market for its products. The case underscores the growing regulatory and enforcement risk around export controls on advanced AI hardware.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
+    "source": "Bloomberg",
+    "published": "2026-07-28T04:48:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia behind $50bn lease on Texas data centre that will use its chips",
+    "summary": "Nvidia CEO Jensen Huang is deploying the company's balance sheet to backstop a $50 billion lease on a Texas data centre that will run on its own chips, underscoring how deeply the chipmaker is embedding itself in AI infrastructure financing. The deal illustrates the growing scale and financial complexity of the AI computing buildout.",
+    "link": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-28T04:00:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México solicita a EU bajar aranceles en la tercera ronda de revisión del T-MEC",
+    "summary": "México reiteró en la tercera ronda de negociaciones del T-MEC su prioridad de reducir el arancel del 25% a las exportaciones automotrices y eliminar los gravámenes a acero y aluminio de la Sección 232, según el secretario Marcelo Ebrard. México busca preservar que cerca del 85% de sus exportaciones ingresen a EU libres de arancel, manteniendo una posición preferencial frente a otros socios comerciales.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/mexico-solicita-a-eu-bajar-aranceles-en-la-tercera-ronda-de-revision-del-t-mec/",
+    "source": "El Financiero",
+    "published": "2026-07-28T03:27:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic's Amodei Rejects Open Model Ban, Calls for Testing",
+    "summary": "Anthropic CEO Dario Amodei joined Nvidia's Jensen Huang in warning against a US crackdown on open-weight AI models, arguing for stronger testing requirements instead of a ban. The intervention comes as Washington debates how to respond to a surprise capability breakthrough from Chinese startup Moonshot.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+    "source": "Bloomberg",
+    "published": "2026-07-28T01:51:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Exportaciones registran su crecimiento más alto desde 2021",
+    "summary": "Las exportaciones mexicanas crecieron 34.4% anual en junio y 24.6% en el primer semestre, alcanzando récords de 72,551 y 389,723 millones de dólares, informó el Inegi. El sector automotriz mostró resiliencia pese a los aranceles de EU, mientras las importaciones también repuntaron, dejando un superávit semestral de 9,857.9 millones de dólares.",
+    "link": "https://www.eleconomista.com.mx/empresas/exportaciones-registran-crecimiento-alto-20260728-825371.html",
+    "source": "El Economista",
+    "published": "2026-07-28T00:06:06-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México registra superávit récord en su balanza comercial",
+    "summary": "México registró un superávit comercial récord de 9,857.3 millones de dólares en el primer semestre de 2026, el mayor para un periodo igual desde 1980, según el Inegi. Analistas de Banco Base atribuyen el resultado a que las exportaciones crecieron más rápido que las importaciones, lo que respaldó la estabilidad del tipo de cambio, aunque el déficit petrolero fue el mayor desde 2022.",
+    "link": "https://www.eleconomista.com.mx/empresas/mexico-registra-superavit-record-balanza-comercial-20260728-825370.html",
+    "source": "El Economista",
+    "published": "2026-07-28T00:04:06-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech credit risks rise sharply as AI spending soars",
+    "summary": "Investors are growing increasingly concerned over a rush of borrowing by major tech companies to fund massive AI data-centre investments. The surge in debt-financed capex is raising questions about credit risk just as the sustainability of the broader AI spending boom comes under scrutiny.",
+    "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-27T20:55:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "What Is Moonshot AI's Kimi K3 Model and Why Is It Making Waves?",
     "summary": "Chinese startup Moonshot AI has released its new Kimi K3 model for public download, drawing global attention for its capabilities and expanding the company's influence in open AI development. The move comes amid growing US concern over China's rapid progress in frontier AI models.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/what-is-moonshot-ai-s-kimi-k3-model-and-why-is-it-making-waves",
@@ -51,6 +150,17 @@
     "published": "2026-07-27T17:23:25+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia bets $5bn on Ilya Sutskever's AI breakthrough",
+    "summary": "Nvidia has committed $5 billion to Ilya Sutskever's Safe Superintelligence, one of its largest funding deals of the AI boom, with the startup set to use Vera Rubin chips to rapidly expand computing capacity for its secretive research. The investment signals continued aggressive capital deployment by Nvidia into frontier AI research labs.",
+    "link": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-27T17:20:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
     "language": "en",
     "light": true
   },
@@ -183,6 +293,17 @@
     "published": "2026-07-27T11:00:40-06:00",
     "category": "AI & Agents",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Petróleo caro, El Niño y aranceles: los tres riesgos que amenazan a Wall Street y América Latina",
+    "summary": "El retorno del petróleo por encima de los 100 dólares por barril, sumado a un comercio internacional fragmentado y un posible episodio intenso de El Niño, eleva el riesgo de nuevos shocks de oferta sobre energía, alimentos y transporte. Analistas de Deutsche Bank advierten que la coincidencia de estos factores llega en un momento en que la economía mundial tiene poco margen para absorberlos, con la inflación aún por encima de las metas de los bancos centrales.",
+    "link": "https://www.bloomberglinea.com/mercados/petroleo-caro-el-nino-y-aranceles-los-tres-riesgos-que-amenazan-a-wall-street-y-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-27T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
@@ -5375,127 +5496,6 @@
     "published": "2026-07-14T20:07:47+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Caída de precios en EU ‘infla’ al peso: ¿Cuánto gana al dólar HOY 14 de julio?",
-    "summary": "El peso mexicano se apreció 0.57% frente al dólar este martes, ubicando el tipo de cambio en 17.42 unidades, luego de que el IPC de Estados Unidos se ubicara en 3.5% en junio, por debajo del 3.7% esperado por el mercado. Analistas de Monex señalaron que el dato reduce el margen para que la Reserva Federal continúe subiendo tasas de interés a corto plazo.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/14/peso-dolar-precio-hoy-14-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-14T17:19:11+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tras regular las redes sociales, Australia crea una Oficina de IA",
-    "summary": "Australia anunció la creación de una Oficina de Inteligencia Artificial como parte de sus esfuerzos por supervisar el desarrollo y uso de esta tecnología. La medida llega después de que el país avanzara en la regulación de las redes sociales, en un movimiento más amplio hacia una mayor gobernanza de las tecnologías digitales emergentes.",
-    "link": "https://expansion.mx/tecnologia/2026/07/14/australia-crea-una-oficina-para-regular-ia",
-    "source": "Expansión",
-    "published": "2026-07-14T17:10:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Naab House / Di Frenna Arquitectos",
-    "summary": "Naab House, a residence in Mexico designed by Di Frenna Arquitectos, is organized around a restrained, horizontal massing where a single central volume housing the entrance interrupts the composition's clean lines. The design treats this volume as a pause that organizes the facade and anticipates the interior experience.",
-    "link": "https://www.archdaily.com/1148651/naab-house-di-frenna-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-07-14T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Por qué la inflación está controlada y el peso sigue fuerte",
-    "summary": "Pese a la no renovación de mediano plazo del T-MEC, el aumento de la deuda pública y las advertencias de calificadoras sobre el grado de inversión de México, la inflación se mantiene controlada en 3.37% anual en junio y el peso se ha fortalecido en lugar de devaluarse. El autor atribuye esta aparente paradoja a que el tipo de cambio no refleja directamente los riesgos institucionales y fiscales que enfrenta el país.",
-    "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/07/14/por-que-la-inflacion-esta-controlada-y-el-peso-sigue-fuerte/",
-    "source": "El Financiero",
-    "published": "2026-07-14T13:01:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Roots House / Studio Gontijo Arquitetura",
-    "summary": "Casa Raízes sits atop a cliff in Trancoso, Bahia, designed by Studio Gontijo Arquitetura around a deep relationship with its coastal site. The home offers permanent ocean and horizon views, framed by the surrounding Atlantic Forest and a private trail leading to Itapororoca Beach.",
-    "link": "https://www.archdaily.com/1148616/roots-house-studio-gontijo-arquitetura",
-    "source": "ArchDaily",
-    "published": "2026-07-14T13:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Ahorros en Afores caen 9%; registran plusvalías por 484,079 millones de pesos en la primera mitad de 2026",
-    "summary": "Los ahorros de los trabajadores en las Afores generaron plusvalías por 484,079 millones de pesos en el primer semestre de 2026, una caída de 9% frente al mismo periodo de 2025, según la Consar. Las Afores hilaron en junio su tercer mes consecutivo de rendimientos positivos, tras las minusvalías registradas en marzo por la volatilidad derivada del conflicto en Irán.",
-    "link": "https://www.eleconomista.com.mx/economia/ahorros-afores-caen-9-registran-plusvalias-484-079-millones-pesos-primera-mitad-20260714-823163.html",
-    "source": "El Economista",
-    "published": "2026-07-14T12:46:12-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 79,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Top 10 en captación de inversión extranjera directa",
-    "summary": "La UNCTAD reportó que los flujos globales de inversión extranjera directa (IED) crecieron 6% en 2025, alcanzando 1.6 billones de dólares tras dos años de caídas consecutivas. Sin embargo, la recuperación es frágil y desigual: las 20 principales economías receptoras concentran más del 80% de los flujos, y las economías desarrolladas captaron la mayor parte del crecimiento.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/07/14/top-10-en-captacion-de-inversion-extranjera-directa/",
-    "source": "El Financiero",
-    "published": "2026-07-14T12:33:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
-    "summary": "The Bank for International Settlements warns that the race to build AI infrastructure is on pace to exceed previous technology booms that ended in severe market disruptions. The debt-fueled buildout raises concerns about a potential bust once the investment cycle turns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
-    "source": "Bloomberg",
-    "published": "2026-07-14T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 79,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflación esperada para las principales economías de América Latina: esto pronostica el mercado",
-    "summary": "Las encuestas de expectativas de los bancos centrales de la región anticipan que la inflación en México, Perú y Chile se mantendrá dentro de los rangos meta, mientras que Brasil y Colombia enfrentan un panorama más desafiante en 2026. Argentina, pese a seguir entre los países con mayor inflación del mundo, mostraría una desaceleración sin perforar el 10% anual.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-esperada-para-las-principales-economias-de-america-latina-esto-pronostica-el-mercado/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-14T12:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IBM shares plunge 23% on profit warning",
-    "summary": "IBM shares plunged 23% after the company warned it would miss market expectations, blaming sluggish customer spending on AI infrastructure. The warning raises questions about whether enterprise AI capex is cooling even as other parts of the AI buildout accelerate.",
-    "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-    "source": "Financial Times",
-    "published": "2026-07-14T11:57:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Demandan a Meta por seleccionar con IA a trabajadores con problemas de salud para despedirlos",
-    "summary": "Meta enfrenta una demanda que acusa a la compañía de utilizar inteligencia artificial para identificar a empleados con problemas de salud con el fin de despedirlos. El caso reaviva el debate sobre los riesgos legales y éticos del uso de sistemas de IA en decisiones de recursos humanos.",
-    "link": "https://www.eleconomista.com.mx/videos/demandan-meta-seleccionar-ia-trabajadores-problemas-salud-despedirlos-20260714-823154.html",
-    "source": "El Economista",
-    "published": "2026-07-14T11:45:33-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
     "language": "es",
     "light": false
   }
