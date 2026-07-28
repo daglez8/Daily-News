@@ -1,5 +1,126 @@
 [
   {
+    "title": "México espera nuevo arancel de EE.UU. tras superávit comercial récord",
+    "summary": "México anticipa un nuevo arancel de Estados Unidos después de que su superávit comercial alcanzara un récord, según el secretario de Economía Marcelo Ebrard. La administración Trump prepara una nueva lista arancelaria para la primera semana de agosto, en medio de investigaciones bajo la Sección 301 por trabajo forzoso y capacidad excedente.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-nuevo-arancel-de-eeuu-tras-superavit-comercial-record/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-28T12:44:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
+    "summary": "La Secretaría de Hacienda prevé eliminar a partir de 2027 los estímulos fiscales al IEPS que actualmente se aplican a la gasolina Magna y el diésel, de acuerdo con un reporte de Expansión.",
+    "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
+    "source": "Expansión",
+    "published": "2026-07-28T11:55:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La encíclica Papal y la dignidad frente al algoritmo (Segunda y última parte)",
+    "summary": "El artículo analiza cómo el IMSS usa inteligencia artificial para diagnosticar eventos vasculares cerebrales en minutos a través del programa Código Cerebro, en línea con los principios de la encíclica papal sobre tecnología y dignidad humana. Advierte que una iniciativa presentada en la Cámara de Diputados busca regular el uso de IA en el IMSS e ISSSTE, ya que la reforma de Salud Digital de enero de 2026 aún no define su marco legal.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/28/la-enciclica-papal-y-la-dignidad-frente-al-algoritmo-segunda-y-ultima-parte/",
+    "source": "El Financiero",
+    "published": "2026-07-28T11:50:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los 10 países de Latinoamérica en donde los bancos generan más utilidades, según Felaban",
+    "summary": "La banca de América Latina registró utilidades por US$88,996 millones en 2025, un 31% más que el año anterior, impulsada por tasas de interés elevadas y crecimiento del crédito, según Felaban. Brasil lideró con US$45,841 millones, seguido por México con US$17,110 millones, aunque la federación advierte que estos resultados dependen de que la economía y el ingreso de los hogares sigan creciendo.",
+    "link": "https://www.bloomberglinea.com/economia/los-10-paises-de-latinoamerica-en-donde-los-bancos-generan-mas-utilidades-segun-felaban/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-28T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reversa a Ley Serrano",
+    "summary": "El Congreso de San Luis Potosí, que en noviembre de 2025 había tipificado como delito el uso indebido de la inteligencia artificial con penas de hasta seis años de cárcel (\"Ley Serrano\"), publicó un dictamen para derogar esa reforma tras meses de presión social. La iniciativa de derogación fue impulsada, entre otros, por la organización Artículo 19 y por el propio gobernador Ricardo Gallardo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/confidencial/2026/07/28/reversa-a-ley-serrano/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:51:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI revenues are growing fast, but not fast enough",
+    "summary": "Despite rapid growth in AI-related revenues, returns on the trillions of dollars invested in the technology remain deeply uncertain. The piece questions whether current spending levels can be justified by the pace of revenue generation.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "source": "The Economist",
+    "published": "2026-07-28T10:45:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Prioriza Nubank consolidar el mercado en América Latina",
+    "summary": "Nubank prioriza consolidarse en los mercados donde ya opera —Brasil, México, Colombia y próximamente Estados Unidos— antes de expandirse fuera de la región, según su nueva CEO para América Latina, Livia Chanes. En México, la reciente licencia bancaria le da a Nubank mayor solidez y le permitirá ofrecer más productos financieros próximamente.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/28/prioriza-nubank-consolidar-el-mercado-en-america-latina/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:08:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La era del token frío",
+    "summary": "Un funcionario de la Casa Blanca acusó a la china Moonshot AI de haber destilado el modelo Fable de Anthropic para construir su Kimi K3, y el secretario del Tesoro Bessent advirtió que empresas chinas que realicen ataques de destilación a escala industrial podrían enfrentar sanciones y ser añadidas a la Entity List. El columnista señala que el uso del lenguaje de sanciones financieras para hablar de entrenamiento de IA marca un cambio de régimen regulatorio en la industria.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/07/28/la-era-del-token-frio/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta, BlackRock Plan to Invest in $14 Billion Data Center",
+    "summary": "Meta and BlackRock plan to build a 1-gigawatt data center complex in Texas costing roughly $14 billion, adding to the wave of investment in AI computing infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/meta-blackrock-plan-to-invest-in-giant-texas-data-center",
+    "source": "Bloomberg",
+    "published": "2026-07-28T09:46:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Wipes Out Customer Service Jobs at Microsoft, Uber, CBA",
+    "summary": "AI is beginning to eliminate call-center and customer-service jobs at major employers including Microsoft, Uber, and Commonwealth Bank of Australia. The trend signals an accelerating shift as companies replace human agents with AI systems for routine service functions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+    "source": "Bloomberg",
+    "published": "2026-07-28T09:30:26+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Quién lidera a la inteligencia artificial? El desafío que ningún CEO puede delegar",
+    "summary": "El artículo argumenta que la ventaja competitiva de las empresas ya no depende solo de mejores algoritmos de IA, sino de la calidad del liderazgo que los supervisa. Cita a McKinsey: 92% de las organizaciones aumentará su inversión en IA en los próximos tres años, pero solo 1% considera haber alcanzado madurez suficiente para generar valor de forma consistente.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/28/quien-lidera-a-la-inteligencia-artificial-el-desafio-que-ningun-ceo-puede-delegar/",
+    "source": "El Financiero",
+    "published": "2026-07-28T08:38:21+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Vienen nuevos aranceles de EU a México? Ebrard adelanta posibles tarifas por sobrecapacidad de producción",
     "summary": "El secretario de Economía, Marcelo Ebrard, anticipó que México podría enfrentar nuevos aranceles de EU en agosto por una investigación de sobrecapacidad de producción bajo la Sección 301, en paralelo a otra revisión sobre trabajo forzoso. Calificó las negociaciones del T-MEC como \"una batalla cada semana\", aunque México conserva un arancel preferencial del 10% frente a otros 60 países afectados.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/vienen-nuevos-aranceles-de-eu-a-mexico-ebrard-adelanta-posibles-tarifas-por-sobrecapacidad-de-produccion/",
@@ -55,6 +176,17 @@
     "light": false
   },
   {
+    "title": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
+    "summary": "La Unión Europea prepara un nuevo esquema arancelario comercial, mientras México busca preservar el 85% de sus exportaciones libres de arancel en el marco de las negociaciones actuales, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
+    "source": "Expansión",
+    "published": "2026-07-28T01:59:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic's Amodei Rejects Open Model Ban, Calls for Testing",
     "summary": "Anthropic CEO Dario Amodei joined Nvidia's Jensen Huang in warning against a US crackdown on open-weight AI models, arguing for stronger testing requirements instead of a ban. The intervention comes as Washington debates how to respond to a surprise capability breakthrough from Chinese startup Moonshot.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
@@ -84,6 +216,17 @@
     "published": "2026-07-28T00:04:06-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México gana caso contra filial de Vulcan Materials Company ante CIADI",
+    "summary": "El CIADI falló mayoritariamente a favor de México en el arbitraje iniciado por una filial de Vulcan Materials tras el cierre de sus operaciones de extracción de piedra caliza en Quintana Roo. El tribunal desestimó casi todas las reclamaciones de la empresa, salvo una medida que representa menos del 1% del monto originalmente reclamado.",
+    "link": "https://www.eleconomista.com.mx/empresas/mexico-gana-caso-filial-vulcan-materials-company-ciadi-20260727-825369.html",
+    "source": "El Economista",
+    "published": "2026-07-27T23:55:01-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
@@ -207,6 +350,17 @@
     "relevance_score": 76,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Cuestiona asesor de Trump sistema judicial mexicano",
+    "summary": "Un asesor del presidente Trump cuestionó el funcionamiento del sistema judicial mexicano, señalando la existencia de cárteles que controlan territorio como la razón por la que dicho sistema no opera correctamente, según Reforma.",
+    "link": "https://www.reforma.com/cuestiona-asesor-de-trump-sistema-judicial-mexicano/ar3247682",
+    "source": "Reforma",
+    "published": "2026-07-27T15:37:52-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": true
   },
   {
     "title": "La guerra tecnológica escala: China acusa a EU de 'saquear' sus datos para entrenar modelos de IA",
@@ -381,6 +535,17 @@
     "published": "2026-07-27T10:20:01+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "America has become an entrepreneur’s paradise",
+    "summary": "Small businesses, from Etsy sellers to small-town accountants, are increasingly benefiting from AI tools that lower the barriers to entrepreneurship in the US.",
+    "link": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
+    "source": "The Economist",
+    "published": "2026-07-27T10:04:15+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5330,171 +5495,6 @@
     "source": "El Financiero",
     "published": "2026-07-15T10:20:54+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BlackRock assets rise to record $15.3tn",
-    "summary": "BlackRock's assets under management rose to a record $15.3tn, with second-quarter net income jumping 20% to $1.9bn as the capital markets boom continued to lift the world's largest asset manager. The results underscore how buoyant markets are translating into record profitability for major financial institutions this earnings season.",
-    "link": "https://www.ft.com/content/ea81b3ad-8154-421b-aeae-01407877f548",
-    "source": "Financial Times",
-    "published": "2026-07-15T10:10:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La banca vuelve a la normalidad",
-    "summary": "Las utilidades del sistema bancario mexicano cayeron 4.2% real en mayo, según la CNBV, reflejando el fin del ciclo de altas tasas de interés que había ampliado los márgenes financieros de la banca. El recorte de tasas de Banxico y una economía que crece por debajo de lo esperado comienzan a estrechar esos márgenes, en lo que el autor considera un cambio de ciclo normal y no una señal de alarma.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/15/la-banca-vuelve-a-la-normalidad/",
-    "source": "El Financiero",
-    "published": "2026-07-15T10:06:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed no tolerará altos niveles de inflación, reafirma Kevin Warsh",
-    "summary": "El presidente de la Reserva Federal, Kevin Warsh, reafirmó ante el Congreso que la Fed no tolerará una inflación persistentemente elevada y que restablecer la estabilidad de precios sigue siendo la prioridad del banco central. Warsh no descartó nuevos aumentos de tasas si fueran necesarios para contener la inflación en Estados Unidos.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/15/fed-no-tolerara-altos-niveles-de-inflacion-reafirma-kevin-warsh/",
-    "source": "El Financiero",
-    "published": "2026-07-15T08:44:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cathedral House / JAK Architecture",
-    "summary": "Cathedral House is a new residential build in Thornton, Victoria, sited on a rural hillside overlooking the Cathedral Ranges. It was designed as a low-maintenance weekend retreat for a family seeking a strong connection to the surrounding landscape.",
-    "link": "https://www.archdaily.com/1092490/cathedral-house-jak-architecture",
-    "source": "ArchDaily",
-    "published": "2026-07-15T07:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Stripe y Advent presentan una oferta por PayPal de más de 53,000 millones de dólares",
-    "summary": "Stripe y la firma de capital privado Advent International presentaron una oferta conjunta de 60.50 dólares por acción para adquirir PayPal, valorando a la empresa de pagos en más de 53,000 millones de dólares. La propuesta, respaldada por unos 50,000 millones de dólares en financiamiento bancario comprometido, representa una prima de alrededor de 28% sobre el cierre previo de la acción y se originó en un primer acercamiento en abril.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/stripe-advent-presentan-oferta-paypal-53-000-millones-dolares-20260715-823326.html",
-    "source": "El Economista",
-    "published": "2026-07-15T06:19:14-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 95,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Stripe and Advent make $53bn bid for PayPal",
-    "summary": "Stripe and private equity firm Advent have made a $53 billion offer to acquire PayPal, the Financial Times reports. Shares in the New York-listed payments group surged on news of the bid.",
-    "link": "https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e",
-    "source": "Financial Times",
-    "published": "2026-07-15T05:54:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crowdfunding inmobiliario expande",
-    "summary": "El crowdfunding inmobiliario en México creció a un ritmo de 42% de nuevo fondeo, acumulando 5,909 millones de pesos captados al cierre de 2025, según Daniel Quintanilla, director general de Inverteca. El directivo lo describe como un nicho complementario a vehículos institucionales como FIBRAS y CKDs, al democratizar el acceso a la inversión inmobiliaria para tickets más pequeños.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/14/crowdfunding-inmobiliario-expande/",
-    "source": "El Financiero",
-    "published": "2026-07-15T04:31:33+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "PayPal Works With Goldman, Evercore as Stripe, Advent Make $50B-Plus Offer",
-    "summary": "PayPal has been working with advisers to review strategic options as Stripe and private equity firm Advent pursue a takeover of the fintech pioneer valued at more than $50 billion.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/stripe-advent-offer-to-buy-paypal-for-53-billion-reuters-says",
-    "source": "Bloomberg",
-    "published": "2026-07-15T03:47:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Casa Jar / Estudio Nada",
-    "summary": "Casa JAR is an introspective house in Mexico designed by Estudio Nada and Crux Arquitectura, organized as a succession of programmatic \"cubes\" wrapped around a large central courtyard that acts as a green lung and social core. The project reflects a contemporary take on modern Mexican residential architecture.",
-    "link": "https://www.archdaily.com/1092355/casa-jar-crux-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-07-15T03:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 75,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
-    "summary": "Se anunció una inversión de 10 millones de pesos orientada a proteger a pequeñas y medianas empresas mexicanas frente a ataques cibernéticos, según Expansión. La iniciativa busca reducir el riesgo de que las mipymes cierren operaciones a causa de incidentes de ciberseguridad.",
-    "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
-    "source": "Expansión",
-    "published": "2026-07-15T01:08:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El gasto oculto de la IA: empresas desvían su presupuesto de software a centros de datos",
-    "summary": "Empresas estarían redirigiendo presupuesto que antes destinaban a software hacia infraestructura de centros de datos para inteligencia artificial, según Expansión. La nota señala este desvío de gasto como un costo oculto de la adopción de IA en las organizaciones.",
-    "link": "https://expansion.mx/tecnologia/2026/07/14/el-gasto-oculto-de-la-ia-empresas-desvian-presupuesto",
-    "source": "Expansión",
-    "published": "2026-07-15T00:55:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nuevo intento por penalizar la IA",
-    "summary": "La diputada morenista Dolores Padierna presentó una iniciativa para reformar el Código Penal Federal que castigaría con 3 a 7 años de prisión a quien use sistemas de IA para suplantar o manipular la identidad de un tercero sin su consentimiento. La propuesta se adelantó al proceso de debate público sobre regulación de IA que la Presidenta Sheinbaum había anunciado para después del Mundial.",
-    "link": "https://www.eleconomista.com.mx/empresas/nuevo-intento-penalizar-ia-20260715-823304.html",
-    "source": "El Economista",
-    "published": "2026-07-15T00:31:12-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
-    "summary": "Expansión compara la competencia entre BBVA y Santander, los dos mayores bancos españoles con operación en México, en términos de ingresos, número de empleados y red de sucursales en el país. El artículo se enmarca en la disputa por participación de mercado entre ambas instituciones en el sistema bancario mexicano.",
-    "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
-    "source": "Expansión",
-    "published": "2026-07-14T22:19:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta enfrenta demanda por presunto uso de IA para seleccionar despidos",
-    "summary": "Meta enfrenta una demanda por el presunto uso de inteligencia artificial para determinar a qué empleados despedir, según Expansión. El caso se suma a la creciente atención legal sobre el uso de sistemas de IA en decisiones de recursos humanos.",
-    "link": "https://expansion.mx/tecnologia/2026/07/14/meta-enfrenta-demanda-por-uso-ia-seleccionar-despidos",
-    "source": "Expansión",
-    "published": "2026-07-14T21:00:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "S&P 500 cierra al alza tras dato de inflación, mientras IBM cae y la banca supera previsiones",
-    "summary": "Las acciones estadounidenses cerraron con ganancias luego de que la inflación de junio resultara menor a la esperada, impulsando tanto a la renta variable como a los bonos del Tesoro y presionando a la baja al dólar. El Nasdaq avanzó 0.90% apoyado en semiconductores y en un sólido inicio de la temporada de resultados, aunque el desplome de IBM limitó el optimismo tecnológico.",
-    "link": "https://www.bloomberglinea.com/mercados/el-sp-500-avanza-y-el-dolar-cae-tras-el-sorpresivo-descenso-de-la-inflacion-en-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-14T20:07:47+00:00",
-    "category": "Capital Markets & M&A",
     "relevance_score": 68,
     "language": "es",
     "light": false

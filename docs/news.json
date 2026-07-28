@@ -1,7 +1,139 @@
 [
   {
+    "title": "México espera nuevo arancel de EE.UU. tras superávit comercial récord",
+    "summary": "México anticipa un nuevo arancel de Estados Unidos después de que su superávit comercial alcanzara un récord, según el secretario de Economía Marcelo Ebrard. La administración Trump prepara una nueva lista arancelaria para la primera semana de agosto, en medio de investigaciones bajo la Sección 301 por trabajo forzoso y capacidad excedente.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-nuevo-arancel-de-eeuu-tras-superavit-comercial-record/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-28T12:44:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
+    "summary": "La Secretaría de Hacienda prevé eliminar a partir de 2027 los estímulos fiscales al IEPS que actualmente se aplican a la gasolina Magna y el diésel, de acuerdo con un reporte de Expansión.",
+    "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
+    "source": "Expansión",
+    "published": "2026-07-28T11:55:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La encíclica Papal y la dignidad frente al algoritmo (Segunda y última parte)",
+    "summary": "El artículo analiza cómo el IMSS usa inteligencia artificial para diagnosticar eventos vasculares cerebrales en minutos a través del programa Código Cerebro, en línea con los principios de la encíclica papal sobre tecnología y dignidad humana. Advierte que una iniciativa presentada en la Cámara de Diputados busca regular el uso de IA en el IMSS e ISSSTE, ya que la reforma de Salud Digital de enero de 2026 aún no define su marco legal.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/28/la-enciclica-papal-y-la-dignidad-frente-al-algoritmo-segunda-y-ultima-parte/",
+    "source": "El Financiero",
+    "published": "2026-07-28T11:50:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI stock sell-off deepens as investors dump chipmakers",
+    "summary": "Wall Street tech shares are set for further declines as the AI-driven stock sell-off intensifies, with South Korean chip markets tumbling sharply. Investors are dumping chipmaker shares amid growing doubts about the sustainability of AI-related valuations.",
+    "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-28T11:36:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los 10 países de Latinoamérica en donde los bancos generan más utilidades, según Felaban",
+    "summary": "La banca de América Latina registró utilidades por US$88,996 millones en 2025, un 31% más que el año anterior, impulsada por tasas de interés elevadas y crecimiento del crédito, según Felaban. Brasil lideró con US$45,841 millones, seguido por México con US$17,110 millones, aunque la federación advierte que estos resultados dependen de que la economía y el ingreso de los hogares sigan creciendo.",
+    "link": "https://www.bloomberglinea.com/economia/los-10-paises-de-latinoamerica-en-donde-los-bancos-generan-mas-utilidades-segun-felaban/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-28T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reversa a Ley Serrano",
+    "summary": "El Congreso de San Luis Potosí, que en noviembre de 2025 había tipificado como delito el uso indebido de la inteligencia artificial con penas de hasta seis años de cárcel (\"Ley Serrano\"), publicó un dictamen para derogar esa reforma tras meses de presión social. La iniciativa de derogación fue impulsada, entre otros, por la organización Artículo 19 y por el propio gobernador Ricardo Gallardo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/confidencial/2026/07/28/reversa-a-ley-serrano/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:51:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI revenues are growing fast, but not fast enough",
+    "summary": "Despite rapid growth in AI-related revenues, returns on the trillions of dollars invested in the technology remain deeply uncertain. The piece questions whether current spending levels can be justified by the pace of revenue generation.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "source": "The Economist",
+    "published": "2026-07-28T10:45:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Prioriza Nubank consolidar el mercado en América Latina",
+    "summary": "Nubank prioriza consolidarse en los mercados donde ya opera —Brasil, México, Colombia y próximamente Estados Unidos— antes de expandirse fuera de la región, según su nueva CEO para América Latina, Livia Chanes. En México, la reciente licencia bancaria le da a Nubank mayor solidez y le permitirá ofrecer más productos financieros próximamente.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/28/prioriza-nubank-consolidar-el-mercado-en-america-latina/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:08:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La era del token frío",
+    "summary": "Un funcionario de la Casa Blanca acusó a la china Moonshot AI de haber destilado el modelo Fable de Anthropic para construir su Kimi K3, y el secretario del Tesoro Bessent advirtió que empresas chinas que realicen ataques de destilación a escala industrial podrían enfrentar sanciones y ser añadidas a la Entity List. El columnista señala que el uso del lenguaje de sanciones financieras para hablar de entrenamiento de IA marca un cambio de régimen regulatorio en la industria.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/07/28/la-era-del-token-frio/",
+    "source": "El Financiero",
+    "published": "2026-07-28T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta, BlackRock Plan to Invest in $14 Billion Data Center",
+    "summary": "Meta and BlackRock plan to build a 1-gigawatt data center complex in Texas costing roughly $14 billion, adding to the wave of investment in AI computing infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/meta-blackrock-plan-to-invest-in-giant-texas-data-center",
+    "source": "Bloomberg",
+    "published": "2026-07-28T09:46:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Wipes Out Customer Service Jobs at Microsoft, Uber, CBA",
+    "summary": "AI is beginning to eliminate call-center and customer-service jobs at major employers including Microsoft, Uber, and Commonwealth Bank of Australia. The trend signals an accelerating shift as companies replace human agents with AI systems for routine service functions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+    "source": "Bloomberg",
+    "published": "2026-07-28T09:30:26+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Quién lidera a la inteligencia artificial? El desafío que ningún CEO puede delegar",
+    "summary": "El artículo argumenta que la ventaja competitiva de las empresas ya no depende solo de mejores algoritmos de IA, sino de la calidad del liderazgo que los supervisa. Cita a McKinsey: 92% de las organizaciones aumentará su inversión en IA en los próximos tres años, pero solo 1% considera haber alcanzado madurez suficiente para generar valor de forma consistente.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/28/quien-lidera-a-la-inteligencia-artificial-el-desafio-que-ningun-ceo-puede-delegar/",
+    "source": "El Financiero",
+    "published": "2026-07-28T08:38:21+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Exportaciones registran su crecimiento más alto desde 2021",
-    "summary": "Las exportaciones mexicanas crecieron 34.4% anual en junio y 24.6% en el primer semestre, alcanzando récords de 72,551 y 389,723 millones de dólares, informó el Inegi. El sector automotriz mostró resiliencia pese a los aranceles de EU, mientras las importaciones también repuntaron, dejando un superávit semestral de 9,857.9 millones de dólares.",
+    "summary": "Las exportaciones mexicanas crecieron 34.4% interanual en junio y 24.6% en el primer semestre de 2026, alcanzando récords de 72,551 y 389,723 millones de dólares, según el Inegi. El sector automotriz mostró resiliencia pese a los aranceles de EU, mientras que las importaciones también crecieron, dejando un superávit semestral de 9,857.3 millones de dólares.",
     "link": "https://www.eleconomista.com.mx/empresas/exportaciones-registran-crecimiento-alto-20260728-825371.html",
     "source": "El Economista",
     "published": "2026-07-28T00:06:06-06:00",
@@ -22,30 +154,19 @@
     "light": false
   },
   {
-    "title": "¿Vienen nuevos aranceles de EU a México? Ebrard adelanta posibles tarifas por sobrecapacidad de producción",
-    "summary": "El secretario de Economía, Marcelo Ebrard, anticipó que México podría enfrentar nuevos aranceles de EU en agosto por una investigación de sobrecapacidad de producción bajo la Sección 301, en paralelo a otra revisión sobre trabajo forzoso. Calificó las negociaciones del T-MEC como \"una batalla cada semana\", aunque México conserva un arancel preferencial del 10% frente a otros 60 países afectados.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/vienen-nuevos-aranceles-de-eu-a-mexico-ebrard-adelanta-posibles-tarifas-por-sobrecapacidad-de-produccion/",
-    "source": "El Financiero",
-    "published": "2026-07-28T05:51:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
+    "title": "México gana caso contra filial de Vulcan Materials Company ante CIADI",
+    "summary": "El CIADI falló mayoritariamente a favor de México en el arbitraje iniciado por una filial de Vulcan Materials tras el cierre de sus operaciones de extracción de piedra caliza en Quintana Roo. El tribunal desestimó casi todas las reclamaciones de la empresa, salvo una medida que representa menos del 1% del monto originalmente reclamado.",
+    "link": "https://www.eleconomista.com.mx/empresas/mexico-gana-caso-filial-vulcan-materials-company-ciadi-20260727-825369.html",
+    "source": "El Economista",
+    "published": "2026-07-27T23:55:01-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
   {
-    "title": "AI stock sell-off deepens as investors dump chipmakers",
-    "summary": "Shares of SK Hynix and Samsung tumbled, pushing South Korea's Kospi down more than 10% from its June peak, as an AI-driven stock sell-off deepened. The rout reflects mounting investor anxiety over whether the AI spending boom's returns can justify current chipmaker valuations.",
-    "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-28T05:16:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
-    "summary": "Taiwanese prosecutors detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, drawing the company into a high-profile case over the black market for its products. The case underscores the growing regulatory and enforcement risk around export controls on advanced AI hardware.",
+    "summary": "Taiwanese prosecutors detained an Nvidia employee as part of a probe into alleged smuggling of AI chips into China, drawing the company into a high-profile case involving the black market for its products.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
     "source": "Bloomberg",
     "published": "2026-07-28T04:48:29+00:00",
@@ -55,30 +176,19 @@
     "light": true
   },
   {
-    "title": "Nvidia behind $50bn lease on Texas data centre that will use its chips",
-    "summary": "Nvidia CEO Jensen Huang is deploying the company's balance sheet to backstop a $50 billion lease on a Texas data centre that will run on its own chips, underscoring how deeply the chipmaker is embedding itself in AI infrastructure financing. The deal illustrates the growing scale and financial complexity of the AI computing buildout.",
-    "link": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-28T04:00:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México solicita a EU bajar aranceles en la tercera ronda de revisión del T-MEC",
-    "summary": "México reiteró en la tercera ronda de negociaciones del T-MEC su prioridad de reducir el arancel del 25% a las exportaciones automotrices y eliminar los gravámenes a acero y aluminio de la Sección 232, según el secretario Marcelo Ebrard. México busca preservar que cerca del 85% de sus exportaciones ingresen a EU libres de arancel, manteniendo una posición preferencial frente a otros socios comerciales.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/27/mexico-solicita-a-eu-bajar-aranceles-en-la-tercera-ronda-de-revision-del-t-mec/",
-    "source": "El Financiero",
-    "published": "2026-07-28T03:27:19+00:00",
+    "title": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
+    "summary": "La Unión Europea prepara un nuevo esquema arancelario comercial, mientras México busca preservar el 85% de sus exportaciones libres de arancel en el marco de las negociaciones actuales, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
+    "source": "Expansión",
+    "published": "2026-07-28T01:59:54+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 76,
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
   {
-    "title": "Anthropic's Amodei Rejects Open Model Ban, Calls for Testing",
-    "summary": "Anthropic CEO Dario Amodei joined Nvidia's Jensen Huang in warning against a US crackdown on open-weight AI models, arguing for stronger testing requirements instead of a ban. The intervention comes as Washington debates how to respond to a surprise capability breakthrough from Chinese startup Moonshot.",
+    "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
+    "summary": "Anthropic CEO Dario Amodei, along with Nvidia's Jensen Huang, pushed back against a potential US crackdown on open-weight AI models, instead calling for testing requirements. The comments come amid a deepening debate over how Washington should respond to a breakthrough from Chinese AI startup Moonshot.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
     "source": "Bloomberg",
     "published": "2026-07-28T01:51:32+00:00",
@@ -88,41 +198,19 @@
     "light": true
   },
   {
-    "title": "Big Tech credit risks rise sharply as AI spending soars",
-    "summary": "Investors are growing increasingly concerned over a rush of borrowing by major tech companies to fund massive AI data-centre investments. The surge in debt-financed capex is raising questions about credit risk just as the sustainability of the broader AI spending boom comes under scrutiny.",
-    "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-27T20:55:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What Is Moonshot AI's Kimi K3 Model and Why Is It Making Waves?",
-    "summary": "Chinese startup Moonshot AI has made its Kimi K3 model available for public download, a step expected to expand its influence in open AI development. The release comes amid growing US concern over China's rapid progress at the frontier of AI capability.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/what-is-moonshot-ai-s-kimi-k3-model-and-why-is-it-making-waves",
-    "source": "Bloomberg",
-    "published": "2026-07-27T18:38:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
-    "summary": "The number of software security flaws discovered in popular technology products in 2026 is on pace to roughly double the tally that surfaced in 2025, an explosion driven by increasingly capable AI systems. The trend highlights both the promise and risk of AI-powered vulnerability discovery for the cybersecurity industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
-    "source": "Bloomberg",
-    "published": "2026-07-27T18:01:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
+    "title": "Cuestiona asesor de Trump sistema judicial mexicano",
+    "summary": "Un asesor del presidente Trump cuestionó el funcionamiento del sistema judicial mexicano, señalando la existencia de cárteles que controlan territorio como la razón por la que dicho sistema no opera correctamente, según Reforma.",
+    "link": "https://www.reforma.com/cuestiona-asesor-de-trump-sistema-judicial-mexicano/ar3247682",
+    "source": "Reforma",
+    "published": "2026-07-27T15:37:52-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
     "light": true
   },
   {
     "title": "Cinco razones por las que la IA está impulsando a los jóvenes a asumir más riesgo al invertir",
-    "summary": "Un informe de Deutsche Bank encontró que los inversionistas menores de 55 años en EU y Reino Unido planean elevar el riesgo de sus carteras en los próximos años, coincidiendo con una mayor disposición a delegar decisiones de inversión en sistemas de IA. Los analistas identifican cinco factores, más allá de la IA, que explican el creciente apetito por el riesgo entre las generaciones más jóvenes.",
+    "summary": "Un informe de Deutsche Bank encontró que estadounidenses y británicos menores de 55 años planean aumentar su nivel de riesgo de inversión en los próximos años, a la vez que crece su disposición a delegar decisiones de inversión en sistemas de inteligencia artificial. Los analistas señalan que, aunque la IA no es el único factor, ayuda a explicar por qué las generaciones más jóvenes muestran mayor apetito por el riesgo financiero.",
     "link": "https://www.bloomberglinea.com/mercados/cinco-razones-por-las-que-la-ia-esta-impulsando-a-los-jovenes-a-asumir-mas-riesgo-al-invertir/",
     "source": "Bloomberg Línea",
     "published": "2026-07-27T17:44:03+00:00",
@@ -132,8 +220,8 @@
     "light": false
   },
   {
-    "title": "Nvidia bets $5bn on Ilya Sutskever's AI breakthrough",
-    "summary": "Nvidia has committed $5 billion to Ilya Sutskever's Safe Superintelligence, one of its largest funding deals of the AI boom, with the startup set to use Vera Rubin chips to rapidly expand computing capacity for its secretive research. The investment signals continued aggressive capital deployment by Nvidia into frontier AI research labs.",
+    "title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
+    "summary": "Nvidia is investing $5 billion in Ilya Sutskever's Safe Superintelligence, which will use Nvidia's Vera Rubin chips to rapidly expand computing capacity for its secretive AI research.",
     "link": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
     "source": "Financial Times",
     "published": "2026-07-27T17:20:13+00:00",
@@ -143,8 +231,19 @@
     "light": true
   },
   {
+    "title": "Paschi, BPM Advisers Working on Merger to Foil Intesa’s Bid",
+    "summary": "Advisers for Banca Monte dei Paschi and Banco BPM are discussing a possible merger including a cash component, aimed at thwarting Intesa Sanpaolo's €35 billion takeover bid for Monte Paschi.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/paschi-banco-bpm-advisers-working-on-deal-with-cash-component",
+    "source": "Bloomberg",
+    "published": "2026-07-27T16:30:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Las OPI rompen récords y Goldman Sachs lanza un mensaje: todavía no hay motivos para alarmarse",
-    "summary": "El mercado de ofertas públicas iniciales vive en 2026 su mayor reactivación en años, con volúmenes de emisión en máximos históricos, pero Goldman Sachs considera prematuro leer el repunte como una señal de exceso de mercado. Analistas citados por el banco, incluidos académicos y gestores de carteras, coinciden en que aún no puede hablarse de una verdadera ola de OPI ni de una señal típica de fin de ciclo.",
+    "summary": "El mercado de ofertas públicas iniciales (OPI) alcanza en 2026 un máximo histórico, pero Goldman Sachs considera prematuro interpretar el repunte como señal de un exceso de ciclo bursátil. Analistas citados por el banco coinciden en que aún no puede hablarse de una verdadera ola de OPI, aunque persiste la duda sobre si el mercado podrá absorber una oferta tan elevada de nuevas acciones.",
     "link": "https://www.bloomberglinea.com/mercados/las-opi-rompen-records-y-goldman-sachs-lanza-un-mensaje-todavia-no-hay-motivos-para-alarmarse/",
     "source": "Bloomberg Línea",
     "published": "2026-07-27T15:38:59+00:00",
@@ -155,7 +254,7 @@
   },
   {
     "title": "Petróleo caro, El Niño y aranceles: los tres riesgos que amenazan a Wall Street y América Latina",
-    "summary": "El retorno del petróleo por encima de los 100 dólares por barril, sumado a un comercio internacional fragmentado y un posible episodio intenso de El Niño, eleva el riesgo de nuevos shocks de oferta sobre energía, alimentos y transporte. Analistas de Deutsche Bank advierten que la coincidencia de estos factores llega en un momento en que la economía mundial tiene poco margen para absorberlos, con la inflación aún por encima de las metas de los bancos centrales.",
+    "summary": "El regreso del petróleo por encima de los 100 dólares por barril, un comercio internacional fragmentado por aranceles y un posible episodio intenso de El Niño representan tres riesgos que podrían generar nuevos shocks de oferta para Wall Street y América Latina. Deutsche Bank advierte que la economía mundial tiene margen limitado para absorber un choque negativo adicional en medio de una inflación que aún supera las metas de varios bancos centrales.",
     "link": "https://www.bloomberglinea.com/mercados/petroleo-caro-el-nino-y-aranceles-los-tres-riesgos-que-amenazan-a-wall-street-y-america-latina/",
     "source": "Bloomberg Línea",
     "published": "2026-07-27T11:00:00+00:00",
@@ -165,8 +264,8 @@
     "light": false
   },
   {
-    "title": "Nvidia's $750 Billion in Deals Reignite Circular AI Fears",
-    "summary": "Nvidia is working on a fresh round of AI deals worth more than $750 billion, accelerating investments that skeptics warn are artificially inflating demand and valuations across the industry. The scale of the dealmaking is reviving debate over circular financing arrangements propping up the AI boom.",
+    "title": "Nvidia’s $750 Billion in Deals Reignite Circular AI Fears",
+    "summary": "Nvidia is working on a fresh round of AI deals worth more than $750 billion, accelerating investments that skeptics warn are artificially inflating demand and valuations across the AI industry.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
     "source": "Bloomberg",
     "published": "2026-07-27T10:20:03+00:00",
@@ -176,14 +275,14 @@
     "light": true
   },
   {
-    "title": "Casa Macahuite / Studio Font",
-    "summary": "Casa Macahuite is conceived as a composition of five planes -- four vertical walls and a floating pergola -- arranged in direct relationship with a coastal, mountainous landscape. The configuration creates intermediate spaces for shade and cross-ventilation, making climate and site the primary organizers of the design.",
-    "link": "https://www.archdaily.com/1181251/casa-macahuite-studio-font",
-    "source": "ArchDaily",
-    "published": "2026-07-27T07:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
+    "title": "America has become an entrepreneur’s paradise",
+    "summary": "Small businesses, from Etsy sellers to small-town accountants, are increasingly benefiting from AI tools that lower the barriers to entrepreneurship in the US.",
+    "link": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
+    "source": "The Economist",
+    "published": "2026-07-27T10:04:15+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
     "language": "en",
-    "light": false
+    "light": true
   }
 ]
