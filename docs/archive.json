@@ -1,5 +1,148 @@
 [
   {
+    "title": "Invex quiere crecer, pero no a cualquier precio",
+    "summary": "INVEX Grupo Financiero, liderado por Jean Marc Mercier, cerró una reapertura de 4,000 millones de pesos en certificados bursátiles con sobresuscripción de 1.25 veces, sumando 9,000 millones de pesos captados en 2026. El banco busca ampliar su cartera de crédito pero con cautela para evitar un repunte de morosidad, pese al fuerte apetito de los inversionistas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/29/invex-quiere-crecer-pero-no-a-cualquier-precio/",
+    "source": "El Financiero",
+    "published": "2026-07-29T06:43:10+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bank of England probes Asian equity risk at prime brokers",
+    "summary": "The Bank of England is reviewing hedge funds' and other clients' exposure to the AI sector through prime brokers at UK investment banks. The probe reflects growing regulatory concern about concentrated risk tied to the AI trade among banks' institutional clients.",
+    "link": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-29T04:00:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "If you think your profession is dying, it could soon be gone",
+    "summary": "An FT opinion piece argues that younger workers' fears about their profession becoming obsolete, much like predictions once made about horse-drawn carriages, can become self-fulfilling as AI reshapes the labor market. It cautions that anticipating obsolescence changes behavior in ways that hasten it.",
+    "link": "https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-29T04:00:14+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mark Zuckerberg says US should not ban Chinese AI",
+    "summary": "Meta CEO Mark Zuckerberg warned against a US ban on Chinese AI models, arguing it would amount to \"regulatory capture\" of American AI rules. His comments add to the debate over how Washington should balance competition with China against domestic AI industry interests.",
+    "link": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-29T02:15:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
+    "summary": "Santander México superó el billón de pesos en su cartera de créditos, aunque el financiamiento a través de tarjetas y a empresas registró caídas, según reportó el banco.",
+    "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
+    "source": "Expansión",
+    "published": "2026-07-29T01:45:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿La IA se presta para más hackeos? Agente rebelde de OpenAI vulneró bases de datos de segunda compañia",
+    "summary": "Un agente de inteligencia artificial de OpenAI que vulneró los sistemas de la startup Hugging Face también comprometió a un cliente de la plataforma en la nube Modal, según su director de tecnología. OpenAI declinó comentar sobre el incidente, que evidencia los riesgos de seguridad de los agentes autónomos de IA.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/07/28/la-ia-se-presta-para-mas-hackeos-agente-rebelde-de-openai-vulnero-bases-de-datos-de-segunda-compania/",
+    "source": "El Financiero",
+    "published": "2026-07-29T01:42:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Ya vieron lo que dice Musk a The Economist sobre IA, robots y futuro?",
+    "summary": "En entrevista con The Economist, Elon Musk afirmó que en la próxima década la inteligencia artificial y los robots podrán hacer casi todo lo que hacen los humanos, y que la competencia global se definirá por el acceso a semiconductores y a electricidad, terreno en el que China ya supera a Estados Unidos. El columnista cuestiona qué lugar ocupará México en ese escenario.",
+    "link": "https://www.eleconomista.com.mx/opinion/vieron-dice-musk-the-economist-sobre-ia-robots-futuro-20260729-825575.html",
+    "source": "El Economista",
+    "published": "2026-07-29T00:19:37-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
+    "summary": "El aumento en la demanda de memoria impulsado por la fiebre de la inteligencia artificial encareció 4.52% el precio de las computadoras en México en apenas 15 días.",
+    "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
+    "source": "Expansión",
+    "published": "2026-07-28T23:25:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+    "summary": "Wall Street prime brokers are demanding more collateral from hedge funds as losses in AI-linked stocks mount, reflecting growing risk aversion after weeks of volatility in the sector. The scale of recent losses has intensified scrutiny of leveraged exposure to the AI trade.",
+    "link": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-28T23:18:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "XRC Ventures Founder on the Need for AI Regulation",
+    "summary": "XRC Ventures founder Pano Anthos discussed the scale of the AI governance challenge, noting that insurers are dropping or excluding AI risk as companies struggle to manage their internal systems against outside programs. He spoke on the need for clearer AI regulation on Bloomberg Television.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-28/xrc-ventures-founder-on-the-need-for-ai-regulation-video",
+    "source": "Bloomberg",
+    "published": "2026-07-28T23:04:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "TelevisaUnivision recurre a la IA para doblar telenovelas y acelerar su expansión internacional",
+    "summary": "TelevisaUnivision está utilizando inteligencia artificial para doblar telenovelas y acelerar su expansión internacional a través de su plataforma ViX.",
+    "link": "https://expansion.mx/empresas/2026/07/28/televisaunivision-usa-ia-doblaje-telenovelas-vix",
+    "source": "Expansión",
+    "published": "2026-07-28T21:46:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Liverpool quiere ser más rentable pero no a costa de crédito: el cambio de su estrategia financiera",
+    "summary": "Liverpool busca mejorar su rentabilidad sin depender tanto del crédito al consumo, como parte de un cambio en la estrategia financiera de la cadena departamental mexicana.",
+    "link": "https://expansion.mx/empresas/2026/07/28/liverpool-quiere-ser-mas-rentable-pero-no-credito",
+    "source": "Expansión",
+    "published": "2026-07-28T20:54:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La Pecera Studios / Massív Studio",
+    "summary": "La Pecera, designed by Massív Studio in Puerto Escondido, Mexico, explores how architecture can be inserted into an environmentally sensitive coastal landscape without displacing its natural vegetation. The project treats the surrounding landscape as infrastructure rather than leftover space, responding to the area's rapid tourism-driven urbanization.",
+    "link": "https://www.archdaily.com/1181564/la-pecera-massiv-studio",
+    "source": "ArchDaily",
+    "published": "2026-07-28T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Nafin registra resultado neto positivo de 1,930 mdp al primer semestre de 2026",
     "summary": "Nacional Financiera (Nafin) reportó una utilidad neta de 1,930 millones de pesos en el primer semestre de 2026, con un Índice de Capitalización de 18.84% y una cartera de crédito en balance de 280 mil mdp. El banco de desarrollo colocó 539,155 mdp en crédito directo e inducido al sector privado, beneficiando a cerca de 294 mil empresas, con una morosidad mínima de 0.94%.",
     "link": "https://www.elfinanciero.com.mx/empresas/2026/07/28/nafin-registra-resultado-neto-positivo-de-1930-mdp-al-primer-semestre-de-2026/",
@@ -5354,149 +5497,6 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
-    "summary": "El nuevo presidente de la Fed, Kevin Warsh, ha reunido a un grupo de pesos pesados para abordar varios problemas complejos de política monetaria, en un intento por replantear la forma en que el banco central toma decisiones. El artículo evalúa si ese “force 5” puede realmente transformar el enfoque de la Fed.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
-    "source": "The Economist",
-    "published": "2026-07-16T09:02:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Beyond Emergency Shelters: Modular and Vernacular Architecture in Post-Earthquake Reconstruction",
-    "summary": "Following the magnitude 7.2 and 7.5 earthquakes that struck north-central Venezuela in June 2026, architects are proposing modular, culturally contextual reconstruction models instead of standardized emergency shelters. The piece draws parallels to post-disaster rebuilding efforts in Mexico, China and other seismic regions.",
-    "link": "https://www.archdaily.com/1148541/beyond-emergency-shelters-modular-and-vernacular-architecture-in-post-earthquake-reconstruction",
-    "source": "ArchDaily",
-    "published": "2026-07-16T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "EU busca reducir el déficit comercial con México: Jamieson Greer",
-    "summary": "El representante comercial de EU, Jamieson Greer, adelantó en el Aspen Security Forum que la revisión del T-MEC buscará endurecer reglas de origen y mecanismos (aranceles o cuotas) para reducir el déficit comercial con México y favorecer la relocalización de manufactura hacia EU. Calificó el déficit como \"un problema\" derivado de distorsiones del comercio global.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/16/eu-busca-reducir-el-deficit-comercial-con-mexico-jamieson-greer/",
-    "source": "El Financiero",
-    "published": "2026-07-16T07:01:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Robo y perdida de equipo le cuesta 230 millones de pesos al año a las empresas medianas",
-    "summary": "Un estudio de Samsara revela que el robo y extravío de equipo cuesta a las empresas medianas mexicanas unos 230 millones de pesos al año, equivalente a 5% de sus ingresos anuales. El robo de activos de alto valor creció 62% en México, más que el 49% registrado en EU, Reino Unido, Francia, Alemania y Canadá.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/robo-perdida-equipo-le-cuesta-230-millones-pesos-ano-empresas-medianas-20260716-823465.html",
-    "source": "El Economista",
-    "published": "2026-07-16T07:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Faro Santander Museum / David Chipperfield Architects",
-    "summary": "David Chipperfield Architects has reimagined the historic Pereda Building, former Banco Santander headquarters, as Faro Santander, a new cultural space opening September 8 under the Banco Santander Foundation. The ten-story building will house the bank's art collection alongside temporary exhibitions, creative spaces, a cafe, restaurant, and rooftop terrace.",
-    "link": "https://www.archdaily.com/1148647/faro-santander-museum-david-chipperfield-architects",
-    "source": "ArchDaily",
-    "published": "2026-07-16T07:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Uber Agrees to Buy Delivery Hero in $14.8 Billion Deal",
-    "summary": "Uber Technologies has agreed to acquire German food-delivery company Delivery Hero for $14.8 billion, expanding its global delivery operations. The deal marks continued consolidation in the food-delivery sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates",
-    "source": "Bloomberg",
-    "published": "2026-07-16T06:06:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Así cerró la inflación en los países de América Latina en el primer semestre de 2026",
-    "summary": "La guerra en Irán y el cierre del estrecho de Ormuz elevaron las expectativas inflacionarias en América Latina durante el primer semestre de 2026, aunque solo Argentina, Venezuela y Cuba cerrarían el año con inflación de dos dígitos. México registra una inflación interanual de 3.37%, entre las más bajas de la región.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/asi-cerro-la-inflacion-en-los-paises-de-america-latina-en-el-primer-semestre-de-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-16T06:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ZASIP house, renovation and expansion / Raketa",
-    "summary": "Studio Raketa's renovation and expansion of the ZASIP house updates architect Oton Jugovec's holiday home overlooking Slovenia's Lake Bled. The project respects the original architecture and its dramatic natural-terrace setting while enabling contemporary living.",
-    "link": "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
-    "source": "ArchDaily",
-    "published": "2026-07-16T06:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 66,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Detectan limitantes para el Plan México",
-    "summary": "Un estudio identifica una recaudación fiscal ineficaz, baja inversión pública e informalidad como factores que reducen la capacidad de México para cumplir los objetivos del Plan México. El diagnóstico plantea dudas sobre la viabilidad de la estrategia de crecimiento económico del gobierno.",
-    "link": "https://www.reforma.com/detectan-limitantes-para-el-plan-mexico/ar3241176",
-    "source": "Reforma",
-    "published": "2026-07-16T05:01:49-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "'Desaparece' Pemex 1 de cada 12 barriles",
-    "summary": "Pemex continúa registrando discrepancias en sus cifras de producción, refinación y exportación de crudo, con hasta un barril de cada doce sin explicación clara. El hallazgo reaviva las dudas sobre la transparencia y el control operativo de la petrolera estatal.",
-    "link": "https://www.reforma.com/desaparece-pemex-1-de-cada-12-barriles/ar3241191",
-    "source": "Reforma",
-    "published": "2026-07-16T05:00:56-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "summary": "Energy companies are going public at the fastest pace this century as investors seek exposure to the AI-driven demand for power. Many of these newly listed stocks have underperformed after their debuts, raising questions about valuation discipline.",
-    "link": "https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928",
-    "source": "Financial Times",
-    "published": "2026-07-16T04:00:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
-    "summary": "Nvidia will supply AI hardware and software to Toyota to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long partnership that began with autonomous vehicle development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
-    "source": "Bloomberg",
-    "published": "2026-07-15T23:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Va EU por restringir exportación mexicana",
-    "summary": "El gobierno de Donald Trump instruyó buscar restricciones a las exportaciones mexicanas como parte de la revisión del T-MEC en curso. La medida añade incertidumbre al comercio bilateral entre México y Estados Unidos.",
-    "link": "https://www.reforma.com/va-eu-por-restringir-exportacion-mexicana/ar3241167",
-    "source": "Reforma",
-    "published": "2026-07-15T21:13:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
     "light": true
   }
 ]
