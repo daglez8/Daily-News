@@ -1,5 +1,137 @@
 [
   {
+    "title": "Taiwán gana terreno en la industria de IA en México con escasa IED",
+    "summary": "Taiwán está ganando peso en la industria de manufactura de IA en México, aunque sin traducirse aún en un aumento significativo de inversión extranjera directa desde la isla. El fenómeno refleja el papel creciente de México en las cadenas de suministro tecnológicas globales.",
+    "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
+    "source": "Expansión",
+    "published": "2026-07-29T11:55:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes",
+    "summary": "The UK's antitrust and consumer watchdog is investigating whether Microsoft misled customers into paying more for productivity software subscriptions after bundling its Copilot AI product into the suite. The probe adds to global regulatory scrutiny of how tech firms price AI features.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
+    "source": "Bloomberg",
+    "published": "2026-07-29T11:10:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Palantir’s New Rivals in Europe Seize the Sovereignty Opening",
+    "summary": "European startups are positioning themselves as sovereign alternatives to Palantir, seeking to capitalize on growing demand for AI and data software that isn't reliant on US providers. The trend reflects broader European efforts to reduce dependence on American tech vendors.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/palantir-s-new-rivals-in-europe-seize-the-sovereignty-opening",
+    "source": "Bloomberg",
+    "published": "2026-07-29T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SAR cumple 29 años con patrimonio histórico de 8.9 billones; Afore XXI Banorte lidera en ahorro voluntario",
+    "summary": "El Sistema de Ahorro para el Retiro (SAR) cumple 29 años administrando un patrimonio histórico de 8.9 billones de pesos, equivalente a una cuarta parte del PIB, con Afore XXI Banorte como líder en ahorro voluntario. La CONSAR reporta un rendimiento nominal histórico de 10.7% y tasas de reemplazo superiores al 71% para los primeros pensionados bajo la Ley de 1997.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/29/sar-cumple-29-anos-con-patrimonio-historico-de-89-billones-afore-xxi-banorte-lidera-en-ahorro-voluntario/",
+    "source": "El Financiero",
+    "published": "2026-07-29T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Investment Boom Faces Reality Check From Markets and Regulators",
+    "summary": "Investors and regulators are shifting from asking who can spend the most on AI to questioning whether the spending will pay off, as markets grow more skeptical of the sector's returns. The scrutiny adds pressure on Big Tech ahead of a wave of earnings reports.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/ai-investment-boom-faces-reality-check-from-markets-and-regulators",
+    "source": "Bloomberg",
+    "published": "2026-07-29T10:29:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México registra déficit de 77 mil expertos en ciberseguridad",
+    "summary": "México enfrenta un déficit de más de 77 mil especialistas en ciberseguridad, mientras los ataques de ransomware crecieron 38% en el último año y el uso de IA en ciberataques casi se duplicó, según la UNIAT. El costo promedio de recuperación de un incidente asciende a 135 millones de dólares y seis de cada diez empresas afectadas cierran operaciones en los seis meses posteriores.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/29/mexico-registra-deficit-de-77-mil-expertos-en-ciberseguridad/",
+    "source": "El Financiero",
+    "published": "2026-07-29T09:46:36+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bajo crecimiento económico en México impacta en la banca: Moody’s",
+    "summary": "Moody's advierte que el bajo crecimiento económico de México y la rápida expansión del crédito al consumo están presionando al sector bancario, con castigos de cartera al alza. La morosidad en tarjetas de crédito alcanzó 3.51% en mayo, su nivel más alto en años, mientras la deuda de los hogares como proporción del PIB subió a 17.4%.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/07/29/bajo-crecimiento-economico-en-mexico-impacta-en-la-banca-moodys/",
+    "source": "El Financiero",
+    "published": "2026-07-29T09:26:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
+    "summary": "Microsoft and Meta's upcoming earnings will test investors' patience for Big Tech's heavy AI spending as cash positions dwindle. The results come amid growing market skepticism about whether AI investments are generating adequate returns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-29T09:23:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot AI Surpasses Funding Goal to Hit $35 Billion Value",
+    "summary": "Chinese AI startup Moonshot AI closed a $3.5 billion funding round, surpassing its target and reaching a $35 billion valuation on momentum from its Kimi K3 model, which has drawn attention in Silicon Valley. The raise underscores continued investor appetite for leading AI labs despite growing market skepticism elsewhere in the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-07-29T08:19:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dealmaking Powers Through Volatility: Goldman Sachs",
+    "summary": "Goldman Sachs' EMEA investment banking co-head Anna Skoglund says dealmaking is powering through market volatility and geopolitical uncertainty, with large corporates showing more confidence in pursuing M&A. Sponsors are becoming more decisive in closing transactions despite the choppy backdrop.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/volatility-driving-dealmaking-goldman-sachs-video",
+    "source": "Bloomberg",
+    "published": "2026-07-29T08:01:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ni presencial, ni remoto, ni híbrido: el nuevo modelo laboral que WeWork ve crecer en Latinoamérica",
+    "summary": "Un estudio de WeWork y Michael Page muestra que el modelo laboral en América Latina evoluciona hacia una flexibilidad superior al esquema híbrido tradicional, priorizando el propósito de ir a la oficina sobre la cantidad de días. La proporción de trabajo 100% presencial cayó a 36.9% desde 48% el año anterior.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/ni-presencial-ni-remoto-ni-hibrido-el-nuevo-modelo-laboral-que-wework-ve-crecer-en-latinoamerica/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-29T08:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IA y talento: los retos que enfrentan las empresas familiares",
+    "summary": "Un reporte de KPMG (Global Family Business 2026) revela que 62% de las empresas familiares en México anticipan un entorno más complicado en la próxima década por cambios regulatorios e incertidumbre geopolítica. Las empresas están respondiendo con adopción de IA, planes de sucesión y mejoras de gobernanza para mantener su ventaja competitiva.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/ia-talento-retos-enfrentan-empresas-familiares-20260729-825510.html",
+    "source": "El Economista",
+    "published": "2026-07-29T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Invex quiere crecer, pero no a cualquier precio",
     "summary": "INVEX Grupo Financiero, liderado por Jean Marc Mercier, cerró una reapertura de 4,000 millones de pesos en certificados bursátiles con sobresuscripción de 1.25 veces, sumando 9,000 millones de pesos captados en 2026. El banco busca ampliar su cartera de crédito pero con cautela para evitar un repunte de morosidad, pese al fuerte apetito de los inversionistas.",
     "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/29/invex-quiere-crecer-pero-no-a-cualquier-precio/",
@@ -9,6 +141,28 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "US Risks Broadening China Clash With Robot, Inverter Curbs",
+    "summary": "Washington tightened export curbs on foreign-made robots and solar inverters in a move that risks widening its tech confrontation with Beijing, just weeks before a planned meeting between the two countries' leaders. The restrictions extend the ongoing US-China tech rivalry into robotics and clean-energy hardware.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
+    "source": "Bloomberg",
+    "published": "2026-07-29T04:11:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "PwC published reports on AI marred by AI hallucinations",
+    "summary": "PwC has become the latest Big Four firm found to have produced AI consulting reports containing hallucinated content, despite marketing itself as an AI expert. The lapse raises fresh questions about quality control at professional-services firms rushing to sell AI advisory work.",
+    "link": "https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-29T04:01:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Bank of England probes Asian equity risk at prime brokers",
@@ -64,6 +218,28 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
+    "summary": "El Servicio de Administración Tributaria (SAT) redujo multas y recargos por más de 5,700 millones de pesos a 36,000 contribuyentes en México, como parte de sus facilidades fiscales.",
+    "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
+    "source": "Expansión",
+    "published": "2026-07-29T01:22:47+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "IMSS e ISSSTE: Así quedan los depósitos de pensión para jubilados en agosto",
+    "summary": "Expansión detalla cómo quedarán los depósitos de pensión de IMSS e ISSSTE para los jubilados durante agosto de 2026, con las fechas y montos correspondientes a cada instituto.",
+    "link": "https://expansion.mx/finanzas-personales/2026/07/28/imss-issste-asi-quedan-los-depositos-de-pension-para-agosto",
+    "source": "Expansión",
+    "published": "2026-07-29T01:10:41+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
   },
   {
     "title": "¿Ya vieron lo que dice Musk a The Economist sobre IA, robots y futuro?",
@@ -141,6 +317,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": false
+  },
+  {
+    "title": "Retail investors should beware perpetual futures",
+    "summary": "The Economist warns that perpetual futures, derivatives popular in crypto trading, are increasingly reaching mainstream retail investors despite carrying risks poorly understood by non-professional traders. Regulators face growing pressure to address consumer-protection gaps as these products spread beyond crypto exchanges.",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+    "source": "The Economist",
+    "published": "2026-07-28T18:48:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Nafin registra resultado neto positivo de 1,930 mdp al primer semestre de 2026",
@@ -5311,192 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "How SK Hynix became the king of advanced memory chips",
-    "summary": "SK Hynix se consolidó como el líder mundial en chips de memoria avanzada gracias a la demanda impulsada por la IA, pero sus ventajas actuales no la protegerán si la demanda se desacelera. El artículo examina qué tan sostenible es su posición dominante en el ciclo actual del sector.",
-    "link": "https://www.economist.com/business/2026/07/16/how-sk-hynix-became-the-king-of-advanced-memory-chips",
-    "source": "The Economist",
-    "published": "2026-07-16T12:53:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El norte magnético",
-    "summary": "El Banco de México ha ampliado y desplazado el rango de su tasa de interés neutral (r*) de 1.7%-3.3% en 2016 a 1.8%-3.6% actualmente, con punto medio de 2.7%. El artículo usa la metáfora del norte magnético para explicar por qué esta referencia teórica de política monetaria debe corregirse constantemente en lugar de tomarse como fija.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/16/el-norte-magnetico/",
-    "source": "El Financiero",
-    "published": "2026-07-16T12:47:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Una etiqueta para identificar la música hecha con inteligencia artificial",
-    "summary": "La industria discográfica, junto con organizaciones como IFPI, RIAA y SAG-AFTRA, impulsa una nueva etiqueta \"Generada por IA\" para identificar canciones creadas o asistidas por inteligencia artificial en plataformas de streaming. La iniciativa busca dar mayor transparencia sobre el uso de IA en la producción musical.",
-    "link": "https://www.eleconomista.com.mx/opinion/etiqueta-identificar-musica-hecha-inteligencia-artificial-20260716-823577.html",
-    "source": "El Economista",
-    "published": "2026-07-16T12:27:28-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google Must Give Gemini Rivals Equal Access to Android System, EU Says",
-    "summary": "The EU is directing Google to give AI rivals equal access to certain Android features, part of a broader push to open the search data behind its search engine to competitors. The move adds to regulatory pressure on Google's AI and search dominance in Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/google-must-give-gemini-rivals-equal-access-to-android-system-eu-says",
-    "source": "Bloomberg",
-    "published": "2026-07-16T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Siete frentes de riesgo: así amenaza la escalada de la guerra en Medio Oriente a América Latina",
-    "summary": "La Cepal identificó siete canales por los que la escalada del conflicto en Medio Oriente puede golpear a América Latina pese a su limitada exposición directa al golfo Pérsico, incluyendo mayor inflación importada y menor margen de maniobra para los bancos centrales. El impacto agregado es contenido pero desigual: los exportadores de hidrocarburos podrían beneficiarse mientras la mayoría de importadores netos de energía saldría perjudicada.",
-    "link": "https://www.bloomberglinea.com/mercados/siete-frentes-de-riesgo-asi-amenaza-la-escalada-de-la-guerra-en-medio-oriente-a-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-16T12:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Franklin Templeton Cuts AI Bets, Favors Chinese Internet Stocks",
-    "summary": "Franklin Templeton's main emerging-market equity fund scaled back its holdings in memory chipmakers after a large rally, shifting toward Chinese internet names like Alibaba and Tencent. The rotation signals shifting investor sentiment on AI-related valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/franklin-templeton-cuts-ai-bets-favors-chinese-internet-stocks",
-    "source": "Bloomberg",
-    "published": "2026-07-16T11:57:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Comprar o rentar? La autora de \"Pequeño Cerdo Capitalista\" explica la estrategia para comprar una casa",
-    "summary": "La autora de finanzas personales \"Pequeño Cerdo Capitalista\" comparte su estrategia para decidir entre comprar o rentar una vivienda en México. El artículo aborda las consideraciones financieras clave para el ahorro y la compra de una casa.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/16/comprar-o-rentar-estrategia-para-ahorrar-para-una-casa",
-    "source": "Expansión",
-    "published": "2026-07-16T11:55:35+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las Afores administran 8.95 billones de pesos y ya superan al crédito de la banca",
-    "summary": "Las Administradoras de Fondos para el Retiro (Afores) en México ya gestionan 8.95 billones de pesos, un monto que supera al crédito otorgado por la banca comercial. La cifra subraya el creciente peso del sistema de pensiones dentro del sector financiero mexicano.",
-    "link": "https://expansion.mx/economia/2026/07/16/las-afores-administran-8-95-billones-de-pesos-y-ya-superan-al-credito-de-la-banca",
-    "source": "Expansión",
-    "published": "2026-07-16T11:55:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CXMT’s Marquee IPO 212 Times Oversubscribed by Retail Investors",
-    "summary": "La salida a bolsa de CXMT, el fabricante chino de chips de memoria, recibió una demanda 212 veces superior a la oferta por parte de inversionistas minoristas en una colocación que buscaba recaudar 9,800 millones de dólares, la segunda mayor en la historia del país.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/cxmt-s-blockbuster-ipo-212-times-covered-for-retail-investors",
-    "source": "Bloomberg",
-    "published": "2026-07-16T11:52:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vital Signals Announces $399 Signal Ring That Gives Blood Pressure Readings",
-    "summary": "Startup Vital Signals unveiled a $399 smart ring it claims can measure blood pressure as accurately as a traditional arm cuff, with ambitions to eventually support medical diagnoses. If it delivers on the claim, the device would mark a significant leap for consumer wearables.",
-    "link": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings",
-    "source": "Bloomberg",
-    "published": "2026-07-16T11:00:20+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Respuesta vertical",
-    "summary": "La oferta de vivienda vertical en la Ciudad de México, de 18 mil unidades, se agotará en menos de 20 meses según Tinsa by Accumin Intelligence, en un mercado donde los precios ya superan los 90 mil pesos por m2. El desarrollo vertical busca maximizar rentabilidad ante la escasez de tierra, impulsando también el crecimiento de las rentas en corredores como Reforma.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/07/16/respuesta-vertical/",
-    "source": "El Financiero",
-    "published": "2026-07-16T10:57:39+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Guía para priorizar tus deudas sin riesgo de demandas si debes la tarjeta, el auto o la hipoteca",
-    "summary": "Un experto en defensa del deudor explica cómo priorizar el pago de deudas —tarjeta de crédito, auto o hipoteca— considerando el riesgo de demanda por parte de los acreedores. La guía ofrece criterios prácticos para negociar reestructuras o quitas sin dañar el historial crediticio.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/guia-priorizar-tus-deudas-riesgo-demandas-debes-tarjeta-auto-hipoteca-20260716-822866.html",
-    "source": "El Economista",
-    "published": "2026-07-16T10:55:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Empleo manufacturero acumula en mayo 39 meses de caídas; se acerca al nivel que tenía en la pandemia",
-    "summary": "El empleo en el sector manufacturero mexicano cayó 0.1% mensual y 2.1% anual en mayo, acumulando 39 meses consecutivos de contracción, según el Inegi. El nivel actual se aproxima al mínimo registrado durante la pandemia de Covid-19 en 2020.",
-    "link": "https://www.eleconomista.com.mx/empresas/empleo-manufacturero-acumula-mayo-39-meses-caidas-acerca-nivel-tenia-pandemia-20260716-823567.html",
-    "source": "El Economista",
-    "published": "2026-07-16T10:45:23-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Competitividad de Querétaro atrae a inversionistas: Felipe Macías",
-    "summary": "La nueva planta de NetShape México, con una inversión de 239 millones de pesos y más de 260 empleos, inauguró operaciones en Querétaro. El alcalde Felipe Macías destacó la competitividad del municipio para atraer inversión industrial extranjera.",
-    "link": "https://www.eleconomista.com.mx/politica/competitividad-queretaro-atrae-inversionistas-felipe-macias-20260716-823566.html",
-    "source": "El Economista",
-    "published": "2026-07-16T10:39:04-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Broker Alpaca Raises $435 Million, Explores Prime Broking Entry",
-    "summary": "Trading infrastructure startup Alpaca raised $435 million ($135 million in equity, $300 million in debt) to expand its platform, which lets investors trade across financial markets using AI agents. The funding also supports Alpaca's push into prime brokerage.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/broker-alpaca-raises-435-million-explores-prime-broking-entry",
-    "source": "Bloomberg",
-    "published": "2026-07-16T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead",
-    "summary": "Chinese AI startup Moonshot is preparing to launch Kimi K3, a model expected to outperform Anthropic's Claude Opus 4.8. The move signals a narrowing gap between US and Chinese labs at the frontier of AI development.",
-    "link": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-16T09:51:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How to shrink the Fed’s $7trn balance-sheet",
-    "summary": "Kevin Warsh enfrenta el reto de reducir la hoja de balance de 7 billones de dólares de la Fed, un proceso que será difícil de revertir dados los efectos persistentes de años de compra de bonos. El artículo analiza las opciones y limitaciones que tiene el nuevo presidente de la Fed para normalizar el balance.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet",
-    "source": "The Economist",
-    "published": "2026-07-16T09:06:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
   }
 ]
