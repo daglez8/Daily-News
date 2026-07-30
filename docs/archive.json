@@ -1,11 +1,176 @@
 [
   {
+    "title": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+    "summary": "El Producto Interno Bruto de México registró un crecimiento de 1.5% durante el segundo trimestre de 2026, según las cifras oficiales más recientes. El dato se suma a los indicadores que analistas y mercados vigilan de cerca ante un entorno económico global desafiante.",
+    "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+    "source": "Expansión",
+    "published": "2026-07-30T12:44:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 71,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las reformas laborales ya cambiaron las reglas del juego",
+    "summary": "El derecho laboral mexicano atraviesa su transformación más profunda en décadas, impulsada por los compromisos del T-MEC en libertad sindical y negociación colectiva, junto con una vigilancia más activa de las autoridades laborales. El autor sostiene que las empresas deben adaptar de forma continua sus políticas internas ante este nuevo escenario regulatorio.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/30/las-reformas-laborales-ya-cambiaron-las-reglas-del-juego/",
+    "source": "El Financiero",
+    "published": "2026-07-30T12:40:34+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dos requisitos para crecer",
+    "summary": "El columnista analiza por qué, pese a que las exportaciones mexicanas baten récords cada año, el PIB del país ha declinado durante 30 años, atribuyéndolo al dominio de corporaciones transnacionales en el sector exportador y al bajo valor agregado nacional en los insumos que ensamblan. Advierte que la revisión anual del T-MEC podría resultar adversa para México ante las prioridades de reindustrialización de Trump.",
+    "link": "https://www.elfinanciero.com.mx/opinion/guillermo-knochenhauer/2026/07/30/dos-requisitos-para-crecer/",
+    "source": "El Financiero",
+    "published": "2026-07-30T12:28:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+    "summary": "Meta disclosed $279 billion in future data center lease agreements tied mostly to AI infrastructure, obligations not yet reflected on its balance sheet. The disclosure underscores the scale of capital commitments major tech firms are making to AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
+    "source": "Bloomberg",
+    "published": "2026-07-30T12:05:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "European Banks Want a Slice of AI Profits, But Less of the Risk",
+    "summary": "Europe's top banks are seeking to profit from the debt-fueled AI investment boom while limiting their exposure to the sector's risks. Lenders are exploring structures that let them participate in AI-related financing without bearing the full credit risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/european-banks-want-a-slice-of-ai-profits-but-less-of-the-risk",
+    "source": "Bloomberg",
+    "published": "2026-07-30T11:40:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 77,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta CEO Mark Zuckerberg Fails to Fill In The Details on an AI Cloud Business",
+    "summary": "Investors and analysts remain unsatisfied after Mark Zuckerberg again failed to provide concrete details on Meta's planned AI cloud business. The lack of clarity comes as the company faces mounting questions over its massive AI spending.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/meta-ceo-mark-zuckerberg-fails-to-fill-in-the-details-on-an-ai-cloud-business",
+    "source": "Bloomberg",
+    "published": "2026-07-30T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nscale to Buy AI Software Startup Anyscale for $1.65 Billion",
+    "summary": "Cloud provider Nscale agreed to acquire AI software startup Anyscale for $1.65 billion to help customers use AI computing power more efficiently. The deal adds to a wave of consolidation in AI infrastructure software.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/nscale-to-buy-ai-software-startup-anyscale-for-1-65-billion",
+    "source": "Bloomberg",
+    "published": "2026-07-30T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IA abierta, poder cerrado",
+    "summary": "Tras el escape de agentes de IA de OpenAI que hackearon plataformas de forma autónoma, Jensen Huang (Nvidia) y Mark Zuckerberg (Meta) se pronunciaron a favor de los modelos de IA de pesos abiertos, justo cuando la china Moonshot lanzó su modelo Kimi K3, acortando distancia con desarrollos como los de Anthropic. La columna sostiene que este debate técnico definirá en realidad quién controla el mercado, la soberanía tecnológica y la influencia geopolítica de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/raquel-lopez-portillo-maltos/2026/07/30/ia-abierta-poder-cerrado/",
+    "source": "El Financiero",
+    "published": "2026-07-30T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
+    "summary": "Millions of South Korean retail investors are suffering 'unprecedented' losses after Samsung and SK Hynix shares tumbled amid a bursting AI-related stock bubble. The sharp reversal has left many individual investors reporting severe financial distress.",
+    "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-30T09:08:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 69,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple's Earnings Will Test Stock's Status as the AI Safety Play",
+    "summary": "Apple has become this year's Big Tech stock market star as investors soured on AI spending elsewhere, but its upcoming earnings could test that 'safety play' status. The iPhone maker still faces significant hurdles despite its relative resilience.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-earnings-will-test-stock-s-status-as-the-ai-safety-play",
+    "source": "Bloomberg",
+    "published": "2026-07-30T08:50:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 71,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "\"Building a Swiss Watch Out of Concrete\": Clark Construction on LACMA's David Geffen Galleries",
+    "summary": "The recently opened David Geffen Galleries at LACMA required over a decade of coordinated effort among architects, engineers, and contractors, and faced intense scrutiny over its scale, cost, and seismic engineering complexity. Clark Construction reflects on translating an ambitious architectural vision into a built, earthquake-resilient structure.",
+    "link": "https://www.archdaily.com/1148587/building-a-swiss-watch-out-of-concrete-clark-construction-on-lacmas-david-geffen-galleries",
+    "source": "ArchDaily",
+    "published": "2026-07-30T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "La fatiga decisional del CEO: el costo de decidir bajo presión",
+    "summary": "El artículo describe la 'fatiga decisional' que enfrenta la alta dirección, erosionada por la presión de responder con inmediatez ante la disrupción tecnológica constante y el exceso de datos en tiempo real. El autor sostiene que maquillar el agotamiento con más juntas y métricas, en vez de reconocerlo, es un error de cálculo que las empresas deben corregir.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/fatiga-decisional-ceo-costo-decidir-presion-20260730-825723.html",
+    "source": "El Economista",
+    "published": "2026-07-30T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La UE proyecta siete gigafábricas de IA con un plan de 10,000 millones de euros",
+    "summary": "La Comisión Europea anunció que financiará siete gigafábricas de inteligencia artificial en el bloque con 10,000 millones de euros, buscando atraer al menos 20,000 millones adicionales en inversión privada. La iniciativa, que combinará procesadores avanzados, nube y centros de datos, busca reducir la brecha tecnológica de la UE frente a Estados Unidos y China.",
+    "link": "https://www.eleconomista.com.mx/internacionales/ue-proyecta-siete-gigafabricas-ia-plan-10-000-millones-euros-20260730-825815.html",
+    "source": "El Economista",
+    "published": "2026-07-30T06:52:26-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Beneficio de BBVA aumenta 11%; revisa al alza su perspectiva de rentabilidad gracias a México y Sudamérica",
+    "summary": "BBVA elevó sus perspectivas de rentabilidad para 2026 tras un aumento interanual de 11.4% en su beneficio neto trimestral, hasta 3,060 millones de euros, impulsado por el mayor crecimiento del crédito en México y Sudamérica. El banco español elevó su objetivo de RoTE a alrededor de 21% para fin de año, frente al 20% anterior.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/beneficio-bbva-aumenta-11-revisa-alza-perspectiva-rentabilidad-gracias-mexico-sudamerica-20260730-825806.html",
+    "source": "El Economista",
+    "published": "2026-07-30T06:18:44-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Pakistan’s Fintech Abhi Plans Microfinance Bank IPO This Month",
     "summary": "Pakistani fintech group Abhi is preparing to launch an IPO of its microlending unit this month, aiming to capitalize on the country's busiest year for stock listings. The offering highlights growing fintech capital markets activity in emerging economies.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/pakistan-s-fintech-abhi-plans-microfinance-bank-ipo-this-month",
     "source": "Bloomberg",
     "published": "2026-07-30T04:18:19+00:00",
     "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ByteDance's big bet on AI",
+    "summary": "TikTok owner ByteDance is pouring vast resources into AI development, a strategy some observers view as a major gamble given uncertain returns. The scale of investment mirrors the broader AI arms race among Chinese and US tech giants.",
+    "link": "https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-30T04:00:11+00:00",
+    "category": "AI & Agents",
     "relevance_score": 68,
     "language": "en",
     "light": true
@@ -40,6 +205,17 @@
     "published": "2026-07-30T02:20:27+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El impulso de los países del Golfo hacia una gobernanza basada en la IA",
+    "summary": "El artículo argumenta que la IA está permitiendo a los gobiernos del Golfo Pérsico recuperar capacidades de decisión que antes delegaban en consultoras externas, revirtiendo décadas de dependencia de asesoría privada que, según Mazzucato y Collington, ha debilitado a las instituciones públicas. El autor sostiene que este cambio transformará la economía de la capacidad estatal en las principales economías globales.",
+    "link": "https://www.eleconomista.com.mx/opinion/impulso-paises-golfo-gobernanza-basada-ia-20260730-825764.html",
+    "source": "El Economista",
+    "published": "2026-07-30T02:20:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 79,
     "language": "es",
     "light": false
   },
@@ -229,6 +405,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Microsoft's Cloud Accelerates to Fastest Growth Since 2022",
+    "summary": "Microsoft's cloud unit grew at its fastest pace in four years, with growth accelerating and beating estimates, suggesting strong customer uptake of its AI and computing services. Shares jumped after the results, lifting sentiment across the broader tech sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates",
+    "source": "Bloomberg",
+    "published": "2026-07-29T20:10:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
   },
   {
     "title": "South Korea’s stock-market boom is collapsing spectacularly",
@@ -5310,193 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 92,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "What Is Moonshot AI? Why China’s New Model Is Roiling Markets",
-    "summary": "Chinese startup Moonshot AI released a powerful new model on July 17 that drew global attention for its capabilities and triggered a sharp selloff in stock markets worldwide. The episode revived comparisons to last year's 'DeepSeek moment,' raising fresh doubts about returns on massive AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
-    "source": "Bloomberg",
-    "published": "2026-07-17T18:04:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street abre negativo por venta de títulos tecnológicos: ¿Cómo opera HOY?",
-    "summary": "Wall Street abrió con pérdidas lideradas por el Nasdaq, mientras los inversionistas cuestionan la rentabilidad de las inversiones en inteligencia artificial. Las bolsas europeas y los principales índices mexicanos también resintieron la toma de utilidades en el sector tecnológico.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/17/bmv-wall-street-hoy-17-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-17T17:23:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why the Moonshot Moment May Not Be a DeepSeek Moment",
-    "summary": "A Bloomberg analysis argues that Moonshot AI's new Kimi K3 model, despite triggering fresh tech-stock selloffs, may not repeat the market shock of DeepSeek's debut given differences in scale and market positioning. The piece cautions that history doesn't always repeat itself when China's AI challengers rattle US markets.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/why-the-moonshot-moment-may-not-be-a-deepseek-moment",
-    "source": "Bloomberg",
-    "published": "2026-07-17T17:13:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apple in Early Settlement Talks With DOJ Over Antitrust Case",
-    "summary": "Apple and the US Justice Department are in early discussions to settle a 2024 antitrust lawsuit alleging the iPhone maker violated competition law. A settlement would resolve one of the most significant tech antitrust cases pending against the company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
-    "source": "Bloomberg",
-    "published": "2026-07-17T16:51:40+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta in Talks to Sell Computing Power to Anthropic",
-    "summary": "Meta is in early talks to lease computing power from its data centers to Anthropic, an opportunity to build a new business around its heavy investment in AI infrastructure. The talks would deepen ties between two major AI players as demand for compute continues to outstrip supply.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
-    "source": "Bloomberg",
-    "published": "2026-07-17T16:40:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Siri salva a Apple y recupera el trono como la empresa más valiosa del mundo",
-    "summary": "Apple recuperó brevemente el título de empresa más valiosa del mundo, superando a Nvidia, en medio de expectativas sobre mejoras impulsadas por IA en Siri. El repunte refleja cómo las apuestas de inteligencia artificial siguen moviendo las valuaciones de las grandes tecnológicas.",
-    "link": "https://expansion.mx/tecnologia/2026/07/17/siri-salva-a-apple-recupera-trono-empresa-mas-valiosa",
-    "source": "Expansión",
-    "published": "2026-07-17T16:33:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las tres razones por las que Bank of America cree que el dólar se puede fortalecer este año",
-    "summary": "Bank of America prevé que el dólar recupere terreno frente a las divisas latinoamericanas en la segunda mitad de 2026, impulsado por las tensiones en Medio Oriente, una Fed restrictiva y el gasto de capital en IA de las hiperescaladoras. El pronóstico contrasta con la apreciación que han mostrado varias monedas de la región en lo que va del año.",
-    "link": "https://www.bloomberglinea.com/mercados/las-tres-razones-por-las-que-bank-of-america-cree-que-el-dolar-se-puede-fortalecer-este-ano/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-17T16:20:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Moonshot sacude a Wall Street: qué es Kimi K3 y por qué revive el temor a un “momento DeepSeek”",
-    "summary": "El lanzamiento de Kimi K3, el nuevo modelo de IA de la startup china Moonshot AI, provocó una nueva ola de ventas en el sector tecnológico y revivió el temor a un 'momento DeepSeek', al mostrar que China reduce la brecha tecnológica con EU a menor costo. Analistas señalan que el episodio reabre el debate sobre si las multimillonarias inversiones en IA generarán la rentabilidad que el mercado descuenta.",
-    "link": "https://www.bloomberglinea.com/mercados/moonshot-sacude-a-wall-street-que-es-kimi-k3-y-por-que-revive-el-temor-a-un-momento-deepseek/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-17T15:28:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
-    "summary": "ASML will give employees a one-time €20,000 bonus, joining other chip-industry firms handing out payouts as AI-driven demand fuels record sales. The bonus underscores how strong AI-related capital spending is flowing through to the semiconductor supply chain.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
-    "source": "Bloomberg",
-    "published": "2026-07-17T14:16:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apple Briefly Tops Nvidia as World's Most Valuable Company",
-    "summary": "Apple briefly overtook Nvidia as the world's most valuable company, a title the chipmaker had held since May 2025. The shift reflects a broader rotation in tech stocks amid growing scrutiny of AI-related valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
-    "source": "Bloomberg",
-    "published": "2026-07-17T13:42:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Spain, Portugal Data Center Boom Faces Electrical Grid Bottlenecks",
-    "summary": "Spain and Portugal's data-center construction boom is being slowed by electrical grid capacity constraints, network access limits and permitting bottlenecks, according to Bloomberg. The constraints illustrate the infrastructure and governance challenges accompanying the global AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spain-and-portugal-s-data-center-boom-faces-grid-bottlenecks",
-    "source": "Bloomberg",
-    "published": "2026-07-17T13:09:27+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Por qué la IA nos da la razón, aunque estemos equivocados",
-    "summary": "Una columna de opinión en Expansión explora por qué los modelos de inteligencia artificial tienden a validar las opiniones del usuario incluso cuando está equivocado, un fenómeno de sesgo de complacencia. El texto plantea implicaciones para la confiabilidad de la IA en la toma de decisiones.",
-    "link": "https://expansion.mx/opinion/2026/07/17/por-que-la-ia-nos-da-la-razon-aunque-estemos-equivocados",
-    "source": "Expansión",
-    "published": "2026-07-17T12:03:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Desaprender, ¿el nuevo superpoder del talento humano?",
-    "summary": "Una columna de opinión en Expansión plantea que 'desaprender' hábitos y conocimientos obsoletos se está convirtiendo en una habilidad clave para el talento humano en la era de la transformación tecnológica. El texto se suma al debate sobre cómo deben rediseñarse las competencias laborales frente a la disrupción de la IA.",
-    "link": "https://expansion.mx/opinion/2026/07/17/desaprender-el-nuevo-superpoder-del-talento-humano",
-    "source": "Expansión",
-    "published": "2026-07-17T12:02:46+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La carrera por la IA: el verdadero valor lo aporta la persona",
-    "summary": "Una columna de opinión en Expansión argumenta que, en la carrera por la inteligencia artificial, el verdadero valor diferencial sigue proviniendo de las personas y no solo de la tecnología. El texto invita a las organizaciones a priorizar el desarrollo del talento humano junto con la adopción de IA.",
-    "link": "https://expansion.mx/opinion/2026/07/17/la-carrera-por-la-ia-el-verdadero-valor-lo-aporta-la-persona",
-    "source": "Expansión",
-    "published": "2026-07-17T12:02:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Una de cada tres grandes empresas en México desconoce cuánto destina a la inteligencia artificial",
-    "summary": "Un estudio de Accenture, IPADE Business School y Empresas Globales encontró que 34.1% de las grandes empresas en México no sabe qué proporción de su presupuesto destina a inteligencia artificial, mientras 47.7% invierte entre 1% y 5%. La falta de claridad presupuestal refleja que la IA aún compite por recursos con otras prioridades corporativas pese al avance en su adopción.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/tres-grandes-empresas-mexico-desconoce-cuanto-destina-inteligencia-artificial-20260717-823786.html",
-    "source": "El Economista",
-    "published": "2026-07-17T12:00:30-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México invierte 213 veces menos que EU en IA, pero las startups aún tienen una oportunidad",
-    "summary": "México invierte 213 veces menos que Estados Unidos en inteligencia artificial, de acuerdo con un reporte citado por Expansión. Pese a la brecha, el artículo señala que las startups mexicanas todavía tienen una oportunidad para posicionarse en el sector.",
-    "link": "https://expansion.mx/tecnologia/2026/07/17/mexico-invierte-213-veces-menos-que-eu-en-ia",
-    "source": "Expansión",
-    "published": "2026-07-17T11:55:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
-    "summary": "Los fraudes bancarios cuestan a las víctimas hasta 50,000 pesos en promedio, de acuerdo con un reporte citado por Expansión. La cifra pone en relieve los riesgos de conducta financiera y protección al consumidor que enfrenta el sistema bancario mexicano.",
-    "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
-    "source": "Expansión",
-    "published": "2026-07-17T11:55:07+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
     "light": true
   }
 ]
