@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+    "summary": "Equity investors are learning a harsh lesson this corporate earnings season: not all artificial intelligence trades are created equal. Results this season are exposing sharp differences in performance among AI-linked stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-01/ai-isn-t-a-catch-all-trade-for-stocks-in-this-earnings-season",
+    "source": "Bloomberg",
+    "published": "2026-08-01T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Estos son los países de América Latina donde JLL ve mayor potencial inmobiliario",
     "summary": "La consultora global JLL identifica a México, Brasil, Chile, Colombia y Costa Rica como los mercados inmobiliarios corporativos con mayor potencial en América Latina, según su presidente de Work Dynamics para la región, Washington Botelho. El directivo destaca que la transformación de los espacios de oficina tras la pandemia es un proceso continuo, y que las empresas que rediseñen sus entornos de trabajo para atraer talento serán las que capturen mayores oportunidades.",
     "link": "https://www.bloomberglinea.com/negocios/estos-son-los-paises-de-america-latina-donde-jll-ve-mayor-potencial-inmobiliario/",
@@ -20,6 +31,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La rentabilidad de hacer las cosas bien",
+    "summary": "El columnista argumenta que la evidencia contradice la idea de que sostenibilidad y bienestar de los colaboradores son secundarios frente a la rentabilidad: las empresas que priorizan a las personas construyen relaciones más sólidas, atraen mejor talento y mantienen ventajas competitivas más duraderas. Plantea que la rentabilidad debe evaluarse más allá del resultado trimestral, incorporando valor económico, social y ambiental.",
+    "link": "https://www.elfinanciero.com.mx/opinion/acciones-sostenibles/2026/07/31/la-rentabilidad-de-hacer-las-cosas-bien/",
+    "source": "El Financiero",
+    "published": "2026-08-01T04:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Situational Awareness got the future right but misread the past",
@@ -55,6 +77,17 @@
     "light": false
   },
   {
+    "title": "Corrupción y afectación a la competitividad",
+    "summary": "El autor argumenta que la corrupción erosiona la competitividad empresarial y, con ello, el empleo formal y el acceso a mejores bienes y servicios, no solo afecta a las empresas. Señala que el cierre de negocios formales por corrupción abre espacio a la informalidad, afectando la recaudación fiscal y las condiciones de vida de las comunidades.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/31/corrupcion-y-afectacion-a-la-competitividad/",
+    "source": "El Financiero",
+    "published": "2026-08-01T03:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
     "summary": "Cinépolis lanzó su propia tarjeta de crédito y Expansión reúne siete puntos clave que los interesados deben conocer antes de solicitarla. La nota se suma a la tendencia de marcas de consumo mexicanas que amplían su oferta con productos financieros.",
     "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
@@ -74,6 +107,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 60,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
+    "summary": "A top central bank official, Alberto Musalem, says the recent bond sell-off sent a warning about the Federal Reserve's credibility. He added that he supported dissenters' calls for a quarter-point interest rate increase, pointing to growing debate over the Fed's policy path.",
+    "link": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-07-31T23:10:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
     "light": true
   },
   {
@@ -151,6 +195,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 68,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "The Unwind of Situational Awareness' Stock Bets",
+    "summary": "Leopold Aschenbrenner's hedge fund Situational Awareness was forced to sell billions of dollars in technology stock bets after their value collapsed rapidly, as nervous banks demanded more collateral for his trades. The forced unwind was a key driver of the broader AI-stock selloff that rattled markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/the-unwind-of-situational-awareness-stock-bets-video",
+    "source": "Bloomberg",
+    "published": "2026-07-31T20:44:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
     "light": true
   },
   {
@@ -5443,60 +5498,5 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "El T-MEC sigue, la certeza no",
-    "summary": "Encuestas de Reuters, el FMI y la OCDE recortan las proyecciones de crecimiento de México para 2026 a un rango de 0.8%-1.2%, mientras avanza la tercera ronda de revisión del T-MEC con Estados Unidos. El autor argumenta que la certeza de largo plazo del tratado se erosiona por las renegociaciones anuales, desincentivando la inversión pese a datos positivos como la baja inflación y el empleo formal.",
-    "link": "https://www.eleconomista.com.mx/opinion/t-mec-sigue-certeza-20260721-824242.html",
-    "source": "El Economista",
-    "published": "2026-07-21T00:53:23-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las fallas de la propuesta de Mazzucato para el Plan México",
-    "summary": "La economista Mariana Mazzucato, contratada por el gobierno federal desde 2024 para asesorar el 'Plan México', presentó ante funcionarios su propuesta de 'economía de misiones', generando debate sobre su viabilidad. El autor cuestiona si ese enfoque, centrado en un Estado con capacidad de resolver grandes desafíos, es adecuado para la realidad institucional mexicana.",
-    "link": "https://www.eleconomista.com.mx/opinion/fallas-propuesta-mazzucato-plan-mexico-20260721-824236.html",
-    "source": "El Economista",
-    "published": "2026-07-21T00:31:41-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA ya fue ¿ahora viene el ‘negocio del ajolote’?",
-    "summary": "La columna advierte que, tras perderse el boom de las acciones de IA como Nvidia, surge una nueva oportunidad de inversión en biotecnología aplicada a la conservación, como el proyecto de 'desextinción' de Colossal ligado al genetista George Church. El texto usa el auge de la IA como punto de partida para explorar hacia dónde podría dirigirse el próximo ciclo de inversión en tecnología.",
-    "link": "https://www.eleconomista.com.mx/opinion/ia-viene-negocio-ajolote-20260721-824235.html",
-    "source": "El Economista",
-    "published": "2026-07-21T00:29:27-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Guanajuato cerrará el año con 70% de meta sexenal en captación de IED",
-    "summary": "Guanajuato reporta una captación de Inversión Extranjera Directa de 718 millones de dólares en lo que va de 2026, distribuidos en 15 proyectos que generarán 4,386 empleos en sectores como automotriz, agroindustrial y nuevas tecnologías. El estado espera cerrar el año con 70% de su meta sexenal de 8,000 millones de dólares.",
-    "link": "https://www.eleconomista.com.mx/estados/guanajuato-cerrara-ano-70-meta-sexenal-captacion-ied-20260720-824226.html",
-    "source": "El Economista",
-    "published": "2026-07-20T23:26:30-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AMD y Marvell roban protagonismo a Amazon, Tesla y Nvidia en el rally bursátil",
-    "summary": "Las acciones de AMD y Marvell superaron en la más reciente jornada bursátil a gigantes tecnológicos como Amazon, Tesla y Nvidia, en medio del creciente apetito de los inversionistas por apuestas de infraestructura de inteligencia artificial.",
-    "link": "https://expansion.mx/mercados/2026/07/20/sk-hynix-confirma-expansion-inversiones-ia-7-magnificas",
-    "source": "Expansión",
-    "published": "2026-07-20T22:58:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
   }
 ]
