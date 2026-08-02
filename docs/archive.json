@@ -1,5 +1,27 @@
 [
   {
+    "title": "Morgan Stanley’s IPO after-party: a wealth management bonanza",
+    "summary": "Morgan Stanley's underwriting of SpaceX and other high-profile IPOs generated a $74 billion second-quarter haul in wealth-management assets. The windfall shows how the resurgent IPO market is spilling over into the wealth franchises of major investment banks.",
+    "link": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-02T10:00:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ANZ, NAB Among Banks Funding Blackstone HSBC Book Buy, AFR Says",
+    "summary": "ANZ Group and National Australia Bank are reportedly among the lenders financing Blackstone's A$36 billion ($25.3 billion) purchase of HSBC's Australian retail loan portfolio, according to the Australian Financial Review. The deal is one of the largest recent private-equity moves into consumer lending in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-02/anz-nab-among-banks-funding-blackstone-hsbc-book-buy-afr-says",
+    "source": "Bloomberg",
+    "published": "2026-08-02T08:45:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
     "summary": "Apple has capped the number of vulnerability reports researchers can submit as it struggles to manage a surge of AI-assisted bug-hunting activity targeting its products. The move highlights growing strain on corporate security teams as AI tools accelerate the discovery of software vulnerabilities.",
     "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
@@ -7,6 +29,17 @@
     "published": "2026-08-02T04:00:06+00:00",
     "category": "AI & Agents",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "German carmakers flood jobs market with managers after wielding axe",
+    "summary": "Volkswagen has turned to headhunters to find new roles for hundreds of managers departing amid deep job cuts across Germany's auto industry. The wave of displaced management talent illustrates the scale of the restructuring underway at German carmakers.",
+    "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-02T04:00:06+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -471,6 +504,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Impuestos y costo de la deuda de Pemex presionan ganancias por altos precios del crudo",
+    "summary": "Pemex reportó una utilidad de US$1,000 millones en el segundo trimestre de 2026, revirtiendo la pérdida de US$3,400 millones registrada un año antes, impulsada por mayores precios del crudo derivados de la guerra en Medio Oriente. Sin embargo, los intereses de una deuda financiera de US$77,500 millones y una mayor carga fiscal redujeron significativamente la ganancia neta pese a un alza de 30% en ingresos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/impuestos-y-costo-de-la-deuda-de-pemex-presionan-ganancias-por-altos-precios-del-crudo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-31T16:56:52+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Odd Lots: Why Private Credit Got Entangled With Insurance",
@@ -5452,50 +5496,6 @@
     "published": "2026-07-21T10:30:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Berenberg discovers accounting manipulation designed to flatter profits",
-    "summary": "Berenberg's auditor uncovered accounting manipulation designed to flatter profits, delaying sign-off on the bank's 2025 accounts, which showed net profit collapse from €81.6mn to €20.2mn. The finding raises fresh governance and financial-reporting risk questions for the German bank.",
-    "link": "https://www.ft.com/content/a4fff814-a4f9-4eb5-a774-e52dfe4d7bea?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-21T09:53:16+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock-MGX Consortium Eyes $5 Billion Aligned Data Centers Expansion",
-    "summary": "A BlackRock-led consortium including Abu Dhabi's MGX plans to invest an additional $5 billion to expand Aligned Data Centers, deepening sovereign and institutional capital's bet on AI infrastructure. The deal underscores the scale of financing flowing into data-center buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-mgx-consortium-eyes-5-billion-aligned-data-centers-expansion",
-    "source": "Bloomberg",
-    "published": "2026-07-21T09:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México: el riesgo de no invertir",
-    "summary": "Esta columna argumenta que, pese a la inseguridad, incertidumbre regulatoria y presión de infraestructura que enfrenta México, la ecuación de inversión de largo plazo sigue siendo atractiva para el capital privado nacional. El autor destaca al nearshoring y la relocalización de cadenas de suministro como la principal oportunidad, independientemente del entorno político con Trump.",
-    "link": "https://www.elfinanciero.com.mx/opinion/luis-castro-obregon/2026/07/21/mexico-el-riesgo-de-no-invertir/",
-    "source": "El Financiero",
-    "published": "2026-07-21T09:19:23+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Funcionan los aranceles de México: Importaciones desde Asia caen 23.2 por ciento",
-    "summary": "Los aranceles que México impuso en diciembre de 2025 a productos sin TLC comenzaron a surtir efecto: entre enero y mayo, las importaciones de las fracciones arancelarias afectadas cayeron 23.2% anual, de 15,383 a 11,808 millones de dólares. China concentró el mayor ajuste, con una caída de 28.4% en sus exportaciones a México bajo el nuevo esquema.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/21/funcionan-los-aranceles-de-mexico-importaciones-desde-asia-caen-232-por-ciento/",
-    "source": "El Financiero",
-    "published": "2026-07-21T09:13:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
     "language": "es",
     "light": false
   }
