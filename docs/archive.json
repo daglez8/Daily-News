@@ -1,5 +1,49 @@
 [
   {
+    "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
+    "summary": "Monte dei Paschi's chief executive is weighing a fresh takeover approach for Banco BPM after merger-of-equals talks between the two Italian lenders collapsed. MPS is reportedly considering courting Crédit Agricole, Banco BPM's largest shareholder, to help advance the deal.",
+    "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-02T17:32:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Who Governs the AI Boom?",
+    "summary": "In this Bloomberg segment, economist Jason Furman argues that not every AI risk needs the same governance response — from bioweapons to job losses, some issues call for regulation while others should be left to markets to adjust. He suggests the biggest debate around AI may ultimately be a moral rather than technical one.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-08-02T15:02:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Adoption Sparks Cultural Divide",
+    "summary": "Bloomberg's Josie Cox reports that AI adoption is creating new social divisions in workplaces and personal life, driven by concerns over authenticity, ethics and creativity. Employers are increasingly pushing AI use even as growing public distrust suggests its social impact could outweigh its economic one.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-02/ai-adoption-sparks-cultural-divide-video",
+    "source": "Bloomberg",
+    "published": "2026-08-02T14:34:46+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA ya compra por ti: procesó 120 millones de pagos en una sola semana, revela NielsenIQ",
+    "summary": "Un informe de NielsenIQ revela que los agentes de compra impulsados por inteligencia artificial ya operan a gran escala: solo Alipay AI Pay, de Ant Group, procesó más de 120 millones de transacciones en una semana de febrero de 2026. El fenómeno del comercio autónomo con IA avanza con fuerza en Asia, mientras en Occidente el uso todavía crece con mayor cautela.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ia-compra-ti-proceso-120-millones-pagos-sola-semana-revela-nielseniq-20260802-826214.html",
+    "source": "El Economista",
+    "published": "2026-08-02T11:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Morgan Stanley’s IPO after-party: a wealth management bonanza",
     "summary": "Morgan Stanley's underwriting of SpaceX and other high-profile IPOs generated a $74 billion second-quarter haul in wealth-management assets. The windfall shows how the resurgent IPO market is spilling over into the wealth franchises of major investment banks.",
     "link": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1",
@@ -11,6 +55,17 @@
     "light": true
   },
   {
+    "title": "Herramientas automatizadas buscan agilizar la valuación de inmuebles en México",
+    "summary": "La valuación inmobiliaria en México comienza a adoptar modelos automatizados (AVM) que estiman el precio de una propiedad a partir de comparables reales y datos de mercado. Accumin Intelligence anunció la llegada a México de Pulse Asset, una herramienta que ya opera en Europa y busca apoyar decisiones en banca, bienes raíces y desarrollo de vivienda sin sustituir el avalúo formal.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/herramientas-automatizadas-buscan-agilizar-valuacion-inmuebles-mexico-20260802-826154.html",
+    "source": "El Economista",
+    "published": "2026-08-02T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "ANZ, NAB Among Banks Funding Blackstone HSBC Book Buy, AFR Says",
     "summary": "ANZ Group and National Australia Bank are reportedly among the lenders financing Blackstone's A$36 billion ($25.3 billion) purchase of HSBC's Australian retail loan portfolio, according to the Australian Financial Review. The deal is one of the largest recent private-equity moves into consumer lending in the region.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-02/anz-nab-among-banks-funding-blackstone-hsbc-book-buy-afr-says",
@@ -20,6 +75,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El verano que pone a prueba a Norteamérica: Consolidar ventaja competitiva del T-MEC, el gran reto",
+    "summary": "La revisión del T-MEC entra en su fase más delicada, con un escenario base que ya no contempla una ruptura del acuerdo sino una negociación más larga en un entorno global más proteccionista. Aunque hay avances en sectores como automotriz, acero y agroindustria, persisten diferencias en reglas de origen, energía y solución de controversias, lo que ya genera incertidumbre en inversión y decisiones corporativas en México.",
+    "link": "https://www.eleconomista.com.mx/empresas/verano-pone-prueba-norteamerica-consolidar-ventaja-competitiva-t-mec-gran-reto-20260802-826099.html",
+    "source": "El Economista",
+    "published": "2026-08-02T07:05:05-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
@@ -42,6 +108,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La UNAM y el nuevo costo de la confianza",
+    "summary": "La UNAM aplicó por primera vez de forma totalmente en línea su examen de ingreso, con supervisión remota apoyada en herramientas de inteligencia artificial que generaban alertas para revisión humana. Una anomalía estadística en los resultados —el porcentaje de aprobados de alto puntaje se multiplicó varias veces— llevó a la universidad a cancelar cerca de 2% de los procesos y presentar una denuncia penal, golpeando la credibilidad del proceso de admisión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/01/la-unam-y-el-nuevo-costo-de-la-confianza/",
+    "source": "El Financiero",
+    "published": "2026-08-02T03:51:43+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms",
@@ -5419,83 +5496,6 @@
     "published": "2026-07-21T11:55:32+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fusiones y adquisiciones en México sumaron 4,579 millones de dólares en el primer semestre",
-    "summary": "El mercado transaccional mexicano registró 118 operaciones por 10,911 millones de dólares en el primer semestre de 2026, según TTR Data, con una caída de 19% en el número de transacciones pero un alza de 21% en su valor interanual. Los sectores inmobiliario y de software lideraron la actividad, y la compra de la filial mexicana de Iberdrola fue la operación destacada del trimestre.",
-    "link": "https://www.eleconomista.com.mx/empresas/fusiones-adquisiciones-mexico-sumaron-4-579-millones-dolares-primer-semestre-20260721-824300.html",
-    "source": "El Economista",
-    "published": "2026-07-21T11:46:19-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Paradoja del Trabajo Remoto: ¿Pueden la Autonomía y la Comunidad Coexistir en la Economía Digital de América Latina?",
-    "summary": "En América Latina, donde más de 10 millones de profesionales trabajan desde casa, el trabajo remoto se articula menos en torno a la flexibilidad corporativa y más a redes informales de WhatsApp y Telegram para encontrar oportunidades. El fenómeno plantea si la autonomía laboral puede coexistir con el sentido de comunidad en la economía digital de la región.",
-    "link": "https://www.eleconomista.com.mx/empresas/paradoja-trabajo-remoto-autonomia-comunidad-coexistir-economia-digital-america-latina-20260721-823560.html",
-    "source": "El Economista",
-    "published": "2026-07-21T11:00:25-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Data Centers on Track to Suck Up a Fifth of US Power Use by 2035",
-    "summary": "US data centers are on track to consume about 20% of the nation's electricity by 2035, up from 5.9% today, according to BloombergNEF. The surge is driven largely by AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/data-centers-on-track-to-suck-up-a-fifth-of-us-power-use-by-2035",
-    "source": "Bloomberg",
-    "published": "2026-07-21T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Retiro récord por desempleo en afores, ¿cuánto le resta a tu pensión sacar dinero de tu cuenta?",
-    "summary": "Más de 1.04 millones de personas retiraron fondos de su afore por desempleo entre enero y junio de 2026, la primera vez que un semestre supera el millón de retiros, según Consar, por un monto de 22,546 millones de pesos. Los retiros reducen semanas de cotización y afectan el monto final de la pensión.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/retiro-record-desempleo-afores-cuanto-le-resta-pension-sacar-dinero-cuenta-20260721-824187.html",
-    "source": "El Economista",
-    "published": "2026-07-21T10:50:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 69,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kimi K3 acelera la competencia global entre los modelos de inteligencia artificial",
-    "summary": "Moonshot AI lanzó Kimi K3, un modelo abierto de 2.8 billones de parámetros con ventana de contexto de un millón de tokens, y tuvo que suspender nuevas suscripciones por exceso de demanda días después. El anuncio golpeó en bolsa a competidoras chinas como Zhipu y MiniMax, evidenciando la intensa carrera de modelos de IA abiertos.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/kimi-k3-acelera-competencia-global-modelos-inteligencia-artificial-20260721-824293.html",
-    "source": "El Economista",
-    "published": "2026-07-21T10:40:31-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending",
-    "summary": "After years of promises about AI, autonomous driving and robotics, Wall Street wants Tesla to actually increase its AI-related spending, unlike Big Tech peers seen as overspending. The criticism marks an unusual reversal in the AI investment debate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
-    "source": "Bloomberg",
-    "published": "2026-07-21T10:32:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La odisea de la inteligencia artificial",
-    "summary": "Esta columna de opinión compara el actual auge de la inteligencia artificial con la odisea de Ulises, argumentando que la gran discusión económica de esta generación será sobre quién produce, controla y captura el valor de la IA. El autor sostiene que los centros de datos, procesadores y algoritmos son hoy la infraestructura clave que definirá el rumbo económico global.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/07/21/la-odisea-de-la-inteligencia-artificial/",
-    "source": "El Financiero",
-    "published": "2026-07-21T10:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
     "language": "es",
     "light": false
   }
