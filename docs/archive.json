@@ -1,5 +1,38 @@
 [
   {
+    "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
+    "summary": "Apple has capped the number of vulnerability reports researchers can submit as it struggles to manage a surge of AI-assisted bug-hunting activity targeting its products. The move highlights growing strain on corporate security teams as AI tools accelerate the discovery of software vulnerabilities.",
+    "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-02T04:00:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms",
+    "summary": "Investors in the leveraged loan market are pushing back against weak terms for the first time in years, demanding stronger covenants and pricing. The shift is set to raise borrowing costs across the board, from private equity sponsors to heavily indebted AI companies financing their infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-08-01T19:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Arquitecto del Tec de Monterrey colaboró en la reconstrucción de Notre Dame",
+    "summary": "Un arquitecto formado en el Tecnológico de Monterrey participó en el equipo que trabajó en la reconstrucción de la catedral de Notre Dame en París. El caso coloca a un profesionista mexicano dentro de uno de los proyectos de restauración patrimonial más seguidos de los últimos años.",
+    "link": "https://expansion.mx/carrera/2026/08/01/arquitecto-del-tec-de-monterrey-colaboro-en-la-reconstruccion-de-notre-dame",
+    "source": "Expansión",
+    "published": "2026-08-01T15:00:54+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Can Mergers Close Europe’s Tech Gap?",
     "summary": "The European Union is rewriting its merger rules for the first time in two decades in hopes of creating business \"champions\" able to compete with US tech giants. Skadden's Ingrid Vandenborre and Yale's Fiona Scott Morton discuss what's changing and whether competition policy can fix Europe's innovation gap.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/can-mergers-close-europe-s-tech-gap-video",
@@ -185,6 +218,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "México guarda secrecía sobre exenciones de impuestos del Mundial de la FIFA 2026",
+    "summary": "La Secretaría de Hacienda de México confirmó que no revelará la lista de empresas beneficiadas por exenciones fiscales del Mundial 2026, citando confidencialidad de datos y la vigencia del programa de garantías. El secretario Edgar Amador señaló que el gobierno de Sheinbaum acotó el alcance y la duración de las garantías fiscales heredadas de la administración de Peña Nieto.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-guarda-secrecia-sobre-exenciones-de-impuestos-del-mundial-de-la-fifa-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-31T22:34:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
@@ -493,6 +537,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Apple se desploma y Amazon se dispara: las cinco claves del veredicto de Wall Street",
+    "summary": "Apple y Amazon superaron las expectativas de ingresos trimestrales, pero Wall Street reaccionó de forma opuesta: las acciones de Apple cayeron casi 10% mientras que las de Amazon subieron más de 13%. La diferencia radica en que el mercado ve a Amazon capitalizando ya sus inversiones en inteligencia artificial vía crecimiento en la nube, mientras que a Apple le penalizó la escasez de producto y la desaceleración en servicios.",
+    "link": "https://www.bloomberglinea.com/mercados/apple-se-desploma-y-amazon-se-dispara-las-cinco-claves-del-veredicto-de-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-07-31T14:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
@@ -5441,61 +5496,6 @@
     "published": "2026-07-21T09:13:55+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La empresa familiar mexicana: vender no es perder",
-    "summary": "Esta columna analiza cómo el mercado mexicano de fusiones y adquisiciones está indisolublemente ligado a las dinámicas de las empresas familiares, que representan el 90% de las unidades de negocio y 85% del PIB del país. El autor argumenta que la percepción de vender como 'fracaso' está cambiando conforme madura un mercado de liquidez con compradores serios y precios justos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/21/la-empresa-familiar-mexicana-vender-no-es-perder/",
-    "source": "El Financiero",
-    "published": "2026-07-21T08:23:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Datacenters, el nearshoring necesario",
-    "summary": "La columna plantea que México puede replicar su éxito en la industria automotriz en el mercado digital, posicionándose como socio de centros de datos, nube e infraestructura de IA para Norteamérica. La Asociación Mexicana de Data Centers estima inversiones por 82,500 millones de dólares en el sector, en un momento en que EU necesita capacidad y aliados confiables para escalar IA.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/07/21/datacenters-el-nearshoring-necesario/",
-    "source": "El Financiero",
-    "published": "2026-07-21T08:12:58+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Hay una burbuja en la IA? BlackRock y Janus revelan oportunidades y segmentos “sobrevalorados”",
-    "summary": "Gestoras como BlackRock y Janus analizan si el rally bursátil concentrado en un puñado de tecnológicas —diez empresas representan cerca del 40% del S&P 500— constituye una burbuja de IA, aunque señalan que, a diferencia de la era puntocom, los fundamentos actuales sí justificarían buena parte de las valoraciones. Advierten que la liquidez y las condiciones crediticias, más que las valoraciones en sí, serán claves para anticipar una corrección.",
-    "link": "https://www.bloomberglinea.com/mercados/hay-una-burbuja-en-la-ia-blackrock-y-janus-revelan-oportunidades-y-segmentos-sobrevalorados/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-21T08:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nereidas Homes / Studio Font",
-    "summary": "Nereidas Design House is a residential project in the desert landscape near Todos Santos, Baja California, set on a 600-square-meter site with views of the Sierra de la Laguna and the Pacific. The design responds to the site's sculptural cacti and dramatic terrain.",
-    "link": "https://www.archdaily.com/1181262/nereidas-homes-studio-font",
-    "source": "ArchDaily",
-    "published": "2026-07-21T07:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 67,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "El mexicano David Martínez vende una participación del 1.6% en Sabadell",
-    "summary": "El inversionista mexicano David Martínez, quien dejó el consejo de Banco Sabadell tras el fracaso de la OPA de BBVA, vendió una participación de 1.6% en la entidad española, sin revelar comprador ni precio. Martínez, que fue el mayor accionista dispuesto a aceptar la oferta hostil de BBVA, aún conserva un 1.9% del banco, valorado en unos 300 millones de euros.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mexicano-david-martinez-vende-participacion-1-6-sabadell-20260721-824260.html",
-    "source": "El Economista",
-    "published": "2026-07-21T06:27:50-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
     "language": "es",
     "light": false
   }
