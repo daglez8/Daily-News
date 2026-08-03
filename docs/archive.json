@@ -1,10 +1,131 @@
 [
   {
+    "title": "Hacia la ley mexicana de la inteligencia artificial y sus derivados: buques autónomos, drones y robots",
+    "summary": "Un análisis de opinión en El Financiero argumenta que la IA ya no es solo software: el Código MASS de la OMI, vigente desde julio, regula por primera vez los buques de carga autónomos, mientras drones y vehículos ya operan comercialmente. El autor sostiene que México necesita avanzar hacia un marco jurídico propio para la IA y sus derivados físicos —robots, drones, embarcaciones autónomas— ante la creciente disputa global por semiconductores y energía.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/08/03/hacia-la-ley-mexicana-de-la-inteligencia-artificial-y-sus-derivados-buques-autonomos-drones-y-robots/",
+    "source": "El Financiero",
+    "published": "2026-08-03T12:37:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China's Next AI Race Goes Beyond Chatbots",
+    "summary": "Bloomberg Opinion argues that Washington's focus on China's chatbot model Kimi K3 overlooks Beijing's bigger push to move AI beyond conversational tools and into the physical world. Columnist Catherine Thorbecke frames this as the real frontier of the US-China AI race.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/opinion-china-s-next-ai-race-goes-beyond-chatbots-video",
+    "source": "Bloomberg",
+    "published": "2026-08-03T12:27:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Palantir Is Stuck in Worst-of-Both-Worlds Bind With AI, Software",
+    "summary": "Palantir shares have fallen more than 40% from their November peak, leaving the company caught between investors who view it as an AI software winner and skeptics wary of its high valuation. The stock's slide reflects broader market anxiety about whether AI-linked software firms can justify their premiums.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
+    "source": "Bloomberg",
+    "published": "2026-08-03T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The AI Domination Race is Adding to US-China Tensions",
+    "summary": "A Bloomberg newsletter examines how Washington's use of export controls and other restrictions to slow China's AI progress is intensifying friction between the two countries. The piece frames the AI race as an increasingly central axis of US-China tension, beyond trade and semiconductors alone.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-ai-domination-race-is-adding-to-us-china-tensions",
+    "source": "Bloomberg",
+    "published": "2026-08-03T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Analistas vs Hacienda: ¿cómo le irá a la economía de México rumbo al cierre del 2026?",
+    "summary": "La economía mexicana creció 1.5% trimestral y 2.2% anual en el segundo trimestre, su mejor avance desde 2020, impulsada por el campo, el Mundial 2026 y exportaciones récord, aunque la inversión privada sigue deprimida. De cara al cierre de 2026, el mercado vigila la revisión del T-MEC y si el Paquete Económico 2027 logrará convencer a las calificadoras sobre el déficit fiscal, en medio de un optimismo oficial mayor al de los analistas privados.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-vs-hacienda-como-le-ira-a-la-economia-de-mexico-rumbo-al-cierre-del-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-03T10:10:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+    "summary": "South Korean AI chip designer DeepX raised fresh funding at roughly four times its previous valuation, underscoring continued investor enthusiasm for AI infrastructure plays. The round signals sustained capital flows into chip designers positioning themselves for the AI hardware buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+    "source": "Bloomberg",
+    "published": "2026-08-03T09:45:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+    "summary": "Apple's Siri AI, launching this fall in iOS 27, will instantly become the most widely distributed AI chatbot given the iPhone's global install base, setting up a direct comparison with ChatGPT. The piece weighs how the two assistants stack up as Apple enters the consumer AI race in earnest.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+    "source": "Bloomberg",
+    "published": "2026-08-03T09:30:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ASML Supplier Zeiss Says It Can Handle Demand for Key AI Parts",
+    "summary": "Zeiss, a key supplier to chipmaking equipment maker ASML, pushed back on investor concerns about bottlenecks in the AI semiconductor supply chain, saying it has the capacity to meet booming demand. The comments offer reassurance on one of the critical chokepoints in AI chip manufacturing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/asml-supplier-zeiss-says-it-can-handle-demand-for-key-ai-parts",
+    "source": "Bloomberg",
+    "published": "2026-08-03T08:25:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tres emprendedoras con soluciones de IA para salud mental, visual y retail ganan eNOVADORAS",
+    "summary": "Tres emprendedoras mexicanas —fundadoras de Getin, PROSPEiA y Cuéntame— ganaron el premio eNOVADORAS 2026 de AT&T México por aplicar inteligencia artificial a retail, detección de enfermedades y salud mental organizacional. Fueron seleccionadas entre 45 proyectos tras un programa de aceleración con Endeavor México y el Tecnológico de Monterrey, y accederán a un fondo de hasta 100,000 dólares.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/tres-emprendedoras-soluciones-ia-salud-mental-visual-retail-ganan-enovadoras-20260803-826148.html",
+    "source": "El Economista",
+    "published": "2026-08-03T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Indicadores del 3 al 7 de agosto: Remesas, inflación y anuncio de Banxico",
+    "summary": "La primera semana de agosto trae una agenda cargada para los mercados mexicanos: el Inegi publicará la Encuesta Mensual de Opinión Empresarial y remesas de junio, mientras Banxico difundirá su encuesta de expectativas de los especialistas del sector privado sobre inflación, crecimiento y tipo de cambio. También se esperan datos de empleo en EU, confianza del consumidor e inversión fija, indicadores clave para calibrar el rumbo de la política monetaria.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-3-7-agosto-remesas-inflacion-anuncio-banxico-20260803-826130.html",
+    "source": "El Economista",
+    "published": "2026-08-03T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La IA entra a la etapa de rendir cuentas",
     "summary": "Microsoft tuvo su mejor día en bolsa desde 2008 tras reportar resultados, sumando cerca de 450,000 millones de dólares en valor de mercado en una sola jornada, mientras Meta cayó cerca de 8% pese a ingresos récord. El mercado ya no premia el simple entusiasmo por la inteligencia artificial: ahora exige que las inversiones en IA muestren resultados concretos.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/03/la-ia-entra-a-la-etapa-de-rendir-cuentas/",
     "source": "El Financiero",
     "published": "2026-08-03T06:38:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek lanza el modelo de IA más barato del mundo y supera a la competencia en coste de ejecución",
+    "summary": "DeepSeek presentó su modelo V4-Flash, que según la firma Artificial Analysis es más de 100 veces más barato de ejecutar que Claude Fable 5 de Anthropic, cobrando 0.14 dólares por millón de tokens de entrada. La startup china, que según algunas fuentes se prepara para una posible salida a bolsa, busca recuperar el impulso que tuvo con su modelo R1 a inicios de 2025, cuando desató una ola de ventas en acciones tecnológicas globales.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/deepseek-lanza-modelo-ia-barato-mundo-supera-competencia-coste-ejecucion-20260803-826340.html",
+    "source": "El Economista",
+    "published": "2026-08-03T06:07:33-06:00",
     "category": "AI & Agents",
     "relevance_score": 85,
     "language": "es",
@@ -18,6 +139,17 @@
     "published": "2026-08-03T05:47:29+00:00",
     "category": "AI & Agents",
     "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street learns to love blockchain",
+    "summary": "The Financial Times reports that major financial firms are increasingly embracing blockchain technology in hopes of modernizing capital markets infrastructure. However, the piece cautions that systemic risks from wider blockchain adoption in finance remain unresolved.",
+    "link": "https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-03T04:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
     "language": "en",
     "light": true
   },
@@ -5366,137 +5498,5 @@
     "relevance_score": 67,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Sufre Salinas Pliego revés judicial por grabación secreta",
-    "summary": "Un tribunal del Reino Unido dictaminó que el uso de una empresa de inteligencia por parte de Ricardo Salinas Pliego para grabar en secreto a un abogado constituyó un abuso. Es un nuevo revés legal para el empresario mexicano, dueño de Grupo Salinas y Banco Azteca.",
-    "link": "https://www.reforma.com/sufre-salinas-pliego-reves-judicial-por-grabacion-secreta/ar3244419",
-    "source": "Reforma",
-    "published": "2026-07-21T17:18:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Acusan espionaje de Salinas Pliego",
-    "summary": "Un tribunal del Reino Unido determinó que el uso de una empresa de inteligencia por parte de Ricardo Salinas Pliego para grabar en secreto a un abogado constituyó un abuso. El fallo representa un riesgo legal y reputacional para el empresario mexicano.",
-    "link": "https://www.reforma.com/acusan-espionaje-de-salinas-pliego/ar3244419",
-    "source": "Reforma",
-    "published": "2026-07-21T17:18:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Ponta Fina House - Aiuruoca / Gil Mello Arquitetura",
-    "summary": "The Ponta Fina House in Aiuruoca, Minas Gerais, revives the occupation of a mountainside plateau on the slopes of the Serra do Papagaio. Designed by Gil Mello Arquitetura, it pairs a main residence with complementary structures for leisure, work, and guests.",
-    "link": "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
-    "source": "ArchDaily",
-    "published": "2026-07-21T17:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
-    "summary": "Usuarios de la cuenta Nu en México se preguntan qué pasará con los rendimientos de sus 'Cajitas' de inversión, en medio de cambios reportados en el producto. El fintech brasileño ha crecido como alternativa a la banca tradicional en el país.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/21/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-cajitas",
-    "source": "Expansión",
-    "published": "2026-07-21T16:34:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Crediclub: La inclusión financiera ya no depende de una sucursal, sino de un celular",
-    "summary": "Crediclub lanzó una aplicación que integra ahorro, inversión, crédito y pagos en una sola plataforma, apostando a que la inclusión financiera en México ya no depende de sucursales sino del celular. La herramienta busca llegar a segmentos históricamente excluidos, como el comercio informal y emprendedores.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/07/21/crediclub-la-inclusion-financiera-ya-no-depende-de-una-sucursal-sino-de-un-celular/",
-    "source": "El Financiero",
-    "published": "2026-07-21T16:14:56+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 81,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Qué esperar de las empresas mexicanas en los reportes del segundo trimestre del 2026",
-    "summary": "Analistas de Monex y Banorte anticipan una recuperación moderada en los reportes del segundo trimestre de empresas mexicanas, aunque con presión de la inflación y un alto costo financiero pese a los recortes de tasas de Banxico. La apreciación del peso también afectaría los ingresos de compañías con exposición al dólar.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperar-de-las-empresas-mexicanas-en-los-reportes-del-segundo-trimestre-del-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-21T15:49:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI's Altman to Brief US Officials on Next Wave of AI Models",
-    "summary": "Sam Altman plans to brief the Trump administration and US lawmakers next week on OpenAI's next generation of AI models, as Washington works to build a review process for cutting-edge AI safety. The briefing underscores growing government scrutiny of frontier AI development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
-    "source": "Bloomberg",
-    "published": "2026-07-21T15:35:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Adobe, Salesforce Downgrades Are Latest Show of AI Fears",
-    "summary": "More Wall Street analysts are recommending investors sell Adobe and Salesforce shares than in years, as concerns mount over how AI could disrupt traditional enterprise-software business models. The downgrades reflect broader anxiety about AI's impact on software valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/adobe-salesforce-downgrades-are-latest-show-of-ai-fears",
-    "source": "Bloomberg",
-    "published": "2026-07-21T15:00:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Touts Progress Getting New Rubin Design to Customers",
-    "summary": "Nvidia said its next-generation Rubin chip design is making its way to customers, aiming to cement its leadership in AI infrastructure. The update comes as investors closely track the pace of AI chip deployment across hyperscalers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
-    "source": "Bloomberg",
-    "published": "2026-07-21T15:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La carrera por la IA dispara la emisión de deuda del sector: en siete meses ya supera todo 2025",
-    "summary": "La emisión de deuda vinculada a la inteligencia artificial ya suma US$489,000 millones en lo que va de 2026, superando todo lo emitido en 2025, según Goldman Sachs. Solo 40% proviene directamente de los hyperscalers; el resto financia centros de datos, semiconductores y otros proveedores del ecosistema de IA.",
-    "link": "https://www.bloomberglinea.com/mercados/la-carrera-por-la-ia-dispara-la-emision-de-deuda-del-sector-en-siete-meses-ya-supera-todo-2025/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-21T14:56:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 87,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China’s Moonshot in Talks on Pre-IPO Funds at $50 Billion Value",
-    "summary": "China's Moonshot AI is preparing pre-IPO fundraising talks in August at a valuation of up to $50 billion, ahead of a planned Hong Kong listing. The round would capitalize on excitement around its latest Kimi model.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-07-21T14:23:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google Expands in Miami After Its Billionaire Founders Buy Homes",
-    "summary": "Alphabet has more than quadrupled its Miami office space this year, shortly after co-founders Larry Page and Sergey Brin bought homes in the area. The expansion adds to Miami's growing profile as a destination for tech-wealth relocation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes",
-    "source": "Bloomberg",
-    "published": "2026-07-21T14:05:49+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
   }
 ]
