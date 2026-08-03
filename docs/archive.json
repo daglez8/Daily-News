@@ -1,5 +1,71 @@
 [
   {
+    "title": "La IA entra a la etapa de rendir cuentas",
+    "summary": "Microsoft tuvo su mejor día en bolsa desde 2008 tras reportar resultados, sumando cerca de 450,000 millones de dólares en valor de mercado en una sola jornada, mientras Meta cayó cerca de 8% pese a ingresos récord. El mercado ya no premia el simple entusiasmo por la inteligencia artificial: ahora exige que las inversiones en IA muestren resultados concretos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/03/la-ia-entra-a-la-etapa-de-rendir-cuentas/",
+    "source": "El Financiero",
+    "published": "2026-08-03T06:38:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+    "summary": "Ajoy Ghosh, fundador y CISO de The Cyber Alchemist, discusses the cybersecurity measures companies should adopt following the recently disclosed hacking incidents at Anthropic and OpenAI. He spoke with Bloomberg's \"Asia Trade\" about lessons for corporate AI security practices.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-08-03T05:47:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Malaysia’s Maybank to Buy Ageas Stake in Etiqa for $1.2 Billion",
+    "summary": "Malaysia's Maybank has agreed to buy Belgian insurer Ageas's minority stake in Etiqa for about $1.2 billion, giving Malaysia's largest bank full ownership of the Southeast Asian insurer. The deal is one of the region's larger recent financial-institutions M&A transactions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/malaysia-s-top-bank-is-said-to-near-buying-ageas-stake-in-etiqa",
+    "source": "Bloomberg",
+    "published": "2026-08-03T03:49:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+    "summary": "Alibaba released Qwen3.8-Max, its largest AI model to date, claiming benchmark performance on par with Anthropic. The launch marks the latest Chinese model to challenge the leading US AI labs on capability claims.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+    "source": "Bloomberg",
+    "published": "2026-08-03T02:21:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA volvió obsoletos los exámenes en línea",
+    "summary": "En el examen de admisión de la UNAM, el porcentaje de aspirantes con 100 o más aciertos de 120 subió a 16%, frente a un histórico de apenas 2-3%, un salto que el comité técnico de la propia universidad atribuye al uso de inteligencia artificial durante la prueba. Como resultado, se aplicará un nuevo examen presencial a unos 58,000 estudiantes con los puntajes más altos.",
+    "link": "https://www.eleconomista.com.mx/opinion/ia-volvio-obsoletos-examenes-linea-20260802-826326.html",
+    "source": "El Economista",
+    "published": "2026-08-02T23:53:47-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Is Turning Retail Traders Into DIY Hedge Funds",
+    "summary": "A wave of powerful new AI tools is fueling a generation of retail day traders who are building automated trading strategies in an attempt to replicate hedge-fund-style returns. Bloomberg's Zijia Song examines how accessible AI is reshaping who can compete on Wall Street's terms.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds",
+    "source": "Bloomberg",
+    "published": "2026-08-02T21:00:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
     "summary": "Monte dei Paschi's chief executive is weighing a fresh takeover approach for Banco BPM after merger-of-equals talks between the two Italian lenders collapsed. MPS is reportedly considering courting Crédit Agricole, Banco BPM's largest shareholder, to help advance the deal.",
     "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
@@ -5432,71 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "$100 Million Bet on Venezuelan Fintech Cashea Draws Global Investors",
-    "summary": "Venezuela's largest fintech, Cashea, raised $100 million across two financing rounds from global investors betting on growth in a market where lending has long been constrained. The deal highlights renewed international interest in Latin American consumer-finance platforms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors",
-    "source": "Bloomberg",
-    "published": "2026-07-21T13:30:01+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI's Agents Reach 10 Million Users After ChatGPT Work Debut",
-    "summary": "OpenAI's AI agents have seen a sharp jump in demand following the recent launch of ChatGPT Work, giving the company fresh momentum in its race with rival Anthropic. The surge signals accelerating enterprise adoption of AI agents as a productivity tool.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
-    "source": "Bloomberg",
-    "published": "2026-07-21T12:55:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Garmin Debuts $200 Screenless Fitness Band in Challenge to Whoop",
-    "summary": "Garmin has launched a $200 screenless fitness band, entering the wearable recovery-tracking segment popularized by Whoop. The device intensifies competition in a health-wearables market increasingly focused on data over displays.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop",
-    "source": "Bloomberg",
-    "published": "2026-07-21T12:53:32+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bessent Says US Will Scrutinize Chinese AI Models for IP Theft",
-    "summary": "US Treasury Secretary Scott Bessent said Washington will closely scrutinize open-source AI models developed abroad, including in China, for signs of intellectual property theft from American firms. He indicated the US is prepared to act on any evidence found.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft",
-    "source": "Bloomberg",
-    "published": "2026-07-21T12:29:41+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China’s World AI Conference and TSMC’s Arizona Investment Mark Wins for Leaders",
-    "summary": "China convened its World AI Conference the same week TSMC announced fresh investment in its Arizona facilities, framing both events as wins for their respective governments' tech leadership. The parallel moves highlight the ongoing US-China race for AI and semiconductor supremacy.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/china-s-world-ai-conference-and-tsmc-s-arizona-investment-mark-wins-for-leaders",
-    "source": "Bloomberg",
-    "published": "2026-07-21T12:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
-    "summary": "Proyectos de inversión por 22,000 millones de dólares enfrentan obstáculos en México en momentos en que crece la presión derivada de la revisión del T-MEC. La incertidumbre sobre el futuro del tratado comercial estaría frenando decisiones de inversión de largo plazo en el país.",
-    "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
-    "source": "Expansión",
-    "published": "2026-07-21T11:55:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
