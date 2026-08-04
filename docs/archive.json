@@ -1,5 +1,137 @@
 [
   {
+    "title": "AI Boom Is 'Trickling Down' to Old-Line Stocks, Wells Fargo Says",
+    "summary": "Wells Fargo says the flood of AI capital spending by big tech is starting to spill over into the broader economy, not just chip and cloud names. The bank expects the effect to lift industrial stocks as AI infrastructure buildout ripples through traditional supply chains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-boom-is-trickling-down-to-old-line-stocks-wells-fargo-says",
+    "source": "Bloomberg",
+    "published": "2026-08-04T19:02:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cambian las pensiones doradas? Sheinbaum propone corregir contradicción en la Constitución",
+    "summary": "La presidenta Claudia Sheinbaum confirmó que sigue pendiente el envío al Congreso de una iniciativa para eliminar las 'pensiones doradas', modificando el artículo 127 constitucional. La reforma busca que los exservidores públicos reciban solo un salario tope equivalente al de la presidencia.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/08/04/cambian-las-pensiones-doradas-sheinbaum-propone-corregir-contradiccion-en-la-constitucion/",
+    "source": "El Financiero",
+    "published": "2026-08-04T18:36:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "How Palo Alto Wants AI to Patch Cyber Threats in Hours",
+    "summary": "Palo Alto Networks CEO Nikesh Arora discusses the company's new AI-powered cybersecurity platform, designed to detect vulnerabilities and deploy protections in hours instead of weeks. Arora predicts enterprises will eventually dedicate as much as 15% of operating expenses to AI as it reshapes both cyberattacks and cyber defense.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/nikesh-arora-we-have-to-fight-ai-with-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-08-04T18:12:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 81,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Spending Is Still Justified, Says Lazard",
+    "summary": "Lazard Asset Management's Celine Woo argues Microsoft and Amazon's latest earnings reinforce that hyperscaler AI spending remains justified, since demand for cloud infrastructure still outpaces supply. She points to the shift from AI training to inference as the driver of the next growth phase.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/ai-spending-is-still-justified-says-lazard-video",
+    "source": "Bloomberg",
+    "published": "2026-08-04T18:05:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 77,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Thoma Bravo Sells Majority Stake in Command Alkon to Francisco Partners",
+    "summary": "Buyout firm Francisco Partners agreed to acquire a majority stake in construction software maker Command Alkon from Thoma Bravo, underscoring continued private-equity investor interest in software critical to specific industries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/thoma-bravo-sells-majority-stake-in-command-alkon-to-francisco-partners",
+    "source": "Bloomberg",
+    "published": "2026-08-04T17:56:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jefferies Gets New Evidence of Fake Invoices at Beleaguered Fund",
+    "summary": "Jefferies Financial Group was told that some invoices underpinning its financing to iron-ore trader Sapphire Minmetals are not genuine, according to people familiar with the matter, deepening scrutiny of the fund's financing arrangements.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund",
+    "source": "Bloomberg",
+    "published": "2026-08-04T17:44:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Griffin's NYC Office Tower Set to Land $3.3 Billion Construction Loan",
+    "summary": "The team behind Citadel founder Ken Griffin's new Manhattan skyscraper expects to secure a $3.3 billion construction loan, one of the largest real estate financings of the year and a signal of continued lender appetite for trophy commercial development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/griffin-s-nyc-office-tower-set-to-land-3-3-billion-construction-loan",
+    "source": "Bloomberg",
+    "published": "2026-08-04T17:00:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Exportaciones de México a EU tienen su mejor junio de la historia con 55,254 millones de dólares",
+    "summary": "Las exportaciones de México hacia Estados Unidos alcanzaron un máximo histórico para un mes de junio, con 55,254 millones de dólares, un crecimiento anual de 23%. El resultado consolida a México como el principal socio comercial de EU, por delante de Canadá, Vietnam y China.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/exportaciones-de-mexico-a-eu-tienen-su-mejor-junio-de-la-historia-con-55254-millones-de-dolares/",
+    "source": "El Financiero",
+    "published": "2026-08-04T16:46:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 71,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Palantir Jumps After 'Otherworldly' Demand Lifts Outlook",
+    "summary": "Palantir Technologies shares jumped after the company raised its full-year revenue and income forecasts, describing commercial demand for its data analytics tools as \"otherworldly.\" Bloomberg also notes Anthropic has struck a deal for computing capacity from Volta Infra Holdings, a months-old infrastructure startup, to keep pace with product demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/palantir-jumps-after-otherworldly-demand-lifts-outlook-video",
+    "source": "Bloomberg",
+    "published": "2026-08-04T16:33:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hollywood is entering its AI era",
+    "summary": "The Economist reports that artificial intelligence is quietly becoming embedded in nearly every stage of film-making, from pre-production to visual effects and editing. The shift marks a structural change in how the entertainment industry produces content, not just a cost-cutting experiment.",
+    "link": "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
+    "source": "The Economist",
+    "published": "2026-08-04T15:26:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Settles Worker Discrimination Allegations With DOJ",
+    "summary": "A unit of OpenAI reached a settlement with the US Justice Department resolving allegations that the AI company discriminated against US workers, the latest instance of regulatory scrutiny facing major AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
+    "source": "Bloomberg",
+    "published": "2026-08-04T15:15:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Información que no ayuda a renovación del T-MEC: Déficit comercial de EU con México aumenta en junio",
+    "summary": "El déficit comercial general de Estados Unidos se redujo 5.6% en junio frente a mayo, hasta 73,300 millones de dólares, por una caída generalizada de importaciones. Sin embargo, el déficit específico con México aumentó, un dato que complica el ambiente previo a la renegociación del T-MEC.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/renovacion-del-t-mec-deficit-comercial-de-eu-con-mexico-sube-en-junio/",
+    "source": "El Financiero",
+    "published": "2026-08-04T14:00:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 69,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "World Bank Urges Emerging Nations to Embrace AI Amid Weak Growth",
     "summary": "The World Bank is urging developing economies to move quickly to adopt artificial intelligence across governments and businesses. It called on countries to adapt existing AI tools to local needs rather than build proprietary systems from scratch, framing AI adoption as a lever against weak global growth.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/world-bank-urges-emerging-nations-to-embrace-ai-amid-weak-growth",
@@ -11,6 +143,28 @@
     "light": true
   },
   {
+    "title": "El ransomware obligó a una pyme mexicana a reconstruir su infraestructura digital",
+    "summary": "Una empresa mexicana de mensajería pagó un rescate de menos de 5,000 dólares tras permanecer tres meses infiltrada por ciberdelincuentes, que cifraron entre cinco y seis servidores. La recuperación exigió reconstruir por completo su infraestructura tecnológica, evidenciando la exposición de las pymes mexicanas ante el ransomware.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ransomware-obligo-pyme-mexicana-reconstruir-infraestructura-digital-20260804-826577.html",
+    "source": "El Economista",
+    "published": "2026-08-04T12:43:47-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 73,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alerta en la implementación de la reforma laboral por ausentismo patronal",
+    "summary": "La transición hacia el nuevo modelo de justicia laboral en México avanza en la resolución de conflictos prejudiciales, pero enfrenta obstáculos por el comportamiento de los empleadores y limitaciones institucionales para aplicar sanciones. El Consejo de Coordinación respectivo reporta contratiempos estructurales que ponen en riesgo el ritmo de la reforma.",
+    "link": "https://www.eleconomista.com.mx/empresas/alerta-implementacion-reforma-laboral-ausentismo-patronal-20260804-826570.html",
+    "source": "El Economista",
+    "published": "2026-08-04T12:01:06-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
     "summary": "Anthropic has struck a $10 billion deal for computing capacity with a months-old cloud infrastructure startup, according to people familiar with the matter. The deal underscores how aggressively the Claude maker is moving to secure compute to keep pace with surging demand for its AI products.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
@@ -19,6 +173,17 @@
     "category": "AI & Agents",
     "relevance_score": 92,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google, Amazon y Microsoft disparan sus ingresos 'en papel' gracias a Anthropic y OpenAI",
+    "summary": "Google, Amazon y Microsoft están registrando ganancias contables significativas gracias a sus inversiones en Anthropic y OpenAI, cuyas valuaciones han disparado el valor de las participaciones que sostienen los gigantes tecnológicos. El fenómeno ilustra cómo el boom de la IA generativa está inflando los balances de los hyperscalers antes de traducirse en ingresos operativos reales.",
+    "link": "https://expansion.mx/tecnologia/2026/08/04/openai-anthropic-hacen-ganar-mas-google-amazon-y-microsoft",
+    "source": "Expansión",
+    "published": "2026-08-04T11:55:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
     "light": true
   },
   {
@@ -42,6 +207,28 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Cuándo es el mejor momento para pedir un préstamo? La decisión va más allá de la tasa de Banxico",
+    "summary": "Pedir un préstamo es un compromiso financiero de mediano o largo plazo que impacta la capacidad de cubrir gastos esenciales como vivienda o educación. El artículo explica que la decisión debe basarse tanto en indicadores macroeconómicos como en la tasa de Banxico y la capacidad de pago individual, no solo en el nivel de tasas.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/mejor-momento-pedir-prestamo-decision-tasa-banxico-20260804-826248.html",
+    "source": "El Economista",
+    "published": "2026-08-04T11:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Es buen momento para invertir en México? Esto consideran analistas tras no renovarse el T-MEC",
+    "summary": "El optimismo de los analistas sobre el momento para que las empresas inviertan en México volvió a caer en julio, tras la decisión de la administración Trump de no renovar automáticamente el T-MEC. La encuesta de Banxico entre especialistas privados refleja mayor cautela sobre el clima de inversión del país.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/es-buen-momento-para-invertir-en-mexico-esto-consideran-analistas-tras-no-renovarse-el-t-mec/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-04T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI hits back at Apple over 'oddly personal' trade secrets fight",
@@ -275,6 +462,17 @@
     "light": true
   },
   {
+    "title": "El oro vale más por fiebre de IA, pero México produce 23% menos",
+    "summary": "El artículo aborda cómo el auge de la inteligencia artificial ha impulsado indirectamente el precio del oro como refugio de valor, mientras que la producción mexicana del metal —vinculada a minas como Peñasquito— ha caído 23%, limitando el beneficio del país frente al repunte de precios.",
+    "link": "https://expansion.mx/economia/2026/08/03/precio-del-oro-sube-mexico-produce-menos-mina-penasquito",
+    "source": "Expansión",
+    "published": "2026-08-03T23:15:03+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
     "summary": "Tiendas 3B eligió cotizar en Wall Street en lugar de la Bolsa Mexicana de Valores. La decisión reaviva el debate sobre por qué cada vez más empresas mexicanas prefieren los mercados bursátiles estadounidenses.",
     "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
@@ -282,6 +480,17 @@
     "published": "2026-08-03T22:12:50+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Las ganancias mineras se disparan 21% gracias a altos precios de los metales, pero la inversión cae",
+    "summary": "Las utilidades del sector minero mexicano crecieron 21% impulsadas por los altos precios internacionales de los metales, pero la inversión en el sector se contrajo en el mismo periodo, una señal de cautela de las empresas pese a la bonanza de precios.",
+    "link": "https://expansion.mx/empresas/2026/08/03/ganancias-mineras-se-disparan-21-altos-precios-metales",
+    "source": "Expansión",
+    "published": "2026-08-03T22:09:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
     "language": "es",
     "light": true
   },
@@ -5289,214 +5498,5 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Keeping Kids Safe Online From AI Shows US and China on Different Paths",
-    "summary": "Bloomberg contrasts US and Chinese approaches to protecting children online from AI and social media risks, suggesting China's more proactive regulatory stance is showing better results than the more hands-off US approach.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/keeping-kids-safe-online-from-ai-shows-us-and-china-on-different-paths",
-    "source": "Bloomberg",
-    "published": "2026-07-23T11:02:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fracasan en Pemex contratos mixtos",
-    "summary": "Los contratos mixtos de Pemex muestran señales de fracaso al no lograr atraer a empresas privadas para desarrollar proyectos estratégicos de la petrolera. El esquema, pensado para atraer inversión y capacidad técnica externa, no está cumpliendo su objetivo.",
-    "link": "https://www.reforma.com/fracasan-en-pemex-contratos-mixtos/ar3245278",
-    "source": "Reforma",
-    "published": "2026-07-23T11:01:08Z",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Google Fined €890 Million by EU Over Search, Play Store Breaches",
-    "summary": "The EU fined Google €890 million ($1 billion) for violating the bloc's Digital Markets Act through anticompetitive practices in Search and the Play Store. The decision has further inflamed tensions between Brussels and the Trump administration over tech regulation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches",
-    "source": "Bloomberg",
-    "published": "2026-07-23T10:01:54Z",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Quién decide qué inteligencia compra su empresa",
-    "summary": "En menos de una semana, tres señales —el modelo Kimi K3 de la china Moonshot AI, el contrato de más de mil millones de dólares de Reflection AI con Nebius, y las pláticas de Anthropic para rentarle infraestructura a Meta— muestran que la IA está dejando de ser un producto único para convertirse en un mercado con múltiples proveedores. El artículo argumenta que las empresas ya no deben preguntarse \"qué modelo usar\", sino construir un portafolio de proveedores de IA, como lo hacen con los bancos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/07/23/quien-decide-que-inteligencia-compra-su-empresa/",
-    "source": "El Financiero",
-    "published": "2026-07-23T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Colombia no logra levantar al sector vivienda: ventas, construcción e iniciaciones continúan a la baja",
-    "summary": "El mercado de vivienda en Colombia mantuvo en el primer semestre de 2026 su tendencia de desaceleración: las ventas cayeron 9.9% interanual (78,423 unidades), con una contracción de 16.5% en el segmento No VIS y 6.6% en VIS, mientras los costos de construcción siguen creciendo por encima de la inflación. Asobancaria reconoce la necesidad de una hoja de ruta sectorial para reimpulsar la demanda.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-no-logra-levantar-al-sector-vivienda-ventas-construccion-e-iniciaciones-siguen-para-atras/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-23T10:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The world's balance-sheet is out of kilter with its economy",
-    "summary": "The Economist examines a global imbalance between the world's aggregate balance-sheet (assets, debt and financial claims) and the size of the underlying economy, warning that restoring balance could prove painful for markets and policymakers alike.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
-    "source": "The Economist",
-    "published": "2026-07-23T09:42:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Centros comerciales se nutren de estrategia selectiva",
-    "summary": "Los centros comerciales en México adoptan una estrategia de crecimiento más selectivo y menos masivo, priorizando la rentabilidad de los espacios sobre la expansión histórica agresiva. El pipeline actual incluye 22 nuevos proyectos, reflejando un replanteamiento del ritmo de crecimiento del sector retail inmobiliario.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/07/23/centros-comerciales-se-nutren-de-estrategia-selectiva/",
-    "source": "El Financiero",
-    "published": "2026-07-23T09:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A brief history of Luddism",
-    "summary": "The Economist traces the history of Luddism, arguing that state policy — not the pace of technological invention itself — ultimately decides how fast new technology gets adopted. The piece frames today's anxieties about AI-driven automation within that longer historical pattern.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism",
-    "source": "The Economist",
-    "published": "2026-07-23T09:09:03Z",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can China dominate AI exports, too?",
-    "summary": "The Economist examines whether China can extend its AI dominance from models to physical AI exports, using the early rollout of robotaxis as a test case for Chinese firms competing globally in autonomous technology.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
-    "source": "The Economist",
-    "published": "2026-07-23T09:03:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can prediction markets win over Wall Street?",
-    "summary": "The Economist asks whether prediction markets can break into mainstream Wall Street trading, noting that clearing regulatory hurdles is only half the challenge facing this emerging asset class.",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
-    "source": "The Economist",
-    "published": "2026-07-23T08:59:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Natural History Museum Abu Dhabi / Mecanoo",
-    "summary": "El concepto del Natural History Museum Abu Dhabi se basa en el encuentro entre el agua y la tierra, entendiendo este límite cambiante como un lugar de origen, movimiento y transformación. En lugar de un objeto arquitectónico aislado, el museo se concibe como un paisaje moldeado por fuerzas naturales, inspirado en las formaciones geológicas y los wadis de la región.",
-    "link": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
-    "source": "ArchDaily",
-    "published": "2026-07-23T07:00:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Cuts AI Gap as Moonshot Shows Zhipu Isn’t One-Off, BI Says",
-    "summary": "Chinese AI models narrowed their performance gap with U.S. counterparts to a record-low 6% in June, down from 9% in May, according to Bloomberg Intelligence. The improvement, driven by labs like Moonshot and Zhipu, raises questions about how long U.S. AI labs can maintain their technological lead.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-cuts-ai-gap-as-moonshot-shows-zhipu-isn-t-one-off-bi-says",
-    "source": "Bloomberg",
-    "published": "2026-07-23T06:19:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Green Lodge / Stylus Architects",
-    "summary": "Green Lodge nació de una sola instrucción de un cliente contratista: \"haz lo que quieras, pero rápido\". El resultado es una casa al borde de Putney Heath, en el suroeste de Londres, que se hunde en el terreno en lugar de elevarse sobre él, manteniendo una presencia exterior discreta mientras despliega un amplio hogar familiar bajo la superficie.",
-    "link": "https://www.archdaily.com/1148866/green-lodge-stylus-architects",
-    "source": "ArchDaily",
-    "published": "2026-07-23T06:00:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dallas Evaluates Repair and Demolition Options for I.M. Pei's Modernist City Hall",
-    "summary": "Dallas is weighing whether to repair, sell, or demolish I.M. Pei's 47-year-old modernist City Hall after years of deferred maintenance and growing renovation costs. Preservationists are pushing for a full study of repair and landmarking options, while the council also explores relocating city operations altogether.",
-    "link": "https://www.archdaily.com/1036025/dallas-evaluates-repair-and-demolition-options-for-im-peis-modernist-city-hall",
-    "source": "ArchDaily",
-    "published": "2026-07-23T05:30:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 66,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "De Toks a Petco: Las marcas que opera Grupo Gigante, el posible comprador de La Casa de Toño",
-    "summary": "La cadena La Casa de Toño analiza una posible venta que podría superar los 400 millones de dólares, con Grupo Gigante —dueño de Toks, Petco y Office Depot en México— entre los principales interesados, aunque también hay otros consorcios mexicanos en la mesa. La empresa contrató a BBVA México como asesor financiero exclusivo para explorar la operación, que busca impulsar su expansión en Estados Unidos y Latinoamérica.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/23/de-toks-a-petco-las-marcas-que-opera-grupo-gigante-el-posible-comprador-de-la-casa-de-tono/",
-    "source": "El Financiero",
-    "published": "2026-07-23T04:19:40Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Is Trump winning the tariff wars?",
-    "summary": "The Financial Times tallies the scorecard on Trump's tariff wars, weighing the economic costs and negotiating wins as trading partners — including Mexico via the T-MEC review — face fresh tariff threats. The piece assesses whether the strategy is delivering the leverage the administration claims.",
-    "link": "https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-23T04:00:12Z",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "South of Everything: Architecture and Territorial Presence in Antarctica",
-    "summary": "This piece explores how nearly thirty countries operate more than seventy research stations across officially ownerless Antarctica, some clustered within short flights of one another. One station even has a school, chapel, cemetery, and civil registry that has recorded eleven births since 1978.",
-    "link": "https://www.archdaily.com/1092554/south-of-everything-architecture-and-territorial-presence-in-antarctica",
-    "source": "ArchDaily",
-    "published": "2026-07-23T04:00:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "JA House / Ayoub Architects",
-    "summary": "Ayoub Architects' JA House in southern Amman overlooks one of the city's largest public parks, using a green terraced platform that extends the landscape into the architecture. The design preserves the site's oak trees while embedding the main living spaces into its steep topography.",
-    "link": "https://www.archdaily.com/1181368/ja-house-ayoub-architects",
-    "source": "ArchDaily",
-    "published": "2026-07-23T02:00:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-    "summary": "La desaceleración económica en México está alcanzando a los emprendimientos del país, que muestran un menor apetito por financiamiento, según reportó Expansión.",
-    "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-    "source": "Expansión",
-    "published": "2026-07-23T01:27:46+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
   }
 ]
