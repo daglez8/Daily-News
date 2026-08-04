@@ -1,5 +1,148 @@
 [
   {
+    "title": "World Bank Urges Emerging Nations to Embrace AI Amid Weak Growth",
+    "summary": "The World Bank is urging developing economies to move quickly to adopt artificial intelligence across governments and businesses. It called on countries to adapt existing AI tools to local needs rather than build proprietary systems from scratch, framing AI adoption as a lever against weak global growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/world-bank-urges-emerging-nations-to-embrace-ai-amid-weak-growth",
+    "source": "Bloomberg",
+    "published": "2026-08-04T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
+    "summary": "Anthropic has struck a $10 billion deal for computing capacity with a months-old cloud infrastructure startup, according to people familiar with the matter. The deal underscores how aggressively the Claude maker is moving to secure compute to keep pace with surging demand for its AI products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+    "source": "Bloomberg",
+    "published": "2026-08-04T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave to Enter Asian Market With Indonesian Data Centers",
+    "summary": "AI cloud provider CoreWeave is entering the Asian market with its first data centers, located in Indonesia. The expansion targets a fast-growing region increasingly hungry for AI computing capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/coreweave-to-enter-asian-market-with-indonesian-data-centers",
+    "source": "Bloomberg",
+    "published": "2026-08-04T11:30:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
+    "summary": "AI cloud startup Volta Infra Holdings raised $300 million in venture funding and secured an additional $5 billion in financing, valuing the company at $2.4 billion. The round, co-led by Andreessen Horowitz and Altimeter Capital with participation from Nvidia and Michael Dell, aims to widen access to costly AI chips.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-08-04T11:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI hits back at Apple over 'oddly personal' trade secrets fight",
+    "summary": "A trade-secrets legal dispute between OpenAI and Apple has escalated, with OpenAI pushing back after their AI-device partnership soured into acrimony. The clash marks a deepening rift between two of the industry's most closely watched AI players.",
+    "link": "https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-04T10:31:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Finally Gets into the Chatbot Race with Siri AI",
+    "summary": "Apple is finally entering the AI chatbot race with a revamped, AI-powered Siri. Because Siri comes pre-installed on hundreds of millions of devices, it could become one of the world's most widely used AI assistants almost overnight.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/apple-finally-gets-into-the-chatbot-race-with-siri-ai",
+    "source": "Bloomberg",
+    "published": "2026-08-04T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Reforma al seguro de gastos médicos",
+    "summary": "Se presentó en México una iniciativa de reforma al mercado de seguros de gastos médicos mayores, orientada a mayor transparencia en la contratación, regulación de las prácticas entre aseguradoras y prestadores, y fortalecimiento de las facultades de supervisión de las autoridades financieras. El debate cobra relevancia ante una inflación médica de entre 12% y 16% anual, muy por encima de la inflación general, que presiona primas y costos hospitalarios.",
+    "link": "https://www.elfinanciero.com.mx/opinion/imef/2026/08/04/reforma-al-seguro-de-gastos-medicos/",
+    "source": "El Financiero",
+    "published": "2026-08-04T10:20:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ex-Nubank Executives Launch AI Wealth Adviser in Brazil",
+    "summary": "Two former Nubank executives have launched an AI-powered wealth-advisory startup in Brazil, betting on consumers' fast adoption of digital-finance innovations like the Pix payment system. The venture aims to bring AI-driven financial advice to a market already primed for digital banking.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil",
+    "source": "Bloomberg",
+    "published": "2026-08-04T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sube previsión de crecimiento económico en México a 1.2 por ciento para 2026",
+    "summary": "La Encuesta de Banxico sobre Expectativas de los Especialistas mostró que los analistas del sector privado elevaron su previsión de crecimiento del PIB de México para 2026 a 1.20%, desde 1.10% en las dos encuestas previas, el primer repunte desde febrero. Pese a la mejora, persisten riesgos de que en algún trimestre próximo se observe una contracción respecto al periodo anterior.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/sube-prevision-de-crecimiento-economico-en-mexico-a-12-por-ciento-para-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-04T09:40:41+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Power Demands Spur Builders to Seek Billions in Bank Pledges",
+    "summary": "US power utilities, already strained by AI data-center demand, face a growing risk that developers could walk away from projects and leave households on the hook for massive infrastructure bills. Builders are now seeking billions of dollars in bank pledges to backstop the buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges",
+    "source": "Bloomberg",
+    "published": "2026-08-04T09:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock Overweight AI Despite Higher Risks, Li Says",
+    "summary": "BlackRock's global chief investment strategist Wei Li said the firm remains overweight AI stocks despite rising risks of commoditization and capital-capacity strain. The firm hasn't added to its AI conviction recently, she said, but it also hasn't pulled back.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/blackrock-overweight-ai-despite-higher-risks-li-says-video",
+    "source": "Bloomberg",
+    "published": "2026-08-04T09:20:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La competitividad de México también viaja por carretera",
+    "summary": "Una columna de opinión sostiene que la competitividad de México depende tanto de la logística de transporte como de la producción industrial, y que la renovación de flotas no debería tratarse como un tema sectorial menor. Destaca que el transporte concentra 35% de la cartera de los asociados de la AMSOFAC, consolidándose como el principal destino del financiamiento especializado y el segmento de mayor crecimiento.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/04/la-competitividad-de-mexico-tambien-viaja-por-carretera/",
+    "source": "El Financiero",
+    "published": "2026-08-04T09:15:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Abogados 2.0: Transformación en la era digital",
+    "summary": "Una columna de opinión analiza cómo la IA ya opera como herramienta cotidiana en operaciones de M&A y estructuración de financiamientos, generando cláusulas y análisis de riesgo regulatorio que antes tomaban semanas. Cita datos de Harvard Law School sobre despachos que recortan a la mitad sus programas de pasantías y equipos internos que resuelven el 80% de sus asuntos con IA antes de acudir a asesoría externa.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/08/04/abogados-20-transformacion-en-la-era-digital/",
+    "source": "El Financiero",
+    "published": "2026-08-04T08:41:25+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Los países de Latinoamérica con mayor morosidad bancaria: Argentina encabeza la lista",
     "summary": "Argentina lidera la morosidad bancaria en América Latina con una cartera irregular de 7.6%, según un informe de la consultora 1816 basado en datos del Banco Mundial. Nicaragua se ubica en el otro extremo, con apenas 1% de cartera irregular, en un análisis que abarca 98 países.",
     "link": "https://www.bloomberglinea.com/latinoamerica/los-paises-de-latinoamerica-con-mayor-morosidad-bancaria-argentina-encabeza-la-lista/",
@@ -5354,149 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 70,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Khosla Ventures in Talks to Raise $5.5 Billion in New Funds",
-    "summary": "Khosla Ventures, an early OpenAI backer, is discussing raising as much as $5.5 billion for its latest venture funds, according to people familiar with the matter. The haul would mark the firm's largest fundraising event in its two-decade history.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds",
-    "source": "Bloomberg",
-    "published": "2026-07-23T01:10:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Models Spent Hours on Hack That Usually Takes Weeks",
-    "summary": "OpenAI's advanced AI models breached AI startup Hugging Face's internal systems last week, completing in mere hours a hack that would typically take a skilled human far longer, according to people familiar with the matter. The incident underscores mounting concerns about AI models being used for offensive cybersecurity operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected",
-    "source": "Bloomberg",
-    "published": "2026-07-23T00:32:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cuánto cuesta mantener una casa al año en México? Los 7 pagos que se comen tu dinero",
-    "summary": "Expansión repasa los siete pagos recurrentes —como predial, mantenimiento y seguros— que conforman el verdadero costo anual de ser propietario de una vivienda en México.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/22/cuanto-cuesta-mantener-una-casa-al-ano-en-mexico",
-    "source": "Expansión",
-    "published": "2026-07-22T23:46:41+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 66,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Uber Cuts 10% of Customer Service Jobs to ‘Embrace’ AI",
-    "summary": "Uber said it has cut 10% of jobs within its customer service operations as part of a broader effort to simplify its ranks and “embrace artificial intelligence.” The move adds to a growing list of companies citing AI adoption as a driver of headcount reductions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai",
-    "source": "Bloomberg",
-    "published": "2026-07-22T23:40:53+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bait alcanza la rentabilidad para Walmart con ingresos de 3,800 mdp, pese a un menor ritmo de suscripciones",
-    "summary": "La fintech Bait, de Walmart México, alcanzó la rentabilidad con ingresos de 3,800 millones de pesos, aunque su ritmo de crecimiento en suscripciones se desaceleró, según reportó Expansión.",
-    "link": "https://expansion.mx/empresas/2026/07/22/bait-tiene-menos-usuarios-pero-genera-rentabilidad-walmart",
-    "source": "Expansión",
-    "published": "2026-07-22T23:29:23+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-    "summary": "Banorte superó a Inbursa en el mercado de crédito automotriz en México, de acuerdo con un reporte de Expansión sobre la disputa entre ambas instituciones financieras por este segmento.",
-    "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-    "source": "Expansión",
-    "published": "2026-07-22T23:28:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Absorción de naves industriales aumenta 125% en Monterrey",
-    "summary": "La absorción bruta de naves industriales en Monterrey se disparó 125% trimestral en el segundo trimestre de 2026, alcanzando 295,000 m², según un reporte de CBRE. La manufactura diversa concentró 78% de la demanda, con empresas de EU, Dinamarca y Alemania liderando la ocupación, en un mercado que sigue reflejando el impulso del nearshoring en el noreste de México.",
-    "link": "https://www.eleconomista.com.mx/estados/absorcion-naves-industriales-aumenta-125-monterrey-20260722-824627.html",
-    "source": "El Economista",
-    "published": "2026-07-22T23:16:07-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why the US is losing Chinese AI stars",
-    "summary": "The Financial Times reports that more Chinese AI entrepreneurs now see greater opportunity at home than in Silicon Valley, signaling a shift in where AI talent chooses to build. The trend raises questions about the durability of the US's edge in the global AI race.",
-    "link": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-22T23:01:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 67,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inversiones de Grupo México en Argentina y Brasil dependen de regulaciones y precios",
-    "summary": "Grupo México, el conglomerado industrial del empresario Germán Larrea, señaló que sus posibles inversiones en el sector ferroviario de Argentina y Brasil dependerán de las regulaciones y los precios en cada mercado. Su director de Transportes indicó que ambos mercados son lo suficientemente atractivos como para igualar o superar el tamaño del mercado mexicano en el que opera actualmente la compañía.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/inversiones-de-grupo-mexico-en-argentina-y-brasil-dependen-de-regulaciones-y-precios/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-22T21:53:54Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué pasa si nunca eliges una Afore? Esto ocurre con tu ahorro para el retiro y quién administrará tu cuenta",
-    "summary": "Expansión explica qué sucede con el ahorro para el retiro de los trabajadores mexicanos que nunca eligen una Afore y quién termina administrando su cuenta por defecto.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/22/que-pasa-si-nunca-eliges-afore",
-    "source": "Expansión",
-    "published": "2026-07-22T21:27:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
-    "summary": "Alphabet raised its capital spending forecast to as much as $205 billion this year, reigniting investor concerns about fiscal discipline in the race to dominate artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
-    "source": "Bloomberg",
-    "published": "2026-07-22T20:10:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Addi logra financiación por US$630 millones con JPMorgan, Goldman Sachs, BBVA y otros bancos",
-    "summary": "La fintech colombiana Addi cerró operaciones de financiamiento por más de US$630 millones con el respaldo de JPMorgan, Goldman Sachs, BBVA y otras instituciones internacionales. Destaca una línea de crédito de US$150 millones liderada por JPMorgan, la primera estructura tipo warehouse que el banco ejecuta para una empresa colombiana, un precedente que podría facilitar financiamiento similar para otras fintechs de la región.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/addi-logra-financiacion-por-us630-millones-con-jpmorgan-goldman-sachs-bbva-y-otros-bancos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-22T19:00:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Financial Services Sector Seen as Focus for Activist Campaigns",
-    "summary": "Financial services companies are increasingly attracting activist investors who view them as generators of cash that could be returned to shareholders, according to Paul Weiss partner Carmen Lu. The sector is emerging as a key focus for activist campaigns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/financial-services-sector-seen-as-focus-for-activist-campaigns",
-    "source": "Bloomberg",
-    "published": "2026-07-22T18:49:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
     "light": true
   }
 ]
