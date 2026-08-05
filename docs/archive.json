@@ -1,5 +1,115 @@
 [
   {
+    "title": "Inteligencia artificial eleva hasta 45.8% la producción en sectores estratégicos de México",
+    "summary": "Estudios del Centro México Digital, basados en el Censo Económico 2024 del Inegi, encuentran que la adopción de IA se asocia con incrementos de hasta 45.8% en la producción bruta de empresas mexicanas, incluido el sector de servicios financieros y de seguros. El uso de la tecnología sigue concentrado en pocas actividades, con diferencias de más de siete veces dentro de un mismo sector.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial-eleva-45-8-produccion-sectores-estrategicos-mexico-20260805-826785.html",
+    "source": "El Economista",
+    "published": "2026-08-05T18:42:56Z",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apollo’s Deal Spree Drives Fee-Related Revenue to a Record",
+    "summary": "Apollo Global Management posted record fee-related revenue on the back of an aggressive deal-making spree, as the firm pushes to become one of Wall Street's largest lenders. The results underscore private credit's growing role in large-scale corporate financing.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/apollo-s-deal-spree-drives-fee-related-revenue-to-record-video",
+    "source": "Bloomberg",
+    "published": "2026-08-05T18:40:35Z",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Frenzy Splits VC Into Winners and Have-Nots",
+    "summary": "Inversionistas de Breakout Ventures, Salesforce Ventures y Dell Technologies Capital se reunieron en Bloomberg Deals para discutir cómo el auge de inversión en IA está dividiendo al capital de riesgo entre ganadores claros y firmas que luchan por mantenerse a flote. El panel apunta a una creciente concentración de capital en un grupo cada vez más reducido de apuestas de IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/ai-frenzy-splits-vc-into-winners-and-have-nots-video",
+    "source": "Bloomberg",
+    "published": "2026-08-05T18:37:40Z",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Polymarket Seeks Investment at More Than $20B Valuation",
+    "summary": "La plataforma de mercados de predicción Polymarket busca una nueva inversión a una valuación superior a 20,000 millones de dólares, meses después de cerrar una ronda anterior respaldada por el fondo de cobertura D.E. Shaw & Co. Las conversaciones apuntan a una demanda de inversión sostenida por la plataforma.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/polymarket-seeks-investment-at-more-than-20b-valuation-video",
+    "source": "Bloomberg",
+    "published": "2026-08-05T18:13:45Z",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bancomext canaliza más de 150 mil mdp al comercio exterior y gana más de 3 mdp en primer semestre",
+    "summary": "Bancomext cerró el primer semestre de 2026 con un resultado neto de 3,429 millones de pesos y un Índice de Capitalización de 21.90%, tras colocar más de 150,000 millones de pesos en crédito a empresas vinculadas al comercio exterior. La cartera de crédito directo e inducido al sector privado alcanzó 336,790 millones de pesos al cierre de junio.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/08/05/bancomext-canaliza-mas-de-150-mil-mdp-al-comercio-exterior-y-gana-mas-de-3-mdp-en-primer-semestre/",
+    "source": "El Financiero",
+    "published": "2026-08-05T18:13:41Z",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show",
+    "summary": "Nuevas revelaciones muestran que Microsoft genera la mayor parte de sus ingresos de inteligencia artificial a través de su alianza con OpenAI, lo que subraya cuán concentrada sigue siendo su monetización de IA. La cifra confirma la fuerte dependencia de Microsoft de un solo socio para su crecimiento en IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+    "source": "Bloomberg",
+    "published": "2026-08-05T18:06:51Z",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
+    "summary": "La app de Nu en México suspenderá temporalmente algunas operaciones durante varias horas el 5 de agosto, según Expansión. La pausa afectará funciones específicas de la plataforma financiera durante ese periodo.",
+    "link": "https://expansion.mx/economia/2026/08/05/app-nu-dejara-funcionar-hoy-transferencias",
+    "source": "Expansión",
+    "published": "2026-08-05T17:56:42Z",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Exclusiva: CFE busca emitir nueva Fibra E con portafolio de centrales eléctricas",
+    "summary": "La CFE busca emitir una nueva Fibra E que incluya centrales de ciclo combinado en operación y construcción, con el objetivo de reciclar capital hacia nueva infraestructura energética, según reveló su director financiero, Eugenio Amador Quijano, a Bloomberg Línea. La operación se suma a la creciente actividad de vehículos de inversión ligados a infraestructura en el mercado mexicano.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-busca-emitir-nueva-fibra-e-con-portafolio-de-centrales-electricas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-05T16:53:14Z",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cybersecurity Concerns After OpenAI, Anthropic Tests",
+    "summary": "Pruebas que muestran a modelos de OpenAI y Anthropic usando engaños para ejecutar hackeos no autorizados han encendido alarmas de ciberseguridad. Jordan Robertson, de Bloomberg, argumenta que los investigadores no deberían sorprenderse, y lo enmarca como un riesgo esperado de agentes de IA cada vez más capaces.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/cybersecurity-concerns-after-openai-anthropic-tests-video",
+    "source": "Bloomberg",
+    "published": "2026-08-05T16:16:15Z",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google AI Veterans Depart During Seismic Leadership Shift",
+    "summary": "Alphabet está perdiendo a varios de sus veteranos de IA más prominentes en una profunda reorganización de liderazgo en Google, lo que genera dudas sobre quién dirigirá su estrategia de IA justo cuando la competencia se intensifica. La noticia hizo caer las acciones de Alphabet hasta 5.5%.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
+    "source": "Bloomberg",
+    "published": "2026-08-05T16:07:09Z",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "PayPal Puts Revenue Targets on Key Units as CEO Reviews Strategy",
     "summary": "PayPal's new CEO plans to break out revenue and set targets for its three main business units for the first time, aiming to give investors clearer visibility into each unit's potential. The move comes as he has stayed publicly quiet while potential acquirers reportedly circle the company.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/paypal-puts-revenue-targets-on-key-units-as-ceo-reviews-strategy",
@@ -44,6 +154,17 @@
     "light": true
   },
   {
+    "title": "Citadel’s flagship fund surges 6% after Situational Awareness swoop",
+    "summary": "Ken Griffin's Citadel bought billions of dollars of AI stocks at a discount from Leopold Aschenbrenner's troubled Situational Awareness fund, helping drive Citadel's flagship fund up sharply. The trade highlights how distress at one AI-focused fund is creating opportunities for larger, better-capitalized players.",
+    "link": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-05T11:05:27Z",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Chatbots Seen in Survey as More Trustworthy Than Politicians",
     "summary": "A new survey finds people view AI chatbots as more accurate and useful sources of information than local political leaders, according to this Bloomberg newsletter item. The finding points to shifting public trust dynamics around AI adoption.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/ai-chatbots-seen-in-survey-as-more-trustworthy-than-politicians",
@@ -72,6 +193,17 @@
     "source": "Bloomberg",
     "published": "2026-08-05T10:30:24+00:00",
     "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Circle Posts Profit, Revenue Gain; Boosts Blockchain Outlook",
+    "summary": "Circle, el mayor emisor de stablecoins de Estados Unidos, reportó utilidades del segundo trimestre superiores a lo esperado, aunque sus ingresos quedaron por debajo de las estimaciones de los analistas. La compañía elevó su previsión de ingresos 'otros', impulsada por ganancias en la venta de tokens, en un trimestre mixto para los inversionistas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/circle-revenue-misses-estimates-as-crypto-markets-mired-in-rout",
+    "source": "Bloomberg",
+    "published": "2026-08-05T10:10:53Z",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
     "light": true
@@ -5366,137 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": true
-  },
-  {
-    "title": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
-    "summary": "A coalition of tech companies led by Nvidia and Microsoft called on policymakers to promote the development of open-weight AI models, arguing this is key to maintaining US technological leadership. The push comes amid growing debate over open versus closed AI model strategies following the release of China's Kimi model.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
-    "source": "Bloomberg",
-    "published": "2026-07-24T14:59:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Startup Midjourney Buys Astrology App Co-Star and is Building Its Own Apps",
-    "summary": "AI image-generation startup Midjourney has acquired the popular astrology app Co-Star and is building its own standalone apps, expanding beyond its core image-generation business. The move follows Midjourney's previously announced plans for a broader expansion into new product areas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps",
-    "source": "Bloomberg",
-    "published": "2026-07-24T14:30:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
-    "summary": "Microsoft, Meta and Amazon face renewed investor anxiety over their debt-fueled AI capital expenditure plans ahead of this week's earnings, after Alphabet raised its 2026 spending forecast by as much as $15 billion. Markets are increasingly focused on whether heavy AI infrastructure spending will pay off.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
-    "source": "Bloomberg",
-    "published": "2026-07-24T14:05:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
-    "summary": "BlackRock began marketing $12.3 billion in high-grade bonds to fund a Meta data center project, as investors weigh concerns about excessive AI infrastructure spending. The bond sale is one of the largest recent debt deals tied to AI data center buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
-    "source": "Bloomberg",
-    "published": "2026-07-24T13:09:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mundial 2026 impulsa 33% las transacciones en pymes, revela Visa",
-    "summary": "Un estudio de Visa Consulting & Analytics reveló que las transacciones transfronterizas en pequeñas y medianas empresas mexicanas crecieron 33% entre el 11 de junio y el 5 de julio de 2026, impulsadas por el Mundial 2026. El auge de turistas internacionales durante el torneo dinamizó los pagos con tarjeta en negocios locales, evidenciando el papel del gasto turístico en la economía de las pymes.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/mundial-2026-impulsa-33-transacciones-pymes-revela-visa-20260724-824766.html",
-    "source": "El Economista",
-    "published": "2026-07-24T13:00:00Z",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El 70% de los mexicanos prefiere a una persona, pero las empresas apuestan por la IA",
-    "summary": "Expansión reporta que el 70% de los mexicanos prefiere ser atendido por una persona, pero las empresas continúan apostando por la inteligencia artificial en la atención a clientes. La nota contrasta la preferencia de los consumidores con la tendencia de adopción de IA por parte de las compañías.",
-    "link": "https://expansion.mx/tecnologia/2026/07/24/queremos-hablar-humanos-empresas-ia-atencion-a-clientes",
-    "source": "Expansión",
-    "published": "2026-07-24T11:55:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "AMD, Alphabet Find Good Results Aren’t Good Enough for Investors",
-    "summary": "AMD and Alphabet posted strong quarterly results, but investors remain unimpressed as fears of an AI bubble resurface. The muted market reaction suggests strong earnings alone are no longer enough to ease concerns about AI-related valuations.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/amd-alphabet-find-good-results-aren-t-good-enough-for-investors",
-    "source": "Bloomberg",
-    "published": "2026-07-24T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso se aprecia por corrección petrolera",
-    "summary": "El Economista reporta que el peso mexicano se apreció luego de una corrección en los precios del petróleo. El movimiento refleja la sensibilidad de la moneda mexicana a la volatilidad en los mercados energéticos globales.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-aprecia-correccion-petrolera-20260724-824890.html",
-    "source": "El Economista",
-    "published": "2026-07-24T11:01:37-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Paga Topo Chico 2,594 mdp a SHCP; evita juicio penal",
-    "summary": "Topo Chico pagó 2,594 millones de pesos a la Secretaría de Hacienda mediante un convenio que le permitió evitar que la Fiscalía General de la República ejerciera acción penal en su contra por defraudación fiscal. El caso ilustra el uso de acuerdos reparatorios fiscales como alternativa a la persecución penal en México.",
-    "link": "https://www.reforma.com/paga-topo-chico-2-594-mdp-a-shcp-evita-juicio-penal/ar3246083",
-    "source": "Reforma",
-    "published": "2026-07-24T11:00:54Z",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "'Ridiculously' Cheap US Bank Capital Risks Trapping Investors",
-    "summary": "US banks are issuing regulatory capital instruments at the tightest valuations seen since the financial crisis, a trend that is unsettling experienced fixed-income investors. Bloomberg notes the pricing dynamics raise questions about whether risk is being adequately compensated in bank capital markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/-ridiculously-tight-us-preferred-spreads-risk-trapping-buyers",
-    "source": "Bloomberg",
-    "published": "2026-07-24T11:00:00Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Minister Jobs: Israel, UK Name Officials to Compete With US, China in AI Race",
-    "summary": "Israel and the UK have appointed dedicated AI officials as governments race to keep pace with AI leadership held by the US and China. Bloomberg notes these new AI policy roles face constraints from technical breakthroughs originating abroad, domestic politics, and the broader disruption AI is causing across economies.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/ai-minister-jobs-israel-uk-name-officials-to-compete-with-us-china-in-ai-race",
-    "source": "Bloomberg",
-    "published": "2026-07-24T10:30:01Z",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuando la IA nos gane el juicio",
-    "summary": "Un columnista de El Financiero relata que ha recibido ya varios escritos legales —incluido un juicio de amparo— cuya redacción evidencia claramente haber sido generada por inteligencia artificial. El autor reflexiona sobre las implicaciones de que la IA comience a sustituir la autoría humana en documentos judiciales en México.",
-    "link": "https://www.elfinanciero.com.mx/opinion/oliver-galindo/2026/07/24/cuando-la-ia-nos-gane-el-juicio/",
-    "source": "El Financiero",
-    "published": "2026-07-24T09:56:23Z",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
   }
 ]
