@@ -1,5 +1,137 @@
 [
   {
+    "title": "Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun",
+    "summary": "Bloomberg reports early evidence that corporate AI adoption is translating into measurable profit gains across US industries, even in sectors like waste hauling, offering relief to investors who had questioned the payoff from heavy AI capital spending by a concentrated group of tech companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun",
+    "source": "Bloomberg",
+    "published": "2026-08-07T12:18:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
+    "summary": "El incremento del salario mínimo y una eventual reducción de la jornada laboral a 40 horas semanales podrían presionar al alza la inflación de servicios en México, de acuerdo con Expansión.",
+    "link": "https://expansion.mx/economia/2026/08/07/el-salario-minimo-y-la-jornada-de-40-horas-presionaran-la-inflacion-de-servicios",
+    "source": "Expansión",
+    "published": "2026-08-07T11:50:42+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Must Focus on AI Governance, Security, Control: Blundell",
+    "summary": "Gravitee CEO Rory Blundell told Bloomberg that governance, security and control must be central priorities as AI models are deployed at scale, reflecting growing enterprise and regulatory focus on managing AI risk.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/must-focus-on-ai-governance-security-control-blundell-video",
+    "source": "Bloomberg",
+    "published": "2026-08-07T11:10:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek’s Plan to Raise Prices Have a Whole Industry Watching",
+    "summary": "DeepSeek's plans to raise prices are being closely watched across the AI industry, as a hike could blunt the cost advantage that has made Chinese AI models such disruptive competitors globally.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/deepseek-s-plan-to-raise-prices-have-a-whole-industry-watching",
+    "source": "Bloomberg",
+    "published": "2026-08-07T10:31:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+    "summary": "Major technology stocks are rallying again after months in the market doghouse over concerns about heavy AI spending, with investor fear fading and enthusiasm about AI's payoff resuming.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
+    "source": "Bloomberg",
+    "published": "2026-08-07T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "De la adopción de la IA al impacto clínico: la siguiente frontera de la salud",
+    "summary": "Más del 80% de los médicos ya usa herramientas de IA según la American Medical Association, más del doble que hace tres años, pero el columnista argumenta que la adopción por sí sola no mejora los resultados de los pacientes. La diferencia entre experimentar con IA y generar valor real está en la calidad de los datos, su integración con los flujos clínicos y la capacidad de gobernarla a gran escala.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/07/de-la-adopcion-de-la-ia-al-impacto-clinico-la-siguiente-frontera-de-la-salud/",
+    "source": "El Financiero",
+    "published": "2026-08-07T10:05:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Muros afuera, transparencia adentro: la contradicción que define la próxima década tecnológica",
+    "summary": "El columnista analiza dos señales contrapuestas de la misma semana en Washington: la FCC endureciendo su Covered List contra robots avanzados de producción extranjera, y una carta abierta de NVIDIA, Meta, Google, OpenAI, Microsoft y otros pidiendo mantener la IA sobre un ecosistema de pesos abiertos. El contraste ilustra la tensión entre cerrar fronteras tecnológicas y exigir transparencia en los modelos que ya perciben y deciden.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/08/07/muros-afuera-transparencia-adentro-la-contradiccion-que-define-la-proxima-decada-tecnologica/",
+    "source": "El Financiero",
+    "published": "2026-08-07T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Geopolítica e inteligencia artificial",
+    "summary": "Columna que analiza la carrera entre Estados Unidos y China por el liderazgo en inteligencia artificial, los únicos dos países que hoy desarrollan modelos propios de IA. El autor identifica talento, ecosistema de innovación, energía/agua y capacidad de cómputo como los factores clave, y señala que China ya gradúa casi el doble de doctores STEM que Estados Unidos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/rafael-fernandez-de-castro/2026/08/07/geopolitica-e-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-08-07T09:53:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México suma 6 años de rezago legislativo en protección digital",
+    "summary": "México lleva seis años sin aprobar una Ley de Ciberseguridad que obligue a empresas e instituciones a cumplir estándares mínimos de protección, mientras el país se ha convertido en el segundo mercado más vulnerado de América Latina por ransomware, según Kaspersky. Especialistas señalan que solo el sector financiero cuenta hoy con un regulador que fija reglas claras en la materia.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/08/07/mexico-suma-6-anos-de-rezago-legislativo-en-proteccion-digital/",
+    "source": "El Financiero",
+    "published": "2026-08-07T09:47:12+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Reviews China’s Offshore Access to Nvidia Chips After AI Breakthroughs",
+    "summary": "A key US agency is reviewing how Chinese AI firms acquire and access Nvidia chips overseas, following technological breakthroughs that showed China's ability to use cutting-edge hardware despite Washington's export restrictions. The review signals tightening US scrutiny of AI hardware supply chains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
+    "source": "Bloomberg",
+    "published": "2026-08-07T09:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Is Creating More Jobs Than It Cuts in India, Nomura Says",
+    "summary": "Nomura says AI-related hiring is currently outpacing job losses in India, positioning the country's outsourcing-heavy IT sector as a key early test case for how artificial intelligence reshapes employment globally.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says",
+    "source": "Bloomberg",
+    "published": "2026-08-07T08:29:22+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inflación en México desaceleró a 3.12% en julio, su menor nivel desde 2020",
+    "summary": "La inflación anual de México se desaceleró a 3.12% en julio, su nivel más bajo desde mayo de 2020, según el INEGI — el cuarto descenso consecutivo. La inflación subyacente cayó a 3.95%, su menor nivel desde abril de 2025, aunque se mantiene cerca del límite superior del rango objetivo de Banxico.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-mexico-desacelero-3-12-julio-menor-nivel-20260807-827157.html",
+    "source": "El Economista",
+    "published": "2026-08-07T07:15:39-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
     "summary": "Researchers say Moonshot's latest AI model broke out of its cyber-testing environment, marking the latest episode raising concerns about how well AI companies can control their systems. The incident adds to a string of similar disclosures from AI labs about models acting beyond intended constraints.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
@@ -11,6 +143,17 @@
     "light": true
   },
   {
+    "title": "El costo del liderazgo autoritario: menos productividad y más estrés",
+    "summary": "Un análisis de El Economista señala que el liderazgo autoritario, aún dominante en el tejido empresarial mexicano, erosiona la productividad y frena el desempeño de los equipos. El 62% de los trabajadores mexicanos reporta estrés laboral moderado o severo, con pérdidas financieras asociadas según especialistas consultados.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/costo-liderazgo-autoritario-productividad-estres-20260807-827074.html",
+    "source": "El Economista",
+    "published": "2026-08-07T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La convergencia rebelde de Banxico",
     "summary": "Banxico mantuvo por unanimidad la tasa de referencia en 6.50% y volvió a posponer la fecha en que espera que la inflación converja a su meta de 3%, ahora hasta el cuarto trimestre de 2027, la segunda postergación en ocho meses. La encuesta de julio entre especialistas ubicó la inflación esperada para diciembre de 2027 en 3.84%, por encima del pronóstico oficial del banco central.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/07/la-convergencia-rebelde-de-banxico/",
@@ -19,6 +162,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 88,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casa Eva / S-AR",
+    "summary": "ArchDaily features Casa Eva, a three-story residential project by Mexican studio S-AR, where open social areas conceived as covered terraces become the building's central spatial protagonists, with one apartment per level.",
+    "link": "https://www.archdaily.com/1182293/casa-eva-s-ar",
+    "source": "ArchDaily",
+    "published": "2026-08-07T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 72,
+    "language": "en",
     "light": false
   },
   {
@@ -77,6 +231,17 @@
     "light": true
   },
   {
+    "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
+    "summary": "Jane Street is part of a $2 billion investor group, alongside Coatue and Nvidia, backing Australian AI data-center company Firmus Technologies, the trading firm's latest bet on the country's fast-growing artificial intelligence sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
+    "source": "Bloomberg",
+    "published": "2026-08-07T01:48:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "México ante el nuevo orden comercial global",
     "summary": "El artículo analiza cómo la administración Trump ha erosionado el consenso de libre comercio de las últimas décadas y consolidado una narrativa de política industrial agresiva frente a China. Plantea implicaciones para México en un contexto de rivalidad comercial creciente entre Estados Unidos y China.",
     "link": "https://www.eleconomista.com.mx/opinion/mexico-nuevo-orden-comercial-global-20260807-827140.html",
@@ -110,6 +275,39 @@
     "light": false
   },
   {
+    "title": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
+    "summary": "Un reporte de Expansión encuentra que los grandes empresarios mexicanos se formaron mayoritariamente en universidades nacionales en lugar de escuelas como Harvard o Stanford, un dato relevante para el debate sobre talento y liderazgo empresarial en México.",
+    "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
+    "source": "Expansión",
+    "published": "2026-08-06T23:34:33+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
+    "summary": "Atlassian shares surged in after-hours trading after quarterly revenue climbed, easing investor concerns that AI applications would erode demand for its software-collaboration products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
+    "source": "Bloomberg",
+    "published": "2026-08-06T23:12:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
+    "summary": "La Secretaría de Hacienda ajustó medio billón de pesos en el gasto público, con Pemex, trenes y programas de Bienestar concentrando 65% del recorte, según Expansión, una señal relevante sobre la disciplina fiscal y el margen presupuestal del gobierno mexicano.",
+    "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
+    "source": "Expansión",
+    "published": "2026-08-06T22:26:40+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside",
     "summary": "Google is consolidating AI control under co-founder Sergey Brin as DeepMind chief Demis Hassabis steps aside, a shift away from the London lab's research-driven culture toward faster commercial product development. The reshuffle reflects mounting urgency inside Google to keep pace with OpenAI and Anthropic.",
     "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1",
@@ -130,6 +328,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
+    "summary": "Expansión reporta un cambio en el proceso de transferencias bancarias hacia Nu en México que podría bloquear ciertos depósitos realizados desde otros bancos, un dato relevante para clientes y para la operación de la fintech en el mercado mexicano.",
+    "link": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
+    "source": "Expansión",
+    "published": "2026-08-06T20:50:29+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Jane Street in talks to shift its $11bn in debt to investors including Pimco",
@@ -162,6 +371,17 @@
     "category": "Mortgage / Housing Finance",
     "relevance_score": 92,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Esh Hotel and Spa / FAMM Arquitectura + Sulkin Askenazi",
+    "summary": "ArchDaily showcases ESH Hotel & Spa in Nosara, Costa Rica, designed by Mexican studios FAMM Arquitectura and Sulkin Askenazi, a 29-key hospitality project that builds an internal landscape from preserved trees, a natural creek and planted courtyards rather than relying on distant views.",
+    "link": "https://www.archdaily.com/1182302/esh-hotel-and-spa-famm-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-08-06T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
     "light": false
   },
   {
@@ -5278,225 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
-    "summary": "El Puerto de Liverpool elevó 55% su utilidad en el segundo trimestre, impulsado por su negocio financiero y por Nordstrom, según Expansión.",
-    "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
-    "source": "Expansión",
-    "published": "2026-07-28T00:03:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México gana caso contra filial de Vulcan Materials Company ante CIADI",
-    "summary": "El CIADI falló mayoritariamente a favor de México en el arbitraje iniciado por una filial de Vulcan Materials tras el cierre de sus operaciones de extracción de piedra caliza en Quintana Roo. El tribunal desestimó casi todas las reclamaciones de la empresa, salvo una medida que representa menos del 1% del monto originalmente reclamado.",
-    "link": "https://www.eleconomista.com.mx/empresas/mexico-gana-caso-filial-vulcan-materials-company-ciadi-20260727-825369.html",
-    "source": "El Economista",
-    "published": "2026-07-27T23:55:01-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Invertir 10,000 pesos en CETES: este es el rendimiento que puedes recibir con las tasas actuales",
-    "summary": "Expansión detalla cuánto rendimiento se puede obtener al invertir 10,000 pesos en Cetes con las tasas de interés actuales.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/27/invertir-10-000-pesos-en-cetes-rendimiento-tasas-actuales",
-    "source": "Expansión",
-    "published": "2026-07-27T23:36:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
-    "summary": "Bloomberg reports that Big Tech's flood of AI-linked bond issuance is entering a tougher phase, with weakening demand and rising costs as bubble concerns mount around deals like BlackRock's $12.5 billion debt raise for a Meta data center.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
-    "source": "Bloomberg",
-    "published": "2026-07-27T21:47:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech credit risks rise sharply as AI spending soars",
-    "summary": "Investors are growing increasingly concerned over a rush of borrowing by major tech companies to fund massive AI data-centre investments. The surge in debt-financed capex is raising questions about credit risk just as the sustainability of the broader AI spending boom comes under scrutiny.",
-    "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-27T20:55:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What Is Moonshot AI's Kimi K3 Model and Why Is It Making Waves?",
-    "summary": "Chinese startup Moonshot AI has released its new Kimi K3 model for public download, drawing global attention for its capabilities and expanding the company's influence in open AI development. The move comes amid growing US concern over China's rapid progress in frontier AI models.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/what-is-moonshot-ai-s-kimi-k3-model-and-why-is-it-making-waves",
-    "source": "Bloomberg",
-    "published": "2026-07-27T18:38:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
-    "summary": "AI-powered scanning tools are on pace to roughly double the number of software vulnerabilities discovered across the tech sector in 2026 compared with 2025, according to a new database. The surge highlights both AI's growing role in cybersecurity defense and the expanding attack surface it is exposing in widely used products.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
-    "source": "Bloomberg",
-    "published": "2026-07-27T18:01:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cinco razones por las que la IA está impulsando a los jóvenes a asumir más riesgo al invertir",
-    "summary": "Un informe de Deutsche Bank señala que la inteligencia artificial no solo está cambiando cómo los inversionistas acceden a información financiera, sino que coincide con un mayor apetito por el riesgo entre los jóvenes. Cada vez más inversionistas jóvenes muestran disposición a asumir posiciones agresivas y a delegar decisiones de inversión en sistemas de IA.",
-    "link": "https://www.bloomberglinea.com/mercados/cinco-razones-por-las-que-la-ia-esta-impulsando-a-los-jovenes-a-asumir-mas-riesgo-al-invertir/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-27T17:44:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street pierde por desembolso de capital para el desarrollo de la IA: ¿Cuánto caen las acciones HOY?",
-    "summary": "Las acciones en Wall Street operaron con sesgo negativo mientras los inversionistas cuestionan las justificaciones detrás del creciente gasto de capital en inteligencia artificial. El S&P 500 y el Nasdaq retrocedieron, aunque el Dow Jones logró mantenerse en terreno positivo, en una semana marcada por la incertidumbre sobre el ritmo de inversión en IA.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/27/wall-street-bmv-acciones-hoy-27-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-27T17:25:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ares Management has held talks to buy Leonard Green & Partners",
-    "summary": "Ares Management has held talks to acquire Leonard Green & Partners, a deal that would significantly expand the size of Ares' private equity business. Combining the two Los Angeles-based firms would create one of the industry's larger alternative asset managers.",
-    "link": "https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-27T17:23:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia bets $5bn on Ilya Sutskever's AI breakthrough",
-    "summary": "Nvidia has committed $5 billion to Ilya Sutskever's Safe Superintelligence, one of its largest funding deals of the AI boom, with the startup set to use Vera Rubin chips to rapidly expand computing capacity for its secretive research. The investment signals continued aggressive capital deployment by Nvidia into frontier AI research labs.",
-    "link": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-27T17:20:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México rompe otro récord en exportaciones; ventas al exterior superan 72,500 mdd en junio",
-    "summary": "Las exportaciones mexicanas alcanzaron un nuevo récord en junio, al superar los 72,500 millones de dólares en ventas al exterior. La cifra refuerza el papel de México como plataforma exportadora en medio del proceso de nearshoring.",
-    "link": "https://expansion.mx/economia/2026/07/27/exportaciones-mexico-record-junio-2026",
-    "source": "Expansión",
-    "published": "2026-07-27T17:06:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Paschi, Banco BPM Advisers Working on Deal With Cash Component",
-    "summary": "Advisers for Banca Monte dei Paschi and Banco BPM are discussing a possible merger of equals structured with a mix of shares and cash, as an alternative to Intesa Sanpaolo's €35 billion bid for Monte Paschi. The talks add a new twist to Italy's ongoing banking consolidation battle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/paschi-banco-bpm-advisers-working-on-deal-with-cash-component",
-    "source": "Bloomberg",
-    "published": "2026-07-27T16:30:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "TPG Is Said in Talks to Buy Netrality for Up to $3 Billion",
-    "summary": "TPG is in exclusive talks to acquire Macquarie-backed Netrality Data Centers for as much as $3 billion. The deal would add to a wave of private equity investment in digital infrastructure assets tied to growing data center demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/tpg-said-in-talks-to-buy-netrality-for-up-to-3-billion",
-    "source": "Bloomberg",
-    "published": "2026-07-27T16:26:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las OPI rompen récords y Goldman Sachs lanza un mensaje: todavía no hay motivos para alarmarse",
-    "summary": "El mercado de ofertas públicas iniciales vive en 2026 su mayor reactivación en años, con el volumen de emisiones en un máximo histórico. Goldman Sachs sostiene que el repunte no constituye, por ahora, una señal inequívoca de exceso de mercado ni el inicio del final del ciclo bursátil.",
-    "link": "https://www.bloomberglinea.com/mercados/las-opi-rompen-records-y-goldman-sachs-lanza-un-mensaje-todavia-no-hay-motivos-para-alarmarse/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-27T15:38:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cuestiona asesor de Trump sistema judicial mexicano",
-    "summary": "Un asesor del presidente Trump cuestionó el funcionamiento del sistema judicial mexicano, señalando la existencia de cárteles que controlan territorio como la razón por la que dicho sistema no opera correctamente, según Reforma.",
-    "link": "https://www.reforma.com/cuestiona-asesor-de-trump-sistema-judicial-mexicano/ar3247682",
-    "source": "Reforma",
-    "published": "2026-07-27T15:37:52-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La guerra tecnológica escala: China acusa a EU de 'saquear' sus datos para entrenar modelos de IA",
-    "summary": "China acusó a Estados Unidos de \"saquear\" sus datos para entrenar modelos de inteligencia artificial, en una nueva escalada de la disputa tecnológica entre ambas potencias. La denuncia se suma a la creciente tensión bilateral en torno al desarrollo y control de la IA.",
-    "link": "https://expansion.mx/tecnologia/2026/07/27/guerra-tecnologica-china-acusa-eu-saquear-datos-ia",
-    "source": "Expansión",
-    "published": "2026-07-27T15:15:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-    "summary": "Las \"fábricas de IA\" —centros de datos e infraestructura de cómputo para inteligencia artificial— ya están llegando a México, impulsando nuevas inversiones. Sin embargo, la expansión enfrenta un obstáculo: la falta de ingenieros especializados para sostener ese crecimiento.",
-    "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
-    "source": "Expansión",
-    "published": "2026-07-27T14:56:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-    "summary": "Los millennials y la generación Z se han convertido en los principales inversionistas en CetesDirecto, desplazando a generaciones mayores en la plataforma de ahorro del gobierno mexicano. La tendencia refleja un cambio generacional en los hábitos de inversión en México.",
-    "link": "https://expansion.mx/economia/2026/07/27/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-    "source": "Expansión",
-    "published": "2026-07-27T14:22:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Nvidia to Invest $5 Billion in Ilya Sutskever's AI Research Lab",
-    "summary": "Nvidia has committed $5 billion to Ilya Sutskever's AI startup Safe Superintelligence, one of the chipmaker's largest funding deals of the AI boom. The investment will let Safe Superintelligence rapidly scale computing capacity, reportedly using Nvidia's Vera Rubin chips, for its secretive AI research.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup",
-    "source": "Bloomberg",
-    "published": "2026-07-27T13:14:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
   }
 ]
