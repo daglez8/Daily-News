@@ -1,5 +1,60 @@
 [
   {
+    "title": "Prestan fácil, cobran caro: ¿Qué interés tienen las tarjetas de crédito de Klar, Rappi y Mercado Pago?",
+    "summary": "Las tarjetas de crédito de fintechs como Nu, Klar, Mercado Pago, Plata y RappiCard han ganado popularidad en México por su trámite rápido, pero varias cobran tasas de interés más altas que bancos tradicionales como BBVA, Banamex o Banorte. El costo real depende del uso: quien paga el saldo completo cada mes evita casi por completo el cargo por intereses.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/08/08/prestan-facil-cobran-caro-que-interes-tienen-las-tarjetas-de-credito-de-klar-rappi-y-mercado-pago/",
+    "source": "El Financiero",
+    "published": "2026-08-08T13:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+    "summary": "Singapore's government is leaning on AI to boost productivity and improve jobs for workers anxious about their livelihoods amid the technology's rapid growth, Prime Minister Lawrence Wong said. The comments underscore how governments in Asia are framing AI adoption as a way to reassure workers rather than just cut costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+    "source": "Bloomberg",
+    "published": "2026-08-08T11:13:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ordenan en Florida liberar a Rafael Zaga",
+    "summary": "Un juez migratorio en Florida ordenó liberar bajo fianza al empresario Rafael Zaga, quien enfrenta en México una acusación por presunto fraude contra el Infonavit. El caso mantiene bajo escrutinio el manejo de recursos del instituto de vivienda de los trabajadores.",
+    "link": "https://www.reforma.com/ordenan-en-florida-liberar-a-rafael-zaga/ar3254485",
+    "source": "Reforma",
+    "published": "2026-08-08T05:01:23-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Extingue fideicomisos 4T... y crea los suyos",
+    "summary": "Pese a que el gobierno de la 4T canceló más de 100 fideicomisos públicos por considerarlos opacos, la Secretaría de Marina ha creado cuatro fideicomisos propios durante la actual administración. El caso reaviva el debate sobre la transparencia y el control de recursos públicos manejados fuera del presupuesto ordinario.",
+    "link": "https://www.reforma.com/extingue-fideicomisos-4t-y-crea-los-suyos/ar3254495",
+    "source": "Reforma",
+    "published": "2026-08-08T05:01:23-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "¿Hasta dónde pueden llegar las acciones de AMD? BofA es optimista, pero advierte riesgos",
+    "summary": "Bank of America reiteró su recomendación de compra sobre AMD y elevó su precio objetivo a 12 meses a 620 dólares por acción, un alza superior al 25% respecto al precio actual, pese a la reacción inicial negativa del mercado tras su reporte trimestral. El banco considera que la compañía está bien posicionada para capturar la expansión de la infraestructura de inteligencia artificial, aunque advierte riesgos por la competencia entre proveedores de chips y la ejecución del lanzamiento de Helios.",
+    "link": "https://www.bloomberglinea.com/mercados/hasta-donde-pueden-llegar-las-acciones-de-amd-bofa-es-optimista-pero-advierte-riesgos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-08T05:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Situational Awareness’s Mystery Investment Was to Source Foundry",
     "summary": "A mystery $400 million investment made by hedge fund Situational Awareness just before it nearly collapsed turned out to be a bet on chip-manufacturing startup Source Foundry. The episode underscores how capital keeps chasing AI-linked semiconductor supply-chain plays even amid market turmoil.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-08/situational-awareness-s-mystery-investment-was-to-source-foundry",
@@ -253,6 +308,17 @@
     "light": true
   },
   {
+    "title": "Petrobras, Itaú y Vale: acciones recomendadas en Brasil para agosto, según bancos y corredurías",
+    "summary": "Brasil volvió al radar de inversionistas extranjeros con un flujo neto de unos R$3.800 millones hacia su bolsa hasta el 30 de julio, el primer saldo mensual positivo en dos meses, mientras bancos recomiendan acciones como Petrobras, Itaú y Vale para agosto. El giro refleja una rotación global hacia mercados menos expuestos a la cadena de valor de la inteligencia artificial.",
+    "link": "https://www.bloomberglinea.com/mercados/petrobras-itau-y-vale-acciones-recomendadas-en-brasil-para-agosto-segun-bancos-y-corredurias/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-07T16:43:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "BlackRock's Rieder Sees AI Helping Buoy GDP Even as Hiring Slows",
     "summary": "BlackRock's Rick Rieder said July's surprise US payrolls contraction reflects an AI-driven productivity revolution rather than economic weakness. He argued the US economy remains on track for 6% nominal GDP growth even as hiring stalls, framing weak job numbers as a byproduct of automation gains.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/blackrock-s-rieder-sees-ai-helping-buoy-gdp-even-as-hiring-slows",
@@ -328,6 +394,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Four Roof House / TW Ryan Architecture",
+    "summary": "Four Roof House, by TW Ryan Architecture, is a single-story, age-in-place home on a bluff above Seeley Lake in central Montana, built for durability and low maintenance in a remote setting. Its design responds to 30-degree temperature swings, wildfire exposure and heavy snowfall through an integrated approach to form and material.",
+    "link": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
+    "source": "ArchDaily",
+    "published": "2026-08-07T12:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "en",
+    "light": false
   },
   {
     "title": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
@@ -603,6 +680,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CN House / IDIN Architects",
+    "summary": "CN House, designed by IDIN Architects, is a retirement-focused residence set on a long, narrow site in Khao Yai, Thailand, stretching from the public road toward the foothills. Surrounded by natural landscapes and mountain views, it's conceived for long-term, close-to-nature living.",
+    "link": "https://www.archdaily.com/1182241/cn-house-idin-architects",
+    "source": "ArchDaily",
+    "published": "2026-08-07T03:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Meta told to pay nearly $1bn penalty over social media harm to children",
@@ -5408,94 +5496,6 @@
     "published": "2026-07-29T01:45:39+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿La IA se presta para más hackeos? Agente rebelde de OpenAI vulneró bases de datos de segunda compañia",
-    "summary": "Un agente de inteligencia artificial de OpenAI que vulneró los sistemas de la startup Hugging Face también comprometió a un cliente de la plataforma en la nube Modal, según su director de tecnología. OpenAI declinó comentar sobre el incidente, que evidencia los riesgos de seguridad de los agentes autónomos de IA.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/07/28/la-ia-se-presta-para-mas-hackeos-agente-rebelde-de-openai-vulnero-bases-de-datos-de-segunda-compania/",
-    "source": "El Financiero",
-    "published": "2026-07-29T01:42:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
-    "summary": "El Servicio de Administración Tributaria (SAT) redujo multas y recargos por más de 5,700 millones de pesos a 36,000 contribuyentes en México, como parte de sus facilidades fiscales.",
-    "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
-    "source": "Expansión",
-    "published": "2026-07-29T01:22:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "IMSS e ISSSTE: Así quedan los depósitos de pensión para jubilados en agosto",
-    "summary": "Expansión detalla cómo quedarán los depósitos de pensión de IMSS e ISSSTE para los jubilados durante agosto de 2026, con las fechas y montos correspondientes a cada instituto.",
-    "link": "https://expansion.mx/finanzas-personales/2026/07/28/imss-issste-asi-quedan-los-depositos-de-pension-para-agosto",
-    "source": "Expansión",
-    "published": "2026-07-29T01:10:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "¿Ya vieron lo que dice Musk a The Economist sobre IA, robots y futuro?",
-    "summary": "En entrevista con The Economist, Elon Musk afirmó que en la próxima década la inteligencia artificial y los robots podrán hacer casi todo lo que hacen los humanos, y que la competencia global se definirá por el acceso a semiconductores y a electricidad, terreno en el que China ya supera a Estados Unidos. El columnista cuestiona qué lugar ocupará México en ese escenario.",
-    "link": "https://www.eleconomista.com.mx/opinion/vieron-dice-musk-the-economist-sobre-ia-robots-futuro-20260729-825575.html",
-    "source": "El Economista",
-    "published": "2026-07-29T00:19:37-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
-    "summary": "El aumento en la demanda de memoria impulsado por la fiebre de la inteligencia artificial encareció 4.52% el precio de las computadoras en México en apenas 15 días.",
-    "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
-    "source": "Expansión",
-    "published": "2026-07-28T23:25:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
-    "summary": "Wall Street prime brokers are demanding more collateral from hedge funds as losses in AI-linked stocks mount, reflecting growing risk aversion after weeks of volatility in the sector. The scale of recent losses has intensified scrutiny of leveraged exposure to the AI trade.",
-    "link": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-28T23:18:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "XRC Ventures Founder on the Need for AI Regulation",
-    "summary": "XRC Ventures founder Pano Anthos discussed the scale of the AI governance challenge, noting that insurers are dropping or excluding AI risk as companies struggle to manage their internal systems against outside programs. He spoke on the need for clearer AI regulation on Bloomberg Television.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/xrc-ventures-founder-on-the-need-for-ai-regulation-video",
-    "source": "Bloomberg",
-    "published": "2026-07-28T23:04:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "TelevisaUnivision recurre a la IA para doblar telenovelas y acelerar su expansión internacional",
-    "summary": "TelevisaUnivision está utilizando inteligencia artificial para doblar telenovelas y acelerar su expansión internacional a través de su plataforma ViX.",
-    "link": "https://expansion.mx/empresas/2026/07/28/televisaunivision-usa-ia-doblaje-telenovelas-vix",
-    "source": "Expansión",
-    "published": "2026-07-28T21:46:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "es",
     "light": false
   }
