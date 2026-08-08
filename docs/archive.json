@@ -1,5 +1,49 @@
 [
   {
+    "title": "El reto de Banxico para reforzar su credibilidad",
+    "summary": "La Junta de Gobierno de Banxico mantuvo la tasa de referencia sin cambios en 6.50% por segunda decisión consecutiva, con la inflación general en 3.1% anual en julio, la más baja desde mayo de 2020. El banco central confirmó que el ciclo de recortes iniciado en 2024 ya terminó, aunque revisó al alza sus pronósticos de inflación para el tercer trimestre.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/08/el-reto-de-banxico-para-reforzar-su-credibilidad/",
+    "source": "El Financiero",
+    "published": "2026-08-08T16:23:55+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Greg Abel finally puts Buffett's cash pile to work",
+    "summary": "Berkshire Hathaway CEO Greg Abel ended a more than three-year selling streak, deploying a net $20 billion into stocks, the Financial Times reports. The move signals Abel putting Warren Buffett's enormous cash pile to work as he settles into the top job.",
+    "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-08T15:36:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly",
+    "summary": "Highly indebted companies are increasingly refinancing out of private credit loans into cheaper bank loans, according to Bloomberg's Credit Weekly. The shift underscores how higher-for-longer interest rates are squeezing private credit's competitive edge.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-08-08T15:03:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China's AI Push Reshapes Its Economic Future",
+    "summary": "Bloomberg discusses how China is taking a pragmatic approach to AI, rapidly deploying the technology across factories and pushing its adoption into emerging markets rather than chasing artificial general intelligence. The segment frames this practical deployment strategy as reshaping China's economic trajectory.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
+    "source": "Bloomberg",
+    "published": "2026-08-08T14:32:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Prestan fácil, cobran caro: ¿Qué interés tienen las tarjetas de crédito de Klar, Rappi y Mercado Pago?",
     "summary": "Las tarjetas de crédito de fintechs como Nu, Klar, Mercado Pago, Plata y RappiCard han ganado popularidad en México por su trámite rápido, pero varias cobran tasas de interés más altas que bancos tradicionales como BBVA, Banamex o Banorte. El costo real depende del uso: quien paga el saldo completo cada mes evita casi por completo el cargo por intereses.",
     "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/08/08/prestan-facil-cobran-caro-que-interes-tienen-las-tarjetas-de-credito-de-klar-rappi-y-mercado-pago/",
@@ -11,6 +55,17 @@
     "light": false
   },
   {
+    "title": "Fintech That Soared on Trump Sells Core Business for $12 Million",
+    "summary": "A little-known fintech that briefly hit a $1 billion market value after striking a deal with the Trump family's crypto platform has sold its core business for roughly $12 million, Bloomberg reports. The steep drop illustrates how quickly Trump-linked crypto hype has cooled for some smaller players.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-08/fintech-that-soared-on-trump-sells-core-business-for-12-million",
+    "source": "Bloomberg",
+    "published": "2026-08-08T11:58:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
     "summary": "Singapore's government is leaning on AI to boost productivity and improve jobs for workers anxious about their livelihoods amid the technology's rapid growth, Prime Minister Lawrence Wong said. The comments underscore how governments in Asia are framing AI adoption as a way to reassure workers rather than just cut costs.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
@@ -20,6 +75,50 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
+    "summary": "A landmark crypto market-structure bill has stalled in the US Senate despite a $225 million lobbying push, the Financial Times reports, as lawmakers continue to spar over the legislation. The delay is a setback for the crypto industry's top legislative priority.",
+    "link": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-08T11:00:03+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banco Mundial insta a países en desarrollo a adoptar la IA para mejorar su gobernanza",
+    "summary": "El Banco Mundial instó a los países en desarrollo a adoptar herramientas de inteligencia artificial para mejorar su gobernanza, advirtiendo que corren el riesgo de quedarse atrás si no lo hacen. El economista jefe del organismo, Indermit Gill, señaló que no se requieren grandes modelos ni centros de datos costosos para obtener beneficios en salud, educación, justicia y agricultura.",
+    "link": "https://www.eleconomista.com.mx/economia/banco-mundial-insta-paises-desarrollo-adoptar-ia-mejorar-gobernanza-20260808-827261.html",
+    "source": "El Economista",
+    "published": "2026-08-08T11:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apple y OpenAI escalan su batalla legal por robo de secretos comerciales",
+    "summary": "La disputa legal entre Apple y OpenAI se intensificó después de que la empresa de ChatGPT calificara de 'infundadas' las acusaciones de robo de secretos comerciales relacionadas con un proyecto secreto de hardware, y pidiera desestimar la demanda. Apple había acusado a OpenAI de orquestar una campaña para robar secretos a través de exempleados, calificando las acciones como 'robo deliberado'.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/apple-openai-escalan-batalla-legal-robo-secretos-comerciales-20260808-827277.html",
+    "source": "El Economista",
+    "published": "2026-08-08T09:34:43-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué hace valioso a un edificio? La sostenibilidad gana terreno",
+    "summary": "Según el Barómetro de la Construcción Sostenible 2026 de Saint-Gobain, el valor de un edificio incorpora cada vez más criterios de eficiencia, desempeño ambiental y resiliencia, y no solo la ubicación. En México y Colombia, 82% de los grupos de interés considera la construcción sostenible una prioridad, por encima del 65% registrado a nivel global.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/valioso-edificio-sostenibilidad-gana-terreno-20260808-827258.html",
+    "source": "El Economista",
+    "published": "2026-08-08T09:00:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Ordenan en Florida liberar a Rafael Zaga",
@@ -53,6 +152,17 @@
     "relevance_score": 72,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "The US bares its financial weak spot",
+    "summary": "The Financial Times argues that recent yen intervention has exposed a soft underbelly in US financial strength, pointing to underlying vulnerabilities in American markets. The piece frames currency-market stress as a signal worth watching for broader financial fragility.",
+    "link": "https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-08T04:00:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Situational Awareness’s Mystery Investment Was to Source Foundry",
@@ -482,6 +592,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Dior, H&M y Zara impulsan la ocupación de los centros comerciales de Iguatemi en Brasil",
+    "summary": "Los centros comerciales de Iguatemi en Brasil, como Rio Sul y Pátio Paulista, cerraron junio con ocupación cercana al 99%, impulsados por la expansión de marcas como Dior, H&M y Zara. La cartera completa de 17 centros comerciales alcanzó una ocupación promedio de 96.9% en el segundo trimestre, 0.5 puntos más que un año antes.",
+    "link": "https://www.bloomberglinea.com/negocios/dior-hm-y-zara-impulsan-la-ocupacion-de-los-centros-comerciales-de-iguatemi-en-brasil/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-07T10:17:01+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
   },
   {
     "title": "De la adopción de la IA al impacto clínico: la siguiente frontera de la salud",
@@ -5377,126 +5498,5 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Dealmaking Powers Through Volatility: Goldman Sachs",
-    "summary": "Goldman Sachs' EMEA investment banking co-head Anna Skoglund says dealmaking is powering through market volatility and geopolitical uncertainty, with large corporates showing more confidence in pursuing M&A. Sponsors are becoming more decisive in closing transactions despite the choppy backdrop.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/volatility-driving-dealmaking-goldman-sachs-video",
-    "source": "Bloomberg",
-    "published": "2026-07-29T08:01:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ni presencial, ni remoto, ni híbrido: el nuevo modelo laboral que WeWork ve crecer en Latinoamérica",
-    "summary": "Un estudio de WeWork y Michael Page muestra que el modelo laboral en América Latina evoluciona hacia una flexibilidad superior al esquema híbrido tradicional, priorizando el propósito de ir a la oficina sobre la cantidad de días. La proporción de trabajo 100% presencial cayó a 36.9% desde 48% el año anterior.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/ni-presencial-ni-remoto-ni-hibrido-el-nuevo-modelo-laboral-que-wework-ve-crecer-en-latinoamerica/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-29T08:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IA y talento: los retos que enfrentan las empresas familiares",
-    "summary": "Un reporte de KPMG (Global Family Business 2026) revela que 62% de las empresas familiares en México anticipan un entorno más complicado en la próxima década por cambios regulatorios e incertidumbre geopolítica. Las empresas están respondiendo con adopción de IA, planes de sucesión y mejoras de gobernanza para mantener su ventaja competitiva.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/ia-talento-retos-enfrentan-empresas-familiares-20260729-825510.html",
-    "source": "El Economista",
-    "published": "2026-07-29T07:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Invex quiere crecer, pero no a cualquier precio",
-    "summary": "INVEX Grupo Financiero, liderado por Jean Marc Mercier, cerró una reapertura de 4,000 millones de pesos en certificados bursátiles con sobresuscripción de 1.25 veces, sumando 9,000 millones de pesos captados en 2026. El banco busca ampliar su cartera de crédito pero con cautela para evitar un repunte de morosidad, pese al fuerte apetito de los inversionistas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/07/29/invex-quiere-crecer-pero-no-a-cualquier-precio/",
-    "source": "El Financiero",
-    "published": "2026-07-29T06:43:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alejandro Aravena and Smiljan Radić Receive Chile's 2026 National Architecture Prize",
-    "summary": "Chile's Colegio de Arquitectos awarded its 2026 National Architecture Prize to Pritzker laureates Alejandro Aravena and Smiljan Radić, recognizing their role in bringing Chilean architecture to international prominence. Aravena won the Pritzker in 2016 for his work with ELEMENTAL, while Radić received it this year.",
-    "link": "https://www.archdaily.com/1181774/alejandro-aravena-and-smiljan-radic-win-chiles-2026-national-architecture-prize",
-    "source": "ArchDaily",
-    "published": "2026-07-29T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "US Risks Broadening China Clash With Robot, Inverter Curbs",
-    "summary": "Washington tightened export curbs on foreign-made robots and solar inverters in a move that risks widening its tech confrontation with Beijing, just weeks before a planned meeting between the two countries' leaders. The restrictions extend the ongoing US-China tech rivalry into robotics and clean-energy hardware.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
-    "source": "Bloomberg",
-    "published": "2026-07-29T04:11:42+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "PwC published reports on AI marred by AI hallucinations",
-    "summary": "PwC has become the latest Big Four firm found to have produced AI consulting reports containing hallucinated content, despite marketing itself as an AI expert. The lapse raises fresh questions about quality control at professional-services firms rushing to sell AI advisory work.",
-    "link": "https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T04:01:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bank of England probes Asian equity risk at prime brokers",
-    "summary": "The Bank of England is reviewing hedge funds' and other clients' exposure to the AI sector through prime brokers at UK investment banks. The probe reflects growing regulatory concern about concentrated risk tied to the AI trade among banks' institutional clients.",
-    "link": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T04:00:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "If you think your profession is dying, it could soon be gone",
-    "summary": "An FT opinion piece argues that younger workers' fears about their profession becoming obsolete, much like predictions once made about horse-drawn carriages, can become self-fulfilling as AI reshapes the labor market. It cautions that anticipating obsolescence changes behavior in ways that hasten it.",
-    "link": "https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T04:00:14+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mark Zuckerberg says US should not ban Chinese AI",
-    "summary": "Meta CEO Mark Zuckerberg warned against a US ban on Chinese AI models, arguing it would amount to \"regulatory capture\" of American AI rules. His comments add to the debate over how Washington should balance competition with China against domestic AI industry interests.",
-    "link": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T02:15:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
-    "summary": "Santander México superó el billón de pesos en su cartera de créditos, aunque el financiamiento a través de tarjetas y a empresas registró caídas, según reportó el banco.",
-    "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
-    "source": "Expansión",
-    "published": "2026-07-29T01:45:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
   }
 ]
