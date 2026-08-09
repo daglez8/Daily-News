@@ -1,5 +1,38 @@
 [
   {
+    "title": "Hiperescaladores de IA podrían sumar US$2 billones de deuda y aún mantener grado de inversión",
+    "summary": "Un análisis de Goldman Sachs Research estima que los grandes operadores de nube e infraestructura de IA podrían añadir cerca de US$2 billones de deuda adicional sin perder su calificación de grado de inversión. La cifra es un ejercicio teórico sobre capacidad de endeudamiento, no una proyección de nuevas emisiones, pero refleja el músculo financiero detrás del boom de inversión en IA.",
+    "link": "https://www.bloomberglinea.com/mercados/hiperescaladores-de-ia-podrian-sumar-us2-billones-de-deuda-y-aun-mantener-grado-de-inversion/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-09T05:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The bank behind China’s AI listings bonanza",
+    "summary": "CICC has emerged as the dominant investment bank financing Beijing's drive to compete with the US in the AI race, underwriting a wave of new stock listings for Chinese AI companies. The bank's central role shows how capital markets are being mobilized to fund China's AI ambitions.",
+    "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-09T01:22:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple contraataca y explica por qué considera urgente intervenir contra OpenAI",
+    "summary": "Apple respondió a un conflicto legal con OpenAI en medio de señalamientos sobre un presunto robo de secretos comerciales y explicó por qué considera urgente actuar. El caso se suma a la creciente tensión entre gigantes tecnológicos por el control de la tecnología de inteligencia artificial.",
+    "link": "https://expansion.mx/tecnologia/2026/08/08/apple-contraataca-openai-robo-secretos-comerciales",
+    "source": "Expansión",
+    "published": "2026-08-08T16:38:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El reto de Banxico para reforzar su credibilidad",
     "summary": "La Junta de Gobierno de Banxico mantuvo la tasa de referencia sin cambios en 6.50% por segunda decisión consecutiva, con la inflación general en 3.1% anual en julio, la más baja desde mayo de 2020. El banco central confirmó que el ciclo de recortes iniciado en 2024 ya terminó, aunque revisó al alza sus pronósticos de inflación para el tercer trimestre.",
     "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/08/el-reto-de-banxico-para-reforzar-su-credibilidad/",
@@ -53,6 +86,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+    "summary": "Merrill/Bank of America strategist Joe Quinlan remains bullish on US stocks despite a weak July jobs report, pointing to resilient hiring in construction and healthcare alongside continued investment tied to AI. He argues the AI buildout is helping offset labor-market softness.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+    "source": "Bloomberg",
+    "published": "2026-08-08T12:47:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Fintech That Soared on Trump Sells Core Business for $12 Million",
@@ -5452,50 +5496,6 @@
     "published": "2026-07-29T10:29:01+00:00",
     "category": "AI & Agents",
     "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México registra déficit de 77 mil expertos en ciberseguridad",
-    "summary": "México enfrenta un déficit de más de 77 mil especialistas en ciberseguridad, mientras los ataques de ransomware crecieron 38% en el último año y el uso de IA en ciberataques casi se duplicó, según la UNIAT. El costo promedio de recuperación de un incidente asciende a 135 millones de dólares y seis de cada diez empresas afectadas cierran operaciones en los seis meses posteriores.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/07/29/mexico-registra-deficit-de-77-mil-expertos-en-ciberseguridad/",
-    "source": "El Financiero",
-    "published": "2026-07-29T09:46:36+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bajo crecimiento económico en México impacta en la banca: Moody’s",
-    "summary": "Moody's advierte que el bajo crecimiento económico de México y la rápida expansión del crédito al consumo están presionando al sector bancario, con castigos de cartera al alza. La morosidad en tarjetas de crédito alcanzó 3.51% en mayo, su nivel más alto en años, mientras la deuda de los hogares como proporción del PIB subió a 17.4%.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/07/29/bajo-crecimiento-economico-en-mexico-impacta-en-la-banca-moodys/",
-    "source": "El Financiero",
-    "published": "2026-07-29T09:26:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
-    "summary": "Microsoft and Meta's upcoming earnings will test investors' patience for Big Tech's heavy AI spending as cash positions dwindle. The results come amid growing market skepticism about whether AI investments are generating adequate returns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
-    "source": "Bloomberg",
-    "published": "2026-07-29T09:23:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Moonshot AI Surpasses Funding Goal to Hit $35 Billion Value",
-    "summary": "Chinese AI startup Moonshot AI closed a $3.5 billion funding round, surpassing its target and reaching a $35 billion valuation on momentum from its Kimi K3 model, which has drawn attention in Silicon Valley. The raise underscores continued investor appetite for leading AI labs despite growing market skepticism elsewhere in the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-07-29T08:19:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   }
