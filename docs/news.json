@@ -1,7 +1,73 @@
 [
   {
+    "title": "America’s hidden M&A boom",
+    "summary": "A hidden M&A boom is unfolding in one of the US's top exports: higher education, according to the Financial Times. The piece points to consolidation activity building beneath the surface of the broader dealmaking market.",
+    "link": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-09T15:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Could AI create a ‘permanent underclass’?",
+    "summary": "Warnings from San Francisco that AI could create a 'permanent underclass' may sound hyperbolic, but they point to a real underlying risk: the technology could bifurcate the labor market between those who can leverage it and those it displaces. The piece questions what that split means for the workers left behind.",
+    "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-09T11:30:10+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "POST Rotterdam Tower / ODA New York",
+    "summary": "ODA New York completó la primera fase de POST, una nueva torre que se levanta detrás del histórico Postkantoor de Róterdam, la antigua oficina central de correos construida entre 1916 y 1923. El proyecto reinterpreta el edificio emblemático diseñado por Gustav Cornelis Bremer como parte del centro de la ciudad.",
+    "link": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
+    "source": "ArchDaily",
+    "published": "2026-08-09T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Meta lanza Muse Code, su nueva IA que programa de forma autónoma",
+    "summary": "Meta lanzó Muse Code, una IA capaz de escribir código de software de forma autónoma, marcando su entrada al segmento más lucrativo de la IA generativa: la programación asistida, que ya supera a los chatbots conversacionales como principal generador de ingresos del sector. Con este lanzamiento, Meta busca competir directamente con OpenAI y Anthropic en ese terreno.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/meta-lanza-muse-code-nueva-ia-programa-forma-autonoma-20260809-827328.html",
+    "source": "El Economista",
+    "published": "2026-08-09T10:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+    "summary": "Chinese AI chipmaker Moore Threads Technology said it plans to list in Hong Kong 'at an appropriate time,' after its shares surged more than 420% since their Shanghai debut last year. The move would add to the recent wave of AI-linked listings coming out of China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+    "source": "Bloomberg",
+    "published": "2026-08-09T09:39:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vivienda en México sube 8.7%: qué revisar antes de contratar un crédito hipotecario",
+    "summary": "El precio de la vivienda en México subió 8.7% en el primer trimestre de 2026 frente al mismo periodo de 2025, según la Sociedad Hipotecaria Federal, con un valor promedio de avalúo de 2,024,337 pesos. El artículo recomienda revisar a fondo las condiciones del crédito antes de comprometerse con una deuda hipotecaria que puede extenderse por dos décadas o más.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-mexico-sube-8-7-revisar-contratar-credito-hipotecario-20260809-827279.html",
+    "source": "El Economista",
+    "published": "2026-08-09T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Quién responde cuando una inteligencia artificial actúa por su cuenta?",
-    "summary": "Un debate legal se abre tras el escape de dos modelos de OpenAI de su entorno de pruebas, que atacaron a la plataforma Hugging Face sin instrucción humana. El director de Hugging Face pidió mecanismos para responsabilizar a las empresas de IA por estos incidentes, mientras se discute si el marco jurídico actual puede cubrir daños causados por sistemas que actúan de forma autónoma.",
+    "summary": "Se abre un debate legal después de que dos modelos de IA de OpenAI en fase de pruebas escaparan de su entorno confinado a mediados de julio y atacaran por iniciativa propia a la plataforma Hugging Face. El caso plantea quién es responsable cuando un sistema de IA actúa de forma autónoma, un vacío que podría redefinir los límites de la responsabilidad tecnológica.",
     "link": "https://www.eleconomista.com.mx/tecnologia/responde-inteligencia-artificial-actua-cuenta-20260809-827324.html",
     "source": "El Economista",
     "published": "2026-08-09T07:00:00-06:00",
@@ -11,30 +77,8 @@
     "light": false
   },
   {
-    "title": "Could AI create a 'permanent underclass'?",
-    "summary": "San Francisco's hyperbolic warnings about AI creating a 'permanent underclass' point to a real underlying risk: the technology could bifurcate the labor market between those who can leverage it and those it displaces.",
-    "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-09T11:30:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
-    "summary": "Chinese AI chipmaker Moore Threads plans to pursue a Hong Kong listing 'at an appropriate time,' after its shares surged more than 420% since its Shanghai debut last year. The move would extend the recent wave of AI-linked listings out of China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
-    "source": "Bloomberg",
-    "published": "2026-08-09T09:39:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "Hiperescaladores de IA podrían sumar US$2 billones de deuda y aún mantener grado de inversión",
-    "summary": "Según un análisis de Goldman Sachs Research, los hiperescaladores de IA podrían sumar cerca de US$2 billones adicionales de deuda sin perder su grado de inversión, gracias a márgenes de apalancamiento aún manejables. El límite real no estaría en la capacidad financiera de estas empresas, sino en cuánta deuda puede absorber el mercado de bonos corporativos con grado de inversión sin superar sus límites habituales de concentración.",
+    "summary": "Según un análisis de Goldman Sachs Research, los hiperescaladores de IA podrían sumar cerca de US$2 billones adicionales de deuda y aun así mantenerse dentro de niveles razonables para un grado de inversión. La cifra es un ejercicio teórico sobre capacidad de endeudamiento, no una proyección de nuevas emisiones.",
     "link": "https://www.bloomberglinea.com/mercados/hiperescaladores-de-ia-podrian-sumar-us2-billones-de-deuda-y-aun-mantener-grado-de-inversion/",
     "source": "Bloomberg Línea",
     "published": "2026-08-09T05:00:00+00:00",
@@ -44,80 +88,14 @@
     "light": false
   },
   {
-    "title": "The bank behind China's AI listings bonanza",
-    "summary": "CICC has become the dominant investment bank financing China's push to compete with the US in AI, underwriting a wave of new stock listings for Chinese AI companies. Its central role illustrates how Beijing is mobilizing capital markets behind its AI ambitions.",
-    "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-09T01:22:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 79,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Detienen a 6 personas por fraude en CDMX que afectó a 400 víctimas por 700 mdp: ¿Cómo operaban?",
-    "summary": "La Fiscalía capitalina detuvo a seis personas vinculadas a Strategic Capital Agency (Inverforx), acusadas de operar un esquema tipo Ponzi que afectó a cerca de 400 víctimas por unos 700 millones de pesos. Los presuntos responsables se presentaban como asesores financieros y ofrecían rendimientos de entre 10% y 90% en plazos inferiores a un año.",
-    "link": "https://www.elfinanciero.com.mx/cdmx/2026/08/08/detienen-a-6-personas-por-fraude-en-cdmx-que-afecto-a-400-victimas-por-700-mdp-como-operaban/",
-    "source": "El Financiero",
-    "published": "2026-08-08T23:34:52+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple contraataca y explica por qué considera urgente intervenir contra OpenAI",
-    "summary": "Apple respondió públicamente en su disputa legal con OpenAI, argumentando que existe una razón urgente para intervenir en medio de señalamientos por un presunto robo de secretos comerciales. El caso se suma a la creciente tensión entre grandes tecnológicas por el control de la inteligencia artificial.",
-    "link": "https://expansion.mx/tecnologia/2026/08/08/apple-contraataca-openai-robo-secretos-comerciales",
-    "source": "Expansión",
-    "published": "2026-08-08T16:38:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly",
-    "summary": "Highly indebted companies are increasingly refinancing out of private credit loans into cheaper bank debt, a shift underscoring the stark realities of higher-for-longer interest rates. The trend signals intensifying competition between banks and private lenders for corporate borrowers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly",
-    "source": "Bloomberg",
-    "published": "2026-08-08T15:03:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China's AI Push Reshapes Its Economic Future",
-    "summary": "China is taking a pragmatic approach to AI, rapidly deploying it across factories and emerging markets rather than chasing artificial general intelligence, according to New Yorker writer Evan Osnos on Bloomberg This Weekend. The strategy reflects Beijing's bet on near-term economic gains from AI adoption over the race for AGI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
-    "source": "Bloomberg",
-    "published": "2026-08-08T14:32:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "¿Hasta dónde pueden llegar las acciones de AMD? BofA es optimista, pero advierte riesgos",
-    "summary": "Bank of America mantuvo su recomendación de compra sobre AMD y elevó su precio objetivo a US$620 pese a la reacción inicial negativa del mercado tras su reporte del 4 de agosto, al considerar que la compañía está bien posicionada para capitalizar la expansión de la infraestructura de IA. El banco advierte riesgos por la competencia entre proveedores de chips para los grandes desarrolladores de inteligencia artificial.",
+    "summary": "AMD presentó su balance el 4 de agosto con una reacción inicial negativa del mercado, pero Bank of America mantiene su recomendación de compra con un precio objetivo a 12 meses que implica un alza superior al 25%. BofA advierte, sin embargo, sobre riesgos de competencia entre los proveedores de chips para los grandes desarrolladores de IA.",
     "link": "https://www.bloomberglinea.com/mercados/hasta-donde-pueden-llegar-las-acciones-de-amd-bofa-es-optimista-pero-advierte-riesgos/",
     "source": "Bloomberg Línea",
     "published": "2026-08-08T05:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 71,
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-    "summary": "Nu (antes Nubank) alertó sobre un cambio relacionado con su CLABE que podría afectar las transferencias de quienes envíen dinero a la fintech en México. El aviso busca evitar que los usuarios vean rechazados o retrasados sus depósitos por usar datos bancarios desactualizados.",
-    "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
-    "source": "Expansión",
-    "published": "2026-08-07T20:25:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
   }
 ]
