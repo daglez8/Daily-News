@@ -1,5 +1,104 @@
 [
   {
+    "title": "From Coding to Finance: Microsoft's AI Agent Push",
+    "summary": "Microsoft says AI agents are already reshaping how its software engineers work, with sales, finance and other knowledge-worker roles next in line. EVP Charles Lamanna told Bloomberg that employees are shifting from doing tasks themselves to overseeing AI agents, a change the company frames as a productivity driver rather than a simple headcount cut, even as Microsoft 365 Copilot has surpassed 30 million paid seats.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-10/from-coding-to-finance-microsoft-s-ai-agent-push-video",
+    "source": "Bloomberg",
+    "published": "2026-08-10T18:10:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Antes de invertir esta semana: los cuatro focos que pueden mover al mercado",
+    "summary": "Expansión repasa los cuatro focos que podrían mover a los mercados esta semana: inflación, petróleo, inteligencia artificial y bonos. El artículo ofrece una guía rápida de los catalizadores clave para inversionistas antes de la apertura semanal.",
+    "link": "https://expansion.mx/mercados/2026/08/10/antes-de-invertir-esta-semana-inflacion-petroleo-ia-bonos",
+    "source": "Expansión",
+    "published": "2026-08-10T18:06:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+    "summary": "Apollo, Blackstone and Goldman Sachs are among the Wall Street groups working with Nvidia to arrange roughly $500 billion in financing for the data-center buildout powering the AI boom. The deal underscores how deeply private credit and investment banks are now underwriting AI infrastructure.",
+    "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-10T17:22:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
+    "summary": "Nuevo León concentra 40% de la producción de electrodomésticos de México y busca apostar por la inteligencia artificial para no perder competitividad frente a otros mercados. El artículo analiza los retos del sector manufacturero regional ante la adopción de nuevas tecnologías.",
+    "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
+    "source": "Expansión",
+    "published": "2026-08-10T17:14:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft to Boost AI Chip Production, Information Says",
+    "summary": "Microsoft is reportedly planning to significantly ramp up production of its next-generation AI chips, according to The Information. The move signals continued heavy capex commitment to AI infrastructure even as other hyperscalers face scrutiny over chip supply and spending.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-10/microsoft-to-boost-ai-chip-production-information-says-video",
+    "source": "Bloomberg",
+    "published": "2026-08-10T16:23:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Una historia de familia podría acabar con el imperio de Autofin?",
+    "summary": "El columnista repasa la historia de Autofin y Banco Autofin, fundado en 1978 por Juan Antonio Hernández para dar crédito automotriz a quienes no calificaban en la banca tradicional, y que creció hasta convertirse en un conglomerado de autos, gasolineras, bienes raíces, hoteles y banca. El texto plantea si un conflicto familiar podría poner en riesgo ese imperio.",
+    "link": "https://www.elfinanciero.com.mx/opinion/lourdes-mendoza/2026/08/10/una-historia-de-familia-podria-acabar-con-el-imperio-de-autofin/",
+    "source": "El Financiero",
+    "published": "2026-08-10T15:54:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Adopción y oportunidades en inteligencia artificial: ¿hacia dónde va el mercado?",
+    "summary": "Desde el lanzamiento de ChatGPT, la IA ha impulsado a los mercados estadounidenses a múltiples máximos históricos en 2026, aunque el camino no ha sido lineal, con temores de burbuja y correcciones en semiconductores. El artículo analiza hacia dónde va la adopción empresarial de la tecnología en medio de esa volatilidad.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/10/adopcion-y-oportunidades-en-inteligencia-artificial-hacia-donde-va-el-mercado/",
+    "source": "El Financiero",
+    "published": "2026-08-10T14:11:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gödel y la deuda que no aparece en el balance",
+    "summary": "Tomando como metáfora el teorema de Gödel, el autor argumenta que las organizaciones acumulan una \"deuda de supuestos\" cuando sus indicadores, políticas y modelos de riesgo se basan en premisas que ya no reflejan la realidad del negocio. El texto es una reflexión sobre los límites de los sistemas de control corporativo y gestión de riesgo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/10/godel-y-la-deuda-que-no-aparece-en-el-balance/",
+    "source": "El Financiero",
+    "published": "2026-08-10T14:02:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Dónde la IA es realmente exitosa?",
+    "summary": "Un estudio de INEGI, Endeavor México e IMCO halló que 44% de las pymes mexicanas ya probó herramientas de IA, pero solo 5.8% la integró a su operación central, un patrón similar al hallado por el MIT a nivel global. El artículo explora por qué la mayoría de los pilotos de IA generativa no logra traducirse en impacto medible en el negocio.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/10/donde-la-ia-es-realmente-exitosa/",
+    "source": "El Financiero",
+    "published": "2026-08-10T13:50:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ritmo, tino y tono: el intangible que sostiene la productividad organizacional",
     "summary": "Columna de El Financiero sobre cómo la falta de coordinación entre áreas de una empresa —cuando \"la mano derecha no se pone de acuerdo con la izquierda\"— erosiona la productividad organizacional. Plantea que, más allá de la claridad de objetivos, las empresas necesitan ritmo, tino y tono compartidos entre procesos y equipos para actuar de forma coherente ante clientes y proveedores.",
     "link": "https://www.elfinanciero.com.mx/opinion/mauricio-candiani/2026/08/10/ritmo-tino-y-tono-el-intangible-que-sostiene-la-productividad-organizacional/",
@@ -33,6 +132,17 @@
     "light": false
   },
   {
+    "title": "Caída en la generación de empleo expone debilidad en el mercado formal a julio de 2026",
+    "summary": "El mercado laboral formal en México registró una pérdida neta de 19,550 empleos en julio de 2026 según el IMSS, pese a que el total de afiliados se mantuvo en 22.76 millones. La cifra evidencia una desaceleración en el ritmo de contratación del sector privado.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/caida-generacion-empleo-expone-debilidad-mercado-formal-julio-20260810-827494.html",
+    "source": "El Economista",
+    "published": "2026-08-10T12:42:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers",
     "summary": "Anthropic has formed a strategic partnership with Macquarie Asset Management and Singapore's GIC sovereign wealth fund to build AI data centers, deepening its infrastructure buildout to support Claude's growth.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
@@ -40,6 +150,17 @@
     "published": "2026-08-10T12:31:17+00:00",
     "category": "AI & Agents",
     "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Just how big is the hidden leverage of AI hyperscalers?",
+    "summary": "The Financial Times examines just how large the hidden leverage behind AI hyperscalers' data-center spending has become, concluding the exposure is substantial. The piece raises questions about the debt-fueled financing structures underpinning the AI infrastructure boom.",
+    "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+    "source": "Financial Times",
+    "published": "2026-08-10T12:27:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
     "language": "en",
     "light": true
   },
@@ -132,6 +253,17 @@
     "light": false
   },
   {
+    "title": "Nu se convierte en banco y aclara qué pasará con el rendimiento de sus cajitas de ahorro e inversión",
+    "summary": "Nu comenzó a operar formalmente como banco en México el pasado 6 de agosto, y la empresa aclaró que el rendimiento de sus \"cajitas\" de ahorro e inversión no cambiará por el momento pese a la conversión. La noticia se suma a los cambios fiscales y regulatorios que enfrentan sus clientes tras el cambio de figura.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/nu-convierte-banco-aclara-pasara-rendimiento-cajitas-ahorro-e-inversion-20260810-827370.html",
+    "source": "El Economista",
+    "published": "2026-08-10T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "The Deluge of AI Debt Has Big Names Seeking New Strategies to Avoid Selloffs",
     "summary": "Major financial firms including BlackRock are devising new strategies to manage the risks of surging AI-related corporate debt, after BlackRock worked to protect its position in Meta's data-center financing from fast-trading investors — a sign of growing sophistication around AI debt exposure.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/the-deluge-of-ai-debt-has-big-names-seeking-new-strategies-to-avoid-selloffs",
@@ -184,6 +316,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 76,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "'Jóvenes usan la IA como psicólogo'",
+    "summary": "Según la presidenta Sheinbaum, una encuesta de la SEP encontró que los jóvenes en México recurren a la inteligencia artificial como una especie de psicólogo, consultándola cuando se sienten deprimidos.",
+    "link": "https://www.reforma.com/jovenes-usan-la-ia-como-psicologo/ar3255284",
+    "source": "Reforma",
+    "published": "2026-08-10T08:46:03-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
     "light": true
   },
   {
@@ -5353,149 +5496,6 @@
     "published": "2026-07-30T02:20:00-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 79,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft signs $130bn in data centre leases as it races to meet AI demand",
-    "summary": "Microsoft signed $130 billion in data center leases as it races to keep up with AI demand, with revenue in its Intelligent Cloud segment surging 32% to $39.3 billion. The scale of the buildout underscores how central AI infrastructure has become to the company's growth.",
-    "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-30T01:05:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blue Owl’s Stack Seeks $5.9 Billion Loan, Extending AI Debt Boom",
-    "summary": "Blue Owl Capital's data center unit, Stack Infrastructure, is seeking a $5.9 billion syndicated loan to fund a project in Melbourne, one of the largest such financings in Australia's AI infrastructure sector. The deal extends a broader boom in debt financing tied to AI data center buildouts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/blue-owl-s-stack-seeks-5-9-billion-loan-extending-ai-debt-boom",
-    "source": "Bloomberg",
-    "published": "2026-07-30T00:07:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
-    "summary": "Meta's stock fell sharply after CEO Mark Zuckerberg defended the company's AI strategy, centered on personalized bots, as costs rise and revenue projections disappoint investors. The selloff underscores growing investor skepticism about the payoff from Meta's massive AI agent bet.",
-    "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T23:59:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El nuevo mapa laboral, las licenciaturas que impulsarán 170 millones de empleos para 2030",
-    "summary": "Expansión reporta sobre las licenciaturas y áreas de estudio que impulsarán la creación de 170 millones de empleos a nivel global para 2030, en el marco de la transformación del mapa laboral.",
-    "link": "https://expansion.mx/carrera/2026/07/29/licenciaturas-que-impulsaran-170-millones-empleos-2030",
-    "source": "Expansión",
-    "published": "2026-07-29T23:25:08+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sin el respaldo a Pemex, la calificación de México estaría un nivel arriba: Fitch",
-    "summary": "Fitch afirma que México tendría una calificación crediticia un escalón más alta si su balance no estuviera 'contaminado' por el respaldo financiero a Pemex, según la directora de soberanos para América Latina, Shelly Shetty. La nota soberana de México se mantiene en 'BBB-' con perspectiva estable, el nivel más bajo del grado de inversión.",
-    "link": "https://www.eleconomista.com.mx/economia/respaldo-pemex-calificacion-mexico-estaria-nivel-fitch-20260729-825781.html",
-    "source": "El Economista",
-    "published": "2026-07-29T23:18:34-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Incertidumbre comercial modifica demanda de crédito para inversión",
-    "summary": "La incertidumbre por la política comercial de Estados Unidos ha reducido la demanda de crédito para inversión de capital (CAPEX) entre las empresas mexicanas, según Alejandro Padilla, economista jefe de Banorte. El experto destacó el papel clave de la banca de desarrollo para estructurar proyectos viables ante este entorno cauteloso.",
-    "link": "https://www.eleconomista.com.mx/economia/incertidumbre-comercial-modifica-demanda-credito-inversion-20260729-825780.html",
-    "source": "El Economista",
-    "published": "2026-07-29T23:14:56-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed mantiene sus tasas de interés tras decisión dividida",
-    "summary": "La Reserva Federal mantuvo su tasa de referencia en 3.50-3.75% por quinta vez consecutiva, en una decisión dividida donde tres de doce miembros del FOMC favorecían un alza de 25 puntos base. Analistas anticipan que la Fed podría subir tasas en septiembre si la inflación no cede.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fed-mantiene-tasas-interes-decision-dividida-20260729-825778.html",
-    "source": "El Economista",
-    "published": "2026-07-29T23:11:26-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street cerró a la baja luego de la decisión de la Fed",
-    "summary": "Wall Street cerró con fuertes caídas tras la decisión de la Fed de mantener tasas sin cambios, con el S&P 500 perdiendo 1.51%, el Nasdaq 1.74% y el Dow Jones 2.18%. Las acciones de fabricantes de chips vinculados a la IA acentuaron las bajas antes de los reportes de Microsoft y Meta.",
-    "link": "https://www.eleconomista.com.mx/mercados/wall-street-cerro-baja-luego-decision-fed-20260729-825777.html",
-    "source": "El Economista",
-    "published": "2026-07-29T23:09:11-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México tiene una de las monedas más caras del mundo, solo después del dólar australiano",
-    "summary": "El peso mexicano se ubica como una de las monedas más caras del mundo, superada únicamente por el dólar australiano, de acuerdo con Expansión.",
-    "link": "https://expansion.mx/mercados/2026/07/29/peso-mexicano-entre-las-monedas-mas-caras-del-mundo-2026",
-    "source": "Expansión",
-    "published": "2026-07-29T22:58:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fibra de CFE financiará inversiones en redes eléctricas hasta por US$3.500 millones",
-    "summary": "El Fibra E de la Comisión Federal de Electricidad financiará hasta US$3,500 millones en inversiones de redes eléctricas en México durante la actual administración, dentro de un plan total de US$8,500 millones. CFE Capital busca atraer coinversión privada para evitar asumir todo el capital por sí sola.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fibra-de-cfe-financiara-inversiones-en-redes-electricas-hasta-por-us3500-millones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-29T22:51:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ignacio Deschamps deja el rol de presidente del Consejo de Administración de Banamex",
-    "summary": "Ignacio Deschamps concluyó su rol como presidente del Consejo de Administración de Grupo Financiero Banamex, 19 meses después de asumir el cargo tras la separación del banco de Citi México. Deschamps impulsó la modernización tecnológica y el fortalecimiento del equipo ejecutivo antes de su salida.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ignacio-deschamps-deja-el-rol-de-presidente-del-consejo-de-administracion-de-banamex/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-29T22:12:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-    "summary": "OpenAI's ChatGPT and Roblox will face the EU's strictest content-moderation and monitoring requirements after surpassing 45 million monthly users in the bloc. The move signals growing regulatory scrutiny of large AI and platform services in Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-    "source": "Bloomberg",
-    "published": "2026-07-29T22:00:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comisiones y reservas elevan la utilidad de Actinver y acelera su apuesta tecnológica",
-    "summary": "Actinver reportó un incremento en su utilidad impulsado por mayores comisiones y reservas, al tiempo que acelera su apuesta por la tecnología, según Expansión.",
-    "link": "https://expansion.mx/mercados/2026/07/29/utilidad-actinver-acelera-apuesta-tecnologica",
-    "source": "Expansión",
-    "published": "2026-07-29T21:45:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
     "language": "es",
     "light": false
   }
