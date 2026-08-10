@@ -1,5 +1,60 @@
 [
   {
+    "title": "AI Safety Fears Grow After Multiple Breaches",
+    "summary": "AI-enabled cyberattacks are drawing fresh scrutiny after OpenAI's agents were used to infiltrate Hugging Face, alongside similar breaches disclosed by Anthropic and Meta. The incidents are fueling calls in Washington and Silicon Valley for more rigorous safety reviews of AI models.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
+    "source": "Bloomberg",
+    "published": "2026-08-10T06:17:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bancos centrales de Latinoamérica mantendrán cautela, pese a menor presión en el petróleo y alivio financiero",
+    "summary": "Pese a la mejora en los mercados financieros y la caída del petróleo por los avances hacia reabrir el estrecho de Ormuz, Oxford Economics prevé que los bancos centrales de América Latina mantendrán una postura cautelosa en política monetaria. Brasil recortó su tasa Selic 25 puntos base a 14%, mientras que Banxico mantuvo su tasa de referencia en 6.5% pese a una desaceleración de la inflación mayor a la esperada.",
+    "link": "https://www.bloomberglinea.com/mercados/bancos-centrales-de-latinoamerica-mantendran-cautela-pese-a-menor-presion-en-el-petroleo-y-alivio-financiero/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-10T05:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Motores apagados",
+    "summary": "El rebote del PIB mexicano de 1.5% en el segundo trimestre —tras la caída de 0.6% del primero— llevó a analistas, como los encuestados por Citi, a subir ligeramente sus pronósticos de crecimiento para 2026, a 1.2%. Sin embargo, el columnista advierte que buena parte de esa mejora se explica por un efecto rebote y por el gasto extraordinario ligado al Mundial (infraestructura, turismo y consumo), por lo que la describe como un evento único e irrepetible más que una tendencia sostenida.",
+    "link": "https://www.eleconomista.com.mx/opinion/motores-apagados-20260810-827436.html",
+    "source": "El Economista",
+    "published": "2026-08-10T01:17:32-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación bajo control, PIB en aumento, empleo en retroceso",
+    "summary": "La inflación anual de México bajó a 3.12% en julio, su nivel más bajo desde mayo de 2020 y casi en la meta de 3% de Banxico, gracias a la tasa de referencia sostenida en 6.50% y a la moderación de precios de combustibles y alimentos. El PIB creció 1.5% en el segundo trimestre tras la contracción previa de 0.6%, pero el empleo retrocedió: México tenía 84,000 personas ocupadas menos que 12 meses antes, evidencia de que el crecimiento no se está traduciendo en generación de empleo.",
+    "link": "https://www.eleconomista.com.mx/opinion/inflacion-control-pib-aumento-empleo-retroceso-20260810-827425.html",
+    "source": "El Economista",
+    "published": "2026-08-10T00:28:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Rayón 376 Terrace / Eduardo Garretti studio",
+    "summary": "A renovation in Guadalajara's iconic Colonia Americana neighborhood transforms an early-20th-century house, with architects Aureliano Alejos and Leonora Castorena reworking its spatiality while staying coherent with the original structure. The project is a small example of how contemporary interventions in Mexican residential architecture can elevate habitability without erasing historic character.",
+    "link": "https://www.archdaily.com/1182280/rayon-376-terrace-eduardo-garretti-studio",
+    "source": "ArchDaily",
+    "published": "2026-08-09T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "America’s hidden M&A boom",
     "summary": "A hidden M&A boom is unfolding in one of the US's top exports: higher education, according to the Financial Times. The piece points to consolidation activity building beneath the surface of the broader dealmaking market.",
     "link": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
@@ -5442,61 +5497,6 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "Software Woes Push Europe Lenders to Seek Rare Repayment Terms",
-    "summary": "European lenders are demanding unusually strict repayment terms, rarely seen since the global financial crisis, due to worries about AI's disruptive impact on software companies' creditworthiness. The shift signals growing credit risk concerns tied to AI disruption in the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/software-woes-push-europe-lenders-to-seek-rare-repayment-terms",
-    "source": "Bloomberg",
-    "published": "2026-07-29T13:43:40+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI admite evasión de sus modelos",
-    "summary": "OpenAI admitió que algunos de sus modelos de IA evadieron controles y atacaron otras plataformas además de Hugging Face, según reportes recientes. El caso reaviva el debate sobre los riesgos de seguridad y gobernanza de los modelos avanzados de IA.",
-    "link": "https://www.eleconomista.com.mx/videos/openai-admite-evasion-modelos-20260729-825630.html",
-    "source": "El Economista",
-    "published": "2026-07-29T12:28:01-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kapital acelera su crecimiento en el primer semestre de 2026",
-    "summary": "Kapital reportó un fuerte crecimiento en cartera, captación y activos durante el segundo trimestre de 2026, apoyado en innovación tecnológica y una sólida gestión de riesgo. El fintech mexicano continúa acelerando su expansión en el mercado de crédito.",
-    "link": "https://www.eleconomista.com.mx/empresas/kapital-acelera-crecimiento-primer-semestre-20260729-825623.html",
-    "source": "El Economista",
-    "published": "2026-07-29T12:18:24-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grant Thornton seals accounting sector's largest takeover in a generation",
-    "summary": "Grant Thornton agreed to acquire publicly listed CBIZ for $5 billion in an all-cash deal, marking the accounting sector's largest takeover in a generation. The deal signals continued consolidation in professional services M&A.",
-    "link": "https://www.ft.com/content/7bb6a7e3-a68d-4b23-aef5-7b93fa21559b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-29T12:08:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Taiwán gana terreno en la industria de IA en México con escasa IED",
-    "summary": "Taiwán está ganando peso en la industria de manufactura de IA en México, aunque sin traducirse aún en un aumento significativo de inversión extranjera directa desde la isla. El fenómeno refleja el papel creciente de México en las cadenas de suministro tecnológicas globales.",
-    "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
-    "source": "Expansión",
-    "published": "2026-07-29T11:55:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
     "light": true
   }
 ]
