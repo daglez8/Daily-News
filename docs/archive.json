@@ -1,5 +1,93 @@
 [
   {
+    "title": "Consumo en México vía tarjetas de crédito se acelera 8%... pero advierten posible alza en morosidad",
+    "summary": "El saldo de tarjetas de crédito de la banca comercial en México alcanzó 709,267 millones de pesos en junio, un alza anual de 8.2%, la mayor desde agosto de 2025, según Banxico. El repunte, impulsado en parte por el gasto asociado al Mundial 2026, superó el crecimiento del portafolio total de consumo (7.6%), aunque analistas advierten sobre un posible incremento en la morosidad.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/11/consumo-en-el-pais-via-tarjetas-de-credito-se-acelera-8-por-ciento-advierten-posible-alza-en-morosidad/",
+    "source": "El Financiero",
+    "published": "2026-08-11T13:27:10+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NYSE Parent ICE Kicks Off Bond Sale for MarketAxess Takeover",
+    "summary": "Intercontinental Exchange (ICE), parent of the NYSE, has launched a US investment-grade bond sale to help fund its $6 billion acquisition of MarketAxess Holdings, announced two weeks earlier. The bond offering marks a major step in financing one of the year's largest exchange-sector M&A deals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/nyse-parent-ice-kicks-off-bond-sale-for-marketaxess-takeover",
+    "source": "Bloomberg",
+    "published": "2026-08-11T13:18:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La palanca de la economía es la innovación financiera",
+    "summary": "Columna de opinión en Expansión que argumenta que la innovación financiera es un motor clave para dinamizar la economía mexicana. El texto plantea la necesidad de impulsar nuevos productos y modelos financieros como palanca de crecimiento.",
+    "link": "https://expansion.mx/opinion/2026/08/11/palanca-economia-innovacion-financiera",
+    "source": "Expansión",
+    "published": "2026-08-11T12:36:45+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Multiva busca financiar proyectos por 250,000 mdp en infraestructura y energía",
+    "summary": "Grupo Financiero Multiva anunció que busca financiar proyectos por 250,000 millones de pesos en los sectores de infraestructura y energía en México. La iniciativa apunta a posicionar al banco como un actor relevante en el financiamiento de grandes proyectos nacionales.",
+    "link": "https://expansion.mx/economia/2026/08/11/multiva-proyectos-250000-mdp-infraestructura-energia",
+    "source": "Expansión",
+    "published": "2026-08-11T11:55:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sequoia Raises Its Bets on AI Startups",
+    "summary": "Venture firm Sequoia Capital is abandoning its earlier caution to significantly boost investments in AI startups, doubling down on the AI race after a more measured approach in prior years.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/sequoia-raises-its-bets-on-ai-startups",
+    "source": "Bloomberg",
+    "published": "2026-08-11T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman staff named as suspects in Brazil investigation",
+    "summary": "Goldman Sachs staff have been named as suspects in a Brazilian investigation tied to a shareholder dispute involving cancer specialist Oncoclínicas. The probe adds legal and reputational risk for the bank's operations in Latin America.",
+    "link": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-11T07:47:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Shein tiene previsto salir a bolsa en Hong Kong el próximo miércoles",
+    "summary": "Shein planea lanzar su oferta pública inicial en Hong Kong la próxima semana, según fuentes cercanas al proceso, con una valoración objetivo de entre 30,000 y 40,000 millones de dólares. La empresa de moda rápida, con sede en Singapur, ha estado promocionando la oferta entre inversionistas institucionales.",
+    "link": "https://www.eleconomista.com.mx/mercados/shein-previsto-salir-bolsa-hong-kong-proximo-miercoles-20260811-827659.html",
+    "source": "El Economista",
+    "published": "2026-08-11T06:41:44-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Uniper Targets Data Center Sales in UK, Germany on AI Demand",
+    "summary": "German utility Uniper has identified more than 10 sites across Europe that could be sold or leased for data-center development, aiming to capitalize on surging AI infrastructure demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
+    "source": "Bloomberg",
+    "published": "2026-08-11T06:34:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "India's Banking Regulator Urges Lenders to Accelerate AI Spend",
     "summary": "India's central bank governor Sanjay Malhotra urged the country's lenders to accelerate AI adoption, calling for greater investment in technology and infrastructure as well as workforce upskilling.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
@@ -51,6 +139,17 @@
     "published": "2026-08-11T01:19:09+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Eficiencia regulatoria para enfrentar la crisis de vivienda",
+    "summary": "El artículo plantea que México necesita cambios estructurales y regulatorios profundos —no solo incrementales— para resolver su déficit de vivienda asequible, de forma similar a como Japón transformó su sistema ferroviario para lograr el tren bala. Cita el caso de Senakw en Vancouver, un desarrollo de casi 6,000 viviendas impulsado por la Nación Squamish, como ejemplo de cómo destrabar suelo y trámites puede acelerar la construcción de vivienda.",
+    "link": "https://www.eleconomista.com.mx/opinion/eficiencia-regulatoria-enfrentar-crisis-vivienda-20260811-827644.html",
+    "source": "El Economista",
+    "published": "2026-08-11T01:02:28-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 76,
     "language": "es",
     "light": false
   },
@@ -183,6 +282,17 @@
     "published": "2026-08-10T22:29:29+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Five Takeaways From Zuckerberg's 6,500-word Manifesto on AI",
+    "summary": "Meta CEO Mark Zuckerberg published a lengthy essay outlining his vision for AI, emphasizing that wider access to AI models is key to the industry's future. The manifesto signals Meta's strategic bet on open, broadly accessible AI as a competitive differentiator.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-08-10T22:19:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -5388,115 +5498,5 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Meta Sinks After Defending AI Bets to Skeptical Investors",
-    "summary": "Meta gave a disappointing quarterly revenue forecast, intensifying pressure on CEO Mark Zuckerberg to convince investors the company is benefiting from its massive AI spending. Techonomy founder David Kirkpatrick discussed the earnings reaction with Bloomberg Intelligence.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/meta-sinks-after-defending-ai-bets-video",
-    "source": "Bloomberg",
-    "published": "2026-07-30T16:43:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone Said to Buy $25 Billion HSBC Australia Home Loan Book",
-    "summary": "Blackstone has agreed to acquire a roughly A$36 billion ($25 billion) Australian home loan portfolio from HSBC, according to people familiar with the matter. The deal is set to be one of the largest mortgage-book transactions ever.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/blackstone-said-to-buy-25-billion-hsbc-australia-home-loan-book",
-    "source": "Bloomberg",
-    "published": "2026-07-30T16:15:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dell Technologies e Intel impulsan la infraestructura que definirá el éxito de la inteligencia artificial en las empresas",
-    "summary": "Directivos de Dell México e Intel América Latina señalaron que más del 97% de los ejecutivos mexicanos quiere implementar IA, pero cerca del 56% de las empresas aún no tiene datos suficientemente preparados para alimentar los modelos. Ambos coincidieron en que el verdadero reto es construir una base tecnológica de datos limpios y coherentes, más allá de los modelos generativos de moda.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/07/30/dell-technologies-e-intel-xeon-impulsan-la-infraestructura-que-definira-el-exito-de-la-inteligencia-artificial-en-las-empresas/",
-    "source": "El Financiero",
-    "published": "2026-07-30T16:07:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Samsung, SK Hynix Answer AI Doubters With Big Numbers and Deals",
-    "summary": "Samsung and SK Hynix smashed profit records in a remarkable week for the near-$1 trillion global memory industry, but were unable to reverse a market rout that has erased much of their stock gains this year. The results were seen as an answer to growing doubts about the durability of AI-driven chip demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-sk-hynix-answer-ai-doubters-with-big-numbers-and-deals",
-    "source": "Bloomberg",
-    "published": "2026-07-30T16:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Reforma de la Carta Orgánica del BCRA: qué propone Milei y lecciones de la experiencia regional",
-    "summary": "El presidente Javier Milei presentó los lineamientos de su reforma a la Carta Orgánica del Banco Central de Argentina, buscando dotarlo de mayor independencia e interrumpir el financiamiento monetario al Tesoro. Milei argumentó que el BCRA no ha cumplido su misión de preservar el valor de la moneda, citando la inflación acumulada desde su creación en 1935.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/reforma-de-la-carta-organica-del-bcra-que-propone-milei-y-lecciones-de-la-experiencia-regional/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-30T15:36:31+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso gana más de 10 centavos al dólar en el día después de la decisión de la Fed",
-    "summary": "El peso mexicano se apreció 0.43% hasta 17.36 unidades por dólar, luego de que Kevin Warsh no se comprometiera con una nueva subida de tasas tras la decisión de la Fed de mantenerlas sin cambios. El mercado reaccionó a los comentarios de Warsh sobre la inflación y a la posibilidad de que la tasa aún sea parte de la solución si la inflación persiste.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/07/30/peso-dolar-precio-hoy-30-de-julio-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-07-30T15:29:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Refuge House / Taller Segovia Molina",
-    "summary": "ArchDaily features Casa Refugio, a new home by Taller Segovia Molina in the suburbs of Santiago de Querétaro that prioritizes intimacy and family life within a dense residential context. The house presents a contained, almost hermetic exterior that shields interior views and sets a calm atmosphere from the entrance.",
-    "link": "https://www.archdaily.com/1181866/refuge-house-taller-segovia-molina",
-    "source": "ArchDaily",
-    "published": "2026-07-30T15:00:00Z",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Meta se hunde y Microsoft se dispara: cinco claves que explican la reacción de Wall Street",
-    "summary": "Microsoft subió hasta 14.5% tras reportar el crecimiento más acelerado de su nube en cuatro años, mientras Meta cayó cerca de 9.5% pese a también mostrar avances en ingresos, ambas con fuerte gasto en infraestructura de IA. Rubén Dalfovo, de Saxo Bank, resume el giro del mercado: 'el gasto ya no impresiona por sí solo, ahora el mercado quiere recibos'.",
-    "link": "https://www.bloomberglinea.com/mercados/meta-se-hunde-y-microsoft-se-dispara-cinco-claves-que-explican-la-reaccion-de-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-30T13:47:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The delights of deadlines",
-    "summary": "The Economist explores how deadlines function as both a nuisance and a necessity for managers, friendly to procrastinators but hostile to those who ramble. The piece frames deadlines as an underappreciated management tool for driving decisions and execution.",
-    "link": "https://www.economist.com/business/2026/07/30/the-delights-of-deadlines",
-    "source": "The Economist",
-    "published": "2026-07-30T13:02:21+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI baja los precios de los modelos más pequeños, mientras las empresas analizan el gasto en IA",
-    "summary": "OpenAI redujo el jueves los precios de sus modelos de IA de gama baja y media: el modelo más pequeño, GPT-5.6 Luna, bajó 80% y el de gama media, Terra, 20%, mientras el precio del modelo insignia Sol se mantuvo sin cambios. La medida busca intensificar la competencia frente a rivales chinos más baratos, en momentos en que las empresas escrutan cada vez más el costo de adoptar IA.",
-    "link": "https://www.eleconomista.com.mx/empresas/openai-baja-precios-modelos-pequenos-empresas-analizan-gasto-ia-20260730-825861.html",
-    "source": "El Economista",
-    "published": "2026-07-30T12:45:19-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
   }
 ]
