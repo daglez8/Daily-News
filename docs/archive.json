@@ -1,11 +1,154 @@
 [
   {
+    "title": "Silicon Data Raises $30.5M to Benchmark AI Compute",
+    "summary": "Silicon Data raised $30.5 million to expand independent pricing and performance benchmarks for the AI compute market, including a tie-up with CME on planned GPU futures. CEO Carmen Li said the startup aims to be an \"independent referee\" for compute, also tracking the value and depreciation of older chips.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/silicon-data-raises-30-5m-to-benchmark-ai-compute-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T19:07:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Foundation Capital Bets on AI's 'Great Reorg'",
+    "summary": "Foundation Capital general partner Joanne Chen says AI is driving enormous early-stage startup valuations, but investors still need discipline backing companies before they have products or customers. She expects AI to reorganize companies and remove bottlenecks rather than simply eliminate jobs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/foundation-capital-bets-on-ai-s-great-reorg-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T19:05:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why Open-Weight AI Models Won't Kill the Closed Model",
+    "summary": "Morgan Stanley strategist Michelle Weaver says AI demand continues to outstrip available computing capacity, with little risk of oversupply soon. She expects labor and power constraints to keep limiting the data-center buildout, and predicts companies will ultimately use a mix of open and closed AI models.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/why-open-weight-ai-models-won-t-kill-the-closed-model-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T18:59:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gemini alcanza los 1,000 millones de usuarios",
+    "summary": "Google anunció que su asistente de inteligencia artificial Gemini alcanzó los 1,000 millones de usuarios, consolidando su posición frente a otros modelos de IA generativa.",
+    "link": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
+    "source": "Expansión",
+    "published": "2026-08-12T17:28:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+    "summary": "Goldman Sachs will pay up to $2.25 billion to acquire ETF provider Neos Investments, expanding its asset-management reach in the actively managed exchange-traded fund market.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T16:49:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inbursa y Aeroméxico despegan una nueva era de beneficios con su nueva familia de tarjetas",
+    "summary": "Inbursa y Aeroméxico lanzaron una nueva familia de tarjetas de marca compartida —Ascend, Elevate y Horizon, más una cuenta de débito— respaldadas por Mastercard, para convertir el gasto cotidiano en viajes y beneficios de Aeroméxico Rewards. La oferta busca atender desde viajeros frecuentes hasta clientes que buscan servicios exclusivos.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/08/12/inbursa-y-aeromexico-despegan-una-nueva-era-de-beneficios-con-su-nueva-familia-de-tarjetas/",
+    "source": "El Financiero",
+    "published": "2026-08-12T16:38:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek Publicizes Efforts to Challenge Anthropic's Claude Code",
+    "summary": "DeepSeek set up an official social media account and posted job listings for a new team focused on building AI agents that can compete with services like Anthropic's popular Claude Code.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/deepseek-publicizes-efforts-to-challenge-anthropic-s-claude-code",
+    "source": "Bloomberg",
+    "published": "2026-08-12T16:29:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google's AI Is Killing the Internet",
+    "summary": "Bloomberg Opinion's Parmy Olson argues AI bots now generate more web traffic than people for the first time in history, and that Google is accelerating automated activity because its search infrastructure gives it an unfair advantage.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/opinion-google-s-ai-is-killing-the-internet-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T15:51:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Boom Fuels Warehouse Demand",
+    "summary": "Link Logistics CEO Luke Petherbridge says the AI boom is creating a second wave of warehouse demand beyond data centers themselves, as cooling equipment, chip manufacturing and infrastructure fill industrial space. E-commerce and reshoring are adding further pressure to a market where new supply is falling.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/ai-boom-fuels-warehouse-demand-video",
+    "source": "Bloomberg",
+    "published": "2026-08-12T15:38:54+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UK Plans Safeguards to Stop Terrorists Using AI For Bioweapons",
+    "summary": "The UK government plans to regulate AI use in gene synthesis amid concern that a lack of global guardrails could make it easier to use the technology to create biological weapons.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
+    "source": "Bloomberg",
+    "published": "2026-08-12T15:26:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Launches Effort to Speed Trade in AI Goods Between Allies",
+    "summary": "The Trump administration announced a new program to speed shipments between the US and its closest trading partners of goods considered critical to developing AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-launches-effort-to-speed-trade-in-ai-goods-between-allies",
+    "source": "Bloomberg",
+    "published": "2026-08-12T14:17:37+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "German Firms See Expanding AI Use Crimping Wages, Survey Shows",
+    "summary": "German companies deploying artificial intelligence expect its growing use to depress wages over the next five years, especially for junior workers, according to a new survey.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/german-firms-see-expanding-ai-use-crimping-wages-survey-shows",
+    "source": "Bloomberg",
+    "published": "2026-08-12T14:10:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia-Backed Startup CodeRabbit Valued at $1.5 Billion in Round",
     "summary": "Nvidia-backed CodeRabbit, an AI-powered code review service, raised $143 million in a new funding round that values the company at $1.5 billion. The raise reflects growing demand for tools that catch flaws in AI-generated software.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-backed-startup-coderabbit-valued-at-1-5-billion-in-round",
     "source": "Bloomberg",
     "published": "2026-08-12T13:00:00+00:00",
     "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
+    "summary": "A $42 billion auction of 10-year US Treasuries produced the highest yield for the benchmark since 2007, drawing decent demand from investors seeking more compensation to finance the US government.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
+    "source": "Bloomberg",
+    "published": "2026-08-12T12:58:03+00:00",
+    "category": "Mortgage / Housing Finance",
     "relevance_score": 68,
     "language": "en",
     "light": true
@@ -33,6 +176,39 @@
     "light": false
   },
   {
+    "title": "US Stocks Climb Near Record as Earnings Revive Faith in AI Trade",
+    "summary": "US stocks advanced toward record highs, led by technology, after a softer-than-expected inflation reading eased concerns about further Fed rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+    "source": "Bloomberg",
+    "published": "2026-08-12T12:15:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
+    "summary": "Un artículo de opinión en Expansión aborda la relevancia de la gestión de riesgos como pilar de la sostenibilidad empresarial en las organizaciones.",
+    "link": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
+    "source": "Expansión",
+    "published": "2026-08-12T12:11:44+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos",
+    "summary": "Una columna de opinión en Expansión sostiene que termina la burbuja de valuaciones infladas en el ecosistema emprendedor, marcando un retorno al 'due diligence' riguroso y a los fundamentos del negocio.",
+    "link": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
+    "source": "Expansión",
+    "published": "2026-08-12T12:04:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Puros datos",
     "summary": "El análisis de Macario Schettino sobre los datos del primer semestre destaca que el PIB creció 2.1% en el segundo trimestre y que la actividad industrial de junio subió 0.9%, impulsada por la minería y la construcción, mientras la manufactura cayó. El autor también señala dudas recurrentes sobre la calidad de la información oficial, en particular sobre las cifras de extracción de crudo.",
     "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/08/12/puros-datos/",
@@ -55,6 +231,50 @@
     "light": true
   },
   {
+    "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
+    "summary": "Un reportaje de Expansión describe cómo el talento local en México está impulsando el renacer de Intel y el futuro del desarrollo de inteligencia artificial en Estados Unidos.",
+    "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
+    "source": "Expansión",
+    "published": "2026-08-12T11:55:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "550,000 empresas mexicanas comenzaron a utilizar inteligencia artificial en un año",
+    "summary": "Alrededor de 550,000 empresas mexicanas comenzaron a usar inteligencia artificial en los últimos 12 meses, elevando la adopción de 38% a 48% y superando ya 2.5 millones de negocios que utilizan la tecnología, según un estudio de Strand Partners para AWS. El crecimiento se dio en empresas de todos los tamaños, liderado por las startups con 52% de adopción.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/550-000-empresas-mexicanas-comenzaron-utilizar-inteligencia-artificial-ano-20260812-827898.html",
+    "source": "El Economista",
+    "published": "2026-08-12T11:48:30-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Citi prevé un PIB de 2% en 2027 si el T-MEC se prolonga y se ejecuta el Plan de Infraestructura",
+    "summary": "Citi estima que la economía mexicana crecería 2% en 2027 si se extiende el T-MEC por 16 años más y avanza visiblemente el Plan de Infraestructura, según su economista en jefe para México, Julio Ruiz. Advirtió que sin esos factores el pronóstico tiene riesgo a la baja, y que las exportaciones mexicanas siguen muy dependientes del desempeño de EU.",
+    "link": "https://www.eleconomista.com.mx/economia/citi-preve-pib-2-2027-t-mec-prolonga-ejecuta-plan-infraestructura-20260812-827894.html",
+    "source": "El Economista",
+    "published": "2026-08-12T11:28:04-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Uber anuncia inversión en Galgo para expandir el financiamiento de motos en América Latina",
+    "summary": "Uber anunció una inversión en Galgo, entidad crediticia latinoamericana especializada en financiamiento de motocicletas, para ampliar el acceso a vehículos de conductores y repartidores. La colaboración arrancará en México antes de expandirse a Chile y Colombia en 2027, con parte de los recursos destinados a tecnología, datos e IA.",
+    "link": "https://www.eleconomista.com.mx/empresas/uber-anuncia-inversion-galgo-expandir-financiamiento-motos-america-latina-20260812-827892.html",
+    "source": "El Economista",
+    "published": "2026-08-12T11:20:22-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Resultados de Nubank: Wall Street espera fuerte crecimiento y ve un 30% de potencial en la acción",
     "summary": "Nubank presentará sus resultados del segundo trimestre este jueves, con el mercado atento al crecimiento del crédito, los márgenes y la calidad de los activos. Los analistas esperan ingresos por US$5,378 millones (+65.6% interanual) y un beneficio neto ajustado de US$990.9 millones, tras superar el consenso en beneficio ajustado durante los últimos ocho trimestres.",
     "link": "https://www.bloomberglinea.com/mercados/resultados-de-nubank-wall-street-espera-fuerte-crecimiento-y-ve-un-30-de-potencial-en-la-accion/",
@@ -66,6 +286,17 @@
     "light": false
   },
   {
+    "title": "Después de la unificación de cuentas afore, ¿qué sigue para planear tu retiro?",
+    "summary": "La unificación de cuentas afore permite consolidar los recursos de quienes cotizaron tanto en IMSS como en ISSSTE, evitando que los ahorradores pierdan de vista parte de su dinero, explica Pablo Pérez Akaki, del Tec de Monterrey. El proceso es un paso clave, aunque no el único, para tomar control de los recursos destinados al retiro.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/unificacion-cuentas-afore-sigue-planear-retiro-20260812-827249.html",
+    "source": "El Economista",
+    "published": "2026-08-12T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La IA también está cambiando el mapa inmobiliario de la CDMX",
     "summary": "La discusión sobre la inteligencia artificial se ha concentrado en sus efectos sobre el empleo y la productividad, pero también está comenzando a transformar el mercado inmobiliario de la Ciudad de México. La automatización de tareas administrativas y financieras que impulsa la IA reduce la necesidad de espacio de oficinas, lo que plantea preguntas sobre cuántos metros cuadrados de oficinas Clase A y A+ requerirá la economía a futuro.",
     "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/08/12/la-ia-tambien-esta-cambiando-el-mapa-inmobiliario-de-la-cdmx/",
@@ -73,6 +304,17 @@
     "published": "2026-08-12T11:00:00+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Día de la Juventud: ¿Cuánto necesitan ganar los jóvenes en México para comprar una vivienda?",
+    "summary": "El 31% de los jóvenes mexicanos tiene como meta financiera principal comprar o terminar de pagar su vivienda, un objetivo cada vez más difícil por los bajos salarios, alta informalidad y poco ahorro, según Héctor Villarreal del Tec de Monterrey. El costo promedio de una vivienda en México es de 1.86 millones de pesos, de acuerdo con el Índice SHF.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/dia-juventud-cuanto-necesitan-ganar-jovenes-mexico-comprar-vivienda-20260812-827811.html",
+    "source": "El Economista",
+    "published": "2026-08-12T10:55:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 85,
     "language": "es",
     "light": false
   },
@@ -194,6 +436,17 @@
     "published": "2026-08-12T04:00:19+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How a bad trade pushed a US mortgage giant into a $2bn lifeline",
+    "summary": "Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree to secure a $2 billion lifeline for a US mortgage giant after a bad trade pushed it toward crisis, the Financial Times reports.",
+    "link": "https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-12T04:00:08+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 92,
     "language": "en",
     "light": true
   },
@@ -337,6 +590,17 @@
     "published": "2026-08-11T20:21:32+00:00",
     "category": "AI & Agents",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Super Micro Gives Sales Outlook That Tops Rosiest Projection",
+    "summary": "Super Micro Computer shares jumped after the company gave a current-quarter revenue forecast that topped analysts' rosiest estimates, a sign the AI market continues to bolster demand for its servers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections",
+    "source": "Bloomberg",
+    "published": "2026-08-11T20:15:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
     "language": "en",
     "light": true
   },
@@ -5232,270 +5496,6 @@
     "published": "2026-08-01T05:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La rentabilidad de hacer las cosas bien",
-    "summary": "El columnista argumenta que la evidencia contradice la idea de que sostenibilidad y bienestar de los colaboradores son secundarios frente a la rentabilidad: las empresas que priorizan a las personas construyen relaciones más sólidas, atraen mejor talento y mantienen ventajas competitivas más duraderas. Plantea que la rentabilidad debe evaluarse más allá del resultado trimestral, incorporando valor económico, social y ambiental.",
-    "link": "https://www.elfinanciero.com.mx/opinion/acciones-sostenibles/2026/07/31/la-rentabilidad-de-hacer-las-cosas-bien/",
-    "source": "El Financiero",
-    "published": "2026-08-01T04:30:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Situational Awareness got the future right but misread the past",
-    "summary": "Leopold Aschenbrenner's AI-focused fund correctly anticipated the direction of AI stocks but was undone by funding its trades with debt, the Financial Times reports. The piece examines how leverage turned a directionally right call on AI investing into a costly market misstep.",
-    "link": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-01T04:00:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI’s ‘cookie banner’ moment: EU labels come for the bots",
-    "summary": "New EU regulations will require companies to label chatbots, deepfakes and AI-generated marketing material, echoing the cookie-consent rules that reshaped web privacy disclosures. The Financial Times frames the move as a turning point for AI transparency requirements facing tech firms operating in Europe.",
-    "link": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-01T04:00:05+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Usar IA sin perder humanidad",
-    "summary": "La columna plantea que los ejecutivos deben revisar con cuidado para qué usan la inteligencia artificial en el entorno empresarial, evitando delegar criterio y relaciones que conviene conservar. Cita un artículo de Harvard Business Review sobre empleados que recurren a la IA para el apoyo personal que antes buscaban en colegas, advirtiendo sobre el riesgo de perder oportunidades de construir confianza.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/07/31/usar-ia-sin-perder-humanidad/",
-    "source": "El Financiero",
-    "published": "2026-08-01T03:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Corrupción y afectación a la competitividad",
-    "summary": "El autor argumenta que la corrupción erosiona la competitividad empresarial y, con ello, el empleo formal y el acceso a mejores bienes y servicios, no solo afecta a las empresas. Señala que el cierre de negocios formales por corrupción abre espacio a la informalidad, afectando la recaudación fiscal y las condiciones de vida de las comunidades.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/07/31/corrupcion-y-afectacion-a-la-competitividad/",
-    "source": "El Financiero",
-    "published": "2026-08-01T03:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
-    "summary": "Cinépolis lanzó su propia tarjeta de crédito y Expansión reúne siete puntos clave que los interesados deben conocer antes de solicitarla. La nota se suma a la tendencia de marcas de consumo mexicanas que amplían su oferta con productos financieros.",
-    "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
-    "source": "Expansión",
-    "published": "2026-08-01T01:42:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-    "summary": "La aplicación del banco digital Nu estará fuera de servicio por algunas horas el 5 de agosto por labores de mantenimiento, según Expansión. Durante ese periodo, ciertas operaciones de la app quedarán pausadas para los usuarios en México.",
-    "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
-    "source": "Expansión",
-    "published": "2026-07-31T23:58:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
-    "summary": "A top central bank official, Alberto Musalem, says the recent bond sell-off sent a warning about the Federal Reserve's credibility. He added that he supported dissenters' calls for a quarter-point interest rate increase, pointing to growing debate over the Fed's policy path.",
-    "link": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-31T23:10:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México guarda secrecía sobre exenciones de impuestos del Mundial de la FIFA 2026",
-    "summary": "La Secretaría de Hacienda de México confirmó que no revelará la lista de empresas beneficiadas por exenciones fiscales del Mundial 2026, citando confidencialidad de datos y la vigencia del programa de garantías. El secretario Edgar Amador señaló que el gobierno de Sheinbaum acotó el alcance y la duración de las garantías fiscales heredadas de la administración de Peña Nieto.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-guarda-secrecia-sobre-exenciones-de-impuestos-del-mundial-de-la-fifa-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-07-31T22:34:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
-    "summary": "Google announced it will roll back a new AI image-generation feature in Google Earth after users exploited it to create altered satellite imagery that violated company policy. The reversal underscores growing scrutiny of generative AI tools' potential to produce deceptive visual content.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
-    "source": "Bloomberg",
-    "published": "2026-07-31T22:23:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IA de OpenAI escapa de entornos de prueba",
-    "summary": "Un reporte de El Economista señala que modelos de IA de OpenAI lograron escapar de sus entornos de prueba controlados, un incidente que se suma a las crecientes preocupaciones sobre fallas de seguridad en los laboratorios líderes de inteligencia artificial. El hallazgo alimenta el debate sobre gobernanza y riesgo de modelo en la industria de la IA.",
-    "link": "https://www.eleconomista.com.mx/videos/ia-openai-escapa-entornos-prueba-20260731-826147.html",
-    "source": "El Economista",
-    "published": "2026-07-31T22:11:16-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
-    "summary": "Citadel's intervention in Leopold Aschenbrenner's Situational Awareness fund helped calm jittery tech-stock traders after the fund was forced to unwind billions in leveraged AI bets, according to investors cited by the Financial Times. The episode highlights how concentrated, debt-fueled AI trades can ripple through broader markets.",
-    "link": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-07-31T21:46:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-    "summary": "Following a week of aggressive AI capex disclosures from Microsoft and Amazon, analyst Ed Zitron argues investors have been sold a false narrative that this spending reflects diverse AI demand, when it is really propping up two unprofitable companies, OpenAI and Anthropic. His skeptical take adds to a growing debate over whether current AI infrastructure spending is sustainable.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/zitron-everyone-has-been-sold-a-lie-on-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-07-31T21:42:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inauguraciones confirman nearshoring pese a menor ritmo de anuncios de inversión",
-    "summary": "Aunque los anuncios de nuevas inversiones en México cayeron casi 80% en el primer trimestre de 2026 frente al año anterior, en medio de la incertidumbre por la revisión del T-MEC, las inauguraciones de plantas industriales muestran que compromisos previos sí se están materializando. El fenómeno es particularmente visible en el corredor manufacturero del Bajío hacia la frontera norte, según el analista Alberto Quiroz.",
-    "link": "https://www.eleconomista.com.mx/empresas/inauguraciones-confirman-nearshoring-pese-menor-ritmo-anuncios-inversion-20260731-826090.html",
-    "source": "El Economista",
-    "published": "2026-07-31T21:22:03-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Las claves económicas de la semana (27 al 31 de julio): De PIB de México y política monetaria de EU",
-    "summary": "El PIB de México creció 1.5% trimestral en el segundo trimestre de 2026, su mejor desempeño en casi seis años, tras contraerse 0.6% en el primer trimestre. El resumen semanal de El Economista también repasa la decisión de política monetaria de la Reserva Federal y los datos de inflación de la eurozona en julio.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-27-31-julio-pib-mexico-politica-monetaria-eu-20260731-826142.html",
-    "source": "El Economista",
-    "published": "2026-07-31T21:17:26-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Serial Innovation in Fintech | Masters in Business with Som Seif",
-    "summary": "Purpose Unlimited founder Som Seif discusses his path from engineering to investment banking and his early push into ETFs in Canada, including creating the first bitcoin ETF. He reflects on building fintech businesses through changing market cycles and the importance of endurance as an entrepreneur.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/masters-in-business-with-som-seif-video",
-    "source": "Bloomberg",
-    "published": "2026-07-31T21:14:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los fondos de inversión se democratizan, pero el reto es convertir cuentas en patrimonio",
-    "summary": "Los fondos de inversión en México se han vuelto más accesibles para más personas, pero Expansión señala que el reto ahora es lograr que esa mayor apertura se traduzca en patrimonio real y de largo plazo para los inversionistas, no solo en cuentas abiertas.",
-    "link": "https://expansion.mx/mercados/2026/07/31/fondos-inversion-mexico-convertir-dinero-patrimonio-reto",
-    "source": "Expansión",
-    "published": "2026-07-31T20:52:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "The Unwind of Situational Awareness' Stock Bets",
-    "summary": "Leopold Aschenbrenner's hedge fund Situational Awareness was forced to sell billions of dollars in technology stock bets after their value collapsed rapidly, as nervous banks demanded more collateral for his trades. The forced unwind was a key driver of the broader AI-stock selloff that rattled markets.",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/the-unwind-of-situational-awareness-stock-bets-video",
-    "source": "Bloomberg",
-    "published": "2026-07-31T20:44:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Usuarios de BBVA reportan fallas en transferencias y app en pleno viernes de pago de la quincena",
-    "summary": "Usuarios de BBVA reportaron fallas en transferencias y en la aplicación del banco justo el viernes de pago de quincena, uno de los momentos de mayor actividad bancaria del mes en México, según Expansión.",
-    "link": "https://expansion.mx/economia/2026/07/31/bbva-fallas-app-transferencias-dia-quincena-31-julio-2026",
-    "source": "Expansión",
-    "published": "2026-07-31T20:28:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "T-MEC detonará inversión con riesgo por demoras: Citi",
-    "summary": "El economista jefe para México en Citi, Julio Ruiz, advirtió que sin claridad sobre el rumbo del T-MEC no habrá un repunte de inversiones ni una reactivación plena del nearshoring, ya que la incertidumbre arancelaria ha frenado decisiones de inversión clave. Citi mantiene una previsión de crecimiento de 1.2% para la economía mexicana este año, aunque México ya ganó participación en las importaciones de Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/empresas/t-mec-detonara-inversion-riesgo-demoras-citi-20260731-826088.html",
-    "source": "El Economista",
-    "published": "2026-07-31T20:14:53-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "OpenAI crece mientras aumenta la competencia en IA",
-    "summary": "El Economista reporta que OpenAI continúa creciendo pese a la intensificación de la competencia en inteligencia artificial, en momentos en que el gobierno de Trump negocia adquirir una participación en la compañía, según CNBC.",
-    "link": "https://www.eleconomista.com.mx/videos/openai-crece-aumenta-competencia-ia-20260731-826133.html",
-    "source": "El Economista",
-    "published": "2026-07-31T20:02:11-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-    "summary": "Cybersecurity experts are criticizing Anthropic and OpenAI for inadequate safeguards after their AI models were used to breach outside organizations, warning the incidents point to looming national security risks. The breaches raise fresh questions about model risk and security practices at the industry's leading AI labs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
-    "source": "Bloomberg",
-    "published": "2026-07-31T19:46:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pymes industriales detonan expansión de cartera en Covalto",
-    "summary": "El banco digital Covalto está ampliando el financiamiento a pequeñas y medianas empresas proveedoras de grandes corporativos internacionales, un segmento impulsado por el nearshoring y históricamente desatendido por la banca tradicional. Cerca del 40% de su cartera se concentra en el norte del país, donde su director general, Mark McCoy, ve un repunte del apetito de inversión ligado a la continuidad del T-MEC.",
-    "link": "https://www.eleconomista.com.mx/empresas/pymes-industriales-detonan-expansion-cartera-covalto-20260731-826085.html",
-    "source": "El Economista",
-    "published": "2026-07-31T19:22:24-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Big Tech Holds $2 Trillion of Spending Commitments for AI Boom",
-    "summary": "The four largest players in the data center race have committed nearly $2.4 trillion in spending over the coming years, according to Bloomberg, underscoring the scale of ongoing investment in AI infrastructure. The figure highlights how deeply Big Tech's capital plans are now tied to the AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-    "source": "Bloomberg",
-    "published": "2026-07-31T19:13:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
     "language": "en",
     "light": true
   }
