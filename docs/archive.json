@@ -1,5 +1,104 @@
 [
   {
+    "title": "Goldman Sachs Is Bullish on Active ETFs With Purchase of SPYI, QQQI Issuer",
+    "summary": "Goldman Sachs is acquiring the issuer behind the popular active ETFs SPYI and QQQI, according to Bloomberg. The move deepens Goldman's push into a market where investors pay a premium for funds that promise more than simply tracking an index.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/goldman-sachs-is-bullish-on-active-etfs-with-purchase-of-spyi-qqqi-issuer",
+    "source": "Bloomberg",
+    "published": "2026-08-13T18:21:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek eleva precios de sus modelos de IA antes de su oferta pública en Bolsa",
+    "summary": "DeepSeek incrementará hasta cuadruplicar los precios de sus modelos insignia V4 a partir del 16 de agosto, antes de una posible oferta pública inicial. Aun con el alza, sus tarifas seguirán por debajo de las de rivales como OpenAI y Anthropic, mientras la compañía prioriza la rentabilidad de cara a su debut bursátil.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/08/13/deepseek-eleva-precios-de-sus-modelos-de-ia-antes-de-su-oferta-publica-en-bolsa/",
+    "source": "El Financiero",
+    "published": "2026-08-13T18:09:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La Corte y las pensiones",
+    "summary": "La Suprema Corte de México avaló por unanimidad el Fondo de Pensiones para el Bienestar, que traslada a un fideicomiso estatal las cuentas inactivas de las Afores de trabajadores mayores de 70 años (IMSS) o 75 (ISSSTE), rechazando los argumentos de confiscación de la oposición. El fallo resuelve la pregunta jurídica pero, según el autor, deja sin responder la discusión económica de fondo sobre el manejo de esos recursos, pese a que el fondo ya ha devuelto 5,940 millones de pesos de los más de 24,000 millones trasladados.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gustavo-de-hoyos-walther/2026/08/13/la-corte-y-las-pensiones/",
+    "source": "El Financiero",
+    "published": "2026-08-13T17:30:37+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI has opened up big holes in cyber security",
+    "summary": "The Financial Times argues that AI has opened major new holes in cybersecurity and is already being used as a damaging weapon. It says it is too late to prevent this, so large-scale investment in AI-era defenses is now urgently needed.",
+    "link": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-13T17:14:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Debuts New Gemini Flash While Top AI Model Still Delayed",
+    "summary": "Google released a new version of its workhorse Gemini Flash AI model but did not announce a release date for its more powerful Gemini 3.5 Pro model, which continues to face delays. The launch highlights Google's steady cadence on lighter-weight models even as its flagship release lags competitors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed",
+    "source": "Bloomberg",
+    "published": "2026-08-13T17:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
+    "summary": "Anthropic is reportedly in talks to acquire AI startup Decart AI for about $6 billion, according to people familiar with the matter. The deal would be the largest known acquisition in Anthropic's history.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-in-talks-to-buy-ai-startup-decart-for-6b-video",
+    "source": "Bloomberg",
+    "published": "2026-08-13T16:58:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year",
+    "summary": "OpenAI is naming its second chief revenue officer in less than a year, hiring an executive from a cybersecurity firm to drive sales growth. The move comes ahead of OpenAI's highly anticipated Wall Street debut.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/openai-hires-new-chief-revenue-officer-after-less-than-a-year",
+    "source": "Bloomberg",
+    "published": "2026-08-13T15:55:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lento, pero seguro: Tipo de cambio se mueve hacia los 16 pesos por dólar",
+    "summary": "El peso mexicano se acerca a los 16 por dólar este jueves, cotizando en 17.05 unidades, luego de que la inflación al productor en Estados Unidos se desaceleró más de lo esperado en julio. El dato refuerza las expectativas de que la Reserva Federal mantendrá sin cambios sus tasas, lo que junto con la moderación en precios del petróleo debilita al dólar frente al peso.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/13/peso-dolar-precio-hoy-13-de-agosto-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-13T15:34:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Databricks Raises $5 Billion at a $190 Billion Valuation",
+    "summary": "Databricks has secured $5 billion in new funding at a $190 billion valuation, its second financing round this year. The fast-growing software firm competes with Snowflake and Alphabet in the data and AI platform space.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/databricks-raises-5-billion-at-a-190-billion-valuation",
+    "source": "Bloomberg",
+    "published": "2026-08-13T14:40:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Flock Cameras Get New Privacy Guardrails as CEO Says 'We're Not Big Brother'",
     "summary": "Flock Safety is introducing new privacy guardrails for its automated license-plate-reader technology after backlash over allegations of misuse and mass surveillance. The company's CEO pushed back on comparisons to mass-surveillance systems, saying \"we're not Big Brother.\"",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/flock-ceo-unveils-privacy-guardrails-we-re-not-big-brother",
@@ -9,6 +108,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El Mundial 2026 triplicó la velocidad móvil y aceleró los pagos digitales en México",
+    "summary": "El Mundial 2026 dejó en México una red móvil hasta tres veces más rápida dentro del Estadio Ciudad de México y más de 692,000 pequeños negocios habilitados para pagos digitales, tras una ampliación temporal de 330 MHz de espectro y el refuerzo de 854 sitios LTE y más de 102 sectores 5G. El torneo funcionó como una prueba de estrés a gran escala para la infraestructura de nube y pagos que usan diariamente las empresas mexicanas.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/mundial-2026-triplico-velocidad-movil-acelero-pagos-digitales-mexico-20260813-828131.html",
+    "source": "El Economista",
+    "published": "2026-08-13T12:54:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Relanza tu carrera",
@@ -53,6 +163,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Estados Unidos incluye a México como país asociado a un riesgo elevado de transbordo ilegal",
+    "summary": "La Casa Blanca identificó a México entre más de 40 países señalados por un riesgo elevado de transbordo ilegal de mercancías chinas, en un reporte que cuantifica el problema en 75,000 millones de dólares anuales a nivel global. El informe estima pérdidas de hasta 450,000 empleos y entre 113,000 y 150,000 millones de dólares del PIB de EU por esta práctica, presionando aún más el contexto previo a la revisión del T-MEC.",
+    "link": "https://www.eleconomista.com.mx/empresas/estados-unidos-incluye-mexico-pais-asociado-riesgo-elevado-transbordo-ilegal-20260813-828112.html",
+    "source": "El Economista",
+    "published": "2026-08-13T11:06:22-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La información crediticia y la llegada a México de Equifax",
@@ -5377,126 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Indicadores IMEF inician el segundo semestre de 2026 en recuperación",
-    "summary": "El Indicador IMEF Manufacturero de México mejoró de 47.9 a 49.4 puntos en julio, su nivel más alto desde marzo de 2024, aunque acumula 28 meses consecutivos por debajo del umbral de expansión de 50 puntos. La lectura sugiere una desaceleración en la contracción industrial más que una recuperación firme.",
-    "link": "https://www.eleconomista.com.mx/empresas/indicadores-imef-inician-segundo-semestre-2026-recuperacion-20260803-826387.html",
-    "source": "El Economista",
-    "published": "2026-08-03T12:45:40-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacia la ley mexicana de la inteligencia artificial y sus derivados: buques autónomos, drones y robots",
-    "summary": "Un análisis de opinión en El Financiero argumenta que la IA ya no es solo software: el Código MASS de la OMI, vigente desde julio, regula por primera vez los buques de carga autónomos, mientras drones y vehículos ya operan comercialmente. El autor sostiene que México necesita avanzar hacia un marco jurídico propio para la IA y sus derivados físicos —robots, drones, embarcaciones autónomas— ante la creciente disputa global por semiconductores y energía.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/08/03/hacia-la-ley-mexicana-de-la-inteligencia-artificial-y-sus-derivados-buques-autonomos-drones-y-robots/",
-    "source": "El Financiero",
-    "published": "2026-08-03T12:37:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China's Next AI Race Goes Beyond Chatbots",
-    "summary": "Bloomberg Opinion argues that Washington's focus on China's chatbot model Kimi K3 overlooks Beijing's bigger push to move AI beyond conversational tools and into the physical world. Columnist Catherine Thorbecke frames this as the real frontier of the US-China AI race.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/opinion-china-s-next-ai-race-goes-beyond-chatbots-video",
-    "source": "Bloomberg",
-    "published": "2026-08-03T12:27:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La tecnología y el cumplimiento laboral: de la obligación al rediseño operativo",
-    "summary": "Una columna de opinión en Expansión analiza cómo la tecnología está transformando el cumplimiento laboral en México, pasando de ser una obligación regulatoria a un rediseño operativo integral dentro de las empresas.",
-    "link": "https://expansion.mx/opinion/2026/08/03/tecnologia-cumplimiento-reforma-laboral",
-    "source": "Expansión",
-    "published": "2026-08-03T12:06:25+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
-    "summary": "México busca evitar que Estados Unidos le imponga nuevos aranceles bajo la acusación de sobrecapacidad industrial, en medio de las tensiones comerciales entre ambos países.",
-    "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
-    "source": "Expansión",
-    "published": "2026-08-03T11:55:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Casa Blanca convoca reunión este martes para debatir sobre la regulación de la IA",
-    "summary": "La Casa Blanca convocó a empresas del sector de inteligencia artificial a una reunión el martes para debatir un mecanismo de autorregulación de la IA anunciado a principios de junio. Un funcionario del gobierno no dio detalles sobre el horario ni los participantes del encuentro.",
-    "link": "https://www.eleconomista.com.mx/internacionales/casa-blanca-convoca-reunion-martes-debatir-sobre-regulacion-ia-20260803-826383.html",
-    "source": "El Economista",
-    "published": "2026-08-03T11:44:58-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Monitor laboral: los temas que marcaron julio",
-    "summary": "Un resumen de El Economista repasa los temas laborales que marcaron julio en México, incluyendo el aguinaldo de 30 días, el descanso compensatorio y los turnos rotativos.",
-    "link": "https://www.eleconomista.com.mx/videos/monitor-laboral-temas-marcaron-julio-20260803-826382.html",
-    "source": "El Economista",
-    "published": "2026-08-03T11:42:38-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mejora marginal a la expectativa del PIB no cambia cautela para invertir en México: Encuesta Banxico",
-    "summary": "Ningún especialista privado consultado por Banxico considera que este sea un buen momento para invertir en México, pese a que la encuesta de julio elevó ligeramente la expectativa de crecimiento del PIB de 1.07% a 1.11%. El 68% de los analistas espera que el clima de negocios se mantenga sin cambios en los próximos seis meses.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mejora-marginal-expectativa-pib-cambia-cautela-invertir-mexico-encuesta-banxico-20260803-826373.html",
-    "source": "El Economista",
-    "published": "2026-08-03T11:10:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Palantir Is Stuck in Worst-of-Both-Worlds Bind With AI, Software",
-    "summary": "Palantir shares have fallen more than 40% from their November peak, leaving the company caught between investors who view it as an AI software winner and skeptics wary of its high valuation. The stock's slide reflects broader market anxiety about whether AI-linked software firms can justify their premiums.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
-    "source": "Bloomberg",
-    "published": "2026-08-03T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tu historial crediticio también sabe premiar: ventajas de ser totalero",
-    "summary": "Un análisis de El Economista destaca las ventajas de usar crédito de forma disciplinada frente al efectivo en México, donde 3.26 billones de pesos circularon entre la población en junio según Banxico. Ser \"totalero\" —pagar el saldo completo cada mes— mejora el historial crediticio y abre condiciones más favorables a largo plazo.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/historial-crediticio-premiar-ventajas-totalero-20260803-825705.html",
-    "source": "El Economista",
-    "published": "2026-08-03T10:50:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The AI Domination Race is Adding to US-China Tensions",
-    "summary": "A Bloomberg newsletter examines how Washington's use of export controls and other restrictions to slow China's AI progress is intensifying friction between the two countries. The piece frames the AI race as an increasingly central axis of US-China tension, beyond trade and semiconductors alone.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-ai-domination-race-is-adding-to-us-china-tensions",
-    "source": "Bloomberg",
-    "published": "2026-08-03T10:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
   }
 ]
