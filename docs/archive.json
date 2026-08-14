@@ -1,5 +1,71 @@
 [
   {
+    "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
+    "summary": "SpaceX has completed a $60 billion acquisition of AI coding startup Cursor, one of the largest AI M&A deals to close this year. The purchase is a key part of Elon Musk's strategy to compete more directly with Anthropic and OpenAI in AI-powered coding tools. It underscores how aggressively capital is flowing into AI-native software companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
+    "source": "Bloomberg",
+    "published": "2026-08-14T12:55:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
+    "summary": "El pago de intereses de la deuda pública de México casi duplica el monto destinado a inversión en infraestructura, según reporta Expansión. La cifra pone en evidencia la presión que el costo financiero del endeudamiento ejerce sobre el gasto público disponible para proyectos de infraestructura.",
+    "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
+    "source": "Expansión",
+    "published": "2026-08-14T11:55:27+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "AI Drove Growth at Indeed After Investors Feared the Worst for Jobs-Search Site",
+    "summary": "AI-driven features sparked renewed growth at job-search platform Indeed, reversing investor fears that the site was being disrupted out of existence by AI job-search tools. The turnaround suggests incumbents can defend their position by embedding AI rather than being displaced by it. It's a notable data point on enterprise AI adoption paying off in a threatened industry.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/ai-drove-growth-at-indeed-after-investors-feared-the-worst-for-jobs-search-site",
+    "source": "Bloomberg",
+    "published": "2026-08-14T10:32:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Por qué BlackRock sigue optimista con el mercado estadounidense y qué mira en Latinoamérica",
+    "summary": "BlackRock mantiene una visión optimista sobre las acciones estadounidenses y prefiere el tramo corto y medio de la curva de treasuries, según Francisco Rosemberg, director del negocio de wealth & family office para Latinoamérica de la firma. La visión se apoya en la expectativa de que la inversión masiva en IA, centros de datos e infraestructura eléctrica eventualmente eleve la productividad económica y reduzca el peso relativo de la deuda. Rosemberg describe el escenario actual como una etapa de \"escasez\" de recursos previa a una posible \"abundancia\" impulsada por la tecnología.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-blackrock-sigue-optimista-con-el-mercado-estadounidense-y-que-mira-en-latinoamerica/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T09:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Este es el despacho mexicano detrás de Armani Residences, el complejo de lujo de Rafa Nadal en Marbella",
+    "summary": "El despacho mexicano GVI Architects (Gómez Vázquez International) diseñará Armani Residences Marbella, el primer proyecto residencial de lujo vinculado a Armani en España, desarrollado junto a Sierra Blanca Estates y la firma de inversión de Rafael Nadal y Abel Matutes Prats. El complejo tendrá 33 viviendas en nueve edificios sobre 50,000 m² en la Milla de Oro de Marbella. Es un ejemplo de firmas mexicanas de arquitectura ganando proyectos residenciales de lujo internacionales.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/este-es-el-despacho-mexicano-detras-de-armani-residences-el-complejo-de-lujo-de-rafa-nadal-en-marbella/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T08:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stablecoin Firm RedotPay Is Said to Delay US IPO on Legal Issues",
+    "summary": "Stablecoin payments company RedotPay has delayed its planned US IPO while it works through regulatory approvals and unspecified legal issues, according to people familiar with the matter. The delay highlights the regulatory friction stablecoin and crypto-payments firms still face on the path to public markets. It's a relevant signal for fintech capital-markets activity broadly.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/stablecoin-firm-redotpay-is-said-to-delay-us-ipo-on-legal-issues",
+    "source": "Bloomberg",
+    "published": "2026-08-14T07:46:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Qué viene para el dólar en América Latina? Las proyecciones de Credicorp país por país",
     "summary": "El carry trade sigue beneficiando a monedas latinoamericanas como el peso colombiano y el real brasileño en 2026, pero el fortalecimiento global del dólar, el riesgo de nuevas alzas de tasas de la Fed y factores político-fiscales elevan el riesgo de una reversión, según Credicorp Capital. La firma mantiene un objetivo de 102 puntos para el índice DXY y advierte que las tensiones geopolíticas y la volatilidad energética han reactivado los riesgos inflacionarios.",
     "link": "https://www.bloomberglinea.com/mercados/que-viene-para-el-dolar-en-america-latina-las-proyecciones-de-credicorp-pais-por-pais/",
@@ -7,6 +73,39 @@
     "published": "2026-08-14T07:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek lanza su modelo V4 Pro a precios hasta 14 veces superiores a los del V4 Flash",
+    "summary": "DeepSeek presentó su modelo V4 Pro, con un precio hasta 14 veces superior al de su modelo V4 Flash, apuntando a una oferta insignia de gama alta con mejores capacidades para agentes de IA. El nuevo modelo cuesta 1.32 dólares por millón de tókenes de entrada y 3.96 dólares por millón de salida, y la empresa anunció además que subirá tarifas de sus modelos existentes con precios diferenciados por hora pico y valle. La medida refleja cómo los laboratorios chinos están escalando precios conforme mejora el rendimiento de sus modelos.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/deepseek-lanza-modelo-v4-pro-precios-14-veces-superiores-v4-flash-20260814-828289.html",
+    "source": "El Economista",
+    "published": "2026-08-14T06:40:49-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apple entrena un modelo de IA para China en colaboración con Alibaba: ¿Qué se sabe?",
+    "summary": "Apple entrenó un modelo de lenguaje propio específicamente para el mercado chino en colaboración con Alibaba, un cambio respecto a su estrategia previa de usar modelos de terceros para las funciones de IA de sus dispositivos en ese país. Es la primera vez que se reporta que Apple desarrolla un modelo dedicado a China, donde herramientas como Claude de Anthropic y ChatGPT de OpenAI no están disponibles. La medida refleja cómo las grandes tecnológicas adaptan su estrategia de IA a mercados con regulación distinta.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/apple-entrena-modelo-ia-china-colaboracion-alibaba-20260814-828286.html",
+    "source": "El Economista",
+    "published": "2026-08-14T06:23:35-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El fabricante chino de chips SMIC sube los precios ante la fuerte demanda de la IA",
+    "summary": "SMIC, el mayor fabricante de chips de China, subió los precios de su capacidad de producción más solicitada tras negociar con clientes, citando la fuerte demanda vinculada a la inteligencia artificial. El codirector ejecutivo Zhao Haijun dijo que la compañía cobrará más por las obleas procesadas a partir del tercer trimestre, aunque reconoció que sus precios siguen por debajo de los líderes del sector. El caso ilustra cómo el auge de la IA está presionando al alza los precios en toda la cadena de suministro de semiconductores.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/fabricante-chino-chips-smic-sube-precios-fuerte-demanda-ia-20260814-828285.html",
+    "source": "El Economista",
+    "published": "2026-08-14T06:18:04-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -20,6 +119,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Reglas antilavado de dinero: el costo de cumplir",
+    "summary": "La SHCP publicó el 7 de agosto nuevas reglas antilavado de dinero (Acuerdo 115/2026) que reemplazan el esquema de umbrales y avisos por un \"Enfoque Basado en Riesgo\" para actividades vulnerables, como parte de la reforma legal de 2025 y las recomendaciones del GAFI. El artículo cuestiona si el cambio logrará fortalecer el combate al lavado de dinero sin imponer cargas de cumplimiento desproporcionadas a las empresas. Es un cambio regulatorio relevante para instituciones financieras y empresas obligadas en México.",
+    "link": "https://www.eleconomista.com.mx/opinion/reglas-antilavado-dinero-costo-cumplir-20260814-828282.html",
+    "source": "El Economista",
+    "published": "2026-08-14T05:58:23-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
@@ -5387,116 +5497,6 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 65,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock Launches Tokenized Money Market Funds in Europe",
-    "summary": "BlackRock lanzó fondos tokenizados del mercado de dinero en Europa, llevando la tecnología blockchain a sus productos de efectivo insignia. El movimiento confirma el creciente impulso de Wall Street por integrar infraestructura de activos digitales en las finanzas tradicionales.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/blackrock-launches-tokenized-money-market-funds-in-europe",
-    "source": "Bloomberg",
-    "published": "2026-08-04T05:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers",
-    "summary": "Una ola de nuevos lanzamientos de modelos por parte de laboratorios chinos de IA está cerrando rápidamente la brecha con Silicon Valley, creando lo que se describe como una 'zona de muerte' para quienes no cuenten con tecnología de frontera o precios agresivos. El fenómeno intensifica la presión competitiva sobre los desarrolladores estadounidenses de modelos.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
-    "source": "Bloomberg",
-    "published": "2026-08-04T04:38:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China Anxious About Mythos Ahead of Trump-Xi Meeting",
-    "summary": "China muestra creciente inquietud de que el modelo Mythos de Anthropic pueda usarse en su contra, sumando un nuevo factor de tensión antes de la cumbre planeada entre Xi Jinping y Donald Trump. El tema se suma a la ya delicada relación comercial y tecnológica entre ambas potencias.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/china-anxious-about-mythos-ahead-of-trump-xi-meeting-video",
-    "source": "Bloomberg",
-    "published": "2026-08-04T04:34:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-    "summary": "Google está construyendo una estructura de financiamiento sin precedentes de 200,000 millones de dólares para Anthropic, combinando crédito privado, arrendamiento de chips y garantías de centros de datos. El acuerdo refleja cómo el gasto en infraestructura de IA se financia cada vez más mediante estructuras complejas de Wall Street en lugar de capital directo.",
-    "link": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-04T04:00:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big AI Bets Divide Venture Capital, Leaving Smaller Funds Behind",
-    "summary": "Las grandes apuestas de capital de riesgo en IA están dividiendo a la industria: los fondos grandes concentran el interés de los inversionistas mientras los más pequeños luchan por levantar capital. Los inversionistas exigen retornos comprobados antes de comprometer nuevos fondos, en medio del auge de inversión en IA.",
-    "link": "https://www.bloomberg.com/news/features/2026-08-04/big-ai-bets-divide-venture-capital-leaving-smaller-funds-behind",
-    "source": "Bloomberg",
-    "published": "2026-08-04T04:00:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mara Lezama informa que Moody’s eleva la calificación crediticia de Quintana Roo",
-    "summary": "Moody's Local México elevó la calificación crediticia de Quintana Roo de A+.mx a AA-.mx y mejoró su perspectiva a Estable, tras una mejora sostenida en el perfil financiero del estado durante los últimos tres ejercicios fiscales. La gobernadora Mara Lezama destacó que con esta revisión concluye el ciclo anual de calificaciones, todas con mejoras para la entidad.",
-    "link": "https://www.elfinanciero.com.mx/estados/2026/08/03/mara-lezama-informa-que-moodys-eleva-la-calificacion-crediticia-de-quintana-roo/",
-    "source": "El Financiero",
-    "published": "2026-08-04T03:55:28+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "NAB Tests AI Agents in Plan to Deploy Tech to Banking Customers",
-    "summary": "National Australia Bank comenzará a probar los controles de seguridad y operación de una plataforma de IA agéntica, en un contexto donde los mayores bancos del país buscan desplegar la tecnología de forma más amplia. La prueba refleja un giro más amplio del sector bancario hacia agentes de IA para operaciones de cara al cliente.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/nab-tests-ai-agents-in-plan-to-deploy-tech-to-banking-customers",
-    "source": "Bloomberg",
-    "published": "2026-08-04T01:15:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Es sostenible el mejor balance fiscal que presume SHCP?",
-    "summary": "La Secretaría de Hacienda difundió su informe del segundo trimestre de 2026, que muestra un déficit presupuestario menor al programado y un superávit primario de 115,000 millones de pesos. El artículo de opinión cuestiona qué tan sostenible es el balance fiscal que el gobierno presenta como una mejora estructural.",
-    "link": "https://www.eleconomista.com.mx/opinion/sostenible-mejor-balance-fiscal-presume-shcp-20260804-826499.html",
-    "source": "El Economista",
-    "published": "2026-08-04T00:08:19-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los criterios para aprobar créditos se mantienen estables: Fed",
-    "summary": "Una encuesta de la Reserva Federal mostró que los criterios para aprobar créditos comerciales e industriales se mantuvieron prácticamente sin cambios en el segundo trimestre, con mayor demanda por parte de empresas grandes y medianas. Los bancos reportaron cambios dispares en los criterios para préstamos a hogares y una menor demanda de crédito para inmuebles residenciales.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/criterios-aprobar-creditos-mantienen-estables-fed-20260803-826492.html",
-    "source": "El Economista",
-    "published": "2026-08-03T23:41:07-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cuánto debes ganar para que un banco te apruebe un crédito hipotecario en México?",
-    "summary": "El artículo detalla el ingreso mínimo que un banco en México exige para aprobar un crédito hipotecario. Aborda un tema central para la asequibilidad de vivienda y el acceso al financiamiento hipotecario en el país.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/03/cuanto-debes-ganar-banco-apruebe-credito-hipotecario",
-    "source": "Expansión",
-    "published": "2026-08-03T23:36:12+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
     "light": true
   }
 ]
