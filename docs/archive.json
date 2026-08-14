@@ -1,5 +1,93 @@
 [
   {
+    "title": "Mercado laboral pierde fuerza en julio por caída en inversión y consumo: BBVA Research",
+    "summary": "Un informe de BBVA Research atribuye la pérdida de fuerza del mercado laboral mexicano en julio a la caída en la inversión productiva y el menor consumo interno. El reporte advierte que la contracción en la Formación Bruta de Capital Fijo y el gasto de los hogares está limitando la capacidad de las empresas para mantener o ampliar sus plantillas.",
+    "link": "https://www.eleconomista.com.mx/empresas/mercado-laboral-pierde-fuerza-julio-caida-inversion-consumo-bbva-research-20260814-828343.html",
+    "source": "El Economista",
+    "published": "2026-08-14T18:59:12Z",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿El fin del fraude digital? Incode invierte $100M contra la IA maliciosa",
+    "summary": "Incode, la empresa de verificación de identidad encabezada por su fundador Ricardo Amper, anunció una inversión de 100 millones de dólares para combatir el fraude digital generado con inteligencia artificial maliciosa. La medida busca reforzar sus capacidades de detección ante el aumento de ataques asistidos por IA.",
+    "link": "https://www.eleconomista.com.mx/empresas/fraude-digital-incode-invierte-100m-ia-maliciosa-ricardo-amper-20260814-828338.html",
+    "source": "El Economista",
+    "published": "2026-08-14T18:57:05Z",
+    "category": "AI & Agents",
+    "relevance_score": 87,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano se estabiliza tras perforar la barrera de 17 unidades por dólar",
+    "summary": "El peso mexicano se estabilizó este viernes por debajo de la barrera de 17 unidades por dólar, su mejor nivel desde mayo de 2024, impulsado por un debilitamiento del dólar ante menores expectativas de alzas de tasas en EU y un aumento en operaciones de carry trade. La presidenta Claudia Sheinbaum celebró el nivel del tipo de cambio.",
+    "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-14-agosto-2026-cotiza-cuanto-20260814-828341.html",
+    "source": "El Economista",
+    "published": "2026-08-14T18:47:59Z",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Beyond Chatbots: The Next Wave of AI",
+    "summary": "Former AIX Ventures and Google DeepMind veterans, including Yann LeCun, have launched 224 Ventures, a new AI-native venture firm with over $100 million to back seed-stage bets. The firm plans to focus on 'nonconsensus' opportunities in robotics, infrastructure, and the future of work beyond chatbots.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T17:52:39Z",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI on Track to Double Revenue Ahead of IPO",
+    "summary": "OpenAI is on pace to more than double its annualized revenue to over $40 billion, up from its end-2025 run rate, driven by paid ChatGPT subscribers, enterprise adoption, and its Codex coding assistant. The growth comes as the company prepares for a potential IPO, though massive computing costs remain a key constraint.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T17:48:35Z",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La evolución del T-MEC: ¿más Norteamérica o más Estados Unidos?",
+    "summary": "Columna de opinión en El Financiero que analiza la evolución del T-MEC y su impacto en la industria automotriz de Norteamérica, donde las reglas de origen exigen 75% de contenido regional para vehículos ligeros y crecientes requisitos de acero, aluminio y contenido laboral. El autor cuestiona si el acuerdo se está inclinando hacia la integración regional o hacia intereses específicos de Estados Unidos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/14/la-evolucion-del-t-mec-mas-norteamerica-o-mas-estados-unidos/",
+    "source": "El Financiero",
+    "published": "2026-08-14T15:41:24Z",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Boom Reshapes Commodity Markets",
+    "summary": "AI's surging power demands are reshaping commodity markets, with CoreCommodity's Doug Daly pointing to continued strength in uranium and gold. He warned oil markets may be underestimating geopolitical risks as countries rethink critical-mineral supply chains to support AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T15:40:44Z",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Companies Work for Better Data, Not Better Models",
+    "summary": "Glasswing Ventures' Rudina Seseri discussed reports that Anthropic is in talks to acquire startup Decart for $6 billion, framing it within a broader critique that major AI labs like OpenAI and Anthropic remain inefficient despite their scale. She argued the sector's next challenge is improving underlying data, not just bigger models.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T15:16:15Z",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
     "summary": "SpaceX has completed a $60 billion acquisition of AI coding startup Cursor, one of the largest AI M&A deals to close this year. The purchase is a key part of Elon Musk's strategy to compete more directly with Anthropic and OpenAI in AI-powered coding tools. It underscores how aggressively capital is flowing into AI-native software companies.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
@@ -9,6 +97,39 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "AI is Driving Wider Growth, Says Deutsche Bank Analyst",
+    "summary": "Deutsche Bank's Binky Chadha said broadening demand for artificial intelligence is helping drive record stock market highs beyond just the dominant AI players themselves. He characterized the current rally as reflecting wider economic benefits from AI adoption, not narrow speculation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-is-driving-wider-growth-says-deutsche-bank-analyst-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T12:24:24Z",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA no empieza con el modelo. Empieza con los datos",
+    "summary": "Columna de opinión en Expansión que argumenta que las estrategias de inteligencia artificial en las empresas deben partir de la calidad y gobernanza de los datos, no de la elección del modelo. El artículo plantea que sin una base de datos sólida, la adopción de IA generativa difícilmente genera valor sostenible.",
+    "link": "https://expansion.mx/opinion/2026/08/13/la-ia-no-empieza-con-el-modelo-empieza-con-los-datos",
+    "source": "Expansión",
+    "published": "2026-08-14T12:12:51Z",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Se descubrió el preconsciente de la IA: se llama J-Space",
+    "summary": "Columna de opinión en Expansión que explora la idea de un 'preconsciente' en los sistemas de inteligencia artificial, al que denomina 'J-Space', como metáfora para describir procesos internos de los modelos antes de generar una respuesta. El texto invita a repensar cómo se entiende el razonamiento de la IA.",
+    "link": "https://expansion.mx/opinion/2026/08/14/se-descubrio-el-preconsciente-de-la-ia-se-llama-j-space",
+    "source": "Expansión",
+    "published": "2026-08-14T12:03:46Z",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
@@ -31,6 +152,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Qué esperar de la inflación de agosto después del rebote de julio",
+    "summary": "Tras un leve repunte en julio, con una inflación mensual de 2.1% y una interanual de 33.8% en Argentina, los analistas privados esperan que el IPC retome su senda de desaceleración en los próximos meses. El ministro de Economía, Luis Caputo, señaló que el dato estuvo en línea con lo previsto por el mercado.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/que-esperar-de-la-inflacion-de-agosto-despues-del-rebote-de-julio/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T09:00:00Z",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Por qué BlackRock sigue optimista con el mercado estadounidense y qué mira en Latinoamérica",
@@ -5366,137 +5498,5 @@
     "relevance_score": 83,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "OpenAI hits back at Apple over 'oddly personal' trade secrets fight",
-    "summary": "A trade-secrets legal dispute between OpenAI and Apple has escalated, with OpenAI pushing back after their AI-device partnership soured into acrimony. The clash marks a deepening rift between two of the industry's most closely watched AI players.",
-    "link": "https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-04T10:31:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apple Finally Gets into the Chatbot Race with Siri AI",
-    "summary": "Apple is finally entering the AI chatbot race with a revamped, AI-powered Siri. Because Siri comes pre-installed on hundreds of millions of devices, it could become one of the world's most widely used AI assistants almost overnight.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/apple-finally-gets-into-the-chatbot-race-with-siri-ai",
-    "source": "Bloomberg",
-    "published": "2026-08-04T10:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Reforma al seguro de gastos médicos",
-    "summary": "Se presentó en México una iniciativa de reforma al mercado de seguros de gastos médicos mayores, orientada a mayor transparencia en la contratación, regulación de las prácticas entre aseguradoras y prestadores, y fortalecimiento de las facultades de supervisión de las autoridades financieras. El debate cobra relevancia ante una inflación médica de entre 12% y 16% anual, muy por encima de la inflación general, que presiona primas y costos hospitalarios.",
-    "link": "https://www.elfinanciero.com.mx/opinion/imef/2026/08/04/reforma-al-seguro-de-gastos-medicos/",
-    "source": "El Financiero",
-    "published": "2026-08-04T10:20:41+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ex-Nubank Executives Launch AI Wealth Adviser in Brazil",
-    "summary": "Two former Nubank executives have launched an AI-powered wealth-advisory startup in Brazil, betting on consumers' fast adoption of digital-finance innovations like the Pix payment system. The venture aims to bring AI-driven financial advice to a market already primed for digital banking.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil",
-    "source": "Bloomberg",
-    "published": "2026-08-04T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street busca respuestas en los primeros resultados de SpaceX desde su debut bursátil",
-    "summary": "SpaceX presenta hoy sus primeros resultados trimestrales desde su salida a bolsa, en un momento en que la acción acumula una caída de 18.21% desde el debut y ha perdido buena parte del entusiasmo inicial de los inversionistas. El reporte coincide con el desbloqueo escalonado de acciones del IPO, factor que analistas consideran clave para explicar el comportamiento reciente del valor.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-busca-respuestas-en-los-primeros-resultados-de-spacex-desde-su-debut-bursatil/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sube previsión de crecimiento económico en México a 1.2 por ciento para 2026",
-    "summary": "La Encuesta de Banxico sobre Expectativas de los Especialistas mostró que los analistas del sector privado elevaron su previsión de crecimiento del PIB de México para 2026 a 1.20%, desde 1.10% en las dos encuestas previas, el primer repunte desde febrero. Pese a la mejora, persisten riesgos de que en algún trimestre próximo se observe una contracción respecto al periodo anterior.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/sube-prevision-de-crecimiento-economico-en-mexico-a-12-por-ciento-para-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-04T09:40:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Power Demands Spur Builders to Seek Billions in Bank Pledges",
-    "summary": "US power utilities, already strained by AI data-center demand, face a growing risk that developers could walk away from projects and leave households on the hook for massive infrastructure bills. Builders are now seeking billions of dollars in bank pledges to backstop the buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges",
-    "source": "Bloomberg",
-    "published": "2026-08-04T09:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock Overweight AI Despite Higher Risks, Li Says",
-    "summary": "BlackRock's global chief investment strategist Wei Li said the firm remains overweight AI stocks despite rising risks of commoditization and capital-capacity strain. The firm hasn't added to its AI conviction recently, she said, but it also hasn't pulled back.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/blackrock-overweight-ai-despite-higher-risks-li-says-video",
-    "source": "Bloomberg",
-    "published": "2026-08-04T09:20:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La competitividad de México también viaja por carretera",
-    "summary": "Una columna de opinión sostiene que la competitividad de México depende tanto de la logística de transporte como de la producción industrial, y que la renovación de flotas no debería tratarse como un tema sectorial menor. Destaca que el transporte concentra 35% de la cartera de los asociados de la AMSOFAC, consolidándose como el principal destino del financiamiento especializado y el segmento de mayor crecimiento.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/04/la-competitividad-de-mexico-tambien-viaja-por-carretera/",
-    "source": "El Financiero",
-    "published": "2026-08-04T09:15:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Abogados 2.0: Transformación en la era digital",
-    "summary": "Una columna de opinión analiza cómo la IA ya opera como herramienta cotidiana en operaciones de M&A y estructuración de financiamientos, generando cláusulas y análisis de riesgo regulatorio que antes tomaban semanas. Cita datos de Harvard Law School sobre despachos que recortan a la mitad sus programas de pasantías y equipos internos que resuelven el 80% de sus asuntos con IA antes de acudir a asesoría externa.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/08/04/abogados-20-transformacion-en-la-era-digital/",
-    "source": "El Financiero",
-    "published": "2026-08-04T08:41:25+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los países de Latinoamérica con mayor morosidad bancaria: Argentina encabeza la lista",
-    "summary": "Argentina lidera la morosidad bancaria en América Latina con una cartera irregular de 7.6%, según un informe de la consultora 1816 basado en datos del Banco Mundial. Nicaragua se ubica en el otro extremo, con apenas 1% de cartera irregular, en un análisis que abarca 98 países.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/los-paises-de-latinoamerica-con-mayor-morosidad-bancaria-argentina-encabeza-la-lista/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T07:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "HSBC resumes share buybacks as quarterly profit soars to $10.1bn",
-    "summary": "HSBC reanudó la recompra de acciones tras reportar una utilidad trimestral de 10,100 millones de dólares, impulsada por su negocio de gestión patrimonial y seguros en Hong Kong. Los resultados llegan pese a la presión de las restricciones de China sobre los flujos de riqueza transfronterizos.",
-    "link": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-04T05:39:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
