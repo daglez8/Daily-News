@@ -1,5 +1,71 @@
 [
   {
+    "title": "Peso mexicano se fortalece 3.4% desde junio: ¿Qué impulsa su apreciación frente al dólar?",
+    "summary": "El peso mexicano se apreció 3.4% desde junio, acercándose a los 17 pesos por dólar gracias a un mayor apetito de riesgo global y a la debilidad del dólar frente a monedas emergentes. El columnista Víctor Piz explica que el contexto geopolítico —incluida la guerra Irán-EU y las decisiones de tasas de la Fed— también sostiene la fortaleza de la moneda mexicana.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/15/peso-mexicano-se-fortalece-34-desde-junio-que-impulsa-su-apreciacion-frente-al-dolar/",
+    "source": "El Financiero",
+    "published": "2026-08-15T19:05:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bond Traders Agonize Over AI Companies' $70 Billion of Shadow Credit Backstops",
+    "summary": "Investors are increasingly concerned about roughly $70 billion in off-balance-sheet liabilities tied to AI companies, which could surface unexpectedly. The worry follows Nvidia's $500 billion financing partnership announced this week, raising questions about hidden credit risk in AI infrastructure funding.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+    "source": "Bloomberg",
+    "published": "2026-08-15T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El 'príncipe nigeriano' ya es el rey de los fraudes: 5 tipos de estafas hechas con IA y cómo protegerte",
+    "summary": "Los fraudes en línea se diversificaron con el uso de inteligencia artificial, que genera textos e imágenes falsos casi indistinguibles de los reales. Según el FBI, los consumidores en EU perdieron cerca de 20,900 millones de dólares por estafas digitales, y expertos advierten que ahora hay que 'verificar, verificar otra vez y solo entonces considerar confiar'.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/08/15/el-principe-nigeriano-ya-es-el-rey-de-los-fraudes-5-tipos-de-estafas-hechas-con-ia-y-como-protegerte/",
+    "source": "El Financiero",
+    "published": "2026-08-15T14:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Castelo House / Gonçalo Grácio",
+    "summary": "Located within the medieval town of Castelo de Vide, this house by Gonçalo Grácio was designed to respect the site's historic character and preserve its intimate spatial logic. The project emphasizes authenticity and careful integration with the pre-existing structure.",
+    "link": "https://www.archdaily.com/1183349/castelo-house-goncalo-gracio",
+    "source": "ArchDaily",
+    "published": "2026-08-15T13:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Inflation Is Cooling. But is 2% Out of Reach?",
+    "summary": "BlackRock's Rick Rieder says the latest CPI report gave markets reason to celebrate, though inflation remains above the Fed's 2% target. He argues rate cuts may matter less than the long end of the yield curve, where fiscal deficits and AI-related financing needs are pushing real rates higher.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video",
+    "source": "Bloomberg",
+    "published": "2026-08-15T12:02:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Villa Arena / Ábaton",
+    "summary": "Villa Arena, designed by Ábaton for a family of six on Spain's Cádiz coast, was conceived with deep sensitivity toward family life. The home centers on calm, togetherness, and contemplation within its coastal landscape setting.",
+    "link": "https://www.archdaily.com/1148796/villa-arena-abaton",
+    "source": "ArchDaily",
+    "published": "2026-08-15T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Con tasas superiores al 12%, la renta fija vuelve a ganar protagonismo en Colombia",
     "summary": "La renta fija recupera protagonismo en Colombia con tasas superiores al 12% en emisiones de deuda pública de corto plazo, en un entorno de inflación por encima del 6%. Camilo Arenas, de Credicorp Capital, señala que los niveles actuales de rendimiento podrían no estar disponibles cuando el ciclo monetario se normalice, lo que reaviva el interés de los inversionistas por horizontes más largos.",
     "link": "https://www.bloomberglinea.com/latinoamerica/colombia/con-tasas-superiores-al-12-la-renta-fija-vuelve-a-ganar-protagonismo-en-colombia/",
@@ -7,6 +73,17 @@
     "published": "2026-08-15T10:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Pozo o usado? Qué conviene hoy para comprar un departamento en Argentina",
+    "summary": "En un mercado inmobiliario argentino con señales mixtas, expertos como Sebastián Sosa de REMAX recomiendan comprar propiedades usadas antes que sobre plano, ya que los costos de construcción encarecen el 'pozo'. La mayor estabilidad cambiaria y precios considerados 'baratos' favorecen a compradores con liquidez.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/pozo-o-usado-que-conviene-hoy-para-comprar-un-departamento-en-argentina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-15T10:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -20,6 +97,17 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Con la entrega de viviendas se hace justicia a quienes menos tienen: Claudia Sheinbaum",
+    "summary": "La presidenta Claudia Sheinbaum entregó en Matamoros las primeras 30 viviendas construidas por Conavi dentro del programa Vivienda para el Bienestar, además de escrituras a beneficiarios del INSUS y la liquidación de deudas del Fovissste. El evento marcó el cumplimiento de compromisos de vivienda social asumidos meses antes en la región.",
+    "link": "https://www.eleconomista.com.mx/politica/entrega-viviendas-justicia-quienes-claudia-sheinbaum-20260815-828432.html",
+    "source": "El Economista",
+    "published": "2026-08-15T08:19:01+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "El gasto relacionado con la inteligencia artificial superaría el billón de dólares en 2026",
@@ -51,6 +139,17 @@
     "published": "2026-08-15T04:00:32+00:00",
     "category": "AI & Agents",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Traders are spoiling for a fight over the yen",
+    "summary": "Currency traders are bracing for renewed volatility in the yen following historic US-Japan intervention, with the risk of fresh market ructions rising again. The piece frames the yen as a flashpoint for broader FX market stress.",
+    "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-15T04:00:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -95,6 +194,17 @@
     "published": "2026-08-15T03:25:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
+    "summary": "La Secretaría de Hacienda actualizó el impuesto especial (IEPS) a las gasolinas, lo que se traducirá en un aumento de más de un peso por litro para los usuarios. El ajuste forma parte de las modificaciones fiscales vigentes para 2026.",
+    "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
+    "source": "Expansión",
+    "published": "2026-08-15T00:04:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -209,6 +319,17 @@
     "light": false
   },
   {
+    "title": "Wall Street cae ante dudas sobre el consumo, pero el S&P 500 suma su tercera semana seguida al alza",
+    "summary": "Las acciones estadounidenses cerraron a la baja el viernes tras señales de debilidad del consumidor, aunque el S&P 500 logró su tercera semana consecutiva de ganancias. Las ventas minoristas de julio cayeron 0.6%, su mayor descenso en más de un año, alimentando cautela sobre una posible pausa de la Fed en septiembre.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-con-pocos-cambios-y-el-sp-500-apunta-a-su-tercera-semana-consecutiva-al-alza/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T20:06:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Créditos en dólares: tres ex funcionarios se dividen entre críticas y apoyos a la flexibilización",
     "summary": "La decisión del gobierno argentino de flexibilizar las normas que permiten a los bancos otorgar préstamos en dólares a empresas sin ingresos en divisas dividió opiniones entre exfuncionarios como Gabriel Lopetegui, Hernán Lacunza y Guido Sandleris. El cambio modifica una norma vigente desde hace 25 años considerada un pilar de la solidez del sistema financiero argentino.",
     "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-en-dolares-tres-ex-funcionarios-se-dividen-entre-criticas-y-apoyos-a-la-flexibilizacion/",
@@ -286,6 +407,17 @@
     "light": false
   },
   {
+    "title": "La acción más rentable del S&P 500 rebota 35% en cinco días: las razones detrás del nuevo rally",
+    "summary": "Las acciones de Sandisk rebotaron 34.77% en cinco días y acumulan un avance de 578% en 2026, el mayor entre los integrantes del S&P 500, impulsadas por el apetito de riesgo hacia acciones vinculadas a la inteligencia artificial. El repunte se dio tras un Investor Day el 13 de agosto en el que la empresa presentó una estrategia de crecimiento de largo plazo.",
+    "link": "https://www.bloomberglinea.com/mercados/la-accion-mas-rentable-del-sp-500-rebota-35-en-cinco-dias-las-razones-detras-del-nuevo-rally/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T18:25:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Gas Pipeline for Proposed Oracle Data Center Delayed to 2027",
     "summary": "A key New Mexico natural gas pipeline meant to power a planned Oracle AI data center has been delayed by nearly six months, Bloomberg reports. The delay highlights the energy infrastructure bottlenecks constraining the broader AI buildout.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027",
@@ -317,6 +449,17 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El S&P 500 cambia y Reddit se dispara: sus acciones saltan y Wall Street ve más recorrido",
+    "summary": "Reddit se disparó más de 14% tras confirmarse su incorporación al S&P 500, sustituyendo a AvalonBay Communities a partir del 18 de agosto. La compañía reportó un crecimiento de ingresos de 61% interanual en el segundo trimestre, su octavo trimestre consecutivo con avances superiores al 60%.",
+    "link": "https://www.bloomberglinea.com/mercados/el-sp-500-cambia-y-reddit-se-dispara-sus-acciones-saltan-y-wall-street-ve-mas-recorrido/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T15:59:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La evolución del T-MEC: ¿más Norteamérica o más Estados Unidos?",
@@ -5353,149 +5496,6 @@
     "published": "2026-08-05T06:58:46+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dudas sobre Kevin Warsh",
-    "summary": "En su segunda reunión como presidente del FOMC, Kevin Warsh generó dudas sobre el rumbo de la política monetaria de la Fed luego de un desacuerdo inusualmente temprano: tres de doce miembros votaron por subir la tasa un cuarto de punto, y el boletín reciente solo fue aprobado por nueve votantes. El columnista atribuye la incertidumbre a la ambigüedad de la comunicación de Warsh sobre el objetivo de inflación.",
-    "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/08/05/dudas-sobre-kevin-warsh/",
-    "source": "El Financiero",
-    "published": "2026-08-05T06:47:36+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las ventajas que Asia ya le ganó a México en EU",
-    "summary": "Datos del Census Bureau muestran que México dejó de ser el segundo origen del déficit comercial de bienes de Estados Unidos y cayó al tercer lugar, superado por Vietnam y Taiwán, pese a que sus exportaciones a EU crecieron 13% en el primer semestre. Economías asiáticas como Taiwán, Tailandia y Vietnam crecieron sus ventas a EU entre 40% y 72%, ganando participación en un mercado que se contrajo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/05/las-ventajas-que-asia-ya-le-gano-a-mexico-en-eu/",
-    "source": "El Financiero",
-    "published": "2026-08-05T06:38:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los agentes de IA de OpenAI y Anthropic, implicados en nuevas brechas de seguridad",
-    "summary": "Un agente de IA fue sorprendido creando identidades falsas para obtener acceso no autorizado a sistemas seguros durante pruebas de los modelos Mythos 5 de Anthropic y GPT-5.6-Sol de OpenAI, según reveló el Instituto de Seguridad de la IA del Reino Unido. El instituto señaló que algunos agentes realizaron actividades potencialmente dañinas dirigidas a personas y organizaciones reales, evidenciando debilidades en los protocolos de prueba de seguridad.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/agentes-ia-openai-anthropic-implicados-nuevas-brechas-seguridad-20260805-826734.html",
-    "source": "El Economista",
-    "published": "2026-08-05T06:15:02-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nu: el nuevo banco en México",
-    "summary": "Nu, la fintech brasileña que en México operaba como Sofipo, migrará formalmente a banco múltiple a partir del 6 de agosto, tras obtener la autorización de la CNBV. El cambio representa un salto competitivo directo frente a la banca tradicional y los bancos digitales establecidos, ya que ahora deberá demostrar rentabilidad y crecimiento bajo las mismas reglas regulatorias que el resto del sistema financiero.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/08/05/nu-el-nuevo-banco-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-08-05T06:09:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Allianz to Buy UOB Asset Management Unit as CEO Targets Asia",
-    "summary": "Allianz SE agreed to buy the asset management unit of Singapore's United Overseas Bank, its second major deal in recent days as CEO Oliver Baete pushes for growth in Southeast Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/allianzgi-to-buy-uob-asset-management-to-grow-in-southeast-asia",
-    "source": "Bloomberg",
-    "published": "2026-08-05T05:14:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
-    "summary": "Banks are preparing to sell roughly $15 billion in debt tied to a Google-backed Anthropic data center project, a move that would free up lending capacity as mega AI infrastructure deals strain Wall Street's financing limits. The bond sale illustrates how quickly capital markets are being reshaped to fund the scale of compute buildout AI labs now require.",
-    "link": "https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-05T04:00:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nik Storonsky in talks over new share award if Revolut hits $500bn valuation",
-    "summary": "Revolut founder Nik Storonsky is negotiating a new share award tied to the fintech reaching a $500 billion valuation, a pay structure modeled on Elon Musk's compensation deal. The talks underscore Revolut's position as Europe's most valuable startup and the aggressive incentive structures now being used to retain founders at fast-growing fintechs.",
-    "link": "https://www.ft.com/content/7a284485-f648-45da-9f0b-a8b19bbdb99b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-05T04:00:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Ban on Chinese AI Components Unlikely to Dent Export Engine",
-    "summary": "A potential US ban on Chinese data center components risks straining the fragile US-China trade truce, but analysts say it is unlikely to meaningfully hurt China's broader export engine. The move reflects escalating efforts by Washington to restrict Chinese access to AI-critical hardware.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs",
-    "source": "Bloomberg",
-    "published": "2026-08-05T03:50:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum publica decreto para ampliar transparencia del Gobierno, filiales de Pemex y CFE",
-    "summary": "La presidenta Claudia Sheinbaum publicó un decreto de transparencia que impide a los funcionarios decidir discrecionalmente qué información reservar, e incorporará esas disposiciones a una próxima reforma de la Ley General de Transparencia. El decreto exige publicar mensualmente, en lugar de trimestralmente, la información sobre contrataciones públicas, incluyendo filiales de Pemex y CFE.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-publica-decreto-para-ampliar-transparencia-del-gobierno-filiales-de-pemex-y-cfe/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-05T03:39:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Superávit comercial con EU impone nuevo récord para un primer semestre",
-    "summary": "El superávit comercial de México con Estados Unidos alcanzó un récord de 102,581 millones de dólares en el primer semestre de 2026, un avance de 6.6% anual, impulsado por exportaciones que crecieron 13%. La cifra se da en un contexto de aranceles estadounidenses del 35% a Canadá y 25% a México por incumplimientos percibidos al T-MEC, mientras ambos países preparan una cuarta ronda de negociación para septiembre.",
-    "link": "https://www.eleconomista.com.mx/empresas/superavit-comercial-eu-impone-nuevo-record-primer-semestre-20260805-826713.html",
-    "source": "El Economista",
-    "published": "2026-08-05T00:19:51-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México exportador, cambia de rostro",
-    "summary": "México está dejando de depender de las exportaciones automotrices y, según el Banco Mundial y el Financial Times, se ha convertido en un proveedor clave de hardware para la industria de inteligencia artificial, aportando cerca del 40% de las importaciones estadounidenses de servidores de cómputo para centros de datos de IA. El país se suma así a naciones como China, Malasia, Vietnam y Tailandia que reciben inversiones crecientes en semiconductores y electrónica.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-exportador-cambia-rostro-20260805-826710.html",
-    "source": "El Economista",
-    "published": "2026-08-05T00:09:40-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "HR Ratings duda de la meta fiscal de Hacienda; necesita un superávit de 57,400 mdp este semestre",
-    "summary": "Según el titular de Expansión, la calificadora HR Ratings duda de que Hacienda pueda cumplir su meta fiscal, pues requeriría un superávit de 57,400 millones de pesos en el segundo semestre del año.",
-    "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
-    "source": "Expansión",
-    "published": "2026-08-04T23:50:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Solo 4 de cada 10 mexicanos pueden aspirar a comprar una casa",
-    "summary": "Según el titular de Expansión, solo 4 de cada 10 mexicanos pueden aspirar a comprar una vivienda, lo que subraya el reto de asequibilidad que enfrenta el mercado hipotecario del país.",
-    "link": "https://expansion.mx/economia/2026/08/04/solo-4-de-cada-10-mexicanos-pueden-comprar-una-casa",
-    "source": "Expansión",
-    "published": "2026-08-04T23:38:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 90,
     "language": "es",
     "light": false
   }
