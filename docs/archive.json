@@ -1,5 +1,126 @@
 [
   {
+    "title": "El gasto relacionado con la inteligencia artificial superaría el billón de dólares en 2026",
+    "summary": "Una estimación de Goldman Sachs calcula que el gasto global vinculado a la inteligencia artificial superará el billón de dólares en 2026, cifra que incluye inversión de empresas privadas y actores asiáticos fuera de las mediciones tradicionales. El monto supera ampliamente el consenso de mercado de unos 800,000 millones de dólares centrado solo en los grandes hiperescaladores estadounidenses.",
+    "link": "https://www.bloomberglinea.com/tecnologia/el-gasto-relacionado-con-la-inteligencia-artificial-superaria-el-billon-de-dolares-en-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-15T06:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+    "summary": "The Financial Times reports that OpenAI is grappling with a wave of executive departures and changes to its safety team as it prepares for a blockbuster IPO. The upheaval is unsettling staff even as Sam Altman pushes ahead with the public listing.",
+    "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-15T04:00:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tu liderazgo necesita el poder de conversar",
+    "summary": "Una columna de El Financiero explora por qué saber conversar es una de las habilidades más visibles de un buen líder, apoyándose en el libro 'Talk: The Science of Conversation' de la profesora de Harvard Alison Wood Brooks. El texto plantea llevar la conversación del terreno de la intuición a la práctica deliberada para mejorar la claridad y confianza en equipos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/14/tu-liderazgo-necesita-el-poder-de-conversar/",
+    "source": "El Financiero",
+    "published": "2026-08-15T03:45:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los factores detrás de la fortaleza del peso",
+    "summary": "El peso mexicano se ha apreciado cerca de 3.4% frente al dólar desde finales de junio, acercándose a niveles de 17 por dólar no vistos desde mayo de 2024. La columna de Víctor Piz repasa los factores detrás de esta fortaleza cambiaria en las últimas siete semanas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/14/los-factores-detras-de-la-fortaleza-del-peso/",
+    "source": "El Financiero",
+    "published": "2026-08-15T03:25:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
+    "summary": "Los fondos de estabilización de México, diseñados para amortiguar choques económicos, operan actualmente con menos del 55% de sus máximos históricos. La nota de Expansión detalla el estado de estos fondos anticrisis y las implicaciones para la capacidad fiscal del país ante futuros choques.",
+    "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
+    "source": "Expansión",
+    "published": "2026-08-14T22:56:08+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia discloses $21bn stake in SpaceX",
+    "summary": "Nvidia disclosed a nearly $21 billion stake in Elon Musk's SpaceX, according to the Financial Times, coming shortly after Musk announced an exclusive arrangement for SpaceX to supply Nvidia's data centers. The filing underscores the deepening financial ties between major AI infrastructure players.",
+    "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-14T22:28:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Better Home & Finance Founder on Fight for Company",
+    "summary": "Ousted Better.com CEO Vishal Garg tells Bloomberg he believes he has majority shareholder support to reclaim leadership of the digital mortgage lender, following his August 3rd departure. He argues the company's mission of improving US homeownership access remains unfinished under interim CEO Daniel Lewis.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/better-home-finance-founder-on-fight-for-company-video",
+    "source": "Bloomberg",
+    "published": "2026-08-14T22:27:09+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+    "summary": "Secretive Wall Street trading firm Jane Street suffered a $15 billion hit after being wrongfooted by July's AI-driven market rout tied to 'Situational Awareness,' the Financial Times reports. The loss highlights how volatile AI-linked market swings are rippling through major quant trading firms.",
+    "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-14T21:55:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
+    "summary": "Anthropic told prospective investors its second-quarter revenue jumped more than 14-fold year over year, according to documents seen by Bloomberg, as the AI lab moves toward a planned IPO. The disclosure underscores explosive growth across leading AI labs ahead of public listings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+    "source": "Bloomberg",
+    "published": "2026-08-14T21:08:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 96,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México, Brasil y Chile lideran fusiones y adquisiciones de América Latina en julio: TTR Data",
+    "summary": "El mercado transaccional de América Latina registró 1,307 fusiones y adquisiciones hasta julio por 60,159 millones de dólares, con México, Brasil y Chile a la cabeza, según TTR Data. La cifra implica una caída interanual del 26% en el número de operaciones y del 4% en su valor agregado.",
+    "link": "https://www.eleconomista.com.mx/empresas/mexico-brasil-chile-lideran-fusiones-adquisiciones-america-latina-julio-ttr-data-20260814-828418.html",
+    "source": "El Economista",
+    "published": "2026-08-14T20:30:28-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las claves económicas de la semana (10 al 14): De inflación en EU y Líneas de Pobreza en México",
+    "summary": "El resumen semanal de El Economista destaca los datos de inflación en Estados Unidos, la confianza del consumidor y las ventas minoristas como los indicadores que más atención acapararon entre inversionistas. En México, resalta la actualización de las Líneas de Pobreza de julio y los datos de actividad industrial.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-10-14-inflacion-eu-lineas-pobreza-mexico-20260814-828409.html",
+    "source": "El Economista",
+    "published": "2026-08-14T19:14:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Mercado laboral pierde fuerza en julio por caída en inversión y consumo: BBVA Research",
     "summary": "Un informe de BBVA Research atribuye la pérdida de fuerza del mercado laboral mexicano en julio a la caída en la inversión productiva y el menor consumo interno. El reporte advierte que la contracción en la Formación Bruta de Capital Fijo y el gasto de los hogares está limitando la capacidad de las empresas para mantener o ampliar sus plantillas.",
     "link": "https://www.eleconomista.com.mx/empresas/mercado-laboral-pierde-fuerza-julio-caida-inversion-consumo-bbva-research-20260814-828343.html",
@@ -31,6 +152,39 @@
     "relevance_score": 72,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
+    "summary": "Carlos Slim continúa su expansión inmobiliaria en Polanco con tres proyectos en marcha que suman una inversión de 17,300 millones de pesos. La nota de Expansión detalla el alcance de estos desarrollos y su papel dentro de la estrategia inmobiliaria del empresario en la Ciudad de México.",
+    "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
+    "source": "Expansión",
+    "published": "2026-08-14T18:43:31+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La directora de ética de OpenAI se va en plena fuga de ejecutivos",
+    "summary": "La directora de ética de OpenAI anunció su salida en medio de una ola de renuncias de ejecutivos en la compañía. La salida se suma a una serie de cambios de liderazgo que han generado inquietud interna mientras OpenAI se prepara para una eventual salida a bolsa.",
+    "link": "https://expansion.mx/tecnologia/2026/08/14/directora-etica-openai-se-va-fuga-ejecutivos",
+    "source": "Expansión",
+    "published": "2026-08-14T18:30:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gas Pipeline for Proposed Oracle Data Center Delayed to 2027",
+    "summary": "A key New Mexico natural gas pipeline meant to power a planned Oracle AI data center has been delayed by nearly six months, Bloomberg reports. The delay highlights the energy infrastructure bottlenecks constraining the broader AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027",
+    "source": "Bloomberg",
+    "published": "2026-08-14T18:13:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Beyond Chatbots: The Next Wave of AI",
@@ -88,6 +242,39 @@
     "light": true
   },
   {
+    "title": "Linea House / Instinto Estudio",
+    "summary": "ArchDaily features Linea House, two tropical residences by Instinto Estudio in the Guiones jungle of Nosara, Costa Rica, designed as a series of lines that frame the landscape and encourage natural ventilation. The project emphasizes close contact with nature through open, breezy living spaces.",
+    "link": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
+    "source": "ArchDaily",
+    "published": "2026-08-14T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Acción de Nu se dispara tras resultados récord: las seis claves que mira Wall Street",
+    "summary": "Las acciones de Nu (Nubank) suben más de 12% tras resultados del segundo trimestre que reforzaron las expectativas de rentabilidad del banco digital, con una utilidad trimestral récord. Los analistas destacan la mejora del margen ajustado por riesgo, aunque el crecimiento del crédito mantiene algunos riesgos sobre la mesa.",
+    "link": "https://www.bloomberglinea.com/mercados/accion-de-nu-se-dispara-tras-resultados-record-las-seis-claves-que-mira-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T14:40:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Picky Investors Push Back on High-Grade Bond Prices After Deluge",
+    "summary": "Blue-chip companies are flooding the US high-grade bond market to finance acquisitions and AI infrastructure buildouts, but Bloomberg reports investors are growing pickier about price amid the borrowing frenzy. The pushback signals tightening appetite even as issuance surges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/picky-investors-push-back-on-high-grade-prices-after-debt-deluge",
+    "source": "Bloomberg",
+    "published": "2026-08-14T14:09:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
     "summary": "SpaceX has completed a $60 billion acquisition of AI coding startup Cursor, one of the largest AI M&A deals to close this year. The purchase is a key part of Elon Musk's strategy to compete more directly with Anthropic and OpenAI in AI-powered coding tools. It underscores how aggressively capital is flowing into AI-native software companies.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
@@ -117,6 +304,17 @@
     "published": "2026-08-14T12:12:51Z",
     "category": "AI & Agents",
     "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La diferencia entre sobrevivir y crecer en una pyme mexicana está en la previsión y estrategia",
+    "summary": "Una columna de opinión en Expansión sostiene que la diferencia entre sobrevivir y crecer para una pyme mexicana radica en la capacidad de previsión y en contar con una estrategia clara, más allá de la operación del día a día. El texto ofrece reflexiones sobre disciplina financiera y planeación para negocios pequeños en México.",
+    "link": "https://expansion.mx/opinion/2026/08/14/la-diferencia-entre-sobrevivir-y-crecer-en-una-pyme-mexicana-esta-en-la-prevision-y-estrategia",
+    "source": "Expansión",
+    "published": "2026-08-14T12:09:50+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -798,6 +996,28 @@
     "source": "Bloomberg",
     "published": "2026-08-13T09:00:00+00:00",
     "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Is China’s debt-bomb squad about to blow up?",
+    "summary": "The Economist reports that Chinese asset-management companies tasked with defusing corporate credit crises are themselves running into financial trouble. The strain raises questions about China's capacity to contain a broader debt crisis.",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+    "source": "The Economist",
+    "published": "2026-08-13T08:37:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can Singapore ever build a proper stock market?",
+    "summary": "The Economist examines Singapore's efforts to build a deeper domestic stock market, a longstanding gap in its financial sector despite the city-state's strength in banking and wealth management. The piece looks at recent government measures aimed at filling that hole.",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+    "source": "The Economist",
+    "published": "2026-08-13T08:37:16+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
     "light": true
@@ -5278,225 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Bank of America identifica tres señales de alerta sobre las ganancias del S&P 500",
-    "summary": "Bank of America advierte que la intensidad de capital de las grandes tecnológicas de IA distorsiona los patrones históricos de valoración, cotizando a 19 veces EBITDA frente a 15 veces hace tres años, pese a que el gasto se ha desplazado de innovación hacia capex. El banco advierte que si el gasto en inteligencia artificial resulta ser un ciclo de capex más convencional, las valoraciones podrían caer entre 15% y 30%.",
-    "link": "https://www.bloomberglinea.com/mercados/bank-of-america-identifica-tres-senales-de-alerta-sobre-las-ganancias-del-sp-500/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T17:29:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Investors in Situational Awareness deserved to lose their shirts",
-    "summary": "The Economist examines the collapse of hedge fund Situational Awareness, arguing its troubles reveal more about the fund's investors and its 24-year-old founder than about markets broadly. The piece uses the episode as a cautionary tale about due diligence in an environment eager to bet on young, AI-adjacent fund managers.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
-    "source": "The Economist",
-    "published": "2026-08-04T17:11:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Griffin's NYC Office Tower Set to Land $3.3 Billion Construction Loan",
-    "summary": "The team behind Citadel founder Ken Griffin's new Manhattan skyscraper expects to secure a $3.3 billion construction loan, one of the largest real estate financings of the year and a signal of continued lender appetite for trophy commercial development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/griffin-s-nyc-office-tower-set-to-land-3-3-billion-construction-loan",
-    "source": "Bloomberg",
-    "published": "2026-08-04T17:00:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Exportaciones de México a EU tienen su mejor junio de la historia con 55,254 millones de dólares",
-    "summary": "Las exportaciones de México hacia Estados Unidos alcanzaron un máximo histórico para un mes de junio, con 55,254 millones de dólares, un crecimiento anual de 23%. El resultado consolida a México como el principal socio comercial de EU, por delante de Canadá, Vietnam y China.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/exportaciones-de-mexico-a-eu-tienen-su-mejor-junio-de-la-historia-con-55254-millones-de-dolares/",
-    "source": "El Financiero",
-    "published": "2026-08-04T16:46:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 71,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De Maradona a Messi: la teoría con la que Citi explica el nuevo estilo de la Fed",
-    "summary": "Citi describe la estrategia del presidente de la Fed, Kevin Warsh, como la 'Teoría Messi de las tasas de interés': un enfoque de poca orientación al mercado en el que la Fed espera y actúa solo cuando es necesario. El analista Adam Pickett contrasta este estilo con la histórica 'Teoría Maradona' de forward guidance activo formulada por el exgobernador del Banco de Inglaterra Mervyn King.",
-    "link": "https://www.bloomberglinea.com/mercados/de-maradona-a-messi-la-teoria-con-la-que-citi-explica-el-nuevo-estilo-de-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T16:41:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Palantir Jumps After 'Otherworldly' Demand Lifts Outlook",
-    "summary": "Palantir Technologies shares jumped after the company raised its full-year revenue and income forecasts, describing commercial demand for its data analytics tools as \"otherworldly.\" Bloomberg also notes Anthropic has struck a deal for computing capacity from Volta Infra Holdings, a months-old infrastructure startup, to keep pace with product demand.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/palantir-jumps-after-otherworldly-demand-lifts-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-08-04T16:33:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hollywood is entering its AI era",
-    "summary": "The Economist reports that artificial intelligence is quietly becoming embedded in nearly every stage of film-making, from pre-production to visual effects and editing. The shift marks a structural change in how the entertainment industry produces content, not just a cost-cutting experiment.",
-    "link": "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
-    "source": "The Economist",
-    "published": "2026-08-04T15:26:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Settles Worker Discrimination Allegations With DOJ",
-    "summary": "A unit of OpenAI reached a settlement with the US Justice Department resolving allegations that the AI company discriminated against US workers, the latest instance of regulatory scrutiny facing major AI labs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
-    "source": "Bloomberg",
-    "published": "2026-08-04T15:15:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Así cerró el riesgo país en Latinoamérica en el mes de julio",
-    "summary": "Uruguay cerró julio como el país con el riesgo soberano más bajo de América Latina según el EMBI, con 68 puntos, seguido de Chile, Paraguay y Perú. México se ubicó en un nivel intermedio entre las economías más grandes de la región, mientras Venezuela permanece en niveles extremos con 7,193 puntos de sobretasa.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/asi-cerro-el-riesgo-pais-en-latinoamerica-en-el-mes-de-julio/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T14:11:17+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Información que no ayuda a renovación del T-MEC: Déficit comercial de EU con México aumenta en junio",
-    "summary": "El déficit comercial general de Estados Unidos se redujo 5.6% en junio frente a mayo, hasta 73,300 millones de dólares, por una caída generalizada de importaciones. Sin embargo, el déficit específico con México aumentó, un dato que complica el ambiente previo a la renegociación del T-MEC.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/04/renovacion-del-t-mec-deficit-comercial-de-eu-con-mexico-sube-en-junio/",
-    "source": "El Financiero",
-    "published": "2026-08-04T14:00:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 69,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Estos son los precios objetivo de Wall Street para las acciones de MercadoLibre previo a su balance",
-    "summary": "Cerca del 86% de los analistas que cubren a MercadoLibre recomienda comprar la acción de cara a su reporte del segundo trimestre, con expectativas de ventas de 9,753 millones de dólares, un alza interanual de casi 44%. El mercado buscará señales sobre el negocio de créditos de la compañía, donde ha adoptado una política más agresiva con tasas más bajas, plazos más largos y mayores provisiones.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/estos-son-los-precios-objetivo-de-wall-street-para-las-acciones-de-mercadolibre-previo-a-su-balance/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T13:47:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "World Bank Urges Emerging Nations to Embrace AI Amid Weak Growth",
-    "summary": "The World Bank is urging developing economies to move quickly to adopt artificial intelligence across governments and businesses. It called on countries to adapt existing AI tools to local needs rather than build proprietary systems from scratch, framing AI adoption as a lever against weak global growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/world-bank-urges-emerging-nations-to-embrace-ai-amid-weak-growth",
-    "source": "Bloomberg",
-    "published": "2026-08-04T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El ransomware obligó a una pyme mexicana a reconstruir su infraestructura digital",
-    "summary": "Una empresa mexicana de mensajería pagó un rescate de menos de 5,000 dólares tras permanecer tres meses infiltrada por ciberdelincuentes, que cifraron entre cinco y seis servidores. La recuperación exigió reconstruir por completo su infraestructura tecnológica, evidenciando la exposición de las pymes mexicanas ante el ransomware.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/ransomware-obligo-pyme-mexicana-reconstruir-infraestructura-digital-20260804-826577.html",
-    "source": "El Economista",
-    "published": "2026-08-04T12:43:47-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 73,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alerta en la implementación de la reforma laboral por ausentismo patronal",
-    "summary": "La transición hacia el nuevo modelo de justicia laboral en México avanza en la resolución de conflictos prejudiciales, pero enfrenta obstáculos por el comportamiento de los empleadores y limitaciones institucionales para aplicar sanciones. El Consejo de Coordinación respectivo reporta contratiempos estructurales que ponen en riesgo el ritmo de la reforma.",
-    "link": "https://www.eleconomista.com.mx/empresas/alerta-implementacion-reforma-laboral-ausentismo-patronal-20260804-826570.html",
-    "source": "El Economista",
-    "published": "2026-08-04T12:01:06-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 67,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
-    "summary": "Anthropic has struck a $10 billion deal for computing capacity with a months-old cloud infrastructure startup, according to people familiar with the matter. The deal underscores how aggressively the Claude maker is moving to secure compute to keep pace with surging demand for its AI products.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
-    "source": "Bloomberg",
-    "published": "2026-08-04T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google, Amazon y Microsoft disparan sus ingresos 'en papel' gracias a Anthropic y OpenAI",
-    "summary": "Google, Amazon y Microsoft están registrando ganancias contables significativas gracias a sus inversiones en Anthropic y OpenAI, cuyas valuaciones han disparado el valor de las participaciones que sostienen los gigantes tecnológicos. El fenómeno ilustra cómo el boom de la IA generativa está inflando los balances de los hyperscalers antes de traducirse en ingresos operativos reales.",
-    "link": "https://expansion.mx/tecnologia/2026/08/04/openai-anthropic-hacen-ganar-mas-google-amazon-y-microsoft",
-    "source": "Expansión",
-    "published": "2026-08-04T11:55:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "CoreWeave to Enter Asian Market With Indonesian Data Centers",
-    "summary": "AI cloud provider CoreWeave is entering the Asian market with its first data centers, located in Indonesia. The expansion targets a fast-growing region increasingly hungry for AI computing capacity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/coreweave-to-enter-asian-market-with-indonesian-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-08-04T11:30:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
-    "summary": "AI cloud startup Volta Infra Holdings raised $300 million in venture funding and secured an additional $5 billion in financing, valuing the company at $2.4 billion. The round, co-led by Andreessen Horowitz and Altimeter Capital with participation from Nvidia and Michael Dell, aims to widen access to costly AI chips.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-08-04T11:00:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cuándo es el mejor momento para pedir un préstamo? La decisión va más allá de la tasa de Banxico",
-    "summary": "Pedir un préstamo es un compromiso financiero de mediano o largo plazo que impacta la capacidad de cubrir gastos esenciales como vivienda o educación. El artículo explica que la decisión debe basarse tanto en indicadores macroeconómicos como en la tasa de Banxico y la capacidad de pago individual, no solo en el nivel de tasas.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/mejor-momento-pedir-prestamo-decision-tasa-banxico-20260804-826248.html",
-    "source": "El Economista",
-    "published": "2026-08-04T11:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Es buen momento para invertir en México? Esto consideran analistas tras no renovarse el T-MEC",
-    "summary": "El optimismo de los analistas sobre el momento para que las empresas inviertan en México volvió a caer en julio, tras la decisión de la administración Trump de no renovar automáticamente el T-MEC. La encuesta de Banxico entre especialistas privados refleja mayor cautela sobre el clima de inversión del país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/es-buen-momento-para-invertir-en-mexico-esto-consideran-analistas-tras-no-renovarse-el-t-mec/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-04T11:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
   }
 ]
