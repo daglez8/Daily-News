@@ -1,5 +1,71 @@
 [
   {
+    "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+    "summary": "Enthusiasm for Big Tech's massive AI investments is pushing the stock market to fresh record highs, powered by a resilient economy and strong demand. The one clear risk to the rally, the piece argues, is the possibility of higher interest rates derailing the momentum.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
+    "source": "Bloomberg",
+    "published": "2026-08-16T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)",
+    "summary": "A Bloomberg podcast discusses how emerging-market investors are looking beyond Brazil and Mexico for opportunities in inflation-linked bonds, as EM debt traders become pickier about where they allocate capital.",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast",
+    "source": "Bloomberg",
+    "published": "2026-08-16T12:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Un PIB estancado: por qué México no crece",
+    "summary": "El artículo analiza por qué el Producto Interno Bruto de México se mantiene estancado y explora las razones detrás de la falta de crecimiento económico del país.",
+    "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
+    "source": "Expansión",
+    "published": "2026-08-16T12:16:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
+    "summary": "Private equity has long promised better returns than public markets, but higher interest rates have made debt-financed buyouts harder to justify. Deals struck at peak valuations in 2020 and 2021 are proving increasingly difficult to exit, challenging the industry's traditional playbook.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video",
+    "source": "Bloomberg",
+    "published": "2026-08-16T12:03:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
+    "summary": "El fondo soberano de Noruega, el mayor del mundo, mantiene su apuesta por América Latina, con Brasil y México como sus principales mercados regionales dentro de una cartera que combina acciones y deuda en seis economías. El fondo tenía cerca de US$16,000 millones invertidos en la región, con posiciones en empresas como Itaú, Petrobras y Cemex.",
+    "link": "https://www.bloomberglinea.com/mercados/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-16T11:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The sports billionaire threatening to upend Wall Street",
+    "summary": "Billionaire Mark Walter's much-copied strategy of leveraging insurance companies to build a sprawling investment empire has drawn growing regulatory scrutiny. The approach, which other investors have sought to replicate, raises questions about how far insurer balance sheets can be pushed as a financing tool.",
+    "link": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-16T10:00:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La nueva era del “superpeso”: ¿cuánto durará?",
     "summary": "El dólar perforó la barrera de los 17 pesos y llegó a cotizar en 16.97, su nivel más bajo desde junio de 2024. La columna repasa la historia cambiaria de México desde la paridad fija de 1954-1976 hasta hoy para poner en contexto la actual fortaleza del peso y qué podría venir.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/15/la-nueva-era-del-superpeso-cuanto-durara/",
@@ -30,6 +96,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 85,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Comisión Nacional Antimonopolios aprueba en México la fusión de Paramount y Warner Bros",
+    "summary": "La Comisión Nacional Antimonopolios de México aprobó la fusión entre Paramount y Warner Bros, según reporta el artículo, dando luz verde a la operación en el mercado mexicano.",
+    "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
+    "source": "Expansión",
+    "published": "2026-08-15T18:31:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
     "light": true
   },
   {
@@ -5421,82 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Bezos, Arnault, Premji Pour Money Into AI Humanoid Robot Startups",
-    "summary": "Billionaires including Jeff Bezos, Bernard Arnault and Azim Premji are funneling money into AI humanoid robot startups through their family offices, per this Bloomberg item, which notes such vehicles are well positioned to make these high-risk, high-reward wagers.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/bezos-arnault-premji-pour-money-into-ai-humanoid-robot-startups",
-    "source": "Bloomberg",
-    "published": "2026-08-05T10:30:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Circle Posts Profit, Revenue Gain; Boosts Blockchain Outlook",
-    "summary": "Circle, el mayor emisor de stablecoins de Estados Unidos, reportó utilidades del segundo trimestre superiores a lo esperado, aunque sus ingresos quedaron por debajo de las estimaciones de los analistas. La compañía elevó su previsión de ingresos 'otros', impulsada por ganancias en la venta de tokens, en un trimestre mixto para los inversionistas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/circle-revenue-misses-estimates-as-crypto-markets-mired-in-rout",
-    "source": "Bloomberg",
-    "published": "2026-08-05T10:10:53Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
-    "summary": "Yann LeCun, Meta's former chief AI scientist and one of the 'godfathers of AI,' is joining new venture firm 224 Ventures to invest in artificial intelligence startups.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures",
-    "source": "Bloomberg",
-    "published": "2026-08-05T10:00:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La ilusión del crecimiento económico",
-    "summary": "El autor cuestiona el optimismo por el pronóstico de crecimiento del PIB mexicano de 1.6% este año, señalando que, descontado el crecimiento poblacional de 0.9% anual, el ingreso real por habitante -el indicador que realmente refleja el bienestar- apenas avanza.",
-    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/08/05/la-ilusion-del-crecimiento-economico/",
-    "source": "El Financiero",
-    "published": "2026-08-05T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Digitalizar el B2B: del clic hacia la eficiencia operativa",
-    "summary": "El artículo argumenta que la transformación digital del comercio B2B en México suele detenerse en el frente comercial, dejando procesos financieros clave -facturación, cobranza, conciliación y gestión del crédito- operando con lógicas de back office offline, lo que genera fricción, retrasa ingresos y eleva el riesgo operativo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/05/digitalizar-el-b2b-del-clic-hacia-la-eficiencia-operativa/",
-    "source": "El Financiero",
-    "published": "2026-08-05T09:32:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Exportaciones de México hacia EU tocan récord a mitad del año: Suman 298.2 mil millones de dólares",
-    "summary": "Las exportaciones de México hacia Estados Unidos alcanzaron un récord de 298.2 mil millones de dólares en el primer semestre de 2026, un alza anual de 13%, consolidando a México como el principal proveedor de bienes de EU con 17.1% de las importaciones totales, por delante de Canadá, Taiwán y China.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/05/exportaciones-de-mexico-hacia-eu-tocan-record-a-mitad-del-ano-suman-2982-mil-millones-de-dolares/",
-    "source": "El Financiero",
-    "published": "2026-08-05T09:29:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Shein Is Said to Plan Gauging Investor Demand for Hong Kong IPO",
-    "summary": "Fast-fashion retailer Shein is planning to start gauging investor demand for a Hong Kong IPO as soon as this week, according to people familiar with the matter, per Bloomberg.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/shein-is-said-to-plan-gauging-investor-demand-for-hong-kong-ipo",
-    "source": "Bloomberg",
-    "published": "2026-08-05T09:14:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   }
 ]
