@@ -1,5 +1,16 @@
 [
   {
+    "title": "La nueva era del “superpeso”: ¿cuánto durará?",
+    "summary": "El dólar perforó la barrera de los 17 pesos y llegó a cotizar en 16.97, su nivel más bajo desde junio de 2024. La columna repasa la historia cambiaria de México desde la paridad fija de 1954-1976 hasta hoy para poner en contexto la actual fortaleza del peso y qué podría venir.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/15/la-nueva-era-del-superpeso-cuanto-durara/",
+    "source": "El Financiero",
+    "published": "2026-08-16T03:48:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Peso mexicano se fortalece 3.4% desde junio: ¿Qué impulsa su apreciación frente al dólar?",
     "summary": "El peso mexicano se apreció 3.4% desde junio, acercándose a los 17 pesos por dólar gracias a un mayor apetito de riesgo global y a la debilidad del dólar frente a monedas emergentes. El columnista Víctor Piz explica que el contexto geopolítico —incluida la guerra Irán-EU y las decisiones de tasas de la Fed— también sostiene la fortaleza de la moneda mexicana.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/08/15/peso-mexicano-se-fortalece-34-desde-junio-que-impulsa-su-apreciacion-frente-al-dolar/",
@@ -119,6 +130,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Denuncian empresas de EU acoso del SAT",
+    "summary": "Empresas multinacionales estadounidenses llevaron hasta el Capitolio sus denuncias contra el SAT por prácticas de fiscalización que califican de “sin precedentes”, según Reforma.",
+    "link": "https://www.reforma.com/denuncian-empresas-de-eu-acoso-del-sat/ar3257846",
+    "source": "Reforma",
+    "published": "2026-08-15T05:01:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Money Managers Chase €500 Billion Historic German Pension Shift",
@@ -5476,27 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Vender más no basta: cómo gestionar las finanzas de una mipyme",
-    "summary": "El artículo señala que muchas mipymes mexicanas confunden la contabilidad básica con una verdadera gestión financiera, delegando la planeación al contador y descuidando el análisis y las proyecciones necesarias para tomar decisiones, según Marlene García, directora general de CONTPAQi.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/vender-basta-gestionar-finanzas-mipyme-20260805-826647.html",
-    "source": "El Economista",
-    "published": "2026-08-05T07:05:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La crisis en la accesibilidad a la vivienda en México y EU",
-    "summary": "La vivienda en México se ha convertido en una prioridad de política social ante tasas de interés altas, costos de construcción elevados e informalidad laboral que excluyen a gran parte de la población del crédito tradicional de Infonavit o la banca. El programa Vivienda para el Bienestar de Conavi busca atender ese déficit, mientras fenómenos como el Mundial y la gentrificación han desplazado a la población de zonas céntricas hacia la periferia.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/05/la-crisis-en-la-accesibilidad-a-la-vivienda-en-mexico-y-eu/",
-    "source": "El Financiero",
-    "published": "2026-08-05T06:58:46+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
   }
 ]
