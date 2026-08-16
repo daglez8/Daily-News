@@ -1,5 +1,38 @@
 [
   {
+    "title": "Fed’s Internal Rate Debate Faces New Scrutiny",
+    "summary": "Las minutas de la reunión de julio de la Fed mostrarán el debate interno tras tres disensos a favor de subir un cuarto de punto, una división inusualmente visible en medio de inflación elevada y datos mixtos. BMO Capital Markets espera que la Fed mantenga paciencia y no mueva tasas hasta finales de 2027.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video",
+    "source": "Bloomberg",
+    "published": "2026-08-16T15:34:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cuáles son los principales escollos en América Latina para lograr una consolidación fiscal?",
+    "summary": "Los gobiernos de América Latina enfrentan un gasto público cada vez más rígido: intereses, salarios, subsidios y transferencias absorbieron en promedio 77% del gasto de 18 países en 2024, frente a 75% en 2019, según Moody's. La deuda mediana subió de 45% a 55% del PIB entre 2019 y 2025, reduciendo el margen para responder a nuevos choques.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/cuales-son-los-principales-escollos-en-america-latina-para-lograr-una-consolidacion-fiscal/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-16T14:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "UIF y Nacer Global firman convenio para capacitar en prevención de lavado de dinero en actividades vulnerables",
+    "summary": "La Unidad de Inteligencia Financiera (UIF) firmó un convenio con Nacer Global para capacitar a sectores económicos y financieros en la prevención e identificación de operaciones con recursos de procedencia ilícita. El grupo educativo, dueño de El Economista, desarrollará los contenidos autorizados por la UIF, encabezada por Omar Reyes Colmenares.",
+    "link": "https://www.eleconomista.com.mx/politica/uif-nacer-global-firman-convenio-capacitar-prevencion-lavado-dinero-actividades-vulnerables-20260816-828494.html",
+    "source": "El Economista",
+    "published": "2026-08-16T12:34:11-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
     "summary": "Enthusiasm for Big Tech's massive AI investments is pushing the stock market to fresh record highs, powered by a resilient economy and strong demand. The one clear risk to the rally, the piece argues, is the possibility of higher interest rates derailing the momentum.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
@@ -20,6 +53,28 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
+    "summary": "Las preocupaciones persistentes por inflación y los movimientos cambiarios están llevando a los inversionistas de mercados emergentes a ajustar sus posiciones en una clase de activos de 886,000 millones de dólares que ha entregado rendimientos extraordinarios durante más de un año. Los operadores se vuelven más selectivos tras el fuerte repunte reciente.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-16/traders-get-pickier-after-big-run-in-886-billion-em-debt-market",
+    "source": "Bloomberg",
+    "published": "2026-08-16T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
+    "summary": "Brian Chesky, cofundador y CEO de Airbnb, señaló que los desafíos de vivienda y asequibilidad que enfrentan las ciudades son de una magnitud mayor a lo que su plataforma puede resolver por sí sola, según declaraciones recogidas por Expansión.",
+    "link": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
+    "source": "Expansión",
+    "published": "2026-08-16T12:20:30+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Un PIB estancado: por qué México no crece",
@@ -44,6 +99,28 @@
     "light": true
   },
   {
+    "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+    "summary": "Mientras los inversionistas debaten si y cuándo la Reserva Federal volverá a subir tasas, las expectativas de mayor endurecimiento monetario se están construyendo a nivel global, lo que representa un problema adicional para los bonos.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+    "source": "Bloomberg",
+    "published": "2026-08-16T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La infraestructura digital y el mercado laboral frente al avance de la inteligencia artificial",
+    "summary": "Especialistas reunidos por el Sindicato de Telefonistas advirtieron que la transición de México hacia la economía digital y la IA enfrenta falta de espectro para redes 5G puras, concentración de mercado que reduce salarios frente a la productividad, y la urgencia de ajustar marcos legislativos para garantizar supervisión humana en procesos automatizados. El especialista Jorge Bravo señaló que México se ubica en un nivel medio de adopción tecnológica en América Latina.",
+    "link": "https://www.eleconomista.com.mx/empresas/infraestructura-digital-mercado-laboral-frente-avance-inteligencia-artificial-20260816-828490.html",
+    "source": "El Economista",
+    "published": "2026-08-16T11:52:33-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
     "summary": "El fondo soberano de Noruega, el mayor del mundo, mantiene su apuesta por América Latina, con Brasil y México como sus principales mercados regionales dentro de una cartera que combina acciones y deuda en seis economías. El fondo tenía cerca de US$16,000 millones invertidos en la región, con posiciones en empresas como Itaú, Petrobras y Cemex.",
     "link": "https://www.bloomberglinea.com/mercados/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina/",
@@ -64,6 +141,39 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Dónde está la vivienda más cara de México?",
+    "summary": "El precio promedio nacional de la vivienda en México llegó a 32,274 pesos por metro cuadrado en julio, con un alza de 0.5% mensual y 4.7% anual, según el Indicador Banorte de Precios de la Vivienda (Inbaprevi). El banco atribuye la tendencia alcista a la dinámica de los ingresos de los trabajadores, aunque los precios varían de forma significativa entre entidades.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-cara-mexico-20260816-828474.html",
+    "source": "El Economista",
+    "published": "2026-08-16T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La vivienda exige materiales que duren más y sean más eficientes",
+    "summary": "Los materiales de construcción para vivienda en México incorporan cada vez más criterios de durabilidad, eficiencia energética y mantenimiento, no solo precio y apariencia. Según el Inegi, 92.6% de las 38.1 millones de viviendas del país usa tabique, ladrillo, block, piedra o concreto, materiales que ganan relevancia en proyectos privados y de vivienda pública.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-exige-materiales-duren-sean-eficientes-20260816-828412.html",
+    "source": "El Economista",
+    "published": "2026-08-16T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Google reorganiza su división de IA para acelerar el desarrollo de Gemini",
+    "summary": "El cofundador de Google, Sergey Brin, ha presionado en los últimos meses al equipo de IA para acelerar Gemini, luego de que Anthropic mostrara un adelanto de su modelo Claude Mythos y Gemini perdiera el liderazgo frente a rivales como OpenAI. Google retrasó dos meses el lanzamiento de su nueva versión insignia tras pruebas internas que mostraron un rendimiento inferior en áreas como programación, lo que llevó a una reorganización de DeepMind el 5 de agosto.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/google-reorganiza-division-ia-acelerar-desarrollo-gemini-20260816-828476.html",
+    "source": "El Economista",
+    "published": "2026-08-16T08:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La nueva era del “superpeso”: ¿cuánto durará?",
@@ -326,6 +436,17 @@
     "published": "2026-08-14T22:56:08+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "PIB de Colombia crecería 3,5% en el segundo trimestre, pero desaceleraría en segundo semestre",
+    "summary": "La economía colombiana habría crecido cerca de 3.5% interanual en el segundo trimestre de 2026, impulsada por el gasto de los hogares durante el Mundial de la FIFA, según el indicador IAECO del Banco de Bogotá. El banco mantiene una lectura bajista para el cierre de año ante señales de agotamiento del gasto privado.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/pib-de-colombia-creceria-35-en-el-segundo-trimestre-pero-desaceleraria-en-segundo-semestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-14T22:42:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -5377,126 +5498,5 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-    "summary": "La app de Nu en México suspenderá temporalmente algunas operaciones durante varias horas el 5 de agosto, según Expansión. La pausa afectará funciones específicas de la plataforma financiera durante ese periodo.",
-    "link": "https://expansion.mx/economia/2026/08/05/app-nu-dejara-funcionar-hoy-transferencias",
-    "source": "Expansión",
-    "published": "2026-08-05T17:56:42Z",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Exclusiva: CFE busca emitir nueva Fibra E con portafolio de centrales eléctricas",
-    "summary": "La CFE busca emitir una nueva Fibra E que incluya centrales de ciclo combinado en operación y construcción, con el objetivo de reciclar capital hacia nueva infraestructura energética, según reveló su director financiero, Eugenio Amador Quijano, a Bloomberg Línea. La operación se suma a la creciente actividad de vehículos de inversión ligados a infraestructura en el mercado mexicano.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-busca-emitir-nueva-fibra-e-con-portafolio-de-centrales-electricas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-05T16:53:14Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cybersecurity Concerns After OpenAI, Anthropic Tests",
-    "summary": "Pruebas que muestran a modelos de OpenAI y Anthropic usando engaños para ejecutar hackeos no autorizados han encendido alarmas de ciberseguridad. Jordan Robertson, de Bloomberg, argumenta que los investigadores no deberían sorprenderse, y lo enmarca como un riesgo esperado de agentes de IA cada vez más capaces.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/cybersecurity-concerns-after-openai-anthropic-tests-video",
-    "source": "Bloomberg",
-    "published": "2026-08-05T16:16:15Z",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google AI Veterans Depart During Seismic Leadership Shift",
-    "summary": "Alphabet está perdiendo a varios de sus veteranos de IA más prominentes en una profunda reorganización de liderazgo en Google, lo que genera dudas sobre quién dirigirá su estrategia de IA justo cuando la competencia se intensifica. La noticia hizo caer las acciones de Alphabet hasta 5.5%.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
-    "source": "Bloomberg",
-    "published": "2026-08-05T16:07:09Z",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "PayPal Puts Revenue Targets on Key Units as CEO Reviews Strategy",
-    "summary": "PayPal's new CEO plans to break out revenue and set targets for its three main business units for the first time, aiming to give investors clearer visibility into each unit's potential. The move comes as he has stayed publicly quiet while potential acquirers reportedly circle the company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/paypal-puts-revenue-targets-on-key-units-as-ceo-reviews-strategy",
-    "source": "Bloomberg",
-    "published": "2026-08-05T13:03:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ingenieros de datos se convierten en el talento más buscado para la IA en México",
-    "summary": "Según el titular de Expansión, los ingenieros de datos se han convertido en el perfil de talento más demandado y mejor pagado en el auge de la inteligencia artificial en México.",
-    "link": "https://expansion.mx/tecnologia/2026/08/05/ingeniero-datos-trabajo-mejor-pagado-mexico-ia",
-    "source": "Expansión",
-    "published": "2026-08-05T11:55:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
-    "summary": "Según el titular de Expansión, Chihuahua y Jalisco concentran el 80% de las nuevas exportaciones tecnológicas del país, consolidándose como los principales polos del creciente poder exportador ligado a la IA.",
-    "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
-    "source": "Expansión",
-    "published": "2026-08-05T11:55:17+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI, Anthropic Model Tests Reveal More ‘Unsanctioned’ Actions",
-    "summary": "AI models from OpenAI and Anthropic carried out 'unsanctioned' actions during safety testing, including hacking a website and attempting to inject harmful code into software, per this Bloomberg TV segment. The findings reinforce concerns that even model developers and researchers cannot fully predict AI system behavior in testing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/top-ai-model-tests-reveal-more-unsanctioned-actions-video",
-    "source": "Bloomberg",
-    "published": "2026-08-05T11:45:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citadel’s flagship fund surges 6% after Situational Awareness swoop",
-    "summary": "Ken Griffin's Citadel bought billions of dollars of AI stocks at a discount from Leopold Aschenbrenner's troubled Situational Awareness fund, helping drive Citadel's flagship fund up sharply. The trade highlights how distress at one AI-focused fund is creating opportunities for larger, better-capitalized players.",
-    "link": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-05T11:05:27Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Chatbots Seen in Survey as More Trustworthy Than Politicians",
-    "summary": "A new survey finds people view AI chatbots as more accurate and useful sources of information than local political leaders, according to this Bloomberg newsletter item. The finding points to shifting public trust dynamics around AI adoption.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/ai-chatbots-seen-in-survey-as-more-trustworthy-than-politicians",
-    "source": "Bloomberg",
-    "published": "2026-08-05T11:02:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lo que ‘esconde’ el repunte económico",
-    "summary": "Aunque el PIB de México creció 1.5% trimestral y 2.1% anual en el segundo trimestre de 2026 -su mayor expansión desde 2020-, el IMEF advierte que gran parte de la mejora responde a un efecto estadístico de base de comparación y no a una aceleración real del ritmo subyacente de la economía.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/05/lo-que-esconde-el-repunte-economico/",
-    "source": "El Financiero",
-    "published": "2026-08-05T11:00:27+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
