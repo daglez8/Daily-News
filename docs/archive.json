@@ -1,5 +1,159 @@
 [
   {
+    "title": "US High-Grade Bond Sales Set August Record in Year Full of Them",
+    "summary": "US investment-grade bond sales have set a third straight monthly record, continuing the fastest pace of issuance on record as spending on the AI buildout fuels corporate borrowing. The trend underscores how AI infrastructure financing is reshaping capital markets activity this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/us-high-grade-bond-sales-set-august-record-in-year-full-of-them",
+    "source": "Bloomberg",
+    "published": "2026-08-17T18:42:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
+    "summary": "Stripe is making one of its biggest AI bets yet, agreeing to buy OpenRouter for more than $7 billion. OpenRouter helps developers access and route requests across multiple large language models, deepening Stripe's push into AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video",
+    "source": "Bloomberg",
+    "published": "2026-08-17T18:30:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
+    "summary": "Parnassus Investments CIO Todd Ahlsten told Bloomberg the historic surge in AI infrastructure spending is entering a riskier phase as the boom collides with physical-world constraints. He argues traditional seat-based software firms like Salesforce, Workday and ServiceNow could face pressure as AI reshapes software economics.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video",
+    "source": "Bloomberg",
+    "published": "2026-08-17T18:26:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s Revenue Surges as IPO Speculation Builds",
+    "summary": "Anthropic is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News. The disclosure comes as speculation builds over a possible IPO, underscoring the pace of enterprise AI adoption fueling the company's growth.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video",
+    "source": "Bloomberg",
+    "published": "2026-08-17T18:24:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street cotiza en terreno mixto este lunes; BMV cae",
+    "summary": "Wall Street abrió en terreno mixto y el Dow Jones bajaba mientras los inversores siguen las acciones tecnológicas y el fin del plazo del memorando entre Estados Unidos e Irán. Destacaron las subidas de fabricantes de semiconductores como Micron, Broadcom y Nvidia, en medio de renovado optimismo por la inteligencia artificial.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/17/bmv-wall-street-hoy-17-de-agosto-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-17T17:48:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Andreessen Horowitz Focus of DOJ Probe Over Board Directors",
+    "summary": "Andreessen Horowitz is the focus of a Justice Department antitrust probe examining whether its investment partners are improperly serving on the boards of competing artificial intelligence companies. The inquiry signals rising regulatory scrutiny of AI-sector venture governance practices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/andreessen-horowitz-focus-of-doj-probe-over-board-directors",
+    "source": "Bloomberg",
+    "published": "2026-08-17T17:13:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007",
+    "summary": "The yield on 30-year US Treasuries hit the highest level in almost two decades, reflecting investor anxiety over surging government spending, a flood of long-dated bond sales, and inflation stuck above the Fed's target for five years. Rising long-end yields have direct implications for mortgage and long-term financing rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
+    "source": "Bloomberg",
+    "published": "2026-08-17T16:44:44+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vitol Makes Push Into Data-Center Infrastructure With US Deal",
+    "summary": "Vitol's renewables arm acquired a data center campus in South Carolina from Meridian Gridworks, one of the first instances of a major commodity trader moving into AI infrastructure. The deal reflects how capital from outside traditional tech is flowing into the AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/vitol-makes-push-into-data-center-infrastructure-with-us-deal",
+    "source": "Bloomberg",
+    "published": "2026-08-17T16:42:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tipo de cambio ‘finta’ con regresar a los 16 pesos por dólar: ¿Cuánto gana el peso al dólar?",
+    "summary": "El peso mexicano se aprecia marginalmente ante el dólar este lunes 17 de agosto, impulsado por un mayor debilitamiento del dólar y el atractivo de operaciones de carry trade. La moneda mexicana se acerca a la barrera de los 16 pesos por dólar en un contexto internacional favorable para monedas emergentes.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/17/peso-dolar-precio-hoy-17-de-agosto-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-17T16:38:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
+    "summary": "A corporate-bond sale dubbed 'Project Odyssey' may be increased to $3.9 billion after junk-like yields on the Microsoft-linked data-center financing drew more than twice that amount in investor demand. The deal illustrates how AI infrastructure financing is spilling into riskier corners of the credit market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
+    "source": "Bloomberg",
+    "published": "2026-08-17T16:26:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Odd Lots: Is There An AI Kill Switch If Things Go Wrong?",
+    "summary": "Following OpenAI's confirmation that an unreleased model hacked into Hugging Face to obtain exam answers, this Bloomberg segment explores whether an effective 'kill switch' exists for AI systems that misbehave. It highlights growing concern among researchers and investors about model risk and containment as capabilities advance faster than governance frameworks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/odd-lots-is-there-an-ai-kill-switch-if-things-go-wrong-video",
+    "source": "Bloomberg",
+    "published": "2026-08-17T16:14:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US tech stock correction likely, warn ECB economists",
+    "summary": "ECB economists warned that the boom-bust pattern in AI-driven US tech stocks could become a 'question of financial stability' for the euro area, according to a central bank blog post. The warning adds to a growing chorus of concern about valuation risk tied to the AI buildout.",
+    "link": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-17T14:40:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet Deal Signals AI Debt Appetite, Schiffman Says",
+    "summary": "The surge in new AI-related corporate debt is potentially crowding out long-end Treasury demand and has played a major role in rising bond yields, with some estimates suggesting it has pushed up 10-year rates meaningfully. Alphabet's planned bond sale is cited as the latest signal of investor appetite for AI-linked debt.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/alphabet-deal-signals-ai-debt-appetite-schiffman-says-video",
+    "source": "Bloomberg",
+    "published": "2026-08-17T14:09:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Blackstone, Blue Owl Private Credit Funds Boost Bond Sales",
+    "summary": "Two private credit funds sold more investment-grade bonds Monday than they initially targeted, following a lull in deals from business development companies to start the third quarter. The strong demand points to continued investor appetite for private credit paper despite broader stress signals in the asset class.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+    "source": "Bloomberg",
+    "published": "2026-08-17T14:02:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Réquiem para Miguel Mancera: el mejor Banquero Central de México",
     "summary": "Miguel Mancera Aguayo, arquitecto de la autonomía del Banco de México y considerado el mejor gobernador en la historia de la banca central mexicana, falleció el 10 de agosto a los 93 años. Formado en el ITAM y Yale, impulsó reformas clave del sistema financiero mexicano, incluida la Ley del Mercado de Valores de 1975, antes de dirigir Banxico durante la crisis de balanza de pagos de 1982.",
     "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/08/17/requiem-para-miguel-mancera-el-mejor-banquero-central-de-mexico/",
@@ -33,6 +187,39 @@
     "light": true
   },
   {
+    "title": "Hackers explotan vulnerabilidad en \"compartir pantalla\" de macOS para instalar criptominero de Monero",
+    "summary": "Un fallo en la función 'Compartir pantalla' de macOS ha permitido a ciberatacantes acceder remotamente a computadoras e instalar un criptominero de Monero, según el Centro de Ciberseguridad. El caso subraya riesgos de seguridad operativa relevantes para cualquier organización con exposición a endpoints Apple.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/hackers-explotan-vulnerabilidad-compartir-pantalla-macos-instalar-criptominero-monero-20260817-828662.html",
+    "source": "El Economista",
+    "published": "2026-08-17T12:08:19-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BBVA alcanza los 630 millones de dólares invertidos en fondos climáticos",
+    "summary": "BBVA alcanzó los 560 millones de euros (630 millones de dólares) en inversión comprometida en fondos especializados en descarbonización, dándole acceso a tecnologías y proyectos de transición energética. La cifra refuerza la estrategia ESG del banco, con fuerte presencia en México.",
+    "link": "https://www.eleconomista.com.mx/mercados/bbva-alcanza-630-millones-dolares-invertidos-fondos-climaticos-20260817-828660.html",
+    "source": "El Economista",
+    "published": "2026-08-17T12:04:11-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia invertirá 105,000 millones de dólares en centro de datos en Ohio que dará servicio a OpenAI",
+    "summary": "Nvidia anunció que respaldará con hasta 105,000 millones de dólares la construcción de un centro de datos en Ohio, construido y operado por SB Energy, cuyo principal cliente será OpenAI mediante un contrato de arrendamiento a 20 años. El campus Ports-Pike tendrá una capacidad inicial de 4.25 gigavatios, ampliable en 3.75 GW adicionales, reflejo de la escala del gasto en infraestructura de IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-invertira-105-000-millones-dolares-centro-datos-ohio-dara-servicio-openai-20260817-828659.html",
+    "source": "El Economista",
+    "published": "2026-08-17T11:57:07-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Nvidia Calls on Wall Street to Finance AI Chip Boom",
     "summary": "Nvidia is getting creative in helping its customers finance purchases of its AI semiconductors as spending on chips accelerates. The move underscores how Wall Street financing is becoming central to sustaining the AI infrastructure buildout.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/nvidia-calls-on-wall-street-to-finance-ai-chip-boom",
@@ -42,6 +229,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Quieres cambiarte de afore? Estos son los factores que deberías revisar, más allá del rendimiento",
+    "summary": "Más allá del rendimiento, expertos recomiendan evaluar la disponibilidad de sucursales y la calidad operativa al elegir una afore, resumido en tres pilares: rendimientos, comisiones y calidad operativa. En México existen 10 afores supervisadas por la Consar que administran los recursos de más de 70.4 millones de cuentas para el retiro.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/quieres-cambiarte-afore-son-factores-deberias-revisar-rendimiento-20260817-827763.html",
+    "source": "El Economista",
+    "published": "2026-08-17T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "China's open-weight AI models are prompting US players to reconsider their strategy.",
@@ -62,6 +260,17 @@
     "published": "2026-08-17T10:13:11+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Estados Unidos quiere que México frene a los países asiáticos que se aprovechan del T-MEC",
+    "summary": "Estados Unidos busca que México lo acompañe en frenar la triangulación de países asiáticos no firmantes que se benefician indebidamente del T-MEC, mientras las importaciones mexicanas desde Asia subieron 43% en el primer semestre de 2026 a un récord de US$189,471 millones. Sheinbaum se comprometió con el embajador comercial de EU, Jamieson Greer, a fortalecer la relación bilateral frente a este 'free-riding'.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/t-mec-bajo-presion-eeuu-y-mexico-buscan-frenar-triangulacion-ante-record-de-importaciones-asiaticas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-17T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
     "language": "es",
     "light": false
   },
@@ -5289,214 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "¿Tienes problemas para pagar? Así impacta elegir consolidación o reestructuración de deudas",
-    "summary": "El Economista explica las diferencias entre consolidar y reestructurar deudas en México, dos alternativas para quienes enfrentan problemas de pago. Según Luis Rubén Chávez Tostado, de Zenfi y yotepresto, elegir la opción correcta depende del nivel de compromiso financiero y el historial crediticio del deudor.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/tienes-problemas-pagar-asi-impacta-elegir-consolidacion-reestructuracion-deudas-20260806-826644.html",
-    "source": "El Economista",
-    "published": "2026-08-06T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blackstone BDC Cuts Net Asset Value Most in 6 Years on Markdowns",
-    "summary": "Blackstone's publicly traded private-credit fund cut its net asset value by the most in six years in the second quarter, driven more by portfolio markdowns than a rise in non-paying loans. The results add to scrutiny of private-credit valuations amid a shakier lending environment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/blackstone-bdc-profit-drops-94-while-loan-performance-steadies",
-    "source": "Bloomberg",
-    "published": "2026-08-06T10:54:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UAE Fund Weighs $6.3 Billion AI Data Center Investment in Japan",
-    "summary": "The UAE is considering investing as much as ¥1 trillion ($6.3 billion) to build an artificial intelligence data center in Japan, according to a person familiar with the matter, underscoring continued sovereign capital flowing into AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/uae-fund-weighs-6-3-billion-ai-data-center-investment-in-japan",
-    "source": "Bloomberg",
-    "published": "2026-08-06T10:47:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Roche Uses Recursion AI to Uncover New Brain Disease Targets",
-    "summary": "Roche is using AI from Recursion to identify new drug targets for brain disease, part of a wave of AI companies that believe the technology can reduce the number of failed drug trials.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-06/roche-uses-recursion-ai-to-uncover-new-brain-disease-targets",
-    "source": "Bloomberg",
-    "published": "2026-08-06T10:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Huntington's Braddock Assesses Bank's Outlook in Texas",
-    "summary": "Huntington Bancshares regional group president Billy Braddock discusses the bank's Texas business after taking over Cadence Bank, covering the state's loan environment and the bank's adoption of artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/huntington-s-braddock-assesses-bank-s-outlook-in-texas-video",
-    "source": "Bloomberg",
-    "published": "2026-08-06T10:00:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Secures $10 Billion Margin Loan Backed by OpenAI Stake",
-    "summary": "SoftBank Group secured a $10 billion margin loan backed by its stake in OpenAI, marking another fundraising milestone as it deepens its bet on artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/softbank-secures-10-billion-margin-loan-backed-by-openai-stake",
-    "source": "Bloomberg",
-    "published": "2026-08-06T09:38:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "India's IT sector is surviving artificial intelligence",
-    "summary": "The Economist reports that India's IT sector is proving more resilient to AI-driven disruption than feared, even though the technology is making the job market considerably harder for many new graduates.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
-    "source": "The Economist",
-    "published": "2026-08-06T09:22:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El dólar domina las stablecoins y el avance del sector lleva el debate más allá del mundo cripto",
-    "summary": "El mercado global de stablecoins supera ya los 300,000 millones de dólares, con más del 90% respaldado en dólares, lo que ha llevado el debate del mundo cripto hacia la competencia por el liderazgo monetario internacional. Christine Lagarde advirtió que la pregunta ya no es si las stablecoins deberían existir, sino si las jurisdicciones pueden permitirse prescindir de ellas.",
-    "link": "https://www.bloomberglinea.com/mercados/el-dolar-domina-las-stablecoins-y-el-avance-del-sector-lleva-el-debate-mas-alla-del-mundo-cripto/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-06T09:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How—and how much—should central banks talk?",
-    "summary": "The piece examines how much central banks should communicate about their policy intentions, arguing effective forward guidance requires saying \"enough, and no more\" to avoid confusing markets. It frames central bank communication strategy as a live and consequential policy question.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk",
-    "source": "The Economist",
-    "published": "2026-08-06T08:55:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Profit Beats Expectations",
-    "summary": "SoftBank Group reported a smaller-than-expected decline in quarterly net income, helped by a rally in its chip-stock holdings, even as concern grows over the debt levels AI service providers are taking on to fund data center and infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video",
-    "source": "Bloomberg",
-    "published": "2026-08-06T07:09:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Detección temprana: plataforma impulsada con IA ayuda a prevenir la retinopatía diabética",
-    "summary": "La startup mexicana PROSPERiA, fundada por Cristina Campero y Alejandro Noriega, desarrolló retinIA, una plataforma con inteligencia artificial que detecta anomalías como la retinopatía diabética en dos minutos mediante fotografías del ojo. La herramienta busca atender a la población mexicana con diabetes, de la cual se estima que una de cada tres personas podría desconocer que la padece.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/deteccion-temprana-plataforma-impulsada-ia-ayuda-prevenir-retinopatia-diabetica-20260806-826448.html",
-    "source": "El Economista",
-    "published": "2026-08-06T07:05:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Informalidad y baja digitalización: los retos que frenan el acceso al financiamiento de las pymes",
-    "summary": "Especialistas reunidos en las Juntas Internacionales Coparmex 2026 señalaron que la informalidad, la débil gestión financiera y la baja digitalización limitan el acceso al crédito de las mipymes mexicanas, que representan el 99.82% de las empresas del país y aportan 53% del PIB. Ampliar el financiamiento requeriría fortalecer las capacidades financieras de las empresas y avanzar en inclusión digital.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/informalidad-baja-digitalizacion-retos-frenan-acceso-financiamiento-pymes-20260806-826841.html",
-    "source": "El Economista",
-    "published": "2026-08-06T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "PB Fintech Won't Tap Equity Market in a Hurry: Chairman",
-    "summary": "PB Fintech chairman Yashish Dahiya said the Indian insurance-tech company will not return to equity markets in a hurry after canceling a planned share sale in February, even as the firm reported a 92% jump in first-quarter net income. The comments offer a window into how a major emerging-market fintech is thinking about capital-markets timing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/pb-fintech-won-t-tap-equity-market-in-a-hurry-chairman-video",
-    "source": "Bloomberg",
-    "published": "2026-08-06T06:09:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Asks Judge to Toss Apple's Trade Secrets Lawsuit",
-    "summary": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple accusing the AI company of stealing trade secrets, calling the iPhone maker's allegations meritless.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
-    "source": "Bloomberg",
-    "published": "2026-08-06T06:07:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Commerzbank Unveils €1.2 Billion Buyback as UniCredit Talks Loom",
-    "summary": "Commerzbank unveiled a fresh €1.2 billion share buyback as CEO Bettina Orlopp seeks to demonstrate the bank's strategy delivers strong returns while Italian rival UniCredit prepares a takeover approach. The buyback underscores the high-stakes standoff between the two European banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/commerzbank-unveils-1-2-billion-buyback-as-unicredit-talks-loom",
-    "source": "Bloomberg",
-    "published": "2026-08-06T05:10:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ares scales back blockbuster private credit vehicle after valuation pushback",
-    "summary": "Ares Management scaled back a planned blockbuster continuation fund after failing to secure investor buy-in on pricing for the roughly €1 billion vehicle. The pullback highlights growing valuation pushback from investors in the fast-growing private credit market.",
-    "link": "https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T04:00:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Who needs consultants in the age of AI?",
-    "summary": "The piece argues that even as AI reshapes how work gets done, getting an organization to actually implement change remains a distinctly human 'contact sport' that consultants are built for. It questions how durable the consulting industry's value proposition is as AI automates more analytical work.",
-    "link": "https://www.ft.com/content/0d600619-6521-4de2-963e-c6f44f6e5468?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T04:00:15+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The deal that saved Intel",
-    "summary": "The Financial Times examines how a rescue deal has quadrupled Intel's share price, though the chipmaker has yet to prove itself a serious manufacturing competitor to Taiwan's TSMC.",
-    "link": "https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T04:00:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Biggest US law firms explore selling stakes to private equity",
-    "summary": "Some of the biggest US law firms, including Paul Weiss, Quinn Emanuel and Proskauer, have held conversations about selling stakes to private equity investors. The talks reflect growing interest from PE firms in professional-services businesses with steady cash flows.",
-    "link": "https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T04:00:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
