@@ -1,5 +1,82 @@
 [
   {
+    "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says",
+    "summary": "Harvard Business School professor Linda Hill argues that the rise of AI is forcing a shift in leadership style, away from top-down control toward more adaptive, agile models of decision-making. She highlights how organizations that fail to update their management practices for AI-driven work risk falling behind more nimble competitors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
+    "source": "Bloomberg",
+    "published": "2026-08-17T05:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private credit under strain as troubled loans swell",
+    "summary": "Private credit funds are facing rising numbers of troubled loans as the asset class matures, raising concerns about underwriting discipline built up during the sector's rapid growth. The strain is prompting scrutiny of how private lenders value and manage distressed positions compared with traditional banks.",
+    "link": "https://www.ft.com/content/private-credit-under-strain",
+    "source": "Financial Times",
+    "published": "2026-08-17T04:00:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Portugal and Spain struggle as EU housing black spots",
+    "summary": "Portugal and Spain are singled out as the EU's worst housing affordability crises, with prices and rents outpacing local incomes amid strong foreign demand and limited new supply. The piece examines how these markets illustrate broader tensions between foreign buyer demand and domestic housing affordability across Europe.",
+    "link": "https://www.ft.com/content/portugal-spain-housing-black-spots",
+    "source": "Financial Times",
+    "published": "2026-08-17T04:00:10+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The next China shock will come from open-source AI",
+    "summary": "The article argues that China's push into open-source AI models could reshape global technology competition much as its manufacturing rise did decades earlier, undercutting Western AI providers on cost and accessibility. It considers the implications for enterprises and governments weighing which AI ecosystems to build on.",
+    "link": "https://www.ft.com/content/next-china-shock-open-source-ai",
+    "source": "Financial Times",
+    "published": "2026-08-17T01:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Infraestructura, logística y talento, las condicionantes del nearshoring",
+    "summary": "Especialistas señalan que la infraestructura insuficiente, los cuellos de botella logísticos y la escasez de talento calificado son los principales obstáculos para que México capitalice plenamente la ola de nearshoring. El artículo destaca la necesidad de inversión coordinada entre gobierno y sector privado para sostener la demanda de espacio industrial y vivienda asociada.",
+    "link": "https://www.eleconomista.com.mx/empresas/infraestructura-logistica-talento-condicionantes-nearshoring",
+    "source": "El Economista",
+    "published": "2026-08-17T00:47:17-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las hipotecas más baratas no resolverán la crisis inmobiliaria de Estados Unidos",
+    "summary": "El texto explica que la reciente caída en las tasas hipotecarias en Estados Unidos no bastará para resolver la crisis de asequibilidad de vivienda, dado que la escasez de oferta y los altos precios siguen siendo las principales barreras. Analistas advierten que se necesitan políticas más amplias de construcción y financiamiento para revertir la tendencia.",
+    "link": "https://www.eleconomista.com.mx/internacionales/hipotecas-baratas-no-resolveran-crisis-inmobiliaria-estados-unidos",
+    "source": "El Economista",
+    "published": "2026-08-17T00:17:05-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+    "summary": "Payments giant Stripe has agreed to acquire AI infrastructure company OpenRouter in a deal valued at more than $7 billion, marking one of the largest fintech-AI acquisitions to date. The purchase signals Stripe's ambition to embed AI routing and agent infrastructure deeper into its payments and financial services stack.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter",
+    "source": "Bloomberg",
+    "published": "2026-08-16T19:32:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Fed’s Internal Rate Debate Faces New Scrutiny",
     "summary": "Las minutas de la reunión de julio de la Fed mostrarán el debate interno tras tres disensos a favor de subir un cuarto de punto, una división inusualmente visible en medio de inflación elevada y datos mixtos. BMO Capital Markets espera que la Fed mantenga paciencia y no mueva tasas hasta finales de 2027.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video",
@@ -77,6 +154,17 @@
     "light": false
   },
   {
+    "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
+    "summary": "El CEO de Airbnb, Brian Chesky, señala que la crisis de asequibilidad de vivienda es un problema estructural que excede el alcance de su plataforma, y llama a repensar cómo se financia y construye vivienda a nivel global. Sus comentarios llegan en medio de un debate creciente sobre el rol de las plataformas de hospedaje en la disponibilidad de vivienda.",
+    "link": "https://expansion.mx/economia/2026/08/16/brian-chesky-desafios-vivienda-mas-grandes-que-airbnb",
+    "source": "Expansión",
+    "published": "2026-08-16T12:20:30+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Un PIB estancado: por qué México no crece",
     "summary": "El artículo analiza por qué el Producto Interno Bruto de México se mantiene estancado y explora las razones detrás de la falta de crecimiento económico del país.",
     "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
@@ -86,6 +174,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": true
+  },
+  {
+    "title": "Un PIB estancado: por qué México no crece",
+    "summary": "El artículo analiza las causas estructurales del bajo crecimiento del PIB mexicano, incluyendo baja inversión, productividad estancada y un entorno regulatorio que limita la competitividad. Señala las implicaciones de este estancamiento para el sector financiero y de crédito del país.",
+    "link": "https://expansion.mx/economia/2026/08/16/pib-estancado-por-que-mexico-no-crece",
+    "source": "Expansión",
+    "published": "2026-08-16T12:16:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
@@ -124,6 +223,17 @@
     "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
     "summary": "El fondo soberano de Noruega, el mayor del mundo, mantiene su apuesta por América Latina, con Brasil y México como sus principales mercados regionales dentro de una cartera que combina acciones y deuda en seis economías. El fondo tenía cerca de US$16,000 millones invertidos en la región, con posiciones en empresas como Itaú, Petrobras y Cemex.",
     "link": "https://www.bloomberglinea.com/mercados/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-16T11:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
+    "summary": "El fondo soberano más grande del mundo ha construido posiciones en grandes empresas latinoamericanas, incluyendo la mexicana Cemex, como parte de una estrategia de exposición a la región. El reportaje detalla cómo estos flujos de capital institucional están influyendo en la valuación de activos corporativos en América Latina.",
+    "link": "https://www.bloomberglinea.com/negocios/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina",
     "source": "Bloomberg Línea",
     "published": "2026-08-16T11:00:01+00:00",
     "category": "Capital Markets & M&A",
@@ -220,6 +330,17 @@
     "light": true
   },
   {
+    "title": "Comisión Nacional Antimonopolios aprueba en México la fusión de Paramount y Warner Bros",
+    "summary": "El regulador antimonopolios de México dio luz verde a la fusión entre Paramount y Warner Bros Discovery, sumando al país a la lista de jurisdicciones que autorizan la operación. La aprobación despeja uno de los obstáculos regulatorios pendientes para cerrar el acuerdo a nivel global.",
+    "link": "https://expansion.mx/empresas/2026/08/15/antimonopolios-aprueba-mexico-fusion-paramount-warner-bros",
+    "source": "Expansión",
+    "published": "2026-08-15T18:31:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El 'príncipe nigeriano' ya es el rey de los fraudes: 5 tipos de estafas hechas con IA y cómo protegerte",
     "summary": "Los fraudes en línea se diversificaron con el uso de inteligencia artificial, que genera textos e imágenes falsos casi indistinguibles de los reales. Según el FBI, los consumidores en EU perdieron cerca de 20,900 millones de dólares por estafas digitales, y expertos advierten que ahora hay que 'verificar, verificar otra vez y solo entonces considerar confiar'.",
     "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/08/15/el-principe-nigeriano-ya-es-el-rey-de-los-fraudes-5-tipos-de-estafas-hechas-con-ia-y-como-protegerte/",
@@ -251,6 +372,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Nyla Stone no existe, pero triunfa en Spotify: así es la cantante creada con IA",
+    "summary": "Nyla Stone, una cantante generada completamente con inteligencia artificial, ha acumulado millones de reproducciones en Spotify sin existir físicamente, evidenciando el avance de la IA generativa en la industria musical. El caso reaviva el debate sobre autoría, derechos y transparencia frente a contenido creado por IA en plataformas de streaming.",
+    "link": "https://www.bloomberglinea.com/entretenimiento/nyla-stone-no-existe-pero-triunfa-en-spotify-asi-es-la-cantante-creada-con-ia",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-15T11:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Villa Arena / Ábaton",
@@ -5366,137 +5498,5 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Blue Owl Private Credit Funds Rally as Tech Concerns Ease",
-    "summary": "Blue Owl Capital moved to shore up confidence in two of its private-credit funds, stressing that borrower fundamentals remained strong as AI-induced anxiety in the sector eased. The move underscores continued volatility around AI-exposed private credit portfolios.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/blue-owl-bdcs-buy-back-90-million-of-shares-to-support-value",
-    "source": "Bloomberg",
-    "published": "2026-08-05T20:34:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google reorganiza el liderazgo de IA para acelerar Gemini; Demis Hassabis deja DeepMind",
-    "summary": "Según Expansión, Google reorganizó el liderazgo de su división de inteligencia artificial para acelerar el desarrollo de Gemini, y Demis Hassabis dejaría DeepMind. El resumen disponible de la fuente no incluye más detalles sobre la reestructuración.",
-    "link": "https://expansion.mx/tecnologia/2026/08/05/google-reorganiza-el-liderazgo-de-ia-para-acelerar-gemini-demis-hassabis-deja-deepmind",
-    "source": "Expansión",
-    "published": "2026-08-05T20:00:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Investors are having doubts about Elon Musk’s grandiose ambitions",
-    "summary": "Investors are growing skeptical of Elon Musk's ambitions to refashion SpaceX as an AI company, given the enormous capital being poured into the effort. The piece questions whether the spending will translate into returns commensurate with the risk.",
-    "link": "https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions",
-    "source": "The Economist",
-    "published": "2026-08-05T19:50:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors have fresh doubts about Elon Musk's grandiose ambitions",
-    "summary": "The Economist notes growing investor skepticism as SpaceX pours enormous sums into refashioning itself as an AI company.",
-    "link": "https://www.economist.com/business/2026/08/05/investors-have-fresh-doubts-about-elon-musks-grandiose-ambitions",
-    "source": "The Economist",
-    "published": "2026-08-05T19:50:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brutalist Penthouse / Barde + vanVoltt",
-    "summary": "Located in Mexico City's Escandón neighborhood, this 300-square-meter penthouse renovation by Barde + vanVoltt reinterprets brutalist architecture through warmth and craftsmanship. The project transforms an existing rooftop apartment into a calm retreat for two creative professionals above one of the city's most vibrant districts.",
-    "link": "https://www.archdaily.com/1181747/brutalist-penthouse-barde-plus-vanvoltt",
-    "source": "ArchDaily",
-    "published": "2026-08-05T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 72,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Inteligencia artificial eleva hasta 45.8% la producción en sectores estratégicos de México",
-    "summary": "Estudios del Centro México Digital, basados en el Censo Económico 2024 del Inegi, encuentran que la adopción de IA se asocia con incrementos de hasta 45.8% en la producción bruta de empresas mexicanas, incluido el sector de servicios financieros y de seguros. El uso de la tecnología sigue concentrado en pocas actividades, con diferencias de más de siete veces dentro de un mismo sector.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial-eleva-45-8-produccion-sectores-estrategicos-mexico-20260805-826785.html",
-    "source": "El Economista",
-    "published": "2026-08-05T18:42:56Z",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apollo’s Deal Spree Drives Fee-Related Revenue to a Record",
-    "summary": "Apollo Global Management posted record fee-related revenue on the back of an aggressive deal-making spree, as the firm pushes to become one of Wall Street's largest lenders. The results underscore private credit's growing role in large-scale corporate financing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/apollo-s-deal-spree-drives-fee-related-revenue-to-record-video",
-    "source": "Bloomberg",
-    "published": "2026-08-05T18:40:35Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Frenzy Splits VC Into Winners and Have-Nots",
-    "summary": "Inversionistas de Breakout Ventures, Salesforce Ventures y Dell Technologies Capital se reunieron en Bloomberg Deals para discutir cómo el auge de inversión en IA está dividiendo al capital de riesgo entre ganadores claros y firmas que luchan por mantenerse a flote. El panel apunta a una creciente concentración de capital en un grupo cada vez más reducido de apuestas de IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/ai-frenzy-splits-vc-into-winners-and-have-nots-video",
-    "source": "Bloomberg",
-    "published": "2026-08-05T18:37:40Z",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
-    "summary": "Google DeepMind CEO Demis Hassabis is stepping aside in a shake-up of the AI lab, with chief scientist Jeff Dean also leaving the group to found his own start-up. The reshuffle comes as Google intensifies its push to compete with Anthropic and OpenAI in frontier AI development.",
-    "link": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-05T18:24:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Polymarket Seeks Investment at More Than $20B Valuation",
-    "summary": "La plataforma de mercados de predicción Polymarket busca una nueva inversión a una valuación superior a 20,000 millones de dólares, meses después de cerrar una ronda anterior respaldada por el fondo de cobertura D.E. Shaw & Co. Las conversaciones apuntan a una demanda de inversión sostenida por la plataforma.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/polymarket-seeks-investment-at-more-than-20b-valuation-video",
-    "source": "Bloomberg",
-    "published": "2026-08-05T18:13:45Z",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancomext canaliza más de 150 mil mdp al comercio exterior y gana más de 3 mdp en primer semestre",
-    "summary": "Bancomext cerró el primer semestre de 2026 con un resultado neto de 3,429 millones de pesos y un Índice de Capitalización de 21.90%, tras colocar más de 150,000 millones de pesos en crédito a empresas vinculadas al comercio exterior. La cartera de crédito directo e inducido al sector privado alcanzó 336,790 millones de pesos al cierre de junio.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/08/05/bancomext-canaliza-mas-de-150-mil-mdp-al-comercio-exterior-y-gana-mas-de-3-mdp-en-primer-semestre/",
-    "source": "El Financiero",
-    "published": "2026-08-05T18:13:41Z",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show",
-    "summary": "Nuevas revelaciones muestran que Microsoft genera la mayor parte de sus ingresos de inteligencia artificial a través de su alianza con OpenAI, lo que subraya cuán concentrada sigue siendo su monetización de IA. La cifra confirma la fuerte dependencia de Microsoft de un solo socio para su crecimiento en IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-    "source": "Bloomberg",
-    "published": "2026-08-05T18:06:51Z",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
   }
 ]
