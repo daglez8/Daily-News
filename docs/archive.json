@@ -1,5 +1,137 @@
 [
   {
+    "title": "Inflación en América Latina a julio 2026: del negativo en Costa Rica al 576% en Venezuela",
+    "summary": "La inflación en América Latina mostró un panorama heterogéneo en julio: México continuó su tendencia a la baja con una inflación anual de 3.12%, la más baja desde mayo de 2020, mientras Perú repuntó a 4.07% y Argentina se mantuvo cerca de 34%. El dato mexicano refuerza las expectativas de que Banxico mantenga su ciclo de recortes de tasas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-en-america-latina-a-julio-2026-del-negativo-en-costa-rica-al-576-en-venezuela/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-18T13:05:03+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic's Annualized Revenue Tops $65 Billion",
+    "summary": "Anthropic's annualized revenue has surpassed $65 billion, more than seven times its pace at the end of last year, driven by strong enterprise adoption of Claude. The figure underscores the accelerating commercial scale of AI foundation-model providers even as spending on AI infrastructure surges.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video",
+    "source": "Bloomberg",
+    "published": "2026-08-18T12:55:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Election Backlash Is Shaping Wall Street's Stock Market Views",
+    "summary": "Growing political backlash against AI and the data centers powering it has become significant enough that Wall Street strategists are now factoring election risk into their stock market recommendations. The trend highlights how AI politics is beginning to influence investment positioning.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-election-backlash-is-shaping-wall-street-s-stock-market-views",
+    "source": "Bloomberg",
+    "published": "2026-08-18T11:58:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Integral AI's Demise Signals Hurdles Ahead for Robotics",
+    "summary": "The shutdown of robotics startup Integral AI illustrates how costly it remains to develop robots capable of simple, everyday tasks. The piece frames it as a cautionary signal for the broader physical-AI and robotics investment wave.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics",
+    "source": "Bloomberg",
+    "published": "2026-08-18T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards",
+    "summary": "OpenAI is rolling out a separate, more restricted version of ChatGPT for teenage users with additional safeguards, following high-profile lawsuits over harm to young people. The move signals growing regulatory and legal pressure on AI chatbot makers to address safety for minors.",
+    "link": "https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-18T11:00:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "América Latina puede ganar con el boom de la IA sin tener una Nvidia: Natixis explica cómo",
+    "summary": "Natixis Investment Managers sostiene que América Latina puede capturar valor del boom de la inteligencia artificial sin tener una empresa como Nvidia, apostando por recursos naturales, energía y adopción tecnológica. La gestora ve oportunidades en centros de datos, refrigeración, sistemas informáticos y suministro energético para la región.",
+    "link": "https://www.bloomberglinea.com/mercados/america-latina-puede-ganar-con-el-boom-de-la-ia-sin-tener-una-nvidia-natixis-explica-como/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-18T11:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI phobia is America's new consensus",
+    "summary": "The piece argues that backlash against AI and its associated data centers has become a rare bipartisan concern among US voters, one that Trump has been slow to register politically. It frames rising AI phobia as a structural political risk for the industry's continued expansion.",
+    "link": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-18T10:57:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La rebelión de los bonos",
+    "summary": "El rendimiento del bono del Tesoro de EU a 30 años alcanzó 5.29%, su nivel más alto desde 2007, en momentos en que la economía estadounidense muestra señales de debilidad. La columna advierte que este movimiento de tasas largas se transmite directamente a las hipotecas y al financiamiento corporativo, incluso mientras las tasas cortas ceden.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/18/la-rebelion-de-los-bonos/",
+    "source": "El Financiero",
+    "published": "2026-08-18T10:48:17+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Is Starting to Create Jobs in the UK",
+    "summary": "A Lloyds survey found that most British businesses report AI has created new roles rather than eliminating jobs so far. The findings offer early evidence against fears of net job losses from enterprise AI adoption.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
+    "source": "Bloomberg",
+    "published": "2026-08-18T10:30:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La política climática es la nueva política industrial",
+    "summary": "Querétaro busca consolidarse como uno de los grandes centros de datos de América Latina, con proyecciones de más de 1.5 gigawatts de capacidad adicional en los próximos años. El artículo advierte que ese auge tecnológico depende de la disponibilidad de agua y electricidad, convirtiendo la política climática en una cuestión central de política industrial.",
+    "link": "https://www.elfinanciero.com.mx/opinion/nelly-ramirez-moncada/2026/08/18/la-politica-climatica-es-la-nueva-politica-industrial/",
+    "source": "El Financiero",
+    "published": "2026-08-18T10:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El banco de Jensen",
+    "summary": "Jensen Huang impulsa que las GPU de los centros de datos sean tratadas como activos financiables e intercambiables, y ya cerró acuerdos con BlackRock y Goldman Sachs para financiar la compra de chips de Nvidia. La medida integra más profundamente el boom de la IA al sistema financiero, elevando la exposición de los bancos a productos ligados a la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/08/18/el-banco-de-jensen/",
+    "source": "El Financiero",
+    "published": "2026-08-18T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De privatizar más Ecopetrol hasta hablar de stablecoins, las propuestas de BVC a De la Espriella",
+    "summary": "La Bolsa de Valores de Colombia propuso al nuevo gobierno ampliar la participación privada en Ecopetrol hasta 20%, crear incentivos tributarios para el ahorro de largo plazo y abrir la discusión sobre el uso de stablecoins en el mercado de valores. Las propuestas buscan atraer más inversión extranjera y diversificar las fuentes de financiamiento del país.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/de-privatizar-mas-ecopetrol-hasta-hablar-de-stablecoins-las-propuestas-de-bvc-a-de-la-espriella/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-18T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Rising Yields Threaten to Puncture Asia’s AI-Driven Stock Rally",
     "summary": "Rising Treasury yields are becoming a major threat to Asia's AI-fueled stock rally, exposing how dependent tech valuations have become on cheap borrowing costs. The link between bond markets and AI stock momentum highlights a growing vulnerability for the sector.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/rising-yields-threaten-to-puncture-asia-s-ai-driven-stock-rally",
@@ -11,6 +143,28 @@
     "light": true
   },
   {
+    "title": "Braskem Idesa solicita acogerse al Capítulo 11 de la Ley de Quiebras de EU para reducir su deuda",
+    "summary": "La petroquímica mexicana Braskem Idesa, empresa conjunta de Braskem y Grupo Idesa, se acogió al Capítulo 11 de la ley de quiebras de EU tras alcanzar acuerdos con acreedores para reducir su deuda en más de 920 millones de dólares. La compañía espera salir del proceso de insolvencia en 60 a 90 días manteniendo sus operaciones con normalidad.",
+    "link": "https://www.eleconomista.com.mx/empresas/braskem-idesa-solicita-acogerse-capitulo-11-ley-quiebras-eu-reducir-deuda-20260818-828824.html",
+    "source": "El Economista",
+    "published": "2026-08-18T06:34:31-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Una editorial musical demanda a Anthropic y Suno por uso indebido de canciones para entrenar la IA",
+    "summary": "La editorial Round Hill Music demandó a Anthropic y Suno por presuntamente usar cientos de canciones sin autorización para entrenar sus sistemas de IA, incluyendo el chatbot Claude. La editorial busca una indemnización que podría acercarse o superar los 1,000 millones de dólares y podría ampliar la demanda a miles de composiciones adicionales.",
+    "link": "https://www.eleconomista.com.mx/arteseideas/editorial-musical-demanda-anthropic-suno-indebido-canciones-entrenar-ia-20260818-828821.html",
+    "source": "El Economista",
+    "published": "2026-08-18T06:20:37-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Braskem’s Mexico Unit Files for Chapter 11 Bankruptcy in US",
     "summary": "Braskem Idesa, the Mexican petrochemical joint venture between Brazil's Braskem and Carlos Slim's conglomerate, filed for Chapter 11 bankruptcy protection in the US amid mounting financial strain and a worsening liquidity crunch.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
@@ -20,6 +174,17 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Sí habrá reforma a aseguradoras",
+    "summary": "Una reforma al sector asegurador mexicano avanza en el Congreso, impulsada por la diputada Marybel Villegas Canché junto con la Comisión de Hacienda y directivos del sector. Entre los cambios destaca un nuevo seguro para mayores de 60 años que respetaría su historial médico, con ajustes también en IVA y costos hospitalarios pendientes de definir.",
+    "link": "https://www.eleconomista.com.mx/opinion/habra-reforma-aseguradoras-20260818-828815.html",
+    "source": "El Economista",
+    "published": "2026-08-18T06:01:16-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Why China's DeepSeek, Qwen and Moonshot Are a Worry for US AI Rivals",
@@ -240,6 +405,28 @@
     "relevance_score": 95,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
+    "summary": "La Cámara de Comercio Americana (AmSoc) advierte que la inversión estadounidense en México requiere reglas fiscales más claras para las empresas, en medio de tensiones comerciales bilaterales. El planteamiento busca dar certidumbre a inversionistas ante la incertidumbre regulatoria.",
+    "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
+    "source": "Expansión",
+    "published": "2026-08-17T19:19:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oratory Chapel / S-AR",
+    "summary": "Mexican firm S-AR designed the Oratory Chapel using a minimalist structure of thin reinforced-concrete walls of variable height supporting a thin slab, forming a tunnel-like sacred space. The project reflects the studio's characteristic material restraint and structural clarity.",
+    "link": "https://www.archdaily.com/1183456/oratory-chapel-s-ar",
+    "source": "ArchDaily",
+    "published": "2026-08-17T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
   },
   {
     "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
@@ -5311,192 +5498,5 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "CN House / IDIN Architects",
-    "summary": "CN House, designed by IDIN Architects, is a retirement-focused residence set on a long, narrow site in Khao Yai, Thailand, stretching from the public road toward the foothills. Surrounded by natural landscapes and mountain views, it's conceived for long-term, close-to-nature living.",
-    "link": "https://www.archdaily.com/1182241/cn-house-idin-architects",
-    "source": "ArchDaily",
-    "published": "2026-08-07T03:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Meta told to pay nearly $1bn penalty over social media harm to children",
-    "summary": "A New Mexico judge ordered Meta to pay an additional penalty of nearly $1 billion in a lawsuit brought by the state's attorney-general over harm to children from its social media platforms, originally filed in 2023. The ruling adds to mounting regulatory and legal pressure on tech platforms over child-safety practices.",
-    "link": "https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-07T02:57:08+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
-    "summary": "Jane Street is part of a $2 billion investor group, alongside Coatue and Nvidia, backing Australian AI data-center company Firmus Technologies, the trading firm's latest bet on the country's fast-growing artificial intelligence sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-    "source": "Bloomberg",
-    "published": "2026-08-07T01:48:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México ante el nuevo orden comercial global",
-    "summary": "El artículo analiza cómo la administración Trump ha erosionado el consenso de libre comercio de las últimas décadas y consolidado una narrativa de política industrial agresiva frente a China. Plantea implicaciones para México en un contexto de rivalidad comercial creciente entre Estados Unidos y China.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-nuevo-orden-comercial-global-20260807-827140.html",
-    "source": "El Economista",
-    "published": "2026-08-07T00:56:48-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tencent AI Spending Key After Magnificent 7 Rout",
-    "summary": "Tencent's AI spending plans will face heightened investor scrutiny as markets cool on lavish artificial intelligence outlays following a broader \"Magnificent 7\" tech stock rout. The story reflects growing investor sensitivity to AI capex returns among major tech companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout",
-    "source": "Bloomberg",
-    "published": "2026-08-07T00:55:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Buscan dar facultad al Congreso para regular la IA",
-    "summary": "Una diputada de Morena presentó una iniciativa para reformar el artículo 73 constitucional y facultar expresamente al Congreso mexicano a legislar sobre inteligencia artificial. La propuesta busca llenar un vacío normativo señalado por la Suprema Corte, mientras estados como Jalisco, Sinaloa y Querétaro ya legislan por su cuenta en la materia.",
-    "link": "https://www.eleconomista.com.mx/politica/buscan-dar-facultad-congreso-regular-ia-20260807-827128.html",
-    "source": "El Economista",
-    "published": "2026-08-07T00:13:18-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
-    "summary": "El funcionario estadounidense Greer recibió respaldo del Congreso de Estados Unidos para prolongar la revisión del T-MEC, según reportó Expansión.",
-    "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
-    "source": "Expansión",
-    "published": "2026-08-07T00:08:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
-    "summary": "Un reporte de Expansión encuentra que los grandes empresarios mexicanos se formaron mayoritariamente en universidades nacionales en lugar de escuelas como Harvard o Stanford, un dato relevante para el debate sobre talento y liderazgo empresarial en México.",
-    "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
-    "source": "Expansión",
-    "published": "2026-08-06T23:34:33+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
-    "summary": "Atlassian shares surged in after-hours trading after quarterly revenue climbed, easing investor concerns that AI applications would erode demand for its software-collaboration products.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
-    "source": "Bloomberg",
-    "published": "2026-08-06T23:12:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-    "summary": "La Secretaría de Hacienda ajustó medio billón de pesos en el gasto público, con Pemex, trenes y programas de Bienestar concentrando 65% del recorte, según Expansión, una señal relevante sobre la disciplina fiscal y el margen presupuestal del gobierno mexicano.",
-    "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
-    "source": "Expansión",
-    "published": "2026-08-06T22:26:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside",
-    "summary": "Google is consolidating AI control under co-founder Sergey Brin as DeepMind chief Demis Hassabis steps aside, a shift away from the London lab's research-driven culture toward faster commercial product development. The reshuffle reflects mounting urgency inside Google to keep pace with OpenAI and Anthropic.",
-    "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T21:40:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CAIS CEO Talks New Funding Round, AI’s Fintech Impact",
-    "summary": "Alternative-investment platform CAIS closed a $170 million Series D round led by Vista, valuing the company at over $2 billion, more than double its prior valuation. CEO Matt Brown said the capital will fund M&A amid fintech consolidation, AI capability upgrades for advisers, and a liquidity event for long-term shareholders.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video",
-    "source": "Bloomberg",
-    "published": "2026-08-06T21:26:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-    "summary": "Expansión reporta un cambio en el proceso de transferencias bancarias hacia Nu en México que podría bloquear ciertos depósitos realizados desde otros bancos, un dato relevante para clientes y para la operación de la fintech en el mercado mexicano.",
-    "link": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
-    "source": "Expansión",
-    "published": "2026-08-06T20:50:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Jane Street in talks to shift its $11bn in debt to investors including Pimco",
-    "summary": "Trading firm Jane Street is negotiating a private-credit deal to shift roughly $11 billion of its debt to outside investors, including Pimco, freeing up capacity for further AI-related investment. The talks illustrate how trading firms are increasingly turning to private credit markets to fund AI-driven expansion.",
-    "link": "https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-06T20:10:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Advanced Micro Devices to Buy Startup Taalas for New AI Chips",
-    "summary": "AMD is acquiring Canadian AI chip startup Taalas, adding another chip architecture to its lineup as it competes for the fast-growing data-center AI hardware market. The deal reflects continued consolidation among specialized AI chip designers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips",
-    "source": "Bloomberg",
-    "published": "2026-08-06T20:07:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico deja ‘con tres candados’ la tasa de interés: Queda sin cambios en 6.50%",
-    "summary": "Banxico mantuvo la tasa de referencia en 6.50% tras la reunión de su Junta de Gobierno, decisión unánime que coincidió con el consenso de mercado. La Junta señaló que la postura monetaria actual es adecuada frente a los retos macroeconómicos y que la inflación se desaceleró a 3.10% en la primera quincena de julio, cerca del objetivo de 3%. La pausa prolongada mantiene el costo del crédito estable para el mercado hipotecario mexicano.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/06/tasa-de-interes-del-banxico-en-que-nivel-quedo-hoy-6-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-06T19:05:35+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Esh Hotel and Spa / FAMM Arquitectura + Sulkin Askenazi",
-    "summary": "ArchDaily showcases ESH Hotel & Spa in Nosara, Costa Rica, designed by Mexican studios FAMM Arquitectura and Sulkin Askenazi, a 29-key hospitality project that builds an internal landscape from preserved trees, a natural creek and planted courtyards rather than relying on distant views.",
-    "link": "https://www.archdaily.com/1182302/esh-hotel-and-spa-famm-arquitectura",
-    "source": "ArchDaily",
-    "published": "2026-08-06T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
   }
 ]
