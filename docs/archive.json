@@ -1,5 +1,159 @@
 [
   {
+    "title": "IA y Propiedad Intelectual; una polémica que acaba mal",
+    "summary": "La columna analiza cómo el salto de la IA generativa a la IA agéntica intensifica los conflictos de propiedad intelectual, en un contexto donde apenas se están definiendo las reglas sobre privacidad, seguridad y uso indebido de estas tecnologías. El autor advierte que gobiernos y corporaciones deben tratar la propiedad intelectual como un tema crítico dentro de la regulación de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/mauricio-jalife/2026/08/19/ia-y-propiedad-intelectual-una-polemica-que-acaba-mal/",
+    "source": "El Financiero",
+    "published": "2026-08-19T12:37:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inyección de 150 mdd",
+    "summary": "La fintech MUNDI, especializada en financiamiento de comercio exterior para empresas mexicanas, cerrará una línea de crédito de hasta 150 millones de dólares con el banco estadounidense Column. Con este recurso, su cartera de cuentas por cobrar escalará a 325 millones de dólares, duplicando su capacidad para respaldar a exportadores mexicanos en medio de la revisión del T-MEC.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/08/19/inyeccion-de-150-mdd/",
+    "source": "El Financiero",
+    "published": "2026-08-19T12:21:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
+    "summary": "Eagle Point Credit Management is providing a roughly $1.3 billion private credit loan for a large AI data center in Texas tied to Anthropic. The deal gives the investment firm a key role in one of the latest jumbo financings fueling the AI infrastructure boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/anthropic-tied-data-center-inks-1-3-billion-private-credit-loan",
+    "source": "Bloomberg",
+    "published": "2026-08-19T12:15:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
+    "summary": "Esta columna de opinión sostiene que la preparación del talento —y no la tecnología por sí sola— es el factor decisivo para que las organizaciones aprovechen el potencial de la IA. Plantea la capacitación de los equipos como el verdadero diferenciador en una adopción exitosa de inteligencia artificial.",
+    "link": "https://expansion.mx/opinion/2026/08/19/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
+    "source": "Expansión",
+    "published": "2026-08-19T12:06:19+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La IA y sus riesgos ya entraron a tu empresa (y nadie te avisó)",
+    "summary": "El artículo advierte que los riesgos asociados a la IA ya están presentes en muchas empresas sin que sus líderes lo hayan notado ni se hayan preparado para gestionarlos. Llama a las organizaciones a identificar y controlar de forma proactiva estos riesgos aún no atendidos.",
+    "link": "https://expansion.mx/opinion/2026/08/19/ia-riesgos-empresa-y-nadie-te-aviso",
+    "source": "Expansión",
+    "published": "2026-08-19T12:06:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fei-Fei Li Warns US Tech Backlash Poses Risks for Global AI Progress",
+    "summary": "AI pioneer Fei-Fei Li says technologists need to do a better job communicating AI's benefits, warning that growing public opposition to AI in the US could pose risks for global AI progress.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash",
+    "source": "Bloomberg",
+    "published": "2026-08-19T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Cloud Firm Nebius Offers $4.5 Billion of Convertible Bonds",
+    "summary": "Nebius Group is tapping the convertible bond market to raise $4.5 billion as it builds out data centers to meet surging demand from artificial intelligence workloads.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds",
+    "source": "Bloomberg",
+    "published": "2026-08-19T11:59:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
+    "summary": "El banco mexicano BanBajío busca duplicar su negocio de banca empresarial en la Ciudad de México hacia 2030, como parte de una estrategia para fortalecer su presencia en la capital del país.",
+    "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
+    "source": "Expansión",
+    "published": "2026-08-19T11:55:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Tries to Spur the AI Boom Into the Future",
+    "summary": "Nvidia is working to extend demand for AI computing hardware into a future when chip supply is expected to become more plentiful, as the company seeks to sustain the current AI infrastructure boom.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/nvidia-tries-to-spur-the-ai-boom-into-the-future",
+    "source": "Bloomberg",
+    "published": "2026-08-19T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech Tries Charm Offensive to Save Trillion-Dollar AI Buildout",
+    "summary": "Major tech companies are ramping up public-relations efforts to push through their AI data center projects amid growing local and political opposition to the trillion-dollar AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/features/2026-08-19/tech-tries-charm-offensive-to-save-trillion-dollar-ai-buildout",
+    "source": "Bloomberg",
+    "published": "2026-08-19T10:00:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El nuevo T-MEC: una estrategia de sustitución regional 2026-2035",
+    "summary": "La revisión del T-MEC abre la puerta a una estrategia de sustitución regional de importaciones para 2026-2035, buscando que México, Estados Unidos y Canadá produzcan dentro de la región lo que hoy importan de Asia. El autor plantea que esto podría ser el cambio más relevante en la integración económica de América del Norte desde el TLCAN de 1994.",
+    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/08/19/el-nuevo-t-mec-una-estrategia-de-sustitucion-regional-2026-2035/",
+    "source": "El Financiero",
+    "published": "2026-08-19T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Empresa familiar: el reto de construir un liderazgo propio",
+    "summary": "Asumir el liderazgo de una empresa familiar es un reto, ya que el legado del fundador y las expectativas de familiares y accionistas pueden presionar al sucesor a imitar su estilo en lugar de construir uno propio. Especialistas de IPADE señalan que la falta de un plan de sucesión claro dificulta la continuidad del negocio a través de las generaciones.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/empresa-familiar-reto-construir-liderazgo-propio-20260819-828947.html",
+    "source": "El Economista",
+    "published": "2026-08-19T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China insta a respetar la soberanía digital en la carrera por la inteligencia artificial",
+    "summary": "China pidió respetar la soberanía digital de cada país en medio de reportes de que Estados Unidos presionaría a naciones para elegir bando en la carrera de IA frente a Pekín. Un vocero chino afirmó que cada país tiene derecho a elegir sus socios en IA según sus propias condiciones y necesidades de desarrollo.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/china-insta-respetar-soberania-digital-carrera-inteligencia-artificial-20260819-829024.html",
+    "source": "El Economista",
+    "published": "2026-08-19T06:31:53-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ahorros en Afores sufrieron minusvalías por 92,763 millones de pesos en julio por caída de mercados globales",
+    "summary": "Los ahorros para el retiro en las Afores registraron minusvalías por 92,763 millones de pesos en julio de 2026, debido a la volatilidad en los mercados globales generada por la reactivación del conflicto entre Estados Unidos e Irán. Pese a ello, en los primeros siete meses del año las Afores acumulan plusvalías por 391,307 millones de pesos, según la Consar.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/ahorros-afores-sufrieron-minusvalias-92-763-millones-pesos-julio-caida-mercados-globales-20260819-829017.html",
+    "source": "El Economista",
+    "published": "2026-08-19T06:03:07-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Tiger Global-Backed Broking Firm Upstox Said to Plan India IPO",
     "summary": "Upstox, one of India's largest online trading platforms and backed by Tiger Global, has reportedly begun talks with investment banks about a potential initial public offering. The move would make it one of the latest fintech brokerages exploring a listing in India's capital markets.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/tiger-global-backed-broking-firm-upstox-said-to-plan-india-ipo",
@@ -8,6 +162,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Empuja Pemex a la bancarrota de Etileno XXI",
+    "summary": "La incapacidad de Pemex para abastecer de gas natural a Braskem Idesa llevó a la petroquímica Etileno XXI a la bancarrota. El caso pone en evidencia los riesgos de suministro que enfrentan las empresas privadas dependientes de insumos de la petrolera estatal.",
+    "link": "https://www.reforma.com/empuja-pemex-a-la-bancarrota-de-etileno-xxi/ar3260392",
+    "source": "Reforma",
+    "published": "2026-08-19T05:01:06-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
     "light": true
   },
   {
@@ -44,6 +209,17 @@
     "light": true
   },
   {
+    "title": "Empresa energética respaldada por Brookfield y Celsia invertirá US$350 millones en México",
+    "summary": "Atera Energy, respaldada por la gestora canadiense Brookfield y la colombiana Celsia, anunció el inicio de operaciones en México con una inversión mínima de US$350 millones hacia 2030, enfocada en autogeneración energética para zonas manufactureras como Nuevo León, Coahuila, Guanajuato y Querétaro. La compañía busca capitalizar la relocalización de empresas desde Asia y la saturación del sistema eléctrico mexicano.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/empresa-energetica-respaldada-por-brookfield-y-celsia-invertira-us350-millones-en-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-19T01:45:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
     "summary": "Temporal Technologies is reportedly in talks for a new funding round that would value the AI startup at $12 billion or more before the new money is added, according to people familiar with the matter. The talks reflect continued investor appetite for AI infrastructure and workflow-automation platforms.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-startup-temporal-in-talks-for-a-valuation-of-at-least-12-billion",
@@ -66,6 +242,17 @@
     "light": false
   },
   {
+    "title": "¿Es posible aumentar pensión para beneficiarios de la Ley 73 del IMSS? Esto dice amparo",
+    "summary": "Una reciente resolución de amparo aborda si es posible incrementar la pensión de los beneficiarios bajo el régimen de la Ley 73 del IMSS. El artículo examina qué implica este fallo para los jubilados de este esquema.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/18/es-posible-aumentar-pension-beneficiarios-ley-73-imss-amparo",
+    "source": "Expansión",
+    "published": "2026-08-18T23:55:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Braskem Idesa solicita acogerse al Capítulo 11",
     "summary": "Braskem Idesa, la petroquímica mexicana propiedad de la brasileña Braskem y del grupo del magnate Carlos Slim, se acogió al Capítulo 11 de la Ley de Quiebras de Estados Unidos tras alcanzar acuerdos con acreedores y accionistas. El plan busca captar 920 millones de dólares y reducir en más de un tercio su deuda de unos 2,500 millones de dólares, mientras la empresa sigue operando durante la reorganización.",
     "link": "https://www.eleconomista.com.mx/empresas/braskem-idesa-solicita-acogerse-capitulo-20260818-828994.html",
@@ -84,6 +271,17 @@
     "published": "2026-08-18T23:22:37-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
+    "summary": "La familia Baillères construyó una posición dominante en el mercado asegurador mexicano (GNP Seguros) tras adquirir dos aseguradoras, generando hoy ventas millonarias. El artículo repasa cómo consolidaron su liderazgo en el sector de seguros en México.",
+    "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
+    "source": "Expansión",
+    "published": "2026-08-18T22:40:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
     "language": "es",
     "light": false
   },
@@ -503,6 +701,28 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inhabiting the Stable, Creation of an apartment within the agricultural part of a farmhouse in Praz-Pury / Bard Yersin Architectes",
+    "summary": "Bard Yersin Architectes converted the disused agricultural section of a 1930s farmhouse in the Swiss canton of Fribourg into an apartment, preserving the building's traditional single-roof archetype. The project keeps the original dwelling and barn's spatial organization while adapting it for contemporary living.",
+    "link": "https://www.archdaily.com/1183224/inhabiting-the-stable-creation-of-an-apartment-within-the-agricultural-part-of-a-farmhouse-in-praz-pury-bard-yersin-architectes",
+    "source": "ArchDaily",
+    "published": "2026-08-18T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Hideout Leaf Villa / Pablo Luna Studio",
+    "summary": "Hideout Leaf is a villa nestled in the mountains of East Bali beside a river, in the shadow of Mount Agung, designed by Pablo Luna Studio. The project immerses its design-conscious spaces in the surrounding tropical landscape, seeking a close relationship between architecture and nature.",
+    "link": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
+    "source": "ArchDaily",
+    "published": "2026-08-18T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
     "light": false
   },
   {
@@ -5276,226 +5496,6 @@
     "published": "2026-08-08T03:26:57+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "THE SEED Pavilion / REAL Architects + Challenge Design",
-    "summary": "ArchDaily showcases THE SEED, a pavilion by REAL Architects and Challenge Design at Shanghai's West Bund Central, designed as a landscape anchor along a cultural waterfront corridor. A notable large-scale contemporary Asian urban-design project.",
-    "link": "https://www.archdaily.com/1182160/the-seed-pavilion-real-architects-plus-challenge-design",
-    "source": "ArchDaily",
-    "published": "2026-08-08T02:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "El dólar se hunde tras decepcionante reporte de empleo en Estados Unidos",
-    "summary": "El dólar cayó tras un decepcionante reporte de empleo en Estados Unidos que redujo las expectativas de que la Fed suba tasas en el corto plazo. El movimiento cambiario tiene efectos directos sobre el peso y el costo de financiamiento en México.",
-    "link": "https://expansion.mx/mercados/2026/08/07/dolar-cae-decepcionante-reporte-empleo-estados-unidos",
-    "source": "Expansión",
-    "published": "2026-08-07T23:33:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
-    "summary": "Chinese AI startup Moonshot is restructuring to win Beijing's approval for a Hong Kong stock market listing, aiming to raise fresh funding for its next phase of development. It's a notable data point on how Chinese AI firms are navigating regulatory approval to tap public capital markets.",
-    "link": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-07T23:00:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
-    "summary": "El resumen semanal de El Economista destaca que la inflación en México desaceleró a 3.12% anual en julio, su menor nivel desde mayo de 2020, en línea con lo esperado por Banxico. La semana también trajo datos de remesas, confianza empresarial y la atención de analistas al empleo y la manufactura en Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-3-7-inflacion-remesas-politica-monetaria-mexico-20260807-827255.html",
-    "source": "El Economista",
-    "published": "2026-08-07T22:17:46-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Data Center Firm Switch to File Confidentially for IPO",
-    "summary": "Data-center operator Switch has filed confidentially for a US IPO, joining a wave of data-center peers seeking to capitalize on investor demand for AI infrastructure exposure. It's another sign of how the AI buildout is reshaping capital-markets issuance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo",
-    "source": "Bloomberg",
-    "published": "2026-08-07T21:23:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Recortan estímulos fiscales a gasolinas; automovilistas pagarán más de un peso extra por litro",
-    "summary": "El gobierno federal recortó en más de un peso los estímulos fiscales a las gasolinas Magna y Premium, y en menor medida al diésel, por lo que los automovilistas pagarán más impuestos por litro a partir del 8 de agosto. La medida fiscal tiene implicaciones para la inflación y el gasto público en México.",
-    "link": "https://www.eleconomista.com.mx/economia/recortan-estimulos-fiscales-gasolinas-automovilistas-pagaran-peso-extra-litro-20260807-827250.html",
-    "source": "El Economista",
-    "published": "2026-08-07T20:56:15-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Promtel y Viasat impulsará las redes privadas inteligentes para la industria 4.0",
-    "summary": "Promtel y Viasat anunciaron una alianza para impulsar redes privadas inteligentes orientadas a la industria 4.0 en México, apostando por conectividad satelital y privada para procesos industriales. Un ejemplo de cómo avanza la infraestructura de conectividad avanzada en el mercado mexicano.",
-    "link": "https://expansion.mx/empresas/2026/08/07/promtel-y-viasat-redes-privadas-inteligentes-industria-4-0",
-    "source": "Expansión",
-    "published": "2026-08-07T20:38:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
-    "summary": "SpaceX shares rallied for a second straight day, nearing the company's $135 IPO price again after a $327 billion rally, following a dip below that level last month. The volatility highlights investor appetite — and nerves — around mega-cap tech listings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally",
-    "source": "Bloomberg",
-    "published": "2026-08-07T20:29:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-    "summary": "Nu México (antes Nubank) explicó que un cambio en su registro no altera la CLABE de sus usuarios, pero podría generar confusión o rechazos temporales en transferencias entrantes si los bancos emisores no actualizan sus sistemas a tiempo. Un recordatorio operativo relevante para la banca digital y fintech en México.",
-    "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
-    "source": "Expansión",
-    "published": "2026-08-07T20:25:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tu CV puede quedar fuera por un ATS antes de que lo lea un reclutador humano",
-    "summary": "Expansión explica cómo los sistemas de seguimiento de candidatos (ATS) basados en IA filtran currículums antes de que un reclutador humano los revise, y ofrece recomendaciones para optimizar el CV y evitar ser descartado automáticamente. Un ejemplo concreto de cómo la IA está redefiniendo la contratación y el futuro del trabajo.",
-    "link": "https://expansion.mx/carrera/2026/08/07/cv-optimizado-ats-para-conseguir-empleo",
-    "source": "Expansión",
-    "published": "2026-08-07T20:06:58+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US economy unexpectedly sheds 23,000 jobs in July",
-    "summary": "The US economy unexpectedly shed 23,000 jobs in July, a weak print that prompted traders to scale back bets on further Fed rate rises. The data adds to signs of a softening labor market with implications for rates, credit and financing conditions.",
-    "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-07T20:02:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump revives threat to sack Fed governor Lisa Cook",
-    "summary": "Donald Trump revived his threat to remove Federal Reserve governor Lisa Cook, after the Supreme Court ruled in June that she could remain in her post while the case is resolved. The renewed pressure on Fed independence is a governance risk with implications for rate expectations and market stability.",
-    "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-07T19:56:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México gana arbitraje contra fondos estadounidenses por deuda de TV Azteca",
-    "summary": "México ganó un arbitraje internacional contra fondos estadounidenses que reclamaban el pago de deuda de TV Azteca, por lo que el país no tendrá que cubrir esa obligación. El fallo es relevante para disputas de deuda corporativa y el riesgo legal de litigios financieros transfronterizos.",
-    "link": "https://expansion.mx/empresas/2026/08/07/mexico-no-tendra-pagar-deuda-tv-azteca",
-    "source": "Expansión",
-    "published": "2026-08-07T19:14:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso gana 1.05% en la semana por la Fed",
-    "summary": "El peso mexicano ganó 1.05% en la semana tras señales de la Reserva Federal que redujeron las expectativas de un alza de tasas, fortaleciendo la moneda frente al dólar. El movimiento refleja cómo la política monetaria estadounidense sigue marcando el tono para los mercados cambiarios mexicanos.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-gana-1-05-semana-fed-20260807-827243.html",
-    "source": "El Economista",
-    "published": "2026-08-07T19:06:15-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-    "summary": "JPMorgan now expects technology-sector bond issuance to top half a trillion dollars this year, as hyperscalers keep borrowing heavily to fund AI infrastructure buildouts. The bank sees no slowdown despite growing investor fatigue with the AI capex cycle — a signal for credit markets and financing costs tied to the AI boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-    "source": "Bloomberg",
-    "published": "2026-08-07T19:03:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Vigilia Winery / González Olsina & Vega Arquitectos",
-    "summary": "ArchDaily profiles La Vigilia, a winery by González Olsina & Vega Arquitectos that uses volume, light and shadow to mediate between the open landscape and the winemaking process's interior spaces. A notable Latin American example of contemporary winery and hospitality architecture.",
-    "link": "https://www.archdaily.com/1182367/la-vigilia-winery-gonzalez-olsina-and-vega-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-08-07T19:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 70,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Amazon invierte en construcción de enorme planta de gas en EU para centros de datos",
-    "summary": "Amazon confirmó que respalda financieramente una planta privada de gas en Texas, nombrada GW Ranch, que suministrará electricidad a enormes centros de datos sin conectarse a la red eléctrica pública. El proyecto podría convertirse en una de las mayores fuentes individuales de emisiones en EU, ilustrando el costo energético del boom de infraestructura de IA.",
-    "link": "https://www.eleconomista.com.mx/empresas/amazon-invierte-construccion-enorme-planta-gas-eu-centros-datos-20260807-827236.html",
-    "source": "El Economista",
-    "published": "2026-08-07T18:01:35-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Rechazaron tu solicitud para una tarjeta de crédito? Estas podrían ser las razones",
-    "summary": "Muchas solicitudes de tarjeta de crédito en México son rechazadas por no cumplir los requisitos de ingresos, tener un historial crediticio deficiente o nulo, o registrar malas referencias en el Buró de Crédito. Coru.com recomienda revisar los requisitos específicos de cada tarjeta y mantener un historial crediticio sano antes de volver a solicitar.",
-    "link": "https://www.elfinanciero.com.mx/economia/rechazaron-tu-solicitud-para-una-tarjeta-de-credito-estas-podrian-ser-las-razones/",
-    "source": "El Financiero",
-    "published": "2026-08-07T17:19:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Clara Brugada entrega más de 3 mil 500 acciones de vivienda",
-    "summary": "La jefa de gobierno de la Ciudad de México, Clara Brugada, entregó más de 3,500 escrituras de vivienda con una inversión de 525 millones de pesos, beneficiando a 11 mil habitantes en las 16 alcaldías. El programa busca formalizar la propiedad multigeneracional y prevenir fraudes inmobiliarios mediante escrituración notarial.",
-    "link": "https://www.eleconomista.com.mx/politica/clara-brugada-entrega-3-mil-500-acciones-vivienda-20260807-827231.html",
-    "source": "El Economista",
-    "published": "2026-08-07T17:16:03-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Pauses Some Work on New Astra Model Over Cyber Concerns",
-    "summary": "OpenAI has paused some internal work on its upcoming Astra model to add stricter safeguards after testing found the system unusually capable at cybersecurity tasks. The company is prioritizing controls before continuing development, reflecting growing industry concern over dual-use AI capabilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
-    "source": "Bloomberg",
-    "published": "2026-08-07T17:15:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
     "language": "en",
     "light": true
   }
