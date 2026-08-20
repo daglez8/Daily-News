@@ -1,5 +1,148 @@
 [
   {
+    "title": "PGA of America's New CEO Is Bullish on Golf in Texas",
+    "summary": "PGA of America CEO Terry Clark discusses the growth of golf in Texas ahead of the 2027 PGA Championship near Dallas, and planning for the next Ryder Cup. He frames Texas as a key growth market for the sport in the US.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/pga-of-america-s-new-ceo-is-bullish-on-golf-in-texas",
+    "source": "Bloomberg",
+    "published": "2026-08-20T12:02:23+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hudson River Signs Multibillion-Dollar CoreWeave (CRWV) Deal for AI Cloud",
+    "summary": "Hudson River Trading signed a multiyear, multibillion-dollar deal with CoreWeave to build new trading research and models using CoreWeave's AI computing infrastructure. The deal underscores how quantitative trading firms are becoming major buyers of dedicated AI compute capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/hudson-river-signs-multibillion-dollar-coreweave-crwv-deal-for-ai-cloud",
+    "source": "Bloomberg",
+    "published": "2026-08-20T11:50:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inflación de servicios se convierte en el talón de Aquiles de Banxico",
+    "summary": "La inflación general de México cayó a 3.12% anual en julio, su nivel más bajo desde mayo de 2020, pero la inflación de servicios —vivienda, educación, telefonía, salud y turismo— sigue siendo el principal obstáculo para que Banxico alcance de forma sostenible su meta de 3%. El artículo advierte que sin ceder esa presión, la convergencia del banco central hacia su objetivo seguirá en riesgo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/la-inflacion-de-servicios-se-convierte-en-el-talon-de-aquiles-de-banxico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-20T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta Has Quietly Become One of Microsoft's Largest AI Customers",
+    "summary": "Meta Platforms has quietly become one of Microsoft's biggest AI customers, buying significant cloud AI capacity even as it builds out its own data centers. The relationship highlights how AI infrastructure demand remains concentrated among a handful of big tech buyers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/meta-has-quietly-become-one-of-microsoft-s-largest-ai-customers",
+    "source": "Bloomberg",
+    "published": "2026-08-20T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+    "summary": "Chinese AI labs Moonshot and Z.ai are closing the performance gap with OpenAI and Anthropic, with their models reportedly able to build passable websites at roughly a 75% discount to Claude. The narrowing quality-to-price gap raises questions about the pricing power and moat of leading US model providers.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+    "source": "Bloomberg",
+    "published": "2026-08-20T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Garmin Cirqa Smart Band Review: How $200 Fitness Tracker Compares to Whoop",
+    "summary": "Garmin's new $200 Cirqa Smart Band closely mimics the look of a Whoop tracker but falls short on the depth of health insights Whoop offers. The review positions Cirqa as a lower-cost alternative rather than a genuine competitor on data quality.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/garmin-cirqa-smart-band-review-how-200-fitness-tracker-compares-to-whoop",
+    "source": "Bloomberg",
+    "published": "2026-08-20T10:15:03+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jack Ma-Backed Ant's Profit Flattened After AI, Expansion Costs",
+    "summary": "Jack Ma-backed Ant Group's quarterly profit barely grew as the fintech and payments giant ramped up investment in AI for healthcare, large language models, and payment services. The results show how even cash-rich financial-technology players are absorbing near-term margin pressure to fund AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs",
+    "source": "Bloomberg",
+    "published": "2026-08-20T10:11:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China acelera en la carrera de la IA y sus modelos más baratos desafían el dominio de EE.UU.",
+    "summary": "China ya no necesita el modelo de IA más avanzado del mundo para desafiar a EE.UU.: modelos de Moonshot, DeepSeek, Alibaba y Z.ai se acercan en desempeño a los líderes estadounidenses mientras compiten agresivamente en precio. Analistas advierten que si modelos más baratos cubren buena parte de las mismas tareas, el retorno sobre los cientos de miles de millones invertidos en infraestructura de IA en EE.UU. podría enfrentar mayor escrutinio.",
+    "link": "https://www.bloomberglinea.com/mercados/china-acelera-en-la-carrera-de-la-ia-y-sus-modelos-mas-baratos-desafian-el-dominio-de-eeuu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-20T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China Humanoid Robots Shift to Industrial Utility",
+    "summary": "At Beijing's World Robot Conference, Unitree's founder said humanoid robots could achieve commercial viability within two years as China's industry pivots from viral demos to real factory and household use cases. The shift signals humanoid robotics moving from novelty toward industrial deployment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/china-humanoid-robots-shift-to-industrial-utility-video",
+    "source": "Bloomberg",
+    "published": "2026-08-20T09:40:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alibaba's Profit Dives 75% After Amping Up AI Spending",
+    "summary": "Alibaba's profit plunged more than 75% as the e-commerce giant sharply increased AI spending while also contending with a broader slowdown in Chinese consumption. The results illustrate the near-term earnings cost Chinese tech majors are absorbing to compete in AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
+    "source": "Bloomberg",
+    "published": "2026-08-20T09:39:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso 'rompe el piso' de las 17 unidades por dólar, a mínimos desde 2024",
+    "summary": "El peso mexicano rompió el piso de 17 unidades por dólar por primera vez desde mayo de 2024, cotizando en 16.9466, tras el anuncio del Tesoro de EU de duplicar la recompra de bonos de largo plazo, lo que debilitó al dólar y bajó el rendimiento del bono a 30 años a 5.19%. La medida busca contener el costo de la deuda pública estadounidense, que superó por primera vez los 40 billones de dólares.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/20/peso-rompe-el-piso-de-las-17-unidades-por-dolar-a-minimos-desde-2024/",
+    "source": "El Financiero",
+    "published": "2026-08-20T08:33:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nick Bostrom on What Happens If AI Solves All Problems",
+    "summary": "Philosopher Nick Bostrom discusses what human meaning and purpose might look like in a world where AI and robots can outperform humans at everything, building on his earlier work mapping AI existential risk. He explores both the dangers of unchecked superintelligence and the harder question of finding fulfillment in a fully AI-solved world.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-problems-video",
+    "source": "Bloomberg",
+    "published": "2026-08-20T08:14:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
+    "summary": "Recruitment firm Hays is shifting its focus toward hiring for roles that are harder to automate, as staffing companies globally adjust to AI's growing threat to traditional job categories. The move reflects a broader recalibration of talent strategy around AI-resistant skills.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+    "source": "Bloomberg",
+    "published": "2026-08-20T07:47:05+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Shein Seeks to Rope In Boyu, UBS as IPO Cornerstone Investors",
     "summary": "Asian private equity firm Boyu Capital and an asset-management arm of UBS are among the firms in talks to become cornerstone investors in Shein's Hong Kong IPO, according to people familiar with the matter. The talks highlight continued interest from major financial institutions in backing large consumer-sector listings.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/shein-seeks-to-rope-in-boyu-ubs-as-ipo-cornerstone-investors",
@@ -9,6 +152,28 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El ego y la sucesión: el reto de dejar el mando en la empresa familiar",
+    "summary": "Un estudio del IPADE y el Tec de Monterrey identifica el ego de los fundadores como un obstáculo poco reconocido en la sucesión de empresas familiares: 50% de los fundadores no planea retirarse, 30% no define cuándo lo hará y solo 20% realmente cede el mando. Especialistas señalan que las emociones no gestionadas durante el proceso retrasan la llegada de nuevas generaciones al liderazgo.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/ego-sucesion-reto-dejar-mando-empresa-familiar-20260820-828939.html",
+    "source": "El Economista",
+    "published": "2026-08-20T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Regular a ciegas: El riesgo DMA",
+    "summary": "El comercio electrónico mexicano alcanzó cerca de 790 mil millones de pesos en 2024, con seis años consecutivos de expansión de doble dígito, lo que ha reabierto el debate sobre replicar la Digital Markets Act europea para regular a las grandes plataformas digitales. El autor advierte que trasladar ese modelo a México sin analizar antes sus fundamentos y controversias podría producir una regulación mal calibrada.",
+    "link": "https://www.eleconomista.com.mx/opinion/regular-ciegas-riesgo-dma-20260820-829246.html",
+    "source": "El Economista",
+    "published": "2026-08-20T06:03:57-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Startup Callosum Raises $100 Million to Make AI Tasks Cheaper",
@@ -86,6 +251,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Cómo la crisis de una minorista brasileña impacta su alianza con MercadoLibre, según Citi",
+    "summary": "La minorista brasileña Casas Bahia solicitó una reorganización judicial para renegociar una deuda de US$3,345 millones, lo que llevó a Citi a calificar el impacto sobre su aliada MercadoLibre como marginalmente negativo, aunque con algunos aspectos positivos a mediano plazo. Las acciones de MercadoLibre cayeron más de 3% en Nasdaq, mientras que su competidora Magazine Luiza subió más de 8% en la B3.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/como-la-crisis-de-una-minorista-brasilena-impacta-su-alianza-con-mercadolibre-segun-citi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-20T00:30:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Phishing: fraude digital in crescendo",
@@ -5322,181 +5498,5 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Start-up bank backed by Palmer Luckey set to raise $1.5bn",
-    "summary": "Erebor, a start-up bank backed by Palmer Luckey, is set to raise $1.5bn in funding that would value it at $8bn, underscoring the continued growth of Silicon Valley-backed lenders.",
-    "link": "https://www.ft.com/content/eae5a1cc-5d15-48c9-9d24-2b7094fda5ba?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-10T11:00:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Integración de bolsas de Santiago, Colombia y Lima da un nuevo paso para estar lista en 2027",
-    "summary": "La integración de las bolsas de Santiago, Colombia y Lima avanzó con la entrada en operación de una plataforma de negociación común en Chile, aunque unificar los sistemas de compensación y liquidación seguirá siendo un proceso gradual con horizonte 2027. El movimiento busca dar a los tres mercados una infraestructura tecnológica compartida para atraer más liquidez e inversión regional.",
-    "link": "https://www.bloomberglinea.com/mercados/integracion-de-bolsas-de-santiago-colombia-y-lima-da-un-nuevo-paso-para-estar-lista-en-2027/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-10T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La dictadura de la IA",
-    "summary": "Columna de opinión que reflexiona sobre cómo la inteligencia artificial ya rige funciones de gobierno y amenaza con extenderse a grandes parcelas de la vida cotidiana, comparando su llegada con hitos como el fuego o la rueda. El autor advierte que es uno de los cambios más profundos que ha enfrentado la humanidad, con implicaciones para la gobernanza y el control social de la tecnología.",
-    "link": "https://www.elfinanciero.com.mx/opinion/antonio-navalon/2026/08/10/la-dictadura-de-la-ia/",
-    "source": "El Financiero",
-    "published": "2026-08-10T10:56:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nu se convierte en banco y aclara qué pasará con el rendimiento de sus cajitas de ahorro e inversión",
-    "summary": "Nu comenzó a operar formalmente como banco en México el pasado 6 de agosto, y la empresa aclaró que el rendimiento de sus \"cajitas\" de ahorro e inversión no cambiará por el momento pese a la conversión. La noticia se suma a los cambios fiscales y regulatorios que enfrentan sus clientes tras el cambio de figura.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/nu-convierte-banco-aclara-pasara-rendimiento-cajitas-ahorro-e-inversion-20260810-827370.html",
-    "source": "El Economista",
-    "published": "2026-08-10T10:55:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Deluge of AI Debt Has Big Names Seeking New Strategies to Avoid Selloffs",
-    "summary": "Major financial firms including BlackRock are devising new strategies to manage the risks of surging AI-related corporate debt, after BlackRock worked to protect its position in Meta's data-center financing from fast-trading investors — a sign of growing sophistication around AI debt exposure.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/the-deluge-of-ai-debt-has-big-names-seeking-new-strategies-to-avoid-selloffs",
-    "source": "Bloomberg",
-    "published": "2026-08-10T10:50:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lavado de dinero: el centro de atención en México y EU",
-    "summary": "Columna sobre cómo el lavado de dinero se ha vuelto un foco de atención regulatoria tanto en México como en Estados Unidos, citando la reciente sanción de FinCEN a UBS como ejemplo de cómo la aplicación de distintas leyes a casos similares puede definir el destino de instituciones financieras. Analiza el papel del FinCEN, bajo liderazgo interino, en la vigilancia del sistema financiero.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/08/10/lavado-de-dinero-el-centro-de-atencion-en-mexico-y-eu/",
-    "source": "El Financiero",
-    "published": "2026-08-10T10:29:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models",
-    "summary": "Meta founder Mark Zuckerberg attacked \"closed\" AI rivals OpenAI and Anthropic as Meta doubles down on open-weight models, framing the contrast as central to his pitch for making powerful AI more freely available.",
-    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-10T10:00:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Releases Muse Glimmer AI Model People Can Run on Their Laptop",
-    "summary": "Meta introduced Muse Glimmer, a new downloadable AI model that can run on a personal computer, adding fuel to the ongoing debate over whether increasingly powerful AI technology should be freely available or kept under tighter control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/meta-releases-muse-glimmer-ai-model-people-can-run-on-their-laptop",
-    "source": "Bloomberg",
-    "published": "2026-08-10T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
-    "summary": "JPMorgan strategists raised their S&P 500 target for the second time in two months, citing strong corporate earnings and the payoff from massive AI capital spending as key drivers of the rally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
-    "source": "Bloomberg",
-    "published": "2026-08-10T09:28:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Jóvenes usan la IA como psicólogo'",
-    "summary": "Según la presidenta Sheinbaum, una encuesta de la SEP encontró que los jóvenes en México recurren a la inteligencia artificial como una especie de psicólogo, consultándola cuando se sienten deprimidos.",
-    "link": "https://www.reforma.com/jovenes-usan-la-ia-como-psicologo/ar3255284",
-    "source": "Reforma",
-    "published": "2026-08-10T08:46:03-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "MercadoLibre advierte “menor demanda del consumidor” en Argentina pero sigue creciendo al 38%",
-    "summary": "MercadoLibre reportó que el crecimiento de su facturación por comercio electrónico en Argentina se desaceleró a 38% interanual por una \"demanda más débil\", frente al 75% registrado un año antes y al 41% del primer trimestre de 2026. La tendencia de desaceleración también se observa en otros mercados donde opera la compañía, aunque el crecimiento se mantiene sólido en términos absolutos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mercadolibre-advierte-menor-demanda-del-consumidor-en-argentina-pero-sigue-creciendo-al-38/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-10T07:16:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Indicadores del 10 al 14 de agosto: Inflación en EU, actividad industrial y consumo privado",
-    "summary": "Resumen semanal de los indicadores económicos clave: el mercado seguirá de cerca la inflación de Estados Unidos, que podría alterar las expectativas sobre la trayectoria de tasas de la Fed, mientras que en México destacarán los datos de actividad industrial, consumo y comercio exterior, incluida la balanza comercial revisada de junio que publicará el Inegi.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-10-14-agosto-inflacion-eu-actividad-industrial-consumo-privado-20260810-827317.html",
-    "source": "El Economista",
-    "published": "2026-08-10T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Safety Fears Grow After Multiple Breaches",
-    "summary": "AI-enabled cyberattacks are drawing fresh scrutiny after OpenAI's agents were used to infiltrate Hugging Face, alongside similar breaches disclosed by Anthropic and Meta. The incidents are fueling calls in Washington and Silicon Valley for more rigorous safety reviews of AI models.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
-    "source": "Bloomberg",
-    "published": "2026-08-10T06:17:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong",
-    "summary": "TSMC reported a 45% rise in monthly sales, a sign that demand for AI hardware remains strong despite broader market volatility, reinforcing the durability of the AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters",
-    "source": "Bloomberg",
-    "published": "2026-08-10T05:34:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China Humanoid Makers Hold 97% of Global Shipments, Report Says",
-    "summary": "China's humanoid robot makers commanded more than 97% of global shipments in the first half of 2026, according to new industry data, affirming the country's early lead over US rivals in the fast-growing field.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/china-humanoid-makers-hold-97-of-global-shipments-report-says",
-    "source": "Bloomberg",
-    "published": "2026-08-10T05:13:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancos centrales de Latinoamérica mantendrán cautela, pese a menor presión en el petróleo y alivio financiero",
-    "summary": "Pese a la mejora en los mercados financieros y la caída del petróleo por los avances hacia reabrir el estrecho de Ormuz, Oxford Economics prevé que los bancos centrales de América Latina mantendrán una postura cautelosa en política monetaria. Brasil recortó su tasa Selic 25 puntos base a 14%, mientras que Banxico mantuvo su tasa de referencia en 6.5% pese a una desaceleración de la inflación mayor a la esperada.",
-    "link": "https://www.bloomberglinea.com/mercados/bancos-centrales-de-latinoamerica-mantendran-cautela-pese-a-menor-presion-en-el-petroleo-y-alivio-financiero/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-10T05:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
   }
 ]
