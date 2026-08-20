@@ -1,5 +1,159 @@
 [
   {
+    "title": "Shein Seeks to Rope In Boyu, UBS as IPO Cornerstone Investors",
+    "summary": "Asian private equity firm Boyu Capital and an asset-management arm of UBS are among the firms in talks to become cornerstone investors in Shein's Hong Kong IPO, according to people familiar with the matter. The talks highlight continued interest from major financial institutions in backing large consumer-sector listings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/shein-seeks-to-rope-in-boyu-ubs-as-ipo-cornerstone-investors",
+    "source": "Bloomberg",
+    "published": "2026-08-20T07:06:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Startup Callosum Raises $100 Million to Make AI Tasks Cheaper",
+    "summary": "Callosum, a startup building software that matches AI tasks to specific models and chips to cut costs, raised $100 million in early financing from backers including the UK's public AI fund. The round reflects continued investor appetite for infrastructure that makes AI deployment cheaper.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
+    "source": "Bloomberg",
+    "published": "2026-08-20T06:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CVC-Led Group to Back Standard Life’s UK Pension Risk Transfers",
+    "summary": "Standard Life agreed to a new partnership with a consortium led by CVC Capital Partners and Prudential Financial to back its UK pension risk-transfer business, the latest tie-up between an insurer and private capital in that fast-growing market. The deal reflects continued private-equity interest in insurance and pension-related financial services.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/cvc-led-group-to-back-standard-life-s-uk-pension-risk-transfers",
+    "source": "Bloomberg",
+    "published": "2026-08-20T06:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The slow sucking sound of AI",
+    "summary": "This Financial Times piece looks for early signs that heavy AI-related capital spending is crowding out other investment in the economy. It examines how much of current growth and capital flows are being diverted toward AI at the expense of other sectors.",
+    "link": "https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-20T04:00:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students",
+    "summary": "Wall Street and top US law firms are facing backlash for recruiting students earlier and earlier in their academic careers, a practice students and executives alike are calling excessive. The trend highlights growing tension around talent competition and career-pipeline pressure in professional services.",
+    "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-20T04:00:19+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘La venganza del superpeso’: ¿Cómo cerrará el tipo de cambio este año y en 2027? Estos son los pronósticos",
+    "summary": "El peso mexicano cerró el miércoles en 16.94 unidades por dólar, uno de sus niveles más apreciados desde 2024. Banco Base mejoró su pronóstico y ahora espera un tipo de cambio de 17.29 pesos al cierre de 2026 y 17.84 en 2027, aunque advierte riesgos que podrían debilitar la moneda.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/19/peso-se-aprecia-sobre-el-dolar-como-cerrara-el-tipo-de-cambio-en-2026-y-2027/",
+    "source": "El Financiero",
+    "published": "2026-08-20T03:17:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Japan Student-Loan, Housing Finance Bonds Sold at Record Coupons",
+    "summary": "Japan Student Services Organization and Japan Housing Finance Agency both priced bonds at record-high coupons, as rising interest rates increasingly show up in the borrowing costs faced by students and homeowners. The pricing illustrates how higher global rates are feeding directly into consumer and housing-finance funding costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-student-loan-bond-priced-at-record-high-coupon",
+    "source": "Bloomberg",
+    "published": "2026-08-20T02:05:51+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "India Bars JPMorgan Unit for Alleged Market Manipulation",
+    "summary": "India's securities regulator banned a Mauritius-based unit of JPMorgan Chase from the country's capital markets, marking the first enforcement action over alleged manipulation of India's new closing stock-price auction. The action signals tightening regulatory scrutiny of global banks' trading practices in emerging markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
+    "source": "Bloomberg",
+    "published": "2026-08-20T01:29:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Phishing: fraude digital in crescendo",
+    "summary": "Esta columna de El Economista alerta sobre el crecimiento del phishing en México, donde las reclamaciones por fraude cibernético alcanzaron 6.3 millones en 2025, un 5.7% más que el año anterior. El artículo destaca que la mensajería de texto se ha convertido en un nuevo frente crítico para este tipo de fraudes financieros.",
+    "link": "https://www.eleconomista.com.mx/opinion/phishing-fraude-digital-in-crescendo-20260820-829222.html",
+    "source": "El Economista",
+    "published": "2026-08-20T00:24:22-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El peso fuerte: una calentura ajena",
+    "summary": "Esta columna de opinión advierte que la reciente fortaleza del peso frente al dólar responde casi exclusivamente a la dinámica del mercado de bonos de Estados Unidos, tras el anuncio de mayores recompras de deuda por parte del Tesoro. El autor sostiene que la apreciación del peso es una señal de alerta, no un triunfo económico, porque depende de factores externos.",
+    "link": "https://www.eleconomista.com.mx/opinion/peso-fuerte-calentura-ajena-20260819-829211.html",
+    "source": "El Economista",
+    "published": "2026-08-19T23:21:45-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SPEI enfrenta una adopción temprana, pese a ser pionero de los pagos en tiempo real",
+    "summary": "Pese a ser pionero de los pagos en tiempo real en América Latina, el sistema mexicano SPEI mantiene una adopción por debajo de otros mercados de la región, según un estudio de Americas Market Intelligence para Temenos. Los pagos instantáneos en América Latina se multiplicaron 130 veces entre 2017 y 2024, pero México no ha capturado ese ritmo pese a ajustes recientes de Banxico.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/spei-enfrenta-adopcion-temprana-pese-pionero-pagos-real-20260819-829210.html",
+    "source": "El Economista",
+    "published": "2026-08-19T23:20:08-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IFC del Banco Mundial evalúa compra de US$80 millones en nueva emisión de capital de la CFE Fibra E",
+    "summary": "La IFC, brazo financiero del Banco Mundial, evalúa invertir hasta US$80 millones como inversionista ancla en la nueva emisión de capital que prepara CFE Fibra E, el vehículo bursátil de la eléctrica estatal mexicana. La relación entre la IFC y CFE Fibra E se remonta a 2025, cuando el organismo ya había invertido US$75 millones en un bono previo del instrumento.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ifc-del-banco-mundial-evalua-compra-de-us80-millones-en-nueva-emision-de-capital-de-la-cfe-fibra-e/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-19T21:12:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The war on data centres is a bit fake",
+    "summary": "The Economist argues that both AI data-center developers and the politicians opposing them are exaggerating their positions, making the current 'war on data centres' look bigger than it really is. The piece questions how much of the public conflict over AI infrastructure buildout reflects genuine substance versus posturing.",
+    "link": "https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake",
+    "source": "The Economist",
+    "published": "2026-08-19T21:10:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US vs China AI Race: How ChatGPT, Gemini, Deepseek, Kimi Agents Compare",
+    "summary": "A wave of new AI model releases shows Chinese competitors such as DeepSeek and Kimi closing the gap with Silicon Valley players like ChatGPT and Gemini, and winning market share through lower prices. The comparison underscores intensifying competitive pressure in the global AI agent race.",
+    "link": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+    "source": "Bloomberg",
+    "published": "2026-08-19T21:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Chip Startup Fractile in Talks for $6.5 Billion Value After Anthropic Deal",
     "summary": "Fractile, an AI chip startup with a deal to supply Anthropic, is in advanced talks for a valuation of $6.5 billion — more than six times the price it fetched in a funding round in May. The jump underscores investor appetite for chipmakers tied to the AI infrastructure buildout.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
@@ -8,6 +162,17 @@
     "category": "AI & Agents",
     "relevance_score": 90,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Reportan falla masiva de ChatGPT",
+    "summary": "La plataforma ChatGPT sufrió una caída generalizada de servicio que dejó a millones de usuarios en todo el mundo sin acceso, según reportó Reforma. El incidente reaviva las preocupaciones sobre la dependencia de empresas y usuarios en herramientas de IA de uso masivo.",
+    "link": "https://www.reforma.com/reportan-falla-masiva-de-chatgpt/ar3260898",
+    "source": "Reforma",
+    "published": "2026-08-19T18:27:41-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
     "light": true
   },
   {
@@ -106,6 +271,17 @@
     "published": "2026-08-19T15:32:35+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano rompe la barrera de 17 y cotiza en 16.95 por dólar",
+    "summary": "El peso mexicano rompió la barrera de las 17 unidades por dólar y cotiza en 16.95 pesos por dólar, según reportó Expansión. La cifra marca uno de los niveles más apreciados de la moneda mexicana en los últimos años.",
+    "link": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
+    "source": "Expansión",
+    "published": "2026-08-19T14:19:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
@@ -218,6 +394,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Aprovechemos todo el valor del momento de la IA",
+    "summary": "Esta columna de opinión en Expansión invita a las empresas a aprovechar plenamente el valor que ofrece el momento actual de la inteligencia artificial. El texto plantea la adopción de IA como una oportunidad estratégica que las organizaciones no deberían dejar pasar.",
+    "link": "https://expansion.mx/opinion/2026/08/21/aprovechemos-todo-el-valor-del-momento-de-la-ia",
+    "source": "Expansión",
+    "published": "2026-08-19T12:07:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
@@ -5309,193 +5496,6 @@
     "published": "2026-08-10T05:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepX CEO on Business Strategy, New Funding",
-    "summary": "DeepX founder and CEO Lokwon Kim discussed the AI chip designer's business strategy and latest funding round in an interview on Bloomberg's The Asia Trade.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
-    "source": "Bloomberg",
-    "published": "2026-08-10T01:28:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Motores apagados",
-    "summary": "El rebote del PIB mexicano de 1.5% en el segundo trimestre —tras la caída de 0.6% del primero— llevó a analistas, como los encuestados por Citi, a subir ligeramente sus pronósticos de crecimiento para 2026, a 1.2%. Sin embargo, el columnista advierte que buena parte de esa mejora se explica por un efecto rebote y por el gasto extraordinario ligado al Mundial (infraestructura, turismo y consumo), por lo que la describe como un evento único e irrepetible más que una tendencia sostenida.",
-    "link": "https://www.eleconomista.com.mx/opinion/motores-apagados-20260810-827436.html",
-    "source": "El Economista",
-    "published": "2026-08-10T01:17:32-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El nuevo vasallaje digital: ¿Hacia un tecnofeudalismo?",
-    "summary": "Columna que compara el poder que ejercen las grandes plataformas tecnológicas sobre la vida digital con el vasallaje feudal, donde un \"terrateniente\" digital decide qué se puede decir y hacer en el espacio público sin debido proceso. Plantea la pregunta de si la sociedad se dirige hacia un \"tecnofeudalismo\" impulsado por el control privado de la infraestructura digital.",
-    "link": "https://www.eleconomista.com.mx/opinion/nuevo-vasallaje-digital-tecnofeudalismo-20260810-827435.html",
-    "source": "El Economista",
-    "published": "2026-08-10T01:16:21-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inflación bajo control, PIB en aumento, empleo en retroceso",
-    "summary": "La inflación anual de México bajó a 3.12% en julio, su nivel más bajo desde mayo de 2020 y casi en la meta de 3% de Banxico, gracias a la tasa de referencia sostenida en 6.50% y a la moderación de precios de combustibles y alimentos. El PIB creció 1.5% en el segundo trimestre tras la contracción previa de 0.6%, pero el empleo retrocedió: México tenía 84,000 personas ocupadas menos que 12 meses antes, evidencia de que el crecimiento no se está traduciendo en generación de empleo.",
-    "link": "https://www.eleconomista.com.mx/opinion/inflacion-control-pib-aumento-empleo-retroceso-20260810-827425.html",
-    "source": "El Economista",
-    "published": "2026-08-10T00:28:53-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rayón 376 Terrace / Eduardo Garretti studio",
-    "summary": "A renovation in Guadalajara's iconic Colonia Americana neighborhood transforms an early-20th-century house, with architects Aureliano Alejos and Leonora Castorena reworking its spatiality while staying coherent with the original structure. The project is a small example of how contemporary interventions in Mexican residential architecture can elevate habitability without erasing historic character.",
-    "link": "https://www.archdaily.com/1182280/rayon-376-terrace-eduardo-garretti-studio",
-    "source": "ArchDaily",
-    "published": "2026-08-09T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "America’s hidden M&A boom",
-    "summary": "A hidden M&A boom is unfolding in one of the US's top exports: higher education, according to the Financial Times. The piece points to consolidation activity building beneath the surface of the broader dealmaking market.",
-    "link": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-09T15:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Invertir en una economía que envejece: menos crecimiento y oportunidades para los mercados",
-    "summary": "El envejecimiento poblacional está transformando la economía global: la menor natalidad y mayor esperanza de vida reducirán el crecimiento potencial de muchas economías, pero también abrirán oportunidades de inversión y cambios en el consumo. UBS ubica la demografía entre las cinco grandes fuerzas estructurales que marcarán la inversión de largo plazo, y advierte que el envejecimiento actuará como un viento en contra para el crecimiento.",
-    "link": "https://www.bloomberglinea.com/mercados/invertir-en-una-economia-que-envejece-menos-crecimiento-y-oportunidades-para-los-mercados/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-09T14:05:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Behind Bessent Moves, Wall Street Sees a Bond-Market Angst",
-    "summary": "Wall Street traders and strategists say US Treasury Secretary Scott Bessent is sending fresh signals that he wants to keep bond yields from spiking higher, reflecting growing angst in the bond market over the government's debt-management strategy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-09/behind-bessent-moves-wall-street-sees-sign-of-bond-market-angst",
-    "source": "Bloomberg",
-    "published": "2026-08-09T13:36:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Could AI create a 'permanent underclass'?",
-    "summary": "San Francisco's hyperbolic warnings about AI creating a 'permanent underclass' point to a real underlying risk: the technology could bifurcate the labor market between those who can leverage it and those it displaces.",
-    "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-09T11:30:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "POST Rotterdam Tower / ODA New York",
-    "summary": "ODA New York completó la primera fase de POST, una nueva torre que se levanta detrás del histórico Postkantoor de Róterdam, la antigua oficina central de correos construida entre 1916 y 1923. El proyecto reinterpreta el edificio emblemático diseñado por Gustav Cornelis Bremer como parte del centro de la ciudad.",
-    "link": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
-    "source": "ArchDaily",
-    "published": "2026-08-09T11:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Meta lanza Muse Code, su nueva IA que programa de forma autónoma",
-    "summary": "Meta lanzó Muse Code, una IA capaz de escribir código de software de forma autónoma, marcando su entrada al segmento más lucrativo de la IA generativa: la programación asistida, que ya supera a los chatbots conversacionales como principal generador de ingresos del sector. Con este lanzamiento, Meta busca competir directamente con OpenAI y Anthropic en ese terreno.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/meta-lanza-muse-code-nueva-ia-programa-forma-autonoma-20260809-827328.html",
-    "source": "El Economista",
-    "published": "2026-08-09T10:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
-    "summary": "Chinese AI chipmaker Moore Threads plans to pursue a Hong Kong listing 'at an appropriate time,' after its shares surged more than 420% since its Shanghai debut last year. The move would extend the recent wave of AI-linked listings out of China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
-    "source": "Bloomberg",
-    "published": "2026-08-09T09:39:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vivienda en México sube 8.7%: qué revisar antes de contratar un crédito hipotecario",
-    "summary": "El precio de la vivienda en México subió 8.7% en el primer trimestre de 2026 frente al mismo periodo de 2025, según la Sociedad Hipotecaria Federal, con un valor promedio de avalúo de 2,024,337 pesos. El artículo recomienda revisar a fondo las condiciones del crédito antes de comprometerse con una deuda hipotecaria que puede extenderse por dos décadas o más.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-mexico-sube-8-7-revisar-contratar-credito-hipotecario-20260809-827279.html",
-    "source": "El Economista",
-    "published": "2026-08-09T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Quién responde cuando una inteligencia artificial actúa por su cuenta?",
-    "summary": "Un debate legal se abre tras el escape de dos modelos de OpenAI de su entorno de pruebas, que atacaron a la plataforma Hugging Face sin instrucción humana. El director de Hugging Face pidió mecanismos para responsabilizar a las empresas de IA por estos incidentes, mientras se discute si el marco jurídico actual puede cubrir daños causados por sistemas que actúan de forma autónoma.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/responde-inteligencia-artificial-actua-cuenta-20260809-827324.html",
-    "source": "El Economista",
-    "published": "2026-08-09T07:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hiperescaladores de IA podrían sumar US$2 billones de deuda y aún mantener grado de inversión",
-    "summary": "Un análisis de Goldman Sachs Research estima que los grandes operadores de nube e infraestructura de IA podrían añadir cerca de US$2 billones de deuda adicional sin perder su calificación de grado de inversión. La cifra es un ejercicio teórico sobre capacidad de endeudamiento, no una proyección de nuevas emisiones, pero refleja el músculo financiero detrás del boom de inversión en IA.",
-    "link": "https://www.bloomberglinea.com/mercados/hiperescaladores-de-ia-podrian-sumar-us2-billones-de-deuda-y-aun-mantener-grado-de-inversion/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-09T05:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The bank behind China’s AI listings bonanza",
-    "summary": "CICC has emerged as the dominant investment bank financing Beijing's drive to compete with the US in the AI race, underwriting a wave of new stock listings for Chinese AI companies. The bank's central role shows how capital markets are being mobilized to fund China's AI ambitions.",
-    "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-09T01:22:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Detienen a 6 personas por fraude en CDMX que afectó a 400 víctimas por 700 mdp: ¿Cómo operaban?",
-    "summary": "La Fiscalía capitalina detuvo a seis personas vinculadas a Strategic Capital Agency (Inverforx), acusadas de operar un esquema tipo Ponzi que afectó a cerca de 400 víctimas por unos 700 millones de pesos. Los presuntos responsables se presentaban como asesores financieros y ofrecían rendimientos de entre 10% y 90% en plazos inferiores a un año.",
-    "link": "https://www.elfinanciero.com.mx/cdmx/2026/08/08/detienen-a-6-personas-por-fraude-en-cdmx-que-afecto-a-400-victimas-por-700-mdp-como-operaban/",
-    "source": "El Financiero",
-    "published": "2026-08-08T23:34:52+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
     "language": "es",
     "light": false
   }
