@@ -1,5 +1,126 @@
 [
   {
+    "title": "Monte Paschi Bids €34 Billion for BPM, Banca Generali",
+    "summary": "Banca Monte dei Paschi launched an all-share bid worth a combined €34 billion for Banco BPM and Banca Generali, as it seeks to fend off a takeover attempt by rival Intesa Sanpaolo. The move marks one of the largest banking consolidation plays in Europe this year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/monte-paschi-bids-34-billion-for-bpm-banca-generali-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T05:53:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can Anthropic Beat SpaceX’s Record IPO Size?",
+    "summary": "Anthropic expects to match or beat the size of SpaceX's record-setting IPO, according to people familiar with the matter, reflecting overwhelming investor demand to profit from the AI boom. The report signals a landmark year for AI-related public offerings.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T05:38:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The battle over golf’s future",
+    "summary": "New management wants professional golf to become more commercial, but critics worry that billionaire owners now hold outsized influence over the sport's direction. The piece examines the tension between commercial ambition and golf's traditional governance.",
+    "link": "https://www.ft.com/content/d286cb7f-c63e-42a6-86db-d0a9ad0f296a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-21T04:00:13+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
+    "summary": "HSBC spent $68 million on its biggest cull of senior bankers since the financial crisis, as Europe's largest lenders shed the highest number of highly paid staff since 2020. The wave of cuts reflects a broader cost-cutting push across European banking.",
+    "link": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-21T04:00:12+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+    "summary": "La Cepal advirtió que México se encamina a otra década perdida de crecimiento económico, en un escenario de bajo dinamismo estructural. El organismo regional llamó a impulsar reformas que reactiven la inversión y la productividad del país.",
+    "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+    "source": "Expansión",
+    "published": "2026-08-21T02:01:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso fuerte-Dólar débil. ¿Qué se puede hacer desde México?",
+    "summary": "La deuda pública de EU superó los 40 billones de dólares mientras el peso mexicano rompió el piso de 17 unidades por dólar, reflejando la debilidad generalizada del dólar frente a monedas emergentes. El fortalecimiento del peso beneficia a los importadores pero impone una carga a exportadores y productores que compiten en el mercado local.",
+    "link": "https://www.eleconomista.com.mx/opinion/peso-fuerte-dolar-debil-mexico-20260821-829455.html",
+    "source": "El Economista",
+    "published": "2026-08-21T00:40:23-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tasas largas globales: el reto silencioso para México",
+    "summary": "El aumento en las compras de deuda de largo plazo por parte de EU generó un alivio inmediato en los rendimientos, pero refleja que el financiamiento de largo plazo se encarece a escala global, en niveles no vistos en 20 años. Para México esto es relevante porque redefine el costo de capital de proyectos de relocalización manufacturera, expansión energética e infraestructura logística.",
+    "link": "https://www.eleconomista.com.mx/opinion/tasas-largas-globales-reto-silencioso-mexico-20260821-829454.html",
+    "source": "El Economista",
+    "published": "2026-08-21T00:38:42-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
+    "summary": "El artículo explica qué ocurre con el dinero acumulado en la Afore de los trabajadores que cotizan para el ISSSTE pero no logran reunir las semanas necesarias para acceder a una pensión. Explora las opciones disponibles para este grupo de cotizantes en el sistema mexicano de pensiones.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
+    "source": "Expansión",
+    "published": "2026-08-21T00:23:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
+    "summary": "Kio IT Services fichó a un exdirector de Microsoft México para acelerar su negocio de inteligencia artificial y nube. La contratación busca fortalecer la oferta de servicios de IA de la compañía para clientes empresariales en la región.",
+    "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
+    "source": "Expansión",
+    "published": "2026-08-20T23:00:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Open Machine CEO on Anthropic, OpenAI IPO Potential",
+    "summary": "Allie Miller, CEO of Open Machine, discussed how leading tech firms are managing AI investment to balance cost and return, describing a two-tier approach: modest subscription spending to raise baseline AI capabilities across departments like finance and legal, and a smaller, higher-budget \"frontier\" team for experimentation. She also touched on Anthropic and OpenAI's IPO potential.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
+    "source": "Bloomberg",
+    "published": "2026-08-20T21:49:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Yuval Noah Harari on the economic and political perils of AI",
+    "summary": "Historian Yuval Noah Harari warns that humanity must not entrust its future to increasingly capable AI systems, citing the technology's growing economic and political risks. The piece explores how AI could reshape power structures and decision-making at a societal level.",
+    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "source": "The Economist",
+    "published": "2026-08-20T20:00:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia domina la IA, pero Google, Amazon y Meta quieren depender menos de sus chips",
     "summary": "Nvidia construyó su dominio en inteligencia artificial con chips capaces de asumir múltiples tareas, pero sus mayores clientes —Google, Amazon y Meta— avanzan hacia procesadores diseñados a la medida de sus propias cargas de trabajo. Nuevos competidores argumentan que no toda tarea de IA requiere una GPU, lo que abre espacio para alternativas más baratas y especializadas.",
     "link": "https://www.bloomberglinea.com/mercados/nvidia-domina-la-ia-pero-google-amazon-y-meta-quieren-depender-menos-de-sus-chips/",
@@ -5377,126 +5498,5 @@
     "relevance_score": 63,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "La opción de México para regular la Inteligencia Artificial",
-    "summary": "La columna analiza los ensayos recientes de Mark Zuckerberg (\"The Future is for Everyone\") y de Dario Amodei, fundador de Anthropic (\"Policy on the AI Exponential\"), que comparten vocabulario sobre el \"balance de poder\" pero llegan a recetas casi opuestas sobre quién debe decidir la velocidad de liberación de modelos de IA. Amodei propone una autoridad reguladora vinculante al estilo de la FAA, con pruebas obligatorias de terceros en cuatro áreas de riesgo y facultad gubernamental para bloquear lanzamientos, lo que el autor usa como punto de partida para pensar en la opción regulatoria de México.",
-    "link": "https://www.eleconomista.com.mx/opinion/opcion-mexico-regular-inteligencia-artificial-20260811-827638.html",
-    "source": "El Economista",
-    "published": "2026-08-11T00:27:14-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Empresas recortan metas para 2026 por menor consumo",
-    "summary": "Grandes cadenas minoristas y de alimentos y bebidas en México, como Alsea, están ajustando a la baja sus metas de crecimiento para 2026 ante un consumo más débil, pese a que la encuesta de Banamex elevó ligeramente su pronóstico de PIB a 1.2%. Las ventas de tiendas afiliadas a la ANTAD crecieron apenas 1.5% a tiendas iguales en el primer semestre, reflejando un entorno más retador para el consumo.",
-    "link": "https://www.eleconomista.com.mx/empresas/empresas-recortan-metas-2026-menor-consumo-20260811-827636.html",
-    "source": "El Economista",
-    "published": "2026-08-11T00:22:30-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tencent's WorkBuddy Sparks AI Turnaround Hopes After Stock Rout",
-    "summary": "Tencent's early success with its WorkBuddy AI assistant may give the Chinese internet giant a chance to catch up after lagging AI-race peers in recent years, Bloomberg reports.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/tencent-s-workbuddy-sparks-ai-turnaround-hopes-after-stock-rout",
-    "source": "Bloomberg",
-    "published": "2026-08-11T00:11:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
-    "summary": "Anthropic has struck a $9.1 billion deal with Riot Platforms, a Bitcoin miner that recently began selling AI data-center capacity, according to people familiar with the matter. The deal underscores the Claude maker's push to secure enough computing power to meet surging customer demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
-    "source": "Bloomberg",
-    "published": "2026-08-11T00:00:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México registra su peor julio en pérdida de empleos tras concluir el Mundial",
-    "summary": "México perdió 19,550 empleos formales en julio de 2026 según el IMSS, la peor cifra para ese mes desde que existen registros (1998), de acuerdo con ManpowerGroup. Es el tercer mes del año con pérdida de empleo, tras enero (-8,104) y mayo (-29,922), lo que evidencia una desaceleración persistente en la generación de empleo formal tras el Mundial.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-registra-su-peor-julio-en-perdida-de-empleos-tras-concluir-el-mundial/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-10T23:37:27+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hidalgo se encamina a consolidarse como polo industrial para el centro del país",
-    "summary": "Hidalgo registró un crecimiento anual de 17.89% en su actividad industrial durante el primer cuatrimestre de 2026, el mayor del país según el Inegi, respaldado por una inversión privada de 125,800 millones de pesos en 120 proyectos de manufactura, logística y energías limpias. El analista Héctor Magaña advierte que, pese a la tendencia favorable, aún es prematuro comparar al estado con polos industriales consolidados como Nuevo León o el Bajío.",
-    "link": "https://www.eleconomista.com.mx/estados/hidalgo-encamina-consolidarse-polo-industrial-centro-pais-20260810-827621.html",
-    "source": "El Economista",
-    "published": "2026-08-10T23:10:50-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Intel Raises $20 Billion in Upsized Share Sale to Fund AI Plans",
-    "summary": "Intel raised $20 billion in an upsized share sale, a third more than the amount it was targeting when the deal was announced Monday morning. The capital raise is aimed at funding the chipmaker's AI-related expansion plans.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion",
-    "source": "Bloomberg",
-    "published": "2026-08-10T23:10:34+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Asian Bank Stocks Rally as Investors Seek Safety From Volatile AI Trade",
-    "summary": "Asian bank stocks are staging one of their strongest rallies in decades, Bloomberg reports, as investors rotate into financials as a safer bet amid volatility in AI-related trades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/bank-stock-bull-run-may-have-legs-in-asia-as-ai-trade-wobbles",
-    "source": "Bloomberg",
-    "published": "2026-08-10T23:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI's head of ethics leaves start-up less than one year after joining",
-    "summary": "OpenAI's head of ethics, Chloé Bakalar, is leaving less than a year after joining, the Financial Times reports. Her departure is one of several high-profile exits at the company in recent weeks amid mounting safety concerns.",
-    "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-10T22:35:18+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-    "summary": "Google markets its AI tools to corporate clients as a fast way to screen job applications, but some of its own AI researchers reportedly don't want to rely on these tools when recruiting, Bloomberg reports.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-    "source": "Bloomberg",
-    "published": "2026-08-10T22:29:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SAT espera más recaudación por auditorías; pone la mira en la regularización de 2027",
-    "summary": "Expansión reportó que el Servicio de Administración Tributaria (SAT) espera incrementar su recaudación mediante auditorías, y ya pone la mira en un programa de regularización fiscal para 2027.",
-    "link": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
-    "source": "Expansión",
-    "published": "2026-08-10T22:27:56+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
   }
 ]
