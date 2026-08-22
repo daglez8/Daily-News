@@ -1,5 +1,49 @@
 [
   {
+    "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+    "summary": "Companies financing AI data center projects are increasingly turning to junk bond investors to raise billions of dollars, even for debt that is technically investment-grade. The trend shows high-yield investors chasing exposure to the AI infrastructure buildout despite the debt's higher credit rating.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+    "source": "Bloomberg",
+    "published": "2026-08-22T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+    "summary": "Some of Nvidia's biggest customers have been told that prices for servers containing its AI chips are rising more than 15% in many cases, driven by soaring memory chip costs. The hikes add to concerns about the rising cost of building out AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+    "source": "Bloomberg",
+    "published": "2026-08-22T18:42:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Study Shows AI Hitting Paychecks, Not Payrolls",
+    "summary": "Apollo chief economist Torsten Slok says early labor-market data suggest AI's first impact is showing up more in weaker wage growth for AI-exposed jobs than in job losses, though AI is also fueling record business formation. Former IBM HR chief Diane Gherson notes companies are already deciding which work to automate, retrain for, or cut as AI savings materialize.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-22/study-shows-ai-hitting-paychecks-not-payrolls",
+    "source": "Bloomberg",
+    "published": "2026-08-22T14:00:11+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cómo usan la IA las organizaciones criminales? Esto dice un estudio",
+    "summary": "Un estudio del investigador Juan Manuel Aguilar-Antonio (UNAM), presentado con apoyo del programa EL PAcCTO 2.0 de la Unión Europea, documenta cómo el Cártel Jalisco Nueva Generación y el Cártel de Sinaloa han comenzado a incorporar inteligencia artificial y herramientas digitales para reforzar logística, extorsión, vigilancia y reclutamiento. La investigación clasifica a las organizaciones criminales de América Latina según su nivel de sofisticación tecnológica.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ia-organizaciones-criminales-esto-dice-estudio-20260822-829666.html",
+    "source": "El Economista",
+    "published": "2026-08-22T13:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Chinese AI Models Gain Ground on Price and Use",
     "summary": "Chinese AI models are rapidly closing the performance gap with US rivals while winning users through lower prices and open-weight technology that lets companies deploy them locally. Bloomberg tech reporter Luz Ding told Bloomberg This Weekend that Chinese AI capabilities are approaching leading US models at a fraction of the cost.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video",
@@ -88,6 +132,17 @@
     "light": true
   },
   {
+    "title": "How Germany’s doctors, lawyers and dentists got burnt by private markets bets",
+    "summary": "German professionals — including doctors, lawyers and dentists — have been burned by their mandatory pension schemes' bets on private markets, raising questions about how these funds, worth roughly €300 billion, are being managed.",
+    "link": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-22T04:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "El nuevo miedo a ser principiante",
     "summary": "La irrupción de la IA en el trabajo diario está generando ansiedad incluso entre directivos con años de experiencia, que sienten que deben volver a aprender procesos básicos. El autor argumenta que parte del valor profesional que antes distinguía a los expertos hoy puede resolverse con herramientas de IA accesibles para cualquiera.",
     "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/22/el-nuevo-miedo-a-ser-principiante/",
@@ -106,6 +161,17 @@
     "published": "2026-08-22T03:52:36+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Estados Unidos trabaja en un nuevo acuerdo comercial con México: Trump",
+    "summary": "El presidente Donald Trump afirmó que Estados Unidos ya trabaja en un nuevo acuerdo comercial con México, luego de que su gobierno optó por revisiones anuales del T-MEC en vez de extender el tratado vigente. El canciller económico Marcelo Ebrard dijo que espera resultados similares a los alcanzados preliminarmente con Canadá, aunque los detalles aún están por definirse.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/estados-unidos-trabaja-en-un-nuevo-acuerdo-comercial-con-mexico-trump/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-22T01:10:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -227,6 +293,17 @@
     "published": "2026-08-21T19:14:45+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
+    "summary": "Anthropic is preparing for an IPO that could match or exceed the size of SpaceX's record-setting listing, Bloomberg's Ed Ludlow reports. The segment also notes Broadcom is in talks to raise over $60 billion in debt to help Anthropic and others secure AI chips and computing power, with Nvidia's earnings also in focus next week.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:12:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
     "language": "en",
     "light": true
   },
@@ -5421,82 +5498,5 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Wintermute Plans $1 Billion AI Investment to Compete on Wall Street",
-    "summary": "Wintermute Trading plans to invest roughly $1 billion in high-frequency trading and AI data center infrastructure over the next five years. The digital-asset market maker is diversifying into traditional markets following a slump in crypto.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
-    "source": "Bloomberg",
-    "published": "2026-08-12T10:08:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Coding Startup Lovable Raises $400 Million at $13.3 Billion Valuation",
-    "summary": "Swedish AI coding startup Lovable has raised $400 million at a $13.3 billion valuation, bringing in fresh capital to compete with larger rivals including Anthropic and Elon Musk's SpaceX. The round underscores investor appetite for AI-assisted software development tools.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/ai-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation",
-    "source": "Bloomberg",
-    "published": "2026-08-12T09:32:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tencent Sustains Revenue Growth to Bankroll Costly AI Investment",
-    "summary": "Tencent Holdings' revenue grew a faster-than-projected 11%, providing the resources to finance a costly AI services and infrastructure buildout. The results suggest Tencent is sustaining the pace it needs to compete in China's AI race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/tencent-sales-top-estimates-on-wechat-ad-surge-resilient-games",
-    "source": "Bloomberg",
-    "published": "2026-08-12T08:39:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ex-Alibaba AI Architect Wins Tencent, HSG Backing for New Lab",
-    "summary": "The former architect of Alibaba's flagship AI model has founded a startup focused on building AI agents, securing backing from Tencent Holdings and major Chinese venture firms. The move highlights intensifying competition in China's AI agent race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/ex-alibaba-ai-architect-wins-tencent-hsg-backing-for-new-lab",
-    "source": "Bloomberg",
-    "published": "2026-08-12T07:37:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA ya está en el trabajo, pero las empresas aún no logran integrarla",
-    "summary": "Un estudio de Endeavor Data Unit revela que el 55% de los colaboradores en México usa la inteligencia artificial de forma constante, pero solo el 31% de las organizaciones cuenta con una integración amplia y apenas el 6% reporta un impacto económico significativo. Patricia Gameros, de Endeavor, explica que el reto está en pasar del uso individual y aislado a una estrategia que involucre a toda la organización, con procesos prioritarios, datos confiables y capacitación del talento.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/ia-trabajo-empresas-aun-logran-integrarla-20260812-827785.html",
-    "source": "El Economista",
-    "published": "2026-08-12T07:05:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sobreexigencia: El enemigo silencioso de los líderes",
-    "summary": "La sobreexigencia laboral —quedarse horas extra, buscar la perfección en cada tarea e irritarse con facilidad— afecta tanto a puestos directivos como gerenciales en México, donde el 71% de los trabajadores de 35 a 44 años presenta estrés laboral, según un reporte de Axa. El consultor Juan Carlos Ramírez advierte que, si se prolonga, puede derivar en burnout y afectar tanto el rendimiento del líder como el de su equipo.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/sobreexigencia-enemigo-silencioso-lideres-20260812-827789.html",
-    "source": "El Economista",
-    "published": "2026-08-12T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tata chair resigns as succession row escalates",
-    "summary": "N Chandrasekaran will step down as chairman of Tata Sons amid an escalating succession dispute with Noel Tata, leaving India's largest conglomerate without clear leadership continuity — a notable case of board governance and succession risk at a major family-controlled group.",
-    "link": "https://www.ft.com/content/89c3c50c-1fc5-4673-b67d-ddc0b824c6c5?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-12T06:42:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
