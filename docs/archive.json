@@ -1,5 +1,148 @@
 [
   {
+    "title": "Trump afirma que su gobierno comenzó a trabajar en nuevo acuerdo comercial con México",
+    "summary": "El presidente Donald Trump afirmó que su gobierno ya comenzó a negociar un nuevo acuerdo comercial con México, buscando mejores condiciones para Estados Unidos en el marco de la revisión del T-MEC. La siguiente ronda de negociaciones bilaterales está prevista para la primera semana de septiembre, tras avances previos en reglas de origen, acero, aluminio y el sector automotriz.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/21/trump-adelanta-nuevo-acuerdo-comercial-con-mexico-en-plena-revision-del-t-mec-mucho-mejor-para-eu/",
+    "source": "El Financiero",
+    "published": "2026-08-22T04:08:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México y la 'trampa' del bajo crecimiento",
+    "summary": "La Cepal revisó a la baja su proyección de crecimiento para México en 2026, a 1.3% desde el 1.5% estimado en abril, dentro de un panorama regional en el que Latinoamérica completaría cinco años consecutivos de expansión insuficiente para cerrar brechas de desarrollo. El organismo advierte que el crecimiento esperado para 2026-2027 no basta para sacar a la región de su trayectoria de bajo crecimiento de más de una década.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/21/mexico-y-la-trampa-del-bajo-crecimiento/",
+    "source": "El Financiero",
+    "published": "2026-08-22T03:52:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ITG CFO: We're the Picks & Shovels of the AI Boom",
+    "summary": "ITG CFO Chris Mecray described the fiber and communications company as a key beneficiary of the AI buildout, providing the connectivity infrastructure data centers require once a site is built. He said the company sees a long runway of opportunity tied to growing AI-driven demand for compute capacity.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T23:35:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El peso cierra en 16.92 por dólar, pero la economía no levanta",
+    "summary": "El peso mexicano cerró la semana en 16.92 unidades por dólar, extendiendo su fortalecimiento frente al dólar estadounidense. Sin embargo, ese avance cambiario no se ha traducido en una mejora visible de la actividad económica del país.",
+    "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
+    "source": "Expansión",
+    "published": "2026-08-21T23:30:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
+    "summary": "AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in occupations most exposed to automation. The episode also covers how Canada's tariff standoff with the US could leave lasting damage to USMCA and North American manufacturing.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T23:12:20+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (17 al 21 de agosto): De actividad económica y minutas de Banxico y la Fed",
+    "summary": "Las minutas de Banxico y de la Fed dieron señales sobre la trayectoria de las tasas de interés para lo que resta del año, en una semana también marcada por datos de actividad económica en México y el dato de inflación de julio en la eurozona. El Indicador Oportuno de la Actividad Económica sugiere que México arrancaría el tercer trimestre con un crecimiento mensual de apenas 0.1% en junio.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-17-21-agosto-actividad-economica-minutas-banxico-fed-20260821-829633.html",
+    "source": "El Economista",
+    "published": "2026-08-21T21:52:25-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Citadel Offloads Risk From Situational Awareness",
+    "summary": "Ken Griffin's Citadel has offloaded more than 80% of the aggregate risk from the Situational Awareness stock portfolio it acquired from the AI hedge fund led by Leopold Aschenbrenner. The deal illustrates how established funds are absorbing exposure built up by newer, AI-focused investment vehicles.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/citadel-offloads-risk-from-situational-awareness-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T20:53:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+    "summary": "Anthropic has hired Amir Salek, founder of the custom chip program at Google, as the AI lab lays the groundwork for a push into making its own semiconductors. The move signals Anthropic's effort to reduce reliance on external chipmakers as it scales compute for Claude.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:59:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "5G eleva las exigencias de ciberseguridad para infraestructura crítica",
+    "summary": "El avance de las redes 5G y la digitalización económica están elevando las exigencias de ciberseguridad para operadores de telecomunicaciones y para sectores que dependen de infraestructura crítica, como manufactura, energía y servicios financieros. Especialistas de Ericsson señalan que la mayor integración entre redes y operaciones industriales amplía los puntos vulnerables a ataques, espionaje, sabotaje o robo de información.",
+    "link": "https://www.eleconomista.com.mx/empresas/5g-eleva-exigencias-ciberseguridad-infraestructura-critica-20260821-829621.html",
+    "source": "El Economista",
+    "published": "2026-08-21T19:58:25-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Khosla Ventures Bets on AI's Next Frontier: Science",
+    "summary": "Khosla Ventures is backing Discovery Loop, a new AI startup founded by former Google leaders including Jeff Dean, aiming to dramatically accelerate scientific experimentation. Managing Director Samir Kaul says soaring AI valuations are forcing venture investors to rethink what 'seed stage' even means.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:22:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Safety Trial Could Reveal What Zuckerberg, Others Knew",
+    "summary": "Meta faces a landmark legal battle with 29 states accusing the company of designing its platforms to keep children hooked while misleading the public about safety risks. A law professor says the case, drawing comparisons to tobacco litigation, could reveal what executives knew and when — a bigger consequence than any financial penalty.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/meta-on-trial-what-could-we-learn-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:21:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Struggles to Absorb AI's Debt Boom",
+    "summary": "Broadcom is reportedly in talks to raise more than $60 billion in debt to help Anthropic and other AI labs secure chips and computing power. Analysts flagged growing concern over circular financing and the sustainability of funding the broader AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:14:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Aims to Match or Top SpaceX IPO",
+    "summary": "Anthropic is reportedly aiming for an IPO that could match or top SpaceX's record-setting debut, with a public filing possible by the end of August. The maker of Claude raised $65 billion in May at a $965 billion valuation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/anthropic-aims-to-match-or-top-spacex-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-08-21T19:12:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Robinhood's Guild on AI, Markets & Risks",
     "summary": "Robinhood's chief investment officer Stephanie Guild discussed how major AI IPOs are reshaping market concentration risk, and pointed to healthcare and compute infrastructure as areas of opportunity. She advised investors to balance AI exposure with more defensive, cash-flow-generating assets.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/robinhood-s-guild-on-ai-markets-risks-video",
@@ -9,6 +152,28 @@
     "relevance_score": 73,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
+    "summary": "The SEC accused former senior Bank of America investment banker Jason Satsky of passing confidential deal information to a friend who made $18.5 million in illegal profits. The case adds to regulatory scrutiny of information controls at major investment banks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
+    "source": "Bloomberg",
+    "published": "2026-08-21T18:00:03+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Centros de datos son necesarios, pero no son la única vía de crecimiento: Secretaría de Economía",
+    "summary": "El secretario de Economía, Marcelo Ebrard, coincidió con la presidenta Sheinbaum en que los centros de datos son necesarios para avanzar en la adopción de IA en México, pero no deben ser el único motor de crecimiento del país. Ambos advirtieron que estas instalaciones demandan un consumo elevado de recursos naturales y generan relativamente poco empleo, por lo que su desarrollo debe ser planeado.",
+    "link": "https://www.eleconomista.com.mx/empresas/centros-datos-son-necesarios-son-unica-crecimiento-secretaria-economia-20260821-829592.html",
+    "source": "El Economista",
+    "published": "2026-08-21T17:51:44-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Odd Lots: Why Many Communities Are Skeptical of the AI Boom",
@@ -42,6 +207,28 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+    "summary": "Pese a que el SAT enfrenta y gana menos juicios fiscales, la autoridad ha logrado recuperar una mayor cantidad de dinero de los contribuyentes. La nota apunta a un cambio en la estrategia de fiscalización de la autoridad tributaria mexicana.",
+    "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
+    "source": "Expansión",
+    "published": "2026-08-21T15:47:36+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Casa Pura Vida / Zozaya Arquitectos",
+    "summary": "Casa Pura Vida, diseñada por Zozaya Arquitectos en Troncones, México, es una residencia contemporánea concebida para aprovechar la riqueza de los materiales locales y la precisión del oficio artesanal mexicano. El proyecto refleja una arquitectura contemporánea de alta gama en la costa del Pacífico mexicano.",
+    "link": "https://www.archdaily.com/1183767/casa-pura-vida-zozaya-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-08-21T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 70,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Broadcom Seeking More Than $60 Billion in Latest AI Debt Deal",
@@ -129,6 +316,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Semiconductores y CPTPP: la oportunidad que México —y Norteamérica— no debe desaprovechar",
+    "summary": "Una columna de opinión plantea que México y Norteamérica tienen una oportunidad estratégica en semiconductores a través del CPTPP que no deberían desaprovechar. El texto enmarca el tema dentro de la competencia geopolítica por asegurar cadenas de suministro tecnológicas.",
+    "link": "https://expansion.mx/opinion/2026/08/21/semiconductores-y-cptpp-la-oportunidad-que-mexico-y-norteamerica-no-debe-desaprovechar",
+    "source": "Expansión",
+    "published": "2026-08-21T11:59:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
     "light": true
   },
   {
@@ -689,6 +887,17 @@
     "published": "2026-08-20T12:59:02+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can Reddit survive in the AI era?",
+    "summary": "The Economist examines Reddit's push to extract more value — in cash and user attention — from its data as AI systems increasingly draw on human-generated content. The piece questions whether the platform can stay relevant as AI reshapes how people search for information.",
+    "link": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+    "source": "The Economist",
+    "published": "2026-08-20T12:59:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5287,215 +5496,6 @@
     "published": "2026-08-11T23:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA amenaza el primer empleo formal de 3 millones de mexicanos",
-    "summary": "Expansión advierte que la inteligencia artificial amenaza el primer empleo formal de hasta 3 millones de jóvenes en México, un riesgo creciente para la incorporación laboral de nuevas generaciones al mercado de trabajo formal.",
-    "link": "https://expansion.mx/economia/2026/08/11/ia-amenaza-primer-empleo-formal-jovenes-mexico",
-    "source": "Expansión",
-    "published": "2026-08-11T21:47:07+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Filial de CFE solicita permiso para nueva emisión de capital de Fibra E",
-    "summary": "CFE Capital, brazo financiero de la CFE, solicitó autorización a la CNBV para una nueva emisión de capital de su Fibra E, con una oferta pública y otra privada internacional simultáneas. Los recursos se destinarán a continuar financiando la expansión y modernización de la red de transmisión eléctrica de México.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/filial-de-cfe-solicita-permiso-para-nueva-emision-de-capital-de-fibra-e/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-11T21:14:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
-    "summary": "Venture firm Accel raised $3.5 billion in new funds for early-stage investments globally, with a focus on emerging AI startups. The raise signals continued strong capital availability for AI-focused venture investing even as valuations climb.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/accel-raises-3-5-billion-to-invest-in-emerging-global-ai-startups",
-    "source": "Bloomberg",
-    "published": "2026-08-11T21:12:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cuándo puedes pagar impuestos por tus ahorros en Cajitas de Nu? Esto debes saber sobre el ISR",
-    "summary": "Expansión explica cuándo y cómo debe declararse el ISR sobre los rendimientos generados en las Cajitas de ahorro e inversión de Nu, la fintech que recientemente completó su conversión a banco en México.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/11/cajitas-nu-pagan-isr-nubank",
-    "source": "Expansión",
-    "published": "2026-08-11T20:35:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave Shares Surge After Booming AI Demand Bolsters Outlook",
-    "summary": "CoreWeave shares surged after the AI-computing provider posted faster sales growth than expected, driven by the ongoing AI infrastructure spending boom. The results reinforced investor confidence that demand for AI computing capacity remains structurally strong.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
-    "source": "Bloomberg",
-    "published": "2026-08-11T20:21:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Super Micro Gives Sales Outlook That Tops Rosiest Projection",
-    "summary": "Super Micro Computer shares jumped after the company gave a current-quarter revenue forecast that topped analysts' rosiest estimates, a sign the AI market continues to bolster demand for its servers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections",
-    "source": "Bloomberg",
-    "published": "2026-08-11T20:15:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sony y TSMC invertirán 4,700 millones de dólares en sensores de imagen de nueva generación",
-    "summary": "Sony y TSMC anunciaron una inversión conjunta de 4,700 millones de dólares para desarrollar sensores de imagen de nueva generación, un movimiento que refuerza la carrera por infraestructura de hardware ligada al auge de la inteligencia artificial.",
-    "link": "https://expansion.mx/tecnologia/2026/08/11/sony-tsmc-invertiran-4700-millones-sensores-imagen",
-    "source": "Expansión",
-    "published": "2026-08-11T19:45:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA ya ahorra tiempo a las agencias de publicidad, pero también pone en jaque su modelo de cobro",
-    "summary": "La adopción de IA generativa está acelerando el trabajo de las agencias de publicidad mexicanas, pero al mismo tiempo desafía su modelo tradicional de cobro por horas, obligándolas a repensar cómo cobran por su trabajo.",
-    "link": "https://expansion.mx/mercadotecnia/2026/08/11/ia-agencias-publicidad-pone-jaque-modelo-cobro",
-    "source": "Expansión",
-    "published": "2026-08-11T19:28:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hooray for index funds—just don't call them passive",
-    "summary": "The Economist examines how Jack Bogle's index fund innovation has transformed markets, arguing that despite the 'passive' label, index investing still involves plenty of active choices for investors and asset managers.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
-    "source": "The Economist",
-    "published": "2026-08-11T19:25:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia’s great silicon showdown",
-    "summary": "The Economist examines how Nvidia's biggest customers are pushing to capture more value from its AI chip business, prompting Nvidia to counter with a $500 billion financing deal to cement its position in the AI hardware supply chain.",
-    "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
-    "source": "The Economist",
-    "published": "2026-08-11T19:12:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hotel Casa de las Abuelas / LANZA Atelier",
-    "summary": "In Guanajuato's historic center, LANZA Atelier transformed an old residence into Hotel Casa de las Abuelas, a six-room boutique hotel with a street-facing café — a notable example of adaptive reuse in high-end Mexican hospitality architecture.",
-    "link": "https://www.archdaily.com/1183139/hotel-casa-de-las-abuelas-lanza-atelier",
-    "source": "ArchDaily",
-    "published": "2026-08-11T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SPEI mueve 600 billones de pesos y va por el trono de las tarjetas",
-    "summary": "Banxico prevé que para el cierre de 2026 las transferencias vía SPEI superen en número a los pagos con tarjeta de crédito en México. El sistema, que cumple 22 años el 13 de agosto, procesó más de 7,300 millones de transferencias en 2025 por cerca de 600 billones de pesos, equivalente a 16.8 veces el PIB del país.",
-    "link": "https://expansion.mx/economia/2026/08/11/transferencias-spei-superan-pago-tarjetas-mexico",
-    "source": "Expansión",
-    "published": "2026-08-11T18:42:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-    "summary": "Carlos Slim transformó, a través de Grupo Carso, dos antiguas fábricas de papel del sur de la Ciudad de México —adquiridas a mediados de los años 80— en las plazas comerciales Loreto y Cuicuilco Inbursa, conservando parte de su arquitectura original. El terreno de Loreto tiene un origen histórico que se remonta a Hernán Cortés, cuyo hijo instaló ahí un molino de trigo en el siglo XVI.",
-    "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-    "source": "Expansión",
-    "published": "2026-08-11T18:23:40+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Invertir en oro es rentable? Esto habría pasado con US$1.000 en 3, 5, 10 y 20 años",
-    "summary": "Un análisis del World Gold Council muestra que destinar 5% de un portafolio al oro habría elevado el retorno y reducido la volatilidad en los últimos 20 años, con efectos similares a 3, 5 y 10 años. El ejercicio parte de una cartera hipotética con 70% en acciones y 30% en renta fija.",
-    "link": "https://www.bloomberglinea.com/mercados/invertir-en-oro-es-rentable-esto-habria-pasado-con-us1000-en-3-5-10-y-20-anos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-11T17:58:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "RUM Group Sees Path to 30-Fold Revenue Gain on AI Power Capacity",
-    "summary": "RUM Group CEO Chris Pavlovski said the company's 250 megawatts of currently unmonetized power capacity could translate into a 30-fold sales boost as it expands into AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/rum-group-sees-path-to-30-fold-revenue-gain-on-ai-power-capacity",
-    "source": "Bloomberg",
-    "published": "2026-08-11T17:54:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US judge cites ‘concerning’ irregularities in Adani fraud case",
-    "summary": "A US federal judge in Brooklyn flagged 'concerning' irregularities in the Adani fraud case, pointing to repeated attempts to resolve the bribery allegations with monetary offers.",
-    "link": "https://www.ft.com/content/5010fd54-5982-47c7-801a-e0a354a71c31?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-11T17:29:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Texas Power Demand Forecast Trimmed After Data Center Pause",
-    "summary": "Texas's forecast electricity demand growth has been trimmed sharply after the state imposed a pause on new data center projects, a move with direct implications for the pace of AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/texas-power-demand-forecast-trimmed-after-data-center-pause",
-    "source": "Bloomberg",
-    "published": "2026-08-11T17:29:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceXAI Unveils Grok Bot to Work Like a Team of AI Agents",
-    "summary": "SpaceXAI is rolling out new AI software designed to act like a team of agents handling assignments throughout the day, the latest move by Elon Musk's company to keep pace with Anthropic and OpenAI in the agentic AI race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/spacexai-unveils-grok-bot-to-work-like-a-team-of-ai-agents",
-    "source": "Bloomberg",
-    "published": "2026-08-11T17:00:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
-    "summary": "Investment giants including Apollo, Blackstone, BlackRock and Brookfield are partnering with Nvidia to source $500 billion in financing for AI infrastructure. The report also notes Intel raised $20 billion in an upsized share sale, a third more than initially targeted.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/nvidia-taps-wall-street-for-500b-funding-commitment-video",
-    "source": "Bloomberg",
-    "published": "2026-08-11T16:59:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
     "language": "en",
     "light": true
   }
