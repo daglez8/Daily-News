@@ -1,5 +1,49 @@
 [
   {
+    "title": "¿Nvidia se convierte en un banco central del gasto tecnológico?",
+    "summary": "Nvidia firmó un memorando de entendimiento con Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs y KKR para crear plataformas de financiamiento de cómputo capaces de atraer más de US$500,000 millones en capital de terceros. Un informe de Carson Investment cuestiona si Nvidia se está convirtiendo en un \"banco central del gasto tecnológico\", ya que estas plataformas prestan a neoclouds que destinan los fondos a comprar chips de Nvidia, dejando la deuda en vehículos de propósito especial.",
+    "link": "https://www.bloomberglinea.com/mercados/nvidia-se-convierte-en-un-banco-central-del-gasto-tecnologico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-23T07:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alibaba to Raise $10 Billion by Selling Shares for AI Expansion",
+    "summary": "Alibaba is seeking to raise roughly $10 billion (HK$80 billion) through a share sale to fund its push for global leadership in artificial intelligence. The offering marks one of the company's largest AI-related capital raises to date.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+    "source": "Bloomberg",
+    "published": "2026-08-23T06:13:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+    "summary": "US firms are acquiring European asset managers at the fastest pace in decades, as buyers race to scale up and expand their global reach. European fund groups are under pressure amid this wave of consolidation.",
+    "link": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T04:30:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
+    "summary": "Leveraged single-stock ETFs tied to chip stocks attracted billions in net inflows even as they plunged during the recent semiconductor sell-off, as investors bet on a rebound. The pattern echoes past \"falling knife\" trades where risk appetite outpaced caution.",
+    "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T04:00:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
     "summary": "Companies financing AI data center projects are increasingly turning to junk bond investors to raise billions of dollars, even for debt that is technically investment-grade. The trend shows high-yield investors chasing exposure to the AI infrastructure buildout despite the debt's higher credit rating.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
@@ -20,6 +64,39 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Meta bajo juicio: exempleado asegura que herramientas de seguridad estaban “diseñadas para fallar”",
+    "summary": "Un exdirector de ingeniería de Meta testificó que herramientas de seguridad de Facebook e Instagram estaban \"diseñadas para fallar\", contradiciendo la defensa de la empresa en el juicio por presunta adicción de menores a las redes sociales en EU. Una derrota podría costarle a Meta una multa de 200,000 millones de dólares y forzar cambios profundos en su modelo de negocio.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/meta-juicio-exempleado-asegura-herramientas-seguridad-estaban-disenadas-fallar-20260822-829694.html",
+    "source": "El Economista",
+    "published": "2026-08-22T18:16:21-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia informa a clientes de alzas de precios de más del 15%, según Bloomberg News",
+    "summary": "Nvidia informó a sus principales clientes que los precios de los servidores con sus chips de IA subirán más de 15% debido al alza en costos de memoria, según Bloomberg News. Los incrementos aplicarán a sistemas entregados a inicios de 2027, incluyendo los chips Vera Rubin y Grace Blackwell, y afectarán a fabricantes de servidores para Microsoft, Alphabet y Oracle.",
+    "link": "https://www.eleconomista.com.mx/empresas/nvidia-informa-clientes-alzas-precios-15-bloomberg-news-20260822-829692.html",
+    "source": "El Economista",
+    "published": "2026-08-22T17:57:17-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Premio Nacional de Vivienda: Sedatu abre registro para proyectos habitacionales",
+    "summary": "La Sedatu abrió el registro para el Premio Nacional de Vivienda (edición conjunta 2023-2024-2025), dirigido a proyectos que hayan mejorado las condiciones habitacionales en México entre 2023 y 2025. El registro estará disponible del 20 de agosto al 25 de septiembre de 2026 y busca reconocer las mejores prácticas en técnicas constructivas, arquitectónicas y de gestión de vivienda.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/premio-nacional-vivienda-sedatu-abre-registro-proyectos-habitacionales-20260822-829687.html",
+    "source": "El Economista",
+    "published": "2026-08-22T16:26:19-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Study Shows AI Hitting Paychecks, Not Payrolls",
@@ -86,6 +163,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Es tarde para invertir en Wall Street? Las siete lecciones de 75 años y 1.300 récords del S&P 500",
+    "summary": "Pese a que el S&P 500 acumula más de 20 máximos históricos este año y atraviesa una venta masiva de bonos, UBS considera que el ciclo alcista sigue siendo joven y que no es tarde para permanecer invertido. El banco basa su visión en la trayectoria de beneficios, tasas de interés y productividad, más que en la duración del ciclo.",
+    "link": "https://www.bloomberglinea.com/mercados/es-tarde-para-invertir-en-wall-street-las-siete-lecciones-de-75-anos-y-1300-records-del-sp-500/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-22T09:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Canada vows to match US tariffs as trade talks collapse",
@@ -239,6 +327,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 63,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué pasa si no alcanzo pensión en el IMSS? El trámite para recibir los recursos de la cuenta Afore",
+    "summary": "Expansión explica el trámite para recuperar los recursos de la cuenta Afore cuando un trabajador no logra reunir las semanas cotizadas necesarias para obtener una pensión del IMSS.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/21/que-hacer-no-alcanzas-pension-imss-negativa",
+    "source": "Expansión",
+    "published": "2026-08-21T20:08:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
     "light": true
   },
   {
@@ -5399,104 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
-    "summary": "Un reportaje de Expansión describe cómo el talento local en México está impulsando el renacer de Intel y el futuro del desarrollo de inteligencia artificial en Estados Unidos.",
-    "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
-    "source": "Expansión",
-    "published": "2026-08-12T11:55:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "550,000 empresas mexicanas comenzaron a utilizar inteligencia artificial en un año",
-    "summary": "Alrededor de 550,000 empresas mexicanas comenzaron a usar inteligencia artificial en los últimos 12 meses, elevando la adopción de 38% a 48% y superando ya 2.5 millones de negocios que utilizan la tecnología, según un estudio de Strand Partners para AWS. El crecimiento se dio en empresas de todos los tamaños, liderado por las startups con 52% de adopción.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/550-000-empresas-mexicanas-comenzaron-utilizar-inteligencia-artificial-ano-20260812-827898.html",
-    "source": "El Economista",
-    "published": "2026-08-12T11:48:30-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Citi prevé un PIB de 2% en 2027 si el T-MEC se prolonga y se ejecuta el Plan de Infraestructura",
-    "summary": "Citi estima que la economía mexicana crecería 2% en 2027 si se extiende el T-MEC por 16 años más y avanza visiblemente el Plan de Infraestructura, según su economista en jefe para México, Julio Ruiz. Advirtió que sin esos factores el pronóstico tiene riesgo a la baja, y que las exportaciones mexicanas siguen muy dependientes del desempeño de EU.",
-    "link": "https://www.eleconomista.com.mx/economia/citi-preve-pib-2-2027-t-mec-prolonga-ejecuta-plan-infraestructura-20260812-827894.html",
-    "source": "El Economista",
-    "published": "2026-08-12T11:28:04-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Uber anuncia inversión en Galgo para expandir el financiamiento de motos en América Latina",
-    "summary": "Uber anunció una inversión en Galgo, entidad crediticia latinoamericana especializada en financiamiento de motocicletas, para ampliar el acceso a vehículos de conductores y repartidores. La colaboración arrancará en México antes de expandirse a Chile y Colombia en 2027, con parte de los recursos destinados a tecnología, datos e IA.",
-    "link": "https://www.eleconomista.com.mx/empresas/uber-anuncia-inversion-galgo-expandir-financiamiento-motos-america-latina-20260812-827892.html",
-    "source": "El Economista",
-    "published": "2026-08-12T11:20:22-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Resultados de Nubank: Wall Street espera fuerte crecimiento y ve un 30% de potencial en la acción",
-    "summary": "Nubank presentará sus resultados del segundo trimestre este jueves, con el mercado atento al crecimiento del crédito, los márgenes y la calidad de los activos. Los analistas esperan ingresos por US$5,378 millones (+65.6% interanual) y un beneficio neto ajustado de US$990.9 millones, tras superar el consenso en beneficio ajustado durante los últimos ocho trimestres.",
-    "link": "https://www.bloomberglinea.com/mercados/resultados-de-nubank-wall-street-espera-fuerte-crecimiento-y-ve-un-30-de-potencial-en-la-accion/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-12T11:00:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Después de la unificación de cuentas afore, ¿qué sigue para planear tu retiro?",
-    "summary": "La unificación de cuentas afore permite consolidar los recursos de quienes cotizaron tanto en IMSS como en ISSSTE, evitando que los ahorradores pierdan de vista parte de su dinero, explica Pablo Pérez Akaki, del Tec de Monterrey. El proceso es un paso clave, aunque no el único, para tomar control de los recursos destinados al retiro.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/unificacion-cuentas-afore-sigue-planear-retiro-20260812-827249.html",
-    "source": "El Economista",
-    "published": "2026-08-12T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA también está cambiando el mapa inmobiliario de la CDMX",
-    "summary": "La discusión sobre la inteligencia artificial se ha concentrado en sus efectos sobre el empleo y la productividad, pero también está comenzando a transformar el mercado inmobiliario de la Ciudad de México. La automatización de tareas administrativas y financieras que impulsa la IA reduce la necesidad de espacio de oficinas, lo que plantea preguntas sobre cuántos metros cuadrados de oficinas Clase A y A+ requerirá la economía a futuro.",
-    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/08/12/la-ia-tambien-esta-cambiando-el-mapa-inmobiliario-de-la-cdmx/",
-    "source": "El Financiero",
-    "published": "2026-08-12T11:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Día de la Juventud: ¿Cuánto necesitan ganar los jóvenes en México para comprar una vivienda?",
-    "summary": "El 31% de los jóvenes mexicanos tiene como meta financiera principal comprar o terminar de pagar su vivienda, un objetivo cada vez más difícil por los bajos salarios, alta informalidad y poco ahorro, según Héctor Villarreal del Tec de Monterrey. El costo promedio de una vivienda en México es de 1.86 millones de pesos, de acuerdo con el Índice SHF.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/dia-juventud-cuanto-necesitan-ganar-jovenes-mexico-comprar-vivienda-20260812-827811.html",
-    "source": "El Economista",
-    "published": "2026-08-12T10:55:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El 'bajón' del empleo en México y EU",
-    "summary": "El empleo formal muestra debilidad simultánea en México y Estados Unidos: en julio, el IMSS registró la destrucción de cerca de 20,000 plazas, la mayor pérdida para un séptimo mes desde que se tiene registro, mientras los últimos 12 meses acumulan apenas 327,000 empleos formales (1.5% anual), la menor cifra desde marzo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/12/el-bajon-del-empleo-en-mexico-y-eu/",
-    "source": "El Financiero",
-    "published": "2026-08-12T10:42:59+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
   }
 ]
