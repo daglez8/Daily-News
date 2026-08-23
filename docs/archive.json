@@ -1,5 +1,38 @@
 [
   {
+    "title": "Rep. McCormick Warns Against Slowing AI Buildout",
+    "summary": "Republican Representative Rich McCormick argued the US should keep expanding AI data centers to maintain its lead in artificial intelligence, saying the buildout can be done responsibly while benefiting local economies. He made the case on Bloomberg This Weekend amid growing political debate over the pace of AI infrastructure expansion.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-23/rep-mccormick-warns-against-slowing-ai-buildout-video",
+    "source": "Bloomberg",
+    "published": "2026-08-23T14:29:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up",
+    "summary": "Treasury Secretary Scott Bessent, who once criticized his predecessor for trying to re-engineer the world's largest bond market, has now attempted his own intervention to bring yields down. Bloomberg reports the effort has yet to resolve what is really driving Treasury yields higher, leaving markets watching the Fed's Jackson Hole symposium for clearer signals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/bessent-has-no-easy-fix-for-what-s-really-driving-bond-yields-up",
+    "source": "Bloomberg",
+    "published": "2026-08-23T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘It’s a Carry World’: EM Trade Notches Longest Run Since 2008",
+    "summary": "Emerging-market carry trades are having their longest winning run since 2008, according to Cathy Hepworth, who heads PGIM's $1.5 trillion emerging-markets debt team. Bloomberg reports her highest-conviction theme across developing markets remains simple: carry, carry, carry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/-it-s-a-carry-world-em-trade-notches-longest-run-since-2008",
+    "source": "Bloomberg",
+    "published": "2026-08-23T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Government can bring robotics to life",
     "summary": "The Financial Times argues that without supportive policy, businesses have little incentive to automate functions in markets where labor remains cheap. The piece frames government policy as a key lever for accelerating robotics and automation adoption.",
     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
@@ -9,6 +42,28 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Cómo puede la digitalización de catastros combatir los fraudes inmobiliarios?",
+    "summary": "La Sedatu impulsa la modernización y digitalización de los Registros Públicos de la Propiedad y Catastros del país como herramienta para combatir el fraude inmobiliario y el despojo de vivienda. El Economista destaca que mantener en orden los documentos de una propiedad es clave para proteger el patrimonio familiar.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/digitalizacion-catastros-combatir-fraudes-inmobiliarios-20260823-829699.html",
+    "source": "El Economista",
+    "published": "2026-08-23T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Vivienda sustentable: qué revisar antes de comprar o rentar una propiedad",
+    "summary": "El Economista, citando a Inmuebles24, explica que una vivienda sustentable no depende solo de paneles solares o materiales reciclables, sino de un uso eficiente de la energía eléctrica y el agua. La nota recomienda revisar estas características antes de comprar o rentar, ya que inciden directamente en los gastos mensuales del hogar.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-sustentable-revisar-comprar-rentar-propiedad-20260823-829698.html",
+    "source": "El Economista",
+    "published": "2026-08-23T09:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility",
@@ -5441,61 +5496,6 @@
     "published": "2026-08-12T16:29:17+00:00",
     "category": "AI & Agents",
     "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google's AI Is Killing the Internet",
-    "summary": "Bloomberg Opinion's Parmy Olson argues AI bots now generate more web traffic than people for the first time in history, and that Google is accelerating automated activity because its search infrastructure gives it an unfair advantage.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/opinion-google-s-ai-is-killing-the-internet-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T15:51:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Boom Fuels Warehouse Demand",
-    "summary": "Link Logistics CEO Luke Petherbridge says the AI boom is creating a second wave of warehouse demand beyond data centers themselves, as cooling equipment, chip manufacturing and infrastructure fill industrial space. E-commerce and reshoring are adding further pressure to a market where new supply is falling.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/ai-boom-fuels-warehouse-demand-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T15:38:54+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK Plans Safeguards to Stop Terrorists Using AI For Bioweapons",
-    "summary": "The UK government plans to regulate AI use in gene synthesis amid concern that a lack of global guardrails could make it easier to use the technology to create biological weapons.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
-    "source": "Bloomberg",
-    "published": "2026-08-12T15:26:35+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sodzil House / Esencial Studio",
-    "summary": "Sodzil House by Esencial Studio sits near Hacienda Sodzil Norte in Yucatán, a site shaped by the region's henequen-boom history and endemic vegetation. The design preserves the site's existing stone walls and mature trees as a continuation of the landscape rather than erasing them.",
-    "link": "https://www.archdaily.com/1183133/sodzil-house-esencial-studio",
-    "source": "ArchDaily",
-    "published": "2026-08-12T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 70,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "US Launches Effort to Speed Trade in AI Goods Between Allies",
-    "summary": "The Trump administration announced a new program to speed shipments between the US and its closest trading partners of goods considered critical to developing AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-launches-effort-to-speed-trade-in-ai-goods-between-allies",
-    "source": "Bloomberg",
-    "published": "2026-08-12T14:17:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
     "language": "en",
     "light": true
   }
