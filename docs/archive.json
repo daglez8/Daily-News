@@ -1,5 +1,49 @@
 [
   {
+    "title": "Government can bring robotics to life",
+    "summary": "The Financial Times argues that without supportive policy, businesses have little incentive to automate functions in markets where labor remains cheap. The piece frames government policy as a key lever for accelerating robotics and automation adoption.",
+    "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T11:15:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility",
+    "summary": "UK energy companies were put on alert after suspected Iran-linked hackers shut down a small power facility, prompting security officials to brief industry bosses on next steps. The incident underscores growing cybersecurity risk to critical energy infrastructure.",
+    "link": "https://www.ft.com/content/bae67bb7-ebf8-44fc-8d55-bbfaada47eb7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T08:49:36+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+    "summary": "Alibaba is raising $10.2bn through a share placement to fund AI expansion, following a strong market reception for its latest Qwen 3.8-Max model. The deal underscores how Chinese tech giants are ramping up capital raising to compete in the global AI race.",
+    "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T08:33:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "summary": "The Financial Times reports that Anthropic's newest model, Fable 5, has struggled to attract corporate users despite being the lab's most capable model to date. Cheaper rival AI tools are seeing stronger demand, suggesting price sensitivity is reshaping enterprise AI adoption.",
+    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-23T08:23:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Nvidia se convierte en un banco central del gasto tecnológico?",
     "summary": "Nvidia firmó un memorando de entendimiento con Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs y KKR para crear plataformas de financiamiento de cómputo capaces de atraer más de US$500,000 millones en capital de terceros. Un informe de Carson Investment cuestiona si Nvidia se está convirtiendo en un \"banco central del gasto tecnológico\", ya que estas plataformas prestan a neoclouds que destinan los fondos a comprar chips de Nvidia, dejando la deuda en vehículos de propósito especial.",
     "link": "https://www.bloomberglinea.com/mercados/nvidia-se-convierte-en-un-banco-central-del-gasto-tecnologico/",
@@ -18,6 +62,28 @@
     "published": "2026-08-23T06:13:28+00:00",
     "category": "AI & Agents",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek Ends Weekend Peak Pricing for API Users From Today",
+    "summary": "DeepSeek will end its weekend peak-pricing scheme for API users starting Aug. 23, charging weekend usage at off-peak rates going forward. The move simplifies pricing as competition among AI model providers intensifies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
+    "source": "Bloomberg",
+    "published": "2026-08-23T05:57:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
+    "summary": "A previously unknown AI model called Ox Alpha is drawing developer interest after appearing online with free access, even though its creator remains unidentified. Its traction highlights how open, low-cost AI offerings keep pulling users from established providers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+    "source": "Bloomberg",
+    "published": "2026-08-23T05:55:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -95,6 +161,28 @@
     "published": "2026-08-22T16:26:19-06:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hermitage House C70 / ASMD Taller Arquitectura",
+    "summary": "Hermitage House C70, de ASMD Taller Arquitectura, transforma una casa de los años 60 en el centro histórico de Mérida mediante una operación de sustracción que abre espacio a la luz, la ventilación y la vida social. El proyecto es un ejemplo destacado de reutilización adaptativa en la arquitectura residencial mexicana contemporánea.",
+    "link": "https://www.archdaily.com/1183774/hermitage-house-c70-asmd-taller-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-08-22T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Computrabajo identifica 10 empleos sin título universitario, pero conseguirlos exige demostrar experiencia",
+    "summary": "Computrabajo identificó diez empleos en México que no requieren título universitario, aunque conseguirlos exige que los candidatos demuestren experiencia previa. El hallazgo apunta a que la experiencia práctica pesa cada vez más frente a la credencial formal en ciertos puestos.",
+    "link": "https://expansion.mx/carrera/2026/08/22/10-empleos-sin-titulo-universitario-experiencia",
+    "source": "Expansión",
+    "published": "2026-08-22T15:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -330,6 +418,17 @@
     "light": true
   },
   {
+    "title": "El BCRA confirma leve alivio en la mora tras 19 meses de crecimiento ininterrumpido",
+    "summary": "El Banco Central de Argentina confirmó que la mora crediticia cedió levemente en junio, interrumpiendo una racha de 19 meses consecutivos de deterioro que había llevado la irregularidad a máximos históricos recientes. La mejora, aunque modesta (0.1 puntos porcentuales), es una señal a vigilar para la calidad de cartera en mercados financieros latinoamericanos comparables.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-bcra-confirma-leve-alivio-en-la-mora-tras-19-meses-de-crecimiento-ininterrumpido/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-21T20:34:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Qué pasa si no alcanzo pensión en el IMSS? El trámite para recibir los recursos de la cuenta Afore",
     "summary": "Expansión explica el trámite para recuperar los recursos de la cuenta Afore cuando un trabajador no logra reunir las semanas cotizadas necesarias para obtener una pensión del IMSS.",
     "link": "https://expansion.mx/finanzas-personales/2026/08/21/que-hacer-no-alcanzas-pension-imss-negativa",
@@ -427,6 +526,17 @@
     "relevance_score": 73,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
+    "summary": "El secretario de Economía, Marcelo Ebrard, negó que la triangulación de productos chinos a través de México hacia Estados Unidos supere el 1%, y aseguró que su gobierno lo demostrará con datos. La declaración busca despejar dudas sobre el papel de México en las cadenas comerciales entre China y Estados Unidos.",
+    "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
+    "source": "Expansión",
+    "published": "2026-08-21T18:57:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
@@ -5386,116 +5496,6 @@
     "published": "2026-08-12T14:17:37+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "German Firms See Expanding AI Use Crimping Wages, Survey Shows",
-    "summary": "German companies deploying artificial intelligence expect its growing use to depress wages over the next five years, especially for junior workers, according to a new survey.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/german-firms-see-expanding-ai-use-crimping-wages-survey-shows",
-    "source": "Bloomberg",
-    "published": "2026-08-12T14:10:13+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia-Backed Startup CodeRabbit Valued at $1.5 Billion in Round",
-    "summary": "Nvidia-backed CodeRabbit, an AI-powered code review service, raised $143 million in a new funding round that values the company at $1.5 billion. The raise reflects growing demand for tools that catch flaws in AI-generated software.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-backed-startup-coderabbit-valued-at-1-5-billion-in-round",
-    "source": "Bloomberg",
-    "published": "2026-08-12T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
-    "summary": "A $42 billion auction of 10-year US Treasuries produced the highest yield for the benchmark since 2007, drawing decent demand from investors seeking more compensation to finance the US government.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
-    "source": "Bloomberg",
-    "published": "2026-08-12T12:58:03+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Whoop Plans to Double Size of Boston Headquarters Ahead of IPO",
-    "summary": "Whoop Inc., maker of popular screenless fitness trackers, plans to roughly double the size of its Boston headquarters ahead of a planned IPO. The expansion is seen as a boost for a city trying to grab a bigger piece of the artificial intelligence boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/whoop-plans-to-double-size-of-boston-headquarters-ahead-of-ipo",
-    "source": "Bloomberg",
-    "published": "2026-08-12T12:45:07+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Construcción y minería dan impulso de 0.8% a actividad industrial de México en junio",
-    "summary": "La actividad industrial en México creció 0.8% anual en junio, impulsada por la minería (+7.0%) y la construcción (+4.2%), mientras las manufacturas cayeron 1.2% y acumulan doce meses en terreno negativo. Janneth Quiroz, de Monex, atribuye el repunte de la construcción a mayor inversión en infraestructura y a la inversión privada ligada a la relocalización (nearshoring).",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/12/construccion-y-mineria-dan-impulso-de-08-por-ciento-a-la-actividad-industrial-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-08-12T12:39:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Stocks Climb Near Record as Earnings Revive Faith in AI Trade",
-    "summary": "US stocks advanced toward record highs, led by technology, after a softer-than-expected inflation reading eased concerns about further Fed rate hikes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
-    "source": "Bloomberg",
-    "published": "2026-08-12T12:15:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
-    "summary": "Un artículo de opinión en Expansión aborda la relevancia de la gestión de riesgos como pilar de la sostenibilidad empresarial en las organizaciones.",
-    "link": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
-    "source": "Expansión",
-    "published": "2026-08-12T12:11:44+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos",
-    "summary": "Una columna de opinión en Expansión sostiene que termina la burbuja de valuaciones infladas en el ecosistema emprendedor, marcando un retorno al 'due diligence' riguroso y a los fundamentos del negocio.",
-    "link": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
-    "source": "Expansión",
-    "published": "2026-08-12T12:04:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Puros datos",
-    "summary": "El análisis de Macario Schettino sobre los datos del primer semestre destaca que el PIB creció 2.1% en el segundo trimestre y que la actividad industrial de junio subió 0.9%, impulsada por la minería y la construcción, mientras la manufactura cayó. El autor también señala dudas recurrentes sobre la calidad de la información oficial, en particular sobre las cifras de extracción de crudo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/08/12/puros-datos/",
-    "source": "El Financiero",
-    "published": "2026-08-12T12:00:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nebius Reports 514% Jump in AI Cloud Sales as Demand Booms",
-    "summary": "Nebius Group reported a 514% jump in second-quarter sales for its cloud computing business, driven by surging demand for AI computing power. The results underscore the continued strength of AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/nebius-reports-514-jump-in-ai-cloud-sales-as-demand-booms",
-    "source": "Bloomberg",
-    "published": "2026-08-12T11:58:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
     "language": "en",
     "light": true
   }
