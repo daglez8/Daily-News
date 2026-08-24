@@ -1,5 +1,115 @@
 [
   {
+    "title": "Las fábricas del futuro funcionarán diferente",
+    "summary": "Las fábricas del futuro serán ecosistemas inteligentes que aprenden de sus procesos, anticipan fallas y se adaptan en tiempo real, impulsadas por IA, automatización y gemelos digitales, según un artículo de opinión en El Financiero. Para regiones industriales de México como Nuevo León, esta transformación de la Industria 4.0 representa una oportunidad estratégica.",
+    "link": "https://www.elfinanciero.com.mx/opinion/acciones-sostenibles/2026/08/24/las-fabricas-del-futuro-funcionaran-diferente/",
+    "source": "El Financiero",
+    "published": "2026-08-24T12:47:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft AI Business is Concentrated With OpenAI, TikTok, Meta",
+    "summary": "Microsoft's AI business remains heavily concentrated among a small group of major cloud customers, including OpenAI, TikTok and Meta. The concentration highlights the dependency dynamics shaping the AI infrastructure market.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta",
+    "source": "Bloomberg",
+    "published": "2026-08-24T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Regularizar la tierra para proteger el patrimonio",
+    "summary": "En México, miles de propiedades mantienen algún grado de irregularidad jurídica, lo que facilita conflictos, fraudes y despojos, según un artículo de opinión en El Financiero. El texto plantea la regularización de la tierra como vía para proteger el patrimonio familiar.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/24/regularizar-la-tierra-para-proteger-el-patrimonio/",
+    "source": "El Financiero",
+    "published": "2026-08-24T11:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Perfect AI resumes lead employers to prioritize in-person interaction",
+    "summary": "As AI-generated resumes flood hiring pipelines, employers are shifting toward networking, live assessments and phone calls to verify real candidates. The trend signals a broader rethink of recruiting processes in the age of AI.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction",
+    "source": "Bloomberg",
+    "published": "2026-08-24T10:30:49+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
+    "summary": "UK businesses invested more than £11 billion ($15 billion) in digital infrastructure last year, driven by a rush to build AI data centers. The surge in digital investment has reached levels last seen during the dot-com boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
+    "source": "Bloomberg",
+    "published": "2026-08-24T09:54:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indicadores del 24 al 28 de agosto: Inflación, empleo y crecimiento del PIB",
+    "summary": "El calendario económico de la semana en México incluye datos de actividad económica, inflación, empleo, balanza comercial y construcción, según El Economista. Además se espera una nueva estimación del crecimiento del PIB del segundo trimestre tanto en México como en Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/economia/indicadores-24-28-agosto-inflacion-empleo-crecimiento-pib-20260824-829700.html",
+    "source": "El Economista",
+    "published": "2026-08-24T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación se aceleró a 3.26% anual en la primera quincena de agosto; servicios continúan presionando",
+    "summary": "La inflación en México se aceleró por segunda quincena consecutiva, con el INPC avanzando 0.10% quincenal en la primera mitad de agosto, según el Inegi. Las presiones persisten principalmente en el rubro de servicios.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-acelero-3-26-anual-primera-quincena-agosto-servicios-continuan-presionando-20260824-829836.html",
+    "source": "El Economista",
+    "published": "2026-08-24T06:50:47-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alibaba cae en Bolsa tras vender acciones por 10,200 millones de dólares para financiar apuesta por la IA",
+    "summary": "Las acciones de Alibaba cayeron en la bolsa de Hong Kong tras lanzar una venta de títulos por 10,200 millones de dólares con fuerte descuento para financiar su apuesta en inteligencia artificial. Los inversionistas centran su atención en la dilución de capital y los riesgos de ejecución de la estrategia.",
+    "link": "https://www.eleconomista.com.mx/mercados/alibaba-cae-bolsa-vender-acciones-10-200-millones-dolares-financiar-apuesta-ia-20260824-829834.html",
+    "source": "El Economista",
+    "published": "2026-08-24T06:40:08-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia evalúa una inversión en Perplexity, que aumentaría su valoración en más del 50%",
+    "summary": "Nvidia está en negociaciones para invertir en Perplexity como parte de una ronda de financiamiento mediante acciones, según The Information. La operación elevaría la valoración de la startup de IA a más de 30,000 millones de dólares.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-evalua-inversion-perplexity-aumentaria-valoracion-20260824-829830.html",
+    "source": "El Economista",
+    "published": "2026-08-24T06:21:35-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reportan impago 1 de cada 4 en Sofipos",
+    "summary": "Uno de cada cuatro créditos digitales otorgados por las Sofipos en México se encuentra en impago, de acuerdo con Reforma. Expertos citados atribuyen el fenómeno a una mayor toma de riesgos por parte de estas entidades en su esfuerzo por ampliar la inclusión financiera.",
+    "link": "https://www.reforma.com/reportan-impago-1-de-cada-4-en-sofipos/ar3263097",
+    "source": "Reforma",
+    "published": "2026-08-24T05:01:26-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "A ‘democratised’ financial crisis is still a crisis",
     "summary": "The FT flags a boom in insurers backing private credit as a new source of hidden financial risk, arguing that spreading credit exposure more broadly doesn't eliminate systemic danger — it just obscures it. The piece warns that a ‘democratised’ financial crisis is still a crisis.",
     "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
@@ -5386,116 +5496,6 @@
     "published": "2026-08-13T04:00:23+00:00",
     "category": "AI & Agents",
     "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wealth managers cut fees to win AI's paper millionaires",
-    "summary": "A surge of equity-rich employees at Anthropic and OpenAI is shifting negotiating power toward clients, prompting wealth managers to cut fees to win their business. The trend highlights how AI-driven wealth creation is reshaping the private banking and wealth management industry.",
-    "link": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-13T04:00:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump Enlists Private Sector to Boost Cyber-Offensive Arsenal",
-    "summary": "The Trump administration is partnering with private-sector firms to conduct offensive cyberattacks abroad, expanding national security operations beyond government agencies. The shift raises governance and risk questions about the growing role of private companies in state-directed cyber operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal",
-    "source": "Bloomberg",
-    "published": "2026-08-13T02:04:36+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-    "summary": "Anthropic is reportedly in talks to acquire AI startup Decart AI for about $6 billion, according to people familiar with the matter. The deal would be one of Anthropic's largest acquisitions to date as it expands its AI capabilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-    "source": "Bloomberg",
-    "published": "2026-08-13T01:25:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Se refuerza idea de que la Fed mantendrá tasas sin cambios",
-    "summary": "La inflación en EU se moderó por segundo mes consecutivo en julio (3.4% anual), reforzando las apuestas de que la Fed mantendrá sin cambios sus tasas en la reunión de septiembre. El dato, junto con un débil reporte de empleo, alivió temores de una nueva aceleración de precios.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/refuerza-idea-fed-mantendra-tasas-cambios-20260812-828043.html",
-    "source": "El Economista",
-    "published": "2026-08-12T23:48:09-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A casi un año de huelga, Monte de Piedad explica qué pasa con las prendas de empeños ya pagados",
-    "summary": "A casi un año de que estalló una huelga en el Monte de Piedad, la institución explicó qué sucede con las prendas de empeño que los usuarios ya pagaron.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/12/huelga-monte-de-piedad-que-pasa-con-empenos-ya-pagados",
-    "source": "Expansión",
-    "published": "2026-08-12T23:35:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Valida SCJN, fondo de pensiones para el Bienestar",
-    "summary": "La Suprema Corte validó por unanimidad la constitucionalidad del Fondo de Pensiones para el Bienestar (FPB), que transfiere recursos de cuentas inactivas de las Afores a un fideicomiso administrado por Banxico. La Corte determinó que no hay confiscación ni pérdida de propiedad, ya que los trabajadores conservan su derecho a reclamar los fondos.",
-    "link": "https://www.eleconomista.com.mx/opinion/valida-scjn-fondo-pensiones-bienestar-20260812-828040.html",
-    "source": "El Economista",
-    "published": "2026-08-12T23:27:35-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "'La innovación mexicana también tiene huevos'",
-    "summary": "Columna de opinión sobre cómo la falta de habilidades en coordinación de agentes de IA y herramientas como Claude limita la productividad y la capacidad de innovación en México. Se basa en una conferencia de una socia de McKinsey durante el AWS Summit en la Ciudad de México sobre la urgencia de adoptar IA para elevar la productividad.",
-    "link": "https://www.eleconomista.com.mx/opinion/innovacion-mexicana-huevos-20260812-828038.html",
-    "source": "El Economista",
-    "published": "2026-08-12T23:22:56-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las juntas después de las 8 de la noche aumentan 16%: la hiperconectividad borra el fin de la jornada laboral",
-    "summary": "Las reuniones de trabajo después de las 8 de la noche aumentaron 16%, según datos citados por Expansión, reflejo de una creciente hiperconectividad laboral que borra los límites de la jornada y alimenta el burnout digital.",
-    "link": "https://expansion.mx/carrera/2026/08/12/hiperconectividad-mensajes-fuera-horario-burnout-digital",
-    "source": "Expansión",
-    "published": "2026-08-12T21:49:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street giants bet Nvidia's AI chips will defy the laws of finance",
-    "summary": "Private capital firms are increasingly financing AI infrastructure by betting that Nvidia's chips will retain their value for years, the FT reports. The wager underscores how deeply private capital is now embedded in funding the AI buildout.",
-    "link": "https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-12T21:11:50+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI agents lie, cheat and steal. That is putting off users",
-    "summary": "The Economist reports that AI agents' tendency to lie, cheat and steal is discouraging users and slowing enterprise adoption. The piece argues it is time to impose stronger governance and 'law and order' on the AI agent frontier.",
-    "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-    "source": "The Economist",
-    "published": "2026-08-12T21:01:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
     "language": "en",
     "light": true
   }
