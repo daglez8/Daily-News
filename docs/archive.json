@@ -1,5 +1,38 @@
 [
   {
+    "title": "Chinese Hackers Use DeepSeek to Boost Attacks, Researchers Say",
+    "summary": "Chinese state-linked hacking groups are increasingly incorporating DeepSeek and other open-source AI models into their cyberattack operations, according to security researchers. The trend highlights how readily available AI tools are lowering the barrier for sophisticated attacks on targets abroad.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say",
+    "source": "Bloomberg",
+    "published": "2026-08-24T17:13:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Economía de México ‘despunta’ en segundo trimestre: PIB creció 1.4% pese a tensión comercial con Trump",
+    "summary": "La economía mexicana creció 1.4% en el segundo trimestre respecto al trimestre anterior, impulsada por los sectores de servicios y construcción y por exportaciones sólidas, pese a la tensión comercial con Estados Unidos. La cifra revierte la contracción revisada de 0.3% del primer trimestre, aunque quedó ligeramente por debajo de lo previsto por los analistas.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/24/economia-de-mexico-despunta-en-segundo-trimestre-pib-crecio-14-pese-a-tension-comercial-con-trump/",
+    "source": "El Financiero",
+    "published": "2026-08-24T15:51:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
+    "summary": "La inflación en México se ubicó en 3.26% en la primera quincena de agosto, un resultado por debajo de lo que esperaban los analistas del mercado.",
+    "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
+    "source": "Expansión",
+    "published": "2026-08-24T13:45:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Las fábricas del futuro funcionarán diferente",
     "summary": "Las fábricas del futuro serán ecosistemas inteligentes que aprenden de sus procesos, anticipan fallas y se adaptan en tiempo real, impulsadas por IA, automatización y gemelos digitales, según un artículo de opinión en El Financiero. Para regiones industriales de México como Nuevo León, esta transformación de la Industria 4.0 representa una oportunidad estratégica.",
     "link": "https://www.elfinanciero.com.mx/opinion/acciones-sostenibles/2026/08/24/las-fabricas-del-futuro-funcionaran-diferente/",
@@ -7,6 +40,17 @@
     "published": "2026-08-24T12:47:28+00:00",
     "category": "AI & Agents",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La Taxonomía Sostenible de México busca llevar la Agenda 2030 al financiamiento",
+    "summary": "La Taxonomía Sostenible de México busca alinear los criterios de financiamiento del país con las metas de la Agenda 2030, sentando una guía de referencia para inversionistas y entidades financieras.",
+    "link": "https://expansion.mx/opinion/2026/08/24/la-taxonomia-sostenible-de-mexico-busca-llevar-la-agenda-2030-al-financiamiento",
+    "source": "Expansión",
+    "published": "2026-08-24T11:59:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -5454,49 +5498,5 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Adyen Boosts Sales Outlook After Talon.One, Orb Acquisitions",
-    "summary": "Dutch payments firm Adyen raised its full-year revenue growth outlook after completing its first-ever acquisitions, Talon.One and Orb, alongside growing demand from clients. The move signals continued consolidation and growth momentum in the global payments and fintech sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/adyen-boosts-revenue-outlook-as-clients-process-more-payments",
-    "source": "Bloomberg",
-    "published": "2026-08-13T05:40:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Impide Corte dar amparos contra la UIF",
-    "summary": "La Suprema Corte de Justicia de la Nación (SCJN) aclaró que los juzgadores no deben conceder suspensiones que levanten por completo los bloqueos de cuentas ordenados por la Unidad de Inteligencia Financiera (UIF). La resolución refuerza el poder de la UIF para congelar cuentas vinculadas a investigaciones financieras sin que los amparos puedan revertir la medida totalmente.",
-    "link": "https://www.reforma.com/impide-corte-dar-amparos-contra-la-uif/ar3257159",
-    "source": "Reforma",
-    "published": "2026-08-13T05:00:48-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano alcanza su nivel más fuerte frente al dólar desde 2024: ¿qué lo está impulsando?",
-    "summary": "El peso mexicano se ubicó en su nivel más fuerte frente al dólar desde 2024, cotizando cerca de MXN$17.06 tras subir 5.54% en lo que va de 2026. El movimiento refleja un dólar más débil, tasas locales atractivas y flujos hacia activos mexicanos, según analistas de Monex.",
-    "link": "https://www.bloomberglinea.com/mercados/peso-mexicano-alcanza-su-nivel-mas-fuerte-frente-al-dolar-desde-2024-que-lo-esta-impulsando/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T05:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic investors bet on $2tn valuation in record IPO",
-    "summary": "Anthropic investors are betting on a $2 trillion valuation for what could become the largest IPO in history, according to the Financial Times. Rapid revenue growth is fueling hopes that the Claude maker can overcome the challenges of going public at that scale.",
-    "link": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-13T04:00:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
   }
 ]
