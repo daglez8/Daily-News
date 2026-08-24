@@ -1,5 +1,148 @@
 [
   {
+    "title": "A ‘democratised’ financial crisis is still a crisis",
+    "summary": "The FT flags a boom in insurers backing private credit as a new source of hidden financial risk, arguing that spreading credit exposure more broadly doesn't eliminate systemic danger — it just obscures it. The piece warns that a ‘democratised’ financial crisis is still a crisis.",
+    "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-24T04:00:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US widens AI-driven investment gap with Europe",
+    "summary": "The Financial Times reports that the US is pulling further ahead of Europe on AI-driven investment, as American firms far outspend their European counterparts on high-tech equipment and data-center facilities. The gap underscores growing concern in Brussels about Europe's competitiveness in the AI race.",
+    "link": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-24T04:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Germany must ditch doubts over private capital, says investment tsar",
+    "summary": "Germany's investment envoy Martin Blessing says the country needs to overcome official skepticism toward private capital, warning that foreign investors currently face wary public authorities. The comments point to friction between Berlin's growth ambitions and its regulatory posture toward outside capital.",
+    "link": "https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-24T04:00:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+    "summary": "Nvidia has told its biggest customers that prices for AI-chip-equipped servers are rising more than 15% in many cases, driven by soaring memory chip costs. The increase signals tightening supply chains just as hyperscalers ramp up AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
+    "source": "Bloomberg",
+    "published": "2026-08-24T00:28:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank Plans $6.3 Billion Retail Bond Sale in Japan",
+    "summary": "SoftBank Group plans a record ¥1 trillion ($6.3 billion) retail bond sale in Japan, the largest ever by a Japanese issuer, to help fund its investment commitments to OpenAI. The offering underscores the scale of capital SoftBank is committing to the AI buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
+    "source": "Bloomberg",
+    "published": "2026-08-24T00:16:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Eurasia Group atisba T-MEC “zombie” con guerra comercial EU-Canadá",
+    "summary": "Analistas de Eurasia Group consideran que el fracaso de las negociaciones comerciales entre EU y Canadá no implica la ruptura del T-MEC, sino que el escenario más probable (90%) es un “T-MEC zombi” que sobrevive con protocolos bilaterales y aranceles más altos. La consultora asigna 60% de probabilidad a que México y Canadá alcancen acuerdos bilaterales separados con Washington.",
+    "link": "https://www.eleconomista.com.mx/empresas/eurasia-group-atisba-t-mec-zombie-guerra-comercial-eu-canada-20260824-829803.html",
+    "source": "El Economista",
+    "published": "2026-08-24T00:13:58-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Crédito para las pymes: la otra oportunidad del T-MEC",
+    "summary": "Pese a contar con un sistema financiero sólido, el crédito en México no llega con suficiente profundidad a las micro y pequeñas empresas, que representan más del 90% de las unidades económicas y 70% del empleo formal. El artículo señala que instituciones especializadas como la SOFIPO Finsus están cubriendo ese vacío de financiamiento que la banca tradicional no atiende.",
+    "link": "https://www.eleconomista.com.mx/opinion/credito-pymes-oportunidad-t-mec-20260823-829797.html",
+    "source": "El Economista",
+    "published": "2026-08-23T23:49:52-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El regreso del monopolio del poder",
+    "summary": "El auge de la demanda energética de los centros de datos de IA está impulsando una ola acelerada de consolidación entre empresas de servicios eléctricos en EU, atrayendo el interés de inversionistas de Wall Street. El texto advierte que esta concentración recuerda a los conglomerados eléctricos de hace un siglo y podría elevar tarifas y debilitar la rendición de cuentas corporativa.",
+    "link": "https://www.eleconomista.com.mx/opinion/regreso-monopolio-20260823-829796.html",
+    "source": "El Economista",
+    "published": "2026-08-23T23:29:53-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Colombia: pactan tasa de préstamos más baja por terremoto",
+    "summary": "El presidente colombiano Abelardo de la Espriella acordó con los principales grupos financieros del país —Aval, GNB Sudameris y Bolívar/Davivienda— reducir al 8% anual la tasa de créditos de vivienda para las familias afectadas por el terremoto del 10 de agosto. La medida aplica únicamente en las regiones damnificadas.",
+    "link": "https://www.eleconomista.com.mx/empresas/colombia-pactan-tasa-prestamos-baja-terremoto-20260823-829794.html",
+    "source": "El Economista",
+    "published": "2026-08-23T23:21:08-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Brasil potenciará capacidades en IA con más de 440 millones de dólares",
+    "summary": "Brasil anunció inversiones por 2,300 millones de reales (444 millones de dólares) para fortalecer su ecosistema de inteligencia artificial, repartidas entre empresas estadounidenses y chinas. Más de la mitad del monto financiará un centro de supercómputo en Río de Janeiro con Huawei e iFlytek, mientras otra parte se destinará a un superordenador que el gobierno espera sea operado con chips de Nvidia.",
+    "link": "https://www.eleconomista.com.mx/empresas/brasil-potenciara-capacidades-ia-440-millones-dolares-20260823-829792.html",
+    "source": "El Economista",
+    "published": "2026-08-23T23:14:43-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade",
+    "summary": "Investment in UK fintech firms fell to its lowest level since at least 2016 in the first half of the year, as investors redirect capital toward AI-linked companies with clearer long-term growth stories. The decline highlights how the AI boom is reshaping venture funding priorities away from traditional fintech.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade",
+    "source": "Bloomberg",
+    "published": "2026-08-23T23:01:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says",
+    "summary": "Hugging Face is exploring a potential sale that could value the AI platform at $13 billion or more, Business Insider reported. The move would mark one of the largest exits yet among open-source AI infrastructure companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says",
+    "source": "Bloomberg",
+    "published": "2026-08-23T20:12:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuattro Casa de Café / Faci Leboreiro",
+    "summary": "Faci Leboreiro's Cuattro Casa de Café in Troncones, Guerrero, combines a café-restaurant, bakery, artisanal shop, and private office on a sloping coastal lot. The design was built around preserving all existing vegetation and using passive strategies to respond to the tropical climate.",
+    "link": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
+    "source": "ArchDaily",
+    "published": "2026-08-23T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Rep. McCormick Warns Against Slowing AI Buildout",
     "summary": "Republican Representative Rich McCormick argued the US should keep expanding AI data centers to maintain its lead in artificial intelligence, saying the buildout can be done responsibly while benefiting local economies. He made the case on Bloomberg This Weekend amid growing political debate over the pace of AI infrastructure expansion.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-23/rep-mccormick-warns-against-slowing-ai-buildout-video",
@@ -239,6 +382,17 @@
     "category": "Leadership & Future of Work",
     "relevance_score": 61,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "C.E. House / Dall'Ovo Magalhães Arquitetura",
+    "summary": "Dall'Ovo Magalhães Arquitetura's C.E. House sits on a forested plateau, its horizontal, discreet volume following the natural slope of the land. The design blurs the line between living and contemplating, keeping the home close to the earth while suspended above it.",
+    "link": "https://www.archdaily.com/1183808/ce-house-dallovo-magalhaes-arquitetura",
+    "source": "ArchDaily",
+    "published": "2026-08-22T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -5342,160 +5496,6 @@
     "published": "2026-08-12T21:01:17+00:00",
     "category": "AI & Agents",
     "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Thousands of India Workers Are Helping AI Firms Train Robots to Replace Them",
-    "summary": "Robotics companies are hiring thousands of workers in India to record videos of manual tasks like stitching shoes and welding steel, data used to train robots that may eventually replace them. The trend illustrates a stark new dimension of AI's impact on labor markets and the future of work.",
-    "link": "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them",
-    "source": "Bloomberg",
-    "published": "2026-08-12T21:00:17+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
-    "summary": "Citi anticipó que los ajustes al gasto público serán el factor determinante del Paquete Económico 2027 de México, que por ley debe presentarse a más tardar el 8 de septiembre.",
-    "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
-    "source": "Expansión",
-    "published": "2026-08-12T20:44:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
-    "summary": "CoreWeave warned investors it could take significant time and money to diversify away from its exclusive reliance on Nvidia AI chips. The disclosure highlights concentration risk in AI infrastructure providers tied to a single chipmaker.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips",
-    "source": "Bloomberg",
-    "published": "2026-08-12T20:35:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cisco's AI Outlook Disappoints Investors Seeking Bigger Payoff",
-    "summary": "Cisco projected $7.5 billion in AI data-center-related sales for the fiscal year, a figure that disappointed investors given the company has amassed $9.3 billion in AI-related orders over the past year. The gap between orders and realized sales raises questions about the pace of AI infrastructure monetization.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand",
-    "source": "Bloomberg",
-    "published": "2026-08-12T20:14:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cerebras Shares Tumble After Growth Underwhelms Investors",
-    "summary": "Cerebras shares fell after the AI chipmaker projected slower growth than investors anticipated, signaling it remains in the early stages of popularizing its novel chip design. The stumble is a reminder that AI hardware demand, while strong overall, remains uneven across vendors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/cerebras-hardware-business-declines-in-sign-of-lumpy-demand",
-    "source": "Bloomberg",
-    "published": "2026-08-12T20:08:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Silicon Data Raises $30.5M to Benchmark AI Compute",
-    "summary": "Silicon Data raised $30.5 million to expand independent pricing and performance benchmarks for the AI compute market, including a tie-up with CME on planned GPU futures. CEO Carmen Li said the startup aims to be an \"independent referee\" for compute, also tracking the value and depreciation of older chips.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/silicon-data-raises-30-5m-to-benchmark-ai-compute-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T19:07:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Foundation Capital Bets on AI's 'Great Reorg'",
-    "summary": "Foundation Capital general partner Joanne Chen says AI is driving enormous early-stage startup valuations, but investors still need discipline backing companies before they have products or customers. She expects AI to reorganize companies and remove bottlenecks rather than simply eliminate jobs.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/foundation-capital-bets-on-ai-s-great-reorg-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T19:05:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why Open-Weight AI Models Won't Kill the Closed Model",
-    "summary": "Morgan Stanley strategist Michelle Weaver says AI demand continues to outstrip available computing capacity, with little risk of oversupply soon. She expects labor and power constraints to keep limiting the data-center buildout, and predicts companies will ultimately use a mix of open and closed AI models.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/why-open-weight-ai-models-won-t-kill-the-closed-model-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T18:59:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia, Apple y bonos de EE.UU.: así invierte el mayor fondo soberano sus US$2,29 billones",
-    "summary": "El fondo soberano de Noruega (NBIM), el mayor del mundo, cerró junio con un valor de mercado de US$2.29 billones distribuido en 10,383 inversiones en 67 países, con Nvidia como su mayor posición accionaria y los bonos estadounidenses dominando su renta fija. Su CEO, Nicolai Tangen, señaló que los semiconductores impulsaron el valor del fondo \"a una escala nunca vista antes\".",
-    "link": "https://www.bloomberglinea.com/mercados/nvidia-apple-y-bonos-de-eeuu-asi-invierte-el-mayor-fondo-soberano-sus-us229-billones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-12T17:40:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kevin Warsh is struggling to escape his predecessor's problems",
-    "summary": "New Fed Chair Kevin Warsh is struggling to escape the problems inherited from his predecessor, including high inflation, weak jobs data and presidential interference, The Economist reports. The strains raise questions about the central bank's independence and its next moves on rates.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
-    "source": "The Economist",
-    "published": "2026-08-12T17:33:32+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Gemini alcanza los 1,000 millones de usuarios",
-    "summary": "Google anunció que su asistente de inteligencia artificial Gemini alcanzó los 1,000 millones de usuarios, consolidando su posición frente a otros modelos de IA generativa.",
-    "link": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
-    "source": "Expansión",
-    "published": "2026-08-12T17:28:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
-    "summary": "Goldman Sachs will pay up to $2.25 billion to acquire ETF provider Neos Investments, expanding its asset-management reach in the actively managed exchange-traded fund market.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
-    "source": "Bloomberg",
-    "published": "2026-08-12T16:49:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inbursa y Aeroméxico despegan una nueva era de beneficios con su nueva familia de tarjetas",
-    "summary": "Inbursa y Aeroméxico lanzaron una nueva familia de tarjetas de marca compartida —Ascend, Elevate y Horizon, más una cuenta de débito— respaldadas por Mastercard, para convertir el gasto cotidiano en viajes y beneficios de Aeroméxico Rewards. La oferta busca atender desde viajeros frecuentes hasta clientes que buscan servicios exclusivos.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/08/12/inbursa-y-aeromexico-despegan-una-nueva-era-de-beneficios-con-su-nueva-familia-de-tarjetas/",
-    "source": "El Financiero",
-    "published": "2026-08-12T16:38:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek Publicizes Efforts to Challenge Anthropic's Claude Code",
-    "summary": "DeepSeek set up an official social media account and posted job listings for a new team focused on building AI agents that can compete with services like Anthropic's popular Claude Code.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/deepseek-publicizes-efforts-to-challenge-anthropic-s-claude-code",
-    "source": "Bloomberg",
-    "published": "2026-08-12T16:29:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
     "language": "en",
     "light": true
   }
