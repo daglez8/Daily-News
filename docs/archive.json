@@ -1,5 +1,170 @@
 [
   {
+    "title": "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million",
+    "summary": "Israeli AI-safety startup Alice, which partners with Google and Anthropic to protect AI models from misuse and rogue behavior, raised $140 million following a string of high-profile hacks against AI systems. The round underscores growing investor appetite for AI-safety infrastructure as adoption accelerates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million",
+    "source": "Bloomberg",
+    "published": "2026-08-25T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inversión que decidió quedarse",
+    "summary": "La Inversión Extranjera Directa en México sumó 34,968 millones de dólares en el primer semestre del año, la cifra más alta registrada para un periodo similar y 2.1% superior a la de un año antes, según la Secretaría de Economía. El análisis contrasta esta lectura positiva con las señales de desaceleración que enfrenta la economía mexicana.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/25/la-inversion-que-decidio-quedarse/",
+    "source": "El Financiero",
+    "published": "2026-08-25T12:18:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Deutsche Bank Accelerates AI Adoption With New Google Service",
+    "summary": "Deutsche Bank is stepping up its use of artificial intelligence by adopting a new Google Cloud service, aiming to generate more revenue while keeping a lid on costs. The move reflects accelerating enterprise AI adoption among major global banks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/deutsche-bank-accelerates-ai-adoption-with-new-google-service",
+    "source": "Bloomberg",
+    "published": "2026-08-25T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fitbit Founders Launch Screen-Free Health Tracker for Seniors",
+    "summary": "Nearly six years after selling Fitbit to Google, its co-founders are launching a new screen-free wearable worn on the wrist, designed to continuously monitor family members including aging parents. The device targets the wearable-health niche as a lower-friction alternative to screen-based trackers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors",
+    "source": "Bloomberg",
+    "published": "2026-08-25T11:55:01+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+    "summary": "Los ingresos tributarios financiarán 70% del gasto público total en 2027 según el paquete económico, la proporción más alta desde 1990. La cifra refleja una creciente dependencia de la recaudación fiscal para sostener las finanzas públicas de México.",
+    "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+    "source": "Expansión",
+    "published": "2026-08-25T11:54:28+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jack Ma Buys Alibaba Stock in Show of Support for AI Buildout",
+    "summary": "Alibaba co-founder Jack Ma has joined other senior executives in buying company stock, signaling confidence in Alibaba's AI ambitions. The purchases come as investors closely watch major tech firms' AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/jack-ma-joins-top-executives-in-buying-alibaba-stock-scmp-says",
+    "source": "Bloomberg",
+    "published": "2026-08-25T11:30:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La lista que realmente importa a los bancos",
+    "summary": "La revocación de visas estadounidenses a figuras públicas se ha convertido en un punto de atención para la banca mexicana, que evalúa el riesgo reputacional y regulatorio de mantener como clientes a personas señaladas por el gobierno de EU. El artículo explora cómo los intermediarios financieros están respondiendo a esta nueva variable de riesgo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/08/25/la-lista-que-realmente-importa-a-los-bancos/",
+    "source": "El Financiero",
+    "published": "2026-08-25T11:16:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Humanoid Robot Industry Awaiting ChatGPT Moment",
+    "summary": "Two recent events in China showed incremental progress in humanoid robotics, but the industry still lacks the breakthrough moment that propelled generative AI into the mainstream. Builders and investors continue searching for the application that turns humanoid robots into a mass-market product.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/humanoid-robot-industry-awaiting-chatgpt-moment",
+    "source": "Bloomberg",
+    "published": "2026-08-25T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oura and Aggreko IPO Plans Are Latest Signs of Europe Losing Out",
+    "summary": "Fresh signs point to European stock exchanges continuing to lose ground to the US in attracting marquee IPOs, with wearable-maker Oura and power-equipment firm Aggreko cited as the latest examples. The trend persists despite intensified efforts by European bourses and governments to retain listings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/oura-and-aggreko-ipo-plans-are-latest-signs-of-europe-losing-out",
+    "source": "Bloomberg",
+    "published": "2026-08-25T10:33:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mexico Bonds Trade Like Junk After $130 Billion Bailout of Pemex",
+    "summary": "Bond traders have begun pricing Mexican sovereign and quasi-sovereign debt closer to junk levels after the government spent $130 billion bailing out state oil company Pemex. The rescue is fueling concern about Mexico's fiscal position and credit quality.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-25/mexico-bonds-trade-like-junk-after-130-billion-bailout-of-pemex-mt8ix5iw",
+    "source": "Bloomberg",
+    "published": "2026-08-25T10:30:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Use Cases Are CEO Bragging Rights",
+    "summary": "CEOs are increasingly touting specific business processes now handled by AI as a mark of competitive progress. The trend highlights how visible AI deployment has become a signal companies use to demonstrate innovation to investors and boards.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/ai-use-cases-are-ceo-bragging-rights",
+    "source": "Bloomberg",
+    "published": "2026-08-25T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
+    "summary": "Indian AI infrastructure company AM Intelligence has ordered 9,000 Nvidia Vera Rubin systems, positioning itself as one of the first adopters of the advanced computing platform in Asia. The order underscores the scale of capital being committed to AI infrastructure buildout in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems",
+    "source": "Bloomberg",
+    "published": "2026-08-25T09:42:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Must Prove It Can Be Tomorrow's AI Platform",
+    "summary": "Ahead of its earnings report, investors say Nvidia must convince markets it remains the platform underpinning the AI trade beyond its dominant data-center chip business. Expectations are high enough that simply beating estimates may not be enough to satisfy investors.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-25/nvidia-must-prove-it-can-be-tomorrow-s-ai-platform-video",
+    "source": "Bloomberg",
+    "published": "2026-08-25T09:05:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El crédito hipotecario pierde fuerza: cayó 31% interanual y pone un freno a las escrituras porteñas",
+    "summary": "El crédito hipotecario en la Ciudad de Buenos Aires perdió fuerza en julio, con 959 escrituras hipotecarias formalizadas, un 31.2% menos que un año antes, mientras las compraventas totales cayeron 9% interanual. El dato marca una brecha creciente entre el financiamiento hipotecario y el resto del mercado inmobiliario.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-credito-hipotecario-pierde-fuerza-cayo-31-interanual-y-pone-un-freno-a-las-escrituras-portenas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-25T08:25:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Google amplía Gemini Enterprise para bufetes y abogados",
+    "summary": "Google amplió su plataforma Gemini Enterprise con herramientas dirigidas a bufetes y abogados, para ayudarles a automatizar tareas rutinarias y complejas mediante IA. La expansión intensifica la competencia entre las tecnológicas por capturar la creciente demanda de inteligencia artificial en el sector jurídico.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/google-amplia-gemini-enterprise-bufetes-abogados-20260825-830054.html",
+    "source": "El Economista",
+    "published": "2026-08-25T06:47:37-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "En el II Trim. PIB creció 1.4%; su mejor registro desde el 2022",
     "summary": "El PIB de México creció 1.4% en el segundo trimestre de 2026 frente al primero, según cifras desestacionalizadas del Inegi, por debajo del 1.5% que había proyectado el instituto hace 20 días. Aun con el ajuste a la baja, es el crecimiento trimestral más dinámico desde 2022.",
     "link": "https://www.eleconomista.com.mx/economia/ii-trim-pib-crecio-1-4-mejor-registro-20260825-830017.html",
@@ -22,6 +187,17 @@
     "light": false
   },
   {
+    "title": "Lunar Founders Raise €8 Million for Auditing Startup Built on AI",
+    "summary": "The founders of Danish digital bank Lunar raised €8.2 million to launch an AI-powered auditing startup, betting that AI can disrupt an industry still heavily reliant on manual work. The venture is one of several recent bets on AI displacing traditional professional-services work.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+    "source": "Bloomberg",
+    "published": "2026-08-25T06:15:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Crece impago de crédito al consumo en Sofipos; Imora aumenta tres puntos porcentuales a 25.4%",
     "summary": "La morosidad ajustada (Imora) en créditos al consumo de las Sofipos subió a 25.41% en junio de 2026, tres puntos porcentuales más que un año antes, según cifras de la CNBV. El indicador incluye cartera vencida más créditos castigados o eliminados del balance.",
     "link": "https://www.eleconomista.com.mx/sectorfinanciero/crece-impago-credito-consumo-sofipos-imora-aumenta-tres-puntos-porcentuales-25-20260825-830013.html",
@@ -41,6 +217,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 85,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cabin Sande / Helen & Hard architects",
+    "summary": "Cabin Sande is a coastal retreat by Helen & Hard architects set along Norway's rugged Atlantic coastline, designed to connect distinct landscape zones while responding to the site's rocky terrain and ocean views. The project reflects a minimalist, nature-integrated approach to high-end getaway architecture.",
+    "link": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
+    "source": "ArchDaily",
+    "published": "2026-08-25T06:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -95,6 +282,17 @@
     "published": "2026-08-25T01:11:07+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+    "summary": "Monte de Piedad, la institución mexicana de crédito prendario, cumple casi un año en huelga mientras la Suprema Corte de Justicia se involucra en el conflicto laboral que podría definir su resolución. El caso pone bajo la lupa la gobernanza y el manejo de riesgo laboral de una de las instituciones financieras populares más antiguas del país.",
+    "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+    "source": "Expansión",
+    "published": "2026-08-24T23:46:49+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -272,6 +470,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 65,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "House on the Northern Coast of Sao Paulo / André Vainer Arquitetos",
+    "summary": "This seafront house on Brazil's northern São Paulo coast was designed for six siblings and their families, with an L-shaped layout giving most rooms views of the sea, pool, and garden. It sits within a development originally planned by Lúcio Costa and includes a separate caretaker's residence.",
+    "link": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
+    "source": "ArchDaily",
+    "published": "2026-08-24T13:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
     "light": false
   },
   {
@@ -5288,215 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 68,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Estados incrementan su autonomía fiscal",
-    "summary": "Los ingresos propios de las 32 entidades federativas de México ascendieron a 580,056 millones de pesos en 2025, un crecimiento anual de 13.1% que elevó su participación a 17.4% de los ingresos totales estatales, según el Inegi. El dato apunta a mayor autonomía fiscal y menor dependencia de las transferencias federales, que aún representan más de 77% de los recursos subnacionales.",
-    "link": "https://www.eleconomista.com.mx/estados/estados-incrementan-autonomia-fiscal-20260813-828256.html",
-    "source": "El Economista",
-    "published": "2026-08-13T23:46:41-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano cierra en 17.04 por dólar, su mejor nivel desde 2024",
-    "summary": "El peso mexicano cerró la sesión en 17.04 unidades por dólar, su mejor nivel desde 2024.",
-    "link": "https://expansion.mx/mercados/2026/08/13/peso-mexicano-cierra-17-04-por-dolar-hoy",
-    "source": "Expansión",
-    "published": "2026-08-13T23:17:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Las universidades del cibercrimen: el negocio que profesionaliza a los nuevos delincuentes digitales",
-    "summary": "Un reportaje documenta el surgimiento de 'universidades del cibercrimen', negocios que profesionalizan y capacitan a nuevos delincuentes digitales.",
-    "link": "https://expansion.mx/tecnologia/2026/08/13/universidades-cibercrimen-forman-nuevos-ciberdelincuentes",
-    "source": "Expansión",
-    "published": "2026-08-13T22:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "JAB CIO on Private Markets Outlook",
-    "summary": "The CEO of 1823 Partners and CIO at JAB Holdings discussed the strategic integration of insurance businesses within private markets to boost liquidity and returns for clients. He highlighted how insurance and consumer businesses complement each other differently across interest-rate environments, with insurance benefiting when rates are higher.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/jab-cio-on-private-markets-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-08-13T21:38:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Heineken ve señales de retorno en su apuesta de US$3.200 millones por la costarricense Fifco",
-    "summary": "La operación de Heineken en Costa Rica, tras adquirir los negocios de bebidas y retail de Fifco en enero, aportó 492 millones de euros a los ingresos de la cervecera neerlandesa en los primeros cinco meses bajo su control, aunque registró pérdidas de 6 millones de euros por ajustes puntuales de la adquisición. La compañía destacó un fuerte crecimiento en beneficio operativo y flujo de caja del negocio costarricense, que incluye marcas como Imperial, Pilsen y Tropical.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/costa-rica/heineken-ve-senales-de-retorno-en-su-apuesta-de-us3200-millones-por-la-costarricense-fifco/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T21:34:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nu supera los US$1.000 millones en utilidad trimestral por primera vez y su acción se dispara",
-    "summary": "Nubank reportó una utilidad neta trimestral de US$1,061 millones en el segundo trimestre, superando por primera vez esa marca tras un incremento interanual de 67%, impulsada por mayor rentabilidad y crecimiento de su cartera de crédito. La acción subía 8.4% tras el cierre del mercado, y la compañía destacó que su banco en México ya alcanzó 16 millones de clientes tras su lanzamiento oficial este mes.",
-    "link": "https://www.bloomberglinea.com/mercados/nu-supera-los-us1000-millones-en-utilidad-trimestral-por-primera-vez-y-su-accion-se-dispara/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T21:33:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street sube y el S&P 500 rompe un récord tras la moderación de la inflación en EE.UU.",
-    "summary": "Wall Street cerró al alza el jueves, con el S&P 500 marcando un máximo histórico tras una moderación mayor a la esperada en la inflación mayorista de julio (4.7% interanual frente a 4.9% esperado), lo que reforzó las expectativas de que la Reserva Federal mantendrá las tasas sin cambios en septiembre. El Nasdaq lideró las ganancias con un avance de 0.81% y el mercado asignó menos de 40% de probabilidad a un alza de tasas en septiembre.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-avanza-cerca-de-maximos-tras-moderarse-la-inflacion-mayorista-en-estados-unidos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T20:06:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SUUEL Living / CAAM Arquitectos",
-    "summary": "Suuel Living, designed by CAAM Arquitectos in Puerto Escondido, Oaxaca, is conceived as a coastal residential enclave that merges daily life with the calm of the surrounding landscape. The project extends the identity of the nearby Hotel Suuel into a residential space prioritizing well-being, serenity and connection to nature.",
-    "link": "https://www.archdaily.com/1183288/suuel-living-caam-arquitectos",
-    "source": "ArchDaily",
-    "published": "2026-08-13T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 72,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "EU acusa triangulación de mercancías chinas vía México para esquivar aranceles",
-    "summary": "Estados Unidos acusó que mercancías chinas están siendo triangulizadas a través de México para evadir aranceles estadounidenses.",
-    "link": "https://expansion.mx/economia/2026/08/13/mexico-triangulacion-productos-china-eu",
-    "source": "Expansión",
-    "published": "2026-08-13T18:40:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Goldman Sachs Is Bullish on Active ETFs With Purchase of SPYI, QQQI Issuer",
-    "summary": "Goldman Sachs is acquiring the issuer behind the popular active ETFs SPYI and QQQI, according to Bloomberg. The move deepens Goldman's push into a market where investors pay a premium for funds that promise more than simply tracking an index.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/goldman-sachs-is-bullish-on-active-etfs-with-purchase-of-spyi-qqqi-issuer",
-    "source": "Bloomberg",
-    "published": "2026-08-13T18:21:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DeepSeek eleva precios de sus modelos de IA antes de su oferta pública en Bolsa",
-    "summary": "DeepSeek incrementará hasta cuadruplicar los precios de sus modelos insignia V4 a partir del 16 de agosto, antes de una posible oferta pública inicial. Aun con el alza, sus tarifas seguirán por debajo de las de rivales como OpenAI y Anthropic, mientras la compañía prioriza la rentabilidad de cara a su debut bursátil.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/08/13/deepseek-eleva-precios-de-sus-modelos-de-ia-antes-de-su-oferta-publica-en-bolsa/",
-    "source": "El Financiero",
-    "published": "2026-08-13T18:09:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Corte y las pensiones",
-    "summary": "La Suprema Corte de México avaló por unanimidad el Fondo de Pensiones para el Bienestar, que traslada a un fideicomiso estatal las cuentas inactivas de las Afores de trabajadores mayores de 70 años (IMSS) o 75 (ISSSTE), rechazando los argumentos de confiscación de la oposición. El fallo resuelve la pregunta jurídica pero, según el autor, deja sin responder la discusión económica de fondo sobre el manejo de esos recursos, pese a que el fondo ya ha devuelto 5,940 millones de pesos de los más de 24,000 millones trasladados.",
-    "link": "https://www.elfinanciero.com.mx/opinion/gustavo-de-hoyos-walther/2026/08/13/la-corte-y-las-pensiones/",
-    "source": "El Financiero",
-    "published": "2026-08-13T17:30:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI has opened up big holes in cyber security",
-    "summary": "The Financial Times argues that AI has opened major new holes in cybersecurity and is already being used as a damaging weapon. It says it is too late to prevent this, so large-scale investment in AI-era defenses is now urgently needed.",
-    "link": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-13T17:14:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Reto de Colombia tras el sismo estará en la factura de la reconstrucción, no en el PIB: Citi",
-    "summary": "El terremoto de magnitud 7.4 en Colombia representa una prueba temprana para el ajuste fiscal del gobierno de Abelardo De la Espriella, advirtió Citi, ya que las necesidades de reconstrucción obligarán a conciliar mayor gasto de emergencia con una estrategia previamente centrada en recortes. El economista en jefe de Citi para América Latina, Ernesto Revilla, señaló que el impacto macroeconómico dependerá más del costo fiscal de reconstruir viviendas e infraestructura que de la interrupción de corto plazo en la actividad.",
-    "link": "https://www.bloomberglinea.com/mercados/reto-de-colombia-tras-el-sismo-estara-en-la-factura-de-la-reconstruccion-no-en-el-pib-citi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T17:11:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google Debuts New Gemini Flash While Top AI Model Still Delayed",
-    "summary": "Google released a new version of its workhorse Gemini Flash AI model but did not announce a release date for its more powerful Gemini 3.5 Pro model, which continues to face delays. The launch highlights Google's steady cadence on lighter-weight models even as its flagship release lags competitors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed",
-    "source": "Bloomberg",
-    "published": "2026-08-13T17:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-    "summary": "Un reportaje detalla cómo Carlos Slim adquirió terrenos de antiguas fábricas en la CDMX y los convirtió en plazas comerciales que hoy forman parte de su imperio empresarial.",
-    "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-    "source": "Expansión",
-    "published": "2026-08-13T16:59:40+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
-    "summary": "Anthropic is reportedly in talks to acquire AI startup Decart AI for about $6 billion, according to people familiar with the matter. The deal would be the largest known acquisition in Anthropic's history.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-in-talks-to-buy-ai-startup-decart-for-6b-video",
-    "source": "Bloomberg",
-    "published": "2026-08-13T16:58:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "De Visa a Netflix: las seis acciones que compró el fondo de Bill Ackman y por qué las eligió",
-    "summary": "Bill Ackman desplegó casi US$5,000 millones en 14 inversiones a través de Pershing Square, incluyendo nuevas posiciones en Visa, Mastercard, Netflix, S&P Global, Intercontinental Exchange y Alcon. El inversionista, inspirado por Warren Buffett, dijo priorizar negocios con crecimiento sostenido de ganancias y valoraciones que considera castigadas, en lugar de operar acciones a corto plazo.",
-    "link": "https://www.bloomberglinea.com/mercados/de-visa-a-netflix-las-seis-acciones-que-compro-el-fondo-de-bill-ackman-y-por-que-las-eligio/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-13T16:55:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year",
-    "summary": "OpenAI is naming its second chief revenue officer in less than a year, hiring an executive from a cybersecurity firm to drive sales growth. The move comes ahead of OpenAI's highly anticipated Wall Street debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/openai-hires-new-chief-revenue-officer-after-less-than-a-year",
-    "source": "Bloomberg",
-    "published": "2026-08-13T15:55:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
     "light": true
   }
 ]
