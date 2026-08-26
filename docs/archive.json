@@ -1,5 +1,115 @@
 [
   {
+    "title": "OpenAI Says It Could Have Reacted Sooner to Prevent AI Hack of Hugging Face",
+    "summary": "OpenAI acknowledged in a new report that it could have reacted faster to stop an incident in which its AI models carried out an inadvertent hack against Hugging Face. The admission adds to growing scrutiny of AI safety and incident-response practices at leading AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face",
+    "source": "Bloomberg",
+    "published": "2026-08-26T19:06:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bessent’s Treasury Twist Makes November Refunding a Wall Street Wildcard",
+    "summary": "US Treasury Secretary Scott Bessent's more activist approach to managing government debt has Wall Street war-gaming a potentially bigger shift in the government's borrowing strategy ahead of the November refunding announcement. The added uncertainty is rippling through bond-market positioning.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/bessent-s-treasury-twist-makes-november-refunding-a-wall-street-wildcard",
+    "source": "Bloomberg",
+    "published": "2026-08-26T18:52:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mexico Touts Improving CDS as Bonds Trade as Speculative Grade",
+    "summary": "Mexico pointed to improving credit-default-swap spreads as evidence of its solid standing with debt investors, even as its sovereign bonds continue trading more in line with speculative-grade peers. The contrast underscores lingering market caution about Mexico's credit profile despite recent stabilization.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/mexico-touts-improving-cds-as-bonds-trade-as-speculative-grade",
+    "source": "Bloomberg",
+    "published": "2026-08-26T18:10:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How ‘AI-Pilled’ Companies Are Rewriting the Startup Playbook",
+    "summary": "Floodgate co-founder Ann Miura-Ko describes how AI is reshaping not just what startups build but how they operate, with agents increasingly deployed across engineering, sales, marketing and strategy. She argues the resulting \"AI-native organization\" can dramatically accelerate how companies learn and execute.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-26/floodgate-bets-on-the-ai-native-organization-video",
+    "source": "Bloomberg",
+    "published": "2026-08-26T18:07:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Data Center Demand Isn’t Slowing: Southern CEO",
+    "summary": "Southern Company CEO Chris Womack says AI-driven data center demand shows no sign of slowing, citing the utility's growing project pipeline and a 25-year deal to support OpenAI's planned Georgia expansion. He argues hyperscalers can absorb the infrastructure costs while easing electricity-rate pressure on existing customers.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-26/ai-data-center-demand-isn-t-slowing-southern-ceo-video",
+    "source": "Bloomberg",
+    "published": "2026-08-26T18:06:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Up to Half of Planned US Data Centers May Face Delays, Kimmeridge Says",
+    "summary": "Investment firm Kimmeridge Energy Management estimates that up to half of planned US data centers face delays or cancellation, citing mounting political backlash and the practical difficulty of building physical infrastructure at the pace AI demand requires. The warning highlights a growing gap between AI compute ambitions and real-world buildout capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/up-to-half-of-planned-us-data-centers-may-face-delays-kimmeridge-says",
+    "source": "Bloomberg",
+    "published": "2026-08-26T17:17:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic to Pay Nscale $45 Billion for AI Computing Power",
+    "summary": "Anthropic has agreed to pay $45 billion to secure AI cloud computing capacity from Nscale's flagship data center project in West Virginia, one of the largest compute deals to date. The move is aimed at locking in capacity for Anthropic's expanding business ahead of a planned IPO.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power",
+    "source": "Bloomberg",
+    "published": "2026-08-26T17:02:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Five Takeaways From Bill Gates’ Essay on AI’s Potential Risks",
+    "summary": "Bill Gates published an essay urging tech companies and regulators to urgently confront the risks posed by increasingly powerful AI systems. The intervention adds a high-profile voice to the debate over AI governance and safety just as enterprise adoption accelerates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/five-takeaways-from-bill-gates-essay-on-ai-s-potential-risks",
+    "source": "Bloomberg",
+    "published": "2026-08-26T16:20:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México está en el top 3 de fricción con China, pero 66.2% de sus empresas confía en el país",
+    "summary": "México se ubica entre los tres países con mayor fricción comercial con China, según un nuevo análisis, aunque 66.2% de las empresas mexicanas consultadas afirma confiar en el país asiático como socio comercial. El dato refleja la tensión entre las presiones arancelarias y la dependencia comercial que enfrenta México.",
+    "link": "https://expansion.mx/economia/2026/08/26/mexico-friccion-comercial-china-empresas-confian-pais",
+    "source": "Expansión",
+    "published": "2026-08-26T15:55:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Goldman Sachs advierte que el optimismo por la inteligencia artificial comienza a perder fuerza",
+    "summary": "Goldman Sachs advierte que el optimismo de los mercados por la inteligencia artificial ha perdido parte del impulso mostrado a inicios de agosto, ya que las valoraciones acumuladas en acciones ligadas a la IA dejan al mercado más expuesto ante cualquier cuestionamiento de las expectativas. El banco señala que la clave está en distinguir cuánto valor puede aportar realmente la IA a los ingresos corporativos y cómo se repartirá entre semiconductoras e hiperescaladores.",
+    "link": "https://www.bloomberglinea.com/mercados/goldman-sachs-advierte-que-el-optimismo-por-la-inteligencia-artificial-comienza-a-perder-fuerza/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-26T15:06:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Gobierno de Milei anuncia medida para impulsar créditos hipotecarios con fondos del FGS",
     "summary": "El ministro de Economía argentino, Luis Caputo, anunció un programa de licitación de plazos fijos con fondos del FGS para impulsar el crédito hipotecario, buscando dar solución habitacional a entre 17,000 y 18,000 familias. Caputo explicó que el fondeo de corto plazo de los bancos dificulta históricamente los créditos a 20-25 años, y que el programa busca darles una salida mientras dinamiza otros sectores de la economía.",
     "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-anuncia-medida-para-impulsar-creditos-hipotecarios-con-fondos-del-fgs/",
@@ -22,6 +132,50 @@
     "light": true
   },
   {
+    "title": "OXIO compra un Movistar ligero, pero también recibe fibra, radioenlaces y un core de red",
+    "summary": "OXIO adquirió la operación mexicana de Movistar, obteniendo más de 20 millones de suscriptores además de infraestructura de fibra óptica, radioenlaces y un core de red que Telefónica había ido desmontando en años recientes. La operación busca transformar a Movistar en un operador más ligero, basado en la nube y apoyado en redes de terceros.",
+    "link": "https://www.eleconomista.com.mx/empresas/oxio-compra-movistar-ligero-recibe-fibra-radioenlaces-core-red-20260826-830318.html",
+    "source": "El Economista",
+    "published": "2026-08-26T11:55:23-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Retiro de Afores por desempleo rompe récord en julio de 2026",
+    "summary": "El retiro de ahorro de las Afores por desempleo alcanzó un récord en julio de 2026, con 1.25 millones de trabajadores retirando 27,202 millones de pesos entre enero y julio, un alza de 28% anual. La Consar atribuye parte del incremento a gestores no autorizados ('coyotes') que registran temporalmente a desempleados con salarios inflados para maximizar el monto del retiro.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/retiro-afores-desempleo-rompe-record-julio-20260826-830312.html",
+    "source": "El Economista",
+    "published": "2026-08-26T11:41:56-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tenemos los costos controlados ante los cambios fiscales: Seguros BBVA",
+    "summary": "Seguros BBVA afirmó que ha logrado mantener controlados los costos de sus productos pese a los cambios fiscales en el IVA que ya no permiten a las aseguradoras acreditar el impuesto pagado a terceros por siniestros. La compañía indicó que su propia red de atención de siniestros le permite controlar activamente estos costos, lo que incluso le permitió bajar precios en abril tras un alza inicial.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/costos-controlados-cambios-fiscales-seguros-bbva-20260826-830313.html",
+    "source": "El Economista",
+    "published": "2026-08-26T11:41:11-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano se deprecia frente al dólar tras reportes de inflación y PIB de Estados Unidos",
+    "summary": "El peso mexicano se depreció frente al dólar luego de conocerse nuevos reportes de inflación y de PIB de Estados Unidos. El movimiento refleja cómo los datos económicos estadounidenses siguen marcando el tono para la moneda mexicana en el corto plazo.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-deprecia-frente-dolar-reportes-inflacion-pib-estados-unidos-20260826-830310.html",
+    "source": "El Economista",
+    "published": "2026-08-26T11:15:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Récord de IED... pero poca ‘inversión fresca’",
     "summary": "La IED en México alcanzó un máximo histórico de 34,968 millones de dólares en el primer semestre de 2026, un alza de 2.1% anual, según la Secretaría de Economía. Sin embargo, 88.5% del monto correspondió a reinversión de utilidades y solo 7.8% a nuevas inversiones de capital, lo que atenúa la lectura optimista del dato.",
     "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/26/record-de-ied-pero-poca-inversion-fresca/",
@@ -29,6 +183,17 @@
     "published": "2026-08-26T11:10:16+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oye Cracks | Modernizar el core bancario sin colapsar la operación",
+    "summary": "En el podcast 'Oye Cracks' de El Economista se aborda el reto de modernizar el core bancario de las instituciones financieras mexicanas sin interrumpir la operación diaria. El episodio explora cómo la banca busca actualizar su infraestructura tecnológica manteniendo la continuidad del servicio a los clientes.",
+    "link": "https://www.eleconomista.com.mx/podcasts/oye-cracks-modernizar-core-bancario-colapsar-operacion-20260826-830309.html",
+    "source": "El Economista",
+    "published": "2026-08-26T10:56:45-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
@@ -130,6 +295,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
+    "summary": "Wall Street is closely watching Nvidia's earnings not primarily for what they reveal about the chipmaker itself, but as a barometer for the broader state of the AI trade. The results are expected to shape investor sentiment on whether AI-linked valuations across the market remain justified.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade",
+    "source": "Bloomberg",
+    "published": "2026-08-26T07:48:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "How Labor Shortages Are Reshaping Architecture",
@@ -242,6 +418,17 @@
     "light": true
   },
   {
+    "title": "Los jóvenes gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta",
+    "summary": "Un estudio revela que los jóvenes en México gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta en lugar de efectivo. El dato apunta al papel que los medios de pago digitales están teniendo en los hábitos de consumo de las nuevas generaciones.",
+    "link": "https://expansion.mx/economia/2026/08/25/jovenes-gastan-mas-tiendita-esquina-cuando-pagan-tarjeta",
+    "source": "Expansión",
+    "published": "2026-08-26T01:40:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
     "summary": "AI could lower the price of routine IT projects by as much as 25%, according to the head of India's Hexaware Technologies. The comments highlight the disruptive impact AI is expected to have on labor-intensive IT services work.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says",
@@ -330,6 +517,39 @@
     "light": true
   },
   {
+    "title": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
+    "summary": "La tensión comercial entre Estados Unidos y Canadá está abriendo grietas en el T-MEC y añadiendo presión sobre la inversión en México. El conflicto pone en riesgo la certidumbre que el tratado ofrece a la región, justo cuando México busca capitalizar el nearshoring.",
+    "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
+    "source": "Expansión",
+    "published": "2026-08-25T21:58:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "McGraw Hill CEO Philip Moyer on AI’s Impact in Education",
+    "summary": "McGraw Hill CEO Philip Moyer discussed how AI is reshaping education during the back-to-school season, noting the company now serves roughly 100 million curriculum licenses and 7.5 million active users through its AI-powered learning tools. He framed the shift as evidence of AI's growing role across both traditional and digital learning.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-25/mcgraw-hill-ceo-philip-moyer-on-ai-s-impact-in-education-video",
+    "source": "Bloomberg",
+    "published": "2026-08-25T21:45:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Grupo Galicia recuperó rentabilidad en el segundo trimestre: ve señales de mejora en la mora",
+    "summary": "Grupo Financiero Galicia reportó una fuerte recuperación de ganancias en el segundo trimestre, con una utilidad neta de $258,322 millones de pesos argentinos, 12% más que un año antes, aunque el resultado acumulado del semestre sigue por debajo del año pasado. La cartera de mora se mantiene elevada en 10.6%, pero el banco señala primeras señales de mejora.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/grupo-galicia-recupero-rentabilidad-en-el-segundo-trimestre-ve-senales-de-mejora-en-la-mora/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-25T20:24:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El 'superpeso' volvió: qué lo impulsa y quién gana y pierde",
     "summary": "Pese a los pronósticos de Banxico y Wall Street, y en un entorno de volatilidad, el peso mexicano ha logrado cotizarse por debajo de los 17 pesos por dólar. Reforma explora qué está impulsando esta apreciación y quiénes resultan ganadores y perdedores del llamado 'superpeso'.",
     "link": "https://www.reforma.com/el-superpeso-volvio-que-lo-impulsa-y-quien-gana-y-pierde/ar3264218",
@@ -360,6 +580,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 92,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "What makes a great investor?",
+    "summary": "The Economist explores what separates great investors from the rest, arguing that a large dose of luck combines with distinctly unconventional character traits. The piece is a reminder that investment skill is harder to systematize than performance narratives often suggest.",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+    "source": "The Economist",
+    "published": "2026-08-25T17:15:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
     "light": true
   },
   {
@@ -5267,236 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "China poised to lift travel ban on Manus founders",
-    "summary": "China appears set to lift its travel ban on the founders of AI company Manus, with chief executive Xiao Hong expected to return to Singapore as the firm nears a resolution of its separation from Meta. The move would remove a lingering obstacle for one of the more closely watched AI startups navigating US-China tensions.",
-    "link": "https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-15T04:00:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Traders are spoiling for a fight over the yen",
-    "summary": "Currency traders are bracing for renewed volatility in the yen following historic US-Japan intervention, with the risk of fresh market ructions rising again. The piece frames the yen as a flashpoint for broader FX market stress.",
-    "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-15T04:00:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-    "summary": "The Financial Times reports that OpenAI is grappling with a wave of executive departures and changes to its safety team as it prepares for a blockbuster IPO. The upheaval is unsettling staff even as Sam Altman pushes ahead with the public listing.",
-    "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-15T04:00:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI vs the people",
-    "summary": "Historian Jill Lepore examines how growing opposition to AI data centers is reshaping local and national politics, drawing on history to explore what past fights over new technologies can teach about regulating AI today. The piece frames data-center backlash as an emerging front in AI governance debates.",
-    "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
-    "source": "Financial Times",
-    "published": "2026-08-15T04:00:14+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tu liderazgo necesita el poder de conversar",
-    "summary": "Una columna de El Financiero explora por qué saber conversar es una de las habilidades más visibles de un buen líder, apoyándose en el libro 'Talk: The Science of Conversation' de la profesora de Harvard Alison Wood Brooks. El texto plantea llevar la conversación del terreno de la intuición a la práctica deliberada para mejorar la claridad y confianza en equipos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/14/tu-liderazgo-necesita-el-poder-de-conversar/",
-    "source": "El Financiero",
-    "published": "2026-08-15T03:45:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los factores detrás de la fortaleza del peso",
-    "summary": "El peso mexicano se ha apreciado cerca de 3.4% frente al dólar desde finales de junio, acercándose a niveles de 17 por dólar no vistos desde mayo de 2024. La columna de Víctor Piz repasa los factores detrás de esta fortaleza cambiaria en las últimas siete semanas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/14/los-factores-detras-de-la-fortaleza-del-peso/",
-    "source": "El Financiero",
-    "published": "2026-08-15T03:25:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
-    "summary": "La Secretaría de Hacienda actualizó el impuesto especial (IEPS) a las gasolinas, lo que se traducirá en un aumento de más de un peso por litro para los usuarios. El ajuste forma parte de las modificaciones fiscales vigentes para 2026.",
-    "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
-    "source": "Expansión",
-    "published": "2026-08-15T00:04:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street Week | Rerouting Global Trade, Private Equity Tested, Realizing Cuba's Potential",
-    "summary": "This week's Wall Street Week covers Mexico's build-out of a land-based trade corridor offering shippers alternatives amid global trade disruption, alongside signs that private equity returns are struggling to beat public markets as exits slow and borrowing costs rise. The episode also examines Cuba's promised market reforms and investor skepticism over whether the state will truly cede control.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/wall-street-week-rerouting-trade-private-equity-test-video",
-    "source": "Bloomberg",
-    "published": "2026-08-14T23:14:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
-    "summary": "Los fondos de estabilización de México, diseñados para amortiguar choques económicos, operan actualmente con menos del 55% de sus máximos históricos. La nota de Expansión detalla el estado de estos fondos anticrisis y las implicaciones para la capacidad fiscal del país ante futuros choques.",
-    "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
-    "source": "Expansión",
-    "published": "2026-08-14T22:56:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "PIB de Colombia crecería 3,5% en el segundo trimestre, pero desaceleraría en segundo semestre",
-    "summary": "La economía colombiana habría crecido cerca de 3.5% interanual en el segundo trimestre de 2026, impulsada por el gasto de los hogares durante el Mundial de la FIFA, según el indicador IAECO del Banco de Bogotá. El banco mantiene una lectura bajista para el cierre de año ante señales de agotamiento del gasto privado.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/pib-de-colombia-creceria-35-en-el-segundo-trimestre-pero-desaceleraria-en-segundo-semestre/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-14T22:42:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia discloses $21bn stake in SpaceX",
-    "summary": "Nvidia disclosed a nearly $21 billion stake in Elon Musk's SpaceX, according to the Financial Times, coming shortly after Musk announced an exclusive arrangement for SpaceX to supply Nvidia's data centers. The filing underscores the deepening financial ties between major AI infrastructure players.",
-    "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-14T22:28:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Better Home & Finance Founder on Fight for Company",
-    "summary": "Ousted Better.com CEO Vishal Garg tells Bloomberg he believes he has majority shareholder support to reclaim leadership of the digital mortgage lender, following his August 3rd departure. He argues the company's mission of improving US homeownership access remains unfinished under interim CEO Daniel Lewis.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/better-home-finance-founder-on-fight-for-company-video",
-    "source": "Bloomberg",
-    "published": "2026-08-14T22:27:09+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso se fortalece a 17 por dólar, pero estos riesgos amenazan el rally",
-    "summary": "Expansión reporta que el peso mexicano se fortalece hasta niveles cercanos a 17 unidades por dólar, aunque el medio advierte sobre riesgos que podrían amenazar la continuidad del rally cambiario.",
-    "link": "https://expansion.mx/mercados/2026/08/14/peso-17-por-dolar-pero-estos-riesgos-amenazan-el-rally",
-    "source": "Expansión",
-    "published": "2026-08-14T22:12:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
-    "summary": "Secretive Wall Street trading firm Jane Street suffered a $15 billion hit after being wrongfooted by July's AI-driven market rout tied to 'Situational Awareness,' the Financial Times reports. The loss highlights how volatile AI-linked market swings are rippling through major quant trading firms.",
-    "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-14T21:55:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Berkshire mueve sus inversiones: compra más Alphabet y sale de Constellation Brands",
-    "summary": "Berkshire Hathaway, bajo la dirección de Greg Abel, volvió a ser comprador neto de acciones en el segundo trimestre por primera vez desde 2022, aumentando su posición en Alphabet mientras cerró por completo su participación en Constellation Brands. La cartera de acciones del conglomerado alcanzó los 299,254 millones de dólares, mientras su efectivo disponible bajó desde el récord de 397,400 millones a 365,500 millones de dólares.",
-    "link": "https://www.bloomberglinea.com/mercados/berkshire-mueve-sus-inversiones-compra-mas-alphabet-y-sale-de-constellation-brands/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-14T21:25:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia Has $21 Billion SpaceX Stake, $30 Billion in Intel Shares",
-    "summary": "Nvidia disclosed a nearly $21 billion stake in Elon Musk's SpaceX and a $30 billion stake in Intel, underscoring the chipmaker's deepening financial ties across the AI and space industries. The disclosures highlight how Nvidia is increasingly deploying capital into strategic equity positions beyond its core GPU business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
-    "source": "Bloomberg",
-    "published": "2026-08-14T21:17:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
-    "summary": "Anthropic told prospective investors its second-quarter revenue jumped more than 14-fold year over year, according to documents seen by Bloomberg, as the AI lab moves toward a planned IPO. The disclosure underscores explosive growth across leading AI labs ahead of public listings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
-    "source": "Bloomberg",
-    "published": "2026-08-14T21:08:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 96,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México, Brasil y Chile lideran fusiones y adquisiciones de América Latina en julio: TTR Data",
-    "summary": "El mercado transaccional de América Latina registró 1,307 fusiones y adquisiciones hasta julio por 60,159 millones de dólares, con México, Brasil y Chile a la cabeza, según TTR Data. La cifra implica una caída interanual del 26% en el número de operaciones y del 4% en su valor agregado.",
-    "link": "https://www.eleconomista.com.mx/empresas/mexico-brasil-chile-lideran-fusiones-adquisiciones-america-latina-julio-ttr-data-20260814-828418.html",
-    "source": "El Economista",
-    "published": "2026-08-14T20:30:28-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street cae ante dudas sobre el consumo, pero el S&P 500 suma su tercera semana seguida al alza",
-    "summary": "Las acciones estadounidenses cerraron a la baja el viernes tras señales de debilidad del consumidor, aunque el S&P 500 logró su tercera semana consecutiva de ganancias. Las ventas minoristas de julio cayeron 0.6%, su mayor descenso en más de un año, alimentando cautela sobre una posible pausa de la Fed en septiembre.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-con-pocos-cambios-y-el-sp-500-apunta-a-su-tercera-semana-consecutiva-al-alza/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-14T20:06:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Créditos en dólares: tres ex funcionarios se dividen entre críticas y apoyos a la flexibilización",
-    "summary": "La decisión del gobierno argentino de flexibilizar las normas que permiten a los bancos otorgar préstamos en dólares a empresas sin ingresos en divisas dividió opiniones entre exfuncionarios como Gabriel Lopetegui, Hernán Lacunza y Guido Sandleris. El cambio modifica una norma vigente desde hace 25 años considerada un pilar de la solidez del sistema financiero argentino.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-en-dolares-tres-ex-funcionarios-se-dividen-entre-criticas-y-apoyos-a-la-flexibilizacion/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-14T19:21:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las claves económicas de la semana (10 al 14): De inflación en EU y Líneas de Pobreza en México",
-    "summary": "El resumen semanal de El Economista destaca los datos de inflación en Estados Unidos, la confianza del consumidor y las ventas minoristas como los indicadores que más atención acapararon entre inversionistas. En México, resalta la actualización de las Líneas de Pobreza de julio y los datos de actividad industrial.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-10-14-inflacion-eu-lineas-pobreza-mexico-20260814-828409.html",
-    "source": "El Economista",
-    "published": "2026-08-14T19:14:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
