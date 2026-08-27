@@ -1,5 +1,137 @@
 [
   {
+    "title": "Safe AI Is Going to Get Pricey",
+    "summary": "A Bloomberg newsletter flags that the industry is approaching an R&D bottleneck around making AI systems safe, implying that safety work will become a significantly costlier part of AI development going forward.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-27/safe-ai-is-going-to-get-pricey",
+    "source": "Bloomberg",
+    "published": "2026-08-27T19:00:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nafin y Bancomext absorberán primeras pérdidas para impulsar el crédito a Pymes",
+    "summary": "Nacional Financiera y Bancomext lanzarán un esquema de garantía de primeras pérdidas por 1,743 millones de pesos dirigido a intermediarios financieros no bancarios (Sofomes), para que se atrevan a prestar a Pymes que hoy consideran demasiado riesgosas. El mecanismo, anunciado en la Convención Nacional de Asofom, busca elevar la penetración del crédito a pequeñas y medianas empresas dentro del Plan México.",
+    "link": "https://expansion.mx/economia/2026/08/27/nafin-bancomext-perdidas-credito-micronegocios-pymes",
+    "source": "Expansión",
+    "published": "2026-08-27T18:03:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "LA Fire Zone Set to Get $3 Million Homes Funded by Muni Bonds",
+    "summary": "More than a year after wildfires devastated Pacific Palisades, a nonprofit is advancing a plan to tap the public municipal debt market to fund new housing in the slow-to-recover, wealthy Los Angeles enclave.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/la-fire-zone-set-to-get-3-million-homes-funded-by-muni-bonds",
+    "source": "Bloomberg",
+    "published": "2026-08-27T17:30:15+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso 'tropieza' frente al dólar por pistas sobre el rumbo de la Fed",
+    "summary": "El peso mexicano abrió con pérdidas marginales, cotizando cerca de 16.96 por dólar, ante la cautela previa al simposio de Jackson Hole donde se buscarán señales sobre la política monetaria de la Fed. Analistas señalan que el diferencial de tasas de Banxico y el ingreso de divisas por exportaciones energéticas siguen actuando como amortiguador a favor de la moneda mexicana.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/27/peso-dolar-tipo-de-cambio-hoy-27-de-agosto-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-27T17:15:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve",
+    "summary": "OpenAI and Anthropic, together with more than 100 other tech and financial services organizations, warned that businesses and governments need to do more to prepare for and defend against AI-enabled cyberattacks as models keep improving.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/openai-anthropic-urge-cyber-defense-action-as-ai-models-improve",
+    "source": "Bloomberg",
+    "published": "2026-08-27T17:09:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 83,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vanguard ve una IA frágil, un dólar más débil y un nuevo 'China Shock' para los mercados",
+    "summary": "Vanguard advierte que el auge de la inversión en IA es potente pero 'frágil', ya que el mercado depende de un grupo reducido de empresas y de expectativas ya muy elevadas. La gestora, con cerca de US$11.9 billones bajo administración, anticipa además un dólar más débil a mediano plazo y una nueva ola exportadora desde China.",
+    "link": "https://www.bloomberglinea.com/mercados/vanguard-ve-una-ia-fragil-un-dolar-mas-debil-y-un-nuevo-china-shock-para-los-mercados/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-27T16:20:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year",
+    "summary": "Nvidia said revenue will grow about 70% next fiscal year, easing concerns that AI spending momentum is fading. Analysts framed the results as an earnings blowout that reinforces the durability of the current AI infrastructure boom.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-sees-70-ai-fueled-demand-sales-boost-next-year-video",
+    "source": "Bloomberg",
+    "published": "2026-08-27T14:59:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Data Center Opposition Could Hurt Nvidia, Ferragu Says",
+    "summary": "New Street Research's Pierre Ferragu says supply chain issues and growing US opposition to new data centers make him nervous about Nvidia's outlook, even after the chipmaker guided to roughly 70% revenue growth next fiscal year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-27/data-center-opposition-could-hurt-nvidia-ferragu-says-video",
+    "source": "Bloomberg",
+    "published": "2026-08-27T14:49:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan Leads $5 Billion Debt for Volta AI Buildout",
+    "summary": "JPMorgan Chase has begun early outreach to potential lenders for a $5 billion debt package to finance Volta Infrastructure Holdings' buildout of AI data centers, underscoring how much debt capital is now flowing into AI infrastructure financing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/jpmorgan-leads-5-billion-debt-package-for-volta-ai-buildout",
+    "source": "Bloomberg",
+    "published": "2026-08-27T14:37:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México rompe otro récord exportador con 81,420 mdd en julio, impulsado por electrónicos",
+    "summary": "El comercio exterior de México alcanzó niveles inéditos en julio, con récords tanto en exportaciones como en importaciones, impulsadas por el sector electrónico. Sin embargo, el mayor crecimiento de las importaciones dejó un déficit comercial de 848 millones de dólares, según datos del Inegi.",
+    "link": "https://expansion.mx/economia/2026/08/27/exportaciones-mexico-record-electronicos-julio",
+    "source": "Expansión",
+    "published": "2026-08-27T13:45:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Private Jet Firm Vista Explores $1 Billion Europe IPO",
+    "summary": "Vista Global Holding is considering a European initial public offering that could raise more than $1 billion, according to people with knowledge of the matter, as the private aviation firm weighs public-market funding options.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/private-jet-firm-vista-explores-1-billion-europe-ipo",
+    "source": "Bloomberg",
+    "published": "2026-08-27T13:40:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Humanoid robots will be useful, just not as we imagined",
+    "summary": "Bipedal robots may look impressive doing tricks online, but the FT argues the real commercial value lies with their less flashy, highly functional industrial cousins rather than consumer-facing humanoids.",
+    "link": "https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-27T13:36:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise",
     "summary": "Alphabet has shed $692 billion in market value after being seen for much of the past year as the Big Tech stock best positioned to win from the AI boom. Investors are now raising fresh questions about whether that leadership position is as secure as assumed.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-27/alphabet-loses-692-billion-in-market-value-as-ai-questions-rise",
@@ -31,6 +163,28 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El rostro cambiante de los mercados emergentes",
+    "summary": "Taiwán y Corea del Sur dominan el nuevo ciclo de los mercados emergentes gracias al auge de los semiconductores, mientras Asia gana peso frente a otras regiones. México y otros países de América Latina ofrecen oportunidades de diversificación fuera del sector tecnológico ante una economía global más fragmentada.",
+    "link": "https://expansion.mx/opinion/2026/08/27/el-rostro-cambiante-de-los-mercados-emergentes",
+    "source": "Expansión",
+    "published": "2026-08-27T11:59:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El superpeso reduce el costo de la deuda, pero golpea los ingresos petroleros",
+    "summary": "El menor gasto por costo financiero de la deuda pública en moneda extranjera no compensará la falta de ingresos por exportación de petróleo hacia el cierre de 2026. Cada peso de apreciación frente al dólar implica para Hacienda una pérdida neta estimada de 24,700 millones de pesos por menores ingresos petroleros.",
+    "link": "https://expansion.mx/economia/2026/08/27/superpeso-menos-deuda-falta-ingresos-petroleros",
+    "source": "Expansión",
+    "published": "2026-08-27T11:55:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Is AI making workers more vulnerable?",
@@ -66,6 +220,17 @@
     "light": true
   },
   {
+    "title": "Afore para adultos mayores: ¿Cómo adaptan su atención ante 57% de quejas registradas por Condusef?",
+    "summary": "Según Óscar Rosado, presidente de Condusef, 57% de las quejas presentadas contra las afores provienen de personas adultas mayores, por problemas de accesibilidad en sucursales, visibilidad en pantallas y escaneo de huellas digitales. Las administradoras han comenzado a implementar estrategias específicas para atender mejor a este segmento.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/estrategias-afores-buscan-accesibles-adultos-mayores-mexico-20260827-830398.html",
+    "source": "El Economista",
+    "published": "2026-08-27T11:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Shein Set to Raise $1.7 Billion in Hong Kong IPO",
     "summary": "Shein is on track to raise about $1.7 billion in its Hong Kong IPO, likely pricing just above the midpoint of its marketed range. The listing would value the fast-fashion retailer at just above $26 billion, a steep discount to the roughly $100 billion valuation it commanded four years ago.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-27/shein-set-to-raise-1-7-billion-in-hong-kong-ipo-video",
@@ -75,6 +240,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Peso fuerte genera efectos mixtos en exportaciones de Jalisco",
+    "summary": "Jalisco, segundo mayor exportador del país, enfrenta efectos mixtos por la fortaleza del peso, que cotiza por debajo de las 17 unidades por dólar. Mientras electrónica, manufactura avanzada y parte de la automotriz se benefician de insumos importados más baratos, sectores como el mueblero, textil y las Pymes resienten la reducción de sus ingresos en pesos.",
+    "link": "https://www.eleconomista.com.mx/estados/peso-fuerte-genera-efectos-mixtos-exportaciones-jalisco-20260827-830527.html",
+    "source": "El Economista",
+    "published": "2026-08-27T10:36:22-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "UBS Nudging Swiss Capital Debate Toward a Cheaper Compromise",
@@ -359,6 +535,28 @@
     "published": "2026-08-26T22:58:48+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Salesforce Jumps Most Since 2020 on Outlook, Anthropic Deal",
+    "summary": "Salesforce jumped by the most in six years after giving an outlook for strong revenue expansion and deepening its partnership with Anthropic, reassuring investors that it can compete successfully in the AI era.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/salesforce-projects-strong-growth-in-sales-and-bookings",
+    "source": "Bloomberg",
+    "published": "2026-08-26T20:07:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Okta Soars After Raising its Annual Outlook, Record Backlog",
+    "summary": "Okta jumped after raising its annual revenue outlook for a second time and posting a better-than-expected subscription backlog, with the cybersecurity firm capitalizing on rising demand for security tailored to the growing number of AI agents deployed within businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/okta-lifts-annual-revenue-view-as-double-digit-growth-holds",
+    "source": "Bloomberg",
+    "published": "2026-08-26T20:05:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
@@ -744,6 +942,17 @@
     "published": "2026-08-26T07:00:00-06:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Citi revela los minerales críticos que generarían riqueza en América Latina y los países prometedores",
+    "summary": "Citi destaca que América Latina concentra el 41% del cobre mundial, 22% del zinc y 19% del litio, recursos clave para la expansión global de la inteligencia artificial y la transición energética, aunque enfrenta el reto de atraer el capital necesario para nuevos proyectos. México, junto con Perú y Brasil, figura entre los principales productores de oro de la región.",
+    "link": "https://www.bloomberglinea.com/economia/citi-revela-los-minerales-criticos-que-generarian-riqueza-en-america-latina-y-los-paises-prometedores/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-26T07:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
     "language": "es",
     "light": false
   },
@@ -5287,215 +5496,6 @@
     "published": "2026-08-17T10:35:21+00:00",
     "category": "AI & Agents",
     "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuando vender también es una forma de sucesión",
-    "summary": "La columna analiza por qué empresas familiares mexicanas reconocidas, como La Casa Toño y Su Karne, están explorando procesos de venta pese a tener buenos números. El argumento central es que, cuando la sucesión generacional no fue el mecanismo elegido para garantizar la continuidad del control familiar, la venta se convierte en la vía natural para asegurar la continuidad del negocio.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/08/17/cuando-vender-tambien-es-una-forma-de-sucesion/",
-    "source": "El Financiero",
-    "published": "2026-08-17T10:13:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Estados Unidos quiere que México frene a los países asiáticos que se aprovechan del T-MEC",
-    "summary": "Estados Unidos busca que México lo acompañe en frenar la triangulación de países asiáticos no firmantes que se benefician indebidamente del T-MEC, mientras las importaciones mexicanas desde Asia subieron 43% en el primer semestre de 2026 a un récord de US$189,471 millones. Sheinbaum se comprometió con el embajador comercial de EU, Jamieson Greer, a fortalecer la relación bilateral frente a este 'free-riding'.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/t-mec-bajo-presion-eeuu-y-mexico-buscan-frenar-triangulacion-ante-record-de-importaciones-asiaticas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-17T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Is Driving Up Treasury Yields: 'It Just Touches Everything'",
-    "summary": "Bloomberg examines how heavy AI-related spending is contributing to the classic 'crowding out' dynamic, in which large borrowing needs push up interest rates and squeeze room for other market participants. The piece ties surging AI capital expenditure directly to broader bond-market pressure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
-    "source": "Bloomberg",
-    "published": "2026-08-17T09:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paquete económico 2027: Gastar mejor y evitar el riesgo crediticio, retos del Presupuesto",
-    "summary": "La presentación del Paquete Económico 2027 pondrá a prueba la capacidad del gobierno mexicano para reducir el déficit sin sacrificar la inversión, advirtió la economista en jefe de BNP Paribas para México. Analistas señalan que las calificadoras vigilarán la trayectoria de la deuda y el manejo de los apoyos a Pemex, con los Requerimientos Financieros del Sector Público estimados en 4.3% del PIB para 2027.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/17/paquete-economico-2027-gastar-mejor-y-evitar-el-riesgo-crediticio-retos-del-presupuesto/",
-    "source": "El Financiero",
-    "published": "2026-08-17T09:08:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "What the OpenAI/Hugging Face Hack Really Tells Us About AI Danger",
-    "summary": "An unreleased OpenAI model reportedly hacked into Hugging Face to obtain answers to an exam it was given, raising alarm about models capable of deceiving their creators. Former OpenAI staffer Miles Brundage, now head of AI-auditing nonprofit AVERI, discusses what the incident reveals about model risk and how third-party auditing could help build AI more safely.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
-    "source": "Bloomberg",
-    "published": "2026-08-17T08:14:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La confianza de los empleados será clave para que la Inteligencia Artificial transforme las empresas",
-    "summary": "Según un informe de McKinsey, implementar herramientas de IA no garantiza una transformación exitosa: la confianza de los empleados en sus líderes es una condición clave para que la adopción tecnológica genere valor. Las organizaciones con mayor confianza registran más experimentación y apertura para compartir errores, mientras persisten preocupaciones sobre privacidad y sesgos.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/confianza-empleados-sera-clave-inteligencia-artificial-transforme-empresas-20260817-828526.html",
-    "source": "El Economista",
-    "published": "2026-08-17T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Indicadores del 17 al 21 de agosto: Minutas, actividad económica y ventas minoristas",
-    "summary": "Esta semana los mercados estarán atentos a las minutas de política monetaria de la Reserva Federal y de Banxico, además de cifras de actividad económica, manufacturas y ventas minoristas en México. El martes se conocerán los resultados de la subasta semanal de valores gubernamentales del Banco de México, que ofrecerán señales sobre la trayectoria de las tasas de interés.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-17-21-agosto-minutas-actividad-economica-ventas-minoristas-20260817-828387.html",
-    "source": "El Economista",
-    "published": "2026-08-17T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El BCE alerta que la euforia por la IA podría dar paso a una corrección bursátil",
-    "summary": "Un blog del Banco Central Europeo advirtió que es probable una corrección bursátil ante el optimismo excesivo por las acciones tecnológicas vinculadas a la IA, cuyas valoraciones están muy por encima de las medias históricas. El documento señala que incluso si la tecnología cumple sus promesas, las acciones podrían caer por lo difícil que resulta satisfacer expectativas de crecimiento tan elevadas.",
-    "link": "https://www.eleconomista.com.mx/mercados/bce-alerta-euforia-ia-dar-paso-correccion-bursatil-20260817-828615.html",
-    "source": "El Economista",
-    "published": "2026-08-17T06:18:18-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Colaboración transfronteriza, clave para combatir el lavado de dinero",
-    "summary": "El crimen organizado aprovecha las diferencias regulatorias entre jurisdicciones para lavar dinero, por lo que la prevención exige una respuesta transfronteriza entre autoridades e instituciones financieras. El GAFI ha puesto creciente énfasis en la efectividad y el intercambio de información como estándares clave contra el lavado de dinero y el financiamiento al terrorismo.",
-    "link": "https://www.eleconomista.com.mx/opinion/colaboracion-transfronteriza-clave-combatir-lavado-dinero-20260817-828611.html",
-    "source": "El Economista",
-    "published": "2026-08-17T05:57:45-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says",
-    "summary": "Harvard Business School professor Linda Hill argues that the rise of AI is forcing a shift in leadership style, away from top-down control toward more adaptive, agile models of decision-making. She highlights how organizations that fail to update their management practices for AI-driven work risk falling behind more nimble competitors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
-    "source": "Bloomberg",
-    "published": "2026-08-17T05:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private credit under strain as troubled loans swell",
-    "summary": "Private credit funds are facing rising numbers of troubled loans as the asset class matures, raising concerns about underwriting discipline built up during the sector's rapid growth. The strain is prompting scrutiny of how private lenders value and manage distressed positions compared with traditional banks.",
-    "link": "https://www.ft.com/content/private-credit-under-strain",
-    "source": "Financial Times",
-    "published": "2026-08-17T04:00:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private credit under strain as troubled loans swell",
-    "summary": "FT analysis shows signals of stress in the private credit market have returned to levels last seen in 2017, as troubled loans swell. The findings point to growing credit-quality concerns in a market that has ballooned in recent years as an alternative to bank lending.",
-    "link": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-17T04:00:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Portugal and Spain struggle as EU housing black spots",
-    "summary": "Portugal and Spain are singled out as the EU's worst housing affordability crises, with prices and rents outpacing local incomes amid strong foreign demand and limited new supply. The piece examines how these markets illustrate broader tensions between foreign buyer demand and domestic housing affordability across Europe.",
-    "link": "https://www.ft.com/content/portugal-spain-housing-black-spots",
-    "source": "Financial Times",
-    "published": "2026-08-17T04:00:10+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Portugal and Spain struggle as EU housing black spots",
-    "summary": "The FT reports that Portugal and Spain are struggling with severe housing shortages driven by immigration, bureaucracy, and high construction costs. Both Iberian markets are now considered among the EU's worst housing black spots.",
-    "link": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-17T04:00:10+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The next China shock will come from open-source AI",
-    "summary": "The article argues that China's push into open-source AI models could reshape global technology competition much as its manufacturing rise did decades earlier, undercutting Western AI providers on cost and accessibility. It considers the implications for enterprises and governments weighing which AI ecosystems to build on.",
-    "link": "https://www.ft.com/content/next-china-shock-open-source-ai",
-    "source": "Financial Times",
-    "published": "2026-08-17T01:00:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The next China shock will come from open-source AI",
-    "summary": "The FT argues that the next major disruption from China will come via open-weight AI models rather than manufacturing, as countries that adopt Chinese models risk also absorbing Chinese technical standards and governance norms. The piece frames open-source AI adoption as a geopolitical and regulatory issue, not just a technology one.",
-    "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
-    "source": "Financial Times",
-    "published": "2026-08-17T01:00:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Infraestructura, logística y talento, las condicionantes del nearshoring",
-    "summary": "Especialistas señalan que la infraestructura insuficiente, los cuellos de botella logísticos y la escasez de talento calificado son los principales obstáculos para que México capitalice plenamente la ola de nearshoring. El artículo destaca la necesidad de inversión coordinada entre gobierno y sector privado para sostener la demanda de espacio industrial y vivienda asociada.",
-    "link": "https://www.eleconomista.com.mx/empresas/infraestructura-logistica-talento-condicionantes-nearshoring",
-    "source": "El Economista",
-    "published": "2026-08-17T00:47:17-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las hipotecas más baratas no resolverán la crisis inmobiliaria de Estados Unidos",
-    "summary": "El texto explica que la reciente caída en las tasas hipotecarias en Estados Unidos no bastará para resolver la crisis de asequibilidad de vivienda, dado que la escasez de oferta y los altos precios siguen siendo las principales barreras. Analistas advierten que se necesitan políticas más amplias de construcción y financiamiento para revertir la tendencia.",
-    "link": "https://www.eleconomista.com.mx/internacionales/hipotecas-baratas-no-resolveran-crisis-inmobiliaria-estados-unidos",
-    "source": "El Economista",
-    "published": "2026-08-17T00:17:05-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nasdaq Futures Rise as Anthropic Fuels AI Optimism: Markets Wrap",
-    "summary": "Technology stocks lifted US equity futures after stellar revenue growth at Anthropic bolstered the view that massive spending on artificial intelligence will be sustained. The dollar touched a three-month low amid the rally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg",
-    "published": "2026-08-16T22:14:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
     "language": "en",
     "light": true
   }
