@@ -1,5 +1,170 @@
 [
   {
+    "title": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise",
+    "summary": "Alphabet has shed $692 billion in market value after being seen for much of the past year as the Big Tech stock best positioned to win from the AI boom. Investors are now raising fresh questions about whether that leadership position is as secure as assumed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/alphabet-loses-692-billion-in-market-value-as-ai-questions-rise",
+    "source": "Bloomberg",
+    "published": "2026-08-27T12:31:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Credit Default Swap Market Surges as AI Spend Booms",
+    "summary": "As Big Tech races toward trillions of dollars in planned AI capital spending, credit default swap markets are showing signs of stress, a key indicator of rising credit-risk perception. The move suggests investors are starting to price in the financing risk behind the AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-27/credit-default-swap-market-surges-as-ai-spend-booms-video",
+    "source": "Bloomberg",
+    "published": "2026-08-27T12:25:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bain Fund Buys Stake in Clearing Broker RQD* Amid Options Boom",
+    "summary": "Bain Capital is taking an equity stake in stock and options intermediary RQD* Clearing, joining a wave of new capital flowing into clearing and custody markets. The deal reflects growing private-equity interest in the infrastructure behind the options trading boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/bain-fund-buys-stake-in-clearing-broker-rqd-amid-options-boom",
+    "source": "Bloomberg",
+    "published": "2026-08-27T12:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Is AI making workers more vulnerable?",
+    "summary": "A new study may offer the clearest evidence yet linking AI adoption to employer decisions to rethink or eliminate roles, an area where hard data on job displacement has been scarce. The findings feed a broader debate over how much of current labor-market softness is attributable to AI rather than other cyclical factors.",
+    "link": "https://www.ft.com/content/0a23420d-dc80-4b39-8321-a0218cad0267?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-27T11:30:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La construcción hoy depende de la obra pública",
+    "summary": "La construcción en México muestra señales de recuperación, con un crecimiento de 6.9% anual en junio según el INEGI, pero el impulso proviene casi enteramente de la obra pública: agua y saneamiento crecieron 303%, ferrocarriles 250% y electricidad 82%. En contraste, la inversión privada cayó 1.1% y la construcción residencial retrocedió 5.4% pese al programa nacional de vivienda.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/27/la-construccion-hoy-depende-de-la-obra-publica/",
+    "source": "El Financiero",
+    "published": "2026-08-27T11:05:10+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Human Reviewers Need Support to Keep AI Models From Going Rogue",
+    "summary": "AI lab staff tasked with reviewing model behavior need stronger backing from leadership to catch problems before they reach users, according to the piece. Without that support, human oversight processes meant to prevent AI models from acting unpredictably risk becoming a weak link.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-27/human-reviewers-need-support-to-keep-ai-models-from-going-rogue",
+    "source": "Bloomberg",
+    "published": "2026-08-27T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Shein Set to Raise $1.7 Billion in Hong Kong IPO",
+    "summary": "Shein is on track to raise about $1.7 billion in its Hong Kong IPO, likely pricing just above the midpoint of its marketed range. The listing would value the fast-fashion retailer at just above $26 billion, a steep discount to the roughly $100 billion valuation it commanded four years ago.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-27/shein-set-to-raise-1-7-billion-in-hong-kong-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-08-27T10:44:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS Nudging Swiss Capital Debate Toward a Cheaper Compromise",
+    "summary": "Swiss lawmakers are coalescing around a possible compromise on UBS Group's capital regulation that could lower the cost of meeting the government's $20 billion capital demand. The shift suggests the long-running standoff over how much extra capital UBS must hold may be easing toward a cheaper resolution.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/ubs-is-nudging-swiss-capital-debate-toward-a-cheaper-compromise",
+    "source": "Bloomberg",
+    "published": "2026-08-27T10:23:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Camacol propone un régimen especial de vivienda y la devolución del IVA tras el terremoto",
+    "summary": "Camacol propuso al gobierno colombiano un régimen especial de vivienda y un esquema nacional de bancos de materiales para la reconstrucción tras el terremoto del 10 de agosto, inspirado en el modelo VIVA de Antioquia. El gremio constructor busca replicar a escala nacional una plataforma que ya mostró resultados en la provisión de insumos para vivienda social y atención de emergencias.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/camacol-propone-un-regimen-especial-de-vivienda-para-la-reconstruccion-tras-el-terremoto/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-27T10:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Retail atrae marcas internacionales",
+    "summary": "Doce marcas internacionales se establecieron en el primer semestre del año en centros comerciales de CDMX, Guadalajara, Monterrey, Los Cabos y Riviera Maya, según CBRE México, en categorías de lujo, moda, gastronomía y bienestar. El reporte destaca que mientras algunos formatos tradicionales muestran señales de moderación, las categorías de mayor valor mantienen resiliencia ante un consumidor más selectivo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/08/27/retail-atrae-marcas-internacionales/",
+    "source": "El Financiero",
+    "published": "2026-08-27T10:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gran prueba para el GNL argentino: buscan financiamiento por US$17.000 millones entre bancos globales",
+    "summary": "Dos proyectos de exportación de gas natural licuado de Vaca Muerta —Argentina LNG (YPF, Eni, XRG) y Southern Energy (PAE, YPF, Pampa Energía, Harbour Energy, Golar LNG)— avanzan en negociaciones para levantar en conjunto cerca de US$17,000 millones con bancos internacionales. Argentina LNG evalúa un paquete de deuda de hasta US$16,000 millones, mientras Southern Energy está cerca de cerrar US$900 millones.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gran-prueba-para-el-gnl-argentino-buscan-financiamiento-por-us17000-millones-entre-bancos-globales/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-27T09:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Germany Running Short of AI Compute Capacity, Minister Says",
+    "summary": "Germany's top digital policy official said surging AI demand is straining data-center capacity in Europe's largest economy. The shortage highlights how compute availability is becoming a bottleneck for AI adoption even in advanced economies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/germany-running-short-of-ai-compute-capacity-minister-says",
+    "source": "Bloomberg",
+    "published": "2026-08-27T08:01:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Stripe Says AI Helps Asian Firms Expand Globally at Record Pace",
+    "summary": "Stripe says AI tools are letting Asian businesses expand into new international markets faster than ever before, according to comments from its Southeast Asia managing director. The company frames AI adoption as a key driver behind record-pace global expansion among its regional merchants.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
+    "source": "Bloomberg",
+    "published": "2026-08-27T07:01:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Polonia insta a la UE a multar con 250 millones de euros a Meta por estafas y anuncios falsos",
+    "summary": "Polonia solicitó a la Comisión Europea imponer una multa de 250 millones de euros a Meta Platforms, acusando a la compañía de no atender adecuadamente los anuncios fraudulentos en sus plataformas. La petición se suma a la presión regulatoria europea sobre las grandes tecnológicas por publicidad engañosa y protección al consumidor.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/polonia-insta-ue-multar-250-millones-euros-meta-estafas-anuncios-falsos-20260827-830497.html",
+    "source": "El Economista",
+    "published": "2026-08-27T06:41:05-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia acuerda comprar Hugging Face por 12,900 millones de dólares: The Information",
+    "summary": "Nvidia acordó comprar Hugging Face, el popular repositorio de modelos de IA de código abierto, por 12,900 millones de dólares, según reportó The Information citando una fuente cercana al acuerdo. De concretarse, sería una de las mayores adquisiciones de Nvidia y reforzaría su control sobre la infraestructura del ecosistema de inteligencia artificial abierta.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-acuerda-comprar-hugging-face-12-900-millones-dolares-the-information-20260827-830492.html",
+    "source": "El Economista",
+    "published": "2026-08-27T06:21:26-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cheap Tokens, Costly Chips and a Missing AI Payoff",
     "summary": "AI token prices are collapsing even as the cost of the chips and infrastructure needed to build AI keeps climbing. Equity investors spent the summer trying to work out who gets squeezed between cheap output and expensive input costs.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-27/cheap-tokens-costly-chips-and-a-missing-ai-payoff-taking-stock",
@@ -44,6 +209,17 @@
     "light": true
   },
   {
+    "title": "Jane Street's growing pains",
+    "summary": "Jane Street, the notoriously secretive trading firm, may need to change how it operates as its size and risk appetite continue to grow. The piece frames the firm's expansion as testing the limits of the low-profile model that built its success.",
+    "link": "https://www.ft.com/content/ea9c073d-4e9d-4e8a-98c0-68e278faa081?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-27T04:00:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Junior consultants called back to office as AI increases need for human skills",
     "summary": "Consulting firm executives say AI has made interpersonal and human skills more valuable, prompting them to call junior consultants back into the office. The shift reflects a broader rethink of how firms develop talent as AI automates more routine analytical work.",
     "link": "https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52?syn-25a6b1a6=1",
@@ -51,6 +227,17 @@
     "published": "2026-08-27T04:00:10+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Probes Singapore Firm Over Alleged Nvidia Chip Smuggling",
+    "summary": "US authorities are investigating Singapore-based Apex Logistics over its suspected role in smuggling Nvidia AI chips to China, in what could become the first enforcement action against a transportation company for alleged semiconductor-export violations. The probe reflects intensifying US efforts to police AI chip export controls.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling",
+    "source": "Bloomberg",
+    "published": "2026-08-27T03:54:17+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -121,6 +308,17 @@
     "light": false
   },
   {
+    "title": "Kioxia, Sandisk Plan $31 Billion Japan Memory Chip Expansion",
+    "summary": "Kioxia and Sandisk plan to spend more than ¥5 trillion ($31.4 billion) to expand memory chip production capacity in Japan. The investment targets a critical AI data-center component that is currently in short supply amid the broader AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-27/kioxia-plans-new-chip-facility-in-japan-to-meet-ai-memory-demand",
+    "source": "Bloomberg",
+    "published": "2026-08-27T00:06:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Crecimiento económico, claroscuros: Banxico",
     "summary": "Un análisis sobre la lectura de Banxico de la economía mexicana identifica claroscuros: la incertidumbre por la relación comercial con Estados Unidos y la revisión del T-MEC siguen debilitando la inversión, mientras otros indicadores muestran señales más alentadoras. El texto resume la perspectiva mixta del banco central de cara al mediano plazo.",
     "link": "https://www.eleconomista.com.mx/opinion/crecimiento-economico-claroscuros-banxico-20260827-830459.html",
@@ -152,6 +350,17 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Meta settles its blockbuster trial for up to $17bn",
+    "summary": "Meta has agreed to settle a blockbuster trial for up to $17 billion, resolving claims tied to how its platforms affect teenage users. The settlement will require the company to change how teens can use Facebook and Instagram, though the changes reportedly apply only to US users for now.",
+    "link": "https://www.economist.com/business/2026/08/26/meta-settles-its-blockbuster-trial-for-up-to-17bn",
+    "source": "The Economist",
+    "published": "2026-08-26T22:58:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
   },
   {
     "title": "OpenAI Says It Could Have Reacted Sooner to Prevent AI Hack of Hugging Face",
@@ -253,6 +462,17 @@
     "light": true
   },
   {
+    "title": "BTG Pactual ve 10 oportunidades para crear valor en Ecopetrol, pero su nuevo presidente será clave",
+    "summary": "BTG Pactual identifica diez palancas de creación de valor para Ecopetrol, pero advierte que aprovecharlas dependerá de quién asuma la presidencia de la petrolera tras la salida de Ricardo Roa, sucesión aún sin resolver. La firma mantiene una recomendación Neutral sobre la acción mientras el mercado espera claridad sobre el liderazgo.",
+    "link": "https://www.bloomberglinea.com/mercados/btg-pactual-ve-10-oportunidades-para-crear-valor-en-ecopetrol-pero-su-nuevo-presidente-sera-clave/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-26T16:42:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Five Takeaways From Bill Gates’ Essay on AI’s Potential Risks",
     "summary": "Bill Gates published an essay urging tech companies and regulators to urgently confront the risks posed by increasingly powerful AI systems. The intervention adds a high-profile voice to the debate over AI governance and safety just as enterprise adoption accelerates.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/five-takeaways-from-bill-gates-essay-on-ai-s-potential-risks",
@@ -283,6 +503,17 @@
     "category": "AI & Agents",
     "relevance_score": 74,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "El Trebol House / Engelman Estudio",
+    "summary": "Casa El Trébol sits at the highest point of its namesake neighborhood in San Carlos de Bariloche, Argentine Patagonia, set within a dense native forest on a steep slope. Engelman Estudio designed the house as a processional route through the forest that culminates in framed views of Laguna El Trébol.",
+    "link": "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
+    "source": "ArchDaily",
+    "published": "2026-08-26T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
     "light": false
   },
   {
@@ -5267,236 +5498,5 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
-    "summary": "Payments giant Stripe has agreed to acquire AI infrastructure company OpenRouter in a deal valued at more than $7 billion, marking one of the largest fintech-AI acquisitions to date. The purchase signals Stripe's ambition to embed AI routing and agent infrastructure deeper into its payments and financial services stack.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter",
-    "source": "Bloomberg",
-    "published": "2026-08-16T19:32:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fed’s Internal Rate Debate Faces New Scrutiny",
-    "summary": "Las minutas de la reunión de julio de la Fed mostrarán el debate interno tras tres disensos a favor de subir un cuarto de punto, una división inusualmente visible en medio de inflación elevada y datos mixtos. BMO Capital Markets espera que la Fed mantenga paciencia y no mueva tasas hasta finales de 2027.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video",
-    "source": "Bloomberg",
-    "published": "2026-08-16T15:34:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cuáles son los principales escollos en América Latina para lograr una consolidación fiscal?",
-    "summary": "Los gobiernos de América Latina enfrentan un gasto público cada vez más rígido: intereses, salarios, subsidios y transferencias absorbieron en promedio 77% del gasto de 18 países en 2024, frente a 75% en 2019, según Moody's. La deuda mediana subió de 45% a 55% del PIB entre 2019 y 2025, reduciendo el margen para responder a nuevos choques.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/cuales-son-los-principales-escollos-en-america-latina-para-lograr-una-consolidacion-fiscal/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-16T14:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "UIF y Nacer Global firman convenio para capacitar en prevención de lavado de dinero en actividades vulnerables",
-    "summary": "La Unidad de Inteligencia Financiera (UIF) firmó un convenio con Nacer Global para capacitar a sectores económicos y financieros en la prevención e identificación de operaciones con recursos de procedencia ilícita. El grupo educativo, dueño de El Economista, desarrollará los contenidos autorizados por la UIF, encabezada por Omar Reyes Colmenares.",
-    "link": "https://www.eleconomista.com.mx/politica/uif-nacer-global-firman-convenio-capacitar-prevencion-lavado-dinero-actividades-vulnerables-20260816-828494.html",
-    "source": "El Economista",
-    "published": "2026-08-16T12:34:11-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-    "summary": "Enthusiasm for Big Tech's massive AI investments is pushing the stock market to fresh record highs, powered by a resilient economy and strong demand. The one clear risk to the rally, the piece argues, is the possibility of higher interest rates derailing the momentum.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
-    "source": "Bloomberg",
-    "published": "2026-08-16T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)",
-    "summary": "A Bloomberg podcast discusses how emerging-market investors are looking beyond Brazil and Mexico for opportunities in inflation-linked bonds, as EM debt traders become pickier about where they allocate capital.",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast",
-    "source": "Bloomberg",
-    "published": "2026-08-16T12:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
-    "summary": "Las preocupaciones persistentes por inflación y los movimientos cambiarios están llevando a los inversionistas de mercados emergentes a ajustar sus posiciones en una clase de activos de 886,000 millones de dólares que ha entregado rendimientos extraordinarios durante más de un año. Los operadores se vuelven más selectivos tras el fuerte repunte reciente.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/traders-get-pickier-after-big-run-in-886-billion-em-debt-market",
-    "source": "Bloomberg",
-    "published": "2026-08-16T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
-    "summary": "Brian Chesky, cofundador y CEO de Airbnb, señaló que los desafíos de vivienda y asequibilidad que enfrentan las ciudades son de una magnitud mayor a lo que su plataforma puede resolver por sí sola, según declaraciones recogidas por Expansión.",
-    "link": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
-    "source": "Expansión",
-    "published": "2026-08-16T12:20:30+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
-    "summary": "El CEO de Airbnb, Brian Chesky, señala que la crisis de asequibilidad de vivienda es un problema estructural que excede el alcance de su plataforma, y llama a repensar cómo se financia y construye vivienda a nivel global. Sus comentarios llegan en medio de un debate creciente sobre el rol de las plataformas de hospedaje en la disponibilidad de vivienda.",
-    "link": "https://expansion.mx/economia/2026/08/16/brian-chesky-desafios-vivienda-mas-grandes-que-airbnb",
-    "source": "Expansión",
-    "published": "2026-08-16T12:20:30+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Un PIB estancado: por qué México no crece",
-    "summary": "El artículo analiza por qué el Producto Interno Bruto de México se mantiene estancado y explora las razones detrás de la falta de crecimiento económico del país.",
-    "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
-    "source": "Expansión",
-    "published": "2026-08-16T12:16:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Un PIB estancado: por qué México no crece",
-    "summary": "El artículo analiza las causas estructurales del bajo crecimiento del PIB mexicano, incluyendo baja inversión, productividad estancada y un entorno regulatorio que limita la competitividad. Señala las implicaciones de este estancamiento para el sector financiero y de crédito del país.",
-    "link": "https://expansion.mx/economia/2026/08/16/pib-estancado-por-que-mexico-no-crece",
-    "source": "Expansión",
-    "published": "2026-08-16T12:16:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
-    "summary": "Private equity has long promised better returns than public markets, but higher interest rates have made debt-financed buyouts harder to justify. Deals struck at peak valuations in 2020 and 2021 are proving increasingly difficult to exit, challenging the industry's traditional playbook.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video",
-    "source": "Bloomberg",
-    "published": "2026-08-16T12:03:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
-    "summary": "Mientras los inversionistas debaten si y cuándo la Reserva Federal volverá a subir tasas, las expectativas de mayor endurecimiento monetario se están construyendo a nivel global, lo que representa un problema adicional para los bonos.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
-    "source": "Bloomberg",
-    "published": "2026-08-16T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La infraestructura digital y el mercado laboral frente al avance de la inteligencia artificial",
-    "summary": "Especialistas reunidos por el Sindicato de Telefonistas advirtieron que la transición de México hacia la economía digital y la IA enfrenta falta de espectro para redes 5G puras, concentración de mercado que reduce salarios frente a la productividad, y la urgencia de ajustar marcos legislativos para garantizar supervisión humana en procesos automatizados. El especialista Jorge Bravo señaló que México se ubica en un nivel medio de adopción tecnológica en América Latina.",
-    "link": "https://www.eleconomista.com.mx/empresas/infraestructura-digital-mercado-laboral-frente-avance-inteligencia-artificial-20260816-828490.html",
-    "source": "El Economista",
-    "published": "2026-08-16T11:52:33-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
-    "summary": "El fondo soberano de Noruega, el mayor del mundo, mantiene su apuesta por América Latina, con Brasil y México como sus principales mercados regionales dentro de una cartera que combina acciones y deuda en seis economías. El fondo tenía cerca de US$16,000 millones invertidos en la región, con posiciones en empresas como Itaú, Petrobras y Cemex.",
-    "link": "https://www.bloomberglinea.com/mercados/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-16T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De Itaú y Petrobras a Cemex: así invierte el mayor fondo soberano del mundo en América Latina",
-    "summary": "El fondo soberano más grande del mundo ha construido posiciones en grandes empresas latinoamericanas, incluyendo la mexicana Cemex, como parte de una estrategia de exposición a la región. El reportaje detalla cómo estos flujos de capital institucional están influyendo en la valuación de activos corporativos en América Latina.",
-    "link": "https://www.bloomberglinea.com/negocios/de-itau-y-petrobras-a-cemex-asi-invierte-el-mayor-fondo-soberano-del-mundo-en-america-latina",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-16T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The sports billionaire threatening to upend Wall Street",
-    "summary": "Billionaire Mark Walter's much-copied strategy of leveraging insurance companies to build a sprawling investment empire has drawn growing regulatory scrutiny. The approach, which other investors have sought to replicate, raises questions about how far insurer balance sheets can be pushed as a financing tool.",
-    "link": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-16T10:00:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Dónde está la vivienda más cara de México?",
-    "summary": "El precio promedio nacional de la vivienda en México llegó a 32,274 pesos por metro cuadrado en julio, con un alza de 0.5% mensual y 4.7% anual, según el Indicador Banorte de Precios de la Vivienda (Inbaprevi). El banco atribuye la tendencia alcista a la dinámica de los ingresos de los trabajadores, aunque los precios varían de forma significativa entre entidades.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-cara-mexico-20260816-828474.html",
-    "source": "El Economista",
-    "published": "2026-08-16T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La vivienda exige materiales que duren más y sean más eficientes",
-    "summary": "Los materiales de construcción para vivienda en México incorporan cada vez más criterios de durabilidad, eficiencia energética y mantenimiento, no solo precio y apariencia. Según el Inegi, 92.6% de las 38.1 millones de viviendas del país usa tabique, ladrillo, block, piedra o concreto, materiales que ganan relevancia en proyectos privados y de vivienda pública.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-exige-materiales-duren-sean-eficientes-20260816-828412.html",
-    "source": "El Economista",
-    "published": "2026-08-16T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google reorganiza su división de IA para acelerar el desarrollo de Gemini",
-    "summary": "El cofundador de Google, Sergey Brin, ha presionado en los últimos meses al equipo de IA para acelerar Gemini, luego de que Anthropic mostrara un adelanto de su modelo Claude Mythos y Gemini perdiera el liderazgo frente a rivales como OpenAI. Google retrasó dos meses el lanzamiento de su nueva versión insignia tras pruebas internas que mostraron un rendimiento inferior en áreas como programación, lo que llevó a una reorganización de DeepMind el 5 de agosto.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/google-reorganiza-division-ia-acelerar-desarrollo-gemini-20260816-828476.html",
-    "source": "El Economista",
-    "published": "2026-08-16T08:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La nueva era del “superpeso”: ¿cuánto durará?",
-    "summary": "El dólar perforó la barrera de los 17 pesos y llegó a cotizar en 16.97, su nivel más bajo desde junio de 2024. La columna repasa la historia cambiaria de México desde la paridad fija de 1954-1976 hasta hoy para poner en contexto la actual fortaleza del peso y qué podría venir.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/15/la-nueva-era-del-superpeso-cuanto-durara/",
-    "source": "El Financiero",
-    "published": "2026-08-16T03:48:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
   }
 ]
