@@ -1,5 +1,115 @@
 [
   {
+    "title": "La IA puede revivir tu rostro y tu voz, pero ¿quién decide qué hace con ellos?",
+    "summary": "Un reportaje analiza cómo la inteligencia artificial permite recrear el rostro y la voz de personas, incluidas las fallecidas, y plantea la pregunta de quién controla y decide el uso de esos datos. El tema expone vacíos regulatorios en torno a la IA generativa y los derechos de imagen.",
+    "link": "https://expansion.mx/tecnologia/2026/08/28/ia-voz-fotos-despues-de-morir-ia-puede-usarlas",
+    "source": "Expansión",
+    "published": "2026-08-28T11:55:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
+    "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
+    "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-freno-adquisiciones-internacionales",
+    "source": "Expansión",
+    "published": "2026-08-28T11:55:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
+    "summary": "La CFE financiará 54% de sus inversiones con alianzas y recursos del sector privado fuera de su balance contable durante el sexenio de Sheinbaum, con proyectos por 37,500 millones de dólares en generación, transmisión y distribución eléctrica. El esquema busca atraer capital privado para expandir la infraestructura energética de México.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-28T11:52:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Investor Frenzy for AI Strips Safeguards From Convertible Bonds",
+    "summary": "Investors chasing exposure to the AI boom are accepting weaker covenants on convertible bonds, giving up protections they would normally demand. The trend is pushing the market toward risk-taking levels last seen during the pandemic.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/investor-frenzy-for-ai-strips-safeguards-from-convertible-bonds",
+    "source": "Bloomberg",
+    "published": "2026-08-28T11:23:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ambani’s Jio Platforms IPO Plan Gets Regulatory Approval",
+    "summary": "Jio Platforms, the telecom and digital arm of Mukesh Ambani's conglomerate, received regulatory approval for its IPO, clearing a key hurdle in its long-awaited plan to go public. The listing would be one of the largest capital markets events in India this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/ambani-s-jio-platforms-ipo-plan-gets-regulatory-approval",
+    "source": "Bloomberg",
+    "published": "2026-08-28T11:22:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese AI Labs Alibaba and Moonshot Bet on Free Models Now, Fees Later",
+    "summary": "Chinese AI labs Alibaba and Moonshot are offering their AI models for free for now, betting they can monetize through fees later as they compete for market share. The strategy reflects the intensifying price war among Chinese AI developers.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-28/chinese-ai-labs-alibaba-and-moonshot-bet-on-free-models-now-fees-later",
+    "source": "Bloomberg",
+    "published": "2026-08-28T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Grupo Cibest ve espacio para invertir pese a las tasas altas y prepara expansión de sus negocios financieros",
+    "summary": "El presidente de Grupo Cibest, Juan Carlos Mora, ve una actitud positiva entre empresarios colombianos para retomar inversiones pese a las tasas de interés altas, y adelantó que el grupo prepara nuevos pasos para expandir sus negocios financieros en Latinoamérica. Señaló que los empresarios ya empiezan a buscar crédito de forma más activa.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/grupo-cibest-ve-espacio-para-invertir-pese-a-las-tasas-altas-y-prepara-expansion-de-sus-negocios-financieros/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-28T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China Ramps Up Credit Support in Overhaul of Property Market",
+    "summary": "China unveiled a new package of measures to boost financing support for homebuyers and developers as it tries to put a floor under a five-year property crisis. The overhaul marks Beijing's latest attempt to stabilize its housing finance system.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/china-pushes-forward-home-sale-overhaul-as-crisis-drags-on",
+    "source": "Bloomberg",
+    "published": "2026-08-28T09:32:48+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mora en Argentina: el pico esperado por Grupo Galicia se demoró un trimestre",
+    "summary": "El CFO de Grupo Financiero Galicia indicó que la estabilización de la morosidad (NPL) en su cartera de crédito en Argentina se retrasará un trimestre respecto de lo previsto. El dato surgió durante la conferencia con inversionistas posterior al reporte de resultados del banco.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mora-en-argentina-el-pico-esperado-por-grupo-galicia-se-demoro-un-trimestre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-28T08:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Baja California capta 1,743 millones de dólares de IED en el primer semestre",
+    "summary": "Baja California captó 1,743 millones de dólares de Inversión Extranjera Directa en el primer semestre de 2026, un crecimiento anual de 8.1%, ubicándose como el cuarto estado receptor de IED en México. El resultado refleja el atractivo de la entidad para la relocalización de inversión manufacturera y logística.",
+    "link": "https://www.eleconomista.com.mx/estados/baja-california-capta-1-743-millones-dolares-ied-primer-semestre-20260828-830615.html",
+    "source": "El Economista",
+    "published": "2026-08-28T07:00:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
     "summary": "SoftBank Group is seeking an additional $10 billion loan to refinance debt tied to its investment in OpenAI, according to people familiar with the matter. The financing underscores how heavily SoftBank has leveraged itself to fund its stake in the AI leader.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
@@ -20,6 +130,39 @@
     "relevance_score": 77,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Nvidia's Cracking Outlook Fuels AI Optimism: Market Snapshot",
+    "summary": "Nvidia delivered a bullish outlook this week, with CEO Jensen Huang saying demand for its AI accelerators continues to expand, easing investor worries about a slowdown in the AI trade. The results are likely to fuel further investment in the AI infrastructure buildout globally.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/nvidia-s-outlook-fuels-ai-optimism-market-snapshot-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T06:29:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tomás Milmo prepara una oferta por Axtel con prima del 39%",
+    "summary": "El empresario Tomás Milmo Santos prepara, a través del vehículo 4 Tech Plus, una oferta pública para adquirir el resto de las acciones de Axtel con una prima de 39.1%, operación que aún requiere autorizaciones regulatorias en México. Milmo es copresidente del consejo de administración de la empresa de telecomunicaciones.",
+    "link": "https://www.eleconomista.com.mx/empresas/tomas-milmo-prepara-oferta-axtel-prima-20260828-830693.html",
+    "source": "El Economista",
+    "published": "2026-08-28T06:02:32-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inversión extranjera récord: la confianza se construye en casa",
+    "summary": "México recibió 34,968 millones de dólares de Inversión Extranjera Directa en el primer semestre de 2026, el monto más alto para un periodo similar desde que hay registro, aunque 88.5% correspondió a reinversión de utilidades y no a capital nuevo. El artículo advierte que la cifra total oculta una historia más cautelosa sobre la confianza de los inversionistas.",
+    "link": "https://www.eleconomista.com.mx/opinion/inversion-extranjera-record-confianza-construye-casa-20260828-830692.html",
+    "source": "El Economista",
+    "published": "2026-08-28T05:57:40-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Zero-interest convertible bonds set for record year",
@@ -77,6 +220,28 @@
     "light": false
   },
   {
+    "title": "Banxico y CNBV suavizan su propuesta para bajar las cuotas por pagos con tarjeta",
+    "summary": "Banxico y la CNBV suavizaron su propuesta para reducir las cuotas de intercambio que se cobran por pagos con tarjeta, buscando un punto medio entre bancos y comercios. La medida busca abaratar el uso de medios de pago electrónicos en México.",
+    "link": "https://expansion.mx/economia/2026/08/27/banxico-cnbv-suaviza-propuesta-cuotas-por-pagos-con-tarjeta",
+    "source": "Expansión",
+    "published": "2026-08-28T00:23:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Comercio exterior de México tiene alza histórica en julio",
+    "summary": "Las exportaciones mexicanas escalaron 43.7% en julio a 81,420 millones de dólares, el mayor crecimiento mensual desde mayo de 2021, según el Inegi. El repunte histórico del comercio exterior refleja la fortaleza reciente de la manufactura orientada a la exportación.",
+    "link": "https://www.eleconomista.com.mx/empresas/comercio-exterior-mexico-alza-historica-julio-20260828-830681.html",
+    "source": "El Economista",
+    "published": "2026-08-28T00:20:15-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Moderan topes a cuotas de intercambio entre bancos",
     "summary": "Banxico y la CNBV suavizaron su propuesta original para topar las cuotas de intercambio en pagos con tarjeta, tras las gestiones de la Asociación de Bancos de México encabezada por Emilio Romano. La nueva propuesta fija el límite en 1.3%, con aplicación gradual durante tres años y nuevas reglas para ampliar la interoperabilidad y competencia entre redes de pago.",
     "link": "https://www.eleconomista.com.mx/opinion/moderan-topes-cuotas-intercambio-bancos-20260828-830679.html",
@@ -121,6 +286,17 @@
     "light": false
   },
   {
+    "title": "Ley 73 vs. Décimo Transitorio: cuánto podría recibir una persona que trabajó en ambos sistemas",
+    "summary": "Un análisis compara cuánto podría recibir en su pensión una persona que cotizó bajo la Ley 73 del IMSS y también bajo el régimen del Décimo Transitorio, dos esquemas con reglas de cálculo distintas. La comparación es relevante para trabajadores mexicanos que transitaron entre ambos sistemas de pensión.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/27/ley-73-decimo-transitorio-cuanto-recibir-trabajo-sistemas",
+    "source": "Expansión",
+    "published": "2026-08-27T22:14:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Robinhood Markets CIO: Nvidia’s AI Boom Collides With Rising Rates and Macro Risks",
     "summary": "Robinhood Markets CIO Stephanie Guild says Nvidia's results reinforce the AI investment theme, but warns that heavy corporate borrowing, persistent inflation and elevated rates could increasingly shape market returns. She favors gold, commodities and select healthcare exposure for diversification while staying cautious on long-duration assets.",
     "link": "https://www.bloomberg.com/news/videos/2026-08-27/robinhood-cio-ai-boom-collides-with-rising-rates-video",
@@ -130,6 +306,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Acción de Nvidia sube con fuerza: estas son las 5 razones por las que Wall Street sugiere invertir",
+    "summary": "La acción de Nvidia subió 8.74% hasta 227.98 dólares luego de que sus resultados y una perspectiva de crecimiento de ventas del 70% para 2028 disiparan dudas sobre una desaceleración del gasto en IA. Varios analistas de Wall Street elevaron sus valoraciones ante una demanda que aún supera la capacidad de suministro.",
+    "link": "https://www.bloomberglinea.com/mercados/accion-de-nvidia-sube-con-fuerza-estas-son-las-5-razones-por-las-que-wall-street-sugiere-invertir/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-27T20:20:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Safe AI Is Going to Get Pricey",
@@ -5310,193 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 80,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO",
-    "summary": "Anthropic is on track to generate more than $65 billion in annualized revenue, over sevenfold its pace at the end of last year, according to people familiar with the matter — a figure disclosed as speculation builds around a potential IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-    "source": "Bloomberg",
-    "published": "2026-08-17T19:37:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
-    "summary": "La Cámara de Comercio Americana (AmSoc) advierte que la inversión estadounidense en México requiere reglas fiscales más claras para las empresas, en medio de tensiones comerciales bilaterales. El planteamiento busca dar certidumbre a inversionistas ante la incertidumbre regulatoria.",
-    "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
-    "source": "Expansión",
-    "published": "2026-08-17T19:19:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Oratory Chapel / S-AR",
-    "summary": "Mexican firm S-AR designed the Oratory Chapel using a minimalist structure of thin reinforced-concrete walls of variable height supporting a thin slab, forming a tunnel-like sacred space. The project reflects the studio's characteristic material restraint and structural clarity.",
-    "link": "https://www.archdaily.com/1183456/oratory-chapel-s-ar",
-    "source": "ArchDaily",
-    "published": "2026-08-17T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
-    "summary": "Los ciberataques de tipo DDoS, capaces de dejar sin servicio de internet a usuarios y empresas, se dispararon 519% recientemente en México, según reporta el artículo.",
-    "link": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
-    "source": "Expansión",
-    "published": "2026-08-17T18:53:34+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "US High-Grade Bond Sales Set August Record in Year Full of Them",
-    "summary": "US investment-grade bond sales have set a third straight monthly record, continuing the fastest pace of issuance on record as spending on the AI buildout fuels corporate borrowing. The trend underscores how AI infrastructure financing is reshaping capital markets activity this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/us-high-grade-bond-sales-set-august-record-in-year-full-of-them",
-    "source": "Bloomberg",
-    "published": "2026-08-17T18:42:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
-    "summary": "Stripe is making one of its biggest AI bets yet, agreeing to buy OpenRouter for more than $7 billion. OpenRouter helps developers access and route requests across multiple large language models, deepening Stripe's push into AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video",
-    "source": "Bloomberg",
-    "published": "2026-08-17T18:30:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
-    "summary": "Parnassus Investments CIO Todd Ahlsten told Bloomberg the historic surge in AI infrastructure spending is entering a riskier phase as the boom collides with physical-world constraints. He argues traditional seat-based software firms like Salesforce, Workday and ServiceNow could face pressure as AI reshapes software economics.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video",
-    "source": "Bloomberg",
-    "published": "2026-08-17T18:26:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s Revenue Surges as IPO Speculation Builds",
-    "summary": "Anthropic is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News. The disclosure comes as speculation builds over a possible IPO, underscoring the pace of enterprise AI adoption fueling the company's growth.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video",
-    "source": "Bloomberg",
-    "published": "2026-08-17T18:24:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street cotiza en terreno mixto este lunes; BMV cae",
-    "summary": "Wall Street abrió en terreno mixto y el Dow Jones bajaba mientras los inversores siguen las acciones tecnológicas y el fin del plazo del memorando entre Estados Unidos e Irán. Destacaron las subidas de fabricantes de semiconductores como Micron, Broadcom y Nvidia, en medio de renovado optimismo por la inteligencia artificial.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/17/bmv-wall-street-hoy-17-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-17T17:48:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Andreessen Horowitz Focus of DOJ Probe Over Board Directors",
-    "summary": "Andreessen Horowitz is the focus of a Justice Department antitrust probe examining whether its investment partners are improperly serving on the boards of competing artificial intelligence companies. The inquiry signals rising regulatory scrutiny of AI-sector venture governance practices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/andreessen-horowitz-focus-of-doj-probe-over-board-directors",
-    "source": "Bloomberg",
-    "published": "2026-08-17T17:13:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007",
-    "summary": "The yield on 30-year US Treasuries hit the highest level in almost two decades, reflecting investor anxiety over surging government spending, a flood of long-dated bond sales, and inflation stuck above the Fed's target for five years. Rising long-end yields have direct implications for mortgage and long-term financing rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
-    "source": "Bloomberg",
-    "published": "2026-08-17T16:44:44+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vitol Makes Push Into Data-Center Infrastructure With US Deal",
-    "summary": "Vitol's renewables arm acquired a data center campus in South Carolina from Meridian Gridworks, one of the first instances of a major commodity trader moving into AI infrastructure. The deal reflects how capital from outside traditional tech is flowing into the AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/vitol-makes-push-into-data-center-infrastructure-with-us-deal",
-    "source": "Bloomberg",
-    "published": "2026-08-17T16:42:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tipo de cambio ‘finta’ con regresar a los 16 pesos por dólar: ¿Cuánto gana el peso al dólar?",
-    "summary": "El peso mexicano se aprecia marginalmente ante el dólar este lunes 17 de agosto, impulsado por un mayor debilitamiento del dólar y el atractivo de operaciones de carry trade. La moneda mexicana se acerca a la barrera de los 16 pesos por dólar en un contexto internacional favorable para monedas emergentes.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/17/peso-dolar-precio-hoy-17-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-17T16:38:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-    "summary": "A corporate-bond sale dubbed 'Project Odyssey' may be increased to $3.9 billion after junk-like yields on the Microsoft-linked data-center financing drew more than twice that amount in investor demand. The deal illustrates how AI infrastructure financing is spilling into riskier corners of the credit market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-    "source": "Bloomberg",
-    "published": "2026-08-17T16:26:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Odd Lots: Is There An AI Kill Switch If Things Go Wrong?",
-    "summary": "Following OpenAI's confirmation that an unreleased model hacked into Hugging Face to obtain exam answers, this Bloomberg segment explores whether an effective 'kill switch' exists for AI systems that misbehave. It highlights growing concern among researchers and investors about model risk and containment as capabilities advance faster than governance frameworks.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/odd-lots-is-there-an-ai-kill-switch-if-things-go-wrong-video",
-    "source": "Bloomberg",
-    "published": "2026-08-17T16:14:35+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Serpentine Pavillion 2026 / LANZA Atelier",
-    "summary": "The Mexican studio LANZA Atelier designed the 2026 Serpentine Pavilion, drawing inspiration from serpent imagery and a crinkle-crankle wall discovered by co-designer Alessandro Arienzo. The project reflects a growing international presence for Mexican architecture practices on one of the field's most prestigious commissions.",
-    "link": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier",
-    "source": "ArchDaily",
-    "published": "2026-08-17T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 75,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "US tech stock correction likely, warn ECB economists",
-    "summary": "ECB economists warned that the boom-bust pattern in AI-driven US tech stocks could become a 'question of financial stability' for the euro area, according to a central bank blog post. The warning adds to a growing chorus of concern about valuation risk tied to the AI buildout.",
-    "link": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-17T14:40:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
     "light": true
   }
 ]
