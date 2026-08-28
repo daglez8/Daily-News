@@ -1,5 +1,93 @@
 [
   {
+    "title": "Blue Owl Leads $2.4 Billion Iren Debt Deal to Buy Nvidia's Chips",
+    "summary": "Blue Owl Capital led a $2.4 billion private debt deal for cloud computing provider Iren Ltd. to fund the purchase of Nvidia's Blackwell Ultra GPUs for a new data center campus in Canada. The financing highlights the growing role of private credit in funding the AI infrastructure buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/blue-owl-leads-2-4-billion-iren-debt-deal-to-buy-nvidia-s-chips",
+    "source": "Bloomberg",
+    "published": "2026-08-28T17:10:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
+    "summary": "Lambda Inc., an Nvidia-backed AI cloud-computing provider, raised about $1 billion in private short-dated debt to fund chip purchases tied to its computing collaboration with Microsoft. The deal is the latest example of private credit funding surging AI compute demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
+    "source": "Bloomberg",
+    "published": "2026-08-28T16:37:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Discurso de Kevin Warsh en Jackson Hole 'zarandea' al peso: Tipo de cambio toca las 17.03 unidades",
+    "summary": "El primer discurso de Kevin Warsh como presidente de la Fed en el simposio de Jackson Hole debilitó al peso mexicano, que tocó las 17.03 unidades por dólar. Warsh reiteró el compromiso de la Fed de regresar la inflación a su meta de 2%, lo que generó cautela en los mercados mexicanos.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/28/peso-dolar-precio-hoy-28-de-agosto-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-08-28T15:57:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft Seeks to Reassure Employees About Data Centers Impact",
+    "summary": "Microsoft is trying to reassure its own workers that its massive data center buildout is having a positive societal impact, amid growing internal and public scrutiny of AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/microsoft-seeks-to-reassure-employees-about-data-centers-impact",
+    "source": "Bloomberg",
+    "published": "2026-08-28T15:49:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
+    "summary": "Venture capital firm Andreessen Horowitz has raised $1.1 billion for its newest fund dedicated to AI infrastructure, reflecting continued investor appetite for the compute and data-center buildout underpinning generative AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+    "source": "Bloomberg",
+    "published": "2026-08-28T15:21:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA empresarial tiene un problema de economía, y ya tiene solución",
+    "summary": "Un análisis en El Financiero señala que, aunque el 94% de las empresas en México y América Latina planea aumentar su inversión en IA, el 92% de las que ya despliegan IA agéntica reporta costos superiores a lo previsto. El artículo atribuye el problema a arquitecturas que no fueron diseñadas para escalar de forma sostenible.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/28/la-ia-empresarial-tiene-un-problema-de-economia-y-ya-tiene-solucion/",
+    "source": "El Financiero",
+    "published": "2026-08-28T15:01:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Munster Expects Nvidia Revenue to Grow by 90% in 2027",
+    "summary": "Deepwater Asset Management's Gene Munster called Nvidia's momentum \"breathtaking\" and forecast the chipmaker's revenue will grow 90% in calendar year 2027, underscoring continued investor confidence in AI infrastructure demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/munster-expects-nvidia-revenue-to-grow-by-90-in-2027-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T13:14:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Autocamp Sequoia / Waechter Architecture",
+    "summary": "ArchDaily features AutoCamp Sequoia, a reimagined RV campground along the Kaweah River between Sequoia and Kings Canyon National Parks. Waechter Architecture transformed a set of disconnected campsites and amenities into a cohesive, nature-immersive retreat.",
+    "link": "https://www.archdaily.com/1183669/autocamp-sequoia-waechter-architecture",
+    "source": "ArchDaily",
+    "published": "2026-08-28T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "La IA puede revivir tu rostro y tu voz, pero ¿quién decide qué hace con ellos?",
     "summary": "Un reportaje analiza cómo la inteligencia artificial permite recrear el rostro y la voz de personas, incluidas las fallecidas, y plantea la pregunta de quién controla y decide el uso de esos datos. El tema expone vacíos regulatorios en torno a la IA generativa y los derechos de imagen.",
     "link": "https://expansion.mx/tecnologia/2026/08/28/ia-voz-fotos-despues-de-morir-ia-puede-usarlas",
@@ -14,6 +102,17 @@
     "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
     "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
     "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-freno-adquisiciones-internacionales",
+    "source": "Expansión",
+    "published": "2026-08-28T11:55:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
+    "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
+    "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-dejaron-comorar-fuera-pais",
     "source": "Expansión",
     "published": "2026-08-28T11:55:10+00:00",
     "category": "Capital Markets & M&A",
@@ -165,6 +264,17 @@
     "light": false
   },
   {
+    "title": "Urgen elevar sanciones por despojo inmobiliario",
+    "summary": "Especialistas urgieron a los congresos locales y federal a endurecer las penas contra el despojo inmobiliario en México, un delito que golpea la seguridad jurídica de la propiedad y afecta la confianza en el sector inmobiliario.",
+    "link": "https://www.reforma.com/urgen-elevar-sanciones-por-despojo-inmobiliario/ar3265840",
+    "source": "Reforma",
+    "published": "2026-08-28T05:00:49-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Zero-interest convertible bonds set for record year",
     "summary": "Issuance of zero-interest convertible bonds is on track for its highest-ever level, driven by high AI stock volatility and companies seeking to limit borrowing costs.",
     "link": "https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1",
@@ -173,6 +283,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
+    "summary": "Afore Coppel está cerca de comprar la participación de Advent International en InverCap, una afore competidora, en una operación valuada en 4,620 millones de pesos (unos 264 millones de dólares) pagaderos en efectivo. La adquisición le permitiría a Coppel superar el billón de pesos en recursos bajo administración, consolidando su posición entre las mayores afores de México.",
+    "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
+    "source": "Expansión",
+    "published": "2026-08-28T03:24:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
     "light": true
   },
   {
@@ -251,6 +372,28 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "¿Qué pasa con mi Afore si me faltan pocas semanas cotizadas para jubilarme y me despiden?",
+    "summary": "Expansión responde a una duda frecuente de finanzas personales: qué ocurre con el saldo de la Afore de una persona despedida cuando le faltan pocas semanas cotizadas para poder jubilarse.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/27/que-pasa-afore-faltan-semanas-cotizadas-jubilarme-despiden",
+    "source": "Expansión",
+    "published": "2026-08-28T00:03:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Axtel aprueba oferta de 4TechPlus para comprar hasta 100% de las acciones",
+    "summary": "El consejo de Axtel aprobó la oferta pública de 4TechPlus, el vehículo de Tomás Milmo Santos, para adquirir hasta el 100% de las acciones de la empresa de telecomunicaciones. La oferta llega con una prima sobre el precio de mercado y aún requiere autorizaciones regulatorias en México.",
+    "link": "https://expansion.mx/empresas/2026/08/27/axtel-aprueba-oferta-de-4techplus-para-comprar-hasta-100-de-las-acciones",
+    "source": "Expansión",
+    "published": "2026-08-28T00:03:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Gasto mundialista y sobreoferta de tarjetas atrasan el pago de deudas de mexicanos",
@@ -5355,148 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Las exportaciones de equipo de cómputo, ¿un nuevo frente del T-MEC?",
-    "summary": "Un reporte de la Casa Blanca (\"The Great Transshipment Scam\") documenta cómo exportadores, sobre todo chinos, usan más de 40 países como intermediarios para evadir aranceles de EU, y clasifica a México en el nivel de riesgo más alto (\"Tier 1\") junto con Canadá, la UE, Japón, Corea del Sur y Taiwán. El mecanismo que más preocupa a Washington es el envío de mercancía china reetiquetada a través de México, lo que podría derivar en controles más estrictos y nuevas reglas de origen bajo el T-MEC.",
-    "link": "https://www.eleconomista.com.mx/opinion/exportaciones-equipo-computo-nuevo-frente-t-mec-20260818-828796.html",
-    "source": "El Economista",
-    "published": "2026-08-18T00:02:44-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Te están pagando completo? La app que creó un sobrecargo para revisar tu nómina",
-    "summary": "Un sobrecargo (auxiliar de vuelo) desarrolló una aplicación para ayudar a los trabajadores mexicanos a verificar si su nómina se está pagando de forma completa y correcta.",
-    "link": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
-    "source": "Expansión",
-    "published": "2026-08-18T00:00:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Tu rostro, tu pase de abordar",
-    "summary": "El CEO de FlyLinkers, Patricio Sepúlveda, analiza el avance del reconocimiento facial en la aviación a través del sistema CMAP de la TSA, que sustituye las credenciales físicas de tripulantes por biometría cruzada con bases gubernamentales. El artículo plantea que la industria está pasando de verificar documentos a verificar identidades, una transformación tecnológica más amplia con implicaciones de privacidad y seguridad.",
-    "link": "https://www.eleconomista.com.mx/opinion/rostro-pase-abordar-20260817-828794.html",
-    "source": "El Economista",
-    "published": "2026-08-17T23:58:30-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alphabet’s Australian Bond Offers Pickup Over Dollar Debt",
-    "summary": "Alphabet launched its debut Australian-dollar bond offering, giving investors a yield pickup over its US dollar notes, as the tech giant pursues another multi-billion-dollar fundraising to fund soaring AI spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
-    "source": "Bloomberg",
-    "published": "2026-08-17T23:51:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crecen 210% fusiones y adquisiciones en México en el I Sem 26",
-    "summary": "Según PwC, México cerró 69 operaciones de fusiones y adquisiciones por 22,600 millones de dólares en el primer semestre de 2026, un alza de 210% en valor frente al año anterior, impulsada por un número limitado de megadeals que representaron 78% del capital movilizado. TTR Data reportó cifras distintas (118 operaciones por 10,911 millones de dólares) debido a diferencias metodológicas entre ambas firmas.",
-    "link": "https://www.eleconomista.com.mx/mercados/crecen-210-fusiones-adquisiciones-mexico-i-sem-20260817-828793.html",
-    "source": "El Economista",
-    "published": "2026-08-17T23:48:08-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "En México el sector consumo lideró las operaciones",
-    "summary": "Los megadeals dominaron el mercado mexicano de F&A en el primer semestre, incluyendo la compra de activos de Iberdrola México por Cox ABG Group ($4,170M), la adquisición de Prolec por GE Vernova (~$5,275M) y la compra de Fibra Macquarie por Fibra Monterrey ($1,700M). El reporte también destaca la venta parcial de Saavi Energía por Grupo México y la adquisición por Fonadin del 49% del tren suburbano a CAF.",
-    "link": "https://www.eleconomista.com.mx/mercados/mexico-sector-consumo-lidero-operaciones-20260817-828792.html",
-    "source": "El Economista",
-    "published": "2026-08-17T23:44:26-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Brasil, el mercado transaccional más grande de América Latina",
-    "summary": "Brasil lidera el mercado de fusiones y adquisiciones de América Latina con 593 operaciones por 32,557 millones de dólares, seguido de México con 118 operaciones por 10,911 millones según TTR Data. El reporte destaca que el nearshoring sigue siendo un motor clave para México, aunque con un impacto desigual en el volumen de transacciones por la incertidumbre económica.",
-    "link": "https://www.eleconomista.com.mx/mercados/brasil-mercado-transaccional-grande-america-latina-20260817-828791.html",
-    "source": "El Economista",
-    "published": "2026-08-17T23:40:54-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 79,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
-    "summary": "Contadores mexicanos no esperan nuevos impuestos para 2027, pero anticipan que la autoridad fiscal intensificará la fiscalización sobre las empresas.",
-    "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
-    "source": "Expansión",
-    "published": "2026-08-17T23:27:42+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Zonas periféricas concentran la mayor densidad poblacional en las ciudades",
-    "summary": "Un estudio del Tecnológico de Monterrey encontró que las 70 zonas metropolitanas de México pierden densidad en sus centros —2.5 millones de personas se mudaron fuera de ellos entre 1990 y 2020— mientras la periferia crece de forma desordenada. Las ciudades mexicanas muestran 28% más expansión urbana de la que su crecimiento poblacional justificaría, un patrón atípico frente a otras ciudades del mundo.",
-    "link": "https://www.eleconomista.com.mx/estados/zonas-perifericas-concentran-mayor-densidad-poblacional-ciudades-20260817-828790.html",
-    "source": "El Economista",
-    "published": "2026-08-17T23:24:51-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cox anuncia construcción de desaladora en México con una inversión de 304 millones de dólares",
-    "summary": "La empresa Cox anunció la construcción de una planta desaladora en México con una inversión de 304 millones de dólares, sumándose a sus otras inversiones recientes en el país.",
-    "link": "https://expansion.mx/empresas/2026/08/17/cox-anuncia-construccion-desaladora-en-mexico-por-304-mdd",
-    "source": "Expansión",
-    "published": "2026-08-17T22:49:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Millennials necesitan ganar 85,800 pesos para comprar casa en CDMX, menos del 4% lo logra",
-    "summary": "Un análisis muestra que los millennials necesitan ingresos mensuales de alrededor de 85,800 pesos para poder comprar una vivienda en la Ciudad de México, un umbral que menos del 4% de esta generación alcanza actualmente.",
-    "link": "https://expansion.mx/economia/2026/08/17/millennials-necesitan-ganar-85800-pesos-comprar-casa-cdmx",
-    "source": "Expansión",
-    "published": "2026-08-17T22:45:38+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Guggenheim 77% Earnings Hit Stems From Unit Whistleblower Tagged",
-    "summary": "A steep 77% drop in Guggenheim Investments' second-quarter earnings stemmed from delayed reporting of fee revenue in its private investments unit, where accounting practices were flagged in a whistleblower report that helped trigger a broader probe into Mark Walter's business empire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
-    "source": "Bloomberg",
-    "published": "2026-08-17T21:23:39+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
-    "summary": "El artículo aborda cómo herramientas de IA como ChatGPT y Claude pueden dejar marcas de agua o rastros detectables en los textos que generan, aunque no sean visibles a simple vista para el usuario.",
-    "link": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
-    "source": "Expansión",
-    "published": "2026-08-17T20:00:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": true
   }
 ]
