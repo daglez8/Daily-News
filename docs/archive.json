@@ -1,5 +1,71 @@
 [
   {
+    "title": "Warsh Says Fed Must Act if Inflation Stays High",
+    "summary": "Federal Reserve Chair Kevin Warsh signaled the central bank is prepared to act if inflation fails to move clearly toward its 2% target, while describing the broader US economy as strong. Analysts on Bloomberg said the remarks increased bets on further rate hikes, a signal markets are watching closely for its knock-on effects on borrowing costs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-fed-must-act-if-inflation-stays-high-video",
+    "source": "Bloomberg",
+    "published": "2026-08-29T12:05:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cómo invertir si el S&P 500 cae a 5.500 puntos o escala hasta 9.500? UBS analiza cuatro escenarios",
+    "summary": "UBS plantea cuatro escenarios posibles para el S&P 500, que van desde una caída a 5,500 puntos hasta un repunte a 9,500 puntos, dependiendo de si la inteligencia artificial logra sostener el crecimiento y de cómo responda la Reserva Federal a la inflación. El banco recomienda adaptar las carteras sin intentar anticipar cuál trayectoria se impondrá.",
+    "link": "https://www.bloomberglinea.com/mercados/como-invertir-si-el-sp-500-cae-a-5500-puntos-o-escala-hasta-9500-ubs-analiza-cuatro-escenarios/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-29T06:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Risk of a new age of financial repression is rising",
+    "summary": "The FT reports that policymakers are increasingly considering ways to push government bonds onto investors as a tool to manage rising sovereign debt burdens, a strategy known as financial repression. The trend is being taken more seriously as fiscal pressures mount globally.",
+    "link": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-29T04:00:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How finance redeemed itself",
+    "summary": "The piece argues the finance industry has rebuilt its public standing since the 2008 crisis, even as technology now draws the kind of scrutiny banking once did. It draws lessons for the tech sector from finance's post-crisis reforms and reputational recovery.",
+    "link": "https://www.ft.com/content/63981a46-5849-4c1b-b5df-bfacd85c9d93?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-29T04:00:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Did AI write this? It's getting harder to tell",
+    "summary": "AI-detection software offers quick verdicts on whether text was machine-written, but the FT notes the risk of false positives and the stigma of false accusations are fueling broader societal mistrust of the written word. The piece highlights the growing difficulty of distinguishing human from AI-generated writing.",
+    "link": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-29T04:00:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México fortalece su músculo exportador",
+    "summary": "Según datos del INEGI, las exportaciones mexicanas alcanzaron 81,420 millones de dólares en julio, un repunte de 43.7% frente al año anterior y su mayor incremento desde mayo de 2021. El alza fue impulsada principalmente por las ventas manufactureras no automotrices hacia Estados Unidos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/28/mexico-fortalece-su-musculo-exportador/",
+    "source": "El Financiero",
+    "published": "2026-08-29T03:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
     "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent company's acquisition by SpaceX, according to a post on X. The move signals shifting alliances in the fast-moving AI coding-agent market as major tech players realign their partnerships.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
@@ -44,6 +110,39 @@
     "light": true
   },
   {
+    "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
+    "summary": "México colocó bonos samurái, denominados en yenes, por más de 1,700 millones de dólares, según reportó Expansión. La operación forma parte de la estrategia del gobierno mexicano para diversificar sus fuentes de financiamiento en los mercados internacionales de capital.",
+    "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
+    "source": "Expansión",
+    "published": "2026-08-28T21:24:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 71,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street reacciona a Warsh: el dólar repunta, mientras el oro y el S&P 500 caen tras Jackson Hole",
+    "summary": "Wall Street perdió impulso el viernes después de que el presidente de la Reserva Federal, Kevin Warsh, reafirmara su compromiso con llevar la inflación a la meta de 2%. El mensaje elevó las apuestas por un aumento de tasas, fortaleció al dólar y presionó al oro y al S&P 500.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-con-cautela-a-la-espera-del-primer-discurso-de-warsh-en-jackson-hole/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-28T20:10:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
+    "summary": "México superó a China y Estados Unidos en el ritmo de crecimiento de sus exportaciones dentro del G20, de acuerdo con un análisis publicado por Expansión, en un contexto de fortaleza reciente del sector exportador mexicano.",
+    "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
+    "source": "Expansión",
+    "published": "2026-08-28T19:26:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Animà Village / Sordo Madaleno Arquitectos",
     "summary": "Animà Village, designed by Mexican firm Sordo Madaleno Arquitectos, is conceived as a walkable, human-scale neighborhood with a strong public realm and generous planting. The project reflects a broader push toward pedestrian-oriented, landscape-integrated residential design.",
     "link": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
@@ -77,6 +176,17 @@
     "light": true
   },
   {
+    "title": "Kevin Warsh tries being a normal central banker",
+    "summary": "The Economist profiles Federal Reserve Chair Kevin Warsh's shift toward a more conventional central-banking style at his Jackson Hole debut, noting that markets responded favorably to the tone. The piece situates Warsh's approach within the broader debate over how aggressively the Fed should fight inflation.",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+    "source": "The Economist",
+    "published": "2026-08-28T17:02:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
     "summary": "Lambda Inc., an Nvidia-backed AI cloud-computing provider, raised about $1 billion in private short-dated debt to fund chip purchases tied to its computing collaboration with Microsoft. The deal is the latest example of private credit funding surging AI compute demand.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
@@ -86,6 +196,28 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Quantum Firm Pasqal Shares Jump 95% in Debut Via SPAC Merger",
+    "summary": "Pasqal Holding SA surged in its first day of trading after the quantum-computing company went public in New York via a SPAC merger, outperforming other recently listed quantum firms. The debut highlights renewed investor appetite for deep-tech listings via blank-check vehicles.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/quantum-computing-firm-pasqal-jumps-52-in-debut-via-spac-merger",
+    "source": "Bloomberg",
+    "published": "2026-08-28T16:32:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
+    "summary": "El huevo y otros alimentos básicos registraron alzas de precio durante agosto, presionando el gasto de los hogares mexicanos, según reporta Expansión. El aumento se suma a las presiones inflacionarias que enfrentan los consumidores del país.",
+    "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
+    "source": "Expansión",
+    "published": "2026-08-28T16:06:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Discurso de Kevin Warsh en Jackson Hole 'zarandea' al peso: Tipo de cambio toca las 17.03 unidades",
@@ -396,6 +528,17 @@
     "light": true
   },
   {
+    "title": "Country House in Boladala Village / ARC Architects",
+    "summary": "This country house sits on the shore of the Charvak Reservoir near Tashkent, in a remote mountain village largely untouched by tourism. Designed by ARC Architects, the home opens toward views of the lake and surrounding mountains.",
+    "link": "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects",
+    "source": "ArchDaily",
+    "published": "2026-08-28T02:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 61,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "PayPal Deal Talks End as Advent, Stripe Group Abandons Acquisition Effort",
     "summary": "A buyout consortium of Advent International and payments processor Stripe has abandoned its pursuit of PayPal Holdings, a deal that would have ranked among the largest-ever leveraged buyouts. The collapse of talks marks a major fintech M&A effort falling through.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
@@ -570,6 +713,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Cempasúchil Pavilion / COLAR Colectivo de Arquitectura",
+    "summary": "A Mexican collective, COLAR, designed the Cempasúchil Pavilion as a temporary shade structure organized around a single shared table meant to foster informal encounters. The project explores architecture as a temporary act of spatial organization tied to Mexican cultural tradition.",
+    "link": "https://www.archdaily.com/1184070/cempasuchil-pavilion-colar-colectivo-de-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-08-27T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Nafin y Bancomext absorberán primeras pérdidas para impulsar el crédito a Pymes",
@@ -5344,159 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "AI phobia is America's new consensus",
-    "summary": "The piece argues that backlash against AI and its associated data centers has become a rare bipartisan concern among US voters, one that Trump has been slow to register politically. It frames rising AI phobia as a structural political risk for the industry's continued expansion.",
-    "link": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-18T10:57:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vivienda en Benito Juárez se verticaliza y promedia 5.9 millones de pesos",
-    "summary": "La oferta de vivienda en la alcaldía Benito Juárez de la Ciudad de México se ha vuelto cada vez más vertical, con un precio promedio de 5.9 millones de pesos por unidad. La tendencia refleja la escasez de suelo y el encarecimiento de la vivienda en zonas céntricas de la capital.",
-    "link": "https://www.eleconomista.com.mx/videos/vivienda-benito-juarez-verticaliza-promedia-5-9-millones-pesos-20260818-828859.html",
-    "source": "El Economista",
-    "published": "2026-08-18T10:55:37-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La rebelión de los bonos",
-    "summary": "El rendimiento del bono del Tesoro de EU a 30 años alcanzó 5.29%, su nivel más alto desde 2007, en momentos en que la economía estadounidense muestra señales de debilidad. La columna advierte que este movimiento de tasas largas se transmite directamente a las hipotecas y al financiamiento corporativo, incluso mientras las tasas cortas ceden.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/18/la-rebelion-de-los-bonos/",
-    "source": "El Financiero",
-    "published": "2026-08-18T10:48:17+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Is Starting to Create Jobs in the UK",
-    "summary": "A Lloyds survey found that most British businesses report AI has created new roles rather than eliminating jobs so far. The findings offer early evidence against fears of net job losses from enterprise AI adoption.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
-    "source": "Bloomberg",
-    "published": "2026-08-18T10:30:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La política climática es la nueva política industrial",
-    "summary": "Querétaro busca consolidarse como uno de los grandes centros de datos de América Latina, con proyecciones de más de 1.5 gigawatts de capacidad adicional en los próximos años. El artículo advierte que ese auge tecnológico depende de la disponibilidad de agua y electricidad, convirtiendo la política climática en una cuestión central de política industrial.",
-    "link": "https://www.elfinanciero.com.mx/opinion/nelly-ramirez-moncada/2026/08/18/la-politica-climatica-es-la-nueva-politica-industrial/",
-    "source": "El Financiero",
-    "published": "2026-08-18T10:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El banco de Jensen",
-    "summary": "Jensen Huang impulsa que las GPU de los centros de datos sean tratadas como activos financiables e intercambiables, y ya cerró acuerdos con BlackRock y Goldman Sachs para financiar la compra de chips de Nvidia. La medida integra más profundamente el boom de la IA al sistema financiero, elevando la exposición de los bancos a productos ligados a la IA.",
-    "link": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/08/18/el-banco-de-jensen/",
-    "source": "El Financiero",
-    "published": "2026-08-18T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De privatizar más Ecopetrol hasta hablar de stablecoins, las propuestas de BVC a De la Espriella",
-    "summary": "La Bolsa de Valores de Colombia propuso al nuevo gobierno ampliar la participación privada en Ecopetrol hasta 20%, crear incentivos tributarios para el ahorro de largo plazo y abrir la discusión sobre el uso de stablecoins en el mercado de valores. Las propuestas buscan atraer más inversión extranjera y diversificar las fuentes de financiamiento del país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/de-privatizar-mas-ecopetrol-hasta-hablar-de-stablecoins-las-propuestas-de-bvc-a-de-la-espriella/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-18T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inhabiting the Stable, Creation of an apartment within the agricultural part of a farmhouse in Praz-Pury / Bard Yersin Architectes",
-    "summary": "Bard Yersin Architectes converted the disused agricultural section of a 1930s farmhouse in the Swiss canton of Fribourg into an apartment, preserving the building's traditional single-roof archetype. The project keeps the original dwelling and barn's spatial organization while adapting it for contemporary living.",
-    "link": "https://www.archdaily.com/1183224/inhabiting-the-stable-creation-of-an-apartment-within-the-agricultural-part-of-a-farmhouse-in-praz-pury-bard-yersin-architectes",
-    "source": "ArchDaily",
-    "published": "2026-08-18T10:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Hideout Leaf Villa / Pablo Luna Studio",
-    "summary": "Hideout Leaf is a villa nestled in the mountains of East Bali beside a river, in the shadow of Mount Agung, designed by Pablo Luna Studio. The project immerses its design-conscious spaces in the surrounding tropical landscape, seeking a close relationship between architecture and nature.",
-    "link": "https://www.archdaily.com/1183102/hideout-leaf-villa-pablo-luna-studio",
-    "source": "ArchDaily",
-    "published": "2026-08-18T07:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Rising Yields Threaten to Puncture Asia’s AI-Driven Stock Rally",
-    "summary": "Rising Treasury yields are becoming a major threat to Asia's AI-fueled stock rally, exposing how dependent tech valuations have become on cheap borrowing costs. The link between bond markets and AI stock momentum highlights a growing vulnerability for the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/rising-yields-threaten-to-puncture-asia-s-ai-driven-stock-rally",
-    "source": "Bloomberg",
-    "published": "2026-08-18T06:57:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Braskem Idesa solicita acogerse al Capítulo 11 de la Ley de Quiebras de EU para reducir su deuda",
-    "summary": "La petroquímica mexicana Braskem Idesa, empresa conjunta de Braskem y Grupo Idesa, se acogió al Capítulo 11 de la ley de quiebras de EU tras alcanzar acuerdos con acreedores para reducir su deuda en más de 920 millones de dólares. La compañía espera salir del proceso de insolvencia en 60 a 90 días manteniendo sus operaciones con normalidad.",
-    "link": "https://www.eleconomista.com.mx/empresas/braskem-idesa-solicita-acogerse-capitulo-11-ley-quiebras-eu-reducir-deuda-20260818-828824.html",
-    "source": "El Economista",
-    "published": "2026-08-18T06:34:31-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OMA/Jason Long and Y.A. Studio Complete 730 Stanyan Affordable Housing Development in San Francisco",
-    "summary": "OMA, led by partner Jason Long, together with San Francisco-based Y.A. Studio, has completed 730 Stanyan, a mixed-use affordable housing development providing 160 permanently affordable homes in San Francisco's Haight-Ashbury neighborhood. It marks OMA's first completed 100%-affordable housing project in the United States.",
-    "link": "https://www.archdaily.com/1183489/oma-jason-long-and-ya-studio-complete-730-stanyan-affordable-housing-development-in-san-francisco",
-    "source": "ArchDaily",
-    "published": "2026-08-18T06:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Una editorial musical demanda a Anthropic y Suno por uso indebido de canciones para entrenar la IA",
-    "summary": "La editorial Round Hill Music demandó a Anthropic y Suno por presuntamente usar cientos de canciones sin autorización para entrenar sus sistemas de IA, incluyendo el chatbot Claude. La editorial busca una indemnización que podría acercarse o superar los 1,000 millones de dólares y podría ampliar la demanda a miles de composiciones adicionales.",
-    "link": "https://www.eleconomista.com.mx/arteseideas/editorial-musical-demanda-anthropic-suno-indebido-canciones-entrenar-ia-20260818-828821.html",
-    "source": "El Economista",
-    "published": "2026-08-18T06:20:37-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Braskem’s Mexico Unit Files for Chapter 11 Bankruptcy in US",
-    "summary": "Braskem Idesa, the Mexican petrochemical joint venture between Brazil's Braskem and Carlos Slim's conglomerate, filed for Chapter 11 bankruptcy protection in the US amid mounting financial strain and a worsening liquidity crunch.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
-    "source": "Bloomberg",
-    "published": "2026-08-18T06:19:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
   }
 ]
