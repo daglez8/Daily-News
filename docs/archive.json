@@ -1,5 +1,71 @@
 [
   {
+    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+    "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent company's acquisition by SpaceX, according to a post on X. The move signals shifting alliances in the fast-moving AI coding-agent market as major tech players realign their partnerships.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+    "source": "Bloomberg",
+    "published": "2026-08-29T02:16:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano cierra semana con pérdidas tras advertencia de Warsh contra la inflación en EE.UU.",
+    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 unidades por dólar, luego de que el presidente de la Fed, Kevin Warsh, reafirmara en Jackson Hole su compromiso de llevar la inflación estadounidense al objetivo de 2%. Sus comentarios elevaron las expectativas de un alza de tasas y fortalecieron al dólar frente a las monedas emergentes.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cierra-semana-con-perdidas-tras-advertencia-de-warsh-contra-la-inflacion-en-eeuu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-29T01:34:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+    "summary": "La Secretaría de Hacienda reportó una caída en sus ingresos con un faltante de 170,000 millones de pesos de cara a la elaboración del Paquete Económico 2027, según Expansión. La cifra anticipa presión fiscal para el gobierno mexicano en la construcción del presupuesto del próximo año.",
+    "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+    "source": "Expansión",
+    "published": "2026-08-28T23:18:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "SentinelOne CEO on Earnings, AI's Cybersecurity Impact",
+    "summary": "SentinelOne co-founder and CEO Tomer Weingarten discussed the company's latest earnings and the impact of AI on cybersecurity in a Bloomberg interview. The conversation touched on how AI is reshaping both cyber threats and defensive tooling for enterprises.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/sentinelone-ceo-on-earnings-ai-s-cybersecurity-impact-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T23:06:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Animà Village / Sordo Madaleno Arquitectos",
+    "summary": "Animà Village, designed by Mexican firm Sordo Madaleno Arquitectos, is conceived as a walkable, human-scale neighborhood with a strong public realm and generous planting. The project reflects a broader push toward pedestrian-oriented, landscape-integrated residential design.",
+    "link": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
+    "source": "ArchDaily",
+    "published": "2026-08-28T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Jackson Hole, Anthropic's Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
+    "summary": "A federal judge ruled that the Trump administration must lift its ban on Anthropic's AI technology for use by federal agencies. Separately, a consortium of Advent and Stripe abandoned its pursuit of PayPal, walking away from a deal that would have ranked among the largest-ever leveraged buyouts.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T17:52:43+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Blue Owl Leads $2.4 Billion Iren Debt Deal to Buy Nvidia's Chips",
     "summary": "Blue Owl Capital led a $2.4 billion private debt deal for cloud computing provider Iren Ltd. to fund the purchase of Nvidia's Blackwell Ultra GPUs for a new data center campus in Canada. The financing highlights the growing role of private credit in funding the AI infrastructure buildout.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/blue-owl-leads-2-4-billion-iren-debt-deal-to-buy-nvidia-s-chips",
@@ -63,6 +129,17 @@
     "category": "AI & Agents",
     "relevance_score": 78,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "House in Estancia El Terrón / Santiago Bertotti",
+    "summary": "Located in Estancia El Terrón, Mendiolaza, Córdoba, this 600 m² house follows the site's natural slope down toward a golf course, integrating into the mountain landscape rather than imposing on it. The design treats topography as the primary driver of the layout rather than an obstacle to overcome.",
+    "link": "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
+    "source": "ArchDaily",
+    "published": "2026-08-28T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -297,6 +374,17 @@
     "light": true
   },
   {
+    "title": "Efecto Medici: cuando una carrera ya no basta",
+    "summary": "Esta columna de opinión argumenta que la inteligencia artificial está desplazando la ventaja competitiva profesional hacia la capacidad de conectar disciplinas, formular mejores preguntas y pensar de forma interdisciplinaria, más que hacia la especialización tradicional. El autor retoma el 'Efecto Medici' para plantear que la versatilidad, no una sola carrera, será la clave del éxito profesional en la era de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/28/efecto-medici-cuando-una-carrera-ya-no-basta/",
+    "source": "El Financiero",
+    "published": "2026-08-28T03:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Yotta Eyes $20 Billion GPU Buildout as AI Demand Soars",
     "summary": "Yotta Data Services says it has the capacity to deploy about $20 billion in GPUs as it races to meet surging global demand for AI computing infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/yotta-plans-ipo-very-soon-to-keep-up-with-ai-demand-ceo-says",
@@ -328,6 +416,17 @@
     "relevance_score": 90,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Gobierno de Sheinbaum vende 'bonos samurai' por primera vez en 2 años: ¿Cuánto dinero reunió?",
+    "summary": "México regresó al mercado de bonos samurái por primera vez en dos años, recaudando 282,800 millones de yenes (1,770 millones de dólares) en cuatro tramos con vencimientos de entre 3.5 y 20 años. La emisión llega en momentos en que el país enfrenta presión sobre sus calificaciones crediticias, luego de que S&P Global Ratings revisara a negativa la perspectiva de México en mayo por sus débiles resultados fiscales.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/28/gobierno-de-sheinbaum-vende-bonos-samurai-por-primera-vez-en-2-anos-cuanto-dinero-reunio/",
+    "source": "El Financiero",
+    "published": "2026-08-28T00:31:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿Exagera Coparmex? Hay una fuerte caída en el ánimo para invertir",
@@ -5399,104 +5498,5 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Sí habrá reforma a aseguradoras",
-    "summary": "Una reforma al sector asegurador mexicano avanza en el Congreso, impulsada por la diputada Marybel Villegas Canché junto con la Comisión de Hacienda y directivos del sector. Entre los cambios destaca un nuevo seguro para mayores de 60 años que respetaría su historial médico, con ajustes también en IVA y costos hospitalarios pendientes de definir.",
-    "link": "https://www.eleconomista.com.mx/opinion/habra-reforma-aseguradoras-20260818-828815.html",
-    "source": "El Economista",
-    "published": "2026-08-18T06:01:16-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why China's DeepSeek, Qwen and Moonshot Are a Worry for US AI Rivals",
-    "summary": "Chinese AI models from DeepSeek, Qwen, and Moonshot are cheaper and more adaptable than leading US platforms, and studies suggest they are now nearly as capable — a shift that is worrying US AI companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
-    "source": "Bloomberg",
-    "published": "2026-08-18T04:01:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI hasn’t gone rogue. It’s worse than that",
-    "summary": "The piece argues that recent AI-driven cyber attacks aren't a sign of models going rogue, but simply a reflection of what the technology was trained to do — and that current safeguards are failing to keep pace.",
-    "link": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-18T04:00:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chris Hohn’s hedge fund bets on Italian luxury hotels",
-    "summary": "Billionaire investor Chris Hohn's hedge fund has built stakes in loans backing landmark luxury hotel properties in Venice, Capri, Lake Como and Milan, according to the Financial Times.",
-    "link": "https://www.ft.com/content/351cf8e1-cdef-46a9-ac32-b2e76c72ed1a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-18T04:00:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Empresas de EU denuncian ‘fiscalización agresiva’ del SAT; American Society of Mexico pide diálogo",
-    "summary": "El Consejo Nacional de Comercio Exterior de EU (NFTC) denunció ante el Congreso una fiscalización 'agresiva' del SAT contra empresas estadounidenses, incluyendo auditorías severas y negación retroactiva de deducciones legítimas. La American Society of Mexico busca un acercamiento directo con Hacienda para atender las quejas y fortalecer la certeza jurídica para los inversionistas.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/17/empresas-de-eu-denuncian-fiscalizacion-agresiva-del-sat-american-society-of-mexico-pide-dialogo/",
-    "source": "El Financiero",
-    "published": "2026-08-18T01:39:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tu nómina puede darte más que un sueldo; estos bancos ofrecen seguros, cashback y créditos",
-    "summary": "El artículo repasa cómo distintos bancos mexicanos están usando la cuenta de nómina como gancho, ofreciendo seguros, cashback y acceso a créditos adicionales para atraer y retener clientes.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/17/cambiar-banco-nomina-bancos-seguros-cashback-creditos",
-    "source": "Expansión",
-    "published": "2026-08-18T01:29:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Don Miguel Mancera, QEPD",
-    "summary": "El texto rinde homenaje a Miguel Mancera, quien murió a los 93 años tras dejar un legado clave en la historia financiera de México al convertir al Banco de México en una institución autónoma. El autor recuerda su rigor profesional, su manejo de las crisis de 1982, 1994 y la hiperinflación de 1987, así como su faceta filantrópica tras el retiro.",
-    "link": "https://www.eleconomista.com.mx/opinion/don-miguel-mancera-qepd-20260818-828807.html",
-    "source": "El Economista",
-    "published": "2026-08-18T00:53:30-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EU insiste en redefinir su relación con México",
-    "summary": "Bajo Trump, Estados Unidos busca redefinir su relación comercial con México más allá del T-MEC, presionando para frenar la triangulación de productos chinos y fortalecer la cooperación en cadenas de IA y contra los cárteles. Washington señaló a México entre más de 40 países usados como ruta de evasión arancelaria y ligó el tema a nuevas reglas de origen y a la iniciativa de semiconductores Pax Silica.",
-    "link": "https://www.eleconomista.com.mx/opinion/eu-insiste-redefinir-relacion-mexico-20260818-828803.html",
-    "source": "El Economista",
-    "published": "2026-08-18T00:37:33-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La ley que la sociedad ya aprobó",
-    "summary": "Mientras el Congreso mexicano debate iniciativas para poner edad mínima al uso de redes sociales, encuestas muestran que 73% de los mexicanos ya apoyaría prohibirlas a menores de 15 años, cifra similar al 77% registrado en Francia tras su propia ley. El respaldo crece aún más cuando la pregunta se enfoca en medidas de protección en lugar de una prohibición total.",
-    "link": "https://www.eleconomista.com.mx/opinion/ley-sociedad-aprobo-20260818-828802.html",
-    "source": "El Economista",
-    "published": "2026-08-18T00:33:51-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]

@@ -1,18 +1,73 @@
 [
   {
-    "title": "Blue Owl Leads $2.4 Billion Iren Debt Deal to Buy Nvidia's Chips",
-    "summary": "Blue Owl Capital led a $2.4 billion private debt deal for cloud computing provider Iren Ltd. to fund the purchase of Nvidia's Blackwell Ultra GPUs for a new data center campus in Canada. The financing highlights the growing role of private credit in funding the AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/blue-owl-leads-2-4-billion-iren-debt-deal-to-buy-nvidia-s-chips",
+    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+    "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent company's acquisition by SpaceX, according to a post on X. The move signals shifting alliances in the fast-moving AI coding-agent market as major tech players realign their partnerships.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
     "source": "Bloomberg",
-    "published": "2026-08-28T17:10:39+00:00",
+    "published": "2026-08-29T02:16:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano cierra semana con pérdidas tras advertencia de Warsh contra la inflación en EE.UU.",
+    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 unidades por dólar, luego de que el presidente de la Fed, Kevin Warsh, reafirmara en Jackson Hole su compromiso de llevar la inflación estadounidense al objetivo de 2%. Sus comentarios elevaron las expectativas de un alza de tasas y fortalecieron al dólar frente a las monedas emergentes.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cierra-semana-con-perdidas-tras-advertencia-de-warsh-contra-la-inflacion-en-eeuu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-29T01:34:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+    "summary": "La Secretaría de Hacienda reportó una caída en sus ingresos con un faltante de 170,000 millones de pesos de cara a la elaboración del Paquete Económico 2027, según Expansión. La cifra anticipa presión fiscal para el gobierno mexicano en la construcción del presupuesto del próximo año.",
+    "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+    "source": "Expansión",
+    "published": "2026-08-28T23:18:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "SentinelOne CEO on Earnings, AI's Cybersecurity Impact",
+    "summary": "SentinelOne co-founder and CEO Tomer Weingarten discussed the company's latest earnings and the impact of AI on cybersecurity in a Bloomberg interview. The conversation touched on how AI is reshaping both cyber threats and defensive tooling for enterprises.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/sentinelone-ceo-on-earnings-ai-s-cybersecurity-impact-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T23:06:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Animà Village / Sordo Madaleno Arquitectos",
+    "summary": "Animà Village, designed by Mexican firm Sordo Madaleno Arquitectos, is conceived as a walkable, human-scale neighborhood with a strong public realm and generous planting. The project reflects a broader push toward pedestrian-oriented, landscape-integrated residential design.",
+    "link": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
+    "source": "ArchDaily",
+    "published": "2026-08-28T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Jackson Hole, Anthropic's Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
+    "summary": "A federal judge ruled that the Trump administration must lift its ban on Anthropic's AI technology for use by federal agencies. Separately, a consortium of Advent and Stripe abandoned its pursuit of PayPal, walking away from a deal that would have ranked among the largest-ever leveraged buyouts.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-08-28T17:52:43+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 74,
+    "relevance_score": 82,
     "language": "en",
     "light": true
   },
   {
     "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
-    "summary": "Lambda Inc., an Nvidia-backed AI cloud-computing provider, raised about $1 billion in private short-dated debt to fund chip purchases tied to its computing collaboration with Microsoft. The deal is the latest example of private credit funding surging AI compute demand.",
+    "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia, raised about $1 billion in private short-dated debt to fund computing chips tied to its collaboration with Microsoft. The deal highlights the growing role of private credit in financing the AI infrastructure buildout.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
     "source": "Bloomberg",
     "published": "2026-08-28T16:37:00+00:00",
@@ -22,30 +77,8 @@
     "light": true
   },
   {
-    "title": "Discurso de Kevin Warsh en Jackson Hole 'zarandea' al peso: Tipo de cambio toca las 17.03 unidades",
-    "summary": "El primer discurso de Kevin Warsh como presidente de la Fed en el simposio de Jackson Hole debilitó al peso mexicano, que tocó las 17.03 unidades por dólar. Warsh reiteró el compromiso de la Fed de regresar la inflación a su meta de 2%, lo que generó cautela en los mercados mexicanos.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/28/peso-dolar-precio-hoy-28-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-28T15:57:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft Seeks to Reassure Employees About Data Centers Impact",
-    "summary": "Microsoft is trying to reassure its own workers that its massive data center buildout is having a positive societal impact, amid growing internal and public scrutiny of AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/microsoft-seeks-to-reassure-employees-about-data-centers-impact",
-    "source": "Bloomberg",
-    "published": "2026-08-28T15:49:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
-    "summary": "Venture capital firm Andreessen Horowitz has raised $1.1 billion for its newest fund dedicated to AI infrastructure, reflecting continued investor appetite for the compute and data-center buildout underpinning generative AI.",
+    "summary": "Venture capital firm Andreessen Horowitz has raised $1.1 billion for its newest artificial intelligence infrastructure fund. The raise underscores continued investor appetite for AI infrastructure plays even as questions about the sector's economics persist.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
     "source": "Bloomberg",
     "published": "2026-08-28T15:21:16+00:00",
@@ -55,52 +88,30 @@
     "light": true
   },
   {
-    "title": "La IA empresarial tiene un problema de economía, y ya tiene solución",
-    "summary": "Un análisis en El Financiero señala que, aunque el 94% de las empresas en México y América Latina planea aumentar su inversión en IA, el 92% de las que ya despliegan IA agéntica reporta costos superiores a lo previsto. El artículo atribuye el problema a arquitecturas que no fueron diseñadas para escalar de forma sostenible.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/28/la-ia-empresarial-tiene-un-problema-de-economia-y-ya-tiene-solucion/",
-    "source": "El Financiero",
-    "published": "2026-08-28T15:01:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Munster Expects Nvidia Revenue to Grow by 90% in 2027",
-    "summary": "Deepwater Asset Management's Gene Munster called Nvidia's momentum \"breathtaking\" and forecast the chipmaker's revenue will grow 90% in calendar year 2027, underscoring continued investor confidence in AI infrastructure demand.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-28/munster-expects-nvidia-revenue-to-grow-by-90-in-2027-video",
-    "source": "Bloomberg",
-    "published": "2026-08-28T13:14:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Autocamp Sequoia / Waechter Architecture",
-    "summary": "ArchDaily features AutoCamp Sequoia, a reimagined RV campground along the Kaweah River between Sequoia and Kings Canyon National Parks. Waechter Architecture transformed a set of disconnected campsites and amenities into a cohesive, nature-immersive retreat.",
-    "link": "https://www.archdaily.com/1183669/autocamp-sequoia-waechter-architecture",
+    "title": "House in Estancia El Terrón / Santiago Bertotti",
+    "summary": "Located in Estancia El Terrón, Mendiolaza, Córdoba, this 600 m² house follows the site's natural slope down toward a golf course, integrating into the mountain landscape rather than imposing on it. The design treats topography as the primary driver of the layout rather than an obstacle to overcome.",
+    "link": "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
     "source": "ArchDaily",
-    "published": "2026-08-28T12:00:00+00:00",
+    "published": "2026-08-28T15:00:00+00:00",
     "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
+    "relevance_score": 60,
     "language": "en",
     "light": false
   },
   {
     "title": "La IA puede revivir tu rostro y tu voz, pero ¿quién decide qué hace con ellos?",
-    "summary": "Un reportaje analiza cómo la inteligencia artificial permite recrear el rostro y la voz de personas, incluidas las fallecidas, y plantea la pregunta de quién controla y decide el uso de esos datos. El tema expone vacíos regulatorios en torno a la IA generativa y los derechos de imagen.",
+    "summary": "El artículo aborda el uso de inteligencia artificial para recrear el rostro y la voz de personas fallecidas o vivas, y plantea interrogantes sobre quién controla y autoriza ese uso. El tema se enmarca en el creciente debate sobre gobernanza y límites éticos de la IA generativa.",
     "link": "https://expansion.mx/tecnologia/2026/08/28/ia-voz-fotos-despues-de-morir-ia-puede-usarlas",
     "source": "Expansión",
     "published": "2026-08-28T11:55:19+00:00",
     "category": "AI & Agents",
-    "relevance_score": 62,
+    "relevance_score": 63,
     "language": "es",
     "light": true
   },
   {
     "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
-    "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
+    "summary": "Las empresas mexicanas están reduciendo el ritmo de sus adquisiciones en el extranjero, según reporta Expansión. La tendencia refleja una postura más cautelosa en la actividad de fusiones y adquisiciones transfronterizas del sector corporativo mexicano.",
     "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-dejaron-comorar-fuera-pais",
     "source": "Expansión",
     "published": "2026-08-28T11:55:10+00:00",
@@ -111,7 +122,7 @@
   },
   {
     "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
-    "summary": "La CFE financiará 54% de sus inversiones con alianzas y recursos del sector privado fuera de su balance contable durante el sexenio de Sheinbaum, con proyectos por 37,500 millones de dólares en generación, transmisión y distribución eléctrica. El esquema busca atraer capital privado para expandir la infraestructura energética de México.",
+    "summary": "La Comisión Federal de Electricidad financiará 54% de sus inversiones mediante alianzas con el sector privado que quedarán fuera de su balance contable durante el sexenio de Claudia Sheinbaum. La CFE estima inversiones totales por 37,500 millones de dólares en generación, transmisión y distribución, de los cuales 20,100 millones no se contabilizarán como deuda de la empresa.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
     "source": "Bloomberg Línea",
     "published": "2026-08-28T11:52:59+00:00",
@@ -122,7 +133,7 @@
   },
   {
     "title": "Urgen elevar sanciones por despojo inmobiliario",
-    "summary": "Especialistas urgieron a los congresos locales y federal a endurecer las penas contra el despojo inmobiliario en México, un delito que golpea la seguridad jurídica de la propiedad y afecta la confianza en el sector inmobiliario.",
+    "summary": "Especialistas urgieron a los congresos locales y federal a endurecer las penas para frenar el delito de despojo inmobiliario en México. El llamado responde a la preocupación por la debilidad del marco legal frente a este tipo de fraude, que representa un riesgo directo para las transacciones y la certeza jurídica en el sector inmobiliario.",
     "link": "https://www.reforma.com/urgen-elevar-sanciones-por-despojo-inmobiliario/ar3265840",
     "source": "Reforma",
     "published": "2026-08-28T05:00:49-06:00",
@@ -132,91 +143,25 @@
     "light": true
   },
   {
-    "title": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
-    "summary": "Afore Coppel está cerca de comprar la participación de Advent International en InverCap, una afore competidora, en una operación valuada en 4,620 millones de pesos (unos 264 millones de dólares) pagaderos en efectivo. La adquisición le permitiría a Coppel superar el billón de pesos en recursos bajo administración, consolidando su posición entre las mayores afores de México.",
-    "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
-    "source": "Expansión",
-    "published": "2026-08-28T03:24:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
+    "title": "Efecto Medici: cuando una carrera ya no basta",
+    "summary": "Esta columna de opinión argumenta que la inteligencia artificial está desplazando la ventaja competitiva profesional hacia la capacidad de conectar disciplinas, formular mejores preguntas y pensar de forma interdisciplinaria, más que hacia la especialización tradicional. El autor retoma el 'Efecto Medici' para plantear que la versatilidad, no una sola carrera, será la clave del éxito profesional en la era de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/28/efecto-medici-cuando-una-carrera-ya-no-basta/",
+    "source": "El Financiero",
+    "published": "2026-08-28T03:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
     "language": "es",
-    "light": true
+    "light": false
   },
   {
-    "title": "PayPal Deal Talks End as Advent, Stripe Group Abandons Acquisition Effort",
-    "summary": "A consortium of Advent International and Stripe has abandoned its pursuit of PayPal, a deal that would have ranked among the largest-ever leveraged buyouts in fintech. The collapse of talks leaves PayPal's ownership structure unchanged for now.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-    "source": "Bloomberg",
-    "published": "2026-08-28T01:32:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico y CNBV suavizan su propuesta para bajar las cuotas por pagos con tarjeta",
-    "summary": "Banxico y la CNBV suavizaron su propuesta para reducir las cuotas de intercambio que se cobran por pagos con tarjeta, buscando un punto medio entre bancos y comercios. La medida busca abaratar el uso de medios de pago electrónicos en México.",
-    "link": "https://expansion.mx/economia/2026/08/27/banxico-cnbv-suaviza-propuesta-cuotas-por-pagos-con-tarjeta",
-    "source": "Expansión",
-    "published": "2026-08-28T00:23:36+00:00",
+    "title": "Gobierno de Sheinbaum vende 'bonos samurai' por primera vez en 2 años: ¿Cuánto dinero reunió?",
+    "summary": "México regresó al mercado de bonos samurái por primera vez en dos años, recaudando 282,800 millones de yenes (1,770 millones de dólares) en cuatro tramos con vencimientos de entre 3.5 y 20 años. La emisión llega en momentos en que el país enfrenta presión sobre sus calificaciones crediticias, luego de que S&P Global Ratings revisara a negativa la perspectiva de México en mayo por sus débiles resultados fiscales.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/08/28/gobierno-de-sheinbaum-vende-bonos-samurai-por-primera-vez-en-2-anos-cuanto-dinero-reunio/",
+    "source": "El Financiero",
+    "published": "2026-08-28T00:31:17+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 85,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "¿Qué pasa con mi Afore si me faltan pocas semanas cotizadas para jubilarme y me despiden?",
-    "summary": "Expansión responde a una duda frecuente de finanzas personales: qué ocurre con el saldo de la Afore de una persona despedida cuando le faltan pocas semanas cotizadas para poder jubilarse.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/27/que-pasa-afore-faltan-semanas-cotizadas-jubilarme-despiden",
-    "source": "Expansión",
-    "published": "2026-08-28T00:03:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Axtel aprueba oferta de 4TechPlus para comprar hasta 100% de las acciones",
-    "summary": "El consejo de Axtel aprobó la oferta pública de 4TechPlus, el vehículo de Tomás Milmo Santos, para adquirir hasta el 100% de las acciones de la empresa de telecomunicaciones. La oferta llega con una prima sobre el precio de mercado y aún requiere autorizaciones regulatorias en México.",
-    "link": "https://expansion.mx/empresas/2026/08/27/axtel-aprueba-oferta-de-4techplus-para-comprar-hasta-100-de-las-acciones",
-    "source": "Expansión",
-    "published": "2026-08-28T00:03:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Gasto mundialista y sobreoferta de tarjetas atrasan el pago de deudas de mexicanos",
-    "summary": "El gasto de los mexicanos durante el Mundial y una sobreoferta de tarjetas de crédito están atrasando el pago de sus deudas. El fenómeno eleva la morosidad justo cuando los emisores buscaban normalizar sus carteras de crédito al consumo.",
-    "link": "https://expansion.mx/economia/2026/08/27/mexicanos-gastaron-mundial-tarjeta-morosidad",
-    "source": "Expansión",
-    "published": "2026-08-27T23:58:47+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Sofomes enfrentan un déficit de fondeo de 200,000 mdp para cubrir la demanda de crédito",
-    "summary": "Las sociedades financieras de objeto múltiple (Sofomes) en México enfrentan un déficit de fondeo estimado en 200,000 millones de pesos para cubrir la demanda de crédito del sector. La brecha limita su capacidad de otorgar financiamiento pese al apetito de crédito en la economía.",
-    "link": "https://expansion.mx/economia/2026/08/27/sofomes-enfrentan-deficit-fondeo-200-000-mdp-demanda-credito",
-    "source": "Expansión",
-    "published": "2026-08-27T23:14:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Meta settles its blockbuster trial for up to $17bn",
-    "summary": "Meta has agreed to settle a blockbuster lawsuit for up to $17 billion, a deal that will also change how teenagers can use its platforms. It marks one of the largest such settlements against a technology company.",
-    "link": "https://www.economist.com/business/2026/08/26/meta-settles-its-blockbuster-trial-for-up-to-17bn",
-    "source": "The Economist",
-    "published": "2026-08-26T22:58:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
+    "light": false
   }
 ]
