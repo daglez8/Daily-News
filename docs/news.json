@@ -1,134 +1,167 @@
 [
   {
-    "title": "Claves sobre el acuerdo de Meta en caso de adicción de menores a redes sociales",
-    "summary": "Meta llegó a un acuerdo relacionado con señalamientos sobre la adicción de menores a las redes sociales y sus efectos en la salud mental de los usuarios más jóvenes. El caso se suma a la creciente presión regulatoria sobre las plataformas sociales para reforzar la protección de los adolescentes, un tema que otras redes observan de cerca.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/claves-sobre-acuerdo-meta-caso-adiccion-menores-redes-sociales-20260830-830898.html",
+    "title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
+    "summary": "Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global are skeptical of mounting speculation that Fed Chair Kevin Warsh is poised to raise interest rates. The debate follows Warsh's hawkish inflation remarks at Jackson Hole, which have already pressured Treasuries and lifted the dollar.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike",
+    "source": "Bloomberg",
+    "published": "2026-08-30T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Buró de Crédito: qué ve el banco en tu historial y cómo mejorar tu perfil financiero",
+    "summary": "El Buró de Crédito no es una lista negra, sino una Sociedad de Información Crediticia que concentra el historial de tarjetas, préstamos, créditos automotrices e hipotecas de cada persona, incluyendo pagos puntuales y atrasos. La decisión de otorgar un crédito depende de cada institución, que además del historial revisa ingresos y capacidad de pago.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/buro-credito-ve-banco-historial-mejorar-perfil-financiero-20260830-830911.html",
     "source": "El Economista",
-    "published": "2026-08-30T07:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
+    "published": "2026-08-30T12:18:52-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
   {
+    "title": "Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports",
+    "summary": "Aon is nearing a roughly $17 billion deal to acquire insurance brokerage USI Insurance from private equity firm KKR & Co., the Wall Street Journal reported. The transaction would rank among the largest insurance-brokerage deals in recent years, underscoring continued FIG consolidation activity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-30/aon-nears-deal-to-buy-insurance-brokerage-from-kkr-wsj-reports",
+    "source": "Bloomberg",
+    "published": "2026-08-30T16:07:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Palabra de seguridad familiar: qué es y cómo protege tu dinero y tranquilidad de los fraudes con IA",
+    "summary": "Ante el auge de fraudes que usan inteligencia artificial para clonar voces y simular llamadas de auxilio de un familiar, expertos recomiendan pactar una 'palabra de seguridad' como mecanismo de verificación. La nota explica cómo esta herramienta ayuda a proteger la estabilidad financiera y emocional de las familias frente a deepfakes y estafas telefónicas generadas con IA.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/palabra-seguridad-familiar-protege-dinero-tranquilidad-fraudes-ia-20260830-813662.html",
+    "source": "El Economista",
+    "published": "2026-08-30T10:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Shein’s $100 Billion Valuation Falls to $26 Billion",
+    "summary": "Shein is heading toward a Hong Kong listing at about $26.5 billion, roughly a quarter of its 2022 peak valuation, after earlier US and UK listing attempts stalled on regulatory hurdles. The fast-fashion giant is pitching investors on expansion beyond its core brand via acquisitions or partnerships, even as geopolitical and reputational risks persist.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-30/shein-s-100-billion-valuation-falls-to-26-billion-video",
+    "source": "Bloomberg",
+    "published": "2026-08-30T14:04:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "G20 Faces Divide Over Debt, AI and Global Growth",
+    "summary": "G20 finance officials meeting in North Carolina are divided over sovereign debt, global imbalances and growth, with the US and its partners disagreeing on both the problems and the remedies. A parallel technology track will bring Musk, Nvidia's Jensen Huang and OpenAI's Sam Altman into talks on AI as Washington pushes for a lighter regulatory framework.",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
+    "source": "Bloomberg",
+    "published": "2026-08-30T13:38:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-    "summary": "La deuda pública de México superó los 19.2 billones de pesos, un aumento de 1.4 billones respecto al año anterior, según cifras de Hacienda.",
+    "summary": "La deuda pública de México superó los 19.2 billones de pesos, un aumento de 1.4 billones respecto al año anterior, según cifras de Hacienda citadas por Expansión.",
     "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
     "source": "Expansión",
     "published": "2026-08-30T00:03:11+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
-    "summary": "Acrisure, a hybrid fintech and insurance broker, had a rough 2026, cutting 11% of its workforce (about 2,250 people) in May as part of a broad overhaul. Its ties to Guggenheim have weighed further on its bonds and loans, dragging on high-yield credit markets even though the debt hasn't yet hit distressed levels.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
-    "source": "Bloomberg",
-    "published": "2026-08-29T19:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
+    "light": false
   },
   {
     "title": "Casa Loto / Ezequiel Farca Studio",
-    "summary": "Casa Loto is a single-story residence on an elevated site overlooking the ocean in San José del Cabo, Mexico, designed by Ezequiel Farca Studio. The layout follows a longitudinal axis toward a generous living and leisure area with expansive sea views — a notable example of high-end modern Mexican residential architecture.",
+    "summary": "Casa Loto, diseñada por Ezequiel Farca Studio, es una residencia de una sola planta sobre un terreno elevado con vista al mar en San José del Cabo, México. El diseño sigue un eje longitudinal que conduce hacia una amplia área de estar y esparcimiento con vistas panorámicas al océano.",
     "link": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
     "source": "ArchDaily",
     "published": "2026-08-29T16:00:00+00:00",
     "category": "Personal Interest Watchlist",
-    "relevance_score": 72,
+    "relevance_score": 60,
     "language": "en",
     "light": false
   },
   {
     "title": "¿Cómo invertir si el S&P 500 cae a 5.500 puntos o escala hasta 9.500? UBS analiza cuatro escenarios",
-    "summary": "UBS plantea cuatro escenarios para el S&P 500 que dependen de la capacidad de la inteligencia artificial para sostener el crecimiento y de la respuesta de la Fed a la inflación, y propone adaptar las carteras sin apostar por un solo desenlace. El análisis llega en medio de señales de que el optimismo por la IA podría empezar a perder fuerza.",
+    "summary": "UBS plantea cuatro escenarios para el S&P 500 según la capacidad de la inteligencia artificial para sostener el crecimiento y la respuesta de la Fed a la inflación, con un caso central que ubicaría el índice en 8,400 puntos hacia junio de 2027. El banco espera que la economía de EU crezca cerca de 2% en 2026 y 2027, con la Fed recortando tasas dos veces en 2027 si la inflación modera.",
     "link": "https://www.bloomberglinea.com/mercados/como-invertir-si-el-sp-500-cae-a-5500-puntos-o-escala-hasta-9500-ubs-analiza-cuatro-escenarios/",
     "source": "Bloomberg Línea",
     "published": "2026-08-29T06:00:00+00:00",
     "category": "AI & Agents",
-    "relevance_score": 68,
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
   {
     "title": "Peso mexicano cierra semana con pérdidas tras advertencia de Warsh contra la inflación en EE.UU.",
-    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 unidades por dólar, luego de que el presidente de la Fed, Kevin Warsh, reafirmara su prioridad de combatir la inflación en EU. El mensaje fortaleció al dólar y presionó a las monedas emergentes, incluida la mexicana.",
+    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 unidades por dólar, después de que el presidente de la Fed, Kevin Warsh, reafirmara en Jackson Hole su compromiso de llevar la inflación al objetivo de 2%. Sus comentarios elevaron las expectativas de un alza de tasas y fortalecieron al dólar frente a otras divisas.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cierra-semana-con-perdidas-tras-advertencia-de-warsh-contra-la-inflacion-en-eeuu/",
     "source": "Bloomberg Línea",
     "published": "2026-08-29T01:34:54+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 80,
+    "relevance_score": 75,
     "language": "es",
     "light": false
   },
   {
     "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
-    "summary": "Hacienda reportó un faltante de 170,000 millones de pesos en sus ingresos de cara a la elaboración del Paquete Económico 2027, en medio de una caída en la recaudación.",
+    "summary": "Hacienda reportó un faltante de ingresos de 170,000 millones de pesos de cara a la construcción del Paquete Económico 2027, de acuerdo con Expansión. La caída en la recaudación se suma a la presión fiscal que enfrenta el gobierno mexicano para el próximo ejercicio.",
     "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
     "source": "Expansión",
     "published": "2026-08-28T23:18:57+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 78,
+    "relevance_score": 70,
     "language": "es",
-    "light": true
+    "light": false
   },
   {
     "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
-    "summary": "México colocó bonos samurái por más de 1,700 millones de dólares, una emisión de deuda en el mercado japonés que diversifica sus fuentes de financiamiento soberano.",
+    "summary": "México colocó bonos samurái por más de 1,700 millones de dólares, según reportó Expansión. La operación se suma a la estrategia de diversificación de fuentes de financiamiento soberano del país.",
     "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
     "source": "Expansión",
     "published": "2026-08-28T21:24:56+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 80,
+    "relevance_score": 74,
     "language": "es",
-    "light": true
+    "light": false
+  },
+  {
+    "title": "Cómo el tarot y el hiking ayudaron a directivos de Natura, Caliente.mx y otras empresas a ser mejores líderes",
+    "summary": "Directivos de empresas como Natura y Caliente.mx recurrieron a prácticas como el tarot y el hiking para mejorar su liderazgo, de acuerdo con un reportaje de Expansión. El artículo explora cómo herramientas no convencionales están influyendo en el desarrollo de habilidades directivas.",
+    "link": "https://expansion.mx/carrera/2026/08/28/como-ser-un-buen-lider-segun-directores-natura-avon",
+    "source": "Expansión",
+    "published": "2026-08-28T20:11:41+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street reacciona a Warsh: el dólar repunta, mientras el oro y el S&P 500 caen tras Jackson Hole",
+    "summary": "Wall Street perdió impulso el viernes después de que Kevin Warsh reafirmara en Jackson Hole su compromiso de llevar la inflación al 2%, lo que elevó las apuestas de un alza de tasas. El S&P 500 revirtió ganancias previas, presionado por las acciones de fabricantes de chips, mientras el dólar subió y el oro retrocedió.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-con-cautela-a-la-espera-del-primer-discurso-de-warsh-en-jackson-hole/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-28T20:10:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
-    "summary": "México superó a China y Estados Unidos en crecimiento de sus exportaciones dentro del G20, un dato relevante para la posición del país en el comercio global.",
+    "summary": "México superó a China y Estados Unidos en crecimiento exportador dentro del G20, de acuerdo con datos citados por Expansión. El dato refuerza la narrativa de México como beneficiario de la relocalización de cadenas de suministro (nearshoring).",
     "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
     "source": "Expansión",
     "published": "2026-08-28T19:26:15+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Animà Village / Sordo Madaleno Arquitectos",
-    "summary": "Animà Village, designed by Sordo Madaleno Arquitectos, aims to create a walkable, human-scale neighborhood in Mexico with a strong public realm and generous planting — another data point on how modern Mexican residential design is evolving.",
-    "link": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
-    "source": "ArchDaily",
-    "published": "2026-08-28T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Kevin Warsh tries being a normal central banker",
-    "summary": "The Economist profiles new Fed Chair Kevin Warsh's efforts to project a conventional, steady approach as central banker, noting that markets have responded positively to his tone. His first Jackson Hole appearance reinforced his fixed commitment to a 2% inflation target.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
-    "source": "The Economist",
-    "published": "2026-08-28T17:02:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
-    "summary": "El huevo y otros alimentos subieron de precio en agosto, lo que presiona el gasto de los hogares mexicanos en un entorno de inflación persistente.",
-    "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
-    "source": "Expansión",
-    "published": "2026-08-28T16:06:58+00:00",
-    "category": "Financial Services Mexico",
     "relevance_score": 60,
     "language": "es",
-    "light": true
+    "light": false
   }
 ]
