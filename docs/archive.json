@@ -1,5 +1,38 @@
 [
   {
+    "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+    "summary": "The world's largest developed economies are facing sharply higher financing costs as bond yields climb, adding tens of billions of dollars to debt-servicing bills since the start of the US-Iran war. The rising costs are straining public finances across the G7, intensifying pressure on budgets already stretched by elevated rates.",
+    "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-08-30T04:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+    "summary": "La deuda pública de México superó los 19.2 billones de pesos, con un aumento de 1.4 billones en el último año, de acuerdo con cifras de la Secretaría de Hacienda. El dato refleja la presión fiscal creciente sobre las finanzas públicas del país.",
+    "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+    "source": "Expansión",
+    "published": "2026-08-30T00:03:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
+    "summary": "Acrisure, the fintech-meets-insurance broker that already cut 11% of its workforce this year, is seeing renewed pressure on its bonds and loans tied to Guggenheim, dragging down broader high-yield credit markets. Its debt has fallen but remains above levels typically considered distressed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-08-29T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
     "summary": "At the Jackson Hole symposium, Federal Reserve Chair Kevin Warsh outlined a forward-looking approach to the central bank's policy path. The remarks are being read as a potential shift in how the Fed frames its stance in the near term.",
     "link": "https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1",
@@ -9,6 +42,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Casa Loto / Ezequiel Farca Studio",
+    "summary": "Casa Loto is a single-story residence by Ezequiel Farca Studio set on an elevated oceanfront site in San José del Cabo, Mexico. The design follows a longitudinal axis leading to expansive living and leisure spaces with sweeping sea views.",
+    "link": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
+    "source": "ArchDaily",
+    "published": "2026-08-29T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 70,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Can the US Defy Fiscal Gravity?",
@@ -62,6 +106,17 @@
     "published": "2026-08-29T06:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México aumenta subsidios a gasolinas y baja el de diésel mientras guerra en Irán cumple seis meses",
+    "summary": "La Secretaría de Hacienda incrementó el subsidio a las gasolinas premium y regular para la semana del 29 de agosto al 4 de septiembre, mientras redujo ligeramente el apoyo al diésel, en medio de precios elevados de combustibles por la guerra en Irán, que cumple seis meses. El cierre del estrecho de Ormuz sigue presionando los mercados energéticos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aumenta-subsidios-a-gasolinas-y-baja-el-de-diesel-mientras-guerra-en-iran-cumple-seis-meses/",
+    "source": "Bloomberg Línea",
+    "published": "2026-08-29T05:23:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
     "language": "es",
     "light": false
   },
@@ -5442,61 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 95,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿El fin del fraude digital? Incode invierte $100M contra la IA maliciosa | Ricardo Amper",
-    "summary": "Incode, la empresa mexicana de verificación de identidad, anunció una inversión de 100 millones de dólares para combatir el fraude impulsado por inteligencia artificial maliciosa. Su fundador, Ricardo Amper, aborda el tema en un podcast sobre el futuro de la seguridad digital.",
-    "link": "https://www.eleconomista.com.mx/podcasts/fraude-digital-incode-invierte-100m-ia-maliciosa-ricardo-amper-20260818-828147.html",
-    "source": "El Economista",
-    "published": "2026-08-18T12:37:38-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Forget the bond rout, fund managers are in party mode",
-    "summary": "The Financial Times reports that despite the ongoing bond market rout, fund managers remain upbeat, driven largely by continued enthusiasm for AI-related capital expenditure.",
-    "link": "https://www.ft.com/content/e57f1e66-578e-42c9-8e59-37fe05067032",
-    "source": "Financial Times",
-    "published": "2026-08-18T12:04:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Election Backlash Is Shaping Wall Street's Stock Market Views",
-    "summary": "Growing political backlash against AI and the data centers powering it has become significant enough that Wall Street strategists are now factoring election risk into their stock market recommendations. The trend highlights how AI politics is beginning to influence investment positioning.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-election-backlash-is-shaping-wall-street-s-stock-market-views",
-    "source": "Bloomberg",
-    "published": "2026-08-18T11:58:05+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
-    "summary": "Un nuevo reporte identifica un modus operandi emergente de ciberdelincuentes en México que utilizan impresoras conectadas a redes corporativas para llevar a cabo esquemas de extorsión mediante ransomware. La tendencia representa un riesgo creciente de ciberseguridad para las empresas del país.",
-    "link": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
-    "source": "Expansión",
-    "published": "2026-08-18T11:55:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
-    "summary": "Las exportaciones de Vietnam a México se duplicaron, en medio de señales de alerta sobre una posible triangulación de mercancías chinas a través de terceros países para evadir aranceles. El fenómeno genera preocupación entre autoridades comerciales mexicanas.",
-    "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
-    "source": "Expansión",
-    "published": "2026-08-18T11:55:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
     "light": true
   }
 ]
