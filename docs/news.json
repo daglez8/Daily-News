@@ -1,29 +1,29 @@
 [
   {
-    "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
-    "summary": "The world's largest developed economies are facing sharply higher financing costs as bond yields climb, adding tens of billions of dollars to debt-servicing bills since the start of the US-Iran war. The rising costs are straining public finances across the G7, intensifying pressure on budgets already stretched by elevated rates.",
-    "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-30T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-    "summary": "La deuda pública de México superó los 19.2 billones de pesos, con un aumento de 1.4 billones en el último año, de acuerdo con cifras de la Secretaría de Hacienda. El dato refleja la presión fiscal creciente sobre las finanzas públicas del país.",
-    "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
-    "source": "Expansión",
-    "published": "2026-08-30T00:03:11+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
+    "title": "Claves sobre el acuerdo de Meta en caso de adicción de menores a redes sociales",
+    "summary": "Meta llegó a un acuerdo relacionado con señalamientos sobre la adicción de menores a las redes sociales y sus efectos en la salud mental de los usuarios más jóvenes. El caso se suma a la creciente presión regulatoria sobre las plataformas sociales para reforzar la protección de los adolescentes, un tema que otras redes observan de cerca.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/claves-sobre-acuerdo-meta-caso-adiccion-menores-redes-sociales-20260830-830898.html",
+    "source": "El Economista",
+    "published": "2026-08-30T07:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
     "language": "es",
     "light": false
   },
   {
+    "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+    "summary": "La deuda pública de México superó los 19.2 billones de pesos, un aumento de 1.4 billones respecto al año anterior, según cifras de Hacienda.",
+    "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+    "source": "Expansión",
+    "published": "2026-08-30T00:03:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
-    "summary": "Acrisure, the fintech-meets-insurance broker that already cut 11% of its workforce this year, is seeing renewed pressure on its bonds and loans tied to Guggenheim, dragging down broader high-yield credit markets. Its debt has fallen but remains above levels typically considered distressed.",
+    "summary": "Acrisure, a hybrid fintech and insurance broker, had a rough 2026, cutting 11% of its workforce (about 2,250 people) in May as part of a broad overhaul. Its ties to Guggenheim have weighed further on its bonds and loans, dragging on high-yield credit markets even though the debt hasn't yet hit distressed levels.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
     "source": "Bloomberg",
     "published": "2026-08-29T19:00:00+00:00",
@@ -34,95 +34,73 @@
   },
   {
     "title": "Casa Loto / Ezequiel Farca Studio",
-    "summary": "Casa Loto is a single-story residence by Ezequiel Farca Studio set on an elevated oceanfront site in San José del Cabo, Mexico. The design follows a longitudinal axis leading to expansive living and leisure spaces with sweeping sea views.",
+    "summary": "Casa Loto is a single-story residence on an elevated site overlooking the ocean in San José del Cabo, Mexico, designed by Ezequiel Farca Studio. The layout follows a longitudinal axis toward a generous living and leisure area with expansive sea views — a notable example of high-end modern Mexican residential architecture.",
     "link": "https://www.archdaily.com/1183850/casa-loto-ezequiel-farca-studio",
     "source": "ArchDaily",
     "published": "2026-08-29T16:00:00+00:00",
     "category": "Personal Interest Watchlist",
-    "relevance_score": 70,
+    "relevance_score": 72,
     "language": "en",
     "light": false
-  },
-  {
-    "title": "Swiss wealth managers urge delay to ownership register after Liechtenstein hack",
-    "summary": "Swiss wealth managers are pushing to delay a new beneficial-ownership register after a hack in neighboring Liechtenstein raised fresh cybersecurity concerns. Bankers warn that a public list of ultimate owners for more than 500,000 companies and entities could become a security liability.",
-    "link": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-29T11:00:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   },
   {
     "title": "¿Cómo invertir si el S&P 500 cae a 5.500 puntos o escala hasta 9.500? UBS analiza cuatro escenarios",
-    "summary": "UBS plantea cuatro escenarios para el S&P 500, desde una caída a 5,500 puntos hasta un alza a 9,500, según si la inteligencia artificial sostiene el crecimiento corporativo y cómo responda la Fed a la inflación. En su caso central, el banco prevé el índice en 8,400 puntos hacia junio de 2027, con dos recortes de tasas en 2027.",
+    "summary": "UBS plantea cuatro escenarios para el S&P 500 que dependen de la capacidad de la inteligencia artificial para sostener el crecimiento y de la respuesta de la Fed a la inflación, y propone adaptar las carteras sin apostar por un solo desenlace. El análisis llega en medio de señales de que el optimismo por la IA podría empezar a perder fuerza.",
     "link": "https://www.bloomberglinea.com/mercados/como-invertir-si-el-sp-500-cae-a-5500-puntos-o-escala-hasta-9500-ubs-analiza-cuatro-escenarios/",
     "source": "Bloomberg Línea",
     "published": "2026-08-29T06:00:00+00:00",
-    "category": "Capital Markets & M&A",
+    "category": "AI & Agents",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México aumenta subsidios a gasolinas y baja el de diésel mientras guerra en Irán cumple seis meses",
-    "summary": "La Secretaría de Hacienda incrementó el subsidio a las gasolinas premium y regular para la semana del 29 de agosto al 4 de septiembre, mientras redujo ligeramente el apoyo al diésel, en medio de precios elevados de combustibles por la guerra en Irán, que cumple seis meses. El cierre del estrecho de Ormuz sigue presionando los mercados energéticos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aumenta-subsidios-a-gasolinas-y-baja-el-de-diesel-mientras-guerra-en-iran-cumple-seis-meses/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-29T05:23:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
     "language": "es",
     "light": false
   },
   {
     "title": "Peso mexicano cierra semana con pérdidas tras advertencia de Warsh contra la inflación en EE.UU.",
-    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 por dólar, después de que el presidente de la Fed, Kevin Warsh, reafirmara en Jackson Hole su compromiso de llevar la inflación al 2%. Sus comentarios elevaron las expectativas de un endurecimiento monetario adicional, fortaleciendo al dólar frente a monedas emergentes.",
+    "summary": "El peso mexicano cerró la semana con una depreciación de 0.7%, cotizando en 17.03 unidades por dólar, luego de que el presidente de la Fed, Kevin Warsh, reafirmara su prioridad de combatir la inflación en EU. El mensaje fortaleció al dólar y presionó a las monedas emergentes, incluida la mexicana.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cierra-semana-con-perdidas-tras-advertencia-de-warsh-contra-la-inflacion-en-eeuu/",
     "source": "Bloomberg Línea",
     "published": "2026-08-29T01:34:54+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 68,
+    "relevance_score": 80,
     "language": "es",
     "light": false
   },
   {
     "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
-    "summary": "Hacienda registra una caída en los ingresos que deja un faltante de 170,000 millones de pesos rumbo al Paquete Económico 2027. La menor recaudación añade presión a la planeación fiscal del próximo año.",
+    "summary": "Hacienda reportó un faltante de 170,000 millones de pesos en sus ingresos de cara a la elaboración del Paquete Económico 2027, en medio de una caída en la recaudación.",
     "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
     "source": "Expansión",
     "published": "2026-08-28T23:18:57+00:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 74,
+    "relevance_score": 78,
     "language": "es",
-    "light": false
+    "light": true
   },
   {
     "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
-    "summary": "México colocó bonos samurái por más de 1,700 millones de dólares, una emisión de deuda denominada en yenes en el mercado japonés. La operación forma parte de la estrategia del gobierno mexicano para diversificar sus fuentes de financiamiento.",
+    "summary": "México colocó bonos samurái por más de 1,700 millones de dólares, una emisión de deuda en el mercado japonés que diversifica sus fuentes de financiamiento soberano.",
     "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
     "source": "Expansión",
     "published": "2026-08-28T21:24:56+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 75,
+    "relevance_score": 80,
     "language": "es",
-    "light": false
+    "light": true
   },
   {
     "title": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
-    "summary": "México registró un crecimiento exportador superior al de China y Estados Unidos entre los países del G20, de acuerdo con datos citados por Expansión. El dato resalta el dinamismo comercial de México dentro del panorama económico global.",
+    "summary": "México superó a China y Estados Unidos en crecimiento de sus exportaciones dentro del G20, un dato relevante para la posición del país en el comercio global.",
     "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
     "source": "Expansión",
     "published": "2026-08-28T19:26:15+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 65,
     "language": "es",
-    "light": false
+    "light": true
   },
   {
     "title": "Animà Village / Sordo Madaleno Arquitectos",
-    "summary": "Animá Village, diseñado por Sordo Madaleno Arquitectos, se concibe como un vecindario caminable y a escala humana en México, articulado en torno a un espacio público sólido y áreas verdes generosas. El proyecto privilegia el diseño peatonal sobre la planeación centrada en el automóvil.",
+    "summary": "Animà Village, designed by Sordo Madaleno Arquitectos, aims to create a walkable, human-scale neighborhood in Mexico with a strong public realm and generous planting — another data point on how modern Mexican residential design is evolving.",
     "link": "https://www.archdaily.com/1183857/anima-village-javier-sordo-madaleno-bringas",
     "source": "ArchDaily",
     "published": "2026-08-28T19:00:00+00:00",
@@ -132,14 +110,25 @@
     "light": false
   },
   {
-    "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
-    "summary": "La CFE financiará 54% de sus inversiones de generación, transmisión y distribución eléctrica —estimadas en US$37,500 millones para 2026-2030— mediante alianzas con el sector privado, de las cuales US$20,100 millones quedarán fuera de su balance contable. La estrategia busca mantener una estructura financiera sana mientras impulsa proyectos mixtos de energía renovable durante el sexenio de Sheinbaum.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-28T11:52:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
+    "title": "Kevin Warsh tries being a normal central banker",
+    "summary": "The Economist profiles new Fed Chair Kevin Warsh's efforts to project a conventional, steady approach as central banker, noting that markets have responded positively to his tone. His first Jackson Hole appearance reinforced his fixed commitment to a 2% inflation target.",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+    "source": "The Economist",
+    "published": "2026-08-28T17:02:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
+    "summary": "El huevo y otros alimentos subieron de precio en agosto, lo que presiona el gasto de los hogares mexicanos en un entorno de inflación persistente.",
+    "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
+    "source": "Expansión",
+    "published": "2026-08-28T16:06:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
     "language": "es",
-    "light": false
+    "light": true
   }
 ]

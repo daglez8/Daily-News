@@ -1,5 +1,16 @@
 [
   {
+    "title": "Claves sobre el acuerdo de Meta en caso de adicción de menores a redes sociales",
+    "summary": "Meta llegó a un acuerdo relacionado con señalamientos sobre la adicción de menores a las redes sociales y sus efectos en la salud mental de los usuarios más jóvenes. El caso se suma a la creciente presión regulatoria sobre las plataformas sociales para reforzar la protección de los adolescentes, un tema que otras redes observan de cerca.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/claves-sobre-acuerdo-meta-caso-adiccion-menores-redes-sociales-20260830-830898.html",
+    "source": "El Economista",
+    "published": "2026-08-30T07:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
     "summary": "The world's largest developed economies are facing sharply higher financing costs as bond yields climb, adding tens of billions of dollars to debt-servicing bills since the start of the US-Iran war. The rising costs are straining public finances across the G7, intensifying pressure on budgets already stretched by elevated rates.",
     "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
@@ -5487,16 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Anthropic's Annualized Revenue Tops $65 Billion",
-    "summary": "Anthropic's annualized revenue has surpassed $65 billion, more than seven times its pace at the end of last year, driven by strong enterprise adoption of Claude. The figure underscores the accelerating commercial scale of AI foundation-model providers even as spending on AI infrastructure surges.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video",
-    "source": "Bloomberg",
-    "published": "2026-08-18T12:55:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
   }
 ]
