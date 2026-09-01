@@ -1,5 +1,192 @@
 [
   {
+    "title": "Bartleby newsletter: Teamwork doesn’t make the machines work",
+    "summary": "The Economist's Bartleby column examines whether AI agents are actually capable of working together effectively inside organizations. Columnist Andrew Palmer questions the assumption that AI agent cooperation will translate smoothly into workplace productivity gains.",
+    "link": "https://www.economist.com/business/2026/09/01/bartleby-newsletter-teamwork-doesnt-make-the-machines-work",
+    "source": "The Economist",
+    "published": "2026-09-01T12:27:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México va por mayor escrutinio a inversión extranjera por seguridad nacional en línea con EE.UU.",
+    "summary": "La presidenta Claudia Sheinbaum envio al Senado una reforma a la Ley de Inversion Extranjera para imponer mayor escrutinio por seguridad nacional a las adquisiciones foraneas, alineando a Mexico con el regimen que ya aplican Estados Unidos, la Union Europea y la OCDE. La iniciativa llega dias antes de una nueva ronda de conversaciones entre los equipos mexicano y estadounidense en Washington.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-va-por-mayor-escrutinio-a-inversion-extranjera-por-seguridad-nacional-en-linea-con-eeuu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-01T12:15:45+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pemex y la credibilidad financiera del soberano",
+    "summary": "Un analisis retomado por El Financiero documenta como los rescates multimillonarios a Pemex, que ya superan 130,000 millones de dolares en la ultima decada, han deteriorado la percepcion de solvencia del Estado mexicano, llevando a que los bonos soberanos se negocien con rendimientos comparables a deuda de grado especulativo. El columnista advierte que este deterioro crediticio eleva el costo de financiamiento del pais pese a que un incumplimiento de Pemex sigue viendose poco probable.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/09/01/pemex-y-la-credibilidad-financiera-del-soberano/",
+    "source": "El Financiero",
+    "published": "2026-09-01T12:10:07+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ares Venture Buys US Student Housing Properties for $435 Million",
+    "summary": "The Scion Group and Ares Management bought four US student housing communities for about $435 million, marking the second deal under their new investment partnership. The transaction underscores continued private-equity appetite for niche real estate asset classes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/ares-venture-buys-us-student-housing-properties-for-435-million",
+    "source": "Bloomberg",
+    "published": "2026-09-01T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Seattle Faces Housing Slowdown as AI Reshapes Employment",
+    "summary": "Bloomberg reports that Seattle's real estate market is slowing as AI reshapes local employment patterns and new taxes hit wealthy residents. The city, a major tech hub, offers an early look at how AI-driven job disruption can spill over into housing demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/seattle-faces-housing-slowdown-as-ai-reshapes-employment",
+    "source": "Bloomberg",
+    "published": "2026-09-01T11:30:06+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Job Risks Spread to PR, Web Development and Hotel Workers",
+    "summary": "Bloomberg reports that AI-driven job displacement risk is spreading beyond early-hit sectors into PR, web development and hotel work, as the US labor market shows continued softness. The trend adds to evidence that AI's impact on employment is broadening across white-collar and service roles.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+    "source": "Bloomberg",
+    "published": "2026-09-01T10:29:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Felix Pago Raises $200 Million to Expand Into Financial Services",
+    "summary": "Money-transfer startup Felix Pago raised $200 million to expand beyond remittances into lending and savings products for Latin American immigrants in the US. The funding signals continued investor appetite for fintechs targeting the LatAm diaspora with broader financial services.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services",
+    "source": "Bloomberg",
+    "published": "2026-09-01T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Monashees abre con Google y B3 un hub para startups de IA en Brasil con alcance global",
+    "summary": "La firma de capital de riesgo Monashees inauguro Gama House, un espacio para startups de inteligencia artificial en Sao Paulo, en asociacion con Google for Startups y la bolsa brasileña B3. La iniciativa busca impulsar negocios de IA latinoamericanos con proyeccion global.",
+    "link": "https://www.bloomberglinea.com/tecnologia/innovacion/monashees-abre-con-google-y-b3-un-hub-para-startups-de-ia-en-brasil-con-alcance-global/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-01T09:50:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "EU, el mercado de mil 500 millones de dólares que Viva Aerobus y Volaris quieren ampliar con su fusión",
+    "summary": "Viva Aerobus y Volaris avanzaran el jueves 3 de septiembre en su proceso de fusion con una sesion extraordinaria para definir la integracion del Consejo de Administracion del nuevo Grupo Mas Vuelos y ajustar sus estatutos a los requerimientos de la Secretaria de Economia. La operacion busca consolidar una estructura mas eficiente en el mercado aereo Mexico-Estados Unidos, valuado en 1,500 millones de dolares.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/01/eu-el-mercado-de-mil-500-millones-de-dolares-que-viva-aerobus-y-volaris-quieren-ampliar-con-su-fusion/",
+    "source": "El Financiero",
+    "published": "2026-09-01T09:24:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Deere Launches AI Assistant Named JD to Guide Farmers’ Choices",
+    "summary": "Deere & Co. launched an AI assistant called JD, built into its Operations Center mobile app, to help farmers make sense of the data collected by their high-tech tractors. The tool illustrates how established industrial companies are embedding AI agents directly into customer workflows.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/deere-launches-ai-assistant-named-jd-to-guide-farmers-choices",
+    "source": "Bloomberg",
+    "published": "2026-09-01T09:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Partners Group replaces chief as fund redemptions weigh on shares",
+    "summary": "Financial Times reports that Swiss private equity firm Partners Group is replacing its CEO, with David Layton stepping down in a planned succession after weaker performance in its flagship fund weighed on the firm's shares. Investor redemptions from the fund have added pressure on the manager.",
+    "link": "https://www.ft.com/content/0d5b67bd-a07f-47da-9e9b-505df1b4ff33?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-01T08:35:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Baidu’s AI Profits to Match Those From Search Soon, CFO Says",
+    "summary": "Baidu's finance chief said the company's AI investments could soon generate profits and cash payback comparable to its legacy search business, marking a turning point in its costly pivot away from its internet roots. The comments suggest AI monetization is beginning to prove out for major Chinese tech incumbents.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/baidu-s-ai-profits-to-match-those-from-search-soon-cfo-says",
+    "source": "Bloomberg",
+    "published": "2026-09-01T08:22:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "MiniMax Eyes AGI Milestone Tied to 1% of Global GDP Output",
+    "summary": "Chinese AI lab MiniMax says it will judge its progress toward artificial general intelligence by whether its models can generate output equivalent to 1% of global GDP, according to co-founder Yeyi Yun. The benchmark reflects the aggressive economic framing Chinese AI labs are using to describe AGI milestones.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/minimax-eyes-agi-milestone-tied-to-1-of-global-gdp-output",
+    "source": "Bloomberg",
+    "published": "2026-09-01T08:10:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dólar en América Latina: las monedas más fuertes y débiles en agosto, de México a Brasil",
+    "summary": "El peso mexicano lidero el desempeño cambiario entre las principales monedas de America Latina en agosto, un mes marcado por la debilidad inicial del dolar seguida de una recuperacion tras el discurso del presidente de la Fed, Kevin Warsh, en Jackson Hole. Bloomberg Linea repasa que monedas de la region ganaron y perdieron terreno frente al billete verde durante el mes.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-en-america-latina-las-monedas-mas-fuertes-y-debiles-en-agosto-de-mexico-a-brasil/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-01T08:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hidalgo suma 147,000 millones de pesos en inversiones comprometidas",
+    "summary": "El gobernador de Hidalgo, Julio Menchaca, anuncio que el estado acumula 147,000 millones de pesos en inversiones comprometidas durante su administracion, con una expectativa de generar cerca de 191,000 empleos. El anuncio se dio en el foro \"Es tiempo de Hidalgo, Potencia en Marcha\", donde el mandatario destaco la vinculacion estrategica con el sector privado.",
+    "link": "https://www.eleconomista.com.mx/estados/hidalgo-suma-147-000-millones-pesos-inversiones-comprometidas-20260901-831154.html",
+    "source": "El Economista",
+    "published": "2026-09-01T07:05:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Liderar o controlar? Las señales de que un gerente está cayendo en el micromanagement",
+    "summary": "El micromanagement, o supervision excesiva de un jefe sobre las decisiones de su equipo, suele confundirse con una buena gestion pero tiene efectos negativos en el desempeño y la autonomia de los colaboradores. Especialistas en liderazgo consultados por El Economista explican las señales que distinguen gestionar de controlar en exceso.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/liderar-controlar-senales-gerente-cayendo-micromanagement-20260901-831142.html",
+    "source": "El Economista",
+    "published": "2026-09-01T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic firma un acuerdo de computación en la nube por 35,000 millones de dólares con Lambda",
+    "summary": "Anthropic firmo un acuerdo de computo en la nube por 35,000 millones de dolares con Lambda, proveedor de nube respaldado por Nvidia, para construir un centro de datos de IA en el condado de Nueces, Texas. El proyecto, desarrollado por Hut 8 -antes dedicada a la mineria de criptomonedas-, tendra una capacidad de unos 350 megavatios.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-firma-acuerdo-computacion-nube-35-000-millones-dolares-lambda-20260901-831236.html",
+    "source": "El Economista",
+    "published": "2026-09-01T06:10:20-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
     "summary": "Anthropic has agreed to a $35 billion computing deal with Lambda, an Nvidia-backed cloud provider, as part of a push to rapidly expand its AI capacity. The deal underscores the scale of infrastructure spending underpinning the current AI boom.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
@@ -8,6 +195,17 @@
     "category": "AI & Agents",
     "relevance_score": 95,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sube deuda pública 32.6% durante la 4T",
+    "summary": "La deuda del sector publico federal mexicano se ubico en 20.6 billones de pesos en julio, un incremento de 32.6% respecto a diciembre de 2018, cuando inicio la administracion de Lopez Obrador. La cifra, reportada por Reforma, refleja el ritmo de acumulacion de pasivos publicos del pais en los ultimos años.",
+    "link": "https://www.reforma.com/sube-deuda-publica-32-6-durante-la-4t/ar3267709",
+    "source": "Reforma",
+    "published": "2026-09-01T05:01:16-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
     "light": true
   },
   {
@@ -44,6 +242,17 @@
     "light": true
   },
   {
+    "title": "Revolut’s mission to dominate banking",
+    "summary": "The Financial Times profiles Revolut's push to become an 'everything app' after years of struggling to secure a banking licence. The piece examines how the fintech now aims to shake up traditional banking as it scales its ambitions, a useful benchmark for digital banking strategy in other markets.",
+    "link": "https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-01T04:00:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
     "summary": "The Yakisugi Cabin is a compact, relocatable dwelling that uses reclaimed materials and traditional Japanese charred-wood craft alongside high-performance construction. The project treats material constraint as a design tool, testing how lightly a small mountain retreat can sit on its site.",
     "link": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
@@ -62,6 +271,17 @@
     "published": "2026-09-01T00:52:06-06:00",
     "category": "AI & Agents",
     "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
+    "summary": "S&P Global advirtio que el fenomeno de El Niño amenaza con encarecer los precios de los alimentos en Mexico hasta 2027. La calificadora señala que el impacto climatico podria presionar la inflacion alimentaria del pais en los proximos años.",
+    "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
+    "source": "Expansión",
+    "published": "2026-09-01T00:07:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -161,6 +381,17 @@
     "published": "2026-08-31T21:57:09+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Se pueden fusionar las pensiones de IMSS e ISSSTE? El trámite que debes hacer si trabajaste en sector público y privado",
+    "summary": "Expansion explica el tramite que deben seguir quienes cotizaron tanto en el IMSS como en el ISSSTE para intentar fusionar sus periodos de cotizacion de cara a su pension. La nota detalla los requisitos para trabajadores que combinaron empleo en el sector publico y privado a lo largo de su vida laboral.",
+    "link": "https://expansion.mx/finanzas-personales/2026/08/31/fusionar-pensiones-imss-issste-tramite-hacer-publico-privado",
+    "source": "Expansión",
+    "published": "2026-08-31T21:06:28+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5267,236 +5498,5 @@
     "relevance_score": 92,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Garmin Cirqa Smart Band Review: How $200 Fitness Tracker Compares to Whoop",
-    "summary": "Garmin's new $200 Cirqa Smart Band closely mimics the look of a Whoop tracker but falls short on the depth of health insights Whoop offers. The review positions Cirqa as a lower-cost alternative rather than a genuine competitor on data quality.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/garmin-cirqa-smart-band-review-how-200-fitness-tracker-compares-to-whoop",
-    "source": "Bloomberg",
-    "published": "2026-08-20T10:15:03+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jack Ma-Backed Ant's Profit Flattened After AI, Expansion Costs",
-    "summary": "Jack Ma-backed Ant Group's quarterly profit barely grew as the fintech and payments giant ramped up investment in AI for healthcare, large language models, and payment services. The results show how even cash-rich financial-technology players are absorbing near-term margin pressure to fund AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs",
-    "source": "Bloomberg",
-    "published": "2026-08-20T10:11:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China acelera en la carrera de la IA y sus modelos más baratos desafían el dominio de EE.UU.",
-    "summary": "China ya no necesita el modelo de IA más avanzado del mundo para desafiar a EE.UU.: modelos de Moonshot, DeepSeek, Alibaba y Z.ai se acercan en desempeño a los líderes estadounidenses mientras compiten agresivamente en precio. Analistas advierten que si modelos más baratos cubren buena parte de las mismas tareas, el retorno sobre los cientos de miles de millones invertidos en infraestructura de IA en EE.UU. podría enfrentar mayor escrutinio.",
-    "link": "https://www.bloomberglinea.com/mercados/china-acelera-en-la-carrera-de-la-ia-y-sus-modelos-mas-baratos-desafian-el-dominio-de-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Humanoid Robots Shift to Industrial Utility",
-    "summary": "At Beijing's World Robot Conference, Unitree's founder said humanoid robots could achieve commercial viability within two years as China's industry pivots from viral demos to real factory and household use cases. The shift signals humanoid robotics moving from novelty toward industrial deployment.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/china-humanoid-robots-shift-to-industrial-utility-video",
-    "source": "Bloomberg",
-    "published": "2026-08-20T09:40:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alibaba's Profit Dives 75% After Amping Up AI Spending",
-    "summary": "Alibaba's profit plunged more than 75% as the e-commerce giant sharply increased AI spending while also contending with a broader slowdown in Chinese consumption. The results illustrate the near-term earnings cost Chinese tech majors are absorbing to compete in AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
-    "source": "Bloomberg",
-    "published": "2026-08-20T09:39:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US 30-Year Bonds Reverse Gains From Treasury’s Buyback Surprise",
-    "summary": "US Treasuries fell a day after the administration's surprise decision to increase buybacks of longer-dated bonds, showing the move did little to ease concern over surging government debt. Some yields had been pushed to a 19-year high before the announcement.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump",
-    "source": "Bloomberg",
-    "published": "2026-08-20T09:23:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso 'rompe el piso' de las 17 unidades por dólar, a mínimos desde 2024",
-    "summary": "El peso mexicano rompió el piso de 17 unidades por dólar por primera vez desde mayo de 2024, cotizando en 16.9466, tras el anuncio del Tesoro de EU de duplicar la recompra de bonos de largo plazo, lo que debilitó al dólar y bajó el rendimiento del bono a 30 años a 5.19%. La medida busca contener el costo de la deuda pública estadounidense, que superó por primera vez los 40 billones de dólares.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/20/peso-rompe-el-piso-de-las-17-unidades-por-dolar-a-minimos-desde-2024/",
-    "source": "El Financiero",
-    "published": "2026-08-20T08:33:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nick Bostrom on What Happens If AI Solves All Problems",
-    "summary": "Philosopher Nick Bostrom discusses what human meaning and purpose might look like in a world where AI and robots can outperform humans at everything, building on his earlier work mapping AI existential risk. He explores both the dangers of unchecked superintelligence and the harder question of finding fulfillment in a fully AI-solved world.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-problems-video",
-    "source": "Bloomberg",
-    "published": "2026-08-20T08:14:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
-    "summary": "Recruitment firm Hays is shifting its focus toward hiring for roles that are harder to automate, as staffing companies globally adjust to AI's growing threat to traditional job categories. The move reflects a broader recalibration of talent strategy around AI-resistant skills.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-    "source": "Bloomberg",
-    "published": "2026-08-20T07:47:05+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Shein Seeks to Rope In Boyu, UBS as IPO Cornerstone Investors",
-    "summary": "Asian private equity firm Boyu Capital and an asset-management arm of UBS are among the firms in talks to become cornerstone investors in Shein's Hong Kong IPO, according to people familiar with the matter. The talks highlight continued interest from major financial institutions in backing large consumer-sector listings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/shein-seeks-to-rope-in-boyu-ubs-as-ipo-cornerstone-investors",
-    "source": "Bloomberg",
-    "published": "2026-08-20T07:06:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El ego y la sucesión: el reto de dejar el mando en la empresa familiar",
-    "summary": "Un estudio del IPADE y el Tec de Monterrey identifica el ego de los fundadores como un obstáculo poco reconocido en la sucesión de empresas familiares: 50% de los fundadores no planea retirarse, 30% no define cuándo lo hará y solo 20% realmente cede el mando. Especialistas señalan que las emociones no gestionadas durante el proceso retrasan la llegada de nuevas generaciones al liderazgo.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/ego-sucesion-reto-dejar-mando-empresa-familiar-20260820-828939.html",
-    "source": "El Economista",
-    "published": "2026-08-20T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Regular a ciegas: El riesgo DMA",
-    "summary": "El comercio electrónico mexicano alcanzó cerca de 790 mil millones de pesos en 2024, con seis años consecutivos de expansión de doble dígito, lo que ha reabierto el debate sobre replicar la Digital Markets Act europea para regular a las grandes plataformas digitales. El autor advierte que trasladar ese modelo a México sin analizar antes sus fundamentos y controversias podría producir una regulación mal calibrada.",
-    "link": "https://www.eleconomista.com.mx/opinion/regular-ciegas-riesgo-dma-20260820-829246.html",
-    "source": "El Economista",
-    "published": "2026-08-20T06:03:57-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Startup Callosum Raises $100 Million to Make AI Tasks Cheaper",
-    "summary": "Callosum, a startup building software that matches AI tasks to specific models and chips to cut costs, raised $100 million in early financing from backers including the UK's public AI fund. The round reflects continued investor appetite for infrastructure that makes AI deployment cheaper.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
-    "source": "Bloomberg",
-    "published": "2026-08-20T06:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CVC-Led Group to Back Standard Life’s UK Pension Risk Transfers",
-    "summary": "Standard Life agreed to a new partnership with a consortium led by CVC Capital Partners and Prudential Financial to back its UK pension risk-transfer business, the latest tie-up between an insurer and private capital in that fast-growing market. The deal reflects continued private-equity interest in insurance and pension-related financial services.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/cvc-led-group-to-back-standard-life-s-uk-pension-risk-transfers",
-    "source": "Bloomberg",
-    "published": "2026-08-20T06:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The slow sucking sound of AI",
-    "summary": "This Financial Times piece looks for early signs that heavy AI-related capital spending is crowding out other investment in the economy. It examines how much of current growth and capital flows are being diverted toward AI at the expense of other sectors.",
-    "link": "https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-20T04:00:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students",
-    "summary": "Wall Street and top US law firms are facing backlash for recruiting students earlier and earlier in their academic careers, a practice students and executives alike are calling excessive. The trend highlights growing tension around talent competition and career-pipeline pressure in professional services.",
-    "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-20T04:00:19+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘La venganza del superpeso’: ¿Cómo cerrará el tipo de cambio este año y en 2027? Estos son los pronósticos",
-    "summary": "El peso mexicano cerró el miércoles en 16.94 unidades por dólar, uno de sus niveles más apreciados desde 2024. Banco Base mejoró su pronóstico y ahora espera un tipo de cambio de 17.29 pesos al cierre de 2026 y 17.84 en 2027, aunque advierte riesgos que podrían debilitar la moneda.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/19/peso-se-aprecia-sobre-el-dolar-como-cerrara-el-tipo-de-cambio-en-2026-y-2027/",
-    "source": "El Financiero",
-    "published": "2026-08-20T03:17:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Japan Student-Loan, Housing Finance Bonds Sold at Record Coupons",
-    "summary": "Japan Student Services Organization and Japan Housing Finance Agency both priced bonds at record-high coupons, as rising interest rates increasingly show up in the borrowing costs faced by students and homeowners. The pricing illustrates how higher global rates are feeding directly into consumer and housing-finance funding costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-student-loan-bond-priced-at-record-high-coupon",
-    "source": "Bloomberg",
-    "published": "2026-08-20T02:05:51+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "India Bars JPMorgan Unit for Alleged Market Manipulation",
-    "summary": "India's securities regulator banned a Mauritius-based unit of JPMorgan Chase from the country's capital markets, marking the first enforcement action over alleged manipulation of India's new closing stock-price auction. The action signals tightening regulatory scrutiny of global banks' trading practices in emerging markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-    "source": "Bloomberg",
-    "published": "2026-08-20T01:29:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US-Canada Trade Draft Pressures Mexico to Match Terms",
-    "summary": "Canada's preliminary trade deal with the US caught Mexican officials and business leaders off guard, and Mexico now wants an agreement of its own. The episode raises doubts over whether months of careful engagement will deliver comparable tariff relief.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-canada-trade-draft-piles-pressure-on-mexico-to-match-terms",
-    "source": "Bloomberg",
-    "published": "2026-08-20T00:58:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cómo la crisis de una minorista brasileña impacta su alianza con MercadoLibre, según Citi",
-    "summary": "La minorista brasileña Casas Bahia solicitó una reorganización judicial para renegociar una deuda de US$3,345 millones, lo que llevó a Citi a calificar el impacto sobre su aliada MercadoLibre como marginalmente negativo, aunque con algunos aspectos positivos a mediano plazo. Las acciones de MercadoLibre cayeron más de 3% en Nasdaq, mientras que su competidora Magazine Luiza subió más de 8% en la B3.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/como-la-crisis-de-una-minorista-brasilena-impacta-su-alianza-con-mercadolibre-segun-citi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T00:30:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
