@@ -1,5 +1,126 @@
 [
   {
+    "title": "AI Data Center Spending to Reach $32 Trillion by 2050, PwC Says",
+    "summary": "PwC projects global data-center spending will hit roughly $31.6 trillion through 2050 to keep pace with AI demand, calling it an investment boom without historical precedent. The forecast underscores how much capital is still expected to flow into AI infrastructure over coming decades.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
+    "source": "Bloomberg",
+    "published": "2026-09-02T04:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Partner Gets Strong Demand for Rare GPU-Tied Loan in Asia",
+    "summary": "GMI Cloud, an Nvidia partner, secured commitments for more than double the funding it sought in a loan backed by revenue from selling computing power on advanced chips. The deal signals growing investor appetite for novel financing structures tied to AI compute demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-partner-gets-strong-demand-for-rare-gpu-tied-loan-in-asia",
+    "source": "Bloomberg",
+    "published": "2026-09-02T02:45:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
+    "summary": "AI coding startup Cognition AI is close to closing a new funding round that would value it at about $47 billion, according to people familiar with the effort. The jump underscores investors' continued appetite for AI coding and agentic-software companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-09-02T00:29:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 83,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Nears $14 Billion Hugging Face Deal This Week",
+    "summary": "Nvidia is in advanced talks to acquire AI startup Hugging Face in a transaction that could total around $14 billion, according to people familiar with the matter. The deal would be one of the largest AI acquisitions to date, deepening Nvidia's push beyond chips into the AI software and model ecosystem.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+    "source": "Bloomberg",
+    "published": "2026-09-02T00:15:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Petróleo y tasas largas golpean a Wall Street; el peso resiste en 16.99 por dólar",
+    "summary": "Un repunte del petróleo y el alza en tasas largas presionaron a los mercados en Wall Street, mientras el peso mexicano se mantuvo relativamente estable en 16.99 por dólar. La resiliencia de la moneda contrasta con la volatilidad observada en bonos y acciones estadounidenses.",
+    "link": "https://expansion.mx/mercados/2026/09/01/petroleo-tasas-largas-wall-street-peso-16-99-por-dolar",
+    "source": "Expansión",
+    "published": "2026-09-01T22:47:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
+    "summary": "Un consorcio de 21 grandes bancos globales está preparando el lanzamiento de una stablecoin denominada en dólares para 2027, con planes de extender el proyecto a una versión en euros. La iniciativa refleja el creciente interés de la banca tradicional por entrar directamente en infraestructura de activos digitales.",
+    "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
+    "source": "Expansión",
+    "published": "2026-09-01T22:20:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dell Sees Surge in AI Server Sales, Boosts Outlook",
+    "summary": "Dell Technologies raised its annual sales forecast by $25 billion after seeing surging demand for servers built to run AI workloads. Shares jumped on the news, with analysts pointing to Dell's dominant position in the AI hardware supply chain.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/dell-sees-surge-in-ai-server-sales-boosts-outlook-video",
+    "source": "Bloomberg",
+    "published": "2026-09-01T21:03:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dropbox User Accounts Breached by Hackers Who Accessed Data",
+    "summary": "Hackers broke into thousands of Dropbox accounts last month, viewing and downloading material users had stored on the cloud platform, according to a company statement and records reviewed by Bloomberg. The breach adds to a string of high-profile cloud-storage security incidents this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dropbox-user-accounts-breached-by-hackers-some-data-accessed",
+    "source": "Bloomberg",
+    "published": "2026-09-01T20:59:55+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cetes le ganan a la inflación, pero solo un plazo rebasa el 7% de rendimiento",
+    "summary": "Los Certificados de la Tesorería (Cetes) están rindiendo por encima de la inflación en México, aunque solo el plazo más largo supera el 7% de rendimiento. El dato es relevante para inversionistas que evalúan instrumentos de deuda de corto plazo frente al entorno actual de tasas.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/01/que-plazo-de-cetes-paga-mas-tasas-1-3-6-12-meses",
+    "source": "Expansión",
+    "published": "2026-09-01T20:55:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Palo Alto Networks Profit Outlook Tops Estimates, Margins Narrow",
+    "summary": "Cybersecurity firm Palo Alto Networks issued a profit outlook that beat Wall Street estimates, driven by corporate demand for stronger defenses against advancing AI-powered threats. The results point to AI cybersecurity as a durable growth driver even as margins came in tighter than expected.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/palo-alto-networks-tops-profit-outlook-on-ai-security-demand",
+    "source": "Bloomberg",
+    "published": "2026-09-01T20:15:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vivienda E.ME / INDARQ",
+    "summary": "El estudio mexicano INDARQ diseñó E.ME House, una vivienda compacta conectada con su territorio y paisaje, que emplea el tabique de tres huecos en distintas configuraciones como material protagonista. El proyecto ilustra tendencias actuales en arquitectura residencial mexicana centradas en materiales locales y espacios compactos.",
+    "link": "https://www.archdaily.com/1184391/vivienda-eme-indarq",
+    "source": "ArchDaily",
+    "published": "2026-09-01T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 61,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "SEC Preps Plan to Widen Investor Access to Private Markets",
     "summary": "The US Securities and Exchange Commission is preparing a plan to widen retail investor access to private markets and let investment advisers charge performance fees to a broader set of clients. The move could open new channels of capital into private equity and other alternative asset classes.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-01/sec-preps-plan-to-widen-investor-access-to-private-markets",
@@ -107,6 +228,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 62,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casa Tepoztlán / DOSA STUDIO",
+    "summary": "En Tepoztlán, pueblo mágico de adobe y piedra volcánica, DOSA Studio diseñó una vivienda concebida para reflejar la identidad del sitio, combinando el paisaje con sistemas constructivos vernáculos de la región. El proyecto es un ejemplo reciente de arquitectura residencial mexicana contemporánea con fuerte arraigo local.",
+    "link": "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
+    "source": "ArchDaily",
+    "published": "2026-09-01T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
     "light": false
   },
   {
@@ -5366,137 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Meta Is Now One of Microsoft's Largest AI Customers",
-    "summary": "Meta has quietly become one of Microsoft's largest AI customers, paying hundreds of millions of dollars a year for access to Azure. The arrangement revives concerns about circular business dealings among the largest AI spenders, where the same firms are both suppliers and customers to each other.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/meta-is-now-one-of-microsoft-s-largest-ai-customers-video",
-    "source": "Bloomberg",
-    "published": "2026-08-20T18:14:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
-    "summary": "Quant funds took a hit in a tumultuous session as the US Treasury boosted debt buybacks and Moderna shares jumped. The moves added further pressure to momentum trades that have been unsettled since the AI-related stock sell-off.",
-    "link": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-20T18:00:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Expects to Match SpaceX’s Record IPO Size or Top It",
-    "summary": "Anthropic expects its planned initial public offering to match or exceed the record size of SpaceX's listing, according to people familiar with the matter. Preparations for the AI company's debut are accelerating, which would make it one of the largest technology IPOs on record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-    "source": "Bloomberg",
-    "published": "2026-08-20T17:56:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-    "summary": "Anthropic plans to let business customers retain far greater control over their data when using its most capable models, reversing an earlier retention policy designed to mitigate cyberattack risk. The company expects to roll out a new safety system later this year that makes the change possible. The shift matters for regulated buyers weighing enterprise AI deployments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-    "source": "Bloomberg",
-    "published": "2026-08-20T17:51:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Housing Affordability Gauge Worsens for First Time Since 2023",
-    "summary": "A key gauge of US housing affordability deteriorated for the first time in nearly three years, as higher borrowing costs consumed a larger share of new homebuyers' income. The reversal ends a slow improvement that had run since 2023 and signals renewed strain in mortgage demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-housing-affordability-gauge-worsens-for-first-time-since-2023",
-    "source": "Bloomberg",
-    "published": "2026-08-20T17:32:47+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’",
-    "summary": "Treasury Secretary Scott Bessent's intervention to push down long-term borrowing costs adds another complication for the Federal Reserve as it weighs whether to raise interest rates. The move muddies the central bank's signal at a moment when policymakers are already split on the inflation path.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-treasury-twist-clouds-warsh-s-plea-to-play-the-ball",
-    "source": "Bloomberg",
-    "published": "2026-08-20T17:27:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia looks well placed to benefit from the next stage of the AI boom",
-    "summary": "Nvidia is using its balance sheet to seed new markets and a new business model, positioning itself to capture the next stage of the AI build-out rather than just the current chip cycle. The strategy extends its reach beyond hardware sales into the financing of the ecosystem around it.",
-    "link": "https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-20T17:17:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Clearlake’s FinThrive Posts Earnings Drop, Taps Line of Credit",
-    "summary": "Clearlake Capital's FinThrive reported a 17% drop in second-quarter earnings and drew $150 million on a credit line to shore up liquidity, according to people with knowledge of the matter. The move highlights pressure on leveraged private-equity portfolio companies as financing costs stay elevated.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/clearlake-s-finthrive-posts-earnings-drop-taps-line-of-credit",
-    "source": "Bloomberg",
-    "published": "2026-08-20T17:13:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso ‘le baja’ a ganancias ante el dólar: ¿Cuánto pierde este jueves 20 de agosto?",
-    "summary": "El peso mexicano se deprecia frente al dólar mientras el mercado espera las minutas de la última reunión de política monetaria de Banxico. En el plano internacional, el Tesoro de Estados Unidos adelantó que sus recompras de bonos podrían ampliarse, un factor que añade volatilidad al tipo de cambio.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/20/peso-dolar-precio-hoy-20-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-20T17:09:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Casa Ínsula / TANAT + PEMO + Carlos García Noriega",
-    "summary": "Casa Ínsula es un proyecto residencial en Mérida diseñado por los estudios TANAT, PEMO y Carlos García Noriega, publicado en ArchDaily como parte de su cobertura de arquitectura contemporánea mexicana. La reseña del proyecto invita a reflexionar sobre cómo la ciudad se reinventa a partir de sus propios materiales y tradiciones.",
-    "link": "https://www.archdaily.com/1183721/casa-insula-tanat-plus-pemo-plus-carlos-garcia-noriega",
-    "source": "ArchDaily",
-    "published": "2026-08-20T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "El mapa de tasas de América Latina: los países en los que ING ve margen para bajarlas o subirlas",
-    "summary": "ING anticipa una política monetaria a dos velocidades en América Latina: ve margen para bajar tasas en Colombia y, con más restricciones, en Brasil. México y Chile enfrentan la presión contraria, con colchones de tasa nulos o negativos y un mercado que empieza a descontar eventuales alzas.",
-    "link": "https://www.bloomberglinea.com/mercados/el-mapa-de-tasas-de-america-latina-los-paises-en-los-que-ing-ve-margen-para-bajarlas-o-subirlas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T14:38:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Trade Talks Fuel Worry in Canada Over Tech and AI Rules",
-    "summary": "The US Trade Representative's mention of “digital trade alignment” in a deal with Mark Carney's government has raised concerns over Canada's ability to set its own technology and AI policy. The episode is a preview of how trade negotiations are becoming a vehicle for exporting tech regulation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-trade-talks-fuel-worry-in-canada-over-tech-and-ai-rules",
-    "source": "Bloomberg",
-    "published": "2026-08-20T14:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
