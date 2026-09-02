@@ -1,5 +1,115 @@
 [
   {
+    "title": "Uber to Cut 3,300 Jobs in Company Overhaul to Reduce Management Layers",
+    "summary": "Uber is cutting about 3,300 jobs, roughly 10% of its global workforce, as part of a restructuring to flatten management layers. The company plans to reallocate the savings toward its ride-sharing, delivery, and robotaxi businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/uber-to-cut-3-300-jobs-in-company-overhaul-to-reduce-management-layers",
+    "source": "Bloomberg",
+    "published": "2026-09-02T11:20:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Guerra por Axtel",
+    "summary": "Las acciones de Axtel subieron 5.8% después de que Flo Networks lanzara una oferta pública de adquisición (OPA) por hasta el 100% de la empresa, desafiando la OPA previa de 4 Tech Plus -vehículo ligado al copresidente Tomás Milmo- que valoraba a la compañía en 632 millones de dólares. Ambas ofertas requerirán autorización de la CNBV y de la Comisión Nacional Antimonopolio.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/02/guerra-por-axtel/",
+    "source": "El Financiero",
+    "published": "2026-09-02T11:03:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oura Taps Netflix, Robinhood Veterans for Board Ahead of IPO",
+    "summary": "Oura, maker of the popular health-tracking smart ring, is adding four new independent directors ahead of its planned IPO. The new board members bring public-company experience from Netflix, Robinhood, and Deliveroo.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/oura-taps-netflix-robinhood-veterans-for-board-ahead-of-ipo",
+    "source": "Bloomberg",
+    "published": "2026-09-02T11:00:01+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué México bloqueó casi 16 mil cuentas bancarias? Estas son las razones",
+    "summary": "Las instituciones financieras mexicanas bloquearon casi 16 mil cuentas bancarias por 4,952 millones de pesos entre septiembre de 2025 y junio de 2026, como parte de las acciones contra el lavado de dinero. Se generaron 147 acuerdos administrativos que sumaron 1,508 personas físicas y morales a la Lista de Personas Bloqueadas, según el Segundo Informe de Gobierno.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/02/por-que-mexico-bloqueo-casi-16-mil-cuentas-bancarias-estas-son-las-razones/",
+    "source": "El Financiero",
+    "published": "2026-09-02T10:39:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Layoffs at Microsoft, Amazon, Meta Drive Seattle Luxury Home Sales Down 15%",
+    "summary": "AI-driven layoffs at Microsoft, Amazon, and Meta are weighing on Seattle's luxury housing market, with high-end home sales down 15%. Job cuts tied to AI-related corporate restructuring appear to be denting demand from the region's tech-wealthy buyers.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/ai-layoffs-at-microsoft-amazon-meta-drive-seattle-luxury-home-sales-down-15",
+    "source": "Bloomberg",
+    "published": "2026-09-02T10:29:01+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Fund Chief Urges UK Government to Think Like an Investor to Boost Startups",
+    "summary": "The head of the UK's £500 million Sovereign AI Fund is urging the government to adopt an investor mindset to help scale domestic AI startups. The call comes as ministers look for ways to accelerate growth in Britain's AI industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-fund-chief-urges-uk-government-to-think-like-an-investor-to-boost-startups",
+    "source": "Bloomberg",
+    "published": "2026-09-02T10:03:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuatro razones por las que las personas usan más la IA que las empresas en Colombia",
+    "summary": "En Colombia, 48% de las personas ya usa herramientas de IA generativa en su vida diaria, pero solo 18% de las empresas la ha adoptado de forma organizada, según Cintel. Esta brecha genera un fenómeno de \"shadow AI\", donde empleados usan la IA sin lineamientos institucionales, lo que puede derivar en riesgos de seguridad y desorden operativo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/cuatro-razones-por-las-que-las-personas-usan-mas-la-ia-que-las-empresas-en-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-02T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Así cerró el riesgo país en América Latina en agosto: Argentina y Uruguay en los extremos",
+    "summary": "El riesgo país (EMBI) de México cerró agosto en 196 puntos, en una posición intermedia entre las economías más grandes de la región, mientras Argentina se ubicó en 514 puntos y Uruguay en solo 65. La compresión más notable se dio en Colombia, cuyo riesgo país bajó de 275 a 189 puntos en lo que va del año.",
+    "link": "https://www.bloomberglinea.com/mercados/asi-cerro-el-riesgo-pais-en-america-latina-en-agosto-argentina-y-uruguay-en-los-extremos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-02T07:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia May Be Close to $14 Billion Deal for Hugging Face",
+    "summary": "Nvidia is reportedly in advanced talks to acquire AI startup Hugging Face in a deal that could be worth about $14 billion. The move would deepen Nvidia's push into AI software and open-source model infrastructure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video",
+    "source": "Bloomberg",
+    "published": "2026-09-02T05:42:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Preocupa a expertos filtro militar a la IED",
+    "summary": "El gobierno de la 4T propone otorgar a las Fuerzas Armadas la facultad de autorizar o bloquear la adquisición de más del 49% de empresas mexicanas por parte de capital extranjero. Expertos advierten que este filtro militar podría obstaculizar la inversión extranjera directa en el país.",
+    "link": "https://www.reforma.com/preocupa-a-expertos-filtro-militar-a-la-ied/ar3268454",
+    "source": "Reforma",
+    "published": "2026-09-02T05:00:39-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "AI Data Center Spending to Reach $32 Trillion by 2050, PwC Says",
     "summary": "PwC projects global data-center spending will hit roughly $31.6 trillion through 2050 to keep pace with AI demand, calling it an investment boom without historical precedent. The forecast underscores how much capital is still expected to flow into AI infrastructure over coming decades.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
@@ -20,6 +130,39 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Es la inversión extranjera un asunto de seguridad nacional?",
+    "summary": "El artículo analiza el impulso para reformar la regulación de inversión extranjera en México, originado por presiones de Estados Unidos -primero con Yellen, ahora con el equipo de Trump- para esclarecer la magnitud real de la inversión china en el país. La tensión entre EU y China ha intensificado las exigencias hacia México para que tome distancia de Beijing en materia de inversión extranjera.",
+    "link": "https://www.eleconomista.com.mx/opinion/inversion-extranjera-asunto-seguridad-nacional-20260902-831446.html",
+    "source": "El Economista",
+    "published": "2026-09-02T01:22:28-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Presupuesto 2027: el persistente riesgo de insostenibilidad fiscal",
+    "summary": "La deuda pública de México casi se ha duplicado desde 2019, alcanzando 55% del PIB de forma oficial, aunque el FMI la calcula en más de 62%, por encima del umbral de riesgo para economías emergentes. El diseño presupuestal hacia 2027 dificultará avanzar de forma convincente hacia la sostenibilidad fiscal, dado el bajo crecimiento económico del país.",
+    "link": "https://www.eleconomista.com.mx/opinion/presupuesto-2027-persistente-riesgo-insostenibilidad-fiscal-20260902-831445.html",
+    "source": "El Economista",
+    "published": "2026-09-02T01:19:34-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Paquete Económico 2027 garantizará consolidación fiscal paulatina: CSP",
+    "summary": "La presidenta Claudia Sheinbaum adelantó que el Paquete Económico 2027, a entregarse el 8 de septiembre, garantizará una consolidación fiscal paulatina sin sacrificar inversión pública ni gasto en bienestar, salud y educación. El déficit fiscal cerró 2024 en un nivel histórico de 5.8% del PIB y se ubicó en 4.8% el año pasado pese a recortes de gasto, presionado por los apoyos a Pemex.",
+    "link": "https://www.eleconomista.com.mx/economia/paquete-economico-2027-garantizara-consolidacion-fiscal-paulatina-csp-20260902-831444.html",
+    "source": "El Economista",
+    "published": "2026-09-02T01:12:40-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
@@ -77,6 +220,17 @@
     "light": true
   },
   {
+    "title": "Vanguard, BlackRock ETF Shuffle Lets Foreign Investors Duck US Tax",
+    "summary": "Major asset managers including Vanguard and BlackRock are shifting foreign investors between near-identical equity ETFs to help them avoid the 30% US tax on dividends. The maneuver highlights a growing tax-arbitrage strategy in the ETF industry.",
+    "link": "https://www.bloomberg.com/graphics/2026-etf-foreign-investors-tax-dodge/",
+    "source": "Bloomberg",
+    "published": "2026-09-01T21:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Dropbox User Accounts Breached by Hackers Who Accessed Data",
     "summary": "Hackers broke into thousands of Dropbox accounts last month, viewing and downloading material users had stored on the cloud platform, according to a company statement and records reviewed by Bloomberg. The breach adds to a string of high-profile cloud-storage security incidents this year.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-01/dropbox-user-accounts-breached-by-hackers-some-data-accessed",
@@ -105,6 +259,39 @@
     "source": "Bloomberg",
     "published": "2026-09-01T20:15:24+00:00",
     "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dell Shares Rise After Boosting Sales Outlook by $25 Billion",
+    "summary": "Dell shares jumped after the company raised its annual sales outlook by $25 billion, citing surging demand for servers to run AI workloads. The forecast increase signals continued strength in enterprise AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dell-raises-annual-revenue-outlook-on-sustained-ai-server-sales",
+    "source": "Bloomberg",
+    "published": "2026-09-01T20:07:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sheinbaum reconoce dificultades para México por aranceles de EE.UU. pero destaca nuevas inversiones",
+    "summary": "La presidenta Sheinbaum reconoció que los aranceles de Estados Unidos a autos (25%) y a aluminio y acero (50%) han generado dificultades para México, aunque destacó que el país ha seguido atrayendo inversión. La Oficina de Presidencia aprobó 19 proyectos por 3,760 millones de dólares en cuatro meses como parte del Plan México, con una reducción del 60% en trámites.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-reconoce-dificultades-para-mexico-por-aranceles-de-eeuu-pero-destaca-nuevas-inversiones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-01T19:33:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IPO booms can spell trouble for the markets",
+    "summary": "The Economist notes that IPO booms tend to happen during good times that may not last, warning that a surge of new listings can signal trouble ahead for markets. Historical patterns suggest hot IPO markets often precede a downturn.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+    "source": "The Economist",
+    "published": "2026-09-01T19:03:06+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 68,
     "language": "en",
     "light": true
@@ -5311,192 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": true
-  },
-  {
-    "title": "Se acerca Pemex a adeudo histórico",
-    "summary": "La deuda de Pemex con proveedores asciende a unos 21,000 millones de dólares, equivalente al 85% del monto histórico que en su momento llevó a implementar un programa de pago a través de Banobras.",
-    "link": "https://www.reforma.com/se-acerca-pemex-a-adeudo-historico/ar3261831",
-    "source": "Reforma",
-    "published": "2026-08-21T05:01:19-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Bessent takes on bond vigilantes in $32tn Treasury market",
-    "summary": "Wall Street investors describe the US Treasury's move to buy more long-term debt as a 'band-aid on a bullet hole' as Treasury Secretary Bessent makes a high-stakes bet to beat back soaring borrowing costs in the $32 trillion Treasury market.",
-    "link": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-21T04:00:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The battle over golf’s future",
-    "summary": "New management wants professional golf to become more commercial, but critics worry that billionaire owners now hold outsized influence over the sport's direction. The piece examines the tension between commercial ambition and golf's traditional governance.",
-    "link": "https://www.ft.com/content/d286cb7f-c63e-42a6-86db-d0a9ad0f296a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-21T04:00:13+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
-    "summary": "HSBC spent $68 million on its biggest cull of senior bankers since the financial crisis, as Europe's largest lenders shed the highest number of highly paid staff since 2020. The wave of cuts reflects a broader cost-cutting push across European banking.",
-    "link": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-21T04:00:12+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México se encamina a otra década perdida de crecimiento económico: Cepal",
-    "summary": "La Cepal advirtió que México se encamina a otra década perdida de crecimiento económico, en un escenario de bajo dinamismo estructural. El organismo regional llamó a impulsar reformas que reactiven la inversión y la productividad del país.",
-    "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
-    "source": "Expansión",
-    "published": "2026-08-21T02:01:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso fuerte-Dólar débil. ¿Qué se puede hacer desde México?",
-    "summary": "La deuda pública de EU superó los 40 billones de dólares mientras el peso mexicano rompió el piso de 17 unidades por dólar, reflejando la debilidad generalizada del dólar frente a monedas emergentes. El fortalecimiento del peso beneficia a los importadores pero impone una carga a exportadores y productores que compiten en el mercado local.",
-    "link": "https://www.eleconomista.com.mx/opinion/peso-fuerte-dolar-debil-mexico-20260821-829455.html",
-    "source": "El Economista",
-    "published": "2026-08-21T00:40:23-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tasas largas globales: el reto silencioso para México",
-    "summary": "El aumento en las compras de deuda de largo plazo por parte de EU generó un alivio inmediato en los rendimientos, pero refleja que el financiamiento de largo plazo se encarece a escala global, en niveles no vistos en 20 años. Para México esto es relevante porque redefine el costo de capital de proyectos de relocalización manufacturera, expansión energética e infraestructura logística.",
-    "link": "https://www.eleconomista.com.mx/opinion/tasas-largas-globales-reto-silencioso-mexico-20260821-829454.html",
-    "source": "El Economista",
-    "published": "2026-08-21T00:38:42-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
-    "summary": "El artículo explica qué ocurre con el dinero acumulado en la Afore de los trabajadores que cotizan para el ISSSTE pero no logran reunir las semanas necesarias para acceder a una pensión. Explora las opciones disponibles para este grupo de cotizantes en el sistema mexicano de pensiones.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
-    "source": "Expansión",
-    "published": "2026-08-21T00:23:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
-    "summary": "Kio IT Services fichó a un exdirector de Microsoft México para acelerar su negocio de inteligencia artificial y nube. La contratación busca fortalecer la oferta de servicios de IA de la compañía para clientes empresariales en la región.",
-    "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
-    "source": "Expansión",
-    "published": "2026-08-20T23:00:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia to Pay AI Startup Poolside a $6 Billion License, Newcomer Says",
-    "summary": "Nvidia has agreed to pay $6 billion to license AI models from startup Poolside and will extend job offers to more than 100 of its employees, according to people familiar with the matter. The deal reflects the escalating value being placed on frontier AI model licensing and talent.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-    "source": "Bloomberg",
-    "published": "2026-08-20T22:24:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Open Machine CEO on Anthropic, OpenAI IPO Potential",
-    "summary": "Allie Miller, CEO of Open Machine, discussed how leading tech firms are managing AI investment to balance cost and return, describing a two-tier approach: modest subscription spending to raise baseline AI capabilities across departments like finance and legal, and a smaller, higher-budget \"frontier\" team for experimentation. She also touched on Anthropic and OpenAI's IPO potential.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
-    "source": "Bloomberg",
-    "published": "2026-08-20T21:49:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street cae ante la presión de los bonos, el desplome de Walmart y el alza del petróleo",
-    "summary": "Wall Street cerró a la baja el jueves luego de que se debilitara el alivio generado por el plan del Tesoro de EU para contener costos de endeudamiento; el S&P 500 cayó 0.87%, el Dow Jones 1.32% y el Nasdaq 1%. La deuda pública estadounidense superó por primera vez los 40 billones de dólares, mientras Walmart y el alza del petróleo añadieron presión adicional al mercado.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-cae-mientras-vuelve-la-presion-sobre-los-bonos-y-crecen-las-dudas-sobre-el-plan-de-bessent/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T20:12:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Yuval Noah Harari on the economic and political perils of AI",
-    "summary": "Historian Yuval Noah Harari warns that humanity must not entrust its future to increasingly capable AI systems, citing the technology's growing economic and political risks. The piece explores how AI could reshape power structures and decision-making at a societal level.",
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "source": "The Economist",
-    "published": "2026-08-20T20:00:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia domina la IA, pero Google, Amazon y Meta quieren depender menos de sus chips",
-    "summary": "Nvidia construyó su dominio en inteligencia artificial con chips capaces de asumir múltiples tareas, pero sus mayores clientes —Google, Amazon y Meta— avanzan hacia procesadores diseñados a la medida de sus propias cargas de trabajo. Nuevos competidores argumentan que no toda tarea de IA requiere una GPU, lo que abre espacio para alternativas más baratas y especializadas.",
-    "link": "https://www.bloomberglinea.com/mercados/nvidia-domina-la-ia-pero-google-amazon-y-meta-quieren-depender-menos-de-sus-chips/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T18:59:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Construcción en Argentina: qué pide el sector para impulsar una reactivación hacia 2027",
-    "summary": "El sector de la construcción en Argentina busca recuperarse tras una fuerte caída de actividad y señala al crédito hipotecario y al financiamiento de largo plazo como las palancas centrales de una reactivación hacia 2027. La Cámara Argentina de la Construcción, encabezada por Gustavo Weiss, plantea que sin instrumentos de financiamiento estable la obra privada no logrará sostener el repunte.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/construccion-en-argentina-que-pide-el-sector-para-impulsar-una-reactivacion-hacia-2027/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-20T18:50:42+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Guggenheim loan returns to distressed territory after investor call",
-    "summary": "A Guggenheim-linked loan has slipped back into distressed territory following an investor call, as the business empire of chief executive Mark Walter comes under pressure. The strain is tied to an ongoing probe into his insurance holdings, which has unsettled lenders.",
-    "link": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-20T18:43:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan al alza de precios",
-    "summary": "El Banco de México advirtió que los conflictos geopolíticos, la inflación de servicios y los efectos del clima siguen presionando los precios al alza. El señalamiento refuerza la lectura de que la convergencia hacia el objetivo de 3% tomará más tiempo del previsto.",
-    "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
-    "source": "Expansión",
-    "published": "2026-08-20T18:39:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
   }
 ]
