@@ -1,5 +1,159 @@
 [
   {
+    "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals",
+    "summary": "Meta Platforms released its most powerful AI model yet, with its chief AI officer saying its capabilities are edging closer to those of top rivals. The launch intensifies the race among leading AI labs to close capability gaps in large-scale model development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+    "source": "Bloomberg",
+    "published": "2026-09-02T19:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan’s Blessing Sees Dealmaking on Track for Record Year",
+    "summary": "Dorothee Blessing, co-head of global investment banking at JPMorgan Chase, said a surge of mergers and public offerings in the final months of 2026 could push global dealmaking volumes to a new record. She flagged this despite growing concerns about the broader economy weighing on markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/jpmorgan-s-blessing-sees-dealmaking-on-track-for-record-year",
+    "source": "Bloomberg",
+    "published": "2026-09-02T18:54:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump administration backs OpenAI in New York Times copyright battle",
+    "summary": "The Trump administration urged a US court to reject the New York Times' claim that training AI models on copyrighted content is illegal. The intervention marks a significant show of government support for OpenAI in one of the highest-profile AI copyright disputes.",
+    "link": "https://www.ft.com/content/d5d6e4c9-718a-4d98-b094-97157565f336?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-02T18:44:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Nears $14 Billion Hugging Face Deal | Bloomberg Tech 09/02/2026",
+    "summary": "Nvidia is in advanced talks to acquire AI startup Hugging Face in a deal worth roughly $14 billion. The report also notes Dell raised its annual sales forecast by $25 billion on surging demand for AI servers, underscoring the pace of AI-driven dealmaking.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/bloomberg-tech-09-02-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-09-02T17:44:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HSBC celebra su primer Wealth Investment Summit en México",
+    "summary": "HSBC organizó en México la primera edición de su Wealth Investment Summit, un evento enfocado en gestión patrimonial y oportunidades de inversión. El encuentro refleja el interés del banco por fortalecer su presencia en el segmento de banca patrimonial en el país.",
+    "link": "https://expansion.mx/economia/2026/09/02/hsbc-celebra-su-primer-wealth-investment-summit-en-mexico",
+    "source": "Expansión",
+    "published": "2026-09-02T17:34:38+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Napster Shifts Course to Penny-a-Minute AI Agents Via Microsoft",
+    "summary": "Napster, the former music-streaming platform, is betting on low-cost AI agents priced at a penny a minute as its path back to relevance. The pivot is being pursued in partnership with Microsoft.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/napster-shifts-course-to-penny-a-minute-ai-agents-via-microsoft",
+    "source": "Bloomberg",
+    "published": "2026-09-02T17:18:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 71,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los bancos estrenan una nueva forma de confirmar tu identidad por SMS y debes saber cómo funciona",
+    "summary": "Los bancos en México están implementando un nuevo método para confirmar la identidad de los usuarios mediante mensajes SMS. El cambio busca reforzar la seguridad en las operaciones bancarias digitales del país.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/02/bancos-nueva-forma-confirmar-identidad-sms-como-funciona",
+    "source": "Expansión",
+    "published": "2026-09-02T16:54:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NYSE Used Anthropic’s Project Glasswing to Find Cyber Flaws",
+    "summary": "The New York Stock Exchange used Anthropic's Project Glasswing to identify and fix vulnerabilities in its cybersecurity systems, NYSE president Lynn Martin told Congress. The disclosure highlights growing adoption of AI tools to secure critical financial-market infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nyse-used-anthropic-s-project-glasswing-to-find-cyber-flaws",
+    "source": "Bloomberg",
+    "published": "2026-09-02T16:34:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
+    "summary": "El gobierno mexicano alista ajustes al IEPS que aplicarían a botanas y bebidas alcohólicas como parte del Paquete Económico 2027. La medida forma parte de una revisión más amplia de impuestos especiales sobre productos de consumo.",
+    "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
+    "source": "Expansión",
+    "published": "2026-09-02T15:06:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "A vital tenet of US equity markets is under threat",
+    "summary": "A core principle of US equity markets is coming under pressure as proposed SEC reforms could undermine investors' ability to compare companies on a consistent basis. Critics warn the changes risk eroding transparency standards that underpin market confidence.",
+    "link": "https://www.ft.com/content/38d5c39f-901f-4306-9412-f7e1d7553174?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-02T14:45:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Del seguro de vida al “seguro para vivir”: el nuevo imperativo de la industria",
+    "summary": "La industria aseguradora enfrenta un cambio de paradigma: pasar del tradicional \"seguro de vida\" a un \"seguro para vivir\", enfocado en acompañar a los clientes en el presente y no solo en cubrir riesgos futuros. El artículo plantea este giro como un nuevo imperativo estratégico para el sector en México.",
+    "link": "https://expansion.mx/opinion/2026/09/02/del-seguro-de-vida-al-seguro-para-vivir-el-nuevo-imperativo-de-la-industria",
+    "source": "Expansión",
+    "published": "2026-09-02T12:06:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lutnick presume que Anthropic vuelve a estar en el \"lado correcto\" con la Administración Trump",
+    "summary": "El secretario de Comercio de EU, Howard Lutnick, afirmó que Anthropic está de vuelta en el \"lado correcto\" con el gobierno de Donald Trump, según un artículo de Axios, lo que sugiere una mejora en la relación entre ambas partes. El comentario llega días después de que un juez fallara a favor de Anthropic en su disputa con el ejército estadounidense sobre la seguridad de sus modelos.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/lutnick-presume-anthropic-vuelve-lado-correcto-administracion-trump-20260902-831501.html",
+    "source": "El Economista",
+    "published": "2026-09-02T11:58:02-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México debe reducir el déficit para blindar su grado de inversión en 2027",
+    "summary": "México necesita reducir su déficit fiscal para proteger su grado de inversión de cara a 2027, según el análisis del Paquete Económico. El tema se perfila como un punto crítico para la confianza de los mercados en la solidez de las finanzas públicas del país.",
+    "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
+    "source": "Expansión",
+    "published": "2026-09-02T11:55:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Concanaco pide reducir costos en pagos digitales en mipymes; propone tarifas por tamaño, giro y volumen",
+    "summary": "La Concanaco Servytur pidió a las autoridades financieras reducir los costos de aceptación de pagos digitales para negocios familiares y microempresas en México. La organización propuso evaluar un esquema de tarifas preferenciales y diferenciadas según el tamaño, giro y volumen de ventas de cada comercio, advirtiendo que la digitalización no debe convertirse en un castigo financiero para las pequeñas unidades económicas.",
+    "link": "https://www.eleconomista.com.mx/empresas/concanaco-pide-reducir-costos-pagos-digitales-mipymes-propone-tarifas-tamano-giro-volumen-20260902-831498.html",
+    "source": "El Economista",
+    "published": "2026-09-02T11:43:20-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Uber to Cut 3,300 Jobs in Company Overhaul to Reduce Management Layers",
     "summary": "Uber is cutting about 3,300 jobs, roughly 10% of its global workforce, as part of a restructuring to flatten management layers. The company plans to reallocate the savings toward its ride-sharing, delivery, and robotaxi businesses.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-02/uber-to-cut-3-300-jobs-in-company-overhaul-to-reduce-management-layers",
@@ -88,6 +242,17 @@
     "light": false
   },
   {
+    "title": "MVRDV Reveals WOMA Mixed-Use Development in Miami’s Wynwood Norte",
+    "summary": "MVRDV unveiled the design for WOMA, a mixed-use development planned for Wynwood Norte in Miami, developed with Quito-based Uribe Schwarzkopf and Miami architect of record Kobi Karp. The project sits on the site of a former coffee roasting company and aims to extend Wynwood Norte's creative, industrial character alongside the nonprofit Bakehouse Art Complex.",
+    "link": "https://www.archdaily.com/1184417/mvrdv-reveals-woma-mixed-use-development-in-miamis-wynwood-norte",
+    "source": "ArchDaily",
+    "published": "2026-09-02T06:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 61,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Nvidia May Be Close to $14 Billion Deal for Hugging Face",
     "summary": "Nvidia is reportedly in advanced talks to acquire AI startup Hugging Face in a deal that could be worth about $14 billion. The move would deepen Nvidia's push into AI software and open-source model infrastructure.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video",
@@ -97,6 +262,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "\"If You Build Ugly Social Housing, You Will Create Social Problems\": An Interview with the OBEL Award 2026 Recipients",
+    "summary": "The Balearic Social Housing Model was named winner of the 2026 OBEL Award, created by economist Cris Ballester and an architect collaborator under the award's \"Systems' Hack\" theme. In an interview, the recipients argue that poorly designed social housing creates social problems, calling for architecture that critically engages with the systems shaping contemporary society.",
+    "link": "https://www.archdaily.com/1184412/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients",
+    "source": "ArchDaily",
+    "published": "2026-09-02T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Preocupa a expertos filtro militar a la IED",
@@ -207,6 +383,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Europe’s bond markets are suffering a post-holiday shock",
+    "summary": "Europe's bond markets are suffering a post-holiday shock, with yields rising sharply as investors return from summer break. The drivers differ somewhat from those pushing up US yields, but are no less problematic for the region's fiscal outlook.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+    "source": "The Economist",
+    "published": "2026-09-01T21:58:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Dell Sees Surge in AI Server Sales, Boosts Outlook",
@@ -5310,193 +5497,6 @@
     "category": "AI & Agents",
     "relevance_score": 85,
     "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK Bets on a Boom in AI Chip Newcomers",
-    "summary": "The UK government is helping fund promising AI chip startups in an effort to build a domestic foothold in the industry, as countries race to avoid dependence on US and Taiwanese suppliers.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/uk-bets-on-a-boom-in-ai-chip-newcomers",
-    "source": "Bloomberg",
-    "published": "2026-08-21T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Salesforce, ServiceNow Fight AI Fears With Buybacks and Bluster",
-    "summary": "Enterprise software companies are facing a crisis of investor confidence over their AI strategy and are turning to increasingly aggressive buyback programs and messaging to address it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
-    "source": "Bloomberg",
-    "published": "2026-08-21T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Mis inversiones pagan impuestos igual? La diferencia entre tener Cetes y acciones",
-    "summary": "Cada vez más personas invierten en Cetes, cuentas en sofipos o acciones para complementar ingresos o proteger sus ahorros de la inflación, pero surgen dudas sobre cómo tributa cada instrumento. Según expertos consultados, el tratamiento fiscal depende del vehículo: algunos ya vienen con retención automática del banco, mientras otros deben declararse por separado.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/mis-inversiones-pagan-impuestos-igual-diferencia-cetes-acciones-20260821-823629.html",
-    "source": "El Economista",
-    "published": "2026-08-21T10:55:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los once pasos para poner tus finanzas en orden (Parte 2 de 4)",
-    "summary": "En la segunda entrega de la serie sobre finanzas personales, el autor aborda la importancia de tener claras las prioridades de vida antes de tomar decisiones financieras. Señala que pocas personas logran definir con precisión qué es lo que realmente quieren construir, y que esa claridad es la base para ordenar las finanzas propias.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/once-pasos-poner-tus-finanzas-orden-parte-2-20260821-828753.html",
-    "source": "El Economista",
-    "published": "2026-08-21T10:50:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Europe hands out state subsidies to fund domestic AI companies",
-    "summary": "European governments, wary of missing out on the AI boom, are funding local frontier labs, software firms and chip companies through state subsidies.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/europe-hands-out-state-subsidies-to-fund-domestic-ai-companies",
-    "source": "Bloomberg",
-    "published": "2026-08-21T10:30:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economía gana impulso y perfila un crecimiento de 2.7 por ciento en julio",
-    "summary": "La economía mexicana inició el tercer trimestre con más fuerza: el IOAE del Inegi apunta a un crecimiento anual de 2.7% en julio, el mayor en más de dos años, impulsado principalmente por el sector servicios. En el acumulado enero-julio, la actividad productiva registra un crecimiento de 1.5% anual, frente al 0.2% del mismo periodo del año anterior.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/21/economia-gana-impulso-y-perfila-un-crecimiento-de-27-por-ciento-en-julio/",
-    "source": "El Financiero",
-    "published": "2026-08-21T10:05:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Olé llega a México",
-    "summary": "La insurtech Olé Life, liderada por Michael Carricarte, llega a México de la mano de Seguros Patrimonial para ofrecer seguros de vida en dólares y coberturas de salud mediante un proceso 100% digital, atendiendo la baja penetración de seguros de vida en el país (solo 23% de la PEA cuenta con uno). La compañía usa inteligencia artificial para agilizar la evaluación de riesgo y busca aprobar el 80% de solicitudes de forma inmediata.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/08/21/ole-llega-a-mexico/",
-    "source": "El Financiero",
-    "published": "2026-08-21T10:01:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "What the AI Industry Got Wrong About Public Backlash",
-    "summary": "Despite years of anxiety within the AI industry over job losses and existential risk, executives largely failed to anticipate how much public backlash would focus on data centers specifically. Construction that was once routine and often subsidized through tax incentives has become the industry's most visible flashpoint.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/what-the-ai-industry-got-wrong-about-public-backlash-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T08:12:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alphabet Bond Buyer Warns on Australia's Capacity for AI Debt",
-    "summary": "Australian state-owned investment manager QIC, which bought into Alphabet's debut Aussie dollar bond, expects more Big Tech AI-related debt issuance in Australia but warns the market has room for only 'a couple' of such mega deals a year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/alphabet-bond-buyer-warns-on-australia-s-capacity-for-ai-debt",
-    "source": "Bloomberg",
-    "published": "2026-08-21T08:05:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
-    "summary": "Nvidia is in early discussions with Korean AI chip designer Rebellions about possible collaboration, which could include a technical partnership, an investment, or even an acquisition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
-    "source": "Bloomberg",
-    "published": "2026-08-21T07:45:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inteligencia Artificial: cómo pasar de la prueba a los resultados",
-    "summary": "La IA está cada vez más presente en las empresas, pero solo 25% de las iniciativas alcanza el retorno de inversión esperado, según IBM Institute for Business Value. El reto no está solo en adoptar la tecnología sino en integrarla a la operación con un objetivo de negocio claro antes de elegir la herramienta, advierten consultores.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/inteligencia-artificial-pasar-prueba-resultados-20260821-829409.html",
-    "source": "El Economista",
-    "published": "2026-08-21T07:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "\"Art Is Not Fiction, but a Surplus Reality:\" Pedro Reyes on Sculpture as Social Practice in Louisiana Channel Interview",
-    "summary": "Mexican sculptor Pedro Reyes, trained as an architect, discusses in a Louisiana Channel interview how his multidisciplinary practice blends stone carving with participatory \"social sculpture\" projects addressing contemporary social issues, and why he values preserving craft traditions in an increasingly automated world.",
-    "link": "https://www.archdaily.com/1042723/art-is-not-fiction-but-a-surplus-reality-pedro-reyes-on-sculpture-as-social-practice-in-louisiana-channel-interview",
-    "source": "ArchDaily",
-    "published": "2026-08-21T06:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 61,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Monte dei Paschi di Siena presenta oferta por BPM y Banca Generali para frenar la OPA de Intesa",
-    "summary": "El banco italiano Monte dei Paschi lanzó ofertas simultáneas por unos 34,000 millones de euros por Banco BPM y Banca Generali, en respuesta a la OPA hostil de 36,000 millones de euros lanzada por Intesa Sanpaolo en junio. La disputa intensifica la reconfiguración del sector bancario italiano y genera preocupación en Roma por una posible reducción de la competencia.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/monte-dei-paschi-di-siena-presenta-oferta-bpm-banca-generali-frenar-opa-intesa-20260821-829477.html",
-    "source": "El Economista",
-    "published": "2026-08-21T06:18:15-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Monte Paschi Bids €34 Billion for BPM, Banca Generali",
-    "summary": "Banca Monte dei Paschi launched an all-share bid worth a combined €34 billion for Banco BPM and Banca Generali, as it seeks to fend off a takeover attempt by rival Intesa Sanpaolo. The move marks one of the largest banking consolidation plays in Europe this year.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/monte-paschi-bids-34-billion-for-bpm-banca-generali-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T05:53:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can Anthropic Beat SpaceX’s Record IPO Size?",
-    "summary": "Anthropic expects to match or beat the size of SpaceX's record-setting IPO, according to people familiar with the matter, reflecting overwhelming investor demand to profit from the AI boom. The report signals a landmark year for AI-related public offerings.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T05:38:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "William Rawn Associates' New Museum of Science Venue Nears Completion in Boston",
-    "summary": "The William and Charlotte Bloomberg Public Science Common, a new glazed venue at Boston's Museum of Science designed by William Rawn Associates, is nearing completion and is set to open to the public on October 10, 2026. The 929-square-meter building overlooks the Charles River with views of the Boston skyline.",
-    "link": "https://www.archdaily.com/1183728/william-rawn-associates-new-museum-of-science-venue-nears-completion-in-boston",
-    "source": "ArchDaily",
-    "published": "2026-08-21T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Alertan empresas de 'apretón fiscal'",
-    "summary": "Empresas en México anticipan un 'apretón fiscal' para 2027, con analistas advirtiendo que la presión por mayor fiscalización podría convertirse en 'terrorismo fiscal'.",
-    "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
-    "source": "Reforma",
-    "published": "2026-08-21T05:01:19-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
     "light": true
   }
 ]
