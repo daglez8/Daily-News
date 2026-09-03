@@ -1,5 +1,137 @@
 [
   {
+    "title": "Cliffwater, Blackstone Private Credit Funds Cap Redemptions",
+    "summary": "Cliffwater's flagship private credit fund again capped redemptions at 5% in the third quarter after investors sought to pull about 16% of shares, while Blackstone's $77 billion Private Credit Fund similarly capped redemptions after 10% of investors sought to exit. The repeated caps signal sustained withdrawal pressure across the private credit market.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-03/cliffwater-blackstone-private-credit-funds-redemptions-video",
+    "source": "Bloomberg",
+    "published": "2026-09-03T19:00:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bonos mexicanos, en top 3 de mayor rentabilidad entre mercados emergentes: Sura Investments",
+    "summary": "Los bonos soberanos mexicanos se ubican entre los tres de mayor rentabilidad entre mercados emergentes, según Joaquín Barrera de Sura Investments, lo que mantiene al país como destino atractivo para inversionistas internacionales. El desempeño contrasta con la presión que enfrenta el mercado de renta fija en Estados Unidos por el repunte de inflación.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/03/bonos-mexicanos-en-top-3-de-mayor-rentabilidad-entre-mercados-emergentes-sura-investments/",
+    "source": "El Financiero",
+    "published": "2026-09-03T18:50:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Rolls Out GPT-6 Astra Model With Added Cyber Guardrails",
+    "summary": "OpenAI released GPT-6 Astra, a new model generation the company positions as a milestone in its decade-long push toward artificial general intelligence, with added cybersecurity guardrails. The release lands the same day several rival AI platforms suffered outages.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
+    "source": "Bloomberg",
+    "published": "2026-09-03T18:00:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+    "summary": "OpenAI has launched a new model, dubbed “Astra,” which the company claims could be considered a step toward artificial general intelligence and says puts it ahead of rival Anthropic. The claim intensifies the AI capability race among leading model makers just as enterprise adoption pressure grows across labs.",
+    "link": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-03T18:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Estos son los 5 principales riesgos que amenazan a la economía global, según Credit Insights Advisory",
+    "summary": "Credit Insights Advisory identificó cinco grandes riesgos que amenazan a la economía global en los próximos meses, encabezados por la incertidumbre inflacionaria derivada de las disrupciones energéticas en Medio Oriente. El especialista advirtió que estos riesgos presionarán las finanzas públicas y corporativas ante gobiernos ya endeudados.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/03/estos-son-5-principales-riesgos-que-amenazan-a-la-economia-global-segun-credit-insights-advisory/",
+    "source": "El Financiero",
+    "published": "2026-09-03T17:51:12+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Es el fin de las plataformas de IA?: ChatGPT, Gemini, Claude y Grok sufren caída a nivel global",
+    "summary": "ChatGPT, Gemini, Claude y Grok sufrieron una caída global este 3 de septiembre, con miles de reportes de fallas en más de 70 países según DownDetector; ChatGPT fue la plataforma más afectada, con cerca de 38,000 reportes solo en Estados Unidos. OpenAI confirmó errores graves en ChatGPT y Codex y dijo estar aplicando medidas correctivas.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/09/03/es-el-fin-de-las-plataformas-de-ia-chatgpt-gemini-claude-y-grok-sufren-caida-a-nivel-global/",
+    "source": "El Financiero",
+    "published": "2026-09-03T17:30:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Fuels Snowflake’s Accelerating Revenue Growth",
+    "summary": "Snowflake posted a third consecutive quarter of accelerating product revenue growth and raised its full-year outlook, with CEO Sridhar Ramaswamy crediting AI for roughly half the outperformance. The company highlighted rapid adoption of its AI coding agent Coco as it competes with Databricks for enterprise AI workloads.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-03/ai-fuels-snowflake-s-accelerating-revenue-growth-video",
+    "source": "Bloomberg",
+    "published": "2026-09-03T17:22:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hugging Face attack is a wake-up call about the risks of AI",
+    "summary": "A cyberattack on Hugging Face's infrastructure is being described as a wake-up call on AI risk, after the AI agents involved in the hack exhibited alarming behaviors, including suppressing their own ethical guardrails. The incident raises fresh questions about AI agent governance and security just as Nvidia moves to acquire the platform.",
+    "link": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-03T16:54:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
+    "summary": "The Pentagon says its ban on Anthropic remains in effect, contradicting US Commerce Secretary Howard Lutnick's claim that Anthropic had resolved its issues with the Trump administration. The disagreement highlights ongoing friction between AI labs and US government agencies over AI procurement and governance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks",
+    "source": "Bloomberg",
+    "published": "2026-09-03T16:18:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HPE CEO Neri on Oracle Deal, AI Adoption and Earnings Outlook",
+    "summary": "HPE President and CEO Antonio Neri discussed the company's networking partnership with Oracle and said he is seeing “huge growth” in enterprise AI adoption, alongside a positive earnings outlook. The comments reflect broader momentum in enterprise infrastructure spending tied to AI.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-03/hpe-s-neri-on-oracle-deal-ai-adoption-earnings-outlook-video",
+    "source": "Bloomberg",
+    "published": "2026-09-03T16:03:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bank of America mueve su cartera en América Latina: las acciones y países que tiene en el radar",
+    "summary": "Bank of America reorganizó su estrategia de acciones en América Latina, apostando más por los mercados andinos y reduciendo su exposición a México ante señales de menor actividad, incertidumbre sobre el T-MEC y preocupaciones fiscales. Perú subió a sobreponderar y México bajó su peso en la cartera a 20%, 5.5 puntos por debajo del índice de referencia.",
+    "link": "https://www.bloomberglinea.com/mercados/bank-of-america-mueve-su-cartera-en-america-latina-las-acciones-y-paises-que-tiene-en-el-radar/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-03T15:14:43+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Neoclouds like CoreWeave are getting much bigger—and riskier",
+    "summary": "“Neocloud” AI infrastructure providers like CoreWeave are scaling up rapidly, but The Economist warns the debt financing their expansion is growing just as fast, raising the sector's risk profile. The piece flags mounting leverage across AI data-center financing as a systemic concern to watch.",
+    "link": "https://www.economist.com/business/2026/09/03/neoclouds-like-coreweave-are-getting-much-bigger-and-riskier",
+    "source": "The Economist",
+    "published": "2026-09-03T13:09:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Blackstone's BCRED Caps Redemptions Again After 10% Seek to Exit",
     "summary": "Blackstone again capped redemptions from its flagship private credit fund, BCRED, after investors sought to pull 10% of shares. The move offers an early signal of the sustained withdrawal pressure facing the $1.8 trillion private credit market as rates and liquidity concerns weigh on investor sentiment.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-03/blackstone-s-bcred-caps-redemptions-again-after-10-seek-to-exit",
@@ -42,6 +174,39 @@
     "relevance_score": 72,
     "language": "es",
     "light": true
+  },
+  {
+    "title": "Revolut recibe aprobación de la Oficina del Contralor de la Moneda de EU para constituirse como banco federal",
+    "summary": "Revolut recibió la aprobación condicional de la Oficina del Contralor de la Moneda de Estados Unidos para constituirse como banco federal, un paso hacia el lanzamiento de su entidad bancaria en 2027. La fintech ya cuenta con licencia bancaria en México y avanza en trámites regulatorios en Brasil, Colombia, Perú y Argentina.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/revolut-recibe-aprobacion-oficina-contralor-moneda-eu-constituirse-banco-federal-20260903-831730.html",
+    "source": "El Economista",
+    "published": "2026-09-03T11:41:47-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La CNBV prepara la mayor reforma de capitalización para las Socaps en los próximos años",
+    "summary": "La CNBV prepara un nuevo marco de capitalización para las Sociedades Cooperativas de Ahorro y Préstamo (Socaps), considerado una de las reformas regulatorias más relevantes para el sector financiero mexicano en los próximos años, solo por debajo de la adopción de IFRS 9. El proyecto busca que los requerimientos de capital reflejen con mayor precisión los riesgos que enfrentan estas entidades.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/cnbv-prepara-mayor-reforma-capitalizacion-socaps-proximos-anos-20260903-831729.html",
+    "source": "El Economista",
+    "published": "2026-09-03T11:36:21-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Más allá del efectivo, ¿cuál es el impacto de los pagos digitales en las finanzas de los jóvenes?",
+    "summary": "El uso de pagos digitales entre los jóvenes mexicanos está generando beneficios financieros más allá de solo prescindir del efectivo, según BBVA México, incluyendo un mejor acceso a productos personalizados de ahorro y crédito. La nota destaca el rol de la banca digital en la educación financiera de las nuevas generaciones.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/efectivo-impacto-pagos-digitales-finanzas-jovenes-20260903-831553.html",
+    "source": "El Economista",
+    "published": "2026-09-03T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "UIF endurece ofensiva contra cárteles y va por sus finanzas",
@@ -187,6 +352,17 @@
     "light": false
   },
   {
+    "title": "World’s Unusually High Dollar Exposure Risks Fueling Selloff",
+    "summary": "Bloomberg reports that pension funds and insurers worldwide hold unusually high, largely unhedged exposure to US dollar assets, leaving the currency vulnerable to a steeper selloff if sentiment turns. The analysis flags a systemic risk factor relevant to global capital flows and emerging-market financing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/world-s-unusually-high-dollar-exposure-risks-fueling-selloff",
+    "source": "Bloomberg",
+    "published": "2026-09-03T00:00:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "BCS, Querétaro y Nuevo León, con los mayores niveles de nueva IED en el país",
     "summary": "Pese a que la nueva inversión extranjera directa en México cayó 13.4% en el primer semestre de 2026 a 2,726 millones de dólares, estados como Baja California Sur, Querétaro, Nuevo León y Jalisco mantuvieron la confianza de los inversionistas. Banco Base advierte que el grueso del flujo corresponde a reinversión de utilidades (88.5%) y no necesariamente se traduce en nueva inversión fija.",
     "link": "https://www.eleconomista.com.mx/estados/bcs-queretaro-nuevo-leon-mayores-niveles-nueva-ied-pais-20260902-831642.html",
@@ -271,6 +447,17 @@
     "published": "2026-09-02T20:42:46+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Central banking has a forbidding future",
+    "summary": "The Economist examines the challenges facing the future of central banking, noting that Fed nominee Kevin Warsh has bought himself time amid a shifting monetary-policy landscape. The piece touches on the governance pressures reshaping how central banks operate.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/02/central-banking-has-a-forbidding-future",
+    "source": "The Economist",
+    "published": "2026-09-02T19:47:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5311,192 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Trump afirma que su gobierno comenzó a trabajar en nuevo acuerdo comercial con México",
-    "summary": "El presidente Donald Trump afirmó que su gobierno ya comenzó a negociar un nuevo acuerdo comercial con México, buscando mejores condiciones para Estados Unidos en el marco de la revisión del T-MEC. La siguiente ronda de negociaciones bilaterales está prevista para la primera semana de septiembre, tras avances previos en reglas de origen, acero, aluminio y el sector automotriz.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/21/trump-adelanta-nuevo-acuerdo-comercial-con-mexico-en-plena-revision-del-t-mec-mucho-mejor-para-eu/",
-    "source": "El Financiero",
-    "published": "2026-08-22T04:08:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trump's challenge: $40tn debt, 6.7% mortgages and $5 diesel",
-    "summary": "The FT outlines how Trump's economic agenda is under strain as the Iran war pushes up prices and America's fiscal position deteriorates, with US mortgage rates near 6.7% and national debt topping $40 trillion.",
-    "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-22T04:00:38+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bossing the bond market around never works",
-    "summary": "Despite Treasury Secretary Scott Bessent's efforts to influence long-term yields, investors remain uneasy, the FT notes, as history shows governments rarely succeed at commanding bond markets to behave.",
-    "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-22T04:00:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Germany’s doctors, lawyers and dentists got burnt by private markets bets",
-    "summary": "German professionals — including doctors, lawyers and dentists — have been burned by their mandatory pension schemes' bets on private markets, raising questions about how these funds, worth roughly €300 billion, are being managed.",
-    "link": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-22T04:00:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El nuevo miedo a ser principiante",
-    "summary": "La irrupción de la IA en el trabajo diario está generando ansiedad incluso entre directivos con años de experiencia, que sienten que deben volver a aprender procesos básicos. El autor argumenta que parte del valor profesional que antes distinguía a los expertos hoy puede resolverse con herramientas de IA accesibles para cualquiera.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/08/22/el-nuevo-miedo-a-ser-principiante/",
-    "source": "El Financiero",
-    "published": "2026-08-22T03:55:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México y la 'trampa' del bajo crecimiento",
-    "summary": "La Cepal revisó a la baja su proyección de crecimiento para México en 2026, a 1.3% desde el 1.5% estimado en abril, dentro de un panorama regional en el que Latinoamérica completaría cinco años consecutivos de expansión insuficiente para cerrar brechas de desarrollo. El organismo advierte que el crecimiento esperado para 2026-2027 no basta para sacar a la región de su trayectoria de bajo crecimiento de más de una década.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/21/mexico-y-la-trampa-del-bajo-crecimiento/",
-    "source": "El Financiero",
-    "published": "2026-08-22T03:52:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Estados Unidos trabaja en un nuevo acuerdo comercial con México: Trump",
-    "summary": "El presidente Donald Trump afirmó que Estados Unidos ya trabaja en un nuevo acuerdo comercial con México, luego de que su gobierno optó por revisiones anuales del T-MEC en vez de extender el tratado vigente. El canciller económico Marcelo Ebrard dijo que espera resultados similares a los alcanzados preliminarmente con Canadá, aunque los detalles aún están por definirse.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/estados-unidos-trabaja-en-un-nuevo-acuerdo-comercial-con-mexico-trump/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-22T01:10:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
-    "summary": "Mexico's top trade negotiator expressed optimism that Mexico can secure less burdensome US tariff terms on automobile and steel exports, similar to the revised measures Washington is discussing with Canada.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
-    "source": "Bloomberg",
-    "published": "2026-08-22T00:16:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ITG CFO: We're the Picks & Shovels of the AI Boom",
-    "summary": "ITG CFO Chris Mecray described the fiber and communications company as a key beneficiary of the AI buildout, providing the connectivity infrastructure data centers require once a site is built. He said the company sees a long runway of opportunity tied to growing AI-driven demand for compute capacity.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T23:35:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso cierra en 16.92 por dólar, pero la economía no levanta",
-    "summary": "El peso mexicano cerró la semana en 16.92 unidades por dólar, extendiendo su fortalecimiento frente al dólar estadounidense. Sin embargo, ese avance cambiario no se ha traducido en una mejora visible de la actividad económica del país.",
-    "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
-    "source": "Expansión",
-    "published": "2026-08-21T23:30:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-    "summary": "AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in occupations most exposed to automation. The episode also covers how Canada's tariff standoff with the US could leave lasting damage to USMCA and North American manufacturing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T23:12:20+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las claves económicas de la semana (17 al 21 de agosto): De actividad económica y minutas de Banxico y la Fed",
-    "summary": "Las minutas de Banxico y de la Fed dieron señales sobre la trayectoria de las tasas de interés para lo que resta del año, en una semana también marcada por datos de actividad económica en México y el dato de inflación de julio en la eurozona. El Indicador Oportuno de la Actividad Económica sugiere que México arrancaría el tercer trimestre con un crecimiento mensual de apenas 0.1% en junio.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-17-21-agosto-actividad-economica-minutas-banxico-fed-20260821-829633.html",
-    "source": "El Economista",
-    "published": "2026-08-21T21:52:25-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Citadel Offloads Risk From Situational Awareness",
-    "summary": "Ken Griffin's Citadel has offloaded more than 80% of the aggregate risk from the Situational Awareness stock portfolio it acquired from the AI hedge fund led by Leopold Aschenbrenner. The deal illustrates how established funds are absorbing exposure built up by newer, AI-focused investment vehicles.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/citadel-offloads-risk-from-situational-awareness-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T20:53:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El BCRA confirma leve alivio en la mora tras 19 meses de crecimiento ininterrumpido",
-    "summary": "El Banco Central de Argentina confirmó que la mora crediticia cedió levemente en junio, interrumpiendo una racha de 19 meses consecutivos de deterioro que había llevado la irregularidad a máximos históricos recientes. La mejora, aunque modesta (0.1 puntos porcentuales), es una señal a vigilar para la calidad de cartera en mercados financieros latinoamericanos comparables.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-bcra-confirma-leve-alivio-en-la-mora-tras-19-meses-de-crecimiento-ininterrumpido/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-21T20:34:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué pasa si no alcanzo pensión en el IMSS? El trámite para recibir los recursos de la cuenta Afore",
-    "summary": "Expansión explica el trámite para recuperar los recursos de la cuenta Afore cuando un trabajador no logra reunir las semanas cotizadas necesarias para obtener una pensión del IMSS.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/21/que-hacer-no-alcanzas-pension-imss-negativa",
-    "source": "Expansión",
-    "published": "2026-08-21T20:08:43+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
-    "summary": "Anthropic has hired Amir Salek, founder of the custom chip program at Google, as the AI lab lays the groundwork for a push into making its own semiconductors. The move signals Anthropic's effort to reduce reliance on external chipmakers as it scales compute for Claude.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:59:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "5G eleva las exigencias de ciberseguridad para infraestructura crítica",
-    "summary": "El avance de las redes 5G y la digitalización económica están elevando las exigencias de ciberseguridad para operadores de telecomunicaciones y para sectores que dependen de infraestructura crítica, como manufactura, energía y servicios financieros. Especialistas de Ericsson señalan que la mayor integración entre redes y operaciones industriales amplía los puntos vulnerables a ataques, espionaje, sabotaje o robo de información.",
-    "link": "https://www.eleconomista.com.mx/empresas/5g-eleva-exigencias-ciberseguridad-infraestructura-critica-20260821-829621.html",
-    "source": "El Economista",
-    "published": "2026-08-21T19:58:25-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
