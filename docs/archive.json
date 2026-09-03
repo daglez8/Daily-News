@@ -1,5 +1,104 @@
 [
   {
+    "title": "Blackstone's BCRED Caps Redemptions Again After 10% Seek to Exit",
+    "summary": "Blackstone again capped redemptions from its flagship private credit fund, BCRED, after investors sought to pull 10% of shares. The move offers an early signal of the sustained withdrawal pressure facing the $1.8 trillion private credit market as rates and liquidity concerns weigh on investor sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/blackstone-s-bcred-caps-redemptions-again-after-10-seek-to-exit",
+    "source": "Bloomberg",
+    "published": "2026-09-03T12:23:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Buys AI Platform Hugging Face for $13 Billion",
+    "summary": "Nvidia has agreed to acquire AI platform Hugging Face in a deal valued at roughly $13 billion, marking one of the largest AI infrastructure acquisitions this year. The purchase deepens Nvidia's push beyond chips into the AI model and data ecosystem that underpins enterprise AI adoption.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+    "source": "Bloomberg",
+    "published": "2026-09-03T12:11:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuando el tamaño no garantiza la rentabilidad de un banco",
+    "summary": "Una columna de opinión en Expansión cuestiona la idea de que el tamaño de un banco garantiza su rentabilidad, apuntando a otros factores que determinan el desempeño financiero de las instituciones bancarias.",
+    "link": "https://expansion.mx/opinion/2026/09/03/cuando-el-tamano-no-garantiza-la-rentabilidad-de-un-banco",
+    "source": "Expansión",
+    "published": "2026-09-03T12:04:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Pemex pone a prueba el grado de inversión de México, aunque el mercado aún no prende las alarmas",
+    "summary": "Expansión reporta que el desempeño financiero de Pemex está poniendo a prueba la calificación de grado de inversión de México, aunque por ahora los mercados de bonos no muestran señales de alarma. La situación de la petrolera estatal se mantiene bajo vigilancia de inversionistas y calificadoras.",
+    "link": "https://expansion.mx/economia/2026/09/03/mexico-grado-inversion-pemex-bonos-basura",
+    "source": "Expansión",
+    "published": "2026-09-03T11:55:10+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "UIF endurece ofensiva contra cárteles y va por sus finanzas",
+    "summary": "La Unidad de Inteligencia Financiera de México endureció su estrategia contra los cárteles, incorporando a más de 2,395 personas a la lista de bloqueados e inmovilizando 24,622 cuentas por unos 8,670 millones de pesos entre 2024 y 2026. El titular de la UIF, Omar Reyes, señaló que el 70% de los aseguramientos están vinculados a organizaciones criminales que afectan la seguridad del país.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/03/uif-endurece-ofensiva-contra-carteles-y-va-por-sus-finanzas/",
+    "source": "El Financiero",
+    "published": "2026-09-03T10:30:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Boom de exportaciones y crecimiento mediocre",
+    "summary": "Las exportaciones mexicanas de servidores y equipos de cómputo para centros de datos de IA alcanzaron 82,900 millones de dólares en el primer semestre de 2026, un crecimiento de 172% anual, superando ya a las exportaciones de automóviles y autopartes. Estados Unidos absorbe casi 94% de esas ventas, y México aporta ya cerca de 40% de las importaciones estadounidenses de estos equipos, reflejando un cambio estructural en el perfil exportador del país ligado al auge de la inteligencia artificial.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/09/03/boom-de-exportaciones-y-crecimiento-mediocre/",
+    "source": "El Financiero",
+    "published": "2026-09-03T10:15:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IA, la revolución del workplace 5.0",
+    "summary": "Una columna de opinión analiza cómo la inteligencia artificial está transformando los espacios de trabajo y oficinas corporativas en México, desde la evaluación del desempeño de corredores inmobiliarios hasta el análisis locacional automatizado para encontrar oficinas óptimas. La adopción de IA en el sector inmobiliario corporativo busca crear eficiencias invisibles que multipliquen la productividad de los colaboradores.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/09/03/ia-la-revolucion-del-workplace-50/",
+    "source": "El Financiero",
+    "published": "2026-09-03T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mexico is struggling to win over bond markets",
+    "summary": "The Economist reports that international bond investors remain unconvinced by President Claudia Sheinbaum's economic policies, weighing on Mexico's standing in fixed-income markets. The piece signals continued skepticism about the government's fiscal and economic direction despite recent stability.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+    "source": "The Economist",
+    "published": "2026-09-03T09:35:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot presenta de forma confidencial su solicitud para salir a bolsa en Hong Kong",
+    "summary": "La startup china de IA Moonshot, creadora del modelo Kimi, presentó de forma confidencial una solicitud de salida a bolsa en Hong Kong con el objetivo de recaudar 3,000 millones de dólares. La compañía ha sido valorada en 50,000 millones de dólares en una ronda de financiación en curso, según fuentes cercanas al proceso.",
+    "link": "https://www.eleconomista.com.mx/mercados/moonshot-presenta-forma-confidencial-solicitud-salir-bolsa-hong-kong-20260903-831684.html",
+    "source": "El Economista",
+    "published": "2026-09-03T06:41:46-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "CVC Raises $10 Billion for Its Largest-Ever Secondaries Fund",
     "summary": "CVC Capital Partners raised $10 billion for its largest-ever secondaries fund, the biggest pool it has assembled for buying and selling private equity stakes on the secondary market.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-03/cvc-raises-10-billion-for-its-largest-ever-secondaries-fund",
@@ -20,6 +119,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "From Residual Land to Civic Places: 6 Mexican Public Parks",
+    "summary": "ArchDaily profiles six public park projects across Mexico that convert former infrastructure buffer zones -- drainage canals, rail lines, ravines -- into civic green spaces. The projects aim to reconnect fragmented neighborhoods divided by informal urban growth and improve access to quality public space in low-income areas.",
+    "link": "https://www.archdaily.com/1184217/from-residual-land-to-civic-places-6-mexican-public-parks",
+    "source": "ArchDaily",
+    "published": "2026-09-03T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Marcelo Ebrard se reúne con Jensen Huang, CEO de Nvidia, ¿de qué hablaron?",
@@ -118,6 +228,17 @@
     "category": "Leadership & Future of Work",
     "relevance_score": 62,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Límite a China o reclamo del T-MEC? México afila su control de inversión extranjera",
+    "summary": "Expansión analiza el endurecimiento del control de inversión extranjera en México, en medio del debate sobre si la medida responde a las exigencias del T-MEC o busca limitar la inversión china. El tema cobra relevancia en el contexto de la revisión comercial regional y las presiones geopolíticas sobre las reglas de inversión.",
+    "link": "https://expansion.mx/economia/2026/09/02/mexico-no-veta-china-si-cambia-reglas-invertir",
+    "source": "Expansión",
+    "published": "2026-09-02T20:54:56+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
     "light": true
   },
   {
@@ -5377,126 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Khosla Ventures Bets on AI's Next Frontier: Science",
-    "summary": "Khosla Ventures is backing Discovery Loop, a new AI startup founded by former Google leaders including Jeff Dean, aiming to dramatically accelerate scientific experimentation. Managing Director Samir Kaul says soaring AI valuations are forcing venture investors to rethink what 'seed stage' even means.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:22:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Safety Trial Could Reveal What Zuckerberg, Others Knew",
-    "summary": "Meta faces a landmark legal battle with 29 states accusing the company of designing its platforms to keep children hooked while misleading the public about safety risks. A law professor says the case, drawing comparisons to tobacco litigation, could reveal what executives knew and when — a bigger consequence than any financial penalty.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/meta-on-trial-what-could-we-learn-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:21:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 67,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street Struggles to Absorb AI's Debt Boom",
-    "summary": "Broadcom is reportedly in talks to raise more than $60 billion in debt to help Anthropic and other AI labs secure chips and computing power. Analysts flagged growing concern over circular financing and the sustainability of funding the broader AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:14:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
-    "summary": "Anthropic is preparing for an IPO that could match or exceed the size of SpaceX's record-setting listing, Bloomberg's Ed Ludlow reports. The segment also notes Broadcom is in talks to raise over $60 billion in debt to help Anthropic and others secure AI chips and computing power, with Nvidia's earnings also in focus next week.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:12:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Aims to Match or Top SpaceX IPO",
-    "summary": "Anthropic is reportedly aiming for an IPO that could match or top SpaceX's record-setting debut, with a public filing possible by the end of August. The maker of Claude raised $65 billion in May at a $965 billion valuation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/anthropic-aims-to-match-or-top-spacex-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:12:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Robinhood's Guild on AI, Markets & Risks",
-    "summary": "Robinhood's chief investment officer Stephanie Guild discussed how major AI IPOs are reshaping market concentration risk, and pointed to healthcare and compute infrastructure as areas of opportunity. She advised investors to balance AI exposure with more defensive, cash-flow-generating assets.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/robinhood-s-guild-on-ai-markets-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-08-21T19:00:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
-    "summary": "El secretario de Economía, Marcelo Ebrard, negó que la triangulación de productos chinos a través de México hacia Estados Unidos supere el 1%, y aseguró que su gobierno lo demostrará con datos. La declaración busca despejar dudas sobre el papel de México en las cadenas comerciales entre China y Estados Unidos.",
-    "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
-    "source": "Expansión",
-    "published": "2026-08-21T18:57:31+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
-    "summary": "Apple is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to refocus resources on new devices and artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
-    "source": "Bloomberg",
-    "published": "2026-08-21T18:45:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
-    "summary": "The SEC accused former senior Bank of America investment banker Jason Satsky of passing confidential deal information to a friend who made $18.5 million in illegal profits. The case adds to regulatory scrutiny of information controls at major investment banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
-    "source": "Bloomberg",
-    "published": "2026-08-21T18:00:03+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Centros de datos son necesarios, pero no son la única vía de crecimiento: Secretaría de Economía",
-    "summary": "El secretario de Economía, Marcelo Ebrard, coincidió con la presidenta Sheinbaum en que los centros de datos son necesarios para avanzar en la adopción de IA en México, pero no deben ser el único motor de crecimiento del país. Ambos advirtieron que estas instalaciones demandan un consumo elevado de recursos naturales y generan relativamente poco empleo, por lo que su desarrollo debe ser planeado.",
-    "link": "https://www.eleconomista.com.mx/empresas/centros-datos-son-necesarios-son-unica-crecimiento-secretaria-economia-20260821-829592.html",
-    "source": "El Economista",
-    "published": "2026-08-21T17:51:44-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tracking the cost of Donald Trump's tariffs",
-    "summary": "The Economist's tariff tracker shows America's global effective tariff rate currently stands at 10.0%, offering an ongoing gauge of the cost of Trump's trade policy.",
-    "link": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
-    "source": "The Economist",
-    "published": "2026-08-21T17:00:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
   }
 ]
