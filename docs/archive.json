@@ -1,5 +1,170 @@
 [
   {
+    "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
+    "summary": "OpenAI and Anthropic are racing toward artificial general intelligence, framing it as the trigger for an economy-reshaping 'intelligence explosion.' Yet the two rivals, and the wider AI industry, still don't agree on what AGI actually means or how to get there, raising questions for investors and regulators alike.",
+    "link": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
+    "source": "Bloomberg",
+    "published": "2026-09-04T18:55:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Monedas, bolsas y deuda: las apuestas de Goldman Sachs para Brasil, Colombia y México",
+    "summary": "Goldman Sachs mantiene una visión favorable sobre los mercados emergentes de América Latina, pero con matices: Brasil y Colombia destacan en monedas y deuda local, mientras México gana terreno en estrategias de carry aunque genera más cautela en tasas. El banco atribuye el buen momento regional a la debilidad del dólar y al crecimiento resistente pese a los riesgos fiscales y electorales.",
+    "link": "https://www.bloomberglinea.com/mercados/monedas-bolsas-y-deuda-las-apuestas-de-goldman-sachs-para-brasil-colombia-y-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T18:24:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Rolls Out Its Most Advanced Model Yet",
+    "summary": "OpenAI has launched GPT-6 Astra, its most advanced model yet and a major step toward AGI, while also rolling out new guardrails to contain its powerful cybersecurity capabilities. The release underscores the intensifying competition among frontier AI labs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/openai-rolls-out-its-most-advanced-model-yet-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T18:08:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How AI Is Eroding the First Rung of the Tech Job Ladder",
+    "summary": "US information-sector employment fell by roughly 23,000 jobs in August, adding to evidence that AI is reshaping entry-level tech hiring. Northeastern researcher Alicia Modestino says junior software roles are shrinking relative to senior ones since ChatGPT's release, as employers demand more experience and judgment from new hires.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/how-ai-is-eroding-the-first-rung-of-the-tech-job-ladder-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T18:07:36+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "summary": "Early evidence suggests AI's initial effect on employment is positive rather than the mass displacement many feared, with an emerging AI jobs boom offsetting apocalyptic predictions. The piece cautions that the picture could still shift as adoption deepens.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "source": "The Economist",
+    "published": "2026-09-04T18:05:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Cloud Firm Nscale Seeking $3.5 Billion in Pre-IPO Financing",
+    "summary": "AI cloud computing firm Nscale is in talks to raise up to $3.5 billion in pre-IPO financing, according to people familiar with the matter. The round would further fuel the capital-intensive buildout of AI infrastructure ahead of a planned public listing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
+    "source": "Bloomberg",
+    "published": "2026-09-04T17:41:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
+    "summary": "El artículo aborda los conflictos que surgen cuando varios hermanos heredan una vivienda en México y no logran ponerse de acuerdo sobre venderla o quedársela. Expansión revisa las implicaciones legales y prácticas de este escenario común en la sucesión de bienes inmuebles.",
+    "link": "https://expansion.mx/economia/2026/09/04/heredar-casa-entre-hermanos-que-pasa-nadie-quiere-vender",
+    "source": "Expansión",
+    "published": "2026-09-04T17:30:05+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street abre con pérdidas tras reporte de empleo en EU: ¿Cómo opera HOY?",
+    "summary": "Wall Street abrió a la baja tras un reporte de empleo en EU más fuerte de lo esperado, que alimentó las expectativas de que la Fed suba tasas en su reunión de septiembre. El movimiento también impactó a los mercados mexicanos y europeos, con resultados mixtos entre las principales plazas.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/04/bmv-wall-street-hoy-4-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-04T17:21:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "How Oura’s rings found their way onto millions of fingers",
+    "summary": "The Economist traces how Oura's smart-ring business boomed as consumers increasingly look to wearables to take charge of their own health. The piece examines the company's rapid growth and what it signals about the broader health-tracking market.",
+    "link": "https://www.economist.com/business/2026/09/04/how-ouras-rings-found-their-way-onto-millions-of-fingers",
+    "source": "The Economist",
+    "published": "2026-09-04T17:21:12+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso gana a pesar de ‘apuestas’ a favor de aumento en tasa de la Fed: Así inicia el tipo de cambio HOY",
+    "summary": "El peso mexicano abrió con ganancias frente al dólar pese a que un sólido reporte de empleo en EU elevó las apuestas de un alza de tasas de la Fed. Analistas apuntan que la atención del mercado se centrará ahora en la presentación del Paquete Económico 2027, clave para la consolidación fiscal de México.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/04/peso-dolar-precio-hoy-4-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-04T16:51:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kai-Fu Lee Says China Will Win AI Reach Race",
+    "summary": "Former Google China chief Kai-Fu Lee argues Chinese AI rivals could out-compete OpenAI and Anthropic on global reach thanks to a cheaper, more accessible business model. He explains why lower-cost Chinese models pose a genuine competitive threat rather than just a pricing gimmick.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/kai-fu-lee-says-china-will-win-ai-reach-race-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T16:06:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inversión sorprende al alza, pero el consumo revela la debilidad de la demanda, reporta Inegi",
+    "summary": "El Inegi reportó que la inversión en México repuntó más de lo esperado en junio, pero el consumo mostró señales de debilidad, evidenciando una demanda interna frágil. El contraste plantea dudas sobre la solidez de la recuperación económica de cara al resto del año.",
+    "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
+    "source": "Expansión",
+    "published": "2026-09-04T14:53:29+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
+    "summary": "Braskem Idesa busca reestructurar su deuda mientras asegura que mantendrá sus operaciones en México. La petroquímica enfrenta presión financiera, en un caso que pone a prueba el apetito de los acreedores por renegociar términos frente a un eventual cierre de operaciones.",
+    "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
+    "source": "Expansión",
+    "published": "2026-09-04T14:34:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La IA es ‘como el crack’ y puede atrofiar el cerebro, dice Radia Perlman, pionera de internet",
+    "summary": "Radia Perlman, pionera de las redes de computadoras y creadora del protocolo STP, advierte que la inteligencia artificial genera un riesgo real de atrofia cognitiva pese a ser genuinamente real y útil para resolver problemas. La experta, reconocida como una voz crítica y confiable en la industria tecnológica, llama a un uso más consciente de estas herramientas.",
+    "link": "https://www.bloomberglinea.com/tecnologia/la-ia-es-como-el-crack-y-puede-atrofiar-el-cerebro-dice-radia-perlman-pionera-de-internet/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T14:07:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Paquete Económico 2027: ¿habrá más impuestos en México? Esto dicen los aliados de Sheinbaum",
+    "summary": "Legisladores de Morena propusieron subir el IEPS a cerveza y productos con sodio para el Paquete Económico 2027, pero luego dieron marcha atrás para esperar la propuesta oficial de Hacienda, prevista para el 8 de septiembre. La presidenta Sheinbaum evitó confirmar si habrá nuevos impuestos, pidiendo cautela hasta el envío formal al Congreso.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-habra-mas-impuestos-en-mexico-en-2027-esto-dicen-los-aliados-de-sheinbaum/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T13:32:40+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El difícil equilibrio del Paquete Económico 2027",
     "summary": "Sheinbaum adelantó que el Paquete Económico 2027 buscará consolidación fiscal gradual sin recortar inversión pública ni gasto en bienestar, salud y educación, aunque los detalles se conocerán hasta el 8 de septiembre. La columna cuestiona si ese enfoque \"paulatino\" bastará para calmar a los mercados y las calificadoras, dado que no se prevé una reforma fiscal y persisten rigideces de gasto.",
     "link": "https://www.elfinanciero.com.mx/opinion/alejandra-marcos/2026/09/04/el-dificil-equilibrio-del-paquete-economico-2027/",
@@ -20,6 +185,28 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Abu Dhabi’s G42 Weighs US Ownership to Safeguard AI Chip Access",
+    "summary": "Abu Dhabi-based AI firm G42 has held exploratory talks about selling a majority stake to US companies as it seeks to guarantee long-term access to high-end AI chips. The move highlights how chip export controls are reshaping ownership structures across the global AI supply chain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
+    "source": "Bloomberg",
+    "published": "2026-09-04T12:50:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México alcanza récord de superávit con Estados Unidos",
+    "summary": "México alcanzó un récord de superávit comercial con Estados Unidos, consolidándose como uno de los principales socios comerciales de julio. La cifra refuerza el papel del nearshoring y la integración productiva bilateral en medio de las tensiones arancelarias de la administración Trump.",
+    "link": "https://www.eleconomista.com.mx/videos/mexico-alcanza-record-superavit-estados-unidos-20260904-831943.html",
+    "source": "El Economista",
+    "published": "2026-09-04T12:36:11-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Espiral",
@@ -108,6 +295,17 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Aprueba EU pacto entre Volaris y Viva",
+    "summary": "La Unión Europea aprobó el acuerdo entre las aerolíneas mexicanas Volaris y Viva, que ahora pasa a revisión de las autoridades mexicanas. La operación consolidaría a dos de los principales operadores de bajo costo del mercado aéreo mexicano.",
+    "link": "https://www.reforma.com/aprueba-eu-pacto-entre-volaris-y-viva/ar3270208",
+    "source": "Reforma",
+    "published": "2026-09-04T09:55:24-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
   },
   {
     "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
@@ -5298,204 +5496,6 @@
     "published": "2026-08-24T14:12:24+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Australia Data-Center Power Use Seen Up Sevenfold by 2036",
-    "summary": "Australia expects data-center electricity use to rise almost sevenfold over the next decade as AI infrastructure expands, underscoring the need for new generation and storage investment. The projection comes as the country's aging coal plants are retired.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/australia-data-center-power-use-seen-jumping-sevenfold-by-2036",
-    "source": "Bloomberg",
-    "published": "2026-08-24T14:01:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
-    "summary": "La inflación en México se ubicó en 3.26% en la primera quincena de agosto, un resultado por debajo de lo que esperaban los analistas del mercado.",
-    "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
-    "source": "Expansión",
-    "published": "2026-08-24T13:45:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "House on the Northern Coast of Sao Paulo / André Vainer Arquitetos",
-    "summary": "This seafront house on Brazil's northern São Paulo coast was designed for six siblings and their families, with an L-shaped layout giving most rooms views of the sea, pool, and garden. It sits within a development originally planned by Lúcio Costa and includes a separate caretaker's residence.",
-    "link": "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
-    "source": "ArchDaily",
-    "published": "2026-08-24T13:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Las fábricas del futuro funcionarán diferente",
-    "summary": "Las fábricas del futuro serán ecosistemas inteligentes que aprenden de sus procesos, anticipan fallas y se adaptan en tiempo real, impulsadas por IA, automatización y gemelos digitales, según un artículo de opinión en El Financiero. Para regiones industriales de México como Nuevo León, esta transformación de la Industria 4.0 representa una oportunidad estratégica.",
-    "link": "https://www.elfinanciero.com.mx/opinion/acciones-sostenibles/2026/08/24/las-fabricas-del-futuro-funcionaran-diferente/",
-    "source": "El Financiero",
-    "published": "2026-08-24T12:47:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Taxonomía Sostenible de México busca llevar la Agenda 2030 al financiamiento",
-    "summary": "La Taxonomía Sostenible de México busca alinear los criterios de financiamiento del país con las metas de la Agenda 2030, sentando una guía de referencia para inversionistas y entidades financieras.",
-    "link": "https://expansion.mx/opinion/2026/08/24/la-taxonomia-sostenible-de-mexico-busca-llevar-la-agenda-2030-al-financiamiento",
-    "source": "Expansión",
-    "published": "2026-08-24T11:59:54+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft AI Business is Concentrated With OpenAI, TikTok, Meta",
-    "summary": "Microsoft's AI business remains heavily concentrated among a small group of major cloud customers, including OpenAI, TikTok and Meta. The concentration highlights the dependency dynamics shaping the AI infrastructure market.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta",
-    "source": "Bloomberg",
-    "published": "2026-08-24T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Regularizar la tierra para proteger el patrimonio",
-    "summary": "En México, miles de propiedades mantienen algún grado de irregularidad jurídica, lo que facilita conflictos, fraudes y despojos, según un artículo de opinión en El Financiero. El texto plantea la regularización de la tierra como vía para proteger el patrimonio familiar.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/08/24/regularizar-la-tierra-para-proteger-el-patrimonio/",
-    "source": "El Financiero",
-    "published": "2026-08-24T11:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Perfect AI resumes lead employers to prioritize in-person interaction",
-    "summary": "As AI-generated resumes flood hiring pipelines, employers are shifting toward networking, live assessments and phone calls to verify real candidates. The trend signals a broader rethink of recruiting processes in the age of AI.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction",
-    "source": "Bloomberg",
-    "published": "2026-08-24T10:30:49+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ByteDance Challenges Tencent With New Doubao Workplace AI Agent",
-    "summary": "ByteDance launched a workplace AI agent under its Doubao chatbot brand, entering China's growing enterprise-AI market to compete with Tencent. The move extends ByteDance's push to fold AI tools into a broader super-app strategy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
-    "source": "Bloomberg",
-    "published": "2026-08-24T09:57:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
-    "summary": "UK businesses invested more than £11 billion ($15 billion) in digital infrastructure last year, driven by a rush to build AI data centers. The surge in digital investment has reached levels last seen during the dot-com boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
-    "source": "Bloomberg",
-    "published": "2026-08-24T09:54:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Indicadores del 24 al 28 de agosto: Inflación, empleo y crecimiento del PIB",
-    "summary": "El calendario económico de la semana en México incluye datos de actividad económica, inflación, empleo, balanza comercial y construcción, según El Economista. Además se espera una nueva estimación del crecimiento del PIB del segundo trimestre tanto en México como en Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/economia/indicadores-24-28-agosto-inflacion-empleo-crecimiento-pib-20260824-829700.html",
-    "source": "El Economista",
-    "published": "2026-08-24T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inflación se aceleró a 3.26% anual en la primera quincena de agosto; servicios continúan presionando",
-    "summary": "La inflación en México se aceleró por segunda quincena consecutiva, con el INPC avanzando 0.10% quincenal en la primera mitad de agosto, según el Inegi. Las presiones persisten principalmente en el rubro de servicios.",
-    "link": "https://www.eleconomista.com.mx/economia/inflacion-acelero-3-26-anual-primera-quincena-agosto-servicios-continuan-presionando-20260824-829836.html",
-    "source": "El Economista",
-    "published": "2026-08-24T06:50:47-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alibaba cae en Bolsa tras vender acciones por 10,200 millones de dólares para financiar apuesta por la IA",
-    "summary": "Las acciones de Alibaba cayeron en la bolsa de Hong Kong tras lanzar una venta de títulos por 10,200 millones de dólares con fuerte descuento para financiar su apuesta en inteligencia artificial. Los inversionistas centran su atención en la dilución de capital y los riesgos de ejecución de la estrategia.",
-    "link": "https://www.eleconomista.com.mx/mercados/alibaba-cae-bolsa-vender-acciones-10-200-millones-dolares-financiar-apuesta-ia-20260824-829834.html",
-    "source": "El Economista",
-    "published": "2026-08-24T06:40:08-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia evalúa una inversión en Perplexity, que aumentaría su valoración en más del 50%",
-    "summary": "Nvidia está en negociaciones para invertir en Perplexity como parte de una ronda de financiamiento mediante acciones, según The Information. La operación elevaría la valoración de la startup de IA a más de 30,000 millones de dólares.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-evalua-inversion-perplexity-aumentaria-valoracion-20260824-829830.html",
-    "source": "El Economista",
-    "published": "2026-08-24T06:21:35-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reportan impago 1 de cada 4 en Sofipos",
-    "summary": "Uno de cada cuatro créditos digitales otorgados por las Sofipos en México se encuentra en impago, de acuerdo con Reforma. Expertos citados atribuyen el fenómeno a una mayor toma de riesgos por parte de estas entidades en su esfuerzo por ampliar la inclusión financiera.",
-    "link": "https://www.reforma.com/reportan-impago-1-de-cada-4-en-sofipos/ar3263097",
-    "source": "Reforma",
-    "published": "2026-08-24T05:01:26-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "A ‘democratised’ financial crisis is still a crisis",
-    "summary": "The FT flags a boom in insurers backing private credit as a new source of hidden financial risk, arguing that spreading credit exposure more broadly doesn't eliminate systemic danger — it just obscures it. The piece warns that a ‘democratised’ financial crisis is still a crisis.",
-    "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-24T04:00:14+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US widens AI-driven investment gap with Europe",
-    "summary": "The Financial Times reports that the US is pulling further ahead of Europe on AI-driven investment, as American firms far outspend their European counterparts on high-tech equipment and data-center facilities. The gap underscores growing concern in Brussels about Europe's competitiveness in the AI race.",
-    "link": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-24T04:00:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Germany must ditch doubts over private capital, says investment tsar",
-    "summary": "Germany's investment envoy Martin Blessing says the country needs to overcome official skepticism toward private capital, warning that foreign investors currently face wary public authorities. The comments point to friction between Berlin's growth ambitions and its regulatory posture toward outside capital.",
-    "link": "https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-24T04:00:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
