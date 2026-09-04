@@ -1,5 +1,148 @@
 [
   {
+    "title": "El difícil equilibrio del Paquete Económico 2027",
+    "summary": "Sheinbaum adelantó que el Paquete Económico 2027 buscará consolidación fiscal gradual sin recortar inversión pública ni gasto en bienestar, salud y educación, aunque los detalles se conocerán hasta el 8 de septiembre. La columna cuestiona si ese enfoque \"paulatino\" bastará para calmar a los mercados y las calificadoras, dado que no se prevé una reforma fiscal y persisten rigideces de gasto.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alejandra-marcos/2026/09/04/el-dificil-equilibrio-del-paquete-economico-2027/",
+    "source": "El Financiero",
+    "published": "2026-09-04T13:14:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Abu Dhabi's G42 Weighs US Ownership to Safeguard AI Chip Access",
+    "summary": "Executives at Abu Dhabi-based AI firm G42 have held exploratory talks about potentially selling a majority stake to American companies, according to people familiar with the matter. The move is aimed at guaranteeing access to advanced AI chips beyond next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/g42-s-ownership-under-review-to-secure-ai-chip-access",
+    "source": "Bloomberg",
+    "published": "2026-09-04T12:50:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Espiral",
+    "summary": "Hacienda presentará la próxima semana el Paquete Económico 2027, un momento clave para la evaluación de agencias calificadoras internacionales. El columnista advierte que la promesa de reducir el déficit fiscal por debajo de 4% del PIB no se ha cumplido ni en 2025 ni en 2026, por lo que la deuda pública crece más rápido de lo prometido en años anteriores, en lo que describe como una espiral de crisis fiscal.",
+    "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/09/04/espiral/",
+    "source": "El Financiero",
+    "published": "2026-09-04T12:13:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cómo te sientes, según el algoritmo",
+    "summary": "Una encuesta nacional (ENIAG 2025) encontró que cinco de cada diez estudiantes universitarios mexicanos usan herramientas de IA generativa para pedir consejo sobre ansiedad, estrés o depresión, y 42% las usa para desahogarse. Nueve de cada diez estudiantes y docentes que las usaron con fines de apoyo emocional las consideraron útiles, lo que el autor plantea como un cambio relevante en cómo las nuevas generaciones procesan sus emociones.",
+    "link": "https://www.eleconomista.com.mx/opinion/te-sientes-algoritmo-20260904-831881.html",
+    "source": "El Economista",
+    "published": "2026-09-04T12:02:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fidelity Mandates Five Days in Office as it Opens New Boston Home",
+    "summary": "Fidelity is opening a new 735,000-square-foot Boston headquarters and ending hybrid work for its Boston employees, requiring them back in the office five days a week. The move underscores a broader shift among major financial firms away from remote and hybrid arrangements.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/fidelity-mandates-five-days-in-office-as-it-opens-new-boston-home",
+    "source": "Bloomberg",
+    "published": "2026-09-04T12:00:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EQT to Pay $2 Billion for Majority Stake in McGill and Partners",
+    "summary": "Swedish buyout firm EQT AB agreed to acquire a majority stake in UK insurance broker McGill and Partners from Warburg Pincus for $2 billion. The deal is intended to accelerate the broker's global expansion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/eqt-to-pay-2-billion-for-majority-stake-in-mcgill-and-partners",
+    "source": "Bloomberg",
+    "published": "2026-09-04T11:50:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China's Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
+    "summary": "Moonshot AI is considering raising up to $5 billion in a planned Hong Kong IPO as soon as this year, according to people familiar with the matter, as the Chinese AI company taps into strong investor demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+    "source": "Bloomberg",
+    "published": "2026-09-04T11:07:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Futuro de Amazon",
+    "summary": "Amazon invertirá 2,500 millones de dólares a nivel global en su iniciativa Future Ready 2030 para capacitar a 50 millones de personas ante el impacto de la IA en los perfiles laborales. En México, donde suma más de 15,000 empleados, la compañía dice que busca transformar los puestos mediante educación continua y movilidad interna, no sustituir personal.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/04/futuro-de-amazon/",
+    "source": "El Financiero",
+    "published": "2026-09-04T11:04:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Middle East's Data Center Push Endures Under the Cloud of War",
+    "summary": "Gulf states are pushing ahead with massive AI data center buildouts even though such facilities have repeatedly become targets in the US war with Iran, underscoring the region's commitment to AI infrastructure investment despite heightened security risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/middle-east-s-data-center-push-endures-under-the-cloud-of-war",
+    "source": "Bloomberg",
+    "published": "2026-09-04T11:00:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ejecutiva de Google explica por qué hay que regular la Inteligencia Artificial y qué deben aprender las empresas",
+    "summary": "Pilar Manchón, directora sénior de estrategia de investigación de Google, dijo en ANDICOM 2026 que la IA debe regularse para que su uso sea más efectivo, señalando que la velocidad de adopción varía según región y tipo de organización. Explicó que las personas adoptan la IA más rápido en su vida personal que en el trabajo porque cada profesión tiene formas de operar ya arraigadas que toman más tiempo en modificarse.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/ejecutiva-de-google-explica-por-que-hay-que-regular-la-inteligencia-artificial-y-que-deben-aprender-las-empresas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
+    "summary": "DeepSeek plans to deploy at least 160,000 of Huawei's top AI accelerators at a massive new data center it's building in Inner Mongolia. The buildout could create one of the largest known clusters of Huawei AI chips and advance China's push to reduce reliance on Nvidia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
+    "source": "Bloomberg",
+    "published": "2026-09-04T09:08:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock deja tres lecciones a los inversionistas tras los cambios que han marcado 2026",
+    "summary": "BlackRock sostiene que 2026 confirmó un nuevo régimen para los inversionistas: tasas de interés más altas, mayor necesidad de seleccionar apuestas ligadas a la inteligencia artificial, y riesgos geopolíticos que persisten sin resolverse. Las acciones globales superaron en cerca de 10% el retorno de los bonos del Tesoro a tres meses en lo corrido del año, una divergencia que se ha vuelto más frecuente desde 2021.",
+    "link": "https://www.bloomberglinea.com/mercados/blackrock-deja-tres-lecciones-a-los-inversionistas-tras-los-cambios-que-han-marcado-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T09:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cartera vencida, ¿semáforo amarillo, naranja... o rojo?",
+    "summary": "La cartera vencida de la banca mexicana preocupa a Hacienda, en particular en crédito al consumo, que creció 34% anual hasta junio de 2026 (a 64,443 millones de pesos). Las tarjetas de crédito subieron 59% en el mismo periodo y el crédito de nómina 14%, aunque el secretario Edgar Amador Zamora descartó riesgo sistémico ante la cúpula bancaria.",
+    "link": "https://www.eleconomista.com.mx/opinion/cartera-vencida-semaforo-amarillo-naranja-rojo-20260904-831878.html",
+    "source": "El Economista",
+    "published": "2026-09-04T07:58:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
     "summary": "Anthropic is finalizing an expansion of its revolving credit facility to $15 billion ahead of filing for an IPO that could raise as much as SpaceX's record round, according to people familiar with the matter. Morgan Stanley is leading the process, Bloomberg reports.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-04/anthropic-finalizing-15-bln-pre-ipo-credit-facility-video",
@@ -55,6 +198,28 @@
     "light": false
   },
   {
+    "title": "The university degree is losing its lustre",
+    "summary": "Technological and economic shifts are eroding the wage premium traditionally associated with a university degree, raising questions about the long-term value proposition of higher education for graduates entering the workforce.",
+    "link": "https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-04T04:00:27+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's $2tn IPO puts powerful external trustees in spotlight",
+    "summary": "As Anthropic moves toward a reported $2 trillion IPO, public-market scrutiny is set to intensify pressure on the Claude maker's unusual governance structure, which relies on external trustees to balance profit with its stated mission.",
+    "link": "https://www.ft.com/content/9536c7b9-c600-48ec-8fe2-453b0ca187e9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-04T04:00:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "America must learn AI lessons from Astro Boy",
     "summary": "The Financial Times argues the US should draw AI-adoption lessons from Asian cultures, whose relationship with technologies often viewed as threatening in the West differs sharply. The piece points to that cultural gap as a factor shaping how quickly AI gets embraced versus resisted.",
     "link": "https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1",
@@ -62,6 +227,17 @@
     "published": "2026-09-04T04:00:18+00:00",
     "category": "AI & Agents",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round",
+    "summary": "AI startup Gimlet, which helps divide AI workloads among different chips, raised $300 million in its latest funding round, valuing the Andreessen Horowitz-backed company at $3 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+    "source": "Bloomberg",
+    "published": "2026-09-04T03:08:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
     "language": "en",
     "light": true
   },
@@ -119,6 +295,17 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
+    "summary": "Anthropic is set to finalize an expansion of its revolving credit facility to $15 billion, according to people familiar with the matter, clearing a hurdle before the AI firm's highly anticipated public filing for its IPO.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-03/anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility",
+    "source": "Bloomberg",
+    "published": "2026-09-03T22:43:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Waller se suma al grupo que se muestra abierto a un alza de tasas de interés",
@@ -337,6 +524,17 @@
     "published": "2026-09-03T15:14:43+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "De puertos a algoritmos: la inversión extranjera tech entra al filtro de seguridad nacional",
+    "summary": "México ampliará la vigilancia de seguridad nacional sobre la inversión extranjera en sectores tecnológicos como inteligencia artificial y semiconductores, extendiendo un escrutinio que históricamente se concentraba en infraestructura física como puertos hacia activos digitales y de datos.",
+    "link": "https://expansion.mx/economia/2026/09/03/mexico-vigilara-seguridad-nacional-ia-semiconductores",
+    "source": "Expansión",
+    "published": "2026-09-03T14:00:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
     "language": "es",
     "light": false
   },
@@ -590,6 +788,17 @@
     "published": "2026-09-03T00:14:44-06:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
+    "summary": "Las manufactureras de exportación en México respaldan la reforma a la Ley de Inversión Extranjera, aunque piden claridad sobre los tiempos de implementación del nuevo esquema de revisión para no afectar sus operaciones y planes de inversión.",
+    "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
+    "source": "Expansión",
+    "published": "2026-09-03T00:05:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -5287,215 +5496,6 @@
     "published": "2026-08-24T04:00:05+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
-    "summary": "Nvidia has told its biggest customers that prices for AI-chip-equipped servers are rising more than 15% in many cases, driven by soaring memory chip costs. The increase signals tightening supply chains just as hyperscalers ramp up AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
-    "source": "Bloomberg",
-    "published": "2026-08-24T00:28:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Plans $6.3 Billion Retail Bond Sale in Japan",
-    "summary": "SoftBank Group plans a record ¥1 trillion ($6.3 billion) retail bond sale in Japan, the largest ever by a Japanese issuer, to help fund its investment commitments to OpenAI. The offering underscores the scale of capital SoftBank is committing to the AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
-    "source": "Bloomberg",
-    "published": "2026-08-24T00:16:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Eurasia Group atisba T-MEC “zombie” con guerra comercial EU-Canadá",
-    "summary": "Analistas de Eurasia Group consideran que el fracaso de las negociaciones comerciales entre EU y Canadá no implica la ruptura del T-MEC, sino que el escenario más probable (90%) es un “T-MEC zombi” que sobrevive con protocolos bilaterales y aranceles más altos. La consultora asigna 60% de probabilidad a que México y Canadá alcancen acuerdos bilaterales separados con Washington.",
-    "link": "https://www.eleconomista.com.mx/empresas/eurasia-group-atisba-t-mec-zombie-guerra-comercial-eu-canada-20260824-829803.html",
-    "source": "El Economista",
-    "published": "2026-08-24T00:13:58-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crédito para las pymes: la otra oportunidad del T-MEC",
-    "summary": "Pese a contar con un sistema financiero sólido, el crédito en México no llega con suficiente profundidad a las micro y pequeñas empresas, que representan más del 90% de las unidades económicas y 70% del empleo formal. El artículo señala que instituciones especializadas como la SOFIPO Finsus están cubriendo ese vacío de financiamiento que la banca tradicional no atiende.",
-    "link": "https://www.eleconomista.com.mx/opinion/credito-pymes-oportunidad-t-mec-20260823-829797.html",
-    "source": "El Economista",
-    "published": "2026-08-23T23:49:52-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El regreso del monopolio del poder",
-    "summary": "El auge de la demanda energética de los centros de datos de IA está impulsando una ola acelerada de consolidación entre empresas de servicios eléctricos en EU, atrayendo el interés de inversionistas de Wall Street. El texto advierte que esta concentración recuerda a los conglomerados eléctricos de hace un siglo y podría elevar tarifas y debilitar la rendición de cuentas corporativa.",
-    "link": "https://www.eleconomista.com.mx/opinion/regreso-monopolio-20260823-829796.html",
-    "source": "El Economista",
-    "published": "2026-08-23T23:29:53-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Colombia: pactan tasa de préstamos más baja por terremoto",
-    "summary": "El presidente colombiano Abelardo de la Espriella acordó con los principales grupos financieros del país —Aval, GNB Sudameris y Bolívar/Davivienda— reducir al 8% anual la tasa de créditos de vivienda para las familias afectadas por el terremoto del 10 de agosto. La medida aplica únicamente en las regiones damnificadas.",
-    "link": "https://www.eleconomista.com.mx/empresas/colombia-pactan-tasa-prestamos-baja-terremoto-20260823-829794.html",
-    "source": "El Economista",
-    "published": "2026-08-23T23:21:08-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Brasil potenciará capacidades en IA con más de 440 millones de dólares",
-    "summary": "Brasil anunció inversiones por 2,300 millones de reales (444 millones de dólares) para fortalecer su ecosistema de inteligencia artificial, repartidas entre empresas estadounidenses y chinas. Más de la mitad del monto financiará un centro de supercómputo en Río de Janeiro con Huawei e iFlytek, mientras otra parte se destinará a un superordenador que el gobierno espera sea operado con chips de Nvidia.",
-    "link": "https://www.eleconomista.com.mx/empresas/brasil-potenciara-capacidades-ia-440-millones-dolares-20260823-829792.html",
-    "source": "El Economista",
-    "published": "2026-08-23T23:14:43-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade",
-    "summary": "Investment in UK fintech firms fell to its lowest level since at least 2016 in the first half of the year, as investors redirect capital toward AI-linked companies with clearer long-term growth stories. The decline highlights how the AI boom is reshaping venture funding priorities away from traditional fintech.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade",
-    "source": "Bloomberg",
-    "published": "2026-08-23T23:01:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says",
-    "summary": "Hugging Face is exploring a potential sale that could value the AI platform at $13 billion or more, Business Insider reported. The move would mark one of the largest exits yet among open-source AI infrastructure companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says",
-    "source": "Bloomberg",
-    "published": "2026-08-23T20:12:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuattro Casa de Café / Faci Leboreiro",
-    "summary": "Faci Leboreiro's Cuattro Casa de Café in Troncones, Guerrero, combines a café-restaurant, bakery, artisanal shop, and private office on a sloping coastal lot. The design was built around preserving all existing vegetation and using passive strategies to respond to the tropical climate.",
-    "link": "https://www.archdaily.com/1183776/cuattro-casa-de-cafe-faci-leboreiro",
-    "source": "ArchDaily",
-    "published": "2026-08-23T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Rep. McCormick Warns Against Slowing AI Buildout",
-    "summary": "Republican Representative Rich McCormick argued the US should keep expanding AI data centers to maintain its lead in artificial intelligence, saying the buildout can be done responsibly while benefiting local economies. He made the case on Bloomberg This Weekend amid growing political debate over the pace of AI infrastructure expansion.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-23/rep-mccormick-warns-against-slowing-ai-buildout-video",
-    "source": "Bloomberg",
-    "published": "2026-08-23T14:29:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China will struggle to make money from humanoid robots",
-    "summary": "China leads rivals in humanoid-robot development and is training thousands of workers in the field, but The Economist notes that turning that lead into profit remains far off. The piece examines the gap between China's manufacturing scale and commercial viability in robotics.",
-    "link": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
-    "source": "The Economist",
-    "published": "2026-08-23T13:52:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up",
-    "summary": "Treasury Secretary Scott Bessent, who once criticized his predecessor for trying to re-engineer the world's largest bond market, has now attempted his own intervention to bring yields down. Bloomberg reports the effort has yet to resolve what is really driving Treasury yields higher, leaving markets watching the Fed's Jackson Hole symposium for clearer signals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/bessent-has-no-easy-fix-for-what-s-really-driving-bond-yields-up",
-    "source": "Bloomberg",
-    "published": "2026-08-23T13:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘It’s a Carry World’: EM Trade Notches Longest Run Since 2008",
-    "summary": "Emerging-market carry trades are having their longest winning run since 2008, according to Cathy Hepworth, who heads PGIM's $1.5 trillion emerging-markets debt team. Bloomberg reports her highest-conviction theme across developing markets remains simple: carry, carry, carry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/-it-s-a-carry-world-em-trade-notches-longest-run-since-2008",
-    "source": "Bloomberg",
-    "published": "2026-08-23T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Government can bring robotics to life",
-    "summary": "The Financial Times argues that without supportive policy, businesses have little incentive to automate functions in markets where labor remains cheap. The piece frames government policy as a key lever for accelerating robotics and automation adoption.",
-    "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-23T11:15:07+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cómo puede la digitalización de catastros combatir los fraudes inmobiliarios?",
-    "summary": "La Sedatu impulsa la modernización y digitalización de los Registros Públicos de la Propiedad y Catastros del país como herramienta para combatir el fraude inmobiliario y el despojo de vivienda. El Economista destaca que mantener en orden los documentos de una propiedad es clave para proteger el patrimonio familiar.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/digitalizacion-catastros-combatir-fraudes-inmobiliarios-20260823-829699.html",
-    "source": "El Economista",
-    "published": "2026-08-23T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Vivienda sustentable: qué revisar antes de comprar o rentar una propiedad",
-    "summary": "El Economista, citando a Inmuebles24, explica que una vivienda sustentable no depende solo de paneles solares o materiales reciclables, sino de un uso eficiente de la energía eléctrica y el agua. La nota recomienda revisar estas características antes de comprar o rentar, ya que inciden directamente en los gastos mensuales del hogar.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/vivienda-sustentable-revisar-comprar-rentar-propiedad-20260823-829698.html",
-    "source": "El Economista",
-    "published": "2026-08-23T09:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "UK energy companies on alert after ‘Iran-linked hackers’ shut down small power facility",
-    "summary": "UK energy companies were put on alert after suspected Iran-linked hackers shut down a small power facility, prompting security officials to brief industry bosses on next steps. The incident underscores growing cybersecurity risk to critical energy infrastructure.",
-    "link": "https://www.ft.com/content/bae67bb7-ebf8-44fc-8d55-bbfaada47eb7?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-23T08:49:36+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
-    "summary": "Alibaba is raising $10.2bn through a share placement to fund AI expansion, following a strong market reception for its latest Qwen 3.8-Max model. The deal underscores how Chinese tech giants are ramping up capital raising to compete in the global AI race.",
-    "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-23T08:33:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
     "language": "en",
     "light": true
   }
