@@ -1,5 +1,71 @@
 [
   {
+    "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
+    "summary": "Tata Consultancy Services' HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to build a one-gigawatt AI data center campus in southern India. The investment accelerates Indian tech firms' push into AI infrastructure as a priority growth area.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+    "source": "Bloomberg",
+    "published": "2026-09-05T11:07:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Treasury sell-off piles pressure on weakest US borrowers",
+    "summary": "Spreads on the riskiest US junk debt have climbed to their highest level since the market meltdown that followed last year's “liberation day” tariff shock, per the Financial Times. The Treasury sell-off is adding particular pressure to the weakest corporate borrowers.",
+    "link": "https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-05T11:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Europe’s Wealth Managers Are Turning Their Backs on Stock Rally",
+    "summary": "More European wealth managers have turned pessimistic on the region's stocks, per Bloomberg, betting this year's rally will falter while US and developing-market equities keep powering ahead. The shift reflects growing caution among European asset allocators despite the broader risk-on mood in global markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-05/europe-s-wealth-managers-are-turning-their-backs-on-stock-rally",
+    "source": "Bloomberg",
+    "published": "2026-09-05T08:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
+    "summary": "Hon Hai Precision Industry, a key Nvidia manufacturing partner, reported a 52% rise in monthly sales driven by demand for AI servers. The results reflect the ongoing global race to build data center and AI computational capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+    "source": "Bloomberg",
+    "published": "2026-09-05T07:45:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Usa Trump comercio con México para amagar a Fed",
+    "summary": "Trump amenazó con dejar de comerciar con países con déficit comercial como México, a menos que la Reserva Federal baje las tasas de interés, según Reforma. La amenaza vincula la política comercial de EU directamente con la presión sobre la política monetaria estadounidense.",
+    "link": "https://www.reforma.com/usa-trump-comercio-con-mexico-para-amagar-a-fed/ar3270658",
+    "source": "Reforma",
+    "published": "2026-09-05T05:00:42-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Aprieta fisco más, pero a los mismos",
+    "summary": "Reforma reporta que durante las administraciones de la 4T el padrón de contribuyentes activos ha registrado avances mínimos, mientras el SAT ha ampliado sus actos de fiscalización. El texto sugiere que la presión fiscal recae sobre la misma base de contribuyentes en lugar de ampliarse.",
+    "link": "https://www.reforma.com/aprieta-fisco-mas-pero-a-los-mismos/ar3270637",
+    "source": "Reforma",
+    "published": "2026-09-05T05:00:42-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
     "summary": "Point Bonita, an investment vehicle tied to Jefferies that also financed the collapsed First Brands Group, has emerged as a major creditor to Radiant World amid a second alleged invoice-fraud case. The exposure raises fresh questions about due diligence and concentration risk in private credit funds.",
     "link": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
@@ -33,6 +99,17 @@
     "light": true
   },
   {
+    "title": "EU amplía su brecha comercial con México",
+    "summary": "Las exportaciones mexicanas a Estados Unidos aceleraron su crecimiento a 33.6% anual en julio, desde 23.2% en junio, impulsadas por la demanda de equipo de cómputo, según datos de la Oficina del Censo de EU. Con 60,550 millones de dólares, México alcanzó una participación de 18.2% en las importaciones estadounidenses, muy por encima de Canadá y China.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/04/eu-amplia-su-brecha-comercial-con-mexico/",
+    "source": "El Financiero",
+    "published": "2026-09-05T03:35:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Chinabotics y el futuro por la construcción de una agenda",
     "summary": "El autor reflexiona sobre cómo China ha convertido la robótica y la inteligencia artificial embebida en el eje de su estrategia industrial, tras presenciar los Juegos Mundiales de Robots Humanoides de Pekín. Argumenta que, más allá del espectáculo, la verdadera disputa es por construir la infraestructura de la próxima revolución industrial basada en IA física.",
     "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/09/04/chinabotics-y-el-futuro-por-la-construccion-de-una-agenda/",
@@ -51,6 +128,17 @@
     "published": "2026-09-05T03:00:00+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fronteras Adentro",
+    "summary": "El columnista de El Financiero advierte que el T-MEC enfrenta una etapa que exige más que negociación comercial, luego de que Canadá anunciara una inversión de 4,700 millones de dólares canadienses para fabricar internamente 313 carros de pasajeros de VIA Rail bajo su política “Buy Canadian”. El autor advierte que el tratado puede sobrevivir jurídicamente pero perder su esencia si cada socio erige barreras industriales internas mediante aranceles y requisitos de contenido.",
+    "link": "https://www.elfinanciero.com.mx/opinion/luis-wertman-zaslav/2026/09/04/fronteras-adentro/",
+    "source": "El Financiero",
+    "published": "2026-09-05T02:34:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -110,6 +198,17 @@
     "light": true
   },
   {
+    "title": "Wall Street cayó tras sólido dato de empleo que impulsó al dólar y golpeó al oro y al bitcoin",
+    "summary": "Wall Street cerró a la baja el viernes después de que las nóminas no agrícolas de agosto sumaran 162,000 empleos, por encima de las estimaciones, elevando a más de 60% la probabilidad implícita de un alza de tasas de la Fed en septiembre. El S&P 500 cedió 0.38%, el Nasdaq 0.29% y el Dow Jones 0.51%, mientras el dólar se fortaleció y el oro y el bitcoin retrocedieron.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-y-el-dolar-sube-con-fuerza-tras-dato-de-empleo-que-refuerza-alza-de-tasas-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T20:05:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Créditos hipotecarios: el BCRA realizará el lunes la primera licitación para bancos",
     "summary": "El Banco Central de Argentina lanzará el lunes su primera licitación de fondeo hipotecario por ARS$200,000 millones, dentro de un programa de ARS$2 billones diseñado por el gobierno de Milei para impulsar el crédito a la vivienda. Los fondos, provenientes del FGS de la ANSeS, deberán canalizarse exclusivamente a bancos para préstamos de compra, construcción o refacción de vivienda.",
     "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-hipotecarios-el-bcra-realizara-el-lunes-la-primera-licitacion-para-bancos/",
@@ -152,6 +251,17 @@
     "relevance_score": 75,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026",
+    "summary": "Bloomberg reports that Anthropic is finalizing an expansion of its revolving credit facility to $15 billion as it prepares for an anticipated public filing, building a financial cushion ahead of a possible IPO. The segment also touches on a US tech-sector job cut of 23,000 positions in August and Apple's product plans under new CEO John Ternus.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/bloomberg-tech-9-04-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T18:11:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
   },
   {
     "title": "OpenAI Rolls Out Its Most Advanced Model Yet",
@@ -605,6 +715,17 @@
     "light": true
   },
   {
+    "title": "Green Space and the Price of a Home on the US West Coast",
+    "summary": "ArchDaily examines how West Coast US cities searching for land to build promised affordable housing keep landing on the same contested answer: parks and greenbelts. The piece frames the resulting zoning fights as a referendum on which form of community wellbeing a city is willing to trade for another.",
+    "link": "https://www.archdaily.com/1183990/green-space-and-the-price-of-a-home-on-the-us-west-coast",
+    "source": "ArchDaily",
+    "published": "2026-09-04T04:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round",
     "summary": "AI startup Gimlet, which helps divide AI workloads among different chips, raised $300 million in its latest funding round, valuing the Andreessen Horowitz-backed company at $3 billion.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
@@ -625,6 +746,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets",
+    "summary": "The dollar slid to start September amid mixed signals on the Federal Reserve's next policy move ahead of a pivotal inflation report. A surging yen reverberated across global currency markets as traders repriced rate-hike bets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/us-dollar-slumps-to-start-september-as-yen-surges-on-rate-bets",
+    "source": "Bloomberg",
+    "published": "2026-09-04T00:29:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Esto va muy bien y eso es un problema",
@@ -5364,138 +5496,6 @@
     "published": "2026-08-25T08:25:00+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google amplía Gemini Enterprise para bufetes y abogados",
-    "summary": "Google amplió su plataforma Gemini Enterprise con herramientas dirigidas a bufetes y abogados, para ayudarles a automatizar tareas rutinarias y complejas mediante IA. La expansión intensifica la competencia entre las tecnológicas por capturar la creciente demanda de inteligencia artificial en el sector jurídico.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/google-amplia-gemini-enterprise-bufetes-abogados-20260825-830054.html",
-    "source": "El Economista",
-    "published": "2026-08-25T06:47:37-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "En el II Trim. PIB creció 1.4%; su mejor registro desde el 2022",
-    "summary": "El PIB de México creció 1.4% en el segundo trimestre de 2026 frente al primero, según cifras desestacionalizadas del Inegi, por debajo del 1.5% que había proyectado el instituto hace 20 días. Aun con el ajuste a la baja, es el crecimiento trimestral más dinámico desde 2022.",
-    "link": "https://www.eleconomista.com.mx/economia/ii-trim-pib-crecio-1-4-mejor-registro-20260825-830017.html",
-    "source": "El Economista",
-    "published": "2026-08-25T06:21:44+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Economía mexicana se contrajo por segundo mes consecutivo: IGAE",
-    "summary": "La economía mexicana se contrajo por segundo mes consecutivo en junio, según el IGAE del Inegi, con una caída mensual de 0.1% tras el -0.4% de mayo. El dato quedó por debajo del crecimiento esperado por el mercado.",
-    "link": "https://www.eleconomista.com.mx/economia/economia-mexicana-contrajo-segundo-mes-consecutivo-igae-20260825-830015.html",
-    "source": "El Economista",
-    "published": "2026-08-25T06:16:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lunar Founders Raise €8 Million for Auditing Startup Built on AI",
-    "summary": "The founders of Danish digital bank Lunar raised €8.2 million to launch an AI-powered auditing startup, betting that AI can disrupt an industry still heavily reliant on manual work. The venture is one of several recent bets on AI displacing traditional professional-services work.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
-    "source": "Bloomberg",
-    "published": "2026-08-25T06:15:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crece impago de crédito al consumo en Sofipos; Imora aumenta tres puntos porcentuales a 25.4%",
-    "summary": "La morosidad ajustada (Imora) en créditos al consumo de las Sofipos subió a 25.41% en junio de 2026, tres puntos porcentuales más que un año antes, según cifras de la CNBV. El indicador incluye cartera vencida más créditos castigados o eliminados del balance.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/crece-impago-credito-consumo-sofipos-imora-aumenta-tres-puntos-porcentuales-25-20260825-830013.html",
-    "source": "El Economista",
-    "published": "2026-08-25T06:05:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BBVA transfiere riesgo de cartera pyme para liberar capital",
-    "summary": "BBVA México cerró con la IFC (brazo financiero del Banco Mundial) una operación de transferencia significativa de riesgo sobre su cartera de crédito pyme, liberando capital regulatorio. El banco dijo que usará esa capacidad para seguir financiando a empresas mexicanas.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bbva-transfiere-riesgo-cartera-pyme-liberar-capital-20260825-830011.html",
-    "source": "El Economista",
-    "published": "2026-08-25T06:01:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cabin Sande / Helen & Hard architects",
-    "summary": "Cabin Sande is a coastal retreat by Helen & Hard architects set along Norway's rugged Atlantic coastline, designed to connect distinct landscape zones while responding to the site's rocky terrain and ocean views. The project reflects a minimalist, nature-integrated approach to high-end getaway architecture.",
-    "link": "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects",
-    "source": "ArchDaily",
-    "published": "2026-08-25T06:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Escuelas particulares rechazan propuesta de la ABM por aumento de comisiones de pagos con tarjeta",
-    "summary": "La Confederación Nacional de Escuelas Particulares rechazó la propuesta de la ABM de eliminar la tasa de intercambio de 0% para el sector educativo, advirtiendo que elevaría sus costos operativos. A partir de octubre, las escuelas con facturación anual superior a 3.5 millones de pesos empezarían a pagar nuevas comisiones por pagos con tarjeta.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/escuelas-particulares-rechazan-propuesta-abm-aumento-comisiones-pagos-tarjeta-20260824-830010.html",
-    "source": "El Economista",
-    "published": "2026-08-25T05:59:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "JPMorgan eases approach on lending against shares to court AI's new wealth",
-    "summary": "JPMorgan shortened the time horizon required for SpaceX employees and investors to borrow against their stock holdings, and may extend similar terms to Anthropic shareholders. The move reflects banks courting the wealth being created at fast-growing AI and space companies.",
-    "link": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-25T04:00:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The little-known French company trying to unseat Palantir in Europe",
-    "summary": "French data-analytics firm ChapsVision is in talks with several European governments and competing for major German defense and police contracts, positioning itself as a regional alternative to Palantir. The push comes as European governments look for AI and data platforms outside US vendors.",
-    "link": "https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-25T04:00:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Puedo cambiar mi pensión de UMAs a salarios mínimos? Esto explica por qué solo a algunos les funciona",
-    "summary": "Un análisis explica por qué solo algunos trabajadores pueden cambiar el cálculo de su pensión de UMAs a salarios mínimos, y qué determina si la conversión realmente les conviene.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/24/cambiar-pension-umas-salarios-minimos-explica-funciona",
-    "source": "Expansión",
-    "published": "2026-08-25T01:29:43+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
-    "summary": "Un comparativo entre Ualá, BBVA y Banorte muestra cuáles instituciones registran mayor proporción de créditos sin pagar en México, en un contexto de morosidad al alza en el sistema financiero.",
-    "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
-    "source": "Expansión",
-    "published": "2026-08-25T01:11:07+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
     "language": "es",
     "light": false
   }
