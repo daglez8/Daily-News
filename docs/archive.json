@@ -1,5 +1,137 @@
 [
   {
+    "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
+    "summary": "Point Bonita, an investment vehicle tied to Jefferies that also financed the collapsed First Brands Group, has emerged as a major creditor to Radiant World amid a second alleged invoice-fraud case. The exposure raises fresh questions about due diligence and concentration risk in private credit funds.",
+    "link": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-05T04:00:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
+    "summary": "US governors are cracking down on Flock Safety, a license-plate-reading AI surveillance startup backed by Trump-aligned donors, as Republican lawmakers join a broader backlash against expanding AI surveillance tools. The episode signals growing bipartisan scrutiny of AI governance and privacy risk in the US.",
+    "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-05T04:00:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI boom reverses the trend of ever-cheaper electronics",
+    "summary": "The AI boom is driving up component costs and reversing decades of falling prices for phones, laptops and gaming consoles. Retailers are already flagging further price increases as AI-related demand strains hardware supply chains.",
+    "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+    "source": "Financial Times",
+    "published": "2026-09-05T04:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinabotics y el futuro por la construcción de una agenda",
+    "summary": "El autor reflexiona sobre cómo China ha convertido la robótica y la inteligencia artificial embebida en el eje de su estrategia industrial, tras presenciar los Juegos Mundiales de Robots Humanoides de Pekín. Argumenta que, más allá del espectáculo, la verdadera disputa es por construir la infraestructura de la próxima revolución industrial basada en IA física.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/09/04/chinabotics-y-el-futuro-por-la-construccion-de-una-agenda/",
+    "source": "El Financiero",
+    "published": "2026-09-05T03:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Puede un líder reconvertirse junto con la empresa?",
+    "summary": "La columna analiza por qué los líderes que impulsaron el crecimiento inicial de una empresa a veces se convierten en un obstáculo cuando el negocio madura y exige otro tipo de dirección. Plantea que distintos estilos de liderazgo —el creativo, el fundador intuitivo, el ejecutivo firme— enfrentan el reto de reinventarse junto con la organización.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/09/04/puede-un-lider-reconvertirse-junto-con-la-empresa/",
+    "source": "El Financiero",
+    "published": "2026-09-05T03:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pronóstico de crecimiento para México sube marginalmente previo a Paquete Económico 2027",
+    "summary": "La Encuesta Citi de Expectativas elevó ligeramente el pronóstico de crecimiento del PIB de México para 2026 a 1.3%, con el peso fortaleciéndose y la inflación estable de cara al Paquete Económico 2027. El estimado privado se mantiene por debajo de la proyección de Banxico, que ve un crecimiento de 1.5% este año y 2% en 2027.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pronostico-de-crecimiento-para-mexico-sube-marginalmente-previo-a-paquete-economico-2027/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-05T02:08:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El líder más difícil de dirigir eres tú",
+    "summary": "La columna retoma la enseñanza de Carlos Llano Cifuentes de que el verdadero liderazgo comienza por el autogobierno, ejemplificada en un estudiante que lideraba a su equipo con serenidad en lugar de protagonismo. Argumenta que quien no logra dirigirse a sí mismo difícilmente puede ejercer una autoridad genuina sobre otros.",
+    "link": "https://www.elfinanciero.com.mx/opinion/carlos-ruiz-gonzalez/2026/09/04/el-lider-mas-dificil-de-dirigir-eres-tu/",
+    "source": "El Financiero",
+    "published": "2026-09-05T01:18:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jay Chaudhry Says AI Is Driving More Demand for Cybersecurity at Zscaler",
+    "summary": "Zscaler CEO Jay Chaudhry said AI is acting as a major tailwind for the cybersecurity industry rather than reducing demand for it, as boards push to adopt AI for productivity while fearing new vulnerabilities. He argued executives want AI-driven cost savings but are wary that new models could be hacked or hijacked.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/jay-chaudhry-says-ai-is-driving-demand-for-cybersecurity-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T21:30:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (31 de agosto al 4 de septiembre): Remesas, inversión fija y empleo en EU",
+    "summary": "El resumen semanal de El Economista destaca que las remesas a México crecieron 3% en julio, hasta 5,570 millones de dólares, aunque siguen perdiendo poder adquisitivo pese a alcanzar el envío promedio más alto desde 1995. La atención económica se centrará ahora en los datos de empleo y actividad manufacturera de Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-31-agosto-4-septiembre-remesas-inversion-fija-empleo-eu-20260904-832010.html",
+    "source": "El Economista",
+    "published": "2026-09-04T21:00:38-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lutnick to Review Pentagon Deals Involving Cerberus Companies",
+    "summary": "US Commerce Secretary Howard Lutnick has been tapped by the Pentagon to review transactions between the Department of Defense and companies tied to private equity firm Cerberus Capital Management. The review adds to scrutiny of potential conflicts of interest between government contracts and major PE-backed portfolio companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
+    "source": "Bloomberg",
+    "published": "2026-09-04T20:27:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Créditos hipotecarios: el BCRA realizará el lunes la primera licitación para bancos",
+    "summary": "El Banco Central de Argentina lanzará el lunes su primera licitación de fondeo hipotecario por ARS$200,000 millones, dentro de un programa de ARS$2 billones diseñado por el gobierno de Milei para impulsar el crédito a la vivienda. Los fondos, provenientes del FGS de la ANSeS, deberán canalizarse exclusivamente a bancos para préstamos de compra, construcción o refacción de vivienda.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-hipotecarios-el-bcra-realizara-el-lunes-la-primera-licitacion-para-bancos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T19:51:21+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+    "summary": "Anthropic is nearing a decision to award Morgan Stanley and Goldman Sachs top roles in what could be a $2 trillion IPO, with paperwork for the Wall Street debut expected as soon as next week. The offering would rank among the largest AI listings to date.",
+    "link": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-04T19:46:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
     "summary": "OpenAI and Anthropic are racing toward artificial general intelligence, framing it as the trigger for an economy-reshaping 'intelligence explosion.' Yet the two rivals, and the wider AI industry, still don't agree on what AGI actually means or how to get there, raising questions for investors and regulators alike.",
     "link": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
@@ -44,6 +176,17 @@
     "light": true
   },
   {
+    "title": "Anthropic’s $15 Billion Credit Line Sets Stage for IPO",
+    "summary": "Anthropic is finalizing a $15 billion revolving credit facility to strengthen its position ahead of an anticipated IPO that could kick off a busy fall for tech listings. Analysts suggest its rapid growth could support a valuation above SpaceX's, and that a successful debut could open the door for other long-awaited listings, including Oura and various neoclouds.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-04/anthropic-s-15-billion-credit-line-sets-stage-for-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-09-04T18:05:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
     "summary": "Early evidence suggests AI's initial effect on employment is positive rather than the mass displacement many feared, with an emerging AI jobs boom offsetting apocalyptic predictions. The piece cautions that the picture could still shift as adoption deepens.",
     "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
@@ -53,6 +196,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+    "summary": "Analistas de Citi mantienen su recomendación de compra sobre Microsoft con un precio objetivo de US$600, tras cambios en la forma en que la compañía reporta sus negocios que ofrecen mayor transparencia sobre Azure. La firma considera que el segmento de nube queda más enfocado en consumo y cómputo de IA tras la salida de GitHub, Nuance y Security Copilot, lo que sustenta un potencial de alza cercano al 20%.",
+    "link": "https://www.bloomberglinea.com/mercados/acciones-de-microsoft-hasta-donde-pueden-subir-y-cual-es-su-precio-objetivo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T18:04:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Cloud Firm Nscale Seeking $3.5 Billion in Pre-IPO Financing",
@@ -99,6 +253,17 @@
     "light": true
   },
   {
+    "title": "Afore Coppel adquiriría Afore Invercap: qué pasa con tu dinero, según la ley y las autoridades",
+    "summary": "Afore Coppel estaría por adquirir Afore Invercap, una operación de consolidación en el sistema mexicano de administradoras de fondos para el retiro. El reporte examina qué implicaría la transacción para los ahorros de los cuentahabientes conforme a la ley y a la supervisión de las autoridades financieras.",
+    "link": "https://www.eleconomista.com.mx/videos/afore-coppel-adquiriria-afore-invercap-pasa-dinero-ley-autoridades-20260904-831988.html",
+    "source": "El Economista",
+    "published": "2026-09-04T17:07:01-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Peso gana a pesar de ‘apuestas’ a favor de aumento en tasa de la Fed: Así inicia el tipo de cambio HOY",
     "summary": "El peso mexicano abrió con ganancias frente al dólar pese a que un sólido reporte de empleo en EU elevó las apuestas de un alza de tasas de la Fed. Analistas apuntan que la atención del mercado se centrará ahora en la presentación del Paquete Económico 2027, clave para la consolidación fiscal de México.",
     "link": "https://www.elfinanciero.com.mx/mercados/2026/09/04/peso-dolar-precio-hoy-4-de-septiembre-de-2026/",
@@ -141,6 +306,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Pulte’s Rewewed Attack on Credit Bureaus Sends FICO Plunging",
+    "summary": "Shares of Fair Isaac Corp., Equifax and TransUnion tumbled after Federal Housing Finance Agency Director Bill Pulte renewed his criticism of the high costs mortgage borrowers pay for consumer credit scores. The attack adds to pressure on the credit-bureau industry's role in US mortgage underwriting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-04/fico-plunges-21-credit-bureaus-fall-as-pulte-renews-criticism",
+    "source": "Bloomberg",
+    "published": "2026-09-04T14:17:14+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "La IA es ‘como el crack’ y puede atrofiar el cerebro, dice Radia Perlman, pionera de internet",
@@ -5322,181 +5498,5 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
-    "summary": "Monte de Piedad, la institución mexicana de crédito prendario, cumple casi un año en huelga mientras la Suprema Corte de Justicia se involucra en el conflicto laboral que podría definir su resolución. El caso pone bajo la lupa la gobernanza y el manejo de riesgo laboral de una de las instituciones financieras populares más antiguas del país.",
-    "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
-    "source": "Expansión",
-    "published": "2026-08-24T23:46:49+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round",
-    "summary": "Lambda Inc., an Nvidia-backed AI cloud-computing provider, is in talks to raise up to $3 billion in a round that could set it up to go public next year. The raise underscores continued investor appetite for AI infrastructure providers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
-    "source": "Bloomberg",
-    "published": "2026-08-24T23:36:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum confía en alcanzar acuerdo comercial con EE.UU. tras ruptura de Canadá",
-    "summary": "La presidenta Claudia Sheinbaum dijo confiar en que México alcance un acuerdo comercial con Estados Unidos, tras el desencuentro de Washington con Canadá este fin de semana. Marcelo Ebrard, secretario de Economía, viajó a EU para negociar durante una semana.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-confia-en-alcanzar-acuerdo-comercial-con-eeuu-tras-ruptura-de-canada/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-24T21:43:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
-    "summary": "Amazon, Meta y Oracle han despedido personal por miles, pero otras empresas siguen pagando hasta 63,875 dólares anuales para atraer talento tecnológico escaso, según un reporte de Expansión.",
-    "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
-    "source": "Expansión",
-    "published": "2026-08-24T21:27:46+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Smart Ring Maker Oura Seeks to Raise Up to $3 Billion in US IPO",
-    "summary": "Oura Health, maker of the popular smart ring that tracks health, fitness and sleep, is seeking to raise up to $3 billion in a US IPO alongside some of its backers. The offering would be one of the largest wearables-sector listings to date.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/smart-ring-maker-oura-is-said-to-seek-up-to-3-billion-in-ipo",
-    "source": "Bloomberg",
-    "published": "2026-08-24T21:07:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nuclear Power Demand Driven by AI, Hyperscaler Companies, Says TerraPower CEO",
-    "summary": "TerraPower CEO Chris Levesque said hyperscalers' AI data-center buildout is driving demand for nuclear power, with the company set to announce a new nuclear-plant deal with a data-center customer this year. He said TerraPower is working to lower construction time and costs so nuclear can become a larger US energy source.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nuclear-power-demand-driven-by-ai-says-terrapower-ceo-video",
-    "source": "Bloomberg",
-    "published": "2026-08-24T19:57:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
-    "summary": "La inversión extranjera directa (IED) en México alcanzó un récord de 34,968 millones de dólares en el primer semestre de 2026, aunque su ritmo de crecimiento se moderó frente a periodos previos.",
-    "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
-    "source": "Expansión",
-    "published": "2026-08-24T19:19:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple Cuts Jobs as It Reprioritizes Around AI",
-    "summary": "Apple is cutting jobs across its Vision Pro, Siri and Intelligent Systems Experiences teams as it redirects resources toward new devices and AI. Bloomberg's Mark Gurman said the changes reshape Apple's Siri operation around new AI infrastructure ahead of a planned foldable iPhone.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/apple-cuts-jobs-as-it-reprioritizes-around-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-08-24T18:33:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Customers Brace for Higher AI Costs",
-    "summary": "Nvidia customers are being warned of price increases of around 15% for Blackwell and Rubin-based AI systems as memory costs rise through the supply chain. Analysts said the increases aren't surprising, and that older GPU generations can still hold value even as newer chips ship.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-customers-brace-for-higher-ai-costs-video",
-    "source": "Bloomberg",
-    "published": "2026-08-24T18:30:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
-    "summary": "La fintech Bait se alió con OXXO para ampliar el servicio de recargas a sus 26.8 millones de usuarios, un movimiento que amplía la distribución de sus productos financieros a través de tiendas de conveniencia.",
-    "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
-    "source": "Expansión",
-    "published": "2026-08-24T18:05:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Chinese Hackers Use DeepSeek to Boost Attacks, Researchers Say",
-    "summary": "Chinese state-linked hacking groups are increasingly incorporating DeepSeek and other open-source AI models into their cyberattack operations, according to security researchers. The trend highlights how readily available AI tools are lowering the barrier for sophisticated attacks on targets abroad.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say",
-    "source": "Bloomberg",
-    "published": "2026-08-24T17:13:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China's Hackers Use DeepSeek for Attacks, Researchers Say",
-    "summary": "Chinese state-linked hackers are ramping up cyberattacks after integrating DeepSeek and other open-source AI models into their operations, researchers say. The finding highlights how attackers can leverage widely available AI tools to target victims abroad.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
-    "source": "Bloomberg",
-    "published": "2026-08-24T17:13:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economía de México ‘despunta’ en segundo trimestre: PIB creció 1.4% pese a tensión comercial con Trump",
-    "summary": "La economía mexicana creció 1.4% en el segundo trimestre respecto al trimestre anterior, impulsada por los sectores de servicios y construcción y por exportaciones sólidas, pese a la tensión comercial con Estados Unidos. La cifra revierte la contracción revisada de 0.3% del primer trimestre, aunque quedó ligeramente por debajo de lo previsto por los analistas.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/24/economia-de-mexico-despunta-en-segundo-trimestre-pib-crecio-14-pese-a-tension-comercial-con-trump/",
-    "source": "El Financiero",
-    "published": "2026-08-24T15:51:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How Shein came crashing down",
-    "summary": "The Chinese e-retailer Shein is listing at roughly a quarter of the $100 billion valuation it once commanded, according to The Economist. The piece examines the factors behind the company's dramatic fall in value ahead of its public listing.",
-    "link": "https://www.economist.com/business/2026/08/24/how-shein-came-crashing-down",
-    "source": "The Economist",
-    "published": "2026-08-24T15:14:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El dólar pierde fuerza y Wall Street ve un nuevo respaldo para monedas de América Latina",
-    "summary": "El dólar volvió a debilitarse mientras Wall Street mira al mercado de bonos de EU, cuyo repunte de rendimientos de largo plazo reactivó dudas fiscales y una narrativa de \"debasement\". BBVA atribuye el movimiento a una intervención conjunta que ha dado nuevo respaldo a las monedas de América Latina.",
-    "link": "https://www.bloomberglinea.com/mercados/el-dolar-pierde-fuerza-y-wall-street-ve-un-nuevo-respaldo-para-monedas-de-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-24T15:05:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
-    "summary": "Taiwanese prosecutors indicted a senior Nvidia manager as part of a group accused of smuggling advanced AI chips into China, marking the island's first known crackdown on black-market AI-accelerator trade. The case adds to growing scrutiny of chip export controls amid the US-China tech rivalry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
-    "source": "Bloomberg",
-    "published": "2026-08-24T14:12:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
