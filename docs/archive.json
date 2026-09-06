@@ -1,5 +1,16 @@
 [
   {
+    "title": "La revolución intelagéntica ya comenzó",
+    "summary": "Columna de opinión en Expansión sobre el avance de los agentes de inteligencia artificial ('IA intelagéntica') y su creciente impacto en las empresas. El texto plantea que esta nueva ola de IA agéntica ya está transformando la manera en que operan las organizaciones.",
+    "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
+    "source": "Expansión",
+    "published": "2026-09-06T12:00:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Insurers pile on risk as payouts fall to lowest level in 20 years",
     "summary": "The property and casualty insurance industry is taking on more risk as a wave of capital pushes premiums down and claims payouts hit a 20-year low. The FT reports the sector is bracing for a downturn as underwriting discipline loosens.",
     "link": "https://www.ft.com/content/a0e69cf2-c3d4-412b-b78b-a6171b7ed020?syn-25a6b1a6=1",
@@ -20,6 +31,17 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Trump, el aprendiz de brujo",
+    "summary": "La columna de Enrique Quintana narra cómo Trump eligió a Kevin Warsh para presidir la Fed esperando tasas más bajas, pero terminó con un banquero central presionado a mostrar independencia. El texto describe el ultimátum lanzado el viernes por Trump y señala que en julio tres miembros del comité de mercado abierto votaron por subir la tasa, evidenciando la tensión entre la Casa Blanca y la Reserva Federal.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/05/trump-el-aprendiz-de-brujo/",
+    "source": "El Financiero",
+    "published": "2026-09-06T03:58:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "De São Paulo a Ciudad de México: los mercados de oficinas que destacan en América Latina",
@@ -5474,28 +5496,6 @@
     "published": "2026-08-25T16:00:06+00:00",
     "category": "AI & Agents",
     "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sycamore Tree’s Parker Warns AI Debt Frenzy Heralds Rating Risk",
-    "summary": "Trillions of dollars in capital needed to fund the AI buildout over the coming years carry significant credit risks, including around private ratings, according to Sycamore Tree Capital Partners' co-founder Trey Parker. He warns that the pace of AI-linked debt issuance is outrunning traditional risk assessment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/sycamore-tree-s-parker-warns-ai-debt-frenzy-heralds-rating-risk",
-    "source": "Bloomberg",
-    "published": "2026-08-25T15:06:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Advierten que sin resolver la mora no habrá recuperación del crédito ni del consumo en Argentina",
-    "summary": "La morosidad es el principal obstáculo para que el crédito, la actividad y el consumo repunten en Argentina, según un socio fundador de la consultora MAP. El especialista pidió al Banco Central generar condiciones para una solución de mercado entre bancos y deudores, sin recurrir a un salvataje.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/advierten-que-sin-resolver-la-mora-no-habra-recuperacion-del-credito-ni-del-consumo-en-argentina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-25T15:03:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
     "language": "es",
     "light": false
   }
