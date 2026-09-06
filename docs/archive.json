@@ -1,5 +1,104 @@
 [
   {
+    "title": "Insurers pile on risk as payouts fall to lowest level in 20 years",
+    "summary": "The property and casualty insurance industry is taking on more risk as a wave of capital pushes premiums down and claims payouts hit a 20-year low. The FT reports the sector is bracing for a downturn as underwriting discipline loosens.",
+    "link": "https://www.ft.com/content/a0e69cf2-c3d4-412b-b78b-a6171b7ed020?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-06T04:00:20+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS demands new junior bankers show AI proficiency",
+    "summary": "UBS will require new graduates and interns to demonstrate proficiency with AI tools before joining the Swiss bank. The policy reflects growing pressure across financial institutions to embed AI skills into hiring and daily workflows to improve outcomes and efficiency.",
+    "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-06T04:00:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "De São Paulo a Ciudad de México: los mercados de oficinas que destacan en América Latina",
+    "summary": "Un análisis de Cushman & Wakefield muestra que el mercado de oficinas de alto nivel sigue en auge en América Latina, con São Paulo, Bogotá, Ciudad de México y Santiago a la cabeza gracias a una tendencia de 'flight-to-quality'. La firma advierte que la nueva oferta debe ser selectiva ante el elevado costo de capital y las tasas de interés altas.",
+    "link": "https://www.bloomberglinea.com/negocios/de-sao-paulo-a-ciudad-de-mexico-los-mercados-de-oficinas-que-destacan-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-06T03:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Traders Flock to Bullish Chinese Stock Bets for AI Alternative",
+    "summary": "Investors looking to diversify beyond crowded AI trades in Korea and Japan are increasingly turning to Chinese equity derivatives. Bloomberg reports the shift reflects a search for alternative ways to play the AI theme in Asian markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative",
+    "source": "Bloomberg",
+    "published": "2026-09-06T01:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Redata pone a Brasil en el radar de inversiones globales en centros de datos, dice Amazon Web Services",
+    "summary": "AWS calificó como 'excelente noticia' la aprobación de Redata, el régimen fiscal especial para centros de datos que exime impuestos a equipos de nube e IA en Brasil, ahora a la espera de la firma de Lula. Según la firma, la medida coloca al país en el radar de las inversiones globales en infraestructura de nube e inteligencia artificial.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/redata-pone-a-brasil-en-el-radar-de-inversiones-globales-en-centros-de-datos-dice-amazon-web-services/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-05T23:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reporta SAT crecimiento de 28.5% en padrón de contribuyentes",
+    "summary": "El SAT reportó un crecimiento de 28.5% en el padrón de contribuyentes activos entre octubre de 2018 y julio de 2026, equivalente a un avance cercano a 3.1% anual. La cifra se suma al esfuerzo de fiscalización del gobierno mexicano por ampliar su base tributaria.",
+    "link": "https://www.reforma.com/reporta-sat-crecimiento-de-28-5-en-padron-de-contribuyentes/ar3270953",
+    "source": "Reforma",
+    "published": "2026-09-05T20:26:50-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Jobs Surge Raises Odds of September Fed Hike",
+    "summary": "A stronger-than-expected US jobs report has reinforced the case for the Federal Reserve to raise interest rates this month despite President Trump's calls for lower borrowing costs, Bloomberg's Jonathan Golub said. He flagged longer-term bond yields as a bigger concern, since heavy AI investment and government borrowing are competing for capital.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
+    "source": "Bloomberg",
+    "published": "2026-09-05T15:37:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ocean House / Biazus Arquitetura",
+    "summary": "ArchDaily presents Ocean House, a Brazilian beach home built for extended family stays, defined by horizontal planes for shade, an integrated split-level living area with double-height ceilings, and natural materials like stone and wood. The design prioritizes comfort and a strong indoor-outdoor presence for hosting weekend guests.",
+    "link": "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
+    "source": "ArchDaily",
+    "published": "2026-09-05T13:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "AI May Transform How Humans Understand Animals",
+    "summary": "Researchers are using AI to analyze large collections of animal vocalizations, looking for patterns that could reveal how species such as crows communicate. Bloomberg reports the technology could reshape the human-animal relationship but also raises ethical questions about privacy and exploitation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
+    "source": "Bloomberg",
+    "published": "2026-09-05T12:46:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
     "summary": "Tata Consultancy Services' HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to build a one-gigawatt AI data center campus in southern India. The investment accelerates Indian tech firms' push into AI infrastructure as a priority growth area.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
@@ -462,6 +561,17 @@
     "light": false
   },
   {
+    "title": "Lo que viene después del T.I.G.R.E.: JPMorgan cree que lo difícil para Colombia empieza ahora",
+    "summary": "JPMorgan advierte que, tras el fuerte repunte de la bolsa y el peso colombiano bajo la nueva administración, la fase más exigente apenas comienza: el foco pasa de las expectativas políticas a la ejecución del plan T.I.G.R.E. (comercio, inversión, crecimiento, ajuste fiscal y aplicación de la ley) en medio de una economía que perdería velocidad. El banco presentó su lectura actualizada durante el Investor Day de la Bolsa de Valores de Colombia.",
+    "link": "https://www.bloomberglinea.com/mercados/lo-que-viene-despues-del-tigre-jpmorgan-cree-que-lo-dificil-para-colombia-empieza-ahora/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T16:51:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Kai-Fu Lee Says China Will Win AI Reach Race",
     "summary": "Former Google China chief Kai-Fu Lee argues Chinese AI rivals could out-compete OpenAI and Anthropic on global reach thanks to a cheaper, more accessible business model. He explains why lower-cost Chinese models pose a genuine competitive threat rather than just a pricing gimmick.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-04/kai-fu-lee-says-china-will-win-ai-reach-race-video",
@@ -471,6 +581,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Del oro al café y el petróleo: Citi anticipa qué materias primas subirán y cuáles caerán",
+    "summary": "Citi anticipa un cierre de 2026 con fuertes divergencias entre materias primas: apuesta por el oro y la plata, espera presión bajista sobre el petróleo tras un repunte de corto plazo y mantiene una perspectiva negativa para el café arábica. El banco ve el estrecho de Ormuz como el punto de inflexión clave para crudo y metales preciosos.",
+    "link": "https://www.bloomberglinea.com/mercados/del-oro-al-cafe-y-el-petroleo-citi-anticipa-que-materias-primas-subiran-y-cuales-caeran/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-04T15:22:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿Cuánto le pueden cobrar de interés en su tarjeta de crédito en septiembre 2026? La tasa de usura bajó",
@@ -5377,126 +5498,5 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Esquina Nativa Center / TACO taller de arquitectura contextual",
-    "summary": "Esquina Nativa Center, designed by TACO taller de arquitectura contextual on the site of a former nursery in Mérida, rethinks the relationship between commercial architecture, landscape and public space. The project preserves existing mature trees, using them to organize circulation and define the shaded, contextual experience of the complex.",
-    "link": "https://www.archdaily.com/1183840/esquina-nativa-center-taco-taller-de-arquitectura-contextual",
-    "source": "ArchDaily",
-    "published": "2026-08-25T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
-    "summary": "Marcas mexicanas como Toyota, Suburbia y la fintech Klar están ganando visibilidad al ser recomendadas directamente por asistentes de IA como ChatGPT y Gemini. El fenómeno obliga a las empresas a repensar sus estrategias de posicionamiento de cara a un consumidor que cada vez delega más decisiones de compra en modelos de lenguaje.",
-    "link": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
-    "source": "Expansión",
-    "published": "2026-08-25T13:01:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 77,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million",
-    "summary": "Israeli AI-safety startup Alice, which partners with Google and Anthropic to protect AI models from misuse and rogue behavior, raised $140 million following a string of high-profile hacks against AI systems. The round underscores growing investor appetite for AI-safety infrastructure as adoption accelerates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million",
-    "source": "Bloomberg",
-    "published": "2026-08-25T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El “superpeso” está de vuelta... y empieza a hacer daño",
-    "summary": "El peso mexicano cotiza por debajo de 17 unidades por dólar, acumulando un avance de casi 20% desde enero de 2025 y convirtiéndose en una de las divisas emergentes con mejor desempeño. Pero para una economía que envía más del 80% de sus exportaciones a EU, la fortaleza cambiaria ya está reduciendo los márgenes de algunos exportadores.",
-    "link": "https://www.eleconomista.com.mx/mercados/superpeso-vuelta-empieza-dano-20260825-830100.html",
-    "source": "El Economista",
-    "published": "2026-08-25T12:52:44-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La inversión que decidió quedarse",
-    "summary": "La Inversión Extranjera Directa en México sumó 34,968 millones de dólares en el primer semestre del año, la cifra más alta registrada para un periodo similar y 2.1% superior a la de un año antes, según la Secretaría de Economía. El análisis contrasta esta lectura positiva con las señales de desaceleración que enfrenta la economía mexicana.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/25/la-inversion-que-decidio-quedarse/",
-    "source": "El Financiero",
-    "published": "2026-08-25T12:18:43+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "No toda fricción merece ser automatizada",
-    "summary": "Una columna de opinión cuestiona la tendencia a automatizar procesos de forma indiscriminada, argumentando que cierta fricción operativa cumple funciones de control y calidad que no deberían eliminarse sin criterio. El texto plantea una reflexión sobre los límites de la automatización en la toma de decisiones organizacionales.",
-    "link": "https://expansion.mx/opinion/2026/08/25/no-toda-friccion-merece-ser-automatizada",
-    "source": "Expansión",
-    "published": "2026-08-25T12:13:49+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deutsche Bank Accelerates AI Adoption With New Google Service",
-    "summary": "Deutsche Bank is stepping up its use of artificial intelligence by adopting a new Google Cloud service, aiming to generate more revenue while keeping a lid on costs. The move reflects accelerating enterprise AI adoption among major global banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/deutsche-bank-accelerates-ai-adoption-with-new-google-service",
-    "source": "Bloomberg",
-    "published": "2026-08-25T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Regresa el superávit en la cuenta corriente del segundo trimestre de 2026: Banxico",
-    "summary": "La cuenta corriente registró un superávit de 8,927 millones de dólares en el segundo trimestre, equivalente a 1.7% del PIB, tras el déficit de 18,231 millones reportado en el primer trimestre. El giro se explica principalmente por un mayor superávit de la balanza de mercancías no petroleras y un menor déficit del ingreso primario.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/regresa-superavit-cuenta-corriente-segundo-trimestre-2026-banxico-20260825-830091.html",
-    "source": "El Economista",
-    "published": "2026-08-25T11:56:05-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fitbit Founders Launch Screen-Free Health Tracker for Seniors",
-    "summary": "Nearly six years after selling Fitbit to Google, its co-founders are launching a new screen-free wearable worn on the wrist, designed to continuously monitor family members including aging parents. The device targets the wearable-health niche as a lower-friction alternative to screen-based trackers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors",
-    "source": "Bloomberg",
-    "published": "2026-08-25T11:55:01+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
-    "summary": "Los ingresos tributarios financiarán 70% del gasto público total en 2027 según el paquete económico, la proporción más alta desde 1990. La cifra refleja una creciente dependencia de la recaudación fiscal para sostener las finanzas públicas de México.",
-    "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
-    "source": "Expansión",
-    "published": "2026-08-25T11:54:28+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Jack Ma Buys Alibaba Stock in Show of Support for AI Buildout",
-    "summary": "Alibaba co-founder Jack Ma has joined other senior executives in buying company stock, signaling confidence in Alibaba's AI ambitions. The purchases come as investors closely watch major tech firms' AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/jack-ma-joins-top-executives-in-buying-alibaba-stock-scmp-says",
-    "source": "Bloomberg",
-    "published": "2026-08-25T11:30:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
   }
 ]
