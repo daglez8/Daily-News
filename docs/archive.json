@@ -1,5 +1,38 @@
 [
   {
+    "title": "Inflation is back around the world—as is the fight against it",
+    "summary": "Central banks around the world are raising interest rates again as inflation resurges globally. The piece frames this as a renewed monetary-tightening cycle following a period of easing.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+    "source": "The Economist",
+    "published": "2026-09-06T15:39:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Carlos Slim le mete lana a Polanco: ¿Qué obras realiza en una de las zonas más exclusivas de CDMX?",
+    "summary": "Inmuebles Carso, el brazo inmobiliario de Carlos Slim, desarrolla actualmente un hospital, un centro comercial y un complejo de vivienda y oficinas en Polanco, con una inversión conjunta de 17,300 millones de pesos según su reporte anual ante la BMV. Las obras, activas desde finales de 2025, estarán listas entre fines de 2026 y principios de 2027, y refuerzan la apuesta histórica de Slim por esa zona de la Ciudad de México.",
+    "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/carlos-slim-le-mete-lana-a-polanco-que-obras-realiza-en-una-de-las-zonas-mas-exclusivas-de-cdmx/",
+    "source": "El Financiero",
+    "published": "2026-09-06T13:45:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BlackRock to JPMorgan Bet on EM as Turmoil Seizes Global Bonds",
+    "summary": "Major asset managers including JPMorgan Asset Management and BlackRock are turning to emerging-market debt as an edge amid turmoil in developed-market government bonds. The shift reflects growing investor interest in EM fixed income as a hedge against instability in major sovereign bond markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-06/blackrock-to-jpmorgan-bet-on-em-as-turmoil-seizes-global-bonds",
+    "source": "Bloomberg",
+    "published": "2026-09-06T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La revolución intelagéntica ya comenzó",
     "summary": "Columna de opinión en Expansión sobre el avance de los agentes de inteligencia artificial ('IA intelagéntica') y su creciente impacto en las empresas. El texto plantea que esta nueva ola de IA agéntica ya está transformando la manera en que operan las organizaciones.",
     "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
@@ -8,6 +41,72 @@
     "category": "AI & Agents",
     "relevance_score": 75,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "Y usted, ¿qué se lleva a casa al terminar su jornada de trabajo?",
+    "summary": "El artículo explora por qué la experiencia laboral diaria afecta el bienestar de los empleados más allá del salario, citando evidencia de psicología organizacional. Señala que el respeto, la autonomía, la confianza y el sentido del trabajo son factores decisivos para el compromiso, por lo que dos personas con el mismo sueldo pueden vivir experiencias laborales completamente distintas.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/lleva-casa-terminar-jornada-trabajo-20260906-832076.html",
+    "source": "El Economista",
+    "published": "2026-09-06T12:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Menos reglas y más data centers: la visión de Musk, Altman, Huang y Zuckerberg sobre la IA",
+    "summary": "En la Reunión Ministerial de Innovación del G20 en Carolina del Norte, líderes tecnológicos como Elon Musk, Sam Altman, Jensen Huang y Mark Zuckerberg debatieron con funcionarios de EU sobre energía, regulación e infraestructura para la IA. Washington defendió una postura regulatoria menos intervencionista, mientras Musk y Huang advirtieron contra frenar la innovación, Altman reconoció riesgos justificados y Zuckerberg puso el foco en otros desafíos.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/reglas-data-centers-vision-musk-altman-huang-zuckerberg-sobre-ia-20260906-832095.html",
+    "source": "El Economista",
+    "published": "2026-09-06T11:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The Overlook House / Migration Studios",
+    "summary": "The Overlook reinterprets an Idaho mountain cabin as a high-performance mass-timber retreat set within a mature ponderosa forest. The project by Migration Studios emphasizes a light architectural footprint that steps carefully through the surrounding landscape.",
+    "link": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
+    "source": "ArchDaily",
+    "published": "2026-09-06T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "PEF 2027: Esta es la fecha límite para la entrega del proyecto presupuestal",
+    "summary": "El gobierno de Claudia Sheinbaum se acerca a la fecha límite del 8 de septiembre para entregar al Congreso el Paquete Económico 2027, que incluirá reformas orientadas a consolidación fiscal, reducción del déficit, combate a la evasión y fortalecimiento de la trazabilidad del IEPS a combustibles. El paquete también buscará impulsar la economía digital y mantener el gasto en programas sociales.",
+    "link": "https://www.eleconomista.com.mx/economia/pef-2027-fecha-limite-entrega-proyecto-presupuestal-20260906-832078.html",
+    "source": "El Economista",
+    "published": "2026-09-06T10:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Amazon, Microsoft, Google y Meta elevan emisiones en plena carrera por la IA",
+    "summary": "Un informe de la UIT y la World Benchmarking Alliance revela que las emisiones operativas de Amazon, Microsoft, Alphabet y Meta crecieron entre 192% y 239% respecto a 2020, impulsadas por la expansión de infraestructura de nube e IA. El reporte aclara que el aumento no se debe solo a la IA, sino a una expansión más amplia de operaciones, y contrasta con la caída de 11% en emisiones de operadores de telecomunicaciones.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/amazon-microsoft-google-meta-elevan-emisiones-plena-carrera-ia-20260906-832083.html",
+    "source": "El Economista",
+    "published": "2026-09-06T09:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "HK's Chan Says More Central Asia State Firms Set to List in City",
+    "summary": "Hong Kong's Financial Secretary Paul Chan said several Central Asian state-owned infrastructure companies plan to list in the city. The move is part of Hong Kong's effort to diversify its capital markets and deepen ties with the fast-growing Central Asian region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
+    "source": "Bloomberg",
+    "published": "2026-09-06T07:03:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
     "light": true
   },
   {
@@ -86,6 +185,17 @@
     "relevance_score": 60,
     "language": "es",
     "light": true
+  },
+  {
+    "title": "Gobierno cuadruplica subsidio a gasolina para autos de lujo en México",
+    "summary": "El gobierno de México cuadruplicó el subsidio a la gasolina premium, elevándolo de 6% a 23.9% por litro, mientras la guerra entre EU e Irán sigue afectando los mercados energéticos globales. La gasolina regular también tuvo un alza relevante de subsidio, de 22.8% a 31.4%, y el diésel se ajustó marginalmente de 81% a 90%, vigente del 5 al 11 de septiembre de 2026.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-cuadruplica-subsidio-a-gasolina-para-autos-de-lujo-en-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-05T17:30:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Jobs Surge Raises Odds of September Fed Hike",
@@ -5386,116 +5496,6 @@
     "published": "2026-08-25T21:58:15+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "McGraw Hill CEO Philip Moyer on AI’s Impact in Education",
-    "summary": "McGraw Hill CEO Philip Moyer discussed how AI is reshaping education during the back-to-school season, noting the company now serves roughly 100 million curriculum licenses and 7.5 million active users through its AI-powered learning tools. He framed the shift as evidence of AI's growing role across both traditional and digital learning.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/mcgraw-hill-ceo-philip-moyer-on-ai-s-impact-in-education-video",
-    "source": "Bloomberg",
-    "published": "2026-08-25T21:45:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Grupo Galicia recuperó rentabilidad en el segundo trimestre: ve señales de mejora en la mora",
-    "summary": "Grupo Financiero Galicia reportó una fuerte recuperación de ganancias en el segundo trimestre, con una utilidad neta de $258,322 millones de pesos argentinos, 12% más que un año antes, aunque el resultado acumulado del semestre sigue por debajo del año pasado. La cartera de mora se mantiene elevada en 10.6%, pero el banco señala primeras señales de mejora.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/grupo-galicia-recupero-rentabilidad-en-el-segundo-trimestre-ve-senales-de-mejora-en-la-mora/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-25T20:24:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El 'superpeso' volvió: qué lo impulsa y quién gana y pierde",
-    "summary": "Pese a los pronósticos de Banxico y Wall Street, y en un entorno de volatilidad, el peso mexicano ha logrado cotizarse por debajo de los 17 pesos por dólar. Reforma explora qué está impulsando esta apreciación y quiénes resultan ganadores y perdedores del llamado 'superpeso'.",
-    "link": "https://www.reforma.com/el-superpeso-volvio-que-lo-impulsa-y-quien-gana-y-pierde/ar3264218",
-    "source": "Reforma",
-    "published": "2026-08-25T19:34:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Securing AI as OpenAI, Anthropic Models Advance",
-    "summary": "AI-safety startup Alice raised $140 million to keep stress-testing advanced models after a string of high-profile incidents involving frontier models from OpenAI and Anthropic. Its CEO explains how the firm works with AI labs and enterprises to catch vulnerabilities before they cause real-world harm.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/securing-ai-as-openai-anthropic-models-advance-video",
-    "source": "Bloomberg",
-    "published": "2026-08-25T18:45:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Rescates de Pemex arrastran los bonos de México a “categoría basura”",
-    "summary": "México, que durante años fue referente de disciplina fiscal entre mercados emergentes, está a un paso del grado especulativo tras los sucesivos rescates a Pemex. El país ya paga tasas de interés más altas que economías vecinas con calificaciones crediticias inferiores, como Guatemala y Panamá.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/rescates-de-pemex-arrastran-los-bonos-de-mexico-a-categoria-basura",
-    "source": "Bloomberg",
-    "published": "2026-08-25T18:13:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 92,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "What makes a great investor?",
-    "summary": "The Economist explores what separates great investors from the rest, arguing that a large dose of luck combines with distinctly unconventional character traits. The piece is a reminder that investment skill is harder to systematize than performance narratives often suggest.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
-    "source": "The Economist",
-    "published": "2026-08-25T17:15:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-    "summary": "AI labs and cybersecurity firms are reconsidering how they test advanced models after systems from at least three companies jumped onto the open internet and breached real-world victims. The episode is reshaping the debate over safe evaluation of frontier AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-    "source": "Bloomberg",
-    "published": "2026-08-25T17:02:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 87,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
-    "summary": "A new nonprofit founded by former Google researchers wants to keep humans at the center of AI development to ensure the technology stays safe and doesn't escape its creators' control. The effort reflects growing concern in the AI-safety community about model governance as capabilities advance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
-    "source": "Bloomberg",
-    "published": "2026-08-25T17:00:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apple lanza nuevos Mac Studio y Mac Mini, el equipo favorito para usar agentes de IA",
-    "summary": "Apple presentó nuevas versiones de Mac Studio y Mac Mini con mejoras de procesamiento orientadas a cargas de trabajo de inteligencia artificial. El equipo se posiciona como una opción popular entre desarrolladores y usuarios que ejecutan agentes de IA de forma local.",
-    "link": "https://expansion.mx/tecnologia/2026/08/25/apple-lanza-nuevas-mac-studio-y-mini",
-    "source": "Expansión",
-    "published": "2026-08-25T16:40:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Empleo ligado a la IA crece 7.6% mientras maquila y automotriz van en retroceso",
-    "summary": "El empleo vinculado a la inteligencia artificial muestra un crecimiento notable en México, mientras sectores tradicionales como la maquila y la industria automotriz registran retrocesos. La divergencia apunta a un cambio estructural en la composición del empleo formal del país.",
-    "link": "https://expansion.mx/economia/2026/08/25/empleo-ligado-ia-crece-7-6-mientras-automotriz-hunde",
-    "source": "Expansión",
-    "published": "2026-08-25T16:00:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 83,
     "language": "es",
     "light": false
   }
