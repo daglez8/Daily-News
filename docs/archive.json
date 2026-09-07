@@ -1,5 +1,148 @@
 [
   {
+    "title": "Banxico ante posibles alzas en la tasa de la FED",
+    "summary": "El columnista analiza el tono del presidente de la Fed, Kevin Warsh, calificándolo de hawkish pero con señales contradictorias: eliminó la guía prospectiva, propone menos reuniones anuales de la Junta y ya votó dos veces por mantener las tasas sin cambios. El texto cuestiona si Banxico debe prepararse para una postura más restrictiva de la Fed pese a estas señales mixtas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/09/07/banxico-ante-posibles-alzas-en-la-tasa-de-la-fed/",
+    "source": "El Financiero",
+    "published": "2026-09-07T12:46:09+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia toca la puerta de Sheinbaum: proyectos en Pemex y supercomputadora Coatlicue en la agenda del gobierno",
+    "summary": "Nvidia se acerca al gobierno de Sheinbaum con proyectos vinculados a Pemex y a la supercomputadora Coatlicue, según el titular de Expansión.",
+    "link": "https://expansion.mx/tecnologia/2026/09/07/nvidia-toca-la-puerta-de-sheinbaum",
+    "source": "Expansión",
+    "published": "2026-09-07T11:55:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "When Will We Achieve AGI? AI Leaders Now Say It’s a Fuzzy Target",
+    "summary": "Bloomberg reports that AI industry leaders are backing away from treating AGI — the point where AI outperforms humans at most tasks — as a clearly measurable milestone, reflecting growing uncertainty about how and when it will be reached.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target",
+    "source": "Bloomberg",
+    "published": "2026-09-07T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tres oportunidades y tres riesgos si quieres invertir en América Latina antes de que acabe 2026",
+    "summary": "Analistas ven oportunidades de inversión en América Latina hacia el cierre de 2026, especialmente en los Andes, materias primas, crédito y renta fija, aunque el atractivo no es uniforme. Bank of America redujo su posición en México a infraponderar mientras sobrepondera Perú, Colombia y Argentina, en un contexto de elecciones en Brasil y presiones fiscales regionales.",
+    "link": "https://www.bloomberglinea.com/mercados/tres-oportunidades-y-tres-riesgos-si-quieres-invertir-en-america-latina-antes-de-que-acabe-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-07T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ánimo de inversión histórico en Yucatán, pero Coparmex Mérida tiene otros datos",
+    "summary": "Mientras Coparmex Mérida reporta que el ánimo de inversión en Yucatán está en mínimos históricos según su encuesta voluntaria, la misma semana trajo anuncios contrastantes: un parque eólico de 9,250 millones de pesos y la llegada del unicornio Kavak al sureste del país. El columnista cuestiona la metodología de la encuesta frente a estos datos duros de inversión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/09/07/animo-de-inversion-historico-en-yucatan-pero-coparmex-merida-tiene-otros-datos/",
+    "source": "El Financiero",
+    "published": "2026-09-07T10:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Transformación del sistema de pagos: ganadores y perdedores",
+    "summary": "La publicación de las reglas de interconexión de cámaras de compensación en México marca un avance clave para coordinar bancos, adquirentes y comercios, atendiendo preocupaciones planteadas incluso en las negociaciones comerciales con Estados Unidos sobre procesadores de pagos internacionales. La columna detalla ganadores y perdedores de esta transformación regulatoria del sistema de pagos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/09/07/transformacion-del-sistema-de-pagos-ganadores-y-perdedores/",
+    "source": "El Financiero",
+    "published": "2026-09-07T10:08:37+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Directivo de Microsoft revela la estrategia de IA que tiene el gigante tecnológico en Colombia",
+    "summary": "Según Microsoft, el 63% de los trabajadores colombianos ya usa IA en el trabajo, cinco puntos por encima del promedio global, de acuerdo con su Work Trend Index 2026. Pese a la rápida adopción, el 70% teme quedar rezagado si no se adapta, aunque la mayoría sigue usando la IA como punto de partida y no como respuesta definitiva.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/directivo-de-microsoft-revela-la-estrategia-de-ia-que-tiene-el-gigante-tecnologico-en-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-07T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
+    "summary": "A biotech company says an experimental lung-disease drug discovered using AI showed early signs of reversing biological aging markers in a study, pointing to potential broader anti-aging applications.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+    "source": "Bloomberg",
+    "published": "2026-09-07T09:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indicadores del 7 al 11 de septiembre: Inflación en México y en EU y actividad industrial",
+    "summary": "El Economista repasa la agenda económica de la semana: en México se publicarán datos de inflación de agosto, venta de autos, balanza comercial y actividad industrial, además del reporte de trabajadores afiliados al IMSS. En el exterior destaca la decisión de política monetaria del BCE y los datos de precios al consumidor y productor de Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-7-11-septiembre-inflacion-mexico-eu-actividad-industrial-20260907-832130.html",
+    "source": "El Economista",
+    "published": "2026-09-07T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La ONU advierte que la IA podría suponer un riesgo \"existencial\" para la humanidad",
+    "summary": "El responsable de derechos humanos de la ONU, Volker Türk, advirtió ante el Consejo de Derechos Humanos que la IA avanzada podría representar un riesgo existencial para la humanidad y llamó a las empresas a reforzar garantías de seguridad antes de que sea demasiado tarde. Citó como ejemplo de IA \"demasiado poderosa\" a sistemas capaces de escapar de su entorno de prueba o chantajear a sus desarrolladores.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/onu-advierte-ia-suponer-riesgo-existencial-humanidad-20260907-832204.html",
+    "source": "El Economista",
+    "published": "2026-09-07T06:22:13-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Condona Infonavit, pero sube morosidad",
+    "summary": "Infonavit ha condonado casi 314,000 millones de pesos a deudores entre 2025 y 2026, pero pese a las condonaciones y a las bajas de tasas, la morosidad de los créditos sigue en aumento.",
+    "link": "https://www.reforma.com/condona-infonavit-pero-sube-morosidad/ar3271378",
+    "source": "Reforma",
+    "published": "2026-09-07T05:01:32-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 90,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Alertan de credibilidad en presupuesto 2027",
+    "summary": "The Economist advierte que el Presupuesto de Egresos de la Federación 2027 será clave para frenar la erosión de confianza fiscal en México y evitar que el país continúe pagando tasas de deuda más altas.",
+    "link": "https://www.reforma.com/alertan-de-credibilidad-en-presupuesto-2027/ar3271356",
+    "source": "Reforma",
+    "published": "2026-09-07T05:01:32-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Why America’s debt binge is starting to matter",
+    "summary": "The FT warns that if long-term US interest rates decisively break through the 5% threshold, rising debt costs could start to derail the broader AI investment boom.",
+    "link": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-07T04:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Con o sin huelga, los refrendos de tu empeño en Monte de Piedad siguen contando",
     "summary": "Los refrendos de préstamos empeñados en Nacional Monte de Piedad seguirán contando con normalidad para los clientes, incluso en medio de una huelga en la institución, según Expansión.",
     "link": "https://expansion.mx/finanzas-personales/2026/09/06/refrendos-nacional-monte-de-piedad-esto-pasa-empeno-huelga",
@@ -5355,148 +5498,5 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Pemex se aleja del riesgo: Baja el costo de su deuda y mejoran sus calificaciones",
-    "summary": "La Secretaría de Hacienda reportó que el riesgo crediticio de México y Pemex ha bajado de forma sostenida: el CDS a 5 años de México cayó de 120 a 80 puntos base y el de Pemex de 460 a 222 puntos base durante la actual administración. Con ello, el costo de cobertura crediticia de México se ubica en niveles similares a los de países con grado de inversión.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/26/pemex-se-aleja-del-riesgo-baja-el-costo-de-su-deuda-y-mejoran-sus-calificaciones/",
-    "source": "El Financiero",
-    "published": "2026-08-26T08:49:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-    "summary": "Wall Street is closely watching Nvidia's earnings not primarily for what they reveal about the chipmaker itself, but as a barometer for the broader state of the AI trade. The results are expected to shape investor sentiment on whether AI-linked valuations across the market remain justified.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade",
-    "source": "Bloomberg",
-    "published": "2026-08-26T07:48:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Labor Shortages Are Reshaping Architecture",
-    "summary": "The piece revisits how Brasília's 1958 construction, built almost entirely by migrant laborers under harsh conditions in just over three years, depended on abundant, low-cost labor that modern architecture can no longer assume. It frames today's labor shortages as a structural challenge now reshaping how architects and planners approach large-scale building projects.",
-    "link": "https://www.archdaily.com/1183637/how-labor-shortages-are-reshaping-architecture",
-    "source": "ArchDaily",
-    "published": "2026-08-26T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
-    "summary": "Bill Gates published a 6,000-word essay calling for certain jobs to be deliberately 'human reserved' to shield workers from AI-driven displacement. He warned that AI could usher in one of the most turbulent periods in human history for the labor force.",
-    "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-26T07:01:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cómo desarrollar al talento y evitar la rotación de los colaboradores",
-    "summary": "Ante datos de Gallup que muestran que 59% de los trabajadores globales está en 'renuncia silenciosa' y solo 23% comprometido, expertos en talento señalan que desarrollar habilidades y dar nuevas responsabilidades a los colaboradores es clave para mejorar retención y compromiso sin requerir grandes inversiones. Kristien Turner, CEO de TK Talent, subraya que lo esencial es el tiempo y la disposición de los líderes para acompañar ese desarrollo.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/desarrollar-talento-evitar-rotacion-colaboradores-20260826-830196.html",
-    "source": "El Economista",
-    "published": "2026-08-26T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Citi revela los minerales críticos que generarían riqueza en América Latina y los países prometedores",
-    "summary": "Citi destaca que América Latina concentra el 41% del cobre mundial, 22% del zinc y 19% del litio, recursos clave para la expansión global de la inteligencia artificial y la transición energética, aunque enfrenta el reto de atraer el capital necesario para nuevos proyectos. México, junto con Perú y Brasil, figura entre los principales productores de oro de la región.",
-    "link": "https://www.bloomberglinea.com/economia/citi-revela-los-minerales-criticos-que-generarian-riqueza-en-america-latina-y-los-paises-prometedores/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-26T07:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Huawei AI Data Center Bid in Egypt Spurs US to Mull Counter",
-    "summary": "Huawei has bid to build AI data centers for Egypt's government, a move showcasing its global chip and AI infrastructure ambitions. The bid has alarmed Washington, which is reportedly assembling a counteroffer to blunt Chinese tech influence in the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft",
-    "source": "Bloomberg",
-    "published": "2026-08-26T06:39:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bill Gates quiere debatir propuestas para mitigar los riesgos de la IA con Xi Jinping",
-    "summary": "Bill Gates planea reunirse este año con el presidente chino Xi Jinping para proponer iniciativas globales que mitiguen los riesgos de la inteligencia artificial, incluyendo la supervisión de la capacidad de la IA para diseñar moléculas o ataques biológicos. Gates dijo a Reuters que China podría aceptar restringir el lanzamiento de modelos peligrosos si Estados Unidos toma la iniciativa primero.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/bill-gates-quiere-debatir-propuestas-mitigar-riesgos-ia-xi-jinping-20260826-830275.html",
-    "source": "El Economista",
-    "published": "2026-08-26T06:29:43-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EU vs Canadá y sigue México",
-    "summary": "El columnista analiza cómo la disputa arancelaria entre EU y Canadá por el T-MEC anticipa un replanteamiento de la relación comercial de América del Norte, en el que Washington busca negociar por separado con cada socio para contener a China. Advierte que la nueva arquitectura comercial no se definirá pronto, lo que mantendrá la incertidumbre para México.",
-    "link": "https://www.eleconomista.com.mx/opinion/eu-vs-canada-sigue-mexico-20260826-830272.html",
-    "source": "El Economista",
-    "published": "2026-08-26T06:08:33-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Stake",
-    "summary": "SoftBank Group is in talks with investment banks about a potential $10 billion to $20 billion bond offering to help refinance a loan tied to its investment in OpenAI. The move underscores the scale of capital SoftBank is deploying to back its AI bet.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing",
-    "source": "Bloomberg",
-    "published": "2026-08-26T04:55:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
-    "summary": "US Treasury Secretary Bessent's increased bond purchases are reportedly putting the Treasury on a collision course with the Federal Reserve, threatening to undermine Chair Kevin Warsh's efforts to tame inflation. The tension highlights growing friction between fiscal and monetary policy as markets await further rate signals.",
-    "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-26T04:00:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Institutional investors back Blackstone and KKR funds for wealthy individuals",
-    "summary": "Traditional institutional backers of private equity are increasingly investing in Blackstone and KKR funds designed for wealthy individuals, according to the Financial Times. The shift could threaten the industry's traditional 10-year fund model as PE firms chase retail and high-net-worth capital.",
-    "link": "https://www.ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-26T04:00:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BNY Executive Vice Chair on Australia Business, AI",
-    "summary": "Hani Kablawi, Executive Vice Chair at BNY, discussed the bank's business strategy in Australia and its bullish outlook on AI-fueled growth in an interview with Bloomberg. The conversation touched on how the firm is positioning itself around AI adoption in financial services.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/bny-executive-chair-on-australia-business-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-08-26T03:50:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   }
 ]
