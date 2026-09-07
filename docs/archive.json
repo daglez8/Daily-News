@@ -1,5 +1,71 @@
 [
   {
+    "title": "“La AGI ha llegado”: Jensen Huang desata el debate tras el lanzamiento de Astra",
+    "summary": "El CEO de Nvidia, Jensen Huang, afirmó en redes sociales que la \"AGI ha llegado\" tras el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI orientado a tareas complejas y autónomas. La declaración generó debate: el científico cognitivo Gary Marcus cuestionó que exista evidencia suficiente para hablar de inteligencia artificial general, señalando que buenos resultados en benchmarks no bastan para demostrarlo. OpenAI, por su parte, clasificó a Astra en el nivel \"Crítico\" de riesgo de ciberseguridad dentro de su Preparedness Framework por sus capacidades casi autónomas.",
+    "link": "https://expansion.mx/tecnologia/2026/09/07/jensen-huang-agi-openai-astra",
+    "source": "Expansión",
+    "published": "2026-09-07T18:17:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
+    "summary": "OpenAI's top scientist warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control. He said he expects AI labs to voluntarily slow development for safety reasons.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+    "source": "Bloomberg",
+    "published": "2026-09-07T16:12:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso inicia con pérdidas en semana de Paquete Económico 2027: ¿Cómo está el tipo de cambio HOY?",
+    "summary": "El peso mexicano pierde terreno frente al dólar ante el fortalecimiento del yen japonés, en medio de la expectativa de que el Banco de Japón suba su tasa de interés. El tipo de cambio se ubicó en 16.91 unidades por dólar, mientras el mercado espera esta semana la presentación del nuevo Paquete Económico 2027, que Sheinbaum adelantó no incluirá aumento de impuestos.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/07/peso-dolar-precio-hoy-7-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-07T16:11:12+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "How the AI ROI Gap Comes Down to Trust",
+    "summary": "New research from SAS finds that companies investing in trustworthy AI practices are far more likely to see strong returns from the technology. Trust remains a hurdle, though: 97% of users override AI recommendations at least some of the time, and employees are less likely to trust increasingly autonomous AI agents, according to SAS executive Jay Upchurch.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video",
+    "source": "Bloomberg",
+    "published": "2026-09-07T15:38:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "De la Fed al petróleo: los cuatro desequilibrios que inquietan a Deutsche Bank",
+    "summary": "El estratega macro de Deutsche Bank, Henry Allen, identifica cuatro dislocaciones entre las expectativas de tasas de interés, las presiones inflacionarias, el petróleo y la resistencia de los activos de riesgo. Advierte que los mercados siguen descontando un escenario demasiado benigno de crecimiento persistente e inflación limitada, que podría no sostenerse.",
+    "link": "https://www.bloomberglinea.com/mercados/de-la-fed-al-petroleo-los-cuatro-desequilibrios-que-inquietan-a-deutsche-bank/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-07T15:35:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El ERP: crónica de una muerte anunciada",
+    "summary": "El cofundador de Primero AI argumenta que el software corporativo tradicional (ERP) está muriendo pese a los buenos resultados financieros de Adobe y Salesforce, cuyas acciones han caído fuertemente en 2026. Su tesis es que el software dejó de ser escaso: la nueva generación de herramientas de IA permite construir soluciones a la medida, acabando con el modelo de \"un producto para todos\" que dominó durante décadas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/09/07/el-erp-cronica-de-una-muerte-anunciada/",
+    "source": "El Financiero",
+    "published": "2026-09-07T14:24:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Banxico ante posibles alzas en la tasa de la FED",
     "summary": "El columnista analiza el tono del presidente de la Fed, Kevin Warsh, calificándolo de hawkish pero con señales contradictorias: eliminó la guía prospectiva, propone menos reuniones anuales de la Junta y ya votó dos veces por mantener las tasas sin cambios. El texto cuestiona si Banxico debe prepararse para una postura más restrictiva de la Fed pese a estas señales mixtas.",
     "link": "https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/09/07/banxico-ante-posibles-alzas-en-la-tasa-de-la-fed/",
@@ -7,6 +73,28 @@
     "published": "2026-09-07T12:46:09+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
+    "summary": "ByteDance is preparing an AI model geared toward real-time spatial video generation, positioning itself against Meta and Alphabet in a race with applications in robotics and autonomous systems. The move signals intensifying competition among AI labs to perfect so-called world models.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+    "source": "Bloomberg",
+    "published": "2026-09-07T12:25:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La fiscalización dispara la seguridad social de trabajadores en plataformas digitales: STPS",
+    "summary": "La fiscalización de la STPS a empresas de plataformas digitales fue el factor determinante para duplicar el número de repartidores y conductores con seguridad social, de 130,000 a 247,700 personas aseguradas, según la Unidad de Trabajo Digno. Una sola empresa auditada directamente concentró buena parte del repunte, tras usar conceptos como bonos por lluvia o nocturnidad para evitar reportar ingresos ante el IMSS.",
+    "link": "https://www.eleconomista.com.mx/empresas/fiscalizacion-dispara-seguridad-social-trabajadores-plataformas-digitales-stps-20260907-832252.html",
+    "source": "El Economista",
+    "published": "2026-09-07T12:14:36-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -77,6 +165,17 @@
     "light": false
   },
   {
+    "title": "Japan’s Preferred Networks Seeks IPO to Keep Up in AI Chip Race",
+    "summary": "Japanese startup Preferred Networks is seeking to go public in order to mass-produce its own AI chips, reflecting the rising cost and scale needed to stay competitive in the global AI race, according to CEO Daisuke Okanohara.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race",
+    "source": "Bloomberg",
+    "published": "2026-09-07T09:10:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
     "summary": "A biotech company says an experimental lung-disease drug discovered using AI showed early signs of reversing biological aging markers in a study, pointing to potential broader anti-aging applications.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
@@ -84,6 +183,17 @@
     "published": "2026-09-07T09:00:00+00:00",
     "category": "Personal Interest Watchlist",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
+    "summary": "Malaysia is leaning toward relying on Huawei's artificial intelligence chips to power its sovereign AI efforts, a move that would be a major win for Chinese AI technology despite strong opposition from the Trump administration.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+    "source": "Bloomberg",
+    "published": "2026-09-07T07:01:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -108,6 +218,17 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "US Tech Firms Eye Australia for AI Centers, Local Operator Says",
+    "summary": "US tech giants are showing interest in building data centers in Australia, drawn by its green power grid and proximity to Asia, as they face growing backlash against data-center expansion at home, according to operator AirTrunk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/us-tech-firms-eye-australia-for-ai-centers-local-operator-says",
+    "source": "Bloomberg",
+    "published": "2026-09-07T05:25:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Condona Infonavit, pero sube morosidad",
@@ -5374,127 +5495,6 @@
     "source": "El Economista",
     "published": "2026-08-26T11:41:11-06:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano se deprecia frente al dólar tras reportes de inflación y PIB de Estados Unidos",
-    "summary": "El peso mexicano se depreció frente al dólar luego de conocerse nuevos reportes de inflación y de PIB de Estados Unidos. El movimiento refleja cómo los datos económicos estadounidenses siguen marcando el tono para la moneda mexicana en el corto plazo.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-deprecia-frente-dolar-reportes-inflacion-pib-estados-unidos-20260826-830310.html",
-    "source": "El Economista",
-    "published": "2026-08-26T11:15:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Récord de IED... pero poca ‘inversión fresca’",
-    "summary": "La IED en México alcanzó un máximo histórico de 34,968 millones de dólares en el primer semestre de 2026, un alza de 2.1% anual, según la Secretaría de Economía. Sin embargo, 88.5% del monto correspondió a reinversión de utilidades y solo 7.8% a nuevas inversiones de capital, lo que atenúa la lectura optimista del dato.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/08/26/record-de-ied-pero-poca-inversion-fresca/",
-    "source": "El Financiero",
-    "published": "2026-08-26T11:10:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Oye Cracks | Modernizar el core bancario sin colapsar la operación",
-    "summary": "En el podcast 'Oye Cracks' de El Economista se aborda el reto de modernizar el core bancario de las instituciones financieras mexicanas sin interrumpir la operación diaria. El episodio explora cómo la banca busca actualizar su infraestructura tecnológica manteniendo la continuidad del servicio a los clientes.",
-    "link": "https://www.eleconomista.com.mx/podcasts/oye-cracks-modernizar-core-bancario-colapsar-operacion-20260826-830309.html",
-    "source": "El Economista",
-    "published": "2026-08-26T10:56:45-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El crecimiento que viene del comercio mayorista",
-    "summary": "La economía mexicana creció 1.4% trimestral en el segundo trimestre, el mejor dato desde 2022, pero casi la mitad del avance anual provino de un solo sector, el comercio al mayoreo, que creció 11.3% según el INEGI. El columnista advierte que, sin ese impulso puntual, el crecimiento real habría sido de apenas 1.2%, cuestionando la solidez del repunte.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/26/el-crecimiento-que-viene-del-comercio-mayorista/",
-    "source": "El Financiero",
-    "published": "2026-08-26T10:53:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google’s Gemini AI Is Changing How Deutsche Bank Assesses Credit Risk",
-    "summary": "Deutsche Bank is adopting Google's Gemini AI to reshape how it assesses credit risk, marking a concrete case of generative AI moving from pilot to production in bank risk functions. The shift illustrates how large financial institutions are turning to frontier LLMs for core underwriting and risk workflows.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk",
-    "source": "Bloomberg",
-    "published": "2026-08-26T10:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El nuevo T-MEC: integrarnos más, depender menos",
-    "summary": "El economista Clemente Ruiz Durán argumenta que la revisión del T-MEC, sumada a la escalada comercial de Canadá con EU, obliga a México a dejar de basar su estrategia de desarrollo únicamente en la permanencia del tratado. Propone una Estrategia de Sustitución Regional de Importaciones 2026-2035 para fortalecer cadenas de suministro norteamericanas y reducir la dependencia de insumos asiáticos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/08/26/el-nuevo-t-mec-integrarnos-mas-depender-menos/",
-    "source": "El Financiero",
-    "published": "2026-08-26T10:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "MiniMax Sales Nearly Quadruple in Crowded Race for China AI Lead",
-    "summary": "Chinese AI startup MiniMax posted 283% revenue growth in the first half of 2026, even as it lags rivals like Z.AI in releasing top-tier large language models. The results highlight how fierce competition among Chinese AI labs is translating into rapid commercial traction despite an ongoing model race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/minimax-sales-nearly-quadruple-in-crowded-race-for-chinaai-lead",
-    "source": "Bloomberg",
-    "published": "2026-08-26T09:56:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How AI Is Making Cyberattacks Harder to Stop",
-    "summary": "Recent cyberattacks carried out using AI models from Anthropic, OpenAI and Meta have raised alarm about how generative AI is lowering the barrier for sophisticated hacking. The incidents underscore growing concern that AI capabilities are outpacing existing cybersecurity defenses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/how-ai-is-making-cyberattacks-harder-to-stop",
-    "source": "Bloomberg",
-    "published": "2026-08-26T09:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Financiamiento en México: Asociación de Bancos (ABM) afirma que la banca puede y quiere prestar más",
-    "summary": "El presidente de la ABM, Emilio Romano, aseguró que la banca mexicana tiene solidez y capacidad para prestar más, con crecimiento del crédito de 8-11%, muy por encima del PIB. Señaló que la penetración crediticia en México sigue baja frente a otros países y que la digitalización y la IA ayudarán a acercar la educación financiera y el acceso al crédito a más personas.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/26/financiamiento-en-mexico-asociacion-de-bancos-abm-afirma-que-la-banca-puede-y-quiere-prestar-mas/",
-    "source": "El Financiero",
-    "published": "2026-08-26T09:22:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
-    "summary": "Chinese AI lab Z.AI (Zhipu) released a stealth model, Ox Alpha, that has topped online usage charts by offering high performance at no cost, rivaling DeepSeek. The launch adds to a crowded field of Chinese AI labs competing aggressively on price and performance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "source": "Bloomberg",
-    "published": "2026-08-26T09:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las ciudades favoritas en América Latina y el mundo para los nómadas digitales en 2026",
-    "summary": "Un reporte de la comunidad Nomad, basado en más de 424,000 viajes, ubica a ciudades de Asia y Europa como las favoritas de los nómadas digitales en 2026, mientras América Latina busca ganar terreno ofreciendo visados e incentivos fiscales. El auge del trabajo remoto sigue impulsando la competencia entre ciudades por atraer a estos trabajadores y su capacidad de gasto.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/las-ciudades-favoritas-en-america-latina-y-el-mundo-para-los-nomadas-digitales-en-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-26T09:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
     "relevance_score": 66,
     "language": "es",
     "light": false
