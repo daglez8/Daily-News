@@ -1,5 +1,126 @@
 [
   {
+    "title": "Meta Announces Muse AI Agent for Personal Tasks and Organization",
+    "summary": "Meta unveiled Muse, a new AI agent that can carry out personal tasks and organizational work on a user's behalf, advancing Zuckerberg's push toward a personalized AI assistant for every user. The launch adds Meta to the growing race among AI labs to move from chatbots into autonomous, task-completing agents.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization",
+    "source": "Bloomberg",
+    "published": "2026-09-08T19:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amazon, Qualcomm Deal Broadens the AI Chip Race | Bloomberg Tech 9/08/2026",
+    "summary": "Qualcomm signed a multi-generation deal to supply AI data-center chips to Amazon, broadening the competitive field against Nvidia in AI infrastructure. Separately, Anthropic walked away from a planned acquisition of AI startup Decart AI, a notable signal on how AI labs are approaching M&A.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-08/bloomberg-tech-9-08-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-09-08T18:19:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What is causing the global bond sell-off?",
+    "summary": "The Economist examines what is driving a global sell-off in government bonds, pointing to India's market as an early indicator of the pressures at play. Rising yields carry direct implications for financing costs across housing and credit markets.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+    "source": "The Economist",
+    "published": "2026-09-08T18:15:09+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ramp in Talks for New Funding at $60 Billion Valuation",
+    "summary": "Fintech expense-management startup Ramp is in early talks to raise roughly $1 billion at a $60 billion valuation, up sharply from $44 billion just three months ago. The jump underscores investors' continued appetite for high-growth fintech platforms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/ramp-in-talks-for-new-funding-at-60-billion-valuation",
+    "source": "Bloomberg",
+    "published": "2026-09-08T18:08:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Healthcare Startup Forus Hits $3 Billion Valuation",
+    "summary": "Healthcare automation startup Forus raised $150 million at a $3 billion valuation, tripling its worth in months, with AI agents that help patients and doctors navigate insurance coverage and billing. The fresh capital will fund expansion beyond autoimmune disease into new areas.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-08/ai-healthcare-startup-forus-hits-3-billion-valuation-video",
+    "source": "Bloomberg",
+    "published": "2026-09-08T18:02:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Startup Cognition Raises $2 Billion at a $48 Billion Value",
+    "summary": "AI coding startup Cognition AI raised $2 billion, pushing its valuation to $48 billion, one of the largest recent funding rounds in the AI sector. It highlights the continued scale of capital flowing into applied-AI companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-09-08T17:32:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El efecto de GPT-6 Astra de OpenAI: qué implica para las bolsas y para los inversionistas",
+    "summary": "El lanzamiento de GPT-6 Astra de OpenAI está desplazando el foco bursátil de la capacidad de los modelos hacia cuánto trabajo pueden delegarse a la IA, impulsando la demanda de chips, memoria y centros de datos. Estrategas como Saxo Bank señalan que la IA pasa de los chatbots a 'trabajadores digitales', ampliando la oportunidad de inversión pero también los riesgos de fiabilidad.",
+    "link": "https://www.bloomberglinea.com/mercados/el-efecto-de-gpt-6-astra-de-openai-que-implica-para-las-bolsas-y-para-los-inversionistas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-08T17:23:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso está ‘sereno, moreno’ antes de entrega del Paquete Económico 2027: ¿Cuánto gana al dólar?",
+    "summary": "El peso mexicano se aprecia levemente frente al dólar mientras el mercado espera la entrega del Paquete Económico 2027. Sheinbaum descartó nuevos programas sociales o alzas de impuestos, lo que redujo la incertidumbre previa a la presentación de Hacienda.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/08/peso-dolar-precio-hoy-8-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-08T17:12:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China’s $54bn capital boost for banks falls far short",
+    "summary": "China's $54 billion capital injection into its major banks falls short of what's needed to fix balance sheets still burdened by old problem loans, The Economist reports. The shortfall continues to constrain lending capacity in the world's second-largest banking system.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+    "source": "The Economist",
+    "published": "2026-09-08T16:18:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Firms Crowd US Loan Market in Push to Cut Costs, Fund Deals",
+    "summary": "Companies are rushing into the US leveraged loan market to reprice existing debt at lower cost, with a pickup in buyout financing adding to the wave. The crowding reflects issuers racing to lock in terms before conditions shift.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/firms-seek-to-lower-borrowing-costs-in-flurry-of-us-repricings",
+    "source": "Bloomberg",
+    "published": "2026-09-08T15:43:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia da una nueva señal sobre el auge de la IA y BNP Paribas recomienda dónde invertir",
+    "summary": "Nvidia mostró que su negocio con empresas y clientes industriales crece más rápido que el de los grandes proveedores de nube, una señal que BNP Paribas considera clave para sostener su apuesta por infraestructura de IA. El banco recomienda mantener exposición al sector pese a la volatilidad reciente.",
+    "link": "https://www.bloomberglinea.com/mercados/nvidia-da-una-nueva-senal-sobre-el-auge-de-la-ia-y-bnp-paribas-recomienda-donde-invertir/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-08T14:55:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Riesgos macroeconómicos de México también pueden impactar a Pemex: Fitch",
     "summary": "Fitch Ratings advirtió que los riesgos macroeconómicos de México (calificado BBB-) podrían afectar indirectamente la calificación crediticia de Pemex (BB+) al incidir en el sentimiento del mercado y el costo de capital de la petrolera. Saverio Minervini, de Fitch, señaló como factores de riesgo la negociación del T-MEC, la incertidumbre política, el débil crecimiento y el déficit fiscal, además de los aranceles de EU al acero, aluminio y autos mexicanos.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/riesgos-macroeconomicos-de-mexico-tambien-pueden-impactar-a-pemex-fitch/",
@@ -11,6 +132,17 @@
     "light": false
   },
   {
+    "title": "Condusef alerta: no descargues apps bancarias desde links de SMS o WhatsApp",
+    "summary": "Condusef alertó sobre el riesgo de descargar aplicaciones bancarias desde enlaces recibidos por SMS, WhatsApp o correo, ya que pueden dirigir a sitios inseguros o apps fraudulentas. La autoridad financiera pidió a los usuarios descargar apps únicamente desde tiendas oficiales.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/condusef-alerta-descargues-apps-bancarias-links-sms-whatsapp-20260908-832441.html",
+    "source": "El Economista",
+    "published": "2026-09-08T12:24:51-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cómo enfrentar el grave problema de las finanzas públicas (I)",
     "summary": "El Gobierno Federal presentará en los próximos días una propuesta para reducir el déficit fiscal, ya sea mediante mayores ingresos públicos o recortes al gasto. El autor advierte que financiar el déficit con deuda interna, como ocurre en México, eleva las tasas de interés, desincentiva la inversión productiva y frena el crecimiento económico.",
     "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/09/08/como-enfrentar-el-grave-problema-de-las-finanzas-publicas-i/",
@@ -18,6 +150,17 @@
     "published": "2026-09-08T12:22:38+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Menos startups y más concentración: el mercado cripto entra en una nueva etapa",
+    "summary": "El mercado cripto entra en una nueva etapa marcada por menos startups y mayor concentración: las empresas más débiles desaparecen mientras los grandes grupos financieros ganan presencia vía adquisiciones. El financiamiento se vuelve más selectivo pese a la recuperación parcial de precios.",
+    "link": "https://www.eleconomista.com.mx/empresas/startups-concentracion-mercado-cripto-entra-nueva-etapa-20260908-831942.html",
+    "source": "El Economista",
+    "published": "2026-09-08T12:05:42-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -62,6 +205,50 @@
     "published": "2026-09-08T11:30:09+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Congreso Cooperativo CONCAMEX 2026 con una visión compartida de futuro del sector",
+    "summary": "El Congreso Cooperativo CONCAMEX 2026 reunió a representantes del sector de ahorro y préstamo mexicano para discutir transformación digital, evolución regulatoria y crecimiento de los pagos electrónicos. El evento reflejó los retos del sector cooperativo financiero para conectar con nuevas generaciones.",
+    "link": "https://www.eleconomista.com.mx/empresas/congreso-cooperativo-concamex-2026-vision-compartida-futuro-sector-20260908-832307.html",
+    "source": "El Economista",
+    "published": "2026-09-08T11:19:32-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sheinbaum anuncia ley para reducir el uso de efectivo como parte del Paquete Económico 2027",
+    "summary": "Sheinbaum anunció que enviará al Congreso una Ley de Economía Digital para reducir gradualmente el uso de efectivo en México, como parte del Paquete Económico 2027. La iniciativa establecerá plazos para ampliar la adopción de pagos electrónicos.",
+    "link": "https://www.eleconomista.com.mx/politica/sheinbaum-anuncia-ley-reducir-efectivo-parte-paquete-economico-20260908-832427.html",
+    "source": "El Economista",
+    "published": "2026-09-08T11:12:49-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Farmers Embrace AI More Than Any Other Tech, McKinsey Says",
+    "summary": "AI adoption on US farms is surging as growers seek high-tech help planning and managing operations, according to McKinsey, even after years of pulling back on tech spending. It's a sign of AI diffusion reaching traditionally slow-adopting industries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/farmers-are-embracing-ai-more-than-any-other-tech-mckinsey-says",
+    "source": "Bloomberg",
+    "published": "2026-09-08T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Latin America Leads Gains in Emerging-Market FX Ahead of US CPI",
+    "summary": "Latin American currencies gained Tuesday, helping an index of emerging-market FX erase earlier losses even as oil prices climbed ahead of US CPI data. The move reflects resilient investor appetite for the region's assets heading into the inflation print.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/emerging-markets-pause-rally-as-crude-price-closes-in-on-100",
+    "source": "Bloomberg",
+    "published": "2026-09-08T10:53:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -174,6 +361,17 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Global Bond Rush Builds as Issuers Race to Avoid Headwinds",
+    "summary": "Borrowers worldwide are rushing into debt markets as issuance surges following the late-summer lull, with dealmakers racing to lock in terms before conditions worsen. The wave spans corporate and sovereign issuers alike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/global-bond-rush-kicks-off-in-asia-with-banks-leading-the-charge",
+    "source": "Bloomberg",
+    "published": "2026-09-08T06:10:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "ASML, TSMC, Samsung, Intel Back 12-Inch Masks for AI Chips",
@@ -5300,203 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise",
-    "summary": "Alphabet has shed $692 billion in market value after being seen for much of the past year as the Big Tech stock best positioned to win from the AI boom. Investors are now raising fresh questions about whether that leadership position is as secure as assumed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-27/alphabet-loses-692-billion-in-market-value-as-ai-questions-rise",
-    "source": "Bloomberg",
-    "published": "2026-08-27T12:31:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Credit Default Swap Market Surges as AI Spend Booms",
-    "summary": "As Big Tech races toward trillions of dollars in planned AI capital spending, credit default swap markets are showing signs of stress, a key indicator of rising credit-risk perception. The move suggests investors are starting to price in the financing risk behind the AI infrastructure buildout.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-27/credit-default-swap-market-surges-as-ai-spend-booms-video",
-    "source": "Bloomberg",
-    "published": "2026-08-27T12:25:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bain Fund Buys Stake in Clearing Broker RQD* Amid Options Boom",
-    "summary": "Bain Capital is taking an equity stake in stock and options intermediary RQD* Clearing, joining a wave of new capital flowing into clearing and custody markets. The deal reflects growing private-equity interest in the infrastructure behind the options trading boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-27/bain-fund-buys-stake-in-clearing-broker-rqd-amid-options-boom",
-    "source": "Bloomberg",
-    "published": "2026-08-27T12:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El rostro cambiante de los mercados emergentes",
-    "summary": "Taiwán y Corea del Sur dominan el nuevo ciclo de los mercados emergentes gracias al auge de los semiconductores, mientras Asia gana peso frente a otras regiones. México y otros países de América Latina ofrecen oportunidades de diversificación fuera del sector tecnológico ante una economía global más fragmentada.",
-    "link": "https://expansion.mx/opinion/2026/08/27/el-rostro-cambiante-de-los-mercados-emergentes",
-    "source": "Expansión",
-    "published": "2026-08-27T11:59:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El superpeso reduce el costo de la deuda, pero golpea los ingresos petroleros",
-    "summary": "El menor gasto por costo financiero de la deuda pública en moneda extranjera no compensará la falta de ingresos por exportación de petróleo hacia el cierre de 2026. Cada peso de apreciación frente al dólar implica para Hacienda una pérdida neta estimada de 24,700 millones de pesos por menores ingresos petroleros.",
-    "link": "https://expansion.mx/economia/2026/08/27/superpeso-menos-deuda-falta-ingresos-petroleros",
-    "source": "Expansión",
-    "published": "2026-08-27T11:55:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Is AI making workers more vulnerable?",
-    "summary": "A new study may offer the clearest evidence yet linking AI adoption to employer decisions to rethink or eliminate roles, an area where hard data on job displacement has been scarce. The findings feed a broader debate over how much of current labor-market softness is attributable to AI rather than other cyclical factors.",
-    "link": "https://www.ft.com/content/0a23420d-dc80-4b39-8321-a0218cad0267?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-27T11:30:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La construcción hoy depende de la obra pública",
-    "summary": "La construcción en México muestra señales de recuperación, con un crecimiento de 6.9% anual en junio según el INEGI, pero el impulso proviene casi enteramente de la obra pública: agua y saneamiento crecieron 303%, ferrocarriles 250% y electricidad 82%. En contraste, la inversión privada cayó 1.1% y la construcción residencial retrocedió 5.4% pese al programa nacional de vivienda.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/27/la-construccion-hoy-depende-de-la-obra-publica/",
-    "source": "El Financiero",
-    "published": "2026-08-27T11:05:10+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Human Reviewers Need Support to Keep AI Models From Going Rogue",
-    "summary": "AI lab staff tasked with reviewing model behavior need stronger backing from leadership to catch problems before they reach users, according to the piece. Without that support, human oversight processes meant to prevent AI models from acting unpredictably risk becoming a weak link.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-27/human-reviewers-need-support-to-keep-ai-models-from-going-rogue",
-    "source": "Bloomberg",
-    "published": "2026-08-27T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Afore para adultos mayores: ¿Cómo adaptan su atención ante 57% de quejas registradas por Condusef?",
-    "summary": "Según Óscar Rosado, presidente de Condusef, 57% de las quejas presentadas contra las afores provienen de personas adultas mayores, por problemas de accesibilidad en sucursales, visibilidad en pantallas y escaneo de huellas digitales. Las administradoras han comenzado a implementar estrategias específicas para atender mejor a este segmento.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/estrategias-afores-buscan-accesibles-adultos-mayores-mexico-20260827-830398.html",
-    "source": "El Economista",
-    "published": "2026-08-27T11:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Shein Set to Raise $1.7 Billion in Hong Kong IPO",
-    "summary": "Shein is on track to raise about $1.7 billion in its Hong Kong IPO, likely pricing just above the midpoint of its marketed range. The listing would value the fast-fashion retailer at just above $26 billion, a steep discount to the roughly $100 billion valuation it commanded four years ago.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-27/shein-set-to-raise-1-7-billion-in-hong-kong-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-08-27T10:44:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso fuerte genera efectos mixtos en exportaciones de Jalisco",
-    "summary": "Jalisco, segundo mayor exportador del país, enfrenta efectos mixtos por la fortaleza del peso, que cotiza por debajo de las 17 unidades por dólar. Mientras electrónica, manufactura avanzada y parte de la automotriz se benefician de insumos importados más baratos, sectores como el mueblero, textil y las Pymes resienten la reducción de sus ingresos en pesos.",
-    "link": "https://www.eleconomista.com.mx/estados/peso-fuerte-genera-efectos-mixtos-exportaciones-jalisco-20260827-830527.html",
-    "source": "El Economista",
-    "published": "2026-08-27T10:36:22-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "UBS Nudging Swiss Capital Debate Toward a Cheaper Compromise",
-    "summary": "Swiss lawmakers are coalescing around a possible compromise on UBS Group's capital regulation that could lower the cost of meeting the government's $20 billion capital demand. The shift suggests the long-running standoff over how much extra capital UBS must hold may be easing toward a cheaper resolution.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-27/ubs-is-nudging-swiss-capital-debate-toward-a-cheaper-compromise",
-    "source": "Bloomberg",
-    "published": "2026-08-27T10:23:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Camacol propone un régimen especial de vivienda y la devolución del IVA tras el terremoto",
-    "summary": "Camacol propuso al gobierno colombiano un régimen especial de vivienda y un esquema nacional de bancos de materiales para la reconstrucción tras el terremoto del 10 de agosto, inspirado en el modelo VIVA de Antioquia. El gremio constructor busca replicar a escala nacional una plataforma que ya mostró resultados en la provisión de insumos para vivienda social y atención de emergencias.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/camacol-propone-un-regimen-especial-de-vivienda-para-la-reconstruccion-tras-el-terremoto/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-27T10:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Retail atrae marcas internacionales",
-    "summary": "Doce marcas internacionales se establecieron en el primer semestre del año en centros comerciales de CDMX, Guadalajara, Monterrey, Los Cabos y Riviera Maya, según CBRE México, en categorías de lujo, moda, gastronomía y bienestar. El reporte destaca que mientras algunos formatos tradicionales muestran señales de moderación, las categorías de mayor valor mantienen resiliencia ante un consumidor más selectivo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/08/27/retail-atrae-marcas-internacionales/",
-    "source": "El Financiero",
-    "published": "2026-08-27T10:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gran prueba para el GNL argentino: buscan financiamiento por US$17.000 millones entre bancos globales",
-    "summary": "Dos proyectos de exportación de gas natural licuado de Vaca Muerta —Argentina LNG (YPF, Eni, XRG) y Southern Energy (PAE, YPF, Pampa Energía, Harbour Energy, Golar LNG)— avanzan en negociaciones para levantar en conjunto cerca de US$17,000 millones con bancos internacionales. Argentina LNG evalúa un paquete de deuda de hasta US$16,000 millones, mientras Southern Energy está cerca de cerrar US$900 millones.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gran-prueba-para-el-gnl-argentino-buscan-financiamiento-por-us17000-millones-entre-bancos-globales/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-27T09:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Germany Running Short of AI Compute Capacity, Minister Says",
-    "summary": "Germany's top digital policy official said surging AI demand is straining data-center capacity in Europe's largest economy. The shortage highlights how compute availability is becoming a bottleneck for AI adoption even in advanced economies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-27/germany-running-short-of-ai-compute-capacity-minister-says",
-    "source": "Bloomberg",
-    "published": "2026-08-27T08:01:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Stripe Says AI Helps Asian Firms Expand Globally at Record Pace",
-    "summary": "Stripe says AI tools are letting Asian businesses expand into new international markets faster than ever before, according to comments from its Southeast Asia managing director. The company frames AI adoption as a key driver behind record-pace global expansion among its regional merchants.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-27/stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
-    "source": "Bloomberg",
-    "published": "2026-08-27T07:01:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Polonia insta a la UE a multar con 250 millones de euros a Meta por estafas y anuncios falsos",
-    "summary": "Polonia solicitó a la Comisión Europea imponer una multa de 250 millones de euros a Meta Platforms, acusando a la compañía de no atender adecuadamente los anuncios fraudulentos en sus plataformas. La petición se suma a la presión regulatoria europea sobre las grandes tecnológicas por publicidad engañosa y protección al consumidor.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/polonia-insta-ue-multar-250-millones-euros-meta-estafas-anuncios-falsos-20260827-830497.html",
-    "source": "El Economista",
-    "published": "2026-08-27T06:41:05-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
