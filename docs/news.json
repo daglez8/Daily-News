@@ -1,5 +1,214 @@
 [
   {
+    "title": "La negociación avanza. La productividad no puede pausarse",
+    "summary": "Concluyó la tercera ronda de negociaciones del T-MEC entre México y Estados Unidos sin acuerdos definitivos, con una cuarta ronda prevista para septiembre en Washington; los temas centrales siguen siendo reglas de origen, seguridad económica, acero y aluminio, y la relación con China. El mismo día, EU formalizó un arancel del 10% sobre importaciones mexicanas bajo la Sección 301, aunque la Secretaría de Economía aclaró que el 85% de las exportaciones mexicanas queda exento por cumplir el T-MEC.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/09/08/la-negociacion-avanza-la-productividad-no-puede-pausarse/",
+    "source": "El Financiero",
+    "published": "2026-09-08T07:03:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La aritmética del déficit público",
+    "summary": "Hoy la Secretaría de Hacienda presenta al Congreso el Paquete Económico 2027, cuya cifra clave será el déficit: se espera que los Requerimientos Financieros del Sector Público bajen de 4.1% del PIB en 2026 a cerca de 3.5-3.7% en 2027. Enrique Quintana advierte que la meta depende en gran medida de un crecimiento nominal del PIB que podría no materializarse, ya que encuestas como la de Citi México anticipan un crecimiento real menor al proyectado por Hacienda.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/08/la-aritmetica-del-deficit-publico/",
+    "source": "El Financiero",
+    "published": "2026-09-08T07:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ASML, TSMC, Samsung, Intel Back 12-Inch Masks for AI Chips",
+    "summary": "ASML has won commitments from top chipmakers including TSMC, Samsung and Intel to adopt its latest semiconductor production equipment, part of a broader push to meet surging demand for AI chip manufacturing capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+    "source": "Bloomberg",
+    "published": "2026-09-08T06:05:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bridgepoint Credit Sells €1.2 Billion Loan Portfolio to Pantheon",
+    "summary": "Bridgepoint Credit transferred €1.2 billion ($1.4 billion) of loans from an older direct-lending fund into a new continuation vehicle acquired by Pantheon, according to a statement seen by Bloomberg, part of a broader wave of continuation-fund activity reshaping private credit portfolios.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/bridgepoint-credit-sells-1-2-billion-loan-portfolio-to-pantheon",
+    "source": "Bloomberg",
+    "published": "2026-09-08T06:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mistral AI Boosts Valuation to €21 Billion in Samsung-Led Round",
+    "summary": "Mistral AI raised €3 billion ($3.5 billion) at a valuation of more than €21 billion in a round led by Samsung Electronics, funds earmarked for developing AI models and building computing infrastructure. CEO Arthur Mensch argued the French company remains undervalued and that open-source models are poised to win out for macroeconomic reasons.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/mistral-ai-raises-at-21-billion-valuation-in-samsung-led-round",
+    "source": "Bloomberg",
+    "published": "2026-09-08T05:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI is ushering in an era of mass toe-treading at work",
+    "summary": "As AI tools blur traditional boundaries between occupations, employees are increasingly stepping into each other's turf, the FT reports — a shift that can boost productivity but also erodes the collaborative norms that hold company culture together.",
+    "link": "https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-08T04:00:27+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Apollo premium’ drives up debt costs for group’s portfolio companies",
+    "summary": "New research shows that Apollo's reputation for harsh treatment of creditors is costing its portfolio companies roughly one percentage point in higher borrowing costs, the FT reports, highlighting how a sponsor's negotiating stance with lenders can carry a lasting price in credit markets.",
+    "link": "https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-08T04:00:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+    "summary": "Bankers advising Anthropic and OpenAI are pushing for investment-grade credit ratings once the AI labs go public, the FT reports. An investment-grade designation would unlock materially cheaper financing for the labs and their infrastructure partners as they fund massive compute buildouts.",
+    "link": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-08T04:00:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The $2tn monster",
+    "summary": "Many countries — including the US, France and the UK — now spend more on servicing their debt than on defence, the FT reports, as the combined cost of global government debt service approaches $2 trillion, underscoring mounting fiscal pressure on sovereigns just as borrowing needs keep climbing.",
+    "link": "https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-08T04:00:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase",
+    "summary": "Anthropic PBC has decided against acquiring AI startup Decart AI in a deal that had been valued at around $6 billion, according to people familiar with the matter. The two companies may still pursue other forms of collaboration going forward.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+    "source": "Bloomberg",
+    "published": "2026-09-08T01:25:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Odias tu trabajo? México se convierte en el país de Latinoamérica donde más cayó la felicidad laboral",
+    "summary": "México registró la mayor caída de felicidad laboral entre los países de América Latina, de acuerdo con un estudio citado por Expansión, un retroceso que plantea señales de alerta sobre el bienestar y la retención de talento en las empresas del país.",
+    "link": "https://expansion.mx/empresas/2026/09/07/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
+    "source": "Expansión",
+    "published": "2026-09-08T01:06:49+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Científico de OpenAI advierte sobre el desarrollo de la IA: ‘Nadie está preparado para las consecuencias’",
+    "summary": "El científico jefe de OpenAI, Jakub Pachocki, advirtió que la inteligencia artificial evoluciona con tanta rapidez que resulta cada vez más difícil para los humanos comprenderla y controlarla. Pachocki dijo que espera que los laboratorios de IA desaceleren voluntariamente su desarrollo por razones de seguridad ante la posibilidad de una automejora recursiva sin intervención humana.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/07/cientifico-de-openai-advierte-sobre-el-desarrollo-de-la-ia-nadie-esta-preparado-para-las-consecuencias/",
+    "source": "El Financiero",
+    "published": "2026-09-08T01:05:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Advierten fuga de 1.4 billones de pesos por factureras",
+    "summary": "Diputados advirtieron que las redes de facturación simulada ('factureras') han provocado una fuga de recursos sin precedentes en México, equivalente a 1.4 billones de pesos, en momentos en que el gobierno busca fortalecer la recaudación fiscal.",
+    "link": "https://www.reforma.com/advierten-fuga-de-1-4-billones-de-pesos-por-factureras/ar3271954",
+    "source": "Reforma",
+    "published": "2026-09-07T18:30:40-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Aranya Wuling Mountain - Sean Canteen / llLab.",
+    "summary": "ArchDaily presentó el complejo turístico de montaña Aranya Wuling Mountain en Chengde, Hebei, China, un proyecto de Sean Canteen y llLab. ubicado dentro de la Reserva Natural Nacional de la Montaña Wuling, que utiliza la vegetación en capas y los manantiales de montaña como barreras naturales para crear un retiro tranquilo y apartado.",
+    "link": "https://www.archdaily.com/1184514/aranya-wuling-mountain-sean-canteen-lllab",
+    "source": "ArchDaily",
+    "published": "2026-09-08T00:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
+    "summary": "El gobierno de la presidenta Sheinbaum y diputados buscan fortalecer la recaudación fiscal del SAT mediante el combate a empresas 'factureras' que simulan operaciones, apoyándose en herramientas de inteligencia artificial para detectar fraude fiscal.",
+    "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
+    "source": "Expansión",
+    "published": "2026-09-07T23:14:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Milei cosecha adhesiones de los bancos para reactivar el crédito hipotecario en primera licitación",
+    "summary": "El Fondo de Garantía de Sustentabilidad de Argentina adjudicó ARS$200,000 millones a 13 bancos en la primera licitación de depósitos a plazo fijo UVA destinados a créditos hipotecarios, dentro de un programa de ARS$2 billones con el que el gobierno de Javier Milei busca reactivar el crédito para vivienda. Las ofertas de los bancos superaron en casi 30% el monto colocado, señal de fuerte apetito del sistema financiero por el programa.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-cosecha-adhesiones-de-los-bancos-para-reactivar-el-credito-hipotecario-en-primera-licitacion/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-07T22:21:21+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Carlos Slim se arriesgó con El Globo; compró barato, triplicó su valor y lo vendió a Bimbo por 1,350 millones",
+    "summary": "Carlos Slim vendió la panificadora El Globo a Grupo Bimbo por 1,350 millones de pesos, tras haberla adquirido a bajo costo y triplicar su valor, según Expansión, en una operación que confirma el apetito de Bimbo por consolidar el mercado mexicano de panificación.",
+    "link": "https://expansion.mx/empresas/2026/09/07/carlos-slim-compro-el-globo-y-lo-vendio-a-bimbo",
+    "source": "Expansión",
+    "published": "2026-09-07T22:00:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Chile destruye más empleos de los que crea por primera vez desde 2011, según Horizontal",
+    "summary": "El mercado laboral chileno registró en el trimestre mayo-julio una pérdida neta de 16,292 empleos frente al año anterior, la primera destrucción interanual de puestos de trabajo en 15 años sin contar la pandemia, según el think tank Horizontal. La tasa de ocupación cayó y la desocupación subió, con una calidad de empleo cada vez más precarizada.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/chile/chile-destruye-mas-empleos-de-los-que-crea-por-primera-vez-desde-2011-segun-horizontal/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-07T19:55:45+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
+    "summary": "Bancos en México, incluido Banamex, reforzaron sus alertas antifraude y pidieron a los clientes no instalar aplicaciones a través de enlaces sospechosos, en medio de un aumento de intentos de phishing y fraude digital dirigidos a usuarios de banca móvil.",
+    "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
+    "source": "Expansión",
+    "published": "2026-09-07T19:47:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "“La AGI ha llegado”: Jensen Huang desata el debate tras el lanzamiento de Astra",
     "summary": "El CEO de Nvidia, Jensen Huang, afirmó en redes sociales que la \"AGI ha llegado\" tras el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI orientado a tareas complejas y autónomas. La declaración generó debate: el científico cognitivo Gary Marcus cuestionó que exista evidencia suficiente para hablar de inteligencia artificial general, señalando que buenos resultados en benchmarks no bastan para demostrarlo. OpenAI, por su parte, clasificó a Astra en el nivel \"Crítico\" de riesgo de ciberseguridad dentro de su Preparedness Framework por sus capacidades casi autónomas.",
     "link": "https://expansion.mx/tecnologia/2026/09/07/jensen-huang-agi-openai-astra",
@@ -11,35 +220,13 @@
     "light": false
   },
   {
-    "title": "La fiscalización dispara la seguridad social de trabajadores en plataformas digitales: STPS",
-    "summary": "La fiscalización de la STPS a empresas de plataformas digitales fue el factor determinante para duplicar el número de repartidores y conductores con seguridad social, de 130,000 a 247,700 personas aseguradas, según la Unidad de Trabajo Digno. Una sola empresa auditada directamente concentró buena parte del repunte, tras usar conceptos como bonos por lluvia o nocturnidad para evitar reportar ingresos ante el IMSS.",
-    "link": "https://www.eleconomista.com.mx/empresas/fiscalizacion-dispara-seguridad-social-trabajadores-plataformas-digitales-stps-20260907-832252.html",
-    "source": "El Economista",
-    "published": "2026-09-07T12:14:36-06:00",
+    "title": "Empresarios ven al Paquete Económico 2027 entre impuestos, recortes y más deuda",
+    "summary": "El sector empresarial mexicano observa con cautela la presentación del Paquete Económico 2027, anticipando un escenario que podría combinar ajustes fiscales, posibles recortes de gasto y mayor endeudamiento público, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/09/07/paquete-conomico-presupuesto-2027-mas-impuestos-recortes-deuda",
+    "source": "Expansión",
+    "published": "2026-09-07T17:21:18+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
-    "summary": "OpenAI's top scientist warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control. He said he expects AI labs to voluntarily slow development for safety reasons.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-07T16:12:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso inicia con pérdidas en semana de Paquete Económico 2027: ¿Cómo está el tipo de cambio HOY?",
-    "summary": "El peso mexicano pierde terreno frente al dólar ante el fortalecimiento del yen japonés, en medio de la expectativa de que el Banco de Japón suba su tasa de interés. El tipo de cambio se ubicó en 16.91 unidades por dólar, mientras el mercado espera esta semana la presentación del nuevo Paquete Económico 2027, que Sheinbaum adelantó no incluirá aumento de impuestos.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/07/peso-dolar-precio-hoy-7-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-07T16:11:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -55,68 +242,13 @@
     "light": true
   },
   {
-    "title": "De la Fed al petróleo: los cuatro desequilibrios que inquietan a Deutsche Bank",
-    "summary": "El estratega macro de Deutsche Bank, Henry Allen, identifica cuatro dislocaciones entre las expectativas de tasas de interés, las presiones inflacionarias, el petróleo y la resistencia de los activos de riesgo. Advierte que los mercados siguen descontando un escenario demasiado benigno de crecimiento persistente e inflación limitada, que podría no sostenerse.",
-    "link": "https://www.bloomberglinea.com/mercados/de-la-fed-al-petroleo-los-cuatro-desequilibrios-que-inquietan-a-deutsche-bank/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-07T15:35:23+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico ante posibles alzas en la tasa de la FED",
-    "summary": "El presidente de la Reserva Federal, Kevin Warsh, ha mantenido un tono aparentemente hawkish desde mayo, pero ciertas decisiones -como retirar la guía prospectiva, proponer menos reuniones anuales de la Junta de Gobernadores y considerar medidas alternativas de inflación en lugar del PCE- generan dudas sobre si es tan restrictivo como cree el mercado. El columnista destaca que Warsh ya votó dos veces en contra de mover la tasa de interés de referencia, pese a su discurso duro.",
-    "link": "https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/09/07/banxico-ante-posibles-alzas-en-la-tasa-de-la-fed/",
-    "source": "El Financiero",
-    "published": "2026-09-07T14:34:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El ERP: crónica de una muerte anunciada",
-    "summary": "El cofundador de Primero AI argumenta que el software corporativo tradicional (ERP) está muriendo pese a los buenos resultados financieros de Adobe y Salesforce, cuyas acciones han caído fuertemente en 2026. Su tesis es que el software dejó de ser escaso: la nueva generación de herramientas de IA permite construir soluciones a la medida, acabando con el modelo de \"un producto para todos\" que dominó durante décadas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/09/07/el-erp-cronica-de-una-muerte-anunciada/",
-    "source": "El Financiero",
-    "published": "2026-09-07T14:24:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
+    "title": "ByteDance Joins AI Elite in Race to Perfect World Models",
     "summary": "ByteDance is preparing an AI model geared toward real-time spatial video generation, positioning itself against Meta and Alphabet in a race with applications in robotics and autonomous systems. The move signals intensifying competition among AI labs to perfect so-called world models.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
     "source": "Bloomberg",
     "published": "2026-09-07T12:25:45+00:00",
     "category": "AI & Agents",
     "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia toca la puerta de Sheinbaum: proyectos en Pemex y supercomputadora Coatlicue en la agenda del gobierno",
-    "summary": "Nvidia trabaja con la Agencia de Transformación Digital y Telecomunicaciones en el codiseño de Coatlicue, la supercomputadora pública que el gobierno de Sheinbaum busca convertir en la más potente de la región, con 14,480 GPU y una inversión de 6,000 millones de pesos prevista para enero de 2028. La empresa también explora incorporar su software de IA en Pemex para localizar yacimientos petroleros en aguas profundas, siguiendo el modelo que ya utiliza Petrobras en Brasil.",
-    "link": "https://expansion.mx/tecnologia/2026/09/07/nvidia-toca-la-puerta-de-sheinbaum",
-    "source": "Expansión",
-    "published": "2026-09-07T11:55:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "When Will We Achieve AGI? AI Leaders Now Say It’s a Fuzzy Target",
-    "summary": "Reaching the point when AI handles most tasks better than humans had long been framed as a measurable milestone. AI industry leaders are now signaling that the definition of AGI has become increasingly fuzzy, complicating efforts to know when — or whether — it has been reached.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target",
-    "source": "Bloomberg",
-    "published": "2026-09-07T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
     "language": "en",
     "light": true
   },
@@ -143,102 +275,14 @@
     "light": true
   },
   {
-    "title": "Tres oportunidades y tres riesgos si quieres invertir en América Latina antes de que acabe 2026",
-    "summary": "Los analistas ven oportunidades de inversión en Latinoamérica hacia el cierre de 2026, aunque de forma desigual: Perú y Colombia concentran las apuestas más favorables mientras México divide opiniones y Argentina ofrece potencial acompañado de riesgo político. Bank of America mantiene neutral en Brasil y Chile, redujo a México a infraponderar y sobreponderó Perú, Colombia y Argentina.",
-    "link": "https://www.bloomberglinea.com/mercados/tres-oportunidades-y-tres-riesgos-si-quieres-invertir-en-america-latina-antes-de-que-acabe-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-07T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Directivo de Microsoft revela la estrategia de IA que tiene el gigante tecnológico en Colombia",
-    "summary": "Según Juan Carlos Uribe, director de transformación y tecnología de Microsoft para Latinoamérica, Colombia se ubica por encima del promedio global en adopción de IA en el trabajo, con 63% de los trabajadores ya utilizándola. El Work Trend Index 2026 de Microsoft también señala que el 70% de los colombianos teme quedarse atrás si no se adapta, aunque el 87% sigue usando la IA solo como punto de partida.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/directivo-de-microsoft-revela-la-estrategia-de-ia-que-tiene-el-gigante-tecnologico-en-colombia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-07T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Japan’s Preferred Networks Seeks IPO to Keep Up in AI Chip Race",
-    "summary": "Japanese startup Preferred Networks is seeking to go public in order to mass-produce its own AI chips, reflecting the rising cost and scale needed to stay competitive in the global AI race, according to CEO Daisuke Okanohara.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race",
-    "source": "Bloomberg",
-    "published": "2026-09-07T09:10:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
+    "title": "AI-Discovered Lung Drug Reverses Aging Markers in Study",
     "summary": "An experimental lung disease drug developed using artificial intelligence showed promise in reversing biological signs of aging in a recent study, according to its developer. The finding points to broader potential applications of AI-discovered treatments in longevity research.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
     "source": "Bloomberg",
     "published": "2026-09-07T09:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
-    "summary": "Malaysia is leaning toward relying on Huawei's artificial intelligence chips to power its sovereign AI efforts, a move that would be a major win for Chinese AI technology despite strong opposition from the Trump administration.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
-    "source": "Bloomberg",
-    "published": "2026-09-07T07:01:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Tech Firms Eye Australia for AI Centers, Local Operator Says",
-    "summary": "US tech giants are showing interest in building data centers in Australia, drawn by its green power grid and proximity to Asia, as they face growing backlash against data-center expansion at home, according to operator AirTrunk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/us-tech-firms-eye-australia-for-ai-centers-local-operator-says",
-    "source": "Bloomberg",
-    "published": "2026-09-07T05:25:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
-    "summary": "Banxico modificó las reglas para las transferencias electrónicas, permitiendo identificar cuentas mediante los últimos 10 dígitos de un número de teléfono móvil o los 16 dígitos de una tarjeta de débito, además de la CLABE tradicional. El cambio, publicado en la Circular 10/2026, busca simplificar las transferencias desde aplicaciones móviles sin eliminar la CLABE de 18 dígitos.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/06/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias",
-    "source": "Expansión",
-    "published": "2026-09-06T19:56:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La revolución intelagéntica ya comenzó",
-    "summary": "El autor plantea que las organizaciones están incorporando agentes de IA como nuevos \"participantes funcionales\", capaces de perseguir objetivos, planificar y ejecutar acciones dentro de límites definidos, en lo que llama la \"Revolución Intelagéntica\". Cita casos como LY Corporation, cuyos agentes resuelven 48,000 correos rutinarios al mes, y advierte que las empresas ganadoras deberán codificar estrategia y valores en capas de agentes ejecutivos, manteniendo el juicio y la responsabilidad en manos humanas.",
-    "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
-    "source": "Expansión",
-    "published": "2026-09-06T12:00:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Overlook House / Migration Studios",
-    "summary": "The Overlook House reinterprets Idaho's mountain cabin as a high-performance mass-timber retreat that steps lightly through a mature ponderosa forest, designed by Migration Studios.",
-    "link": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
-    "source": "ArchDaily",
-    "published": "2026-09-06T11:00:00+00:00",
     "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
+    "relevance_score": 65,
     "language": "en",
-    "light": false
+    "light": true
   }
 ]
