@@ -1,5 +1,93 @@
 [
   {
+    "title": "El ‘adiós’ al efectivo en México: ¿Qué propone la Ley de Economía Digital de Sheinbaum?",
+    "summary": "El gobierno de Claudia Sheinbaum envió al Congreso una iniciativa de Ley de Economía Digital para Pagos Digitales y Electrónicos, buscando impulsar la transición del efectivo hacia los pagos digitales en México. La propuesta también establecería un nuevo método para la contratación de servicios financieros, argumentando que el país ya cuenta con la infraestructura necesaria.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/09/el-adios-al-efectivo-en-mexico-que-propone-la-ley-de-economia-digital-de-sheinbaum/",
+    "source": "El Financiero",
+    "published": "2026-09-09T18:52:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "EU advierte que ‘no habrá pasado mañana’ si China toma delantera en desarrollo de la IA",
+    "summary": "El secretario del Tesoro de EU, Scott Bessent, advirtió que si China toma la delantera en el desarrollo de la inteligencia artificial, “no habrá un pasado mañana” para Washington, pues ello volvería irrelevantes sus fortalezas estratégicas, incluido su presupuesto de defensa. Sus comentarios reflejan la creciente urgencia geopolítica en torno a la carrera por la IA entre EU y China.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/09/eu-advierte-que-no-habra-pasado-manana-si-china-toma-delantera-en-desarrollo-de-la-ia/",
+    "source": "El Financiero",
+    "published": "2026-09-09T18:39:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Empresa mexicana ‘será rival’ de ChatGPT: Kapital desarrollará su plataforma de IA",
+    "summary": "La fintech mexicana Kapital captó 125 millones de dólares en una ronda de capital y deuda, extensión de su Serie C, liderada por Tru Arrow Partners con financiamiento crediticio de Fasanara Capital. La empresa destinará los recursos a desarrollar su propia plataforma de inteligencia artificial y a su expansión nacional e internacional.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/09/empresa-mexicana-sera-rival-de-chatgpt-kapital-desarrollara-su-plataforma-de-ia/",
+    "source": "El Financiero",
+    "published": "2026-09-09T18:39:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El mejor destino de golf y lujo: Así juega la Riviera Nayarit las grandes ligas",
+    "summary": "Riviera Nayarit se consolida como un destino de golf y lujo, con ocho campos de diseño internacional integrados en su corredor de golf, junto con resorts de alta gama, gastronomía, spas y experiencias privadas. El destino combina la práctica del deporte con exclusividad y confort para viajeros de alto perfil.",
+    "link": "https://www.elfinanciero.com.mx/viajes/2026/09/09/el-mejor-destino-de-golf-y-lujo-asi-juega-la-riviera-nayarit-las-grandes-ligas/",
+    "source": "El Financiero",
+    "published": "2026-09-09T18:20:31+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI names top US official from model testing agency to its board",
+    "summary": "OpenAI has appointed a former top US official from a model-testing agency to its board, a hire reported to be a former housemate of Anthropic's chief executive. The move comes as AI labs face accusations of regulatory capture over their growing influence on AI safety oversight.",
+    "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-09T17:00:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Créditos hipotecarios UVA: qué bancos bajaron la tasa y qué requisitos piden en 2026",
+    "summary": "Los bancos en Argentina comenzaron a bajar las tasas de los créditos hipotecarios UVA, con ofertas desde 6.7% + UVA, tras el arranque de un programa oficial que usará 2 billones de pesos argentinos del Fondo de Garantía de Sustentabilidad de ANSeS para fondear nuevos préstamos de vivienda. Algunas entidades ofrecen tasas aún menores, de hasta 3.5% + UVA, aunque con requisitos más específicos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-hipotecarios-uva-que-bancos-bajaron-la-tasa-y-que-requisitos-piden-en-2026/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-09T16:18:47+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Asobancaria y las fintech advierten que el alza del ICA encarecerá el crédito: Hacienda responde",
+    "summary": "Asobancaria y Colombia Fintech pidieron retirar una propuesta que aumentaría 50% la tarifa del impuesto ICA para actividades financieras en Bogotá, advirtiendo que la mayor carga tributaria se trasladaría al costo del crédito y otros productos financieros. La secretaría de Hacienda distrital respondió a las críticas del sector en medio del debate por la reforma tributaria.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/asobancaria-y-las-fintech-advierten-que-el-alza-del-ica-encarecera-el-credito-hacienda-responde/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-09T14:29:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "MercadoLibre Selling $1 Billion of Bonds in Return to Market",
+    "summary": "MercadoLibre is returning to global debt markets to sell $1 billion in bonds, only its third such issuance, as the Latin American e-commerce and fintech giant ramps up investment across the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-09/mercadolibre-returns-to-global-debt-markets-amid-spending-push",
+    "source": "Bloomberg",
+    "published": "2026-09-09T13:35:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US Firms Unleash Record Wave of Bond Sales in European Markets",
     "summary": "A record number of US companies are issuing bonds in Europe's markets, drawn by liquidity and attractive terms as the US bond market strains under a wave of AI-related debt. The shift underscores how AI capex financing needs are reshaping global capital markets.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-firms-unleash-record-wave-of-bond-sales-in-european-markets",
@@ -9,6 +97,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Paquete Económico 2027: 10 datos clave sobre el plan de ingresos y gasto del gobierno",
+    "summary": "El gobierno federal presentó ante el Congreso el Paquete Económico 2027, que define los ingresos y el gasto público esperados para el próximo año junto con los principales supuestos macroeconómicos de Hacienda. Para 2027 la SHCP plantea continuar con la reducción gradual del déficit público y mantener el gasto en programas prioritarios, un marco fiscal relevante para el entorno de tasas y financiamiento en México.",
+    "link": "https://www.eleconomista.com.mx/economia/paquete-economico-2027-10-datos-clave-sobre-plan-ingresos-gasto-gobierno-20260909-832664.html",
+    "source": "El Economista",
+    "published": "2026-09-09T11:41:02-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Las presiones fiscales en las tasas de interés",
@@ -415,6 +514,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 65,
     "language": "es",
+    "light": true
+  },
+  {
+    "title": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
+    "summary": "Alphabet and Blackstone's cloud venture is facing delays at major data-center sites meant to run Google's AI chips, highlighting the infrastructure obstacles slowing Big Tech's AI ambitions. The setback underscores how physical capacity constraints are becoming a bottleneck for large-scale AI deployment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-08/google-blackstone-venture-faces-delays-at-data-center-sites",
+    "source": "Bloomberg",
+    "published": "2026-09-08T20:25:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
     "light": true
   },
   {
@@ -5388,115 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": true
-  },
-  {
-    "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
-    "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
-    "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-freno-adquisiciones-internacionales",
-    "source": "Expansión",
-    "published": "2026-08-28T11:55:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 67,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
-    "summary": "Las empresas mexicanas están frenando sus adquisiciones fuera del país en un contexto de mayor cautela ante la incertidumbre económica y comercial. La desaceleración marca un cambio de tendencia frente a los años recientes de expansión internacional vía M&A.",
-    "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-dejaron-comorar-fuera-pais",
-    "source": "Expansión",
-    "published": "2026-08-28T11:55:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 67,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "CFE dependerá del sector privado para financiar la mayoría de sus inversiones con Sheinbaum",
-    "summary": "La CFE financiará 54% de sus inversiones con alianzas y recursos del sector privado fuera de su balance contable durante el sexenio de Sheinbaum, con proyectos por 37,500 millones de dólares en generación, transmisión y distribución eléctrica. El esquema busca atraer capital privado para expandir la infraestructura energética de México.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cfe-dependera-del-sector-privado-para-financiar-la-mayoria-de-sus-inversiones-con-sheinbaum/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-28T11:52:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Investor Frenzy for AI Strips Safeguards From Convertible Bonds",
-    "summary": "Investors chasing exposure to the AI boom are accepting weaker covenants on convertible bonds, giving up protections they would normally demand. The trend is pushing the market toward risk-taking levels last seen during the pandemic.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/investor-frenzy-for-ai-strips-safeguards-from-convertible-bonds",
-    "source": "Bloomberg",
-    "published": "2026-08-28T11:23:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ambani’s Jio Platforms IPO Plan Gets Regulatory Approval",
-    "summary": "Jio Platforms, the telecom and digital arm of Mukesh Ambani's conglomerate, received regulatory approval for its IPO, clearing a key hurdle in its long-awaited plan to go public. The listing would be one of the largest capital markets events in India this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/ambani-s-jio-platforms-ipo-plan-gets-regulatory-approval",
-    "source": "Bloomberg",
-    "published": "2026-08-28T11:22:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chinese AI Labs Alibaba and Moonshot Bet on Free Models Now, Fees Later",
-    "summary": "Chinese AI labs Alibaba and Moonshot are offering their AI models for free for now, betting they can monetize through fees later as they compete for market share. The strategy reflects the intensifying price war among Chinese AI developers.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-28/chinese-ai-labs-alibaba-and-moonshot-bet-on-free-models-now-fees-later",
-    "source": "Bloomberg",
-    "published": "2026-08-28T10:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Grupo Cibest ve espacio para invertir pese a las tasas altas y prepara expansión de sus negocios financieros",
-    "summary": "El presidente de Grupo Cibest, Juan Carlos Mora, ve una actitud positiva entre empresarios colombianos para retomar inversiones pese a las tasas de interés altas, y adelantó que el grupo prepara nuevos pasos para expandir sus negocios financieros en Latinoamérica. Señaló que los empresarios ya empiezan a buscar crédito de forma más activa.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/grupo-cibest-ve-espacio-para-invertir-pese-a-las-tasas-altas-y-prepara-expansion-de-sus-negocios-financieros/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-28T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Ramps Up Credit Support in Overhaul of Property Market",
-    "summary": "China unveiled a new package of measures to boost financing support for homebuyers and developers as it tries to put a floor under a five-year property crisis. The overhaul marks Beijing's latest attempt to stabilize its housing finance system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/china-pushes-forward-home-sale-overhaul-as-crisis-drags-on",
-    "source": "Bloomberg",
-    "published": "2026-08-28T09:32:48+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mora en Argentina: el pico esperado por Grupo Galicia se demoró un trimestre",
-    "summary": "El CFO de Grupo Financiero Galicia indicó que la estabilización de la morosidad (NPL) en su cartera de crédito en Argentina se retrasará un trimestre respecto de lo previsto. El dato surgió durante la conferencia con inversionistas posterior al reporte de resultados del banco.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mora-en-argentina-el-pico-esperado-por-grupo-galicia-se-demoro-un-trimestre/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-28T08:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Baja California capta 1,743 millones de dólares de IED en el primer semestre",
-    "summary": "Baja California captó 1,743 millones de dólares de Inversión Extranjera Directa en el primer semestre de 2026, un crecimiento anual de 8.1%, ubicándose como el cuarto estado receptor de IED en México. El resultado refleja el atractivo de la entidad para la relocalización de inversión manufacturera y logística.",
-    "link": "https://www.eleconomista.com.mx/estados/baja-california-capta-1-743-millones-dolares-ied-primer-semestre-20260828-830615.html",
-    "source": "El Economista",
-    "published": "2026-08-28T07:00:00-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
   }
 ]
