@@ -1,5 +1,148 @@
 [
   {
+    "title": "Peligroso rebote para el tipo de cambio que lo acerca a los 17 pesos por dólar",
+    "summary": "El peso mexicano se depreció este jueves frente al dólar, acercándose a los 17 pesos por unidad, ante las expectativas de un alza en la tasa de interés de la Fed la próxima semana. El mercado también asimiló un repunte en la inflación al productor en EU, el mayor incremento desde mayo, previo a la publicación del dato de inflación al consumidor.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/10/peso-dolar-precio-hoy-10-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-10T18:04:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia’s Huang Touts Cybersecurity as Next Big Market for AI",
+    "summary": "Nvidia CEO Jensen Huang said cybersecurity is set to become AI's next major market, as advances in the technology reshape an industry built around defending computer systems. His comments point to AI-driven security tools as a growing opportunity alongside Nvidia's core chip business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-s-huang-touts-cybersecurity-as-next-big-market-for-ai",
+    "source": "Bloomberg",
+    "published": "2026-09-10T17:08:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Brazilian ID-Verification Firm Unico Acquires Argentina’s Valida",
+    "summary": "Brazilian identity-verification firm Unico agreed to acquire Argentine rival Valida, extending its footprint across Latin America's ID-verification market. The deal is part of Unico's broader regional expansion strategy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/brazilian-id-verification-firm-unico-acquires-argentina-s-valida",
+    "source": "Bloomberg",
+    "published": "2026-09-10T17:03:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot Secretly Routed User Requests Through Claude, Anthropic Says",
+    "summary": "Anthropic accused Chinese AI firm Moonshot AI of secretly routing thousands of user requests through Anthropic's Claude models and presenting the responses as its own, in an apparent bid to gain an edge in the AI race. The allegation adds to growing tension between US and Chinese AI developers over model provenance and competitive practices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+    "source": "Bloomberg",
+    "published": "2026-09-10T17:00:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nubank, de David Vélez, da el salto a EE.UU. y lanza Nu Global, con cuentas en dólares y euros digitales",
+    "summary": "Nu Holdings, el banco digital de David Vélez, adelantó su entrada al mercado estadounidense y lanzó Nu Global, una cuenta digital en dólares y euros, mientras espera la aprobación final de su licencia bancaria en EU. La compañía ya contaba con aprobación condicional de la OCC desde enero y decidió acelerar el lanzamiento ofreciendo productos de inmediato a través de Lead Bank.",
+    "link": "https://www.bloomberglinea.com/mercados/nubank-de-david-velez-da-el-salto-a-eeuu-y-lanza-nu-global-con-cuentas-en-dolares-y-euros-digitales/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-10T16:31:55+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The Next Phase of the AI Boom",
+    "summary": "Switchyard Partners CEO Joe Kaiser told Bloomberg the AI boom is entering a new phase in which electricity, not compute, could become the binding constraint, pushing data centers toward stranded power sources. He argued that market competition could produce better AI safety guardrails and that sharply lowering compute cost per task will be key to sustaining the next wave of AI investment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-10/the-next-phase-of-the-ai-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-09-10T16:12:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vantage Data Centers seeks $2bn in loans from Pimco and PGIM",
+    "summary": "Vantage Data Centers, backed by DigitalBridge, is seeking $2 billion in loans from Pimco and PGIM to fund AI infrastructure buildout. The move comes as Wall Street banks pull back on their exposure to data-center debt.",
+    "link": "https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-10T16:04:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Top Pentagon Official Rejects Anthropic Researcher’s AI Warning",
+    "summary": "A senior Pentagon official pushed back on warnings from an Anthropic engineer who said AI insiders believe the technology could pose existential risks within the decade. The pushback highlights a widening rift between AI safety researchers and government officials over how seriously to treat frontier-AI risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/top-pentagon-official-rejects-anthropic-researcher-s-ai-warning",
+    "source": "Bloomberg",
+    "published": "2026-09-10T15:57:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BNP Says Too Much AI Borrowing Will End Bull Market in Credit",
+    "summary": "BNP Paribas warned that excessive AI-driven borrowing by technology companies will eventually end the multiyear bull market in corporate credit, once markets become saturated with tech debt. The bank's call flags growing concern that AI infrastructure spending is building up risk in credit markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/bnp-says-too-much-ai-borrowing-will-end-bull-market-in-credit",
+    "source": "Bloomberg",
+    "published": "2026-09-10T15:30:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Are you committed to your company or your team?",
+    "summary": "The Economist examines how employees' overlapping loyalties -- to their immediate team versus the wider company -- complicate management, since the two identities don't always pull in the same direction. The piece argues this tension is a growing challenge for bosses trying to align incentives and culture.",
+    "link": "https://www.economist.com/business/2026/09/10/are-you-committed-to-your-company-or-your-team",
+    "source": "The Economist",
+    "published": "2026-09-10T14:20:21+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "War has not halted the Gulf’s data-centre boom",
+    "summary": "Despite regional conflict, investors continue pouring money into the Gulf's data-center boom, betting the AI infrastructure buildout will keep paying off. The Economist notes the war has done little to slow AI investment in the region.",
+    "link": "https://www.economist.com/business/2026/09/10/war-has-not-halted-the-gulfs-data-centre-boom",
+    "source": "The Economist",
+    "published": "2026-09-10T14:20:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal",
+    "summary": "OpenAI is ending its $1-per-year pilot program for US government agencies and shifting to usage-based pricing that gives federal workers a 50% discount off standard prices, per a GSA statement. The change marks OpenAI's transition from subsidized pilot access to a more commercial pricing model for public-sector AI adoption.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+    "source": "Bloomberg",
+    "published": "2026-09-10T13:15:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banca y Condusef alertan sobre intentos de fraude a través de descargas de malware en el celular",
+    "summary": "La Asociación de Bancos de México (ABM) y la Condusef lanzaron una alerta conjunta ante intentos de fraude que buscan infectar celulares de usuarios con malware para robar información financiera. Ambas instituciones exhortaron a la población y a los usuarios de servicios financieros a tomar medidas de prevención ante este tipo de estafas.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banca-condusef-alertan-sobre-intentos-fraude-traves-descargas-malware-celular-20260910-832911.html",
+    "source": "El Economista",
+    "published": "2026-09-10T12:52:05-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Emeria Debt Talks Are Stepping Up as Largest Lenders Sign NDAs",
     "summary": "Emeria's largest creditors have signed NDAs as talks intensify over a €350 million cash injection into the French real estate services provider. The deal underscores the financing pressures facing real estate services firms amid tighter credit conditions.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/emeria-debt-talks-are-stepping-up-as-largest-lenders-sign-ndas",
@@ -7,6 +150,17 @@
     "published": "2026-09-10T12:44:49+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hugging Face co-founder: What we learnt from OpenAI’s hack",
+    "summary": "Hugging Face's co-founder said commercial AI tools failed to defend the platform against a recent attack, arguing the real fix lies in adopting open-weight models instead. The comments add to the debate over whether proprietary or open AI systems offer better security guarantees.",
+    "link": "https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-10T12:25:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
     "language": "en",
     "light": true
   },
@@ -22,6 +176,17 @@
     "light": true
   },
   {
+    "title": "La IA puede hacer crecer la economía mientras congela los salarios de oficina: Anthropic",
+    "summary": "Un estudio del Anthropic Institute estima que, en uno de sus escenarios para Estados Unidos, la IA podría elevar el PIB hasta 8.3% más hacia 2030, pero sin que ese crecimiento se traduzca en mayores salarios para los trabajadores de oficina más expuestos a la tecnología. El hallazgo sugiere que la IA podría ampliar la brecha entre productividad económica y compensación laboral en las próximas décadas.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ia-crecer-economia-congela-salarios-oficina-anthropic-20260910-832899.html",
+    "source": "El Economista",
+    "published": "2026-09-10T12:00:10-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Hacienda afina tiros contra factureras, pero el límite a deducciones pegará a empresas cumplidas",
     "summary": "Aunque Hacienda endurece el combate a empresas factureras, el límite a las deducciones fiscales propuesto en el Paquete Económico 2027 golpearía también a empresas cumplidas. Es un punto de fricción central en la discusión del presupuesto para el próximo año.",
     "link": "https://expansion.mx/economia/2026/09/10/hacienda-contra-factureras-limite-deducciones",
@@ -29,6 +194,28 @@
     "published": "2026-09-10T11:55:23+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kapital obtiene 125 mdd para impulsar su expansión financiera y tecnológica",
+    "summary": "Kapital Grupo Financiero, institución financiera mexicana, obtuvo 125 millones de dólares en nuevo financiamiento de Tru Arrow Partners, Fasanara Capital y otros inversionistas como Cervin Ventures, Niya Partners y Overlook Capital. Los recursos se destinarán a fortalecer su plataforma propia de inteligencia artificial y herramientas de datos, y a acelerar su expansión en México, América Latina, EU y Europa.",
+    "link": "https://www.eleconomista.com.mx/empresas/kapital-obtiene-125-mdd-impulsar-expansion-financiera-tecnologica-20260910-832727.html",
+    "source": "El Economista",
+    "published": "2026-09-10T11:30:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El CCE pide priorizar el grado de inversión en el Paquete Económico 2027",
+    "summary": "El Consejo Coordinador Empresarial (CCE) exhortó a los legisladores a priorizar la preservación del grado de inversión de México en el Paquete Económico 2027, junto con un gasto público responsable y reglas claras para incentivar la inversión. El organismo, encabezado por José Medina Mora, también pidió ampliar la base de contribuyentes y combatir la evasión fiscal.",
+    "link": "https://www.eleconomista.com.mx/empresas/cce-pide-priorizar-grado-inversion-paquete-economico-20260910-832894.html",
+    "source": "El Economista",
+    "published": "2026-09-10T11:26:34-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
     "language": "es",
     "light": false
   },
@@ -51,6 +238,17 @@
     "published": "2026-09-10T11:00:35+00:00",
     "category": "AI & Agents",
     "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CURP digital, pagos con QR y menos efectivo: la apuesta del gobierno con nueva ley",
+    "summary": "El gobierno federal presentó una iniciativa dentro del Paquete Económico 2027 para reducir el uso de efectivo, facilitar la contratación de servicios financieros mediante la CURP digital y ampliar los pagos con códigos QR. Sheinbaum argumentó que, pese a contar con infraestructura como SPEI, CoDi y Dimo, la adopción de medios de pago digitales en México sigue siendo limitada.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/curp-digital-pagos-qr-efectivo-apuesta-gobierno-nueva-ley-20260910-832750.html",
+    "source": "El Economista",
+    "published": "2026-09-10T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
@@ -95,6 +293,28 @@
     "published": "2026-09-10T10:01:17+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
+    "summary": "Law firm Latham & Watkins is buying Nvidia servers to build in-house AI systems, customizing open-weight models as an alternative to relying on OpenAI or Anthropic. The move reflects a broader trend of large enterprises building proprietary AI infrastructure rather than depending solely on major model providers.",
+    "link": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-10T10:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oracle Earnings to Test Market’s Tolerance for AI Spending Risk",
+    "summary": "Oracle's upcoming earnings are seen as a key test of investor tolerance for the heavy debt load the company has taken on to build AI infrastructure, as its shares have struggled this year. The results could signal how markets are pricing the risk tied to aggressive AI capital spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-earnings-to-test-market-s-tolerance-for-ai-spending-risk",
+    "source": "Bloomberg",
+    "published": "2026-09-10T09:03:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
@@ -5278,225 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "México pondrá bajo lupa inversión extranjera por seguridad nacional",
-    "summary": "El gobierno de Claudia Sheinbaum envió al Senado una reforma a la Ley de Inversión Extranjera que someterá a escrutinio de seguridad nacional las adquisiciones de más de 49% del capital de empresas mexicanas en sectores estratégicos como energía, infraestructura, inteligencia artificial, semiconductores, ciberseguridad y manejo de datos. La iniciativa crea un nuevo título en la ley para dar a la Comisión Nacional de Inversiones Extranjeras criterios más detallados para evaluar, y de ser necesario impedir, estas operaciones.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/08/30/mexico-pondra-bajo-lupa-inversion-extranjera-por-seguridad-nacional/",
-    "source": "El Financiero",
-    "published": "2026-08-31T03:47:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "24,622 cuentas congeladas, ¿y después qué?",
-    "summary": "La Unidad de Inteligencia Financiera (UIF) reportó haber incorporado a 2,395 personas a la Lista de Personas Bloqueadas y congelado 24,622 cuentas por 8,670.8 millones de pesos desde octubre de 2024, de las cuales 31.9% están vinculadas a crimen organizado. El artículo destaca que la reforma a la Ley de Amparo de octubre de 2025 y un fallo reciente de la Suprema Corte han limitado la posibilidad de desbloquear estos recursos por la vía judicial.",
-    "link": "https://www.eleconomista.com.mx/opinion/24-622-cuentas-congeladas-20260831-831015.html",
-    "source": "El Economista",
-    "published": "2026-08-31T00:32:51-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Jalisco apuesta por proveedores de Silicon Valley",
-    "summary": "El gobierno de Jalisco cambiará su estrategia de atracción de inversión en EU: en una gira a Silicon Valley en octubre buscará acceso a las redes de proveedores de grandes empresas tecnológicas para relocalizar parte de esas cadenas productivas en el estado, en lugar de intentar atraer directamente a las firmas. La funcionaria Cindy Blanco explicó que el objetivo es fortalecer la proveeduría regional dentro de la integración productiva de Norteamérica.",
-    "link": "https://www.eleconomista.com.mx/estados/jalisco-apuesta-proveedores-silicon-valley-20260831-831009.html",
-    "source": "El Economista",
-    "published": "2026-08-31T00:13:02-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El primer trabajo que la IA eliminará",
-    "summary": "La columna reflexiona sobre qué empleo será el primero en desaparecer por la inteligencia artificial, citando la predicción de Jensen Huang (Nvidia) de que la radiología será de las primeras afectadas por la capacidad de las máquinas para analizar imágenes sin cansancio. También recoge la visión de Alex Karp (Palantir), quien sugiere que los perfiles neurodivergentes y quienes toman decisiones poco convencionales tendrán ventaja en el nuevo entorno laboral.",
-    "link": "https://www.eleconomista.com.mx/opinion/primer-trabajo-ia-eliminara-20260830-831002.html",
-    "source": "El Economista",
-    "published": "2026-08-30T23:48:10-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
-    "summary": "Expansión analiza si Nacional Monte de Piedad puede sobrevivir a medida que reduce su dependencia de sucursales físicas, y cómo el histórico negocio de empeño tendrá que reinventar su modelo para adaptarse a los nuevos hábitos de los consumidores.",
-    "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
-    "source": "Expansión",
-    "published": "2026-08-30T21:23:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Ebrard niega que escándalos políticos en México afecten negociación comercial con Estados Unidos",
-    "summary": "Marcelo Ebrard, secretario de Economía y negociador comercial de México, rechazó que los recientes escándalos políticos, la inseguridad y el huachicol fiscal estén afectando la negociación comercial con Estados Unidos. Ambas partes ya preparan la cuarta ronda de conversaciones, dijo el funcionario tras un evento en el Congreso.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/ebrard-niega-que-escandalos-politicos-en-mexico-afecten-negociacion-comercial-con-estados-unidos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-30T20:24:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Will anybody use AI as much as coders?",
-    "summary": "The Economist asks whether any other profession will adopt AI tools as intensively as software developers have. The answer carries major implications for the sustainability of the current AI investment boom.",
-    "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders",
-    "source": "The Economist",
-    "published": "2026-08-30T19:51:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Will anybody use AI as much as coders do?",
-    "summary": "The Economist asks whether white-collar professions in general will ever use AI as intensively as software coders already do. It argues the answer carries major implications for whether the current AI investment boom is justified.",
-    "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
-    "source": "The Economist",
-    "published": "2026-08-30T19:51:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
-    "summary": "Big Tech companies' reported profits got a $160 billion boost from paper gains on their equity stakes in AI firms including OpenAI, Anthropic and SpaceX. Analysts say these windfalls are muddying standard earnings metrics across the tech sector.",
-    "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-30T19:00:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
-    "summary": "Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global are skeptical of mounting speculation that Fed Chair Kevin Warsh is poised to raise interest rates. The debate follows Warsh's hawkish inflation remarks at Jackson Hole, which have already pressured Treasuries and lifted the dollar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike",
-    "source": "Bloomberg",
-    "published": "2026-08-30T19:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports",
-    "summary": "Aon is nearing a roughly $17 billion deal to acquire insurance brokerage USI Insurance from private equity firm KKR & Co., the Wall Street Journal reported. The transaction would rank among the largest insurance-brokerage deals in recent years, underscoring continued FIG consolidation activity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/aon-nears-deal-to-buy-insurance-brokerage-from-kkr-wsj-reports",
-    "source": "Bloomberg",
-    "published": "2026-08-30T16:07:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Shein’s $100 Billion Valuation Falls to $26 Billion",
-    "summary": "Shein is heading toward a Hong Kong listing at about $26.5 billion, roughly a quarter of its 2022 peak valuation, after earlier US and UK listing attempts stalled on regulatory hurdles. The fast-fashion giant is pitching investors on expansion beyond its core brand via acquisitions or partnerships, even as geopolitical and reputational risks persist.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/shein-s-100-billion-valuation-falls-to-26-billion-video",
-    "source": "Bloomberg",
-    "published": "2026-08-30T14:04:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "G20 Faces Divide Over Debt, AI and Global Growth",
-    "summary": "G20 finance officials meeting in North Carolina are divided over sovereign debt, global imbalances and growth, with the US and its partners disagreeing on both the problems and the remedies. A parallel technology track will bring Musk, Nvidia's Jensen Huang and OpenAI's Sam Altman into talks on AI as Washington pushes for a lighter regulatory framework.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
-    "source": "Bloomberg",
-    "published": "2026-08-30T13:38:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dollar Debasement Trade Will Boost Emerging Bonds, Funds Say",
-    "summary": "Fund managers say the return of the 'dollar debasement trade' is set to further boost emerging-market bonds after an already strong year for the asset class, as investors seek alternatives amid concerns over US currency weakening.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/dollar-debasement-backs-bull-case-for-emerging-bonds-funds-say",
-    "source": "Bloomberg",
-    "published": "2026-08-30T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Buró de Crédito: qué ve el banco en tu historial y cómo mejorar tu perfil financiero",
-    "summary": "El Buró de Crédito no es una lista negra, sino una Sociedad de Información Crediticia que concentra el historial de tarjetas, préstamos, créditos automotrices e hipotecas de cada persona, incluyendo pagos puntuales y atrasos. La decisión de otorgar un crédito depende de cada institución, que además del historial revisa ingresos y capacidad de pago.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/buro-credito-ve-banco-historial-mejorar-perfil-financiero-20260830-830911.html",
-    "source": "El Economista",
-    "published": "2026-08-30T12:18:52-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La cantidad de ETF en Wall Street se duplicó en apenas cinco años",
-    "summary": "La cantidad de ETF en Estados Unidos se duplicó en cinco años, pasando de unos 2,700 fondos y 130 emisores a más de 5,200 fondos de 400 emisores distintos, según un estudio de Carson citado por Bloomberg Línea. Los activos administrados alcanzaron US$15.67 billones a julio, con un incremento de US$3.92 billones en los últimos doce meses.",
-    "link": "https://www.bloomberglinea.com/mercados/la-cantidad-de-etf-en-wall-street-se-duplico-en-apenas-cinco-anos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-08-30T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Palabra de seguridad familiar: qué es y cómo protege tu dinero y tranquilidad de los fraudes con IA",
-    "summary": "Ante el auge de fraudes que usan inteligencia artificial para clonar voces y simular llamadas de auxilio de un familiar, expertos recomiendan pactar una 'palabra de seguridad' como mecanismo de verificación. La nota explica cómo esta herramienta ayuda a proteger la estabilidad financiera y emocional de las familias frente a deepfakes y estafas telefónicas generadas con IA.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/palabra-seguridad-familiar-protege-dinero-tranquilidad-fraudes-ia-20260830-813662.html",
-    "source": "El Economista",
-    "published": "2026-08-30T10:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Claves sobre el acuerdo de Meta en caso de adicción de menores a redes sociales",
-    "summary": "Meta llegó a un acuerdo relacionado con señalamientos sobre la adicción de menores a las redes sociales y sus efectos en la salud mental de los usuarios más jóvenes. El caso se suma a la creciente presión regulatoria sobre las plataformas sociales para reforzar la protección de los adolescentes, un tema que otras redes observan de cerca.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/claves-sobre-acuerdo-meta-caso-adiccion-menores-redes-sociales-20260830-830898.html",
-    "source": "El Economista",
-    "published": "2026-08-30T07:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
-    "summary": "The world's largest developed economies are facing sharply higher financing costs as bond yields climb, adding tens of billions of dollars to debt-servicing bills since the start of the US-Iran war. The rising costs are straining public finances across the G7, intensifying pressure on budgets already stretched by elevated rates.",
-    "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-30T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-    "summary": "La deuda pública de México superó los 19.2 billones de pesos, con un aumento de 1.4 billones en el último año, de acuerdo con cifras de la Secretaría de Hacienda. El dato refleja la presión fiscal creciente sobre las finanzas públicas del país.",
-    "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
-    "source": "Expansión",
-    "published": "2026-08-30T00:03:11+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
   }
 ]
