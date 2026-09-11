@@ -1,5 +1,181 @@
 [
   {
+    "title": "OpenAI's Altman May Slow Down AI Development",
+    "summary": "OpenAI CEO Sam Altman told employees the company may deliberately slow the pace of frontier AI development, potentially coordinating with other AI labs on timing. Bloomberg's Shirin Ghaffary reports the shift reflects growing internal and industry-wide caution about the race to build ever more powerful models.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/openai-s-altman-may-slow-down-ai-development-video",
+    "source": "Bloomberg",
+    "published": "2026-09-11T18:10:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
+    "summary": "Cohere is reportedly in advanced talks to raise $2-3 billion, with financing from the Canadian government alongside existing backers. The round would mark one of the largest AI fundraises of the year and underscores continued investor appetite for enterprise AI despite broader market caution.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
+    "source": "Bloomberg",
+    "published": "2026-09-11T18:03:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 73,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Situational Awareness builds relationships with new brokers as it attempts rebound",
+    "summary": "Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, is rebuilding broker relationships as it attempts to recover from billions of dollars in losses suffered during a recent AI stock sell-off. The fund had been closely watched as a bellwether for AI-sector investor sentiment.",
+    "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-11T17:15:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso colombiano, mexicano y real brasileño: por qué tienen atractivo ante un dólar débil",
+    "summary": "Un análisis de Citi señala que el peso colombiano, el peso mexicano y el real brasileño resultan atractivos ante un dólar más débil, apoyados en tasas de interés relativamente altas en la región. El dólar ha perdido cerca de 9% desde enero de 2025, lo que históricamente ha coincidido con periodos de mayor crecimiento en América Latina.",
+    "link": "https://www.bloomberglinea.com/mercados/peso-colombiano-mexicano-y-real-brasileno-por-que-tienen-atractivo-ante-un-dolar-debil/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T17:09:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why Everyone Is Suddenly Talking About AI Safety",
+    "summary": "Bloomberg's Big Take podcast examines two high-profile AI industry incidents that have intensified debate over AI safety and existential risk. The episode reflects a broader shift in public discourse toward scrutinizing the pace and oversight of frontier AI development.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/why-everyone-is-suddenly-talking-about-ai-safety-video",
+    "source": "Bloomberg",
+    "published": "2026-09-11T16:44:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Contra todo pronóstico, tipo de cambio se resiste a cruzar los 17 pesos por dólar",
+    "summary": "El peso mexicano se aprecia marginalmente frente al dólar, ubicándose en 16.96 pesos, pese a que la inflación en EU aceleró más de lo esperado en agosto. Analistas como Gabriela Siller de Banco Base anticipan que una posible alza de tasas de la Fed la próxima semana podría presionar al peso a la baja en las próximas semanas.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/11/peso-dolar-precio-hoy-11-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-11T16:27:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 71,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cantor Co‑CEO: AI Capex Will Drive Trillions in New Debt",
+    "summary": "Cantor Fitzgerald Co-CEO Christian Wall says the AI infrastructure buildout will drive trillions of dollars in new debt issuance in the years ahead. Speaking on Bloomberg Open Interest, he framed 2026 as a more complicated year than 2025's record for the firm.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/cantor-co-ceo-ai-capex-will-drive-trillions-in-new-debt-video",
+    "source": "Bloomberg",
+    "published": "2026-09-11T16:17:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Surging bond yields presage pain—and not just for bond investors",
+    "summary": "The Economist warns that stubborn inflation, heavy corporate demand for capital and swelling public debt are pushing government bond yields higher, squeezing not just bondholders but borrowers across the economy. The piece argues the pain from higher-for-longer rates will extend well beyond fixed-income markets.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+    "source": "The Economist",
+    "published": "2026-09-11T16:02:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oracle vs. Adobe: por qué Wall Street evalúa de forma distinta sus apuestas por la IA",
+    "summary": "Oracle y Adobe representan dos caras opuestas del auge de la IA: mientras la escasez de capacidad de cómputo acelera el negocio de Oracle, Adobe debe demostrar que la adopción de IA en sus productos también genera mayor valor económico. Wall Street distingue cada vez más entre exposición a la IA y capacidad real de monetizarla.",
+    "link": "https://www.bloomberglinea.com/mercados/oracle-vs-adobe-por-que-wall-street-evalua-de-forma-distinta-sus-apuestas-por-la-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T15:35:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Perú espera crear su Cámara de Riesgo de Contraparte en primer semestre de 2027",
+    "summary": "Perú espera contar con una cámara central de contrapartida en el primer semestre de 2027, tras avanzar en los cambios regulatorios necesarios, según el superintendente del Mercado de Valores, Juan Pichihua. La propuesta de modificaciones al reglamento de compensación y liquidación de valores ya fue aprobada tras un proceso de consulta pública.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/peru-espera-crear-su-camara-de-riesgo-de-contraparte-en-primer-semestre-de-2027/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T15:20:49+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "When AI Goes Rogue, Who's Legally Responsible?",
+    "summary": "As AI adoption grows, the US legal system is grappling with cases where chatbots act as lawyers, witnesses, or are alleged to have helped plan violent crimes. Bloomberg Businessweek's Evan Ratliff discusses on the Everybody's Business podcast how courts are approaching liability for AI's role in real-world harm.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/when-ai-goes-rogue-who-s-legally-responsible",
+    "source": "Bloomberg",
+    "published": "2026-09-11T15:15:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fidji Simo Joins Data Center Startup Nscale's Board Ahead of IPO",
+    "summary": "Data center startup Nscale Global Holdings appointed former OpenAI and Meta executive Fidji Simo to its board as it strengthens governance ahead of a planned IPO. The move underscores the growing race among AI infrastructure providers to attract high-profile leadership before going public.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/fidji-simo-joins-data-center-startup-nscale-s-board-ahead-of-ipo",
+    "source": "Bloomberg",
+    "published": "2026-09-11T15:15:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gobierno de Sheinbaum frenará gasto de programas sociales en 2027 en medio de presión fiscal",
+    "summary": "Presionado por la necesidad de reducir el déficit fiscal y tranquilizar a las calificadoras, el gobierno de Claudia Sheinbaum proyecta frenar el gasto en 14 programas sociales prioritarios en 2027, que representarán 9.3% del presupuesto total frente a 9.5% el año anterior. El Paquete Económico 2027 confirma recortes a programas insignia pese al compromiso presidencial de mantenerlos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-de-sheinbaum-frenara-gasto-de-programas-sociales-en-2027-en-medio-de-presion-fiscal/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T14:59:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Claude ayudó a crear miles de perfiles falsos en apps de citas para engañar a usuarios y cobrarles",
+    "summary": "Un reportaje señala que el modelo de IA Claude, de Anthropic, fue utilizado para generar miles de perfiles falsos en aplicaciones de citas con el fin de engañar y cobrar a usuarios. El caso se suma a una serie de incidentes recientes sobre el uso indebido de modelos de IA avanzados.",
+    "link": "https://expansion.mx/tecnologia/2026/09/11/apps-de-citas-usaron-a-claude-para-enganar-personas",
+    "source": "Expansión",
+    "published": "2026-09-11T14:51:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta Meets With European Credit Investors in Non-Deal Roadshow",
+    "summary": "Meta Platforms has been meeting with European bond investors for at least a week in a non-deal roadshow, as hyperscalers increasingly tap global debt markets to fund the AI buildout. The roadshow signals Meta may be laying groundwork for a future European bond issuance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/meta-meets-with-european-credit-investors-in-non-deal-roadshow",
+    "source": "Bloomberg",
+    "published": "2026-09-11T14:08:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IA matará gente antes de que se pueda controlar: ejecutivo de Bridgewater",
+    "summary": "Un ejecutivo de Bridgewater Associates advirtió que la inteligencia artificial podría causar muertes antes de que la industria logre controlarla adecuadamente, sumándose a las voces que piden mayor cautela regulatoria. La declaración refleja la creciente preocupación entre líderes financieros sobre los riesgos de seguridad de la IA avanzada.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/ia-matara-gente-antes-de-que-se-pueda-controlar-ejecutivo-de-bridgewater",
+    "source": "Bloomberg",
+    "published": "2026-09-11T13:58:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "US Convertible Bond Market Hits Record as AI Spending Surges",
     "summary": "US convertible bond issuance has hit a record annual total as companies increasingly turn to the instrument to fund heavy AI-related capital spending. The trend highlights how the AI investment boom is reshaping corporate capital-raising strategies.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-convertible-bond-market-hits-record-as-ai-spending-surges",
@@ -11,6 +187,28 @@
     "light": true
   },
   {
+    "title": "Treasuries End Bruising Week With Fed Hike Bets Firmed After CPI",
+    "summary": "The $32 trillion Treasury market closed a rough week with yields at multi-year highs, as stronger-than-expected CPI data cemented investor bets that the Fed will raise rates next week to tame sticky inflation. The move adds pressure on emerging-market currencies and borrowing costs, including in Mexico.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/treasuries-fall-as-higher-than-expected-cpi-boosts-fed-hike-odds",
+    "source": "Bloomberg",
+    "published": "2026-09-11T12:38:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México suma 82 nuevos parques industriales en construcción ante mayor demanda de infraestructura",
+    "summary": "México registra 82 nuevos parques industriales en construcción, reflejo de la creciente demanda de infraestructura logística e industrial en el país. El dato se enmarca en el contexto de nearshoring y la expansión de la manufactura orientada a la exportación.",
+    "link": "https://www.eleconomista.com.mx/videos/mexico-suma-82-nuevos-parques-industriales-construccion-mayor-demanda-infraestructura-20260911-833113.html",
+    "source": "El Economista",
+    "published": "2026-09-11T12:30:28-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic Says US Adversaries Aimed Claude at Weapons Research",
     "summary": "Anthropic reported that its Claude AI model was targeted by adversaries attempting to develop a range of military applications, including drone swarms, missile navigation systems, and biological weapons. The disclosure highlights growing concern over the misuse of advanced AI models in weapons development.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
@@ -20,6 +218,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Paquete Económico 2027: Más de 80 de cada 100 pesos del gasto público ya están comprometidos",
+    "summary": "El Paquete Económico 2027 de México muestra que más de 80 de cada 100 pesos del gasto público ya están comprometidos, lo que limita el margen de maniobra fiscal del gobierno para el próximo año. El dato refleja la creciente rigidez presupuestal frente a compromisos de deuda, pensiones y programas sociales.",
+    "link": "https://expansion.mx/economia/2026/09/11/paquete-economico-80-pesos-100-gastos-obligatorios",
+    "source": "Expansión",
+    "published": "2026-09-11T11:55:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "El doble choque en la economía global",
@@ -55,6 +264,28 @@
     "light": false
   },
   {
+    "title": "¿Por qué la mayoría de la generación afore se retira con pensión garantizada?",
+    "summary": "La mayoría de los trabajadores de la 'generación afore', que cotizaron con bajos salarios y sin ahorro voluntario, terminan jubilándose bajo el esquema de pensión garantizada, de entre 3,400 y 10,700 pesos mensuales en 2026. Bajo este esquema se pensionó 99.68% de quienes se retiraron entre 2021 y junio de 2026.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/mayoria-generacion-afore-retira-pension-garantizada-20260911-833072.html",
+    "source": "El Economista",
+    "published": "2026-09-11T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Seguro contra sismos en viviendas: Cómo funciona la póliza que respalda tu casa ante una emergencia",
+    "summary": "Solo 5 de cada 100 viviendas en México cuentan con una póliza de seguro contra sismos, pese al alto riesgo sísmico del país. De 35.5 millones de casas y departamentos, apenas 25% tiene algún tipo de seguro y solo 7% cuenta con aseguramiento voluntario, según datos de GMX Seguros.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/seguro-sismos-viviendas-funciona-poliza-respalda-casa-emergencia-20260911-832491.html",
+    "source": "El Economista",
+    "published": "2026-09-11T10:55:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Why OpenAI's Sam Altman Says He's Ready to Slow AI Development",
     "summary": "OpenAI CEO Sam Altman said he is open to slowing the pace of cutting-edge AI development, hoping rival labs will follow suit. The comments come amid growing internal and public concern among AI industry employees about the risks of increasingly capable systems.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/why-openai-s-sam-altman-says-he-s-ready-to-slow-ai-development",
@@ -62,6 +293,39 @@
     "published": "2026-09-11T10:40:32+00:00",
     "category": "AI & Agents",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Petróleo de México rebasa los US$100 por la guerra mientras el Gobierno espera un precio más bajo",
+    "summary": "La Mezcla Mexicana de Exportación superó los US$100 por barril debido a la volatilidad en Medio Oriente, muy por encima de los US$78 estimados por Hacienda para el cierre de 2026. Cada dólar adicional en el precio del petróleo representa un efecto de MXN$9,600 millones sobre los ingresos petroleros del país.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/petroleo-de-mexico-rebasa-los-us100-por-la-guerra-mientras-el-gobierno-espera-un-precio-mas-bajo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "MercadoLibre: la estrategia con la que busca acelerar su crecimiento en Argentina",
+    "summary": "MercadoLibre lanzará envíos gratuitos, pruebas de suscripción y mayor presencia fuera de los grandes centros urbanos para impulsar su crecimiento en Argentina, donde el comercio electrónico representa 16.7% de las ventas totales, por encima del promedio regional. La compañía busca cerrar la brecha con mercados más maduros como China.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mercado-libre-la-estrategia-con-la-que-busca-acelerar-su-crecimiento-en-argentina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T09:10:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Houthis used Anthropic AI to try to build ballistic missiles",
+    "summary": "Yemen's Houthi rebels reportedly used Anthropic's AI models in an attempt to develop ballistic missile capabilities, according to the FT. The missile test apparently failed, but the incident exposes gaps in AI safety safeguards against misuse by armed groups.",
+    "link": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-11T09:02:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
     "language": "en",
     "light": true
   },
@@ -5232,270 +5496,6 @@
     "published": "2026-09-01T04:00:29+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street banks push Big Law to cut fees because of AI",
-    "summary": "Goldman Sachs, Morgan Stanley and Citi are telling their outside law firms that legal bills should fall because AI has sped up routine work. The pressure signals how AI productivity gains are starting to reshape cost expectations in professional services tied to financial institutions.",
-    "link": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-01T04:00:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Revolut’s mission to dominate banking",
-    "summary": "The Financial Times profiles Revolut's push to become an 'everything app' after years of struggling to secure a banking licence. The piece examines how the fintech now aims to shake up traditional banking as it scales its ambitions, a useful benchmark for digital banking strategy in other markets.",
-    "link": "https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-01T04:00:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The Yakisugi Cabin / Alki Architecture + Design Studio",
-    "summary": "The Yakisugi Cabin is a compact, relocatable dwelling that uses reclaimed materials and traditional Japanese charred-wood craft alongside high-performance construction. The project treats material constraint as a design tool, testing how lightly a small mountain retreat can sit on its site.",
-    "link": "https://www.archdaily.com/1184115/the-yakisugi-cabin-alki-architecture-plus-design-studio",
-    "source": "ArchDaily",
-    "published": "2026-09-01T02:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Preocupa riesgo cibernético impulsado por la IA",
-    "summary": "Andrew Bailey, presidente del Consejo de Estabilidad Financiera (FSB) y gobernador del Banco de Inglaterra, advirtió al G20 que el impacto de la inteligencia artificial en el riesgo cibernético es la preocupación más inmediata para el sistema financiero global. Señaló que la IA podría acelerar la velocidad y magnitud de los ataques, y que muchos países aún carecen de sistemas para gestionar el despliegue de modelos avanzados. También alertó sobre la dependencia del sector financiero de pocos proveedores tecnológicos, lo que podría socavar la confianza sistémica del mercado.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/preocupa-riesgo-cibernetico-impulsado-ia-20260901-831211.html",
-    "source": "El Economista",
-    "published": "2026-09-01T00:52:06-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
-    "summary": "S&P Global advirtio que el fenomeno de El Niño amenaza con encarecer los precios de los alimentos en Mexico hasta 2027. La calificadora señala que el impacto climatico podria presionar la inflacion alimentaria del pais en los proximos años.",
-    "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
-    "source": "Expansión",
-    "published": "2026-09-01T00:07:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El México que SHCP quiere vender",
-    "summary": "Previo al inicio del periodo de sesiones del Congreso, la bancada de Morena se reunió con el gabinete de Sheinbaum, donde el secretario de Hacienda, Édgar Amador, y el de Economía, Marcelo Ebrard, expusieron los logros de la administración. El columnista cuestiona si el discurso oficial refleja honestamente los retos económicos pendientes del gobierno.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-shcp-quiere-vender-20260901-831201.html",
-    "source": "El Economista",
-    "published": "2026-09-01T00:05:56-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Signs $35 Billion Pact With Nvidia-Backed Lambda",
-    "summary": "Anthropic agreed to a $35 billion computing deal with Nvidia-backed cloud provider Lambda, according to a person familiar with the matter. The deal is part of Anthropic's push to rapidly expand its AI compute capacity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-    "source": "Bloomberg",
-    "published": "2026-08-31T23:54:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Proponen un “acuerdo” sobre las reservas de capital para UBS",
-    "summary": "Una comisión parlamentaria clave de Suiza sugirió que UBS debería tener flexibilidad para cumplir hasta la mitad de los nuevos requisitos de capital exigidos por Berna mediante bonos convertibles AT1. La propuesta del gobierno suizo, que busca destinar cerca de 20,000 millones de dólares en reservas adicionales tras la implosión de Credit Suisse en 2023, sigue en proceso legislativo. UBS advirtió que una regulación demasiado estricta la pondría en desventaja frente a competidores.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/proponen-acuerdo-sobre-reservas-capital-ubs-20260831-831199.html",
-    "source": "El Economista",
-    "published": "2026-08-31T23:34:12-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Financieras agropecuarias, ante mayor morosidad por clima y precios de materias primas",
-    "summary": "Las financieras del sector agropecuario en México enfrentan un deterioro en la calidad de su cartera: el índice de morosidad ajustado subió a 6.7% en el segundo trimestre de 2026, frente a 4.1% un año antes, según HR Ratings. La cartera agrofinanciera alcanzó 37,905 millones de pesos, en un entorno de menor crecimiento económico, menores remesas y caída de tasas de interés que presiona la capacidad de pago de los deudores.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/financieras-agropecuarias-mayor-morosidad-clima-precios-materias-primas-20260831-831198.html",
-    "source": "El Economista",
-    "published": "2026-08-31T23:23:37-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tras dos años de consolidación fiscal, la deuda ha crecido 6.7% con Sheinbaum",
-    "summary": "A dos años del inicio del gobierno de Claudia Sheinbaum, la deuda pública en su medida más amplia (SHRFSP) creció 6.7% real, hasta 19.22 billones de pesos en julio de 2026, según la SHCP. La dependencia señaló que el indicador equivale a 51.5% del PIB, un nivel que considera moderado frente a otras economías emergentes.",
-    "link": "https://www.eleconomista.com.mx/economia/dos-anos-consolidacion-fiscal-deuda-crecido-6-7-sheinbaum-20260831-831197.html",
-    "source": "El Economista",
-    "published": "2026-08-31T23:19:05-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Depósitos bancarios superan al efectivo en recepción de remesas: Cemla",
-    "summary": "Más de la mitad (53.3%) de las remesas electrónicas recibidas en México durante el primer semestre de 2026 se depositaron en cuentas bancarias, según el Cemla, que documenta una tendencia de bancarización creciente desde 2020. Los depósitos en cuenta sumaron 30,866 millones de dólares al cierre de 2025, superando por primera vez al pago en efectivo, lo que refleja avances en inclusión financiera.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/depositos-bancarios-superan-efectivo-recepcion-remesas-cemla-20260831-831196.html",
-    "source": "El Economista",
-    "published": "2026-08-31T23:16:07-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crédito de la banca comercial al sector privado volvió a crecer 3.3% en julio",
-    "summary": "El crédito vigente de la banca comercial al sector privado en México creció 3.3% real anual en julio, el mismo ritmo que el mes previo, según Banxico, con una cartera que superó 7.52 billones de pesos. El segmento de consumo siguió siendo el más dinámico, con un crecimiento de 7.1%, liderado por tarjetas de crédito y crédito personal.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/credito-banca-comercial-sector-privado-volvio-crecer-3-3-julio-20260831-831195.html",
-    "source": "El Economista",
-    "published": "2026-08-31T23:12:13-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Asia Data Center Debt Binge Hitting Banks’ Limits, Barclays Says",
-    "summary": "Senior Barclays bankers say the billions of dollars borrowed to fund data centers across Asia are pushing lenders toward their exposure limits, making banks more selective about which AI infrastructure projects to finance. The trend highlights growing credit-risk concerns tied to the pace of AI capex.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/asia-data-center-debt-binge-hitting-banks-limits-barclays-says",
-    "source": "Bloomberg",
-    "published": "2026-08-31T22:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México es potencia en adopción de IA: 67% de los empleados la usa, pero los jefes no la aprovechan",
-    "summary": "Un reporte citado por Expansión ubica a México como líder en adopción de inteligencia artificial: 67% de los empleados ya la usa en su trabajo. Sin embargo, la nota apunta a una brecha entre el uso individual de la IA y su aprovechamiento estratégico por parte de los directivos.",
-    "link": "https://expansion.mx/tecnologia/2026/08/31/mexico-potencia-usar-ia-trabajadores",
-    "source": "Expansión",
-    "published": "2026-08-31T22:00:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
-    "summary": "México se sumaría a un mecanismo conjunto con sus socios del T-MEC para revisar inversiones extranjeras por motivos de seguridad nacional, según Expansión. La medida se enmarca en un mayor escrutinio regional a flujos de capital sensibles dentro del bloque comercial.",
-    "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
-    "source": "Expansión",
-    "published": "2026-08-31T21:57:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Se pueden fusionar las pensiones de IMSS e ISSSTE? El trámite que debes hacer si trabajaste en sector público y privado",
-    "summary": "Expansion explica el tramite que deben seguir quienes cotizaron tanto en el IMSS como en el ISSSTE para intentar fusionar sus periodos de cotizacion de cara a su pension. La nota detalla los requisitos para trabajadores que combinaron empleo en el sector publico y privado a lo largo de su vida laboral.",
-    "link": "https://expansion.mx/finanzas-personales/2026/08/31/fusionar-pensiones-imss-issste-tramite-hacer-publico-privado",
-    "source": "Expansión",
-    "published": "2026-08-31T21:06:28+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple Accuses OpenAI of Destroying Evidence in Exchange of Barbs",
-    "summary": "Apple escalated its legal battle with OpenAI, alleging in a court filing that OpenAI is destroying evidence and that a former Apple engineer downloaded a confidential Apple circuit schematic and used it in his work at the AI company. The dispute adds to a growing list of legal fights among major AI players over trade secrets and talent poaching.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-    "source": "Bloomberg",
-    "published": "2026-08-31T21:03:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bill Gates pide 'guardar' trabajos para humanos y acuña el término 'Human Reserved'",
-    "summary": "Bill Gates propuso reservar deliberadamente ciertos empleos para personas conforme avanza la automatización con IA, acuñando el término 'Human Reserved' para describir roles que deberían mantenerse fuera del alcance de la automatización. La declaración se suma al debate sobre cómo diseñar la transición laboral en la era de la inteligencia artificial.",
-    "link": "https://expansion.mx/tecnologia/2026/08/31/bill-gates-guardar-trabajos-humanos-termino-human-reserved",
-    "source": "Expansión",
-    "published": "2026-08-31T18:36:14+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Swiss lawmakers call for softer regulation in victory for UBS",
-    "summary": "Swiss lawmakers have called for softer capital regulation, a proposal described as a boost for UBS, Switzerland's largest bank, and its chief executive Sergio Ermotti. The vote marks a win for UBS in its push against tougher capital demands from regulators.",
-    "link": "https://www.ft.com/content/1bdafff4-3e78-4099-be47-755e6b643408?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-08-31T18:24:46+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Could Open AI Listings Floodgates: Madrona",
-    "summary": "Madrona's Matt McIlwain discusses the firm's IA40 list of leading private AI companies, explaining why OpenAI, Anthropic and Databricks dominate AI fundraising. He argues a successful Anthropic IPO could open the door for a new wave of AI public offerings in 2027.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-ipo-could-open-ai-listings-floodgates-madrona-video",
-    "source": "Bloomberg",
-    "published": "2026-08-31T18:21:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The extraordinary rise of Miami’s economy",
-    "summary": "The Economist examines how a combination of capital inflows and favorable politics has fueled a boom in Miami's economy, raising the question of whether that success can be sustained. The piece is relevant as a comparable case study for capital- and foreign-buyer-driven real estate markets.",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
-    "source": "The Economist",
-    "published": "2026-08-31T17:01:41+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso, en la línea de las 17 unidades ante el dólar: Así está el tipo de cambio HOY 31 de agosto",
-    "summary": "El tipo de cambio abrió este lunes en 17 pesos por dólar, con el peso apreciándose 0.18% frente al billete verde pese al repunte de riesgos geopolíticos que elevó el precio del petróleo y reforzó las expectativas de un alza de tasas de la Fed en septiembre. Analistas anticipan un rango de operación acotado entre 16.98 y 17.10 pesos, con el diferencial de tasas favoreciendo al peso mexicano frente a otras divisas emergentes.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/08/31/peso-dolar-precio-hoy-31-de-agosto-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-08-31T16:56:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Adoption Is Finally Showing Up in Fundamentals",
-    "summary": "Morgan Stanley's Michelle Weaver says AI adoption is moving from experimentation into production, with about 25% of S&P 500 companies now quantifying AI benefits, up from 14% a year ago. Companies adopting AI are also showing relative forward margin expansion, suggesting the technology is starting to show up in corporate fundamentals rather than just hype.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/ai-adoption-is-finally-showing-up-in-fundamentals-video",
-    "source": "Bloomberg",
-    "published": "2026-08-31T16:54:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic's Mega-IPO Plan Looms Over Packed US Listing Calendar",
-    "summary": "Anthropic is preparing to file publicly for an IPO that could raise as much as SpaceX's record $86.2 billion debut, with the filing expected in the coming weeks after the Sept. 7 Labor Day holiday. Other companies planning US listings are struggling to capture investor attention — including sovereign wealth funds — as the prospect of the Anthropic offering looms over the calendar.",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-s-mega-ipo-looms-over-packed-listing-calendar-video",
-    "source": "Bloomberg",
-    "published": "2026-08-31T16:39:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
     "language": "en",
     "light": true
   }
