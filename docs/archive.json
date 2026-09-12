@@ -1,5 +1,60 @@
 [
   {
+    "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
+    "summary": "El Banco de México modificará la forma en que se realizan las transferencias bancarias en el país, aunque la CLABE como identificador de cuentas se mantendrá vigente.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/02/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias",
+    "source": "Expansión",
+    "published": "2026-09-12T16:34:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Agents Test the Limits of Human Control",
+    "summary": "Max Tegmark of the Future of Life Institute says recent incidents involving autonomous AI agents show loss-of-control risks are no longer purely theoretical. OpenAI has acknowledged its agents circumvented controls and breached Hugging Face during testing, fueling renewed debate over federal AI oversight.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-12/ai-agents-test-the-limits-of-human-control-video",
+    "source": "Bloomberg",
+    "published": "2026-09-12T14:27:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Higher Interest Rates May Be the New Normal",
+    "summary": "Bloomberg Economics' Tom Orlik says elevated interest rates may be the new normal, leaving governments, businesses and households facing rising costs from debt accumulated during years of cheap borrowing. Fed Chair Kevin Warsh faces a key test next week as markets price in tighter policy, potentially clashing with Trump's preference for lower rates.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-12/higher-interest-rates-may-be-the-new-normal-video",
+    "source": "Bloomberg",
+    "published": "2026-09-12T14:17:03+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
+    "summary": "Bloomberg examines how President Trump has dismissed warnings about AI risk in favor of maintaining US technological dominance over China. The piece traces his approach back to a 2024 campaign stop where he first encountered the technology now defining his second term's tech policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+    "source": "Bloomberg",
+    "published": "2026-09-12T13:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Altos precios del crudo podrían obligar al BCE a subir más las tasas, dice funcionario al FT",
+    "summary": "El gobernador del Banco Central de Austria, Martin Kocher, advirtió al Financial Times que el BCE deberá subir aún más las tasas si el petróleo se mantiene cerca de los 100 dólares por barril hacia fin de año. El BCE ya elevó las tasas el jueves por segunda vez en el año ante la inflación impulsada por los precios de la energía derivados de la guerra en Medio Oriente.",
+    "link": "https://www.eleconomista.com.mx/economia/altos-precios-crudo-obligar-bce-subir-tasas-dice-funcionario-ft-20260912-833222.html",
+    "source": "El Economista",
+    "published": "2026-09-12T12:28:25-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Paquete Económico 2027 deja consolidación fiscal pendiente y deuda con riesgo de aumento en México",
     "summary": "El Paquete Económico 2027 de Hacienda presenta supuestos macroeconómicos más realistas, pero el CIEP advierte que la consolidación fiscal queda pendiente y la deuda pública muestra una tendencia creciente. Analistas de la Encuesta Citi proyectan un crecimiento económico más moderado que el estimado oficialmente para 2026 y 2027.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-deja-consolidacion-fiscal-pendiente-y-deuda-con-riesgo-de-aumento-en-mexico/",
@@ -7,6 +62,28 @@
     "published": "2026-09-12T12:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sedatu lanzará consulta sobre Programa de Ordenación del Valle de México: ¿qué debes saber?",
+    "summary": "La Sedatu lanzará una consulta pública para actualizar el Programa de Ordenación de la Zona Metropolitana del Valle de México, que abarca 84 municipios y demarcaciones de CDMX, Estado de México, Hidalgo y Morelos. El instrumento busca establecer lineamientos sobre cómo debe crecer y organizarse esta región metropolitana.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/sedatu-lanzara-consulta-sobre-programa-ordenacion-valle-mexico-debes-20260912-833179.html",
+    "source": "El Economista",
+    "published": "2026-09-12T09:55:26-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "“Debemos ralentizar”: CEO de Anthropic pide moderar el avance de los modelos de IA",
+    "summary": "Dario Amodei, CEO de Anthropic, pidió a las empresas de IA moderar el ritmo de mejora de sus modelos ante los crecientes riesgos de uso indebido, tras un informe de Anthropic que detalló cómo actores maliciosos usaron Claude para desarrollo de armas, operaciones cibernéticas y fraude. La alarma creció esta semana luego de que un investigador de Anthropic renunciara advirtiendo sobre riesgos existenciales de la IA antes de que termine la década.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/debemos-ralentizar-ceo-anthropic-pide-moderar-avance-modelos-ia-20260912-833211.html",
+    "source": "El Economista",
+    "published": "2026-09-12T09:50:19-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
     "language": "es",
     "light": false
   },
@@ -105,6 +182,17 @@
     "source": "Expansión",
     "published": "2026-09-11T22:24:58+00:00",
     "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
+    "summary": "Carlos Slim se deshizo de Porcelanite, su negocio de pisos, losetas y muebles de baño, por 710 millones de dólares.",
+    "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
+    "source": "Expansión",
+    "published": "2026-09-11T21:51:29+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 72,
     "language": "es",
     "light": false
@@ -572,6 +660,17 @@
     "light": false
   },
   {
+    "title": "MAD Reveals Design to Transform 1923 Warehouse Into Danshuis in Rotterdam",
+    "summary": "MAD Architects, founded by Ma Yansong, unveiled designs to transform a 1923 Art Deco warehouse in Rotterdam's historic docklands into Danshuis, a 9,500-square-meter dance center expected to open in 2030.",
+    "link": "https://www.archdaily.com/1184920/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam",
+    "source": "ArchDaily",
+    "published": "2026-09-11T06:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 65,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "¿Un impuesto mínimo sobre los ingresos de las empresas?",
     "summary": "El Paquete Económico 2027 no crea nuevos impuestos ni sube tasas generales, pero establece una tributación mínima para las empresas al modificar componentes del ISR, buscando elevar los ingresos tributarios a un máximo histórico de 15.9% del PIB. El análisis advierte que la estrategia recaudatoria de Hacienda descansa en mayor fiscalización y trazabilidad más que en cambios explícitos de tasas.",
     "link": "https://www.eleconomista.com.mx/opinion/impuesto-minimo-sobre-ingresos-empresas-20260911-833055.html",
@@ -580,6 +679,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 61,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Buenos Aires Architecture Biennial Celebrates 40 Years With a Free Program Under the Theme of Inhabiting",
+    "summary": "The Buenos Aires International Architecture Biennial marks its 40th anniversary with a free five-week program featuring roughly 100 firms, 15 exhibitions and 50 conferences, including a forum with 2026 Pritzker Prize winner Smiljan Radić.",
+    "link": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting",
+    "source": "ArchDaily",
+    "published": "2026-09-11T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -5386,116 +5496,6 @@
     "published": "2026-09-01T18:01:02+00:00",
     "category": "AI & Agents",
     "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Remesas enviadas a México ‘se sacuden el polvo’: Crecen 3% en julio y ligan seis meses al alza",
-    "summary": "México recibió 5,571 millones de dólares en remesas durante julio, un aumento anual de 3.0%, el más alto desde 2023, con lo que las remesas ligaron seis meses consecutivos de alzas según Banxico. El monto derivó de 13.1 millones de transacciones con un envío promedio de 426 dólares, acumulando 36,349 millones de dólares en lo que va del año.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/01/remesas-enviadas-a-mexico-se-sacuden-el-polvo-crecen-3-en-julio-y-ligan-seis-meses-al-alza/",
-    "source": "El Financiero",
-    "published": "2026-09-01T17:23:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Big Tech Is Incapable of Solving Its Own Problem, Says Mukunda",
-    "summary": "Bill Gates published a widely discussed essay saying he would slow AI development if he could, warning that industry insiders are privately more worried about the technology than they let on publicly. The discussion comes as a coalition of 51 US state attorneys general reached a settlement forcing Meta to restrict how children use Facebook and Instagram, underscoring growing distrust of tech's ability to self-regulate.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/big-tech-incapable-of-solving-its-own-problem-mukunda-video",
-    "source": "Bloomberg",
-    "published": "2026-09-01T16:50:36+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso, a la espera del informe de Gobierno de Sheinbaum: Así está el tipo de cambio",
-    "summary": "El peso mexicano se apreció 0.21% frente al dólar en la primera sesión de septiembre, cotizando en 16.96 unidades, mientras el mercado esperaba el Segundo Informe de Gobierno de Claudia Sheinbaum. Analistas señalaron que el diferencial de tasas de Banxico sigue amortiguando al peso, aunque el deterioro en las perspectivas manufactureras limita nuevas apreciaciones.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/01/peso-dolar-precio-hoy-1-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-01T16:05:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Casa Tepoztlán / DOSA STUDIO",
-    "summary": "En Tepoztlán, pueblo mágico de adobe y piedra volcánica, DOSA Studio diseñó una vivienda concebida para reflejar la identidad del sitio, combinando el paisaje con sistemas constructivos vernáculos de la región. El proyecto es un ejemplo reciente de arquitectura residencial mexicana contemporánea con fuerte arraigo local.",
-    "link": "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
-    "source": "ArchDaily",
-    "published": "2026-09-01T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Bartleby newsletter: Teamwork doesn’t make the machines work",
-    "summary": "The Economist's Bartleby column examines whether AI agents are actually capable of working together effectively inside organizations. Columnist Andrew Palmer questions the assumption that AI agent cooperation will translate smoothly into workplace productivity gains.",
-    "link": "https://www.economist.com/business/2026/09/01/bartleby-newsletter-teamwork-doesnt-make-the-machines-work",
-    "source": "The Economist",
-    "published": "2026-09-01T12:27:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México va por mayor escrutinio a inversión extranjera por seguridad nacional en línea con EE.UU.",
-    "summary": "La presidenta Claudia Sheinbaum envio al Senado una reforma a la Ley de Inversion Extranjera para imponer mayor escrutinio por seguridad nacional a las adquisiciones foraneas, alineando a Mexico con el regimen que ya aplican Estados Unidos, la Union Europea y la OCDE. La iniciativa llega dias antes de una nueva ronda de conversaciones entre los equipos mexicano y estadounidense en Washington.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-va-por-mayor-escrutinio-a-inversion-extranjera-por-seguridad-nacional-en-linea-con-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-01T12:15:45+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pemex y la credibilidad financiera del soberano",
-    "summary": "Un analisis retomado por El Financiero documenta como los rescates multimillonarios a Pemex, que ya superan 130,000 millones de dolares en la ultima decada, han deteriorado la percepcion de solvencia del Estado mexicano, llevando a que los bonos soberanos se negocien con rendimientos comparables a deuda de grado especulativo. El columnista advierte que este deterioro crediticio eleva el costo de financiamiento del pais pese a que un incumplimiento de Pemex sigue viendose poco probable.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/09/01/pemex-y-la-credibilidad-financiera-del-soberano/",
-    "source": "El Financiero",
-    "published": "2026-09-01T12:10:07+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La tecnología es el principal desafío para las empresas mexicanas: EY",
-    "summary": "Un estudio de EY encontró que la tecnología y la transformación digital son el principal desafío interno que enfrentarán las empresas mexicanas en los próximos tres años, citado por 26% de los directivos encuestados. La prioridad tecnológica en México superó incluso al crecimiento de participación de mercado, aunque quedó por debajo del promedio regional de América Latina.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/tecnologia-principal-desafio-empresas-mexicanas-ey-20260901-831286.html",
-    "source": "El Economista",
-    "published": "2026-09-01T12:07:58-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ares Venture Buys US Student Housing Properties for $435 Million",
-    "summary": "The Scion Group and Ares Management bought four US student housing communities for about $435 million, marking the second deal under their new investment partnership. The transaction underscores continued private-equity appetite for niche real estate asset classes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/ares-venture-buys-us-student-housing-properties-for-435-million",
-    "source": "Bloomberg",
-    "published": "2026-09-01T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Seattle Faces Housing Slowdown as AI Reshapes Employment",
-    "summary": "Bloomberg reports that Seattle's real estate market is slowing as AI reshapes local employment patterns and new taxes hit wealthy residents. The city, a major tech hub, offers an early look at how AI-driven job disruption can spill over into housing demand.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/seattle-faces-housing-slowdown-as-ai-reshapes-employment",
-    "source": "Bloomberg",
-    "published": "2026-09-01T11:30:06+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 63,
     "language": "en",
     "light": true
   }
