@@ -1,5 +1,104 @@
 [
   {
+    "title": "El gasto comprometido en pago de pensiones",
+    "summary": "El gasto en pensiones contributivas y no contributivas absorberá cerca de 2.5 billones de pesos del presupuesto federal de 2027, equivalente a 23.3% del gasto neto total y 6.3% del PIB, según analistas citados por El Financiero. La economista Alejandra Macías advierte que una cuarta parte del presupuesto ya se destina a pensiones, presionando el margen fiscal del gobierno.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/11/el-gasto-comprometido-en-pago-de-pensiones/",
+    "source": "El Financiero",
+    "published": "2026-09-12T03:35:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿El nuevo cuello de botella es el líder?",
+    "summary": "Una columna de El Financiero plantea que, aunque la inteligencia artificial aceleró la generación de análisis y propuestas, el nuevo cuello de botella en las empresas es la capacidad de revisión y decisión del líder. Cita un dato de Harvard Business Review según el cual 89% de los líderes describe un entorno agotador de revisión permanente, y argumenta que el valor del directivo está en aportar criterio y contexto que el análisis automatizado no captura.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/09/11/el-nuevo-cuello-de-botella-es-el-lider/",
+    "source": "El Financiero",
+    "published": "2026-09-12T02:58:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says",
+    "summary": "Nvidia is reportedly weighing an investment of up to $10 billion in Anthropic's initial public offering, which could rank as the largest IPO ever. The potential backing underscores the scale of capital chasing frontier AI labs and would deepen the Nvidia-Anthropic relationship ahead of a landmark public listing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
+    "source": "Bloomberg",
+    "published": "2026-09-11T23:19:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (7 al 11 de septiembre): De inflación y actividad industrial",
+    "summary": "El resumen semanal de El Economista destaca que la inflación en México se aceleró ligeramente en agosto, presionada por los precios de servicios, mientras Estados Unidos centró su atención en los datos de precios al consumidor y productor. También sobresalió la decisión de política monetaria del Banco Central Europeo.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-7-11-septiembre-inflacion-actividad-industrial-20260911-833193.html",
+    "source": "El Economista",
+    "published": "2026-09-11T22:39:37-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
+    "summary": "La Asociación de Bancos de México (ABM) y la Condusef alertaron sobre intentos de fraude mediante aplicaciones falsas de préstamos que instalan malware en los celulares de los usuarios. La advertencia busca proteger a los consumidores financieros ante el aumento de estafas digitales ligadas al crédito.",
+    "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
+    "source": "Expansión",
+    "published": "2026-09-11T21:37:31+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "KKR Wraps Up $2.1 Billion Leveraged Loan for Integer Acquisition",
+    "summary": "KKR finalized a $2.1 billion leveraged loan to fund its acquisition of medical-device maker Integer Holdings, securing more favorable terms amid strong investor demand for buyout financing. The deal signals continued appetite for large private-equity-backed LBOs despite a higher-rate environment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/kkr-wraps-up-2-1-billion-leveraged-loan-for-integer-acquisition",
+    "source": "Bloomberg",
+    "published": "2026-09-11T21:33:50+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why Bridgewater’s CIO Says AI’s Human Extinction Risk Is Real",
+    "summary": "Bridgewater co-CIO Greg Jensen, an early backer of both OpenAI and Anthropic, says fears about AI's existential risk are real and compares the current discourse to the early days of the Covid-19 pandemic. He argues governments need to act now on meaningful AI regulation rather than wait.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-ai-s-human-extinction-risk-is-real-video",
+    "source": "Bloomberg",
+    "published": "2026-09-11T19:28:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
+    "summary": "Apple's new always-listening AI features on the Apple Watch Series 12 and Ultra 4 could expose the company and users to legal risk under eavesdropping laws, according to legal experts. The case highlights how ambient AI capabilities are outpacing existing privacy and consent frameworks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+    "source": "Bloomberg",
+    "published": "2026-09-11T19:05:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CCE insta a la SHCP a mantener espacios de diálogo para construir propuestas que incentiven la inversión",
+    "summary": "Empresarios del CCE pidieron a la Secretaría de Hacienda mantener espacios de diálogo sobre el Paquete Económico 2027, subrayando la importancia de preservar el grado de inversión de México, un gasto público responsable y reglas claras para atraer inversión nacional y extranjera. El encuentro se dio poco después de que el organismo exigiera también un ejercicio más eficiente del gasto público.",
+    "link": "https://www.eleconomista.com.mx/empresas/cce-insta-shcp-mantener-espacios-dialogo-construir-propuestas-incentiven-inversion-20260911-833167.html",
+    "source": "El Economista",
+    "published": "2026-09-11T18:34:06-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI's Altman May Slow Down AI Development",
     "summary": "OpenAI CEO Sam Altman told employees the company may deliberately slow the pace of frontier AI development, potentially coordinating with other AI labs on timing. Bloomberg's Shirin Ghaffary reports the shift reflects growing internal and industry-wide caution about the race to build ever more powerful models.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-11/openai-s-altman-may-slow-down-ai-development-video",
@@ -55,6 +154,17 @@
     "light": true
   },
   {
+    "title": "Microsoft Plans Data Center Push to Triple Its Computing Power",
+    "summary": "Microsoft plans to more than triple its data center capacity after a computing shortage forced it to turn away AI and cloud business. The buildout reflects the scale of infrastructure investment still required to meet enterprise AI demand.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/microsoft-plans-data-center-push-video",
+    "source": "Bloomberg",
+    "published": "2026-09-11T16:44:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Contra todo pronóstico, tipo de cambio se resiste a cruzar los 17 pesos por dólar",
     "summary": "El peso mexicano se aprecia marginalmente frente al dólar, ubicándose en 16.96 pesos, pese a que la inflación en EU aceleró más de lo esperado en agosto. Analistas como Gabriela Siller de Banco Base anticipan que una posible alza de tasas de la Fed la próxima semana podría presionar al peso a la baja en las próximas semanas.",
     "link": "https://www.elfinanciero.com.mx/mercados/2026/09/11/peso-dolar-precio-hoy-11-de-septiembre-de-2026/",
@@ -73,6 +183,17 @@
     "published": "2026-09-11T16:17:25+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why the AI race has its creators fearing human extinction",
+    "summary": "The Financial Times reports that advances in autonomous AI agents and the bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears about AI's existential risk into mainstream discourse. The piece frames extinction-risk concerns as increasingly shaping how the AI industry's leading labs talk about their own technology.",
+    "link": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-11T16:11:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
     "language": "en",
     "light": true
   },
@@ -5375,127 +5496,6 @@
     "published": "2026-09-01T09:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Partners Group replaces chief as fund redemptions weigh on shares",
-    "summary": "Financial Times reports that Swiss private equity firm Partners Group is replacing its CEO, with David Layton stepping down in a planned succession after weaker performance in its flagship fund weighed on the firm's shares. Investor redemptions from the fund have added pressure on the manager.",
-    "link": "https://www.ft.com/content/0d5b67bd-a07f-47da-9e9b-505df1b4ff33?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-01T08:35:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Baidu’s AI Profits to Match Those From Search Soon, CFO Says",
-    "summary": "Baidu's finance chief said the company's AI investments could soon generate profits and cash payback comparable to its legacy search business, marking a turning point in its costly pivot away from its internet roots. The comments suggest AI monetization is beginning to prove out for major Chinese tech incumbents.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/baidu-s-ai-profits-to-match-those-from-search-soon-cfo-says",
-    "source": "Bloomberg",
-    "published": "2026-09-01T08:22:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "MiniMax Eyes AGI Milestone Tied to 1% of Global GDP Output",
-    "summary": "Chinese AI lab MiniMax says it will judge its progress toward artificial general intelligence by whether its models can generate output equivalent to 1% of global GDP, according to co-founder Yeyi Yun. The benchmark reflects the aggressive economic framing Chinese AI labs are using to describe AGI milestones.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/minimax-eyes-agi-milestone-tied-to-1-of-global-gdp-output",
-    "source": "Bloomberg",
-    "published": "2026-09-01T08:10:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dólar en América Latina: las monedas más fuertes y débiles en agosto, de México a Brasil",
-    "summary": "El peso mexicano lidero el desempeño cambiario entre las principales monedas de America Latina en agosto, un mes marcado por la debilidad inicial del dolar seguida de una recuperacion tras el discurso del presidente de la Fed, Kevin Warsh, en Jackson Hole. Bloomberg Linea repasa que monedas de la region ganaron y perdieron terreno frente al billete verde durante el mes.",
-    "link": "https://www.bloomberglinea.com/mercados/dolar-en-america-latina-las-monedas-mas-fuertes-y-debiles-en-agosto-de-mexico-a-brasil/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-01T08:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hidalgo suma 147,000 millones de pesos en inversiones comprometidas",
-    "summary": "El gobernador de Hidalgo, Julio Menchaca, anuncio que el estado acumula 147,000 millones de pesos en inversiones comprometidas durante su administracion, con una expectativa de generar cerca de 191,000 empleos. El anuncio se dio en el foro \"Es tiempo de Hidalgo, Potencia en Marcha\", donde el mandatario destaco la vinculacion estrategica con el sector privado.",
-    "link": "https://www.eleconomista.com.mx/estados/hidalgo-suma-147-000-millones-pesos-inversiones-comprometidas-20260901-831154.html",
-    "source": "El Economista",
-    "published": "2026-09-01T07:05:00-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Liderar o controlar? Las señales de que un gerente está cayendo en el micromanagement",
-    "summary": "El micromanagement, o supervision excesiva de un jefe sobre las decisiones de su equipo, suele confundirse con una buena gestion pero tiene efectos negativos en el desempeño y la autonomia de los colaboradores. Especialistas en liderazgo consultados por El Economista explican las señales que distinguen gestionar de controlar en exceso.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/liderar-controlar-senales-gerente-cayendo-micromanagement-20260901-831142.html",
-    "source": "El Economista",
-    "published": "2026-09-01T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic firma un acuerdo de computación en la nube por 35,000 millones de dólares con Lambda",
-    "summary": "Anthropic firmo un acuerdo de computo en la nube por 35,000 millones de dolares con Lambda, proveedor de nube respaldado por Nvidia, para construir un centro de datos de IA en el condado de Nueces, Texas. El proyecto, desarrollado por Hut 8 -antes dedicada a la mineria de criptomonedas-, tendra una capacidad de unos 350 megavatios.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-firma-acuerdo-computacion-nube-35-000-millones-dolares-lambda-20260901-831236.html",
-    "source": "El Economista",
-    "published": "2026-09-01T06:10:20-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
-    "summary": "Anthropic has agreed to a $35 billion computing deal with Lambda, an Nvidia-backed cloud provider, as part of a push to rapidly expand its AI capacity. The deal underscores the scale of infrastructure spending underpinning the current AI boom.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
-    "source": "Bloomberg",
-    "published": "2026-09-01T05:44:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sube deuda pública 32.6% durante la 4T",
-    "summary": "La deuda del sector publico federal mexicano se ubico en 20.6 billones de pesos en julio, un incremento de 32.6% respecto a diciembre de 2018, cuando inicio la administracion de Lopez Obrador. La cifra, reportada por Reforma, refleja el ritmo de acumulacion de pasivos publicos del pais en los ultimos años.",
-    "link": "https://www.reforma.com/sube-deuda-publica-32-6-durante-la-4t/ar3267709",
-    "source": "Reforma",
-    "published": "2026-09-01T05:01:16-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Nearshoring: Especialista Carlos Raphael de la Madrid adelanta que se requiere mayor almacenamiento eléctrico",
-    "summary": "El auge del nearshoring en México está generando una demanda creciente de electricidad en corredores industriales como Nuevo León, Coahuila y Querétaro, advirtió el especialista Carlos Raphael de la Madrid. Señaló que el almacenamiento eléctrico y la confiabilidad del suministro deben volverse prioridad estratégica para que el país consolide su posición como potencia manufacturera regional.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/08/31/nearshoring-especialista-carlos-raphael-de-la-madrid-adelanta-que-se-requiere-mayor-almacenamiento-electrico/",
-    "source": "El Financiero",
-    "published": "2026-09-01T04:44:07+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A real-world trial for work in the age of AI",
-    "summary": "The Financial Times argues that pensioners' behaviour offers real-world lessons about universal basic income, relevant as AI reshapes the nature of work. The piece frames retirement as an existing test case for how people behave when income is guaranteed without a job requirement.",
-    "link": "https://www.ft.com/content/337b3e33-88b9-462d-9dfb-d2f24c8e67d6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-01T04:00:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   }
