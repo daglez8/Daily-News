@@ -1,5 +1,49 @@
 [
   {
+    "title": "Paquete Económico 2027 deja consolidación fiscal pendiente y deuda con riesgo de aumento en México",
+    "summary": "El Paquete Económico 2027 de Hacienda presenta supuestos macroeconómicos más realistas, pero el CIEP advierte que la consolidación fiscal queda pendiente y la deuda pública muestra una tendencia creciente. Analistas de la Encuesta Citi proyectan un crecimiento económico más moderado que el estimado oficialmente para 2026 y 2027.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-deja-consolidacion-fiscal-pendiente-y-deuda-con-riesgo-de-aumento-en-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-12T12:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+    "summary": "A report from the China Telecom Research Institute says China's AI industry is shifting focus from competing on large models and compute power toward deploying and commercializing AI agents. The pivot signals a maturing strategy as Chinese firms look to monetize AI beyond raw model development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+    "source": "Bloomberg",
+    "published": "2026-09-12T09:37:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revisarán IP y SHCP tope de deducciones",
+    "summary": "El Consejo Coordinador Empresarial y la Secretaría de Hacienda revisarán los límites a las deducciones fiscales que aplican a las empresas mexicanas. La discusión se da en el marco de la negociación del Paquete Económico 2027 y su impacto en la carga tributaria corporativa.",
+    "link": "https://www.reforma.com/revisaran-ip-y-shcp-tope-de-deducciones/ar3274897",
+    "source": "Reforma",
+    "published": "2026-09-12T05:00:38-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Brotan bienes y fortuna a Romero por 47 mdp",
+    "summary": "Al director del Infonavit, Octavio Romero, le surgieron inmuebles y cuentas bancarias por 47 millones de pesos tras verse obligado a transparentar su patrimonio. El caso genera cuestionamientos sobre la gobernanza del organismo encargado del financiamiento de vivienda en México.",
+    "link": "https://www.reforma.com/brotan-bienes-y-fortuna-a-romero-por-47-mdp/ar3274896",
+    "source": "Reforma",
+    "published": "2026-09-12T05:00:38-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "El gasto comprometido en pago de pensiones",
     "summary": "El gasto en pensiones contributivas y no contributivas absorberá cerca de 2.5 billones de pesos del presupuesto federal de 2027, equivalente a 23.3% del gasto neto total y 6.3% del PIB, según analistas citados por El Financiero. La economista Alejandra Macías advierte que una cuarta parte del presupuesto ya se destina a pensiones, presionando el margen fiscal del gobierno.",
     "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/11/el-gasto-comprometido-en-pago-de-pensiones/",
@@ -18,6 +62,17 @@
     "published": "2026-09-12T02:58:00+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
+    "summary": "La Secretaría de Hacienda incrementó los estímulos fiscales a las gasolinas Magna y Premium, y eximió por completo el IEPS al diésel para la semana del 12 al 18 de septiembre. La medida responde a que los precios internacionales del petróleo acumularon una subida de más de 9% en la semana.",
+    "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
+    "source": "Expansión",
+    "published": "2026-09-12T00:28:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -44,6 +99,17 @@
     "light": false
   },
   {
+    "title": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
+    "summary": "Pemex registra pérdidas mensuales de 1,756 millones de pesos derivadas de la contención de precios de gasolina y diésel que aplica el gobierno mexicano. La medida busca amortiguar el impacto de la subida internacional del petróleo sobre los consumidores, a costa de las finanzas de la petrolera estatal.",
+    "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
+    "source": "Expansión",
+    "published": "2026-09-11T22:24:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
     "summary": "La Asociación de Bancos de México (ABM) y la Condusef alertaron sobre intentos de fraude mediante aplicaciones falsas de préstamos que instalan malware en los celulares de los usuarios. La advertencia busca proteger a los consumidores financieros ante el aumento de estafas digitales ligadas al crédito.",
     "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
@@ -62,6 +128,17 @@
     "published": "2026-09-11T21:33:50+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kalshi Moves to Expand Into US Stock and Commodity Markets",
+    "summary": "Prediction-market platform Kalshi is seeking regulatory approval to offer the first single-stock perpetual futures in the US and plans to expand its commodity contracts into agriculture. The move signals prediction markets pushing further into territory traditionally held by regulated exchanges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/kalshi-moves-to-expand-into-us-stock-and-commodity-markets",
+    "source": "Bloomberg",
+    "published": "2026-09-11T19:54:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -5419,83 +5496,6 @@
     "published": "2026-09-01T11:30:06+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Generación afore: ¿quieres una renta vitalicia en tu retiro? Esto debes tener de ahorro pensionario",
-    "summary": "El artículo explica cómo funciona la renta vitalicia, uno de los cuatro esquemas de retiro disponibles para los trabajadores de la 'generación afore' que cotizaron al IMSS después de 1997. Bajo este esquema, una aseguradora se compromete a pagar una pensión mensual fija, ajustada por inflación, a cambio del saldo acumulado en la cuenta individual del trabajador.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/generacion-afore-quieres-renta-vitalicia-retiro-esto-debes-ahorro-pensionario-20260901-829191.html",
-    "source": "El Economista",
-    "published": "2026-09-01T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Finanzas personales e IA: cómo aprovechar la herramienta en mi organización de forma segura",
-    "summary": "El artículo explora cómo usar herramientas de IA como ChatGPT, Gemini o Claude para resolver dudas de finanzas personales, desde tarjetas de crédito hasta inversión y ahorro. Expertos consultados advierten que la IA no sustituye a un asesor financiero profesional y que sus respuestas deben verificarse antes de tomar decisiones.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/finanzas-personales-e-ia-aprovechar-herramienta-mi-organizacion-forma-segura-20260901-831146.html",
-    "source": "El Economista",
-    "published": "2026-09-01T10:55:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Job Risks Spread to PR, Web Development and Hotel Workers",
-    "summary": "Bloomberg reports that AI-driven job displacement risk is spreading beyond early-hit sectors into PR, web development and hotel work, as the US labor market shows continued softness. The trend adds to evidence that AI's impact on employment is broadening across white-collar and service roles.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
-    "source": "Bloomberg",
-    "published": "2026-09-01T10:29:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Felix Pago Raises $200 Million to Expand Into Financial Services",
-    "summary": "Money-transfer startup Felix Pago raised $200 million to expand beyond remittances into lending and savings products for Latin American immigrants in the US. The funding signals continued investor appetite for fintechs targeting the LatAm diaspora with broader financial services.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services",
-    "source": "Bloomberg",
-    "published": "2026-09-01T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Monashees abre con Google y B3 un hub para startups de IA en Brasil con alcance global",
-    "summary": "La firma de capital de riesgo Monashees inauguro Gama House, un espacio para startups de inteligencia artificial en Sao Paulo, en asociacion con Google for Startups y la bolsa brasileña B3. La iniciativa busca impulsar negocios de IA latinoamericanos con proyeccion global.",
-    "link": "https://www.bloomberglinea.com/tecnologia/innovacion/monashees-abre-con-google-y-b3-un-hub-para-startups-de-ia-en-brasil-con-alcance-global/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-01T09:50:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EU, el mercado de mil 500 millones de dólares que Viva Aerobus y Volaris quieren ampliar con su fusión",
-    "summary": "Viva Aerobus y Volaris avanzaran el jueves 3 de septiembre en su proceso de fusion con una sesion extraordinaria para definir la integracion del Consejo de Administracion del nuevo Grupo Mas Vuelos y ajustar sus estatutos a los requerimientos de la Secretaria de Economia. La operacion busca consolidar una estructura mas eficiente en el mercado aereo Mexico-Estados Unidos, valuado en 1,500 millones de dolares.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/01/eu-el-mercado-de-mil-500-millones-de-dolares-que-viva-aerobus-y-volaris-quieren-ampliar-con-su-fusion/",
-    "source": "El Financiero",
-    "published": "2026-09-01T09:24:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deere Launches AI Assistant Named JD to Guide Farmers’ Choices",
-    "summary": "Deere & Co. launched an AI assistant called JD, built into its Operations Center mobile app, to help farmers make sense of the data collected by their high-tech tractors. The tool illustrates how established industrial companies are embedding AI agents directly into customer workflows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/deere-launches-ai-assistant-named-jd-to-guide-farmers-choices",
-    "source": "Bloomberg",
-    "published": "2026-09-01T09:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
     "language": "en",
     "light": true
   }
