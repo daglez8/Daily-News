@@ -1,5 +1,38 @@
 [
   {
+    "title": "Xi Pitches AI Vision at BRICS Summit as China Duels With US",
+    "summary": "Chinese President Xi Jinping used the BRICS summit in New Delhi to promote Beijing's vision for artificial intelligence, seeking to expand China's global influence over the technology. The pitch comes as China and the US continue to compete for leadership in AI development and standard-setting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+    "source": "Bloomberg",
+    "published": "2026-09-13T09:10:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's AI Warning May Weigh on Chips, But Trade Seen Intact",
+    "summary": "AI executives' calls to slow the development of increasingly powerful models are likely to pressure chipmaker and AI supply-chain stocks in the near term, market watchers say. However, they expect the long-term impact to be limited, since spending on computing infrastructure remains strong despite the safety warnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+    "source": "Bloomberg",
+    "published": "2026-09-13T08:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los 10 principios del liderazgo estoico",
+    "summary": "El liderazgo estoico propone que los directivos apliquen razonamiento, autocontrol y aceptación de los límites del control para tomar mejores decisiones bajo presión. Esta corriente sostiene que enfocarse solo en lo que se puede cambiar mejora la gestión de riesgos, la comunicación con los empleados y la resiliencia organizacional. Sus defensores argumentan que el carácter y la integridad se forjan en los momentos difíciles, más allá de la lógica de \"solo son negocios\".",
+    "link": "https://www.eleconomista.com.mx/el-empresario/10-principios-liderazgo-estoico-20260913-832658.html",
+    "source": "El Economista",
+    "published": "2026-09-13T06:12:40-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
     "summary": "PwC is combining its US and Indian outsourcing and advisory units into a single 40,000-person joint venture. The move comes as AI-driven automation increasingly threatens traditional consulting and outsourcing revenue across the Big Four.",
     "link": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
@@ -8,6 +41,17 @@
     "category": "AI & Agents",
     "relevance_score": 62,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Coinciden gigantes de la IA en bajar su ritmo",
+    "summary": "Anthropic, OpenAI, xAI y Google DeepMind coincidieron en que deben moderar el ritmo de desarrollo de sus modelos de inteligencia artificial ante los riesgos que representan para los humanos. El llamado conjunto de estas empresas rivales marca un raro consenso sobre la necesidad de mayor cautela en la carrera por sistemas de IA cada vez más avanzados.",
+    "link": "https://www.reforma.com/coinciden-gigantes-de-la-ia-en-bajar-su-ritmo/ar3275178",
+    "source": "Reforma",
+    "published": "2026-09-13T05:01:14-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
     "light": true
   },
   {
@@ -99,6 +143,17 @@
     "light": false
   },
   {
+    "title": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+    "summary": "Oracle Chairman Larry Ellison canceled his plan to sell as many as 50 million shares, a stake worth $7.5 billion, just a day after the company disclosed the founder's divestment plan. The reversal comes as Oracle faces scrutiny over how it is financing its massive AI data-center buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/larry-ellison-scraps-plan-to-sell-up-to-50-million-oracle-shares",
+    "source": "Bloomberg",
+    "published": "2026-09-12T16:33:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "India’s central bank tells Tata Sons to take conglomerate public",
     "summary": "India's central bank has rejected Tata Sons' appeal to avoid a forced public listing, clearing the way for what could become India's largest-ever IPO. The ruling forces the sprawling conglomerate to go public despite its efforts to remain private.",
     "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
@@ -128,6 +183,17 @@
     "published": "2026-09-12T14:27:14+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
+    "summary": "Leaders of the world's biggest AI companies, including Anthropic's Dario Amodei, OpenAI's Sam Altman and Elon Musk, said it's time to slow the development pace of their most advanced and lucrative models. They cited escalating risks from the technology, marking a rare moment of unity among typically warring rivals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+    "source": "Bloomberg",
+    "published": "2026-09-12T14:17:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
     "language": "en",
     "light": true
   },
@@ -337,6 +403,17 @@
     "published": "2026-09-11T21:33:50+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Oracle Boosts Layoffs Plan by $700 Million",
+    "summary": "Oracle increased the scale of its planned job cuts as the company grapples with a cash crunch tied to the buildout of large-scale AI data centers. The move underscores the financial strain some tech giants face in funding the current wave of AI infrastructure investment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+    "source": "Bloomberg",
+    "published": "2026-09-11T21:13:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -5421,82 +5498,5 @@
     "relevance_score": 90,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Petróleo y tasas largas golpean a Wall Street; el peso resiste en 16.99 por dólar",
-    "summary": "Un repunte del petróleo y el alza en tasas largas presionaron a los mercados en Wall Street, mientras el peso mexicano se mantuvo relativamente estable en 16.99 por dólar. La resiliencia de la moneda contrasta con la volatilidad observada en bonos y acciones estadounidenses.",
-    "link": "https://expansion.mx/mercados/2026/09/01/petroleo-tasas-largas-wall-street-peso-16-99-por-dolar",
-    "source": "Expansión",
-    "published": "2026-09-01T22:47:26+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
-    "summary": "Un consorcio de 21 grandes bancos globales está preparando el lanzamiento de una stablecoin denominada en dólares para 2027, con planes de extender el proyecto a una versión en euros. La iniciativa refleja el creciente interés de la banca tradicional por entrar directamente en infraestructura de activos digitales.",
-    "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
-    "source": "Expansión",
-    "published": "2026-09-01T22:20:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Europe’s bond markets are suffering a post-holiday shock",
-    "summary": "Europe's bond markets are suffering a post-holiday shock, with yields rising sharply as investors return from summer break. The drivers differ somewhat from those pushing up US yields, but are no less problematic for the region's fiscal outlook.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
-    "source": "The Economist",
-    "published": "2026-09-01T21:58:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dell Sees Surge in AI Server Sales, Boosts Outlook",
-    "summary": "Dell Technologies raised its annual sales forecast by $25 billion after seeing surging demand for servers built to run AI workloads. Shares jumped on the news, with analysts pointing to Dell's dominant position in the AI hardware supply chain.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/dell-sees-surge-in-ai-server-sales-boosts-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-09-01T21:03:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vanguard, BlackRock ETF Shuffle Lets Foreign Investors Duck US Tax",
-    "summary": "Major asset managers including Vanguard and BlackRock are shifting foreign investors between near-identical equity ETFs to help them avoid the 30% US tax on dividends. The maneuver highlights a growing tax-arbitrage strategy in the ETF industry.",
-    "link": "https://www.bloomberg.com/graphics/2026-etf-foreign-investors-tax-dodge/",
-    "source": "Bloomberg",
-    "published": "2026-09-01T21:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dropbox User Accounts Breached by Hackers Who Accessed Data",
-    "summary": "Hackers broke into thousands of Dropbox accounts last month, viewing and downloading material users had stored on the cloud platform, according to a company statement and records reviewed by Bloomberg. The breach adds to a string of high-profile cloud-storage security incidents this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dropbox-user-accounts-breached-by-hackers-some-data-accessed",
-    "source": "Bloomberg",
-    "published": "2026-09-01T20:59:55+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cetes le ganan a la inflación, pero solo un plazo rebasa el 7% de rendimiento",
-    "summary": "Los Certificados de la Tesorería (Cetes) están rindiendo por encima de la inflación en México, aunque solo el plazo más largo supera el 7% de rendimiento. El dato es relevante para inversionistas que evalúan instrumentos de deuda de corto plazo frente al entorno actual de tasas.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/01/que-plazo-de-cetes-paga-mas-tasas-1-3-6-12-meses",
-    "source": "Expansión",
-    "published": "2026-09-01T20:55:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
