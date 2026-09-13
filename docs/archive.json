@@ -1,5 +1,49 @@
 [
   {
+    "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
+    "summary": "Anthropic has selected Nasdaq as the listing venue for its anticipated initial public offering, according to a person familiar with the matter. The IPO is expected to be one of the largest in recent years, underscoring investor appetite for leading AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
+    "source": "Bloomberg",
+    "published": "2026-09-13T18:03:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Donald Trump rejects calls from tech bosses for an AI slowdown",
+    "summary": "President Trump publicly dismissed demands from technology executives to slow the pace of AI development, denouncing calls for tighter regulation. The clash pushes existential fears over the technology to the center of US politics as industry and government diverge on how to manage AI risk.",
+    "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-13T15:42:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Rogue AI Breakouts Raise Pressure for New Rules",
+    "summary": "Incidents involving autonomous AI agents acting unexpectedly are fueling concern that voluntary industry safeguards and government oversight are failing to keep pace with AI capability gains. Commentators argue stronger independent oversight and legal accountability may be needed as systems grow more autonomous.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-13/rogue-ai-breakouts-raise-pressure-for-new-rules",
+    "source": "Bloomberg",
+    "published": "2026-09-13T13:13:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Restringir IA en exceso puede beneficiar a China, dice presidente de Cámara de Representantes de EU",
+    "summary": "Mike Johnson, presidente de la Cámara de Representantes de EU, advirtió que frenar demasiado rápido el desarrollo de la inteligencia artificial podría hacer que su país pierda la carrera tecnológica frente a China. Propuso una reunión en el Congreso con altos ejecutivos de IA antes de legislar, en medio de un creciente coro de voces que piden mayor cautela.",
+    "link": "https://www.eleconomista.com.mx/internacionales/restringir-ia-exceso-beneficiar-china-dice-presidente-camara-representantes-eu-20260913-833272.html",
+    "source": "El Economista",
+    "published": "2026-09-13T10:04:45-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Xi Pitches AI Vision at BRICS Summit as China Duels With US",
     "summary": "Chinese President Xi Jinping used the BRICS summit in New Delhi to promote Beijing's vision for artificial intelligence, seeking to expand China's global influence over the technology. The pitch comes as China and the US continue to compete for leadership in AI development and standard-setting.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
@@ -9,6 +53,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "OpenAI asegura haber resuelto Navier-Stokes: ¿qué Problemas del Milenio quedarían pendientes?",
+    "summary": "Una inteligencia artificial de OpenAI asegura haber encontrado una solución a las ecuaciones de Navier-Stokes, uno de los siete Problemas del Milenio con una recompensa de un millón de dólares. El Clay Mathematics Institute aún no valida el resultado, por lo que oficialmente el problema sigue sin resolverse mientras la comunidad matemática revisa el hallazgo.",
+    "link": "https://www.eleconomista.com.mx/arteseideas/openai-asegura-haber-resuelto-navier-stokes-problemas-milenio-quedarian-pendientes-20260913-833266.html",
+    "source": "El Economista",
+    "published": "2026-09-13T09:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Anthropic's AI Warning May Weigh on Chips, But Trade Seen Intact",
@@ -238,6 +293,17 @@
     "published": "2026-09-12T12:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dólares físicos, digitales o stablecoins: usos, diferencias y desventajas",
+    "summary": "Con la TRM a la baja en Colombia, un especialista explica que \"dólar digital\" agrupa productos muy distintos entre sí, y que antes de dolarizarse conviene entender qué producto se compra, quién custodia el dinero y bajo qué regulación opera. La elección entre dólares físicos, cuentas digitales o stablecoins depende del propósito de los fondos, ya sea viajar o invertir.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/dolares-fisicos-digitales-o-stablecoins-usos-diferencias-y-desventajas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-12T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
@@ -5430,72 +5496,6 @@
     "published": "2026-09-02T04:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 73,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Partner Gets Strong Demand for Rare GPU-Tied Loan in Asia",
-    "summary": "GMI Cloud, an Nvidia partner, secured commitments for more than double the funding it sought in a loan backed by revenue from selling computing power on advanced chips. The deal signals growing investor appetite for novel financing structures tied to AI compute demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-partner-gets-strong-demand-for-rare-gpu-tied-loan-in-asia",
-    "source": "Bloomberg",
-    "published": "2026-09-02T02:45:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Es la inversión extranjera un asunto de seguridad nacional?",
-    "summary": "El artículo analiza el impulso para reformar la regulación de inversión extranjera en México, originado por presiones de Estados Unidos -primero con Yellen, ahora con el equipo de Trump- para esclarecer la magnitud real de la inversión china en el país. La tensión entre EU y China ha intensificado las exigencias hacia México para que tome distancia de Beijing en materia de inversión extranjera.",
-    "link": "https://www.eleconomista.com.mx/opinion/inversion-extranjera-asunto-seguridad-nacional-20260902-831446.html",
-    "source": "El Economista",
-    "published": "2026-09-02T01:22:28-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Presupuesto 2027: el persistente riesgo de insostenibilidad fiscal",
-    "summary": "La deuda pública de México casi se ha duplicado desde 2019, alcanzando 55% del PIB de forma oficial, aunque el FMI la calcula en más de 62%, por encima del umbral de riesgo para economías emergentes. El diseño presupuestal hacia 2027 dificultará avanzar de forma convincente hacia la sostenibilidad fiscal, dado el bajo crecimiento económico del país.",
-    "link": "https://www.eleconomista.com.mx/opinion/presupuesto-2027-persistente-riesgo-insostenibilidad-fiscal-20260902-831445.html",
-    "source": "El Economista",
-    "published": "2026-09-02T01:19:34-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paquete Económico 2027 garantizará consolidación fiscal paulatina: CSP",
-    "summary": "La presidenta Claudia Sheinbaum adelantó que el Paquete Económico 2027, a entregarse el 8 de septiembre, garantizará una consolidación fiscal paulatina sin sacrificar inversión pública ni gasto en bienestar, salud y educación. El déficit fiscal cerró 2024 en un nivel histórico de 5.8% del PIB y se ubicó en 4.8% el año pasado pese a recortes de gasto, presionado por los apoyos a Pemex.",
-    "link": "https://www.eleconomista.com.mx/economia/paquete-economico-2027-garantizara-consolidacion-fiscal-paulatina-csp-20260902-831444.html",
-    "source": "El Economista",
-    "published": "2026-09-02T01:12:40-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
-    "summary": "AI coding startup Cognition AI is close to closing a new funding round that would value it at about $47 billion, according to people familiar with the effort. The jump underscores investors' continued appetite for AI coding and agentic-software companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-09-02T00:29:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 83,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Nears $14 Billion Hugging Face Deal This Week",
-    "summary": "Nvidia is in advanced talks to acquire AI startup Hugging Face in a transaction that could total around $14 billion, according to people familiar with the matter. The deal would be one of the largest AI acquisitions to date, deepening Nvidia's push beyond chips into the AI software and model ecosystem.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
-    "source": "Bloomberg",
-    "published": "2026-09-02T00:15:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
     "language": "en",
     "light": true
   }
