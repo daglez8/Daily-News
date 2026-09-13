@@ -1,5 +1,82 @@
 [
   {
+    "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
+    "summary": "PwC is combining its US and Indian outsourcing and advisory units into a single 40,000-person joint venture. The move comes as AI-driven automation increasingly threatens traditional consulting and outsourcing revenue across the Big Four.",
+    "link": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-13T05:40:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Boom-era PE funds will fall short on promises, executives warn",
+    "summary": "Private equity funds raised during the 2019-2021 dealmaking boom are on track to fall short of the return targets promised to investors, industry executives warn. Inflated purchase prices from that frenzied fundraising period are now colliding with a tougher exit environment.",
+    "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-13T04:00:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+    "summary": "China's data regulator plans to develop national standards for embodied AI and will guide local authorities on implementation, as demand grows for large, high-quality AI training datasets. The push reflects Beijing's effort to standardize infrastructure for physical AI systems like robots as the sector scales up.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+    "source": "Bloomberg",
+    "published": "2026-09-13T03:29:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam",
+    "summary": "Revolut said a limited number of customers had sensitive data exposed after a scammer used a spoofed government email domain to carry out a phishing-style attack. The fintech said it was a third-party scam rather than an internal breach, and did not disclose how many accounts were affected.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam",
+    "source": "Bloomberg",
+    "published": "2026-09-12T22:59:58+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
+    "summary": "OpenAI CEO Sam Altman said the company will not go public in 2026, telling Fortune it wants to prioritize addressing safety concerns around its technology first. The comments push back on speculation about a near-term listing for the AI leader.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+    "source": "Bloomberg",
+    "published": "2026-09-12T19:36:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+    "summary": "Rival AI executives Sam Altman and Elon Musk have both voiced support for Anthropic CEO Dario Amodei's call to slow the pace of AI model development. The rare alignment among competing tech leaders reflects growing concern that humans could lose control over increasingly capable AI systems.",
+    "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-12T18:14:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México quita el 100% del impuesto al diésel tras escalada de la guerra",
+    "summary": "El gobierno mexicano eliminó por completo el impuesto (IEPS) al diésel, elevando el subsidio de 90% a 100%, tras el alza de precios del crudo provocada por la guerra entre Estados Unidos e Irán. Hacienda también incrementó fuertemente los subsidios a las gasolinas regular y premium para amortiguar el impacto en los consumidores mexicanos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-quita-el-100-del-impuesto-al-diesel-tras-escalada-de-la-guerra/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-12T16:44:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
     "summary": "El Banco de México modificará la forma en que se realizan las transferencias bancarias en el país, aunque la CLABE como identificador de cuentas se mantendrá vigente.",
     "link": "https://expansion.mx/finanzas-personales/2026/09/02/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias",
@@ -9,6 +86,39 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
+    "summary": "El Banco de México anunció que la CLABE no desaparecerá, pero cambiará el mecanismo con el que se realizan las transferencias bancarias en el país. La medida forma parte de ajustes a la infraestructura de pagos del sistema financiero mexicano.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/02/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias Remove",
+    "source": "Expansión",
+    "published": "2026-09-12T16:34:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "India’s central bank tells Tata Sons to take conglomerate public",
+    "summary": "India's central bank has rejected Tata Sons' appeal to avoid a forced public listing, clearing the way for what could become India's largest-ever IPO. The ruling forces the sprawling conglomerate to go public despite its efforts to remain private.",
+    "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-12T16:20:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Energy Driven Inflation Complicates Fed Rate Call",
+    "summary": "PNC's Amanda Agati says the Fed faces a difficult decision as energy-driven inflation pushes markets toward expectations of higher interest rates, warning further tightening risks a policy error. She noted investors are also adjusting to prospects of a prolonged Iran war even as strong corporate earnings ease near-term concerns about AI spending.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-12/energy-driven-inflation-complicates-fed-rate-call-video",
+    "source": "Bloomberg",
+    "published": "2026-09-12T15:11:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
   },
   {
     "title": "AI Agents Test the Limits of Human Control",
@@ -97,6 +207,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Enfoques de Warsh y Bessent comparten fallas y son inconsistentes entre sí, según BofA",
+    "summary": "Bank of America advierte que los enfoques del secretario del Tesoro Scott Bessent y el presidente de la Fed Kevin Warsh comparten una falla común pese a partir de posturas distintas frente a los mercados: mientras Bessent busca influir en los precios que emite el mercado, Warsh busca leer señales de esos mismos precios, lo que puede generar distorsiones. BofA advierte que esta tensión es especialmente relevante para el mercado de bonos del Tesoro estadounidense.",
+    "link": "https://www.bloomberglinea.com/mercados/enfoques-de-warsh-y-bessent-comparten-fallas-y-son-inconsistentes-entre-si-segun-bofa/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-12T06:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Revisarán IP y SHCP tope de deducciones",
@@ -218,6 +339,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "S&P 500 cierra al alza entre la caída del petróleo y apuestas de que la Fed subirá las tasas",
+    "summary": "El S&P 500 cerró al alza el viernes, rompiendo una racha de cuatro sesiones de pérdidas, impulsado por la caída del petróleo que alivió parte de las preocupaciones por inflación. Sin embargo, un IPC subyacente superior a lo esperado elevó las apuestas del mercado a casi 90% de probabilidad de que la Fed suba las tasas en su reunión del 15 y 16 de septiembre.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-sube-entre-el-impulso-de-oracle-la-caida-del-crudo-y-la-inflacion-que-presiona-a-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-11T20:05:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Kalshi Moves to Expand Into US Stock and Commodity Markets",
@@ -5366,137 +5498,5 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Palo Alto Networks Profit Outlook Tops Estimates, Margins Narrow",
-    "summary": "Cybersecurity firm Palo Alto Networks issued a profit outlook that beat Wall Street estimates, driven by corporate demand for stronger defenses against advancing AI-powered threats. The results point to AI cybersecurity as a durable growth driver even as margins came in tighter than expected.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/palo-alto-networks-tops-profit-outlook-on-ai-security-demand",
-    "source": "Bloomberg",
-    "published": "2026-09-01T20:15:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dell Shares Rise After Boosting Sales Outlook by $25 Billion",
-    "summary": "Dell shares jumped after the company raised its annual sales outlook by $25 billion, citing surging demand for servers to run AI workloads. The forecast increase signals continued strength in enterprise AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dell-raises-annual-revenue-outlook-on-sustained-ai-server-sales",
-    "source": "Bloomberg",
-    "published": "2026-09-01T20:07:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum reconoce dificultades para México por aranceles de EE.UU. pero destaca nuevas inversiones",
-    "summary": "La presidenta Sheinbaum reconoció que los aranceles de Estados Unidos a autos (25%) y a aluminio y acero (50%) han generado dificultades para México, aunque destacó que el país ha seguido atrayendo inversión. La Oficina de Presidencia aprobó 19 proyectos por 3,760 millones de dólares en cuatro meses como parte del Plan México, con una reducción del 60% en trámites.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-reconoce-dificultades-para-mexico-por-aranceles-de-eeuu-pero-destaca-nuevas-inversiones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-01T19:33:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IPO booms can spell trouble for the markets",
-    "summary": "The Economist notes that IPO booms tend to happen during good times that may not last, warning that a surge of new listings can signal trouble ahead for markets. Historical patterns suggest hot IPO markets often precede a downturn.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
-    "source": "The Economist",
-    "published": "2026-09-01T19:03:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vivienda E.ME / INDARQ",
-    "summary": "El estudio mexicano INDARQ diseñó E.ME House, una vivienda compacta conectada con su territorio y paisaje, que emplea el tabique de tres huecos en distintas configuraciones como material protagonista. El proyecto ilustra tendencias actuales en arquitectura residencial mexicana centradas en materiales locales y espacios compactos.",
-    "link": "https://www.archdaily.com/1184391/vivienda-eme-indarq",
-    "source": "ArchDaily",
-    "published": "2026-09-01T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 61,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SEC Preps Plan to Widen Investor Access to Private Markets",
-    "summary": "The US Securities and Exchange Commission is preparing a plan to widen retail investor access to private markets and let investment advisers charge performance fees to a broader set of clients. The move could open new channels of capital into private equity and other alternative asset classes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/sec-preps-plan-to-widen-investor-access-to-private-markets",
-    "source": "Bloomberg",
-    "published": "2026-09-01T18:37:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI hits college graduates in the heart of America’s data centre boom",
-    "summary": "New research shows job postings for AI-exposed occupations have dropped in Texas, a hub of America's data-centre construction. The finding points to an early, uneven labor-market impact from AI adoption even as infrastructure investment in the sector keeps surging.",
-    "link": "https://www.ft.com/content/9334212a-3cc4-426c-9cbe-57cb48033603?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-01T18:28:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "LSE to Roll Out Tokenized Stocks",
-    "summary": "The London Stock Exchange is planning to launch tokenized stocks backed by shares of London-listed companies as it moves to embrace digital-asset infrastructure. The initiative signals a major traditional exchange's growing push into blockchain-based trading.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/lse-to-roll-out-tokenized-stocks-video",
-    "source": "Bloomberg",
-    "published": "2026-09-01T18:25:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mercado Pago apuesta por las pymes en crecimiento con Cuenta Negocio",
-    "summary": "Mercado Pago lanzó Cuenta Negocio, un producto dirigido a pymes en crecimiento que concentra cobros, financiamiento, gestión de inventarios y facturación dentro de su plataforma. El lanzamiento responde a que las pequeñas empresas mexicanas enfrentan crecientes retos de liquidez y acceso a capital conforme escalan sus operaciones.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/09/01/mercado-pago-apuesta-por-las-pymes-en-crecimiento-con-cuenta-negocio/",
-    "source": "El Financiero",
-    "published": "2026-09-01T18:23:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
-    "summary": "Según Expansión, Flō Networks prepara una oferta para adquirir Axtel, la empresa mexicana de telecomunicaciones, luego de que Tomás Milmo diera a conocer previamente una propuesta de compra por la compañía.",
-    "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
-    "source": "Expansión",
-    "published": "2026-09-01T18:23:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Can the US AI Boom Survive Data Center Backlash?",
-    "summary": "Data centers are becoming a flashpoint in US political races as voters raise concerns over rising power costs from the AI infrastructure buildout. Industry executive Jason Oxman argues continued investment is essential to compete with China in AI, even as calls to restrict new projects grow.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/can-the-us-ai-boom-survive-data-center-backlash-video",
-    "source": "Bloomberg",
-    "published": "2026-09-01T18:08:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Says New Fable 5.1 AI Model Is Cheaper, Better at Coding",
-    "summary": "Anthropic released a new version of its Fable AI model, saying it is more economical while performing better at coding and science tasks. The company said the changes were made directly in response to customer feedback.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
-    "source": "Bloomberg",
-    "published": "2026-09-01T18:01:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
   }
 ]
