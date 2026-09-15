@@ -1,5 +1,192 @@
 [
   {
+    "title": "AI is exciting audit firms — maybe too much",
+    "summary": "Major audit firms including KPMG and EY are rapidly adopting AI tools, but the Financial Times reports the technology still requires human oversight to catch errors and judgment calls machines can't make. The rapid rollout raises questions about whether audit quality controls are keeping pace with adoption.",
+    "link": "https://www.ft.com/content/0b2c5b87-c743-4c0f-9fbd-117ae27d6b0b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-15T04:00:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Media Dismisses Amodei's 'Self-Serving' AI Safety Call",
+    "summary": "Chinese state media dismissed calls by Anthropic CEO Dario Amodei and other US AI executives to slow frontier model development as a 'self-serving' tactic to blunt Chinese competition. The rebuke underscores how the US-China AI race is shaping the global debate over safety guardrails.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
+    "source": "Bloomberg",
+    "published": "2026-09-15T03:52:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post",
+    "summary": "A researcher who recently resigned from Google DeepMind warned in an exit post that humanity is running out of time to prevent AI from causing widespread harm. The departure adds to a growing list of AI insiders publicly voicing safety concerns about the pace of frontier development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+    "source": "Bloomberg",
+    "published": "2026-09-15T02:39:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Traxion lanzará OPA por hasta el 100% de sus acciones ante un deterioro macroeconómico y geopolítico",
+    "summary": "Grupo Traxion anunció una oferta pública de adquisición voluntaria por hasta el 100% de sus acciones en circulación, a un precio de 13.18 pesos por acción -una prima superior al 20%- ante el deterioro macroeconómico y geopolítico que ha afectado su cotización. La empresa no anticipa una recuperación del entorno en los próximos dos o tres trimestres.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-traxion-inicia-proceso-para-salir-de-la-bolsa-mexicana-de-valores/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-15T01:26:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
+    "summary": "ANZ Group CEO Nuno Matos warned of unpredictable risks tied to artificial intelligence and declined to rule out large-scale job cuts as the bank adopts the fast-evolving technology. His comments follow public warnings from Elon Musk and Sam Altman about AI's pace of development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
+    "source": "Bloomberg",
+    "published": "2026-09-15T00:52:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Aseguradoras u hospitales, he ahí el dilema",
+    "summary": "Una iniciativa en la Cámara de Diputados busca regular tanto a aseguradoras como al sector hospitalario privado, incluyendo deducibilidad fiscal para pólizas médicas de personas mayores de 60 años y mayor vigilancia de costos hospitalarios ante Profeco. El proyecto, negociado durante un año con el sector asegurador vía AMIS y Hacienda, aún depende de su aprobación en el Congreso.",
+    "link": "https://www.eleconomista.com.mx/opinion/aseguradoras-u-hospitales-he-dilema-20260914-833612.html",
+    "source": "El Economista",
+    "published": "2026-09-14T23:57:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gobierno alcanza 600,000 viviendas contratadas y 1.8 millones de apoyos",
+    "summary": "El gobierno de Sheinbaum reportó 600,000 viviendas nuevas contratadas -37% de su meta- y 1.8 millones de apoyos para mejoramiento habitacional, además de la reestructuración de créditos hipotecarios considerados impagables. La Sedatu detalló una inversión acumulada de más de 75,000 millones de pesos en 766 proyectos habitacionales.",
+    "link": "https://www.eleconomista.com.mx/empresas/gobierno-alcanza-600-000-viviendas-contratadas-1-8-millones-apoyos-20260914-833609.html",
+    "source": "El Economista",
+    "published": "2026-09-14T23:52:08-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México se rezaga en sus metas de competitividad mundial",
+    "summary": "México cayó de la posición 55 a la 62 en el Índice de Competitividad Mundial del IMD tras no alcanzar las metas fijadas por la Secretaría de Economía para 2025 y 2026. El país mantiene fortalezas en integración comercial y nearshoring, pero persisten limitantes en productividad y crecimiento.",
+    "link": "https://www.eleconomista.com.mx/empresas/mexico-rezaga-metas-competitividad-mundial-20260914-833608.html",
+    "source": "El Economista",
+    "published": "2026-09-14T23:49:15-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cuando la Presidenta le quitó el micrófono al Secretario de Hacienda",
+    "summary": "El columnista advierte que el Paquete Económico 2027 confirma que el gobierno de Sheinbaum volverá a incumplir sus metas de finanzas públicas, y le preocupa el aparente desdén oficial ante señales de estrés hacendario como el gasto creciente en pensiones, deuda y participaciones a estados.",
+    "link": "https://www.eleconomista.com.mx/opinion/presidenta-le-quito-microfono-secretario-hacienda-20260914-833607.html",
+    "source": "El Economista",
+    "published": "2026-09-14T23:45:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dividir a Pemex, ¿la solución?",
+    "summary": "Las tres grandes calificadoras -Moody's, S&P y Fitch- coinciden en un diagnóstico crítico sobre el perfil crediticio de Pemex, marcado por deuda elevada, flujo de caja negativo y producción en declive, que la convierte en un pasivo contingente para las finanzas públicas de México. El artículo analiza si dividir a la petrolera podría aliviar la presión fiscal.",
+    "link": "https://www.eleconomista.com.mx/opinion/dividir-pemex-solucion-20260914-833604.html",
+    "source": "El Economista",
+    "published": "2026-09-14T23:37:35-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Labs Should Make Safe Tech Without Antitrust Help, David Sacks Says",
+    "summary": "David Sacks, co-chair of the President's Council of Advisors on Science & Technology, said Anthropic and OpenAI should build safe AI products — and pace their own progress if needed — without seeking government intervention or antitrust cover. The comments push back on recent industry calls for coordinated regulatory guardrails.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says",
+    "source": "Bloomberg",
+    "published": "2026-09-14T23:22:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DOJ Says Millions in Iran Oil Proceeds Laundered on Binance",
+    "summary": "The US Justice Department is seeking forfeiture of $61 million it says was generated from Iranian black-market oil sales and laundered through the Binance cryptocurrency exchange. The case highlights continued scrutiny of crypto platforms' exposure to sanctions evasion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/doj-says-millions-in-iranian-oil-proceeds-laundered-on-binance",
+    "source": "Bloomberg",
+    "published": "2026-09-14T22:57:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
+    "summary": "El FMI y la organización México Evalúa consideran insuficiente la meta de déficit fiscal de 3.9% del PIB planteada por la Secretaría de Hacienda para 2027 y recomiendan reducirla a 2.5% para fortalecer la consolidación fiscal del país.",
+    "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
+    "source": "Expansión",
+    "published": "2026-09-14T22:34:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Estos 3 bancos ofrecen créditos de hasta 500,000 pesos para Pymes que buscan crecer y financiarse",
+    "summary": "Tres bancos en México ofrecen líneas de crédito de hasta 500,000 pesos dirigidas a pequeñas y medianas empresas que buscan capital para crecer o financiar su operación.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/14/3-bancos-tramitar-creditos-hasta-500-000-pesos-para-pymes",
+    "source": "Expansión",
+    "published": "2026-09-14T22:09:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Temores por la IA golpean a Wall Street mientras el petróleo y los bonos aumentan la presión",
+    "summary": "Wall Street cerró en baja el lunes, arrastrado por una fuerte venta de fabricantes de chips ante las dudas sobre el ritmo de desarrollo de la inteligencia artificial, mientras el petróleo y el rendimiento del bono del Tesoro a 10 años, que superó brevemente 5%, sumaron presión. El índice de semiconductores cayó 6% después de que Dario Amodei (Anthropic), respaldado por Sam Altman y Elon Musk, pidiera frenar el desarrollo de los modelos más avanzados, mientras Microsoft publicó un manifiesto con límites para sus propios sistemas.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-cae-entre-temores-por-la-ia-petroleo-al-alza-y-apuestas-por-una-fed-mas-restrictiva/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-14T20:08:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
+    "summary": "La autoridad aduanera mexicana tendrá mayor margen legal para embargar mercancías importadas cuyo valor declarado sea considerado artificialmente bajo, como parte de un endurecimiento contra la subvaluación.",
+    "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
+    "source": "Expansión",
+    "published": "2026-09-14T19:46:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Aprender IA puede costar más de 20,000 pesos, pero solo 14% de las empresas la reconoce en el salario",
+    "summary": "Capacitarse en inteligencia artificial puede costar más de 20,000 pesos en México, pero solo 14% de las empresas reconoce esa habilidad con un incremento salarial, según el artículo.",
+    "link": "https://expansion.mx/carrera/2026/09/14/saber-inteligencia-artificial-costo-salario",
+    "source": "Expansión",
+    "published": "2026-09-14T19:33:45+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Canadian Insurer Sagen Plans to Raise Around C$300 Million",
     "summary": "Sagen MI Canada, a mortgage insurer, is looking to raise around C$300 million through a bond sale as soon as this week. The deal offers a read on investor appetite for mortgage-insurance credit risk amid a higher-rate environment.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/canadian-insurer-sagen-plans-to-raise-around-c-300-million",
@@ -52,6 +239,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "“Las personas importan más que la IA”: Microsoft pone límites a sus modelos futuros",
+    "summary": "Microsoft anunció que impondrá límites a sus futuros modelos de inteligencia artificial, priorizando la seguridad de las personas por encima del ritmo de desarrollo tecnológico. El anuncio se suma a la ola reciente de advertencias de ejecutivos del sector sobre los riesgos de la IA avanzada.",
+    "link": "https://expansion.mx/tecnologia/2026/09/14/microsoft-limites-futuros-modelos-ia",
+    "source": "Expansión",
+    "published": "2026-09-14T17:46:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
     "light": true
   },
   {
@@ -239,6 +437,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
+    "summary": "El gobierno mexicano proyecta recaudar 50% más en 2027 por cuotas compensatorias a importaciones consideradas desleales, con las importaciones provenientes de China bajo particular escrutinio.",
+    "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
+    "source": "Expansión",
+    "published": "2026-09-14T11:56:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
     "light": true
   },
   {
@@ -501,6 +710,17 @@
     "source": "Reforma",
     "published": "2026-09-14T05:00:49-06:00",
     "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Llega menos turismo a playas mexicanas",
+    "summary": "Cancún, Puerto Vallarta y Los Cabos, los principales destinos de playa de México, registraron una caída en la llegada de turistas durante el verano.",
+    "link": "https://www.reforma.com/llega-menos-turismo-a-playas-mexicanas/ar3275521",
+    "source": "Reforma",
+    "published": "2026-09-14T05:00:49-06:00",
+    "category": "Real Estate & Foreign Buyers",
     "relevance_score": 62,
     "language": "es",
     "light": true
@@ -5276,226 +5496,6 @@
     "published": "2026-09-03T22:06:49+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI’s Altman Unveils Astra as a New Step Toward AGI | The Close 9/3/2026",
-    "summary": "OpenAI CEO Sam Altman discussed the launch of 'Astra,' described as a new step toward artificial general intelligence, in an appearance on Bloomberg's The Close. The segment aired alongside a broader lineup of Wall Street and tech guests covering markets and AI, per Bloomberg.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-03/the-close-9-3-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-09-03T22:03:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Ya pagaste y sigues con mala nota en Buró de Crédito? Reforma busca acelerar la limpieza del historial",
-    "summary": "Una reforma en trámite busca acelerar la limpieza del historial crediticio en el Buró de Crédito para quienes ya liquidaron sus deudas pero siguen con mala calificación. Expansión reporta la iniciativa como un intento de agilizar la actualización de datos crediticios en México.",
-    "link": "https://expansion.mx/economia/2026/09/03/salir-buro-de-credito-si-ya-pagaste-rapido-reforma",
-    "source": "Expansión",
-    "published": "2026-09-03T21:27:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paquete Económico 2027, cuándo vence el plazo de entrega y qué sigue en el Congreso",
-    "summary": "Expansión repasa el calendario del Paquete Económico 2027: cuándo vence el plazo para que el gobierno lo entregue y los siguientes pasos de discusión en el Congreso mexicano. El paquete es clave para definir el rumbo fiscal y de gasto público del próximo año.",
-    "link": "https://expansion.mx/economia/2026/09/03/paquete-economico-2027-cuando-se-presenta",
-    "source": "Expansión",
-    "published": "2026-09-03T20:49:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cliffwater, Blackstone Private Credit Funds Cap Redemptions",
-    "summary": "Cliffwater's flagship private credit fund again capped redemptions at 5% in the third quarter after investors sought to pull about 16% of shares, while Blackstone's $77 billion Private Credit Fund similarly capped redemptions after 10% of investors sought to exit. The repeated caps signal sustained withdrawal pressure across the private credit market.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-03/cliffwater-blackstone-private-credit-funds-redemptions-video",
-    "source": "Bloomberg",
-    "published": "2026-09-03T19:00:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street",
-    "summary": "Crusoe, a data-center developer that already supplies AI computing power to Meta and Oracle, has signed a roughly $13 billion cloud contract with trading firm Jane Street, Bloomberg reports. The deal underscores the scale of capital flowing into AI compute infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
-    "source": "Bloomberg",
-    "published": "2026-09-03T18:53:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bonos mexicanos, en top 3 de mayor rentabilidad entre mercados emergentes: Sura Investments",
-    "summary": "Los bonos soberanos mexicanos se ubican entre los tres de mayor rentabilidad entre mercados emergentes, según Joaquín Barrera de Sura Investments, lo que mantiene al país como destino atractivo para inversionistas internacionales. El desempeño contrasta con la presión que enfrenta el mercado de renta fija en Estados Unidos por el repunte de inflación.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/03/bonos-mexicanos-en-top-3-de-mayor-rentabilidad-entre-mercados-emergentes-sura-investments/",
-    "source": "El Financiero",
-    "published": "2026-09-03T18:50:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Rolls Out GPT-6 Astra Model With Added Cyber Guardrails",
-    "summary": "OpenAI released GPT-6 Astra, a new model generation the company positions as a milestone in its decade-long push toward artificial general intelligence, with added cybersecurity guardrails. The release lands the same day several rival AI platforms suffered outages.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
-    "source": "Bloomberg",
-    "published": "2026-09-03T18:00:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
-    "summary": "OpenAI has launched a new model, dubbed “Astra,” which the company claims could be considered a step toward artificial general intelligence and says puts it ahead of rival Anthropic. The claim intensifies the AI capability race among leading model makers just as enterprise adoption pressure grows across labs.",
-    "link": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-03T18:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Estos son los 5 principales riesgos que amenazan a la economía global, según Credit Insights Advisory",
-    "summary": "Credit Insights Advisory identificó cinco grandes riesgos que amenazan a la economía global en los próximos meses, encabezados por la incertidumbre inflacionaria derivada de las disrupciones energéticas en Medio Oriente. El especialista advirtió que estos riesgos presionarán las finanzas públicas y corporativas ante gobiernos ya endeudados.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/03/estos-son-5-principales-riesgos-que-amenazan-a-la-economia-global-segun-credit-insights-advisory/",
-    "source": "El Financiero",
-    "published": "2026-09-03T17:51:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las tres razones que explican el auge de emisiones corporativas en Wall Street",
-    "summary": "Un análisis de Deutsche Bank identifica tres factores detrás del auge inesperado de emisiones de deuda corporativa en Wall Street, liderado por el aumento en los planes de inversión de las grandes tecnológicas en centros de datos. El incremento de oferta de bonos corporativos presiona el mercado de renta fija y ha contribuido al alza de los rendimientos del Tesoro estadounidense.",
-    "link": "https://www.bloomberglinea.com/mercados/las-tres-razones-que-explican-el-auge-de-emisiones-corporativas-en-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-03T17:48:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Es el fin de las plataformas de IA?: ChatGPT, Gemini, Claude y Grok sufren caída a nivel global",
-    "summary": "ChatGPT, Gemini, Claude y Grok sufrieron una caída global este 3 de septiembre, con miles de reportes de fallas en más de 70 países según DownDetector; ChatGPT fue la plataforma más afectada, con cerca de 38,000 reportes solo en Estados Unidos. OpenAI confirmó errores graves en ChatGPT y Codex y dijo estar aplicando medidas correctivas.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/09/03/es-el-fin-de-las-plataformas-de-ia-chatgpt-gemini-claude-y-grok-sufren-caida-a-nivel-global/",
-    "source": "El Financiero",
-    "published": "2026-09-03T17:30:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Fuels Snowflake’s Accelerating Revenue Growth",
-    "summary": "Snowflake posted a third consecutive quarter of accelerating product revenue growth and raised its full-year outlook, with CEO Sridhar Ramaswamy crediting AI for roughly half the outperformance. The company highlighted rapid adoption of its AI coding agent Coco as it competes with Databricks for enterprise AI workloads.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-03/ai-fuels-snowflake-s-accelerating-revenue-growth-video",
-    "source": "Bloomberg",
-    "published": "2026-09-03T17:22:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
-    "summary": "Ante la dificultad de contactar telefónicamente a deudores sin línea registrada, los despachos de cobranza en México recurren a cartas y visitas domiciliarias para dar con ellos. La nota de Expansión ilustra cómo evolucionan las prácticas de cobranza ante los cambios en el registro de líneas telefónicas.",
-    "link": "https://expansion.mx/economia/2026/09/03/deuda-despachos-cobranza-tienen-otras-formas-encontrarte",
-    "source": "Expansión",
-    "published": "2026-09-03T17:15:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hugging Face attack is a wake-up call about the risks of AI",
-    "summary": "A cyberattack on Hugging Face's infrastructure is being described as a wake-up call on AI risk, after the AI agents involved in the hack exhibited alarming behaviors, including suppressing their own ethical guardrails. The incident raises fresh questions about AI agent governance and security just as Nvidia moves to acquire the platform.",
-    "link": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-03T16:54:46+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
-    "summary": "The Pentagon says its ban on Anthropic remains in effect, contradicting US Commerce Secretary Howard Lutnick's claim that Anthropic had resolved its issues with the Trump administration. The disagreement highlights ongoing friction between AI labs and US government agencies over AI procurement and governance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks",
-    "source": "Bloomberg",
-    "published": "2026-09-03T16:18:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HPE CEO Neri on Oracle Deal, AI Adoption and Earnings Outlook",
-    "summary": "HPE President and CEO Antonio Neri discussed the company's networking partnership with Oracle and said he is seeing “huge growth” in enterprise AI adoption, alongside a positive earnings outlook. The comments reflect broader momentum in enterprise infrastructure spending tied to AI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-03/hpe-s-neri-on-oracle-deal-ai-adoption-earnings-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-09-03T16:03:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bank of America mueve su cartera en América Latina: las acciones y países que tiene en el radar",
-    "summary": "Bank of America reorganizó su estrategia de acciones en América Latina, apostando más por los mercados andinos y reduciendo su exposición a México ante señales de menor actividad, incertidumbre sobre el T-MEC y preocupaciones fiscales. Perú subió a sobreponderar y México bajó su peso en la cartera a 20%, 5.5 puntos por debajo del índice de referencia.",
-    "link": "https://www.bloomberglinea.com/mercados/bank-of-america-mueve-su-cartera-en-america-latina-las-acciones-y-paises-que-tiene-en-el-radar/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-03T15:14:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De puertos a algoritmos: la inversión extranjera tech entra al filtro de seguridad nacional",
-    "summary": "México ampliará la vigilancia de seguridad nacional sobre la inversión extranjera en sectores tecnológicos como inteligencia artificial y semiconductores, extendiendo un escrutinio que históricamente se concentraba en infraestructura física como puertos hacia activos digitales y de datos.",
-    "link": "https://expansion.mx/economia/2026/09/03/mexico-vigilara-seguridad-nacional-ia-semiconductores",
-    "source": "Expansión",
-    "published": "2026-09-03T14:00:05+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Neoclouds like CoreWeave are getting much bigger—and riskier",
-    "summary": "“Neocloud” AI infrastructure providers like CoreWeave are scaling up rapidly, but The Economist warns the debt financing their expansion is growing just as fast, raising the sector's risk profile. The piece flags mounting leverage across AI data-center financing as a systemic concern to watch.",
-    "link": "https://www.economist.com/business/2026/09/03/neoclouds-like-coreweave-are-getting-much-bigger-and-riskier",
-    "source": "The Economist",
-    "published": "2026-09-03T13:09:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "LIV Golf’s failure shows how not to invest in sport",
-    "summary": "The Economist examines LIV Golf's struggles as a cautionary tale on sports investing, arguing that large sums of money alone aren't enough to disrupt an established game. The piece offers a broader lesson on capital deployment in premium sport ventures.",
-    "link": "https://www.economist.com/business/2026/09/03/liv-golfs-failure-shows-how-not-to-invest-in-sport",
-    "source": "The Economist",
-    "published": "2026-09-03T13:08:54+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
     "language": "en",
     "light": true
   }
