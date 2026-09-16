@@ -1,5 +1,126 @@
 [
   {
+    "title": "SoftBank CDS Hovers Near 3-Year High on OpenAI Funding Concerns",
+    "summary": "SoftBank Group's credit default swaps hovered near a three-year high as traders weighed the potential implications of OpenAI's funding plans on one of SoftBank's biggest bets. The move reflects growing investor unease over the scale of capital being committed to AI's leading players.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
+    "source": "Bloomberg",
+    "published": "2026-09-16T04:49:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "With AI, 'I told you so' will be too late",
+    "summary": "A Financial Times opinion piece argues that slowing the pace of AI innovation will be difficult, both practically and politically, but remains the right course of action. It warns that waiting for clear proof of harm before acting would come too late to matter.",
+    "link": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-16T04:00:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Defense Minister Urges Nations to Step Up AI Oversight",
+    "summary": "China's top military diplomat called on countries worldwide to strengthen AI oversight during a defense forum in Beijing. The appeal comes as the rapid advance of AI technology deepens rivalry between China and the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/china-defense-minister-urges-nations-to-step-up-ai-oversight",
+    "source": "Bloomberg",
+    "published": "2026-09-16T03:35:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
+    "summary": "Los retiros por desempleo de las cuentas de las Afore en México acumulan 31,514 millones de pesos al cierre de agosto de 2026, en camino a marcar un máximo histórico para el año. La cifra refleja presión creciente sobre el ahorro para el retiro de los trabajadores mexicanos.",
+    "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
+    "source": "Expansión",
+    "published": "2026-09-16T00:20:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Weighs Funding Round at Over $1.2 Trillion Valuation",
+    "summary": "OpenAI is holding early talks with investors about a new funding round that would value the ChatGPT maker at more than $1.2 trillion. The talks are taking place ahead of a planned initial public offering for the company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
+    "source": "Bloomberg",
+    "published": "2026-09-15T22:31:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump Advisers Lutnick, Michael Meet With Anthropic Executive Over AI Safety",
+    "summary": "Senior Trump administration officials, including advisers Lutnick and Michael, met on Tuesday with Anthropic's top Washington executive to discuss artificial intelligence safety risks. The meeting signals deepening engagement between the White House and leading AI labs on safety policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/trump-advisers-lutnick-michael-meet-with-anthropic-executive-over-ai-safety",
+    "source": "Bloomberg",
+    "published": "2026-09-15T22:05:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic y OpenAI no quieren salvar al mundo de la IA, quieren eliminar su competencia",
+    "summary": "Un análisis de Expansión plantea que los llamados de Anthropic y OpenAI a ralentizar o regular el desarrollo de la inteligencia artificial responderían más a intereses competitivos que a una preocupación genuina por la seguridad global. El artículo se suma al debate actual sobre las verdaderas motivaciones detrás de las advertencias públicas de los principales laboratorios de IA.",
+    "link": "https://expansion.mx/tecnologia/2026/09/15/anthropic-openai-no-salvar-ia-quieren-eliminar-competencia",
+    "source": "Expansión",
+    "published": "2026-09-15T21:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nuestros próximos compañeros de trabajo, ¿serán personas o agentes de IA?",
+    "summary": "El artículo explora el surgimiento de las 'empresas frontera', organizaciones que adoptan a la IA agéntica como fuerza laboral central capaz de interpretar contextos y ejecutar procesos de extremo a extremo, no solo como herramienta pasiva. Cita como ejemplo los sistemas de búsqueda de Wells Fargo, que ya reducen tiempos operativos mediante IA autónoma, como muestra de este cambio de la 'era máquina' a la 'era agéntica'.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/proximos-companeros-trabajo-seran-personas-agentes-ia-20260915-833741.html",
+    "source": "El Economista",
+    "published": "2026-09-15T20:47:18-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Tu celular está lento o muestra ventanas raras? Estas son las señales de malware bancario",
+    "summary": "Expansión enumera señales de alerta —como lentitud del celular y ventanas emergentes inusuales— que pueden indicar la presencia de malware bancario diseñado para robar credenciales financieras. La nota busca ayudar a los usuarios a identificar a tiempo un posible fraude antes de que comprometa sus cuentas.",
+    "link": "https://expansion.mx/economia/2026/09/15/celular-lento-ventanas-raras-senales-malware-bancario",
+    "source": "Expansión",
+    "published": "2026-09-15T20:25:52+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Electrónicos aceleran 187% mientras la inversión extranjera en autos cae 25.7%",
+    "summary": "La inversión extranjera directa en el sector electrónico de México se acelera 187%, mientras que la dirigida a la industria automotriz cae 25.7%, según cifras citadas por Expansión. El contraste apunta a un cambio en la composición de los flujos de inversión que llegan al país.",
+    "link": "https://expansion.mx/economia/2026/09/15/inversion-extranjera-electronicos-acelera-autos-cae-mexico",
+    "source": "Expansión",
+    "published": "2026-09-15T20:09:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Quiénes son los dueños de Kraken, la firma cripto en la que Nasdaq invirtió US$100 millones",
+    "summary": "Nasdaq acordó invertir US$100 millones en Payward, la matriz privada de la plataforma cripto Kraken, reavivando el interés por conocer quiénes son sus propietarios. La empresa fue cofundada por Jesse Powell —quien dejó la dirección ejecutiva en 2022 pero sigue como presidente del directorio—, junto con Thanh Luu y Michael Gronager.",
+    "link": "https://www.bloomberglinea.com/mercados/quienes-son-los-duenos-de-kraken-la-firma-cripto-en-la-que-nasdaq-invirtio-us100-millones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-15T19:58:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic’s Tough Balancing Act Between AI Doom Talk and IPO",
     "summary": "Anthropic is walking a fine line between raising public alarm about AI safety risks and pursuing a potential public offering. Bloomberg frames the tension as one the company created for itself by positioning safety warnings at the center of its brand even as it seeks investor confidence for an IPO.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/anthropic-s-tough-balancing-act-between-ai-doom-talk-and-ipo",
@@ -42,6 +163,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Arquitectura mexicana da el grito en el mundo",
+    "summary": "Con motivo de las celebraciones por la Independencia de México, El Economista destaca cómo la arquitectura contemporánea mexicana proyecta la identidad del país al mundo, combinando tradición e innovación. La nota cita ejemplos como el edificio ICON Condesa entre los proyectos que han ganado reconocimiento internacional.",
+    "link": "https://www.eleconomista.com.mx/arteseideas/arquitectura-mexicana-da-grito-mundo-20260915-833723.html",
+    "source": "El Economista",
+    "published": "2026-09-15T18:12:58-06:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI Eyes Canada Data Center Partnerships at Carney Investment Summit",
@@ -5364,138 +5496,6 @@
     "published": "2026-09-04T17:21:23+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How Oura’s rings found their way onto millions of fingers",
-    "summary": "The Economist traces how Oura's smart-ring business boomed as consumers increasingly look to wearables to take charge of their own health. The piece examines the company's rapid growth and what it signals about the broader health-tracking market.",
-    "link": "https://www.economist.com/business/2026/09/04/how-ouras-rings-found-their-way-onto-millions-of-fingers",
-    "source": "The Economist",
-    "published": "2026-09-04T17:21:12+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Afore Coppel adquiriría Afore Invercap: qué pasa con tu dinero, según la ley y las autoridades",
-    "summary": "Afore Coppel estaría por adquirir Afore Invercap, una operación de consolidación en el sistema mexicano de administradoras de fondos para el retiro. El reporte examina qué implicaría la transacción para los ahorros de los cuentahabientes conforme a la ley y a la supervisión de las autoridades financieras.",
-    "link": "https://www.eleconomista.com.mx/videos/afore-coppel-adquiriria-afore-invercap-pasa-dinero-ley-autoridades-20260904-831988.html",
-    "source": "El Economista",
-    "published": "2026-09-04T17:07:01-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Carney’s Push to Build Canadian Data Centers is Running Into Backlash",
-    "summary": "The data-center backlash that has gripped US politics is spreading north, Bloomberg reports, complicating Prime Minister Mark Carney's push to attract investment in Canada's expanding AI infrastructure. The friction underscores growing political resistance to large-scale AI buildouts even among governments courting the investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/carney-s-push-to-build-canadian-data-centers-is-running-into-backlash",
-    "source": "Bloomberg",
-    "published": "2026-09-04T16:59:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso gana a pesar de ‘apuestas’ a favor de aumento en tasa de la Fed: Así inicia el tipo de cambio HOY",
-    "summary": "El peso mexicano abrió con ganancias frente al dólar pese a que un sólido reporte de empleo en EU elevó las apuestas de un alza de tasas de la Fed. Analistas apuntan que la atención del mercado se centrará ahora en la presentación del Paquete Económico 2027, clave para la consolidación fiscal de México.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/04/peso-dolar-precio-hoy-4-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-04T16:51:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lo que viene después del T.I.G.R.E.: JPMorgan cree que lo difícil para Colombia empieza ahora",
-    "summary": "JPMorgan advierte que, tras el fuerte repunte de la bolsa y el peso colombiano bajo la nueva administración, la fase más exigente apenas comienza: el foco pasa de las expectativas políticas a la ejecución del plan T.I.G.R.E. (comercio, inversión, crecimiento, ajuste fiscal y aplicación de la ley) en medio de una economía que perdería velocidad. El banco presentó su lectura actualizada durante el Investor Day de la Bolsa de Valores de Colombia.",
-    "link": "https://www.bloomberglinea.com/mercados/lo-que-viene-despues-del-tigre-jpmorgan-cree-que-lo-dificil-para-colombia-empieza-ahora/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-04T16:51:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kai-Fu Lee Says China Will Win AI Reach Race",
-    "summary": "Former Google China chief Kai-Fu Lee argues Chinese AI rivals could out-compete OpenAI and Anthropic on global reach thanks to a cheaper, more accessible business model. He explains why lower-cost Chinese models pose a genuine competitive threat rather than just a pricing gimmick.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-04/kai-fu-lee-says-china-will-win-ai-reach-race-video",
-    "source": "Bloomberg",
-    "published": "2026-09-04T16:06:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Del oro al café y el petróleo: Citi anticipa qué materias primas subirán y cuáles caerán",
-    "summary": "Citi anticipa un cierre de 2026 con fuertes divergencias entre materias primas: apuesta por el oro y la plata, espera presión bajista sobre el petróleo tras un repunte de corto plazo y mantiene una perspectiva negativa para el café arábica. El banco ve el estrecho de Ormuz como el punto de inflexión clave para crudo y metales preciosos.",
-    "link": "https://www.bloomberglinea.com/mercados/del-oro-al-cafe-y-el-petroleo-citi-anticipa-que-materias-primas-subiran-y-cuales-caeran/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-04T15:22:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cuánto le pueden cobrar de interés en su tarjeta de crédito en septiembre 2026? La tasa de usura bajó",
-    "summary": "La Superintendencia Financiera de Colombia redujo a 19.49% efectivo anual el Interés Bancario Corriente para créditos de consumo y ordinario en septiembre, 28 puntos básicos menos que en agosto, según Bloomberg Línea. Esto fija en 29.24% la tasa de usura para tarjetas de crédito y otros productos de esa modalidad durante el mes.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/cuanto-le-pueden-cobrar-de-interes-en-su-tarjeta-de-credito-en-septiembre-2026-la-tasa-de-usura-bajo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-04T15:01:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La inversión sorprende al alza, pero el consumo revela la debilidad de la demanda, reporta Inegi",
-    "summary": "El Inegi reportó que la inversión en México repuntó más de lo esperado en junio, pero el consumo mostró señales de debilidad, evidenciando una demanda interna frágil. El contraste plantea dudas sobre la solidez de la recuperación económica de cara al resto del año.",
-    "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
-    "source": "Expansión",
-    "published": "2026-09-04T14:53:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
-    "summary": "Braskem Idesa busca reestructurar su deuda mientras asegura que mantendrá sus operaciones en México. La petroquímica enfrenta presión financiera, en un caso que pone a prueba el apetito de los acreedores por renegociar términos frente a un eventual cierre de operaciones.",
-    "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
-    "source": "Expansión",
-    "published": "2026-09-04T14:34:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pulte’s Rewewed Attack on Credit Bureaus Sends FICO Plunging",
-    "summary": "Shares of Fair Isaac Corp., Equifax and TransUnion tumbled after Federal Housing Finance Agency Director Bill Pulte renewed his criticism of the high costs mortgage borrowers pay for consumer credit scores. The attack adds to pressure on the credit-bureau industry's role in US mortgage underwriting.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/fico-plunges-21-credit-bureaus-fall-as-pulte-renews-criticism",
-    "source": "Bloomberg",
-    "published": "2026-09-04T14:17:14+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA es ‘como el crack’ y puede atrofiar el cerebro, dice Radia Perlman, pionera de internet",
-    "summary": "Radia Perlman, pionera de las redes de computadoras y creadora del protocolo STP, advierte que la inteligencia artificial genera un riesgo real de atrofia cognitiva pese a ser genuinamente real y útil para resolver problemas. La experta, reconocida como una voz crítica y confiable en la industria tecnológica, llama a un uso más consciente de estas herramientas.",
-    "link": "https://www.bloomberglinea.com/tecnologia/la-ia-es-como-el-crack-y-puede-atrofiar-el-cerebro-dice-radia-perlman-pionera-de-internet/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-04T14:07:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "es",
     "light": false
   }
