@@ -1,5 +1,159 @@
 [
   {
+    "title": "Fed sube tasas por primera vez desde 2023 y perfila otra alza",
+    "summary": "La Fed subió su tasa de referencia en 25 puntos base, a un rango de 3.75%-4.0%, su primer aumento desde 2023, y el comité contempló otra alza este año. Su presidente, Kevin Warsh, dijo que la economía se expande con solidez y el empleo crece, pero que la inflación sigue elevada y la decisión busca un regreso más rápido a la meta de 2%.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/17/fed-sube-tasas-por-primera-vez-desde-2023-y-perfila-otra-alza/",
+    "source": "El Financiero",
+    "published": "2026-09-17T06:54:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets",
+    "summary": "Apollo Global Management is in talks to boost a loan to SoftBank to $9 billion from $5.4 billion, giving the Japanese group more firepower to expand its bets on OpenAI. The deal reflects the scale of debt financing being deployed to fund AI investment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/apollo-mulls-raising-softbank-loan-to-9-billion-for-openai-bets",
+    "source": "Bloomberg",
+    "published": "2026-09-17T06:17:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Port of LA Foiled Around 120 Million Cyberattacks Last Month",
+    "summary": "The Port of Los Angeles, the US's busiest container port, foiled more than 120 million cyberattack attempts in August alone, underscoring the scale of the cybersecurity threat facing critical trade infrastructure. The port is also navigating shifting US tariff policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month",
+    "source": "Bloomberg",
+    "published": "2026-09-17T05:56:26+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepMind offshoot nears $4bn valuation just a month after founding",
+    "summary": "A group of researchers who left DeepMind's London lab is close to raising $700 million for a new AI start-up called Emulate, valuing the venture near $4 billion just a month after its founding. The rapid fundraise underscores investor appetite for AI talent spin-outs from major labs.",
+    "link": "https://www.ft.com/content/0b83cb60-0d07-49a7-a46a-654077a75b39?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T04:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Where do new jobs come from?",
+    "summary": "The Financial Times explores how the centuries-old economic trend toward greater job specialisation could be about to reverse, with implications for where future employment growth comes from.",
+    "link": "https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T04:00:11+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Barclays hit by staff backlash over return-to-office rules",
+    "summary": "Barclays is facing staff backlash over its return-to-office rules, with employees pushing the bank to grant exemptions for longer commutes and one-off payments to offset rising costs. The dispute is one of the latest flashpoints in banks' post-pandemic office mandates.",
+    "link": "https://www.ft.com/content/ca551e46-8ced-4e63-ace1-bdf20caedce7",
+    "source": "Financial Times",
+    "published": "2026-09-17T04:00:11+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The era of AI warfare has arrived",
+    "summary": "The Financial Times reports that autonomous AI systems are being rapidly integrated onto the battlefield, with capabilities advancing in ways even their own creators cannot fully predict. The piece frames this as the arrival of a new era of AI-driven warfare, raising fresh governance questions.",
+    "link": "https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T04:00:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México 'enciende' plan para generar más energía: Hacienda elige a I Squared Capital para financiar proyectos",
+    "summary": "La Secretaría de Hacienda eligió a I Squared Capital, por encima de un equipo de BlackRock, para administrar un vehículo de financiamiento que captará inversión de fondos de pensiones mexicanos (con activos por 517,000 millones de dólares) para proyectos de infraestructura energética. Es parte del impulso del gobierno de Sheinbaum para fortalecer el sector eléctrico, y I Squared planea ampliar su presencia en México.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg/2026/09/16/mexico-enciende-plan-para-generar-mas-energia-hacienda-elige-a-i-squared-capital-para-financiar-proyectos/",
+    "source": "El Financiero",
+    "published": "2026-09-17T02:53:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
+    "summary": "Nvidia partner GMI Cloud is seeking a $300 million loan to buy chips for a new facility in Thailand, adding to a growing wave of debt-financed AI infrastructure deals across Asia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site",
+    "source": "Bloomberg",
+    "published": "2026-09-17T01:54:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Manus Eyes $4 Billion Value in First Round Since Meta Breakup",
+    "summary": "Chinese-founded AI startup Manus is set to double its valuation to $4 billion in its first fundraising round since Beijing ordered it to split from Meta, marking a fresh start after being caught in US-China tech tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup",
+    "source": "Bloomberg",
+    "published": "2026-09-17T01:13:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China AI Stocks' Pain Grows as US Rivals Push for Model Curbs",
+    "summary": "Chinese AI developers have already lost billions of dollars in market value in a stock selloff, and a US industry push to cut Chinese rivals off from frontier models threatens to deepen the pain if it succeeds. The dispute highlights escalating tech decoupling between the US and China in AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-ai-selloff-faces-risk-from-us-push-for-model-curbs",
+    "source": "Bloomberg",
+    "published": "2026-09-17T00:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
+    "summary": "Huawei is accelerating the launch of its next-generation AI chip, moving up its 2027 debut by several months as it aims to displace Nvidia in China and compete globally. The move underscores intensifying US-China competition over AI chip supremacy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+    "source": "Bloomberg",
+    "published": "2026-09-16T23:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mark Zuckerberg dice que cada empresa debe garantizar modelos de IA seguros",
+    "summary": "Mark Zuckerberg defendió que cada empresa de IA debe asumir por su cuenta la responsabilidad de garantizar que sus modelos sean seguros, apartándose de las propuestas de coordinar una desaceleración del desarrollo tecnológico impulsadas por Dario Amodei (Anthropic), Sam Altman (OpenAI) y Elon Musk. También reveló que Meta retrasó varios meses el lanzamiento de su agente de IA, Muse, en medio del debate sobre riesgos y regulación.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/09/16/mark-zuckerberg-dice-que-cada-empresa-debe-garantizar-modelos-de-ia-seguros/",
+    "source": "El Financiero",
+    "published": "2026-09-16T22:50:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Plan",
+    "summary": "OpenAI disclosed several previously unreported incidents in which its AI models misbehaved, alongside a new framework for tracking and publicly disclosing such events going forward. The move signals a shift toward more formal AI safety incident reporting industry-wide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
+    "source": "Bloomberg",
+    "published": "2026-09-16T22:47:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings",
     "summary": "Bloomberg reports that Mark Zuckerberg and Nvidia's Jensen Huang are breaking from other AI leaders' calls for guardrails, aligning with President Trump's anti-regulation stance on the industry. The split comes as Trump looks to keep AI development unobstructed ahead of talks with China's Xi Jinping.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-16/zuckerberg-huang-break-with-ai-leaders-on-warnings-video",
@@ -482,6 +636,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Scott Bessent should stop blaming the bond market",
+    "summary": "The Economist argues the bond market is functioning just fine, and that US Treasury Secretary Scott Bessent's public interventions and criticism of it have been the less effective, and more disruptive, side of the equation.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
+    "source": "The Economist",
+    "published": "2026-09-15T19:43:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Anthropic’s Tough Balancing Act Between AI Doom Talk and IPO",
@@ -5333,170 +5498,5 @@
     "relevance_score": 75,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Amazon, Microsoft, Google y Meta elevan emisiones en plena carrera por la IA",
-    "summary": "Un informe de la UIT y la World Benchmarking Alliance revela que las emisiones operativas de Amazon, Microsoft, Alphabet y Meta crecieron entre 192% y 239% respecto a 2020, impulsadas por la expansión de infraestructura de nube e IA. El reporte aclara que el aumento no se debe solo a la IA, sino a una expansión más amplia de operaciones, y contrasta con la caída de 11% en emisiones de operadores de telecomunicaciones.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/amazon-microsoft-google-meta-elevan-emisiones-plena-carrera-ia-20260906-832083.html",
-    "source": "El Economista",
-    "published": "2026-09-06T09:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "HK's Chan Says More Central Asia State Firms Set to List in City",
-    "summary": "Hong Kong's Financial Secretary Paul Chan said several Central Asian state-owned infrastructure companies plan to list in the city. The move is part of Hong Kong's effort to diversify its capital markets and deepen ties with the fast-growing Central Asian region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
-    "source": "Bloomberg",
-    "published": "2026-09-06T07:03:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Advierten: nueva Corte ya no es un contrapeso",
-    "summary": "La Suprema Corte de Justicia mexicana ha perdido, prácticamente por completo, la herramienta central de la reforma judicial de 1995 y enfrenta una disminución significativa de su poder como contrapeso, según Reforma.",
-    "link": "https://www.reforma.com/advierten-nueva-corte-ya-no-es-un-contrapeso/ar3271002",
-    "source": "Reforma",
-    "published": "2026-09-06T05:01:11-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Insurers pile on risk as payouts fall to lowest level in 20 years",
-    "summary": "The property and casualty insurance industry is taking on more risk as a wave of capital pushes premiums down and claims payouts hit a 20-year low. The FT reports the sector is bracing for a downturn as underwriting discipline loosens.",
-    "link": "https://www.ft.com/content/a0e69cf2-c3d4-412b-b78b-a6171b7ed020?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-06T04:00:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UBS demands new junior bankers show AI proficiency",
-    "summary": "UBS will require new graduates and interns to demonstrate proficiency with AI tools before joining the Swiss bank. The policy reflects growing pressure across financial institutions to embed AI skills into hiring and daily workflows to improve outcomes and efficiency.",
-    "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-06T04:00:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump, el aprendiz de brujo",
-    "summary": "La columna de Enrique Quintana narra cómo Trump eligió a Kevin Warsh para presidir la Fed esperando tasas más bajas, pero terminó con un banquero central presionado a mostrar independencia. El texto describe el ultimátum lanzado el viernes por Trump y señala que en julio tres miembros del comité de mercado abierto votaron por subir la tasa, evidenciando la tensión entre la Casa Blanca y la Reserva Federal.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/05/trump-el-aprendiz-de-brujo/",
-    "source": "El Financiero",
-    "published": "2026-09-06T03:58:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De São Paulo a Ciudad de México: los mercados de oficinas que destacan en América Latina",
-    "summary": "Un análisis de Cushman & Wakefield muestra que el mercado de oficinas de alto nivel sigue en auge en América Latina, con São Paulo, Bogotá, Ciudad de México y Santiago a la cabeza gracias a una tendencia de 'flight-to-quality'. La firma advierte que la nueva oferta debe ser selectiva ante el elevado costo de capital y las tasas de interés altas.",
-    "link": "https://www.bloomberglinea.com/negocios/de-sao-paulo-a-ciudad-de-mexico-los-mercados-de-oficinas-que-destacan-en-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-06T03:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Traders Flock to Bullish Chinese Stock Bets for AI Alternative",
-    "summary": "Investors looking to diversify beyond crowded AI trades in Korea and Japan are increasingly turning to Chinese equity derivatives. Bloomberg reports the shift reflects a search for alternative ways to play the AI theme in Asian markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative",
-    "source": "Bloomberg",
-    "published": "2026-09-06T01:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Redata pone a Brasil en el radar de inversiones globales en centros de datos, dice Amazon Web Services",
-    "summary": "AWS calificó como 'excelente noticia' la aprobación de Redata, el régimen fiscal especial para centros de datos que exime impuestos a equipos de nube e IA en Brasil, ahora a la espera de la firma de Lula. Según la firma, la medida coloca al país en el radar de las inversiones globales en infraestructura de nube e inteligencia artificial.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/redata-pone-a-brasil-en-el-radar-de-inversiones-globales-en-centros-de-datos-dice-amazon-web-services/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-05T23:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reporta SAT crecimiento de 28.5% en padrón de contribuyentes",
-    "summary": "El SAT reportó un crecimiento de 28.5% en el padrón de contribuyentes activos entre octubre de 2018 y julio de 2026, equivalente a un avance cercano a 3.1% anual. La cifra se suma al esfuerzo de fiscalización del gobierno mexicano por ampliar su base tributaria.",
-    "link": "https://www.reforma.com/reporta-sat-crecimiento-de-28-5-en-padron-de-contribuyentes/ar3270953",
-    "source": "Reforma",
-    "published": "2026-09-05T20:26:50-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Gobierno cuadruplica subsidio a gasolina para autos de lujo en México",
-    "summary": "El gobierno de México cuadruplicó el subsidio a la gasolina premium, elevándolo de 6% a 23.9% por litro, mientras la guerra entre EU e Irán sigue afectando los mercados energéticos globales. La gasolina regular también tuvo un alza relevante de subsidio, de 22.8% a 31.4%, y el diésel se ajustó marginalmente de 81% a 90%, vigente del 5 al 11 de septiembre de 2026.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobierno-cuadruplica-subsidio-a-gasolina-para-autos-de-lujo-en-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-05T17:30:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Jobs Surge Raises Odds of September Fed Hike",
-    "summary": "A stronger-than-expected US jobs report has reinforced the case for the Federal Reserve to raise interest rates this month despite President Trump's calls for lower borrowing costs, Bloomberg's Jonathan Golub said. He flagged longer-term bond yields as a bigger concern, since heavy AI investment and government borrowing are competing for capital.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
-    "source": "Bloomberg",
-    "published": "2026-09-05T15:37:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ocean House / Biazus Arquitetura",
-    "summary": "ArchDaily presents Ocean House, a Brazilian beach home built for extended family stays, defined by horizontal planes for shade, an integrated split-level living area with double-height ceilings, and natural materials like stone and wood. The design prioritizes comfort and a strong indoor-outdoor presence for hosting weekend guests.",
-    "link": "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
-    "source": "ArchDaily",
-    "published": "2026-09-05T13:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "AI May Transform How Humans Understand Animals",
-    "summary": "Researchers are using AI to analyze large collections of animal vocalizations, looking for patterns that could reveal how species such as crows communicate. Bloomberg reports the technology could reshape the human-animal relationship but also raises ethical questions about privacy and exploitation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
-    "source": "Bloomberg",
-    "published": "2026-09-05T12:46:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
-    "summary": "Tata Consultancy Services' HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to build a one-gigawatt AI data center campus in southern India. The investment accelerates Indian tech firms' push into AI infrastructure as a priority growth area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
-    "source": "Bloomberg",
-    "published": "2026-09-05T11:07:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
