@@ -1,5 +1,214 @@
 [
   {
+    "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
+    "summary": "New US home construction fell unexpectedly in August to one of its weakest paces since the pandemic, driven by a plunge in multifamily housing starts. The data adds to signs of a cooling housing sector amid elevated borrowing costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-housing-starts-unexpectedly-decline-on-multifamily-projects",
+    "source": "Bloomberg",
+    "published": "2026-09-17T12:35:45+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "KKR Passes Partners Group as Europe's Top Evergreen Fund Manager",
+    "summary": "KKR & Co. has overtaken Partners Group AG as Europe's largest manager of open-ended private market funds, expanding its evergreen fund business while its Swiss rival grapples with investor withdrawal requests. The shift highlights intensifying competition among private equity firms for permanent capital vehicles.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/kkr-passes-partners-group-as-europe-s-top-evergreen-fund-manager",
+    "source": "Bloomberg",
+    "published": "2026-09-17T12:27:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Centros comerciales mantienen selectividad en la expansión",
+    "summary": "Los centros comerciales institucionales en México —988 inmuebles con 25.09 millones de m² de área bruta rentable— mantienen ocupación superior al 91% y rentas al alza, según un reporte de Mac Arquitectos Consultores. El sector prioriza el reposicionamiento de activos y la disciplina en la asignación de capital por encima de la apertura de nuevos desarrollos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/09/17/centros-comerciales-mantienen-selectividad-en-la-expansion/",
+    "source": "El Financiero",
+    "published": "2026-09-17T12:26:29+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Future Savings Is Latest Ebitda Tweak to Jolt Debt Investors",
+    "summary": "A struggling French property services company added a controversial line item to its earnings—€20 million of projected future savings from a new AI strategy—raising eyebrows among credit investors. The episode illustrates how companies are using speculative AI savings to flatter earnings reported to debt markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ai-future-savings-is-latest-ebitda-tweak-to-jolt-debt-investors",
+    "source": "Bloomberg",
+    "published": "2026-09-17T12:21:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tarjetas fáciles, deudas difíciles",
+    "summary": "Los bancos digitales en México están emitiendo tarjetas de crédito de forma masiva, ampliando el acceso al crédito mientras Banxico reporta un aumento en la morosidad del crédito al consumo. El columnista advierte que la facilidad de solicitud vía celular reduce la reflexión de compra y eleva el riesgo de sobreendeudamiento entre familias con menor educación financiera.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/09/17/tarjetas-faciles-deudas-dificiles/",
+    "source": "El Financiero",
+    "published": "2026-09-17T12:20:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México fabrica para Norteamérica…y ¿también puede financiarla?",
+    "summary": "Una columna de opinión en Expansión explora si México, además de consolidarse como la plataforma manufacturera de Norteamérica por el nearshoring, puede convertirse también en una fuente de financiamiento para esa cadena de valor regional. El planteamiento vincula el auge industrial con el papel que debe jugar el sistema financiero mexicano en su consolidación.",
+    "link": "https://expansion.mx/opinion/2026/09/17/mexico-fabrica-para-norteamerica-y-tambien-puede-financiarla",
+    "source": "Expansión",
+    "published": "2026-09-17T12:00:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "San Francisco's AI Wealth Boom Skirts Engineers as OpenAI, Anthropic IPOs Near",
+    "summary": "San Francisco's tech economy is being reshaped by the enormous personal wealth generated at OpenAI and Anthropic as both companies approach IPOs, even as many software engineers elsewhere face layoffs and a cooling job market. The piece highlights a growing wealth divide within the AI industry itself.",
+    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+    "source": "Bloomberg",
+    "published": "2026-09-17T12:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA abre una carrera por US$31,6 billones: la carta energética de Argentina para captar data centers",
+    "summary": "Argentina busca posicionarse como destino de data centers de IA aprovechando su disponibilidad energética —gas de Vaca Muerta, hidroeléctrica y potencial eólico y solar— además de temperaturas frías que reducen costos de refrigeración. Según PwC Argentina, estas ventajas la colocan en la carrera global por infraestructura de cómputo para inteligencia artificial.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-ia-abre-una-carrera-por-us316-billones-la-carta-energetica-de-argentina-para-captar-data-centers/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
+    "summary": "Empresas en México enfrentan auditorías fiscales exprés del SAT al tiempo que se preparan para posibles límites a sus deducciones, según reporta Expansión. La nota aborda cómo estos cambios regulatorios están presionando la planeación fiscal y el manejo del riesgo corporativo.",
+    "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
+    "source": "Expansión",
+    "published": "2026-09-17T11:55:38+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cómo queda Banxico frente al alza de tasas de la Fed y qué hará en su reunión monetaria?",
+    "summary": "Banxico mantendría la tasa de interés sin cambios en su reunión del 24 de septiembre, pese al alza más hawkish de lo esperado de la Fed, según analistas consultados por Bloomberg Línea. El banco central ya sostiene la tasa en 6.50% desde agosto, respaldado por la fortaleza del peso, y el consenso no anticipa movimientos en el corto plazo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/como-queda-banxico-frente-al-alza-de-tasas-de-la-fed-y-que-hara-en-su-reunion-monetaria/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T11:32:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CoreWeave Seeks to Raise $3 Billion in Convertible Bonds",
+    "summary": "CoreWeave, a provider of AI computing infrastructure, launched a new fundraising round including a $3 billion convertible bond issue and a vehicle for potential share sales. The raise reflects the scale of capital demand from AI infrastructure providers even as debt investors grow more scrutinous.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/coreweave-plans-to-raise-3-billion-from-convertible-bonds",
+    "source": "Bloomberg",
+    "published": "2026-09-17T11:28:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EU's Slow Regulation Is Finding Fans in AI Age",
+    "summary": "As concerns about AI safety and misuse grow, Europe's traditionally slow, cautious approach to technology regulation is gaining new appreciation as a possible model for managing AI risk. The piece argues deliberate regulation could help balance innovation with restraint in the AI era.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/eu-s-slow-regulation-is-finding-fans-in-ai-age",
+    "source": "Bloomberg",
+    "published": "2026-09-17T11:02:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Este fondo de Dubái ve en el comercio con el Mercosur una puerta de entrada de capital a Brasil",
+    "summary": "El Dubai Future District Fund identifica en el comercio entre Medio Oriente y el Mercosur una vía de entrada de capital hacia Brasil, impulsada por un aumento superior al 60% en una década en las exportaciones brasileñas a la región. Su director señala que \"cuando se crean corredores comerciales, el capital tiende a seguirlos\", apuntando a mayor inversión emiratí en la región.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/este-fondo-de-dubai-ve-en-el-comercio-con-el-mercosur-una-puerta-de-entrada-de-capital-a-brasil/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T11:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China's AI labs must accelerate development, says Huawei chair",
+    "summary": "Huawei's chairman is urging Chinese AI labs to accelerate development, pushing back against Silicon Valley calls for a slowdown amid rising concerns about AI's existential risks. The comments highlight a widening strategic divide between US and Chinese approaches to AI governance.",
+    "link": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T10:50:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kueski, nuevo fichaje",
+    "summary": "Kueski nombró a Jordan Olivier, con más de 25 años de trayectoria en fintech, crédito al consumo, banca y mercados de capitales, como su nuevo CFO para liderar la estrategia financiera y de capital en una etapa clave de expansión. La fintech mexicana ha emitido cerca de 40 millones de préstamos y Kueski Pay ya está integrado en casi 40% del comercio electrónico del país.",
+    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/17/kueski-nuevo-fichaje/",
+    "source": "El Financiero",
+    "published": "2026-09-17T10:47:25+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Novo Nordisk (NVO) Taps Anthropic AI to Develop Next-Generation Medicines",
+    "summary": "Novo Nordisk, maker of Ozempic, is adopting Anthropic's AI tools to accelerate the development of next-generation medicines, citing the need for speed in drug discovery. The partnership underscores growing enterprise adoption of AI models in regulated, high-stakes industries like pharma.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/novo-nordisk-nvo-taps-anthropic-ai-to-develop-next-generation-medicines",
+    "source": "Bloomberg",
+    "published": "2026-09-17T10:30:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The trickle-down economics of the AI boom",
+    "summary": "The Economist examines how AI investment is translating into broader economic gains, using Taiwan and South Korea as early test cases for whether the AI boom lifts wages and growth beyond a narrow set of tech firms. The piece questions how quickly—and how widely—AI's economic benefits will spread.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+    "source": "The Economist",
+    "published": "2026-09-17T09:27:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Data Center Developer LIAN Eyes IPO to Raise $500 Million",
+    "summary": "LIAN Group, a developer of AI and computing infrastructure, is considering an IPO that could raise roughly $500 million. The potential listing adds to a wave of AI infrastructure companies tapping public markets for growth capital.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ai-data-center-developer-lian-mulls-ipo-to-raise-500-million",
+    "source": "Bloomberg",
+    "published": "2026-09-17T09:08:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI discloses new 'concerning' model behaviour",
+    "summary": "OpenAI has launched a system to track and report concerning misbehavior in its AI models, disclosing new findings about unexpected model conduct. The move signals growing industry focus on AI safety monitoring as models become more capable and harder to fully predict.",
+    "link": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T07:42:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Fed sube tasas por primera vez desde 2023 y perfila otra alza",
     "summary": "La Fed subió su tasa de referencia en 25 puntos base, a un rango de 3.75%-4.0%, su primer aumento desde 2023, y el comité contempló otra alza este año. Su presidente, Kevin Warsh, dijo que la economía se expande con solidez y el empleo crece, pero que la inflación sigue elevada y la decisión busca un regreso más rápido a la meta de 2%.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/09/17/fed-sube-tasas-por-primera-vez-desde-2023-y-perfila-otra-alza/",
@@ -22,6 +231,17 @@
     "light": true
   },
   {
+    "title": "Expertos de EU y China proponen medidas de seguridad similares a las de las nucleares para la IA",
+    "summary": "Expertos en seguridad de Estados Unidos y China proponen tratar a los sistemas de IA militarmente relevantes con protocolos de seguridad similares a los nucleares, incluyendo líneas rojas en torno a sistemas de mando y control humano sobre ciberataques significativos. Las recomendaciones se publican antes de conversaciones oficiales sobre IA previstas para el 24 de septiembre en Washington.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/expertos-eu-china-proponen-medidas-seguridad-similares-nucleares-ia-20260917-833906.html",
+    "source": "El Economista",
+    "published": "2026-09-17T06:09:30-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Port of LA Foiled Around 120 Million Cyberattacks Last Month",
     "summary": "The Port of Los Angeles, the US's busiest container port, foiled more than 120 million cyberattack attempts in August alone, underscoring the scale of the cybersecurity threat facing critical trade infrastructure. The port is also navigating shifting US tariff policy.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month",
@@ -29,6 +249,17 @@
     "published": "2026-09-17T05:56:26+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "summary": "Britain's King Charles plans to press leading AI figures, including executives from Nvidia and OpenAI, for reassurances that they can keep their technologies under control. The intervention reflects rising establishment concern over AI's unchecked development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+    "source": "Bloomberg",
+    "published": "2026-09-17T05:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -229,6 +460,28 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Meta gana impulso en Wall Street con Muse: cuánto puede subir y cómo invertir en sus acciones",
+    "summary": "Las acciones de Meta suben en Wall Street impulsadas por el lanzamiento de Muse y otros productos de IA más allá de la publicidad, según analistas de JPMorgan que ven potencial alcista significativo. El título acumula una ganancia de 19.3% en el último mes en medio del entusiasmo por sus modelos de frontera.",
+    "link": "https://www.bloomberglinea.com/mercados/meta-gana-impulso-en-wall-street-con-muse-cuanto-puede-subir-y-como-invertir-en-sus-acciones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-16T16:13:57+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Dónde invertir ahora? Las apuestas de BlackRock en acciones, bonos y mercados emergentes",
+    "summary": "BlackRock mantiene una postura favorable al riesgo pese a tasas más altas, sobreponderando acciones de EE.UU. y elevando su exposición a mercados emergentes mientras se vuelve más selectivo en renta fija. La gestora señala que el desarrollo de la inteligencia artificial sigue siendo uno de los principales ejes de inversión pese al mayor costo de capital.",
+    "link": "https://www.bloomberglinea.com/mercados/donde-invertir-ahora-las-apuestas-de-blackrock-en-acciones-bonos-y-mercados-emergentes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-16T16:00:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI must not outrun safety controls, DeepMind co-founder warns",
@@ -5245,258 +5498,5 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Indicadores del 7 al 11 de septiembre: Inflación en México y en EU y actividad industrial",
-    "summary": "El Economista repasa la agenda económica de la semana: en México se publicarán datos de inflación de agosto, venta de autos, balanza comercial y actividad industrial, además del reporte de trabajadores afiliados al IMSS. En el exterior destaca la decisión de política monetaria del BCE y los datos de precios al consumidor y productor de Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-7-11-septiembre-inflacion-mexico-eu-actividad-industrial-20260907-832130.html",
-    "source": "El Economista",
-    "published": "2026-09-07T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La ONU advierte que la IA podría suponer un riesgo \"existencial\" para la humanidad",
-    "summary": "El responsable de derechos humanos de la ONU, Volker Türk, advirtió ante el Consejo de Derechos Humanos que la IA avanzada podría representar un riesgo existencial para la humanidad y llamó a las empresas a reforzar garantías de seguridad antes de que sea demasiado tarde. Citó como ejemplo de IA \"demasiado poderosa\" a sistemas capaces de escapar de su entorno de prueba o chantajear a sus desarrolladores.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/onu-advierte-ia-suponer-riesgo-existencial-humanidad-20260907-832204.html",
-    "source": "El Economista",
-    "published": "2026-09-07T06:22:13-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Tech Firms Eye Australia for AI Centers, Local Operator Says",
-    "summary": "US tech giants are showing interest in building data centers in Australia, drawn by its green power grid and proximity to Asia, as they face growing backlash against data-center expansion at home, according to operator AirTrunk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/us-tech-firms-eye-australia-for-ai-centers-local-operator-says",
-    "source": "Bloomberg",
-    "published": "2026-09-07T05:25:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Condona Infonavit, pero sube morosidad",
-    "summary": "Infonavit ha condonado casi 314,000 millones de pesos a deudores entre 2025 y 2026, pero pese a las condonaciones y a las bajas de tasas, la morosidad de los créditos sigue en aumento.",
-    "link": "https://www.reforma.com/condona-infonavit-pero-sube-morosidad/ar3271378",
-    "source": "Reforma",
-    "published": "2026-09-07T05:01:32-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 90,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Alertan de credibilidad en presupuesto 2027",
-    "summary": "The Economist advierte que el Presupuesto de Egresos de la Federación 2027 será clave para frenar la erosión de confianza fiscal en México y evitar que el país continúe pagando tasas de deuda más altas.",
-    "link": "https://www.reforma.com/alertan-de-credibilidad-en-presupuesto-2027/ar3271356",
-    "source": "Reforma",
-    "published": "2026-09-07T05:01:32-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Why America’s debt binge is starting to matter",
-    "summary": "The FT warns that if long-term US interest rates decisively break through the 5% threshold, rising debt costs could start to derail the broader AI investment boom.",
-    "link": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-07T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Con o sin huelga, los refrendos de tu empeño en Monte de Piedad siguen contando",
-    "summary": "Los refrendos de préstamos empeñados en Nacional Monte de Piedad seguirán contando con normalidad para los clientes, incluso en medio de una huelga en la institución, según Expansión.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/06/refrendos-nacional-monte-de-piedad-esto-pasa-empeno-huelga",
-    "source": "Expansión",
-    "published": "2026-09-07T00:19:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tasa de descuento al comercio, precio de libre mercado: bancos",
-    "summary": "La banca mexicana responde a Concanaco, que acusa a las altas comisiones por aceptar tarjetas (tasa de descuento al comercio) de frenar la digitalización de las MiPyMEs. Los banqueros argumentan que la adopción de pagos electrónicos depende de factores más amplios —aceptación, experiencia de usuario, inclusión financiera— y no solo del costo cobrado a los comercios.",
-    "link": "https://www.eleconomista.com.mx/opinion/tasa-descuento-comercio-precio-libre-mercado-bancos-20260907-832183.html",
-    "source": "El Economista",
-    "published": "2026-09-07T00:14:42-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las empresas del nuevo ‘boom’ eléctrico de México",
-    "summary": "Un nuevo 'boom' de proyectos eléctricos en México está atrayendo a constructoras con perfiles distintos a los tradicionales; como ejemplo, los accionistas de Duro Felguera (propiedad de Mota-Engil y Grupo Prodi) deben decidir en los próximos días si aceptan un contrato de casi 250 millones de dólares para construir una central de ciclo combinado de 1,000 MW. El presidente del CCE, José Medina Mora, calificó de atípico el reciente optimismo de gobierno y empresas sobre estos proyectos de infraestructura desatorados.",
-    "link": "https://www.eleconomista.com.mx/opinion/empresas-nuevo-boom-electrico-mexico-20260907-832182.html",
-    "source": "El Economista",
-    "published": "2026-09-07T00:13:13-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los seis pasos",
-    "summary": "Ricardo Salinas describe el 'modelo de gestión de seis pasos' que Grupo Salinas —conglomerado con ingresos equivalentes a cerca del 1% del PIB mexicano y 200 mil colaboradores— utiliza para mantener una cultura organizacional flexible y clara pese a operar decenas de negocios distintos, incluidas sus sucursales bancarias.",
-    "link": "https://www.eleconomista.com.mx/opinion/seis-pasos-20260907-832181.html",
-    "source": "El Economista",
-    "published": "2026-09-07T00:11:52-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cuando la información financiera se convierte en inteligencia",
-    "summary": "La Unidad de Inteligencia Financiera (UIF) de México ha evolucionado del cumplimiento normativo hacia la generación de inteligencia para desarticular estructuras delictivas: entre octubre de 2024 y agosto de 2026 bloqueó a 2,395 personas e inmovilizó 24,622 cuentas por cerca de 8,670 millones de pesos. Su titular, Omar Reyes Colmenares, señala que 70% de los aseguramientos están vinculados a organizaciones que afectan la seguridad del país.",
-    "link": "https://www.eleconomista.com.mx/opinion/informacion-financiera-convierte-inteligencia-20260907-832180.html",
-    "source": "El Economista",
-    "published": "2026-09-07T00:09:58-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Prevén capital chino en ensamble de autos",
-    "summary": "Especialistas automotrices prevén la llegada creciente de capital chino a la manufactura de ensamble en México —vía SAIC-GM (Wuling), Stellantis (Leapmotor), y posiblemente GAC, Xpeng, Chirey, Geely y MG— para producir localmente y no solo importar. JD Power México advierte que el país podría convertirse en plataforma de manufactura china para Latinoamérica y, eventualmente, Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/empresas/preven-capital-chino-ensamble-autos-20260907-832177.html",
-    "source": "El Economista",
-    "published": "2026-09-07T00:05:52-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Seguro médico para adultos mayores; AXA busca voltear el modelo",
-    "summary": "El mercado mexicano de gastos médicos mayores excluye sistemáticamente a los adultos mayores justo cuando más necesitan cobertura, pese a haber pagado primas durante décadas. AXA México, a través de su director general Daniel Bandle, busca replantear el modelo histórico de libre elección de médico y hospital que ha disparado las primas para este segmento, que superará 20 millones de personas hacia 2030.",
-    "link": "https://www.eleconomista.com.mx/opinion/seguro-medico-adultos-mayores-axa-busca-voltear-modelo-20260906-832178.html",
-    "source": "El Economista",
-    "published": "2026-09-06T23:55:18-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pide Coparmex reorientar gasto para crecer",
-    "summary": "Coparmex pidió reorientar el gasto del Paquete Económico 2027 para reducir el déficit y contener la deuda pública, sin frenar la inversión, según Reforma.",
-    "link": "https://www.reforma.com/pide-coparmex-reorientar-gasto-para-crecer/ar3271399",
-    "source": "Reforma",
-    "published": "2026-09-06T20:02:39-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
-    "summary": "El Banco de México modificará la forma en que se realizan las transferencias electrónicas, aunque la CLABE (Clave Bancaria Estandarizada) seguirá vigente, según Expansión.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/06/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias",
-    "source": "Expansión",
-    "published": "2026-09-06T19:56:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inflation is back around the world—as is the fight against it",
-    "summary": "Central banks around the world are raising interest rates again as inflation resurges globally. The piece frames this as a renewed monetary-tightening cycle following a period of easing.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
-    "source": "The Economist",
-    "published": "2026-09-06T15:39:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Carlos Slim le mete lana a Polanco: ¿Qué obras realiza en una de las zonas más exclusivas de CDMX?",
-    "summary": "Inmuebles Carso, el brazo inmobiliario de Carlos Slim, desarrolla actualmente un hospital, un centro comercial y un complejo de vivienda y oficinas en Polanco, con una inversión conjunta de 17,300 millones de pesos según su reporte anual ante la BMV. Las obras, activas desde finales de 2025, estarán listas entre fines de 2026 y principios de 2027, y refuerzan la apuesta histórica de Slim por esa zona de la Ciudad de México.",
-    "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/carlos-slim-le-mete-lana-a-polanco-que-obras-realiza-en-una-de-las-zonas-mas-exclusivas-de-cdmx/",
-    "source": "El Financiero",
-    "published": "2026-09-06T13:45:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BlackRock to JPMorgan Bet on EM as Turmoil Seizes Global Bonds",
-    "summary": "Major asset managers including JPMorgan Asset Management and BlackRock are turning to emerging-market debt as an edge amid turmoil in developed-market government bonds. The shift reflects growing investor interest in EM fixed income as a hedge against instability in major sovereign bond markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-06/blackrock-to-jpmorgan-bet-on-em-as-turmoil-seizes-global-bonds",
-    "source": "Bloomberg",
-    "published": "2026-09-06T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La revolución intelagéntica ya comenzó",
-    "summary": "Columna de opinión en Expansión sobre el avance de los agentes de inteligencia artificial ('IA intelagéntica') y su creciente impacto en las empresas. El texto plantea que esta nueva ola de IA agéntica ya está transformando la manera en que operan las organizaciones.",
-    "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
-    "source": "Expansión",
-    "published": "2026-09-06T12:00:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Y usted, ¿qué se lleva a casa al terminar su jornada de trabajo?",
-    "summary": "El artículo explora por qué la experiencia laboral diaria afecta el bienestar de los empleados más allá del salario, citando evidencia de psicología organizacional. Señala que el respeto, la autonomía, la confianza y el sentido del trabajo son factores decisivos para el compromiso, por lo que dos personas con el mismo sueldo pueden vivir experiencias laborales completamente distintas.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/lleva-casa-terminar-jornada-trabajo-20260906-832076.html",
-    "source": "El Economista",
-    "published": "2026-09-06T12:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Menos reglas y más data centers: la visión de Musk, Altman, Huang y Zuckerberg sobre la IA",
-    "summary": "En la Reunión Ministerial de Innovación del G20 en Carolina del Norte, líderes tecnológicos como Elon Musk, Sam Altman, Jensen Huang y Mark Zuckerberg debatieron con funcionarios de EU sobre energía, regulación e infraestructura para la IA. Washington defendió una postura regulatoria menos intervencionista, mientras Musk y Huang advirtieron contra frenar la innovación, Altman reconoció riesgos justificados y Zuckerberg puso el foco en otros desafíos.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/reglas-data-centers-vision-musk-altman-huang-zuckerberg-sobre-ia-20260906-832095.html",
-    "source": "El Economista",
-    "published": "2026-09-06T11:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Overlook House / Migration Studios",
-    "summary": "The Overlook reinterprets an Idaho mountain cabin as a high-performance mass-timber retreat set within a mature ponderosa forest. The project by Migration Studios emphasizes a light architectural footprint that steps carefully through the surrounding landscape.",
-    "link": "https://www.archdaily.com/1184449/the-overlook-migration-studios",
-    "source": "ArchDaily",
-    "published": "2026-09-06T11:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "PEF 2027: Esta es la fecha límite para la entrega del proyecto presupuestal",
-    "summary": "El gobierno de Claudia Sheinbaum se acerca a la fecha límite del 8 de septiembre para entregar al Congreso el Paquete Económico 2027, que incluirá reformas orientadas a consolidación fiscal, reducción del déficit, combate a la evasión y fortalecimiento de la trazabilidad del IEPS a combustibles. El paquete también buscará impulsar la economía digital y mantener el gasto en programas sociales.",
-    "link": "https://www.eleconomista.com.mx/economia/pef-2027-fecha-limite-entrega-proyecto-presupuestal-20260906-832078.html",
-    "source": "El Economista",
-    "published": "2026-09-06T10:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
   }
 ]
