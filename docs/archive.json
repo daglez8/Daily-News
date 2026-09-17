@@ -1,5 +1,115 @@
 [
   {
+    "title": "Rey Carlos III advierte de 'riesgos existenciales' si la IA cae 'en manos equivocadas'",
+    "summary": "El rey Carlos III advirtió en una cumbre en Dumfries House, Escocia, sobre los “riesgos existenciales” de que la inteligencia artificial caiga en manos equivocadas y sea usada de forma catastrófica. Al encuentro asistieron ejecutivos de Nvidia, Google DeepMind, OpenAI y Anthropic, además de representantes de China y el Vaticano. El monarca instó a los líderes del sector a garantizar que la IA sirva a la humanidad y no solo al avance tecnológico.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/17/rey-carlos-iii-advierte-de-riesgos-existenciales-si-la-ia-cae-en-manos-equivocadas/",
+    "source": "El Financiero",
+    "published": "2026-09-17T19:05:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fintech México pide preservar competencia y neutralidad tecnológica ante Ley de Economía Digital",
+    "summary": "La Asociación Fintech México respaldó la Iniciativa de Ley de Economía Digital para Pagos Digitales, señalando que fortalece la inclusión financiera y la digitalización, pero pidió preservar la competencia y la neutralidad tecnológica entre los distintos participantes de la infraestructura de pagos. El gremio busca asegurar que el impulso regulatorio a los pagos digitales no desincentive la inversión privada en el sector.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fintech-mexico-pide-preservar-competencia-neutralidad-tecnologica-ley-economia-digital-20260917-833974.html",
+    "source": "El Economista",
+    "published": "2026-09-17T18:38:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los modelos de IA abiertos quedan a 3 puntos de los cerrados y a 60% de su precio: Mozilla",
+    "summary": "Un informe de Mozilla sobre el estado de la IA de código abierto muestra que modelos abiertos como Kimi K3, Qwen y DeepSeek han cerrado la brecha con los modelos cerrados de OpenAI y Anthropic, quedando a solo tres puntos de rendimiento y con un costo 60% menor. El reporte destaca que, pese al avance en capacidad y precio, los modelos de pesos abiertos aún presentan fallas en su despliegue práctico.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/modelos-ia-abiertos-quedan-3-puntos-cerrados-60-precio-mozilla-20260917-833958.html",
+    "source": "El Economista",
+    "published": "2026-09-17T17:36:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 81,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Revolut sospesa una cotización dual en los mercados de Nueva York y Londres",
+    "summary": "El CEO de Revolut, Nik Storonsky, confirmó que el neobanco evalúa una doble cotización bursátil en Nueva York y Londres, aunque su opción preferida sigue siendo el Nasdaq. La fintech británica, que ya opera con licencias bancarias en México, Reino Unido, Australia y otros mercados, también recibió aprobación condicional de su carta bancaria en Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/revolut-sospesa-cotizacion-dual-mercados-nueva-york-londres-20260917-833956.html",
+    "source": "El Economista",
+    "published": "2026-09-17T17:30:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 79,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banco de Japón sigue a la Fed y se alista para subir tasas: por qué debe importarle a América Latina",
+    "summary": "El Banco de Japón se alista para subir su tasa de referencia de 1% a 1.25% este viernes, la segunda alza en tres meses, en medio de presiones inflacionarias persistentes. El movimiento golpea el carry trade que durante años usó el yen barato para financiar inversiones en mercados emergentes de mayor rendimiento, incluida América Latina.",
+    "link": "https://www.bloomberglinea.com/mercados/banco-de-japon-sigue-a-la-fed-y-se-alista-para-subir-tasas-por-que-debe-importarle-a-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T16:51:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Has AI broken the old VC model?",
+    "summary": "The FT reports that a wave of AI-driven mega-IPOs is stretching the venture capital industry's traditional feast-or-famine dynamics to an extreme, concentrating outsized returns in a small number of AI bets. The piece questions whether the old VC playbook still works in an AI-dominated funding environment.",
+    "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T16:46:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says",
+    "summary": "The Trump administration is weighing updates to interagency antitrust guidance on cybersecurity to address new AI-driven threats, according to Associate US Attorney General Stanley Woodward. The move signals growing regulatory attention to how AI capabilities intersect with competition and security policy in Washington.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-weighs-antitrust-guidance-on-ai-safety-top-doj-official-says",
+    "source": "Bloomberg",
+    "published": "2026-09-17T15:53:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La ruta del fraude financiero en América Latina: de Brasil a Colombia y México en pocas semanas",
+    "summary": "Ejecutivos de Incode señalan que el fraude financiero digital sigue una ruta predecible en América Latina: surge primero en Brasil, con las modalidades más sofisticadas, y en cuestión de semanas se replica en Colombia y luego en México. La tendencia subraya la necesidad de que bancos y fintechs mexicanas anticipen vectores de fraude ya detectados en otros mercados de la región.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-ruta-del-fraude-financiero-en-america-latina-de-brasil-a-colombia-y-mexico-en-pocas-semanas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T15:00:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Precio del dólar, oro, bonos y acciones: qué cambia tras incremento en la tasas de la Fed",
+    "summary": "La primera subida de tasas de la Reserva Federal desde 2023 reordenó el mapa de inversión: el dólar se fortaleció, el oro quedó bajo presión y las acciones enfrentan un mayor costo de capital. El mercado ahora evalúa qué activos podrán resistir si la Fed mantiene las tasas elevadas por más tiempo.",
+    "link": "https://www.bloomberglinea.com/mercados/precio-del-dolar-oro-bonos-y-acciones-que-cambia-tras-incremento-en-la-tasas-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-17T13:36:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sleep like a pro",
+    "summary": "The Economist profiles a company's effort to build a more rested workforce by treating sleep as a performance and productivity lever. The piece touches on growing corporate interest in sleep science, echoing broader wearables and longevity trends.",
+    "link": "https://www.economist.com/business/2026/09/17/sleep-like-a-pro",
+    "source": "The Economist",
+    "published": "2026-09-17T12:45:01+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
     "summary": "New US home construction fell unexpectedly in August to one of its weakest paces since the pandemic, driven by a plunge in multifamily housing starts. The data adds to signs of a cooling housing sector amid elevated borrowing costs.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-housing-starts-unexpectedly-decline-on-multifamily-projects",
@@ -99,6 +209,17 @@
     "light": false
   },
   {
+    "title": "Pemex pierde 10,541 mdp por la concentración de precios y agudiza su presión financiera",
+    "summary": "Pemex registró pérdidas por 10,541 millones de pesos vinculadas a la concentración de precios en gasolinas, lo que profundiza la presión financiera de la petrolera estatal mexicana. La situación resalta el reto que enfrenta la compañía para sostener su viabilidad financiera en medio de la política de precios bajos de gasolina.",
+    "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
+    "source": "Expansión",
+    "published": "2026-09-17T11:55:08+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "¿Cómo queda Banxico frente al alza de tasas de la Fed y qué hará en su reunión monetaria?",
     "summary": "Banxico mantendría la tasa de interés sin cambios en su reunión del 24 de septiembre, pese al alza más hawkish de lo esperado de la Fed, según analistas consultados por Bloomberg Línea. El banco central ya sostiene la tasa en 6.50% desde agosto, respaldado por la fortaleza del peso, y el consenso no anticipa movimientos en el corto plazo.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/como-queda-banxico-frente-al-alza-de-tasas-de-la-fed-y-que-hara-en-su-reunion-monetaria/",
@@ -171,6 +292,17 @@
     "source": "Bloomberg",
     "published": "2026-09-17T10:30:25+00:00",
     "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street warns trading boom is losing steam",
+    "summary": "The FT reports that Wall Street's trading-revenue boom is losing momentum after a record second quarter, as banks warn growth is decelerating. The slowdown raises questions about how sustainable the recent capital-markets rally will be into year-end.",
+    "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-17T10:00:03+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 75,
     "language": "en",
     "light": true
@@ -5366,137 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Banxico ante posibles alzas en la tasa de la FED",
-    "summary": "El columnista analiza el tono del presidente de la Fed, Kevin Warsh, calificándolo de hawkish pero con señales contradictorias: eliminó la guía prospectiva, propone menos reuniones anuales de la Junta y ya votó dos veces por mantener las tasas sin cambios. El texto cuestiona si Banxico debe prepararse para una postura más restrictiva de la Fed pese a estas señales mixtas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/09/07/banxico-ante-posibles-alzas-en-la-tasa-de-la-fed/",
-    "source": "El Financiero",
-    "published": "2026-09-07T12:46:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
-    "summary": "ByteDance is preparing an AI model geared toward real-time spatial video generation, positioning itself against Meta and Alphabet in a race with applications in robotics and autonomous systems. The move signals intensifying competition among AI labs to perfect so-called world models.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-    "source": "Bloomberg",
-    "published": "2026-09-07T12:25:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La fiscalización dispara la seguridad social de trabajadores en plataformas digitales: STPS",
-    "summary": "La fiscalización de la STPS a empresas de plataformas digitales fue el factor determinante para duplicar el número de repartidores y conductores con seguridad social, de 130,000 a 247,700 personas aseguradas, según la Unidad de Trabajo Digno. Una sola empresa auditada directamente concentró buena parte del repunte, tras usar conceptos como bonos por lluvia o nocturnidad para evitar reportar ingresos ante el IMSS.",
-    "link": "https://www.eleconomista.com.mx/empresas/fiscalizacion-dispara-seguridad-social-trabajadores-plataformas-digitales-stps-20260907-832252.html",
-    "source": "El Economista",
-    "published": "2026-09-07T12:14:36-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia toca la puerta de Sheinbaum: proyectos en Pemex y supercomputadora Coatlicue en la agenda del gobierno",
-    "summary": "Nvidia se acerca al gobierno de Sheinbaum con proyectos vinculados a Pemex y a la supercomputadora Coatlicue, según el titular de Expansión.",
-    "link": "https://expansion.mx/tecnologia/2026/09/07/nvidia-toca-la-puerta-de-sheinbaum",
-    "source": "Expansión",
-    "published": "2026-09-07T11:55:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "When Will We Achieve AGI? AI Leaders Now Say It’s a Fuzzy Target",
-    "summary": "Bloomberg reports that AI industry leaders are backing away from treating AGI — the point where AI outperforms humans at most tasks — as a clearly measurable milestone, reflecting growing uncertainty about how and when it will be reached.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target",
-    "source": "Bloomberg",
-    "published": "2026-09-07T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tres oportunidades y tres riesgos si quieres invertir en América Latina antes de que acabe 2026",
-    "summary": "Analistas ven oportunidades de inversión en América Latina hacia el cierre de 2026, especialmente en los Andes, materias primas, crédito y renta fija, aunque el atractivo no es uniforme. Bank of America redujo su posición en México a infraponderar mientras sobrepondera Perú, Colombia y Argentina, en un contexto de elecciones en Brasil y presiones fiscales regionales.",
-    "link": "https://www.bloomberglinea.com/mercados/tres-oportunidades-y-tres-riesgos-si-quieres-invertir-en-america-latina-antes-de-que-acabe-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-07T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ánimo de inversión histórico en Yucatán, pero Coparmex Mérida tiene otros datos",
-    "summary": "Mientras Coparmex Mérida reporta que el ánimo de inversión en Yucatán está en mínimos históricos según su encuesta voluntaria, la misma semana trajo anuncios contrastantes: un parque eólico de 9,250 millones de pesos y la llegada del unicornio Kavak al sureste del país. El columnista cuestiona la metodología de la encuesta frente a estos datos duros de inversión.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/09/07/animo-de-inversion-historico-en-yucatan-pero-coparmex-merida-tiene-otros-datos/",
-    "source": "El Financiero",
-    "published": "2026-09-07T10:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Transformación del sistema de pagos: ganadores y perdedores",
-    "summary": "La publicación de las reglas de interconexión de cámaras de compensación en México marca un avance clave para coordinar bancos, adquirentes y comercios, atendiendo preocupaciones planteadas incluso en las negociaciones comerciales con Estados Unidos sobre procesadores de pagos internacionales. La columna detalla ganadores y perdedores de esta transformación regulatoria del sistema de pagos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/09/07/transformacion-del-sistema-de-pagos-ganadores-y-perdedores/",
-    "source": "El Financiero",
-    "published": "2026-09-07T10:08:37+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Directivo de Microsoft revela la estrategia de IA que tiene el gigante tecnológico en Colombia",
-    "summary": "Según Microsoft, el 63% de los trabajadores colombianos ya usa IA en el trabajo, cinco puntos por encima del promedio global, de acuerdo con su Work Trend Index 2026. Pese a la rápida adopción, el 70% teme quedar rezagado si no se adapta, aunque la mayoría sigue usando la IA como punto de partida y no como respuesta definitiva.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/directivo-de-microsoft-revela-la-estrategia-de-ia-que-tiene-el-gigante-tecnologico-en-colombia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-07T10:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Japan’s Preferred Networks Seeks IPO to Keep Up in AI Chip Race",
-    "summary": "Japanese startup Preferred Networks is seeking to go public in order to mass-produce its own AI chips, reflecting the rising cost and scale needed to stay competitive in the global AI race, according to CEO Daisuke Okanohara.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race",
-    "source": "Bloomberg",
-    "published": "2026-09-07T09:10:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
-    "summary": "A biotech company says an experimental lung-disease drug discovered using AI showed early signs of reversing biological aging markers in a study, pointing to potential broader anti-aging applications.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
-    "source": "Bloomberg",
-    "published": "2026-09-07T09:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
-    "summary": "Malaysia is leaning toward relying on Huawei's artificial intelligence chips to power its sovereign AI efforts, a move that would be a major win for Chinese AI technology despite strong opposition from the Trump administration.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
-    "source": "Bloomberg",
-    "published": "2026-09-07T07:01:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
