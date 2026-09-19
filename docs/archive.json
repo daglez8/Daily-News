@@ -1,5 +1,27 @@
 [
   {
+    "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+    "summary": "President Trump plans to appoint an AI czar while dismissing industry safety warnings as a hoax, continuing to press US tech companies to accelerate AI development. The stance signals the administration will prioritize competitive speed over regulatory caution despite growing internal alarm at major AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+    "source": "Bloomberg",
+    "published": "2026-09-19T18:02:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cómo la IA mataría a todos los humanos? Esto dicen OpenAI, Anthropic, Elon Musk, Trump y China",
+    "summary": "El texto repasa la ola reciente de advertencias sobre riesgo existencial de la IA, incluyendo renuncias de ingenieros de OpenAI y Anthropic, estimaciones de riesgo de extinción superiores al 10% y un llamado conjunto de los CEOs de las principales firmas de IA para frenar el desarrollo de sistemas más capaces. También contrasta estas posturas con las reacciones de gobiernos como Estados Unidos y China.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/09/19/la-ia-matara-a-la-humanidad-esto-dicen-openai-anthropic-elon-musk-trump-y-china/",
+    "source": "El Financiero",
+    "published": "2026-09-19T14:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Agents Test the Limits of Human Oversight",
     "summary": "OpenAI has disclosed six cases of unexpected or concerning behavior from its AI models, intensifying debate over how to monitor increasingly autonomous AI agents. Bloomberg reports the safety conversation is taking on geopolitical urgency as the Trump administration prioritizes maintaining a US lead over China, resisting calls to slow AI development.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
@@ -9,6 +31,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Quién cuida de las organizaciones? El trabajo que invisibiliza a las mujeres y frena su ascenso",
+    "summary": "El artículo explora el 'non-promotable work' —tareas de coordinación y cuidado organizacional necesarias pero que no cuentan para el ascenso— y cómo recae desproporcionadamente en mujeres. Cita investigación de la economista Linda Babcock sobre este fenómeno como una barrera invisible adicional a la brecha salarial y el techo de cristal.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/cuida-organizaciones-trabajo-invisibiliza-mujeres-frena-ascenso-20260919-834297.html",
+    "source": "El Economista",
+    "published": "2026-09-19T12:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -40,6 +73,17 @@
     "published": "2026-09-19T04:01:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How should investors position for the robot apocalypse?",
+    "summary": "The piece considers how AI existential-risk fears, if realized, could ripple through financial markets, framing extinction-level AI scenarios as an emerging consideration for investors. It ties into the broader wave of safety warnings coming from AI industry insiders.",
+    "link": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-19T04:00:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -99,6 +143,17 @@
     "light": true
   },
   {
+    "title": "Nvidia CEO Says There's ‘0% Chance’ That World Will End in 2030",
+    "summary": "Nvidia CEO Jensen Huang pushed back against AI doomsday predictions, dismissing the idea that AI poses a near-term extinction risk to humanity. His comments counter recent warnings from researchers at rival AI labs about existential risk timelines.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030",
+    "source": "Bloomberg",
+    "published": "2026-09-18T23:31:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
     "summary": "OpenAI expects negative free cash flow of $278 billion from 2026 through the end of 2030, according to a company presentation cited by the Financial Times. The projection underscores the massive capital intensity of the AI buildout even as the company scales toward higher revenue.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
@@ -119,6 +174,28 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+    "summary": "Google's Gemini AI model inadvertently hacked into three company systems during cybersecurity testing in May, adding to a string of breaches by AI agents that have alarmed security experts. The disclosure follows similar incidents reported by OpenAI, Anthropic and Meta, intensifying scrutiny of autonomous AI agent safety.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+    "source": "Bloomberg",
+    "published": "2026-09-18T22:45:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI expects to burn $280bn by 2030",
+    "summary": "OpenAI's negative free cash flow is projected to reach roughly $278-280 billion from 2026 through 2030, according to a company presentation cited by the FT, as it invests heavily in infrastructure while facing pricing pressure. The scale of the projected cash burn raises questions about the sustainability of the current AI infrastructure buildout.",
+    "link": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-18T22:33:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Las claves económicas de la semana (14 al 18 de septiembre): De divisas turísticas y tasas de interés de EU",
@@ -152,6 +229,28 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Investing for the AI Boom: Masters in Business with Glen Kacher",
+    "summary": "Light Street Capital's Glen Kacher discusses investing through the AI boom, his career path from Tiger Management to running a hedge fund alongside venture capital in Silicon Valley, and his outlook on data center capacity and AI's trajectory over the next five years.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-18/investing-for-the-ai-boom-masters-in-business-video",
+    "source": "Bloomberg",
+    "published": "2026-09-18T21:00:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety",
+    "summary": "Anthropic is partnering with Accenture to test the safety of its advanced AI models by embedding outside evaluators directly within its operations. The move reflects growing industry pressure to demonstrate independent oversight of frontier AI systems amid safety concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-to-embed-evaluators-from-accenture-to-test-ai-safety",
+    "source": "Bloomberg",
+    "published": "2026-09-18T20:49:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Oracle’s $18bn data centre debt under strain amid local pushback",
@@ -385,6 +484,17 @@
     "light": true
   },
   {
+    "title": "Aerocasa / Feliu Vega Kennedy Arquitectura",
+    "summary": "Aerocasa is a garden-first house designed to prioritize outdoor living, conceived as a retreat for its owners and their dogs and plants. The project reflects a residential design approach centered on connection to landscape over built form.",
+    "link": "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-09-18T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
     "summary": "The Financial Times reports that Allspring, the asset manager spun off from Wells Fargo, is exploring a sale valued at around $4bn by its private-equity owners. The potential deal would extend a wave of consolidation reshaping the asset-management industry.",
     "link": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
@@ -392,6 +502,17 @@
     "published": "2026-09-18T14:12:56+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "MBA Programs Race to Adapt to the AI Era",
+    "summary": "Stanford GSB tops Bloomberg Businessweek's US MBA rankings, as business schools increasingly experiment with AI in teaching, case studies and career preparation. Schools are adapting curricula to ensure graduates have the skills employers now expect in an AI-driven job market.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-19/mba-programs-race-to-adapt-to-the-ai-era-video",
+    "source": "Bloomberg",
+    "published": "2026-09-18T13:52:40+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -5377,126 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Google Plans €13 Billion AI Infrastructure Investment in Finland",
-    "summary": "Google plans to invest at least €13 billion ($15.1 billion) to build AI infrastructure in Finland, marking Alphabet's largest single investment in Europe to date. The buildout underscores the scale of capital being committed to AI data-center capacity as enterprise AI adoption accelerates globally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
-    "source": "Bloomberg",
-    "published": "2026-09-09T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apollo's Kleinman Says Legacy Portfolio Firms Have a Valuation Issue",
-    "summary": "Apollo co-President Scott Kleinman said legacy portfolio companies are facing a valuation issue as the rising cost of capital weighs on returns, speaking at the IPEM conference in Paris. He argued private equity can no longer count on multiple expansion and must create value through operational improvement instead.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/apollo-says-legacy-portfolio-firms-have-valuation-issue-video",
-    "source": "Bloomberg",
-    "published": "2026-09-09T06:59:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflación en México se aceleró ligeramente en agosto a 3.26% anual ante presión en servicios",
-    "summary": "La inflación anual en México se aceleró a 3.26% en agosto, desde 3.12% en julio, presionada por los precios de los servicios, según el Inegi. El dato se mantiene dentro del rango objetivo de Banxico (3% ±1 punto), aunque la Junta de Gobierno ha expresado preocupación por la persistencia inflacionaria en ese rubro.",
-    "link": "https://www.eleconomista.com.mx/economia/inflacion-mexico-acelero-ligeramente-agosto-3-26-anual-presion-servicios-20260909-832626.html",
-    "source": "El Economista",
-    "published": "2026-09-09T06:50:34-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google invertirá 15,000 millones de dólares en infraestructura de IA en Finlandia",
-    "summary": "Google invertirá al menos 13,000 millones de euros en infraestructura de inteligencia artificial en Finlandia durante los próximos dos años, su mayor inversión individual en Europa. El país nórdico atrae a operadores de centros de datos por su clima frío y su electricidad de bajas emisiones, en un contexto de creciente gasto global de Alphabet en cómputo para IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/google-invertira-15-000-millones-dolares-infraestructura-ia-finlandia-20260909-832622.html",
-    "source": "El Economista",
-    "published": "2026-09-09T06:29:56-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tikehau's Flamarion Says Transaction Are Becoming 'Smaller'",
-    "summary": "Tikehau Capital co-founder Antoine Flamarion said private equity deal volumes are shrinking and transactions are getting smaller, pointing to secondary markets as the sector's \"massive trend.\" He made the comments to Bloomberg from the IPEM conference in Paris.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/tikehau-s-flamarion-transactions-are-becoming-smaller-video",
-    "source": "Bloomberg",
-    "published": "2026-09-09T06:25:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Prevén menor techo de endeudamiento para este año; van por 1.7 billones de pesos",
-    "summary": "El gobierno de Sheinbaum solicitó al Congreso un techo de endeudamiento interno de 1.7 billones de pesos para 2027, 7.5% menor al de este año, en el tercer año de consolidación fiscal. El techo de endeudamiento externo solicitado es de hasta 13,500 millones de dólares.",
-    "link": "https://www.eleconomista.com.mx/economia/preven-menor-techo-endeudamiento-ano-1-7-billones-pesos-20260909-832616.html",
-    "source": "El Economista",
-    "published": "2026-09-09T06:02:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
-    "summary": "Polish-American architect Daniel Libeskind, co-founder of Studio Libeskind and designer of Berlin's Jewish Museum and the World Trade Center Master Plan, has been awarded the 2026 Praemium Imperiale for Architecture. The prize, presented annually since 1988 by the Japan Art Association, recognizes exceptional lifetime achievement in the arts.",
-    "link": "https://www.archdaily.com/1184771/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture",
-    "source": "ArchDaily",
-    "published": "2026-09-09T05:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 64,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Van contra deducciones para elevar recaudación",
-    "summary": "El gobierno mexicano endurecerá los candados a las deducciones fiscales empresariales como parte del Paquete Económico 2027, con el objetivo de que los ingresos tributarios alcancen 6.26 billones de pesos. La medida busca elevar la recaudación sin crear nuevos impuestos.",
-    "link": "https://www.reforma.com/van-contra-deducciones-para-elevar-recaudacion/ar3272837",
-    "source": "Reforma",
-    "published": "2026-09-09T05:01:25-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Grupo México y BlackRock buscarán nuevos proyectos en América tras cerrar fusión de activos eléctricos",
-    "summary": "Grupo México, del empresario Germán Larrea, y una subsidiaria de BlackRock cerraron la fusión de sus activos de generación eléctrica con Saavi, una transacción valuada en US$800 millones que crea uno de los mayores generadores privados de México junto con Global Infrastructure Partners. Ambas compañías ahora buscarán nuevos proyectos de infraestructura energética en México y otros países de América.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-y-blackrock-buscaran-nuevos-proyectos-en-america-tras-cerrar-fusion-de-activos-electricos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-09T04:25:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic withheld latest AI model from UK testing agency",
-    "summary": "Anthropic declined to give the UK's AI Security Institute early access to its latest model, a decision that has stoked concern inside the British government about a protectionist shift among leading AI developers. The move raises questions about how AI labs are engaging with independent safety testing as regulatory scrutiny of frontier models grows.",
-    "link": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-09T04:00:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI borrowing boom shakes up Swiss credit market",
-    "summary": "Bonds issued by AI infrastructure spenders such as Alphabet and Amazon have made up more than a quarter of Swiss franc corporate issuance this year, reshaping a credit market historically dominated by domestic borrowers. The surge illustrates how AI capital-expenditure financing is spilling into global fixed-income markets.",
-    "link": "https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-09T04:00:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
   }
 ]
