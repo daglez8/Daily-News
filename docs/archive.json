@@ -1,5 +1,71 @@
 [
   {
+    "title": "Marsh CEO Says Geopolitics Tops CEO Risks",
+    "summary": "Marsh CEO John Doyle told Bloomberg that geopolitical tensions and their impact on trade and supply chains are the top concern for corporate leaders heading into next year, ahead of even cyber and AI-related risks. He noted that emerging technology is simultaneously amplifying the cyber threats companies must manage. The comments come as insurers and risk managers recalibrate enterprise risk frameworks for an increasingly fragmented geopolitical environment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-20/marsh-ceo-says-geopolitics-tops-ceo-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-09-20T13:03:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inside Jefferies' Months-Long Tussle With Glencore Over Radiant",
+    "summary": "Bloomberg details a months-long, increasingly tense dispute between Jefferies Financial Group and commodities giant Glencore over the Radiant deal, with Jefferies executives growing frustrated with their counterparty. The standoff illustrates the friction that can arise in complex financial-sponsor and M&A dealmaking. It's a notable case study in dealmaking conflict among major financial institutions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/inside-jefferies-months-long-tussle-with-glencore-over-radiant",
+    "source": "Bloomberg",
+    "published": "2026-09-20T11:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cracks in Europe's Junk Property Debt Revive Fears of 2023 Pain",
+    "summary": "Bloomberg reports that Europe's riskier real estate debt is showing renewed strain from higher-for-longer interest rates, with a slump in junk-rated property bonds and the rare cancellation of a planned new issue. The pattern is reviving fears of a repeat of the 2023 property-debt crunch. It's a signal worth watching for mortgage and real-estate credit markets more broadly.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/cracks-in-europe-s-junk-property-debt-revive-fears-of-2023-pain",
+    "source": "Bloomberg",
+    "published": "2026-09-20T11:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 71,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "House prices survived the last interest-rate rise. Will they this time?",
+    "summary": "The Economist examines whether housing markets can survive another round of higher interest rates, noting that many of the fiscal and monetary supports that cushioned prices during the last rate-hiking cycle have now been withdrawn. It warns that affordability and mortgage-market strain could resurface more sharply this time. The piece is a useful read-across for housing-finance dynamics beyond the UK and US as well.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+    "source": "The Economist",
+    "published": "2026-09-20T09:05:41+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+    "summary": "The Financial Times reports that Wall Street banks are helping Big Tech keep roughly $300 billion of AI infrastructure exposure off their balance sheets, using guarantees that convert the tech giants' credit strength into cheaper funding for data-center and chip build-outs. The structures let hyperscalers scale AI investment without the debt showing up as direct leverage, raising questions among analysts about transparency and systemic risk. It underscores how aggressively capital markets are financing the AI buildout.",
+    "link": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-20T07:00:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IA abre a las PyMEs mexicanas nuevas opciones de publicidad y video",
+    "summary": "La inteligencia artificial está cambiando la forma en que las pequeñas y medianas empresas mexicanas hacen publicidad, al darles acceso a canales y formatos que antes estaban fuera de su alcance. Una investigación de Amazon Ads citada por El Economista señala una adopción creciente de herramientas de IA entre las pymes del país. El fenómeno refleja cómo la IA generativa está democratizando capacidades antes reservadas a grandes anunciantes.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/ia-abre-pymes-mexicanas-nuevas-opciones-publicidad-video-20260920-834343.html",
+    "source": "El Economista",
+    "published": "2026-09-20T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cuando los países ricos se financian como emergentes",
     "summary": "El rendimiento del bono del Tesoro estadounidense a 10 años superó 5%, su nivel más alto en 19 años, mientras los gobiernos de economías avanzadas —no solo EU— se financian a plazos cada vez más cortos para pagar menos intereses hoy. The Economist advierte que esta combinación de deuda elevada (110% del PIB) y tasas altas es inédita y obliga a estos países a refinanciarse con mayor frecuencia sin garantía de condiciones más baratas, un riesgo que México ya conoce bien.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/19/cuando-los-paises-ricos-se-financian-como-emergentes/",
@@ -9,6 +75,17 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Australia Home Auction Clearance Rates Fall Amid Rate Hike Fears",
+    "summary": "Bloomberg reports that Australia's residential real estate market stayed subdued as auction clearance rates fell, with buyers growing cautious ahead of a possible central-bank rate hike later this month, according to property researcher Cotality. The data adds to signs that higher-for-longer rates are cooling housing demand in developed markets. It offers a comparative data point for housing-affordability trends globally.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/australia-home-auction-clearance-rates-fall-amid-rate-hike-fears",
+    "source": "Bloomberg",
+    "published": "2026-09-20T02:56:32+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
@@ -33,6 +110,17 @@
     "light": false
   },
   {
+    "title": "Septiembre-octubre, meses críticos para los ciclones: ¿qué industrias mexicanas están más expuestas?",
+    "summary": "El Economista señala que septiembre y octubre son los meses más críticos para los ciclones en México y repasa qué industrias del país quedan más expuestas a este riesgo estacional. El reporte, en formato video, es relevante para la gestión de riesgo operativo y de cadena de suministro de empresas mexicanas.",
+    "link": "https://www.eleconomista.com.mx/videos/septiembre-octubre-meses-criticos-ciclones-industrias-mexicanas-expuestas-20260919-834330.html",
+    "source": "El Economista",
+    "published": "2026-09-19T18:07:16-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
     "summary": "President Trump plans to appoint an AI czar while dismissing industry safety warnings as a hoax, continuing to press US tech companies to accelerate AI development. The stance signals the administration will prioritize competitive speed over regulatory caution despite growing internal alarm at major AI labs.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
@@ -40,6 +128,17 @@
     "published": "2026-09-19T18:02:53+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Turkey Detains Top Finance Executives in Funds Scheme, NTV Says",
+    "summary": "Turkish authorities detained several high-profile finance executives over the weekend as part of an investigation into an alleged Ponzi-like funds scheme, according to Bloomberg citing NTV. The case adds to a string of financial-fraud enforcement actions in Turkey's capital markets. It's a reminder of governance and fraud risk in emerging-market financial services.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-19/turkey-detains-top-finance-executives-in-funds-scheme-ntv-says",
+    "source": "Bloomberg",
+    "published": "2026-09-19T17:02:56+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -193,6 +292,17 @@
     "source": "El Financiero",
     "published": "2026-09-19T03:00:00+00:00",
     "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
+    "summary": "La terminal de almacenamiento de combustibles San José Iturbide, de una filial de Grupo Simsa, sigue operando con normalidad pese a un cateo e investigación de la Fiscalía General de la República mexicana, según Bloomberg Línea. Fuentes cercanas al caso hablaron bajo condición de anonimato sobre el estado de la pesquisa. El episodio se suma a la creciente atención regulatoria sobre la cadena de suministro de combustibles en México.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-19T02:52:49+00:00",
+    "category": "Regulation / Governance / Risk",
     "relevance_score": 60,
     "language": "es",
     "light": false
@@ -374,6 +484,17 @@
     "light": false
   },
   {
+    "title": "Wall Street cierra una semana volátil con la atención puesta en bonos, petróleo y tasas",
+    "summary": "Wall Street cerró el viernes con pocos cambios tras una semana volátil, mientras el repunte en los rendimientos de los bonos del Tesoro volvió a presionar a las acciones, según Bloomberg Línea. Un vencimiento de opciones por cerca de US$7 billones añadió volatilidad adicional al cierre semanal. El reporte resume cómo bonos, petróleo y tasas de interés dominaron el sentimiento de mercado.",
+    "link": "https://www.bloomberglinea.com/mercados/wall-street-pierde-impulso-mientras-los-rendimientos-del-tesoro-vuelven-a-subir/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-18T20:06:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Nvidia-Backed Data Center Firm Nscale Files Publicly for IPO",
     "summary": "Nscale, an AI data-centre developer backed by Nvidia and Microsoft, filed publicly for a New York IPO to fund the buildout needed to meet surging demand for AI computing power. The listing is the latest sign of capital markets moving to finance the AI infrastructure race.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-backed-data-center-firm-nscale-files-publicly-for-us-ipo",
@@ -460,6 +581,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Carga tributaria: cuánto más paga la industria argentina frente a las de Brasil y México",
+    "summary": "La industria argentina enfrenta una carga tributaria que más que duplica la de México y supera ampliamente a la de Brasil, según un ejercicio comparativo citado por Bloomberg Línea. El análisis compara la presión fiscal sobre compañías industriales de escala similar en los tres países. El dato ofrece contexto sobre la competitividad fiscal relativa de México frente a sus pares regionales.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/carga-tributaria-cuanto-mas-paga-la-industria-argentina-frente-a-las-de-brasil-y-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-18T17:25:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Los modelos chinos de IA generan 10 veces menos ingresos que los de OpenAI y Anthropic",
@@ -5366,137 +5498,5 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Empresa mexicana ‘será rival’ de ChatGPT: Kapital desarrollará su plataforma de IA",
-    "summary": "La fintech mexicana Kapital captó 125 millones de dólares en una ronda de capital y deuda, extensión de su Serie C, liderada por Tru Arrow Partners con financiamiento crediticio de Fasanara Capital. La empresa destinará los recursos a desarrollar su propia plataforma de inteligencia artificial y a su expansión nacional e internacional.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/09/empresa-mexicana-sera-rival-de-chatgpt-kapital-desarrollara-su-plataforma-de-ia/",
-    "source": "El Financiero",
-    "published": "2026-09-09T18:39:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El mejor destino de golf y lujo: Así juega la Riviera Nayarit las grandes ligas",
-    "summary": "Riviera Nayarit se consolida como un destino de golf y lujo, con ocho campos de diseño internacional integrados en su corredor de golf, junto con resorts de alta gama, gastronomía, spas y experiencias privadas. El destino combina la práctica del deporte con exclusividad y confort para viajeros de alto perfil.",
-    "link": "https://www.elfinanciero.com.mx/viajes/2026/09/09/el-mejor-destino-de-golf-y-lujo-asi-juega-la-riviera-nayarit-las-grandes-ligas/",
-    "source": "El Financiero",
-    "published": "2026-09-09T18:20:31+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI names top US official from model testing agency to its board",
-    "summary": "OpenAI has appointed a former top US official from a model-testing agency to its board, a hire reported to be a former housemate of Anthropic's chief executive. The move comes as AI labs face accusations of regulatory capture over their growing influence on AI safety oversight.",
-    "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-09T17:00:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Créditos hipotecarios UVA: qué bancos bajaron la tasa y qué requisitos piden en 2026",
-    "summary": "Los bancos en Argentina comenzaron a bajar las tasas de los créditos hipotecarios UVA, con ofertas desde 6.7% + UVA, tras el arranque de un programa oficial que usará 2 billones de pesos argentinos del Fondo de Garantía de Sustentabilidad de ANSeS para fondear nuevos préstamos de vivienda. Algunas entidades ofrecen tasas aún menores, de hasta 3.5% + UVA, aunque con requisitos más específicos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-hipotecarios-uva-que-bancos-bajaron-la-tasa-y-que-requisitos-piden-en-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-09T16:18:47+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Asobancaria y las fintech advierten que el alza del ICA encarecerá el crédito: Hacienda responde",
-    "summary": "Asobancaria y Colombia Fintech pidieron retirar una propuesta que aumentaría 50% la tarifa del impuesto ICA para actividades financieras en Bogotá, advirtiendo que la mayor carga tributaria se trasladaría al costo del crédito y otros productos financieros. La secretaría de Hacienda distrital respondió a las críticas del sector en medio del debate por la reforma tributaria.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/asobancaria-y-las-fintech-advierten-que-el-alza-del-ica-encarecera-el-credito-hacienda-responde/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-09T14:29:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "MercadoLibre Selling $1 Billion of Bonds in Return to Market",
-    "summary": "MercadoLibre is returning to global debt markets to sell $1 billion in bonds, only its third such issuance, as the Latin American e-commerce and fintech giant ramps up investment across the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/mercadolibre-returns-to-global-debt-markets-amid-spending-push",
-    "source": "Bloomberg",
-    "published": "2026-09-09T13:35:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Firms Unleash Record Wave of Bond Sales in European Markets",
-    "summary": "A record number of US companies are issuing bonds in Europe's markets, drawn by liquidity and attractive terms as the US bond market strains under a wave of AI-related debt. The shift underscores how AI capex financing needs are reshaping global capital markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-firms-unleash-record-wave-of-bond-sales-in-european-markets",
-    "source": "Bloomberg",
-    "published": "2026-09-09T12:08:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paquete Económico 2027: 10 datos clave sobre el plan de ingresos y gasto del gobierno",
-    "summary": "El gobierno federal presentó ante el Congreso el Paquete Económico 2027, que define los ingresos y el gasto público esperados para el próximo año junto con los principales supuestos macroeconómicos de Hacienda. Para 2027 la SHCP plantea continuar con la reducción gradual del déficit público y mantener el gasto en programas prioritarios, un marco fiscal relevante para el entorno de tasas y financiamiento en México.",
-    "link": "https://www.eleconomista.com.mx/economia/paquete-economico-2027-10-datos-clave-sobre-plan-ingresos-gasto-gobierno-20260909-832664.html",
-    "source": "El Economista",
-    "published": "2026-09-09T11:41:02-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las presiones fiscales en las tasas de interés",
-    "summary": "El economista Manuel Sánchez González analiza el alza sostenida de las tasas de interés de largo plazo en economías avanzadas desde 2021, con el rendimiento del bono del Tesoro de EU en 5.25%, el mayor nivel desde 2007. El fenómeno, ligado a presiones fiscales globales, tiene implicaciones para el costo de financiamiento en México y otras economías.",
-    "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/09/09/las-presiones-fiscales-en-las-tasas-de-interes/",
-    "source": "El Financiero",
-    "published": "2026-09-09T11:37:27+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Legal AI Startup Harvey Hits $15.6 Billion Value With $550 Million Round",
-    "summary": "Legal AI startup Harvey raised $550 million in new funding, valuing the company at $15.6 billion. The capital will fund efforts to build its own AI models, the latest sign of surging investor appetite for enterprise AI platforms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
-    "source": "Bloomberg",
-    "published": "2026-09-09T11:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Mortgage Rates Rise to 6.85%, Highest in More Than a Year",
-    "summary": "US mortgage rates climbed to 6.85%, the highest level in more than a year, extending a steady rise in borrowing costs since the Iran war began. The increase adds pressure on housing affordability as markets weigh the Fed's next move.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-mortgage-rates-climb-to-6-85-highest-in-more-than-a-year",
-    "source": "Bloomberg",
-    "published": "2026-09-09T11:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Treasuries Weaken as Rising Oil Prices Boost Rate-Hike Bets",
-    "summary": "US Treasuries fell as rising oil prices stoked inflation worries and boosted bets that the Federal Reserve could raise interest rates as soon as next week. The move shows how Brent crude's surge past $100 is feeding through to broader rate expectations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/treasuries-weaken-as-soaring-oil-prices-revive-rate-hike-worries",
-    "source": "Bloomberg",
-    "published": "2026-09-09T10:45:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
