@@ -1,5 +1,82 @@
 [
   {
+    "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
+    "summary": "Citigroup CEO Jane Fraser said banks and companies are racing to patch and secure their AI systems as adoption accelerates, describing it as a coming ‘tsunami’ of security work. She made the comments at the Qatar Economic Forum’s UNGA Special Edition, framing AI defense as an urgent priority for the financial industry.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video",
+    "source": "Bloomberg",
+    "published": "2026-09-20T16:53:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
+    "summary": "Microsoft's AI chief Mustafa Suleyman said competition with China on artificial intelligence should not be used as a reason to avoid regulating the technology. He argued that safety guardrails remain necessary even as the AI race with China intensifies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
+    "source": "Bloomberg",
+    "published": "2026-09-20T16:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "General Atlantic CEO Sees Long-Term AI Opportunity",
+    "summary": "General Atlantic CEO Bill Ford said accelerating innovation has created one of the strongest growth-investing environments of his career, with opportunities spanning the US, Middle East, Asia and Latin America. He said AI should keep generating investment opportunities despite bouts of overvaluation and safety concerns, even as geopolitical risks reshape supply chains.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-20/general-atlantic-ceo-sees-long-term-ai-opportunity-video",
+    "source": "Bloomberg",
+    "published": "2026-09-20T16:14:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Canek Vázquez bajo escrutinio: Señalamientos de corrupción y litigios rodean al delegado del Infonavit en Hidalgo",
+    "summary": "El delegado regional del Infonavit en Hidalgo, Alejandro Canek Vázquez Góngora, enfrenta nuevo escrutinio por señalamientos de corrupción y presuntas irregularidades patrimoniales vinculadas a operaciones de vivienda en el estado. Una investigación periodística sugiere la posible existencia de un esquema de ‘cártel inmobiliario’ con participación de particulares y fedatarios públicos, lo que podría derivar en la intervención de autoridades fiscalizadoras y ministeriales.",
+    "link": "https://www.elfinanciero.com.mx/estados/2026/09/20/canek-vazquez-bajo-escrutinio-senalamientos-de-corrupcion-y-litigios-rodean-al-delegado-del-infonavit-en-hidalgo/",
+    "source": "El Financiero",
+    "published": "2026-09-20T15:57:38+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
+    "summary": "The Financial Times reports that Wall Street expects the US Treasury to issue about $1tn in short-term debt as borrowing costs climb. The growing reliance on Treasury bills comes as Treasury Secretary Scott Bessent tries to curb the rise in longer-term rates.",
+    "link": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-20T15:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "70 años de alzas de tasas de la Fed: ¿qué enseñan los ciclos pasados a la economía actual?",
+    "summary": "La Fed elevó su tasa 25 puntos base hacia 3.75%-4%, iniciando el cuarto ciclo alcista del siglo y el 15° en 70 años, según un análisis de Deutsche Bank citado por Bloomberg Línea. Históricamente estos ciclos han durado en promedio 22 meses y generado un endurecimiento medio de 478 puntos base, una referencia relevante para anticipar el rumbo de las tasas y su impacto en el crédito.",
+    "link": "https://www.bloomberglinea.com/mercados/70-anos-de-alzas-de-tasas-de-la-fed-que-ensenan-los-ciclos-pasados-a-la-economia-actual/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-20T14:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Howard Marks Flags Uncertainty in AI Investing",
+    "summary": "Oaktree co-chair Howard Marks said market optimism since late 2022 has made investors overlook bad news, urging more caution. He said enthusiasm around AI is undeniable but uncertainty over its profitability, valuations and job impact makes it impossible to know if that exuberance is irrational.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-20/howard-marks-flags-uncertainty-in-ai-investing-video",
+    "source": "Bloomberg",
+    "published": "2026-09-20T13:43:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Marsh CEO Says Geopolitics Tops CEO Risks",
     "summary": "Marsh CEO John Doyle told Bloomberg that geopolitical tensions and their impact on trade and supply chains are the top concern for corporate leaders heading into next year, ahead of even cyber and AI-related risks. He noted that emerging technology is simultaneously amplifying the cyber threats companies must manage. The comments come as insurers and risk managers recalibrate enterprise risk frameworks for an increasingly fragmented geopolitical environment.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-20/marsh-ceo-says-geopolitics-tops-ceo-risks-video",
@@ -9,6 +86,50 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "AI is a powerful but problematic new collaborator in mathematics",
+    "summary": "The Financial Times warns that AI is becoming a powerful but problematic collaborator in mathematics, as models increasingly pursue goals with poorly defined parameters. The piece flags early signs of unintended consequences from AI systems working on complex mathematical problems.",
+    "link": "https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203",
+    "source": "Financial Times",
+    "published": "2026-09-20T13:00:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indaga SABG venta de datos de clientes de Aeroméxico",
+    "summary": "La Secretaría Anticorrupción detectó que en Telegram se ofrecen a la venta 15 millones de registros de pasajeros que volaron con Aeroméxico. El hallazgo abre una investigación sobre una posible filtración masiva de datos de clientes de la aerolínea.",
+    "link": "https://www.reforma.com/indaga-sabg-venta-de-datos-de-clientes-de-aeromexico/ar3279193",
+    "source": "Reforma",
+    "published": "2026-09-20T12:37:53-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Canadá pide a Estados Unidos, China y Francia unir fuerzas para regular la inteligencia artificial",
+    "summary": "El primer ministro de Canadá, Mark Carney, llamó a Canadá, Estados Unidos, China y Francia a unir fuerzas para establecer una regulación adecuada de la inteligencia artificial. El llamado se dio durante un encuentro con el presidente francés Emmanuel Macron, en el que Carney destacó el papel de estas cuatro naciones a la vanguardia del desarrollo de la IA.",
+    "link": "https://www.eleconomista.com.mx/internacionales/canada-pide-estados-unidos-china-francia-unir-fuerzas-regular-inteligencia-artificial-20260920-834362.html",
+    "source": "El Economista",
+    "published": "2026-09-20T12:28:44-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Préstamos a tecnológicas duran cinco años y los servidores de IA se renuevan en 2.5",
+    "summary": "Un análisis del Banco de Pagos Internacionales sobre casi 14,000 operaciones de crédito directo encontró que los préstamos a empresas tecnológicas duran en promedio cinco años, mientras los servidores de IA se renuevan cada 2.5 años, generando un desfase de riesgo. El saldo de crédito directo a tecnológicas pasó de 22,000 millones a más de 1 billón de dólares entre 2010 y 2025, y ya representa 44% del crédito privado analizado.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/prestamos-tecnologicas-duran-cinco-anos-servidores-ia-renuevan-2-20260920-834360.html",
+    "source": "El Economista",
+    "published": "2026-09-20T12:00:12-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Inside Jefferies' Months-Long Tussle With Glencore Over Radiant",
@@ -22,6 +143,28 @@
     "light": true
   },
   {
+    "title": "El mercado de capitales como parte de una estrategia nacional de crecimiento",
+    "summary": "Un artículo de opinión en El Economista plantea que México necesita profundizar su mercado de capitales para financiar el crecimiento de las próximas décadas, más allá del crédito bancario y los recursos públicos. El autor llama a construir una visión de largo plazo entre autoridades y participantes del mercado para que el mercado de valores sea un motor estable de inversión y financiamiento empresarial.",
+    "link": "https://www.eleconomista.com.mx/opinion/mercado-capitales-parte-estrategia-nacional-crecimiento-20260920-834357.html",
+    "source": "El Economista",
+    "published": "2026-09-20T11:05:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Si la IA resuelve por sí sola problemas complejos, ¿para qué servirán los matemáticos?",
+    "summary": "OpenAI resolvió mediante un modelo de IA la ecuación de Navier-Stokes, un problema matemático formulado en 1845, lo que generó una ‘crisis existencial’ entre matemáticos como Terence Tao. El artículo explora qué papel quedará para los matemáticos humanos si la IA sigue resolviendo por sí sola problemas complejos de investigación.",
+    "link": "https://www.eleconomista.com.mx/arteseideas/ia-resuelve-sola-problemas-complejos-serviran-matematicos-20260920-834342.html",
+    "source": "El Economista",
+    "published": "2026-09-20T11:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cracks in Europe's Junk Property Debt Revive Fears of 2023 Pain",
     "summary": "Bloomberg reports that Europe's riskier real estate debt is showing renewed strain from higher-for-longer interest rates, with a slump in junk-rated property bonds and the rare cancellation of a planned new issue. The pattern is reviving fears of a repeat of the 2023 property-debt crunch. It's a signal worth watching for mortgage and real-estate credit markets more broadly.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-20/cracks-in-europe-s-junk-property-debt-revive-fears-of-2023-pain",
@@ -31,6 +174,17 @@
     "relevance_score": 71,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Kashkari, de la Fed, dice que la inflación va más allá de los precios del petróleo: Fox News",
+    "summary": "El presidente de la Fed de Mineápolis, Neel Kashkari, dijo que la inflación en EU sigue siendo demasiado alta incluso excluyendo energía y alimentos. Kashkari respaldó el reciente alza de tasas de un cuarto de punto a un rango de 3.75%-4.00% y había sido uno de los primeros en pedir ese ajuste.",
+    "link": "https://www.eleconomista.com.mx/economia/kashkari-fed-dice-inflacion-precios-petroleo-fox-news-20260920-834354.html",
+    "source": "El Economista",
+    "published": "2026-09-20T09:49:40-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "House prices survived the last interest-rate rise. Will they this time?",
@@ -64,6 +218,17 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Billionaire Tata scion faces battle of his life to avert listing",
+    "summary": "The Financial Times reports that Noel Tata is fighting to avert a public listing of part of the 150-year-old Tata business empire, facing off against the group's chair and his well-connected New Delhi allies. The dispute highlights a high-stakes governance battle over the future capital structure of one of India's largest conglomerates.",
+    "link": "https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-20T06:26:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Cuando los países ricos se financian como emergentes",
@@ -215,6 +380,17 @@
     "source": "Bloomberg Línea",
     "published": "2026-09-19T12:00:00+00:00",
     "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El bitcoin ya no manda: así cambió el mercado cripto en Colombia",
+    "summary": "El mercado cripto de Colombia rompió en 2026 el patrón histórico en el que los flujos de capital seguían el precio del bitcoin, según un análisis de ANIF citado por Bloomberg Línea. La nueva claridad regulatoria y el auge de las stablecoins —que se proyectan cerca de US$500,000 millones para fin de año— explican el cambio hacia un uso más funcional que especulativo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/el-bitcoin-ya-no-manda-asi-cambio-el-mercado-cripto-en-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-19T10:00:00+00:00",
+    "category": "Financial Services Mexico",
     "relevance_score": 62,
     "language": "es",
     "light": false
@@ -5320,182 +5496,6 @@
     "published": "2026-09-10T01:05:48+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 73,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CFE coloca bonos por 20,000 millones de pesos en la BMV",
-    "summary": "La CFE colocó certificados bursátiles de largo plazo por 20,000 millones de pesos en la Bolsa Mexicana de Valores, divididos en tres tramos a 3, 10 y 40 años, dos de ellos etiquetados como bonos ASG sostenibles. Los recursos se destinarán a refinanciar deuda bursátil y préstamos bancarios de corto plazo, y los tres tramos recibieron las máximas calificaciones en escala nacional.",
-    "link": "https://www.eleconomista.com.mx/empresas/cfe-coloca-bonos-20-000-millones-pesos-bmv-20260910-832839.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:52:26-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "“El déficit no es un dato aislado, hay que ver otros factores”",
-    "summary": "El secretario de Hacienda, Édgar Amador, afirmó que para 2027 se proyecta reducir el déficit público de 4.1% a 3.9% del PIB de forma gradual pero firme. Señaló que las agencias calificadoras no ven el déficit de forma aislada, sino junto con el crecimiento económico y los cambios al ISR, que podrían generar hasta 140,000 millones de pesos adicionales.",
-    "link": "https://www.eleconomista.com.mx/economia/deficit-dato-aislado-hay-ver-otros-factores-20260910-832835.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:30:19-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 71,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CIEP: Presiones en el gasto y recaudación insuficiente",
-    "summary": "El CIEP advirtió que, pese al esfuerzo por reducir el déficit en el Paquete Económico 2027, la deuda pública sigue en aumento y el Saldo Histórico de Requerimientos Financieros del Sector Público subiría a 55% del PIB, 3.6 puntos más que en 2026. El organismo destacó que el gobierno buscará elevar la recaudación combatiendo el huachicol fiscal.",
-    "link": "https://www.eleconomista.com.mx/economia/ciep-presiones-gasto-recaudacion-insuficiente-20260910-832834.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:24:09-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paquete 2027 aplaza ajuste fiscal: analistas",
-    "summary": "Analistas de Franklin Templeton, BNP Paribas y Fintual señalaron que el Paquete Económico 2027 es más realista que los precriterios de abril, pero aplaza el ajuste fiscal comprometido por el gobierno. La economista de Fintual, Priscila Robledo, proyecta un déficit de 4.5% del PIB en 2027, por encima de la meta oficial de 3.9%, ante un crecimiento más bajo y una inflación más alta a la esperada.",
-    "link": "https://www.eleconomista.com.mx/economia/paquete-2027-aplaza-ajuste-fiscal-analistas-20260910-832833.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:19:07-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cambios en ISR generará ingresos adicionales de hasta 140,000 millones de pesos: SHCP",
-    "summary": "La SHCP estima que los cambios a la Ley del ISR en el Paquete Económico 2027, que limitan deducciones y pérdidas fiscales, generarán hasta 140,000 millones de pesos adicionales en recaudación. Hacienda identificó a 54,000 empresas que llevan cinco años sin pagar ISR y a 129,000 que han declarado pérdidas fiscales recurrentes pese a reportar mayores ingresos.",
-    "link": "https://www.eleconomista.com.mx/economia/cambios-isr-generara-ingresos-adicionales-140-000-millones-pesos-shcp-20260910-832832.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:16:14-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma a Ley de ISR podría asfixiar a empresas, advierten",
-    "summary": "Especialistas advirtieron que la reforma a la Ley del ISR incluida en el Paquete Económico 2027 podría generar una política recaudatoria asfixiante para las empresas, al establecer controles a las deducciones y pérdidas fiscales de compañías con ingresos superiores a 50 millones de pesos. La medida busca combatir el uso de facturas falsas, que según Hacienda representan hasta 10% de los gastos de algunas empresas que pagan menos ISR.",
-    "link": "https://www.eleconomista.com.mx/economia/reforma-ley-isr-asfixiar-empresas-advierten-20260910-832829.html",
-    "source": "El Economista",
-    "published": "2026-09-10T00:00:43-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Diálogo con los mercados, factura al consumidor",
-    "summary": "Una columna de opinión señala que el Paquete Económico 2027 no promete una corrección fiscal tan acelerada como querrían las calificadoras, pero representa un regreso al diálogo entre Hacienda y los mercados, lo que llevó a estos a dar el beneficio de la duda al gobierno para evitar una degradación crediticia. El texto advierte que la promesa de no subir impuestos ni gasolinazos se sostiene con estímulos fiscales que terminan trasladando el costo a los consumidores por otras vías.",
-    "link": "https://www.eleconomista.com.mx/opinion/dialogo-mercados-factura-consumidor-20260909-832828.html",
-    "source": "El Economista",
-    "published": "2026-09-09T23:58:14-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacienda reducirá déficit fiscal con moderación para no incidir en la economía durante 2027",
-    "summary": "El secretario de Hacienda, Édgar Amador, afirmó que la reducción del déficit fiscal planteada en el Paquete Económico 2027 es moderada para no afectar la actividad económica ni el empleo. Destacó que el déficit ya acumula una baja de 1.8 puntos del PIB desde el nivel récord de 5.8% registrado en 2024, y reiteró el compromiso de una convergencia fiscal gradual y ordenada.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-reducira-deficit-fiscal-con-moderacion-para-no-incidir-en-la-economia-durante-2027/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-09T22:58:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 69,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alberto Baillères comenzó como office boy en Bancomer y terminó construyendo un imperio de miles de millones",
-    "summary": "El artículo repasa la trayectoria de Alberto Baillères, quien inició su carrera como office boy en Bancomer antes de construir uno de los mayores conglomerados empresariales de México, con presencia en minería, seguros y finanzas.",
-    "link": "https://expansion.mx/empresas/2026/09/09/alberto-bailleres-office-boy-bancomer-historia-empresarial",
-    "source": "Expansión",
-    "published": "2026-09-09T22:45:51+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pensiones que paga el gobierno alcanzarán 2.4 billones de pesos en 2027; adultos mayores, prioridad en paquete económico",
-    "summary": "Las pensiones que paga el gobierno alcanzarán 2.4 billones de pesos en 2027, con los adultos mayores como prioridad del paquete económico. El dato ilustra el peso creciente del gasto social en las finanzas públicas mexicanas.",
-    "link": "https://expansion.mx/economia/2026/09/09/pensiones-bienestar-consumiran-gasto-publico-2027",
-    "source": "Expansión",
-    "published": "2026-09-09T22:30:07+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Descarta Hacienda un \"incremento explosivo” de la deuda; alcanzará 55% del PIB en 2027",
-    "summary": "La Secretaría de Hacienda descartó un incremento explosivo de la deuda pública y proyectó que ésta alcanzará 55% del PIB en 2027, como parte de las cifras presentadas en el Paquete Económico 2027.",
-    "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
-    "source": "Expansión",
-    "published": "2026-09-09T22:22:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nuam apunta a que en 2027 arranque el mercado único de renta variable",
-    "summary": "Nuam, la empresa que agrupa las bolsas de Colombia, Perú y Chile, busca poner en marcha en 2027 un mercado único de renta variable entre los tres países. Para lograrlo aún debe completarse la homologación regulatoria, principalmente en Perú, donde falta crear una Cámara de Riesgo Central de Contraparte; actualmente el 95% de las normas entre los tres mercados ya son idénticas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/nuam-apunta-a-que-en-2027-arranque-el-mercado-unico-de-renta-variable/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-09T21:40:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gasolineras y casetas podrían dejar de aceptar efectivo; la propuesta que cambiaría cómo pagas",
-    "summary": "El gobierno mexicano propuso, dentro de la Ley de Economía Digital, que gasolineras y casetas de cobro dejen de aceptar pagos en efectivo, como parte de la estrategia para impulsar la transición hacia los pagos digitales en el país.",
-    "link": "https://expansion.mx/economia/2026/09/09/gasolineras-casetas-no-efectivo-ley-economia-digital",
-    "source": "Expansión",
-    "published": "2026-09-09T21:23:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
-    "summary": "With the traditional year-end IPO push underway, a wave of AI-driven listings is expected to accompany Anthropic's public offering as markets return from the summer lull.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/wave-of-ai-driven-ipos-expected-to-accompany-anthropic-s-listing",
-    "source": "Bloomberg",
-    "published": "2026-09-09T19:35:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El ‘adiós’ al efectivo en México: ¿Qué propone la Ley de Economía Digital de Sheinbaum?",
-    "summary": "El gobierno de Claudia Sheinbaum envió al Congreso una iniciativa de Ley de Economía Digital para Pagos Digitales y Electrónicos, buscando impulsar la transición del efectivo hacia los pagos digitales en México. La propuesta también establecería un nuevo método para la contratación de servicios financieros, argumentando que el país ya cuenta con la infraestructura necesaria.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/09/el-adios-al-efectivo-en-mexico-que-propone-la-ley-de-economia-digital-de-sheinbaum/",
-    "source": "El Financiero",
-    "published": "2026-09-09T18:52:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "EU advierte que ‘no habrá pasado mañana’ si China toma delantera en desarrollo de la IA",
-    "summary": "El secretario del Tesoro de EU, Scott Bessent, advirtió que si China toma la delantera en el desarrollo de la inteligencia artificial, “no habrá un pasado mañana” para Washington, pues ello volvería irrelevantes sus fortalezas estratégicas, incluido su presupuesto de defensa. Sus comentarios reflejan la creciente urgencia geopolítica en torno a la carrera por la IA entre EU y China.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/09/eu-advierte-que-no-habra-pasado-manana-si-china-toma-delantera-en-desarrollo-de-la-ia/",
-    "source": "El Financiero",
-    "published": "2026-09-09T18:39:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
     "language": "es",
     "light": false
   }
