@@ -1,5 +1,38 @@
 [
   {
+    "title": "Cuando los países ricos se financian como emergentes",
+    "summary": "El rendimiento del bono del Tesoro estadounidense a 10 años superó 5%, su nivel más alto en 19 años, mientras los gobiernos de economías avanzadas —no solo EU— se financian a plazos cada vez más cortos para pagar menos intereses hoy. The Economist advierte que esta combinación de deuda elevada (110% del PIB) y tasas altas es inédita y obliga a estos países a refinanciarse con mayor frecuencia sin garantía de condiciones más baratas, un riesgo que México ya conoce bien.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/19/cuando-los-paises-ricos-se-financian-como-emergentes/",
+    "source": "El Financiero",
+    "published": "2026-09-20T04:07:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
+    "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China. His remarks add to a growing global debate over AI governance and safety.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+    "source": "Bloomberg",
+    "published": "2026-09-20T00:39:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump anuncia una ‘Fuerza IA’ y un ‘zar’ para supervisar su avance: ‘De ninguna manera frenaremos’",
+    "summary": "Donald Trump anunció que nombrará un 'zar de IA' y creará una 'Fuerza de IA' para supervisar el avance de la tecnología, mientras rechaza las preocupaciones sobre riesgos de seguridad calificándolas de 'engaño'. Trump comparó el potencial de la IA con la revolución industrial o el internet, afirmando que podría representar hasta 25% del PIB de EU, en momentos en que Google, OpenAI y Anthropic han advertido sobre fallas de seguridad en sus sistemas.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/19/trump-anuncia-una-fuerza-ia-y-designara-a-un-zar-para-supervisar-su-avance-de-ninguna-manera-frenaremos/",
+    "source": "El Financiero",
+    "published": "2026-09-20T00:19:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
     "summary": "President Trump plans to appoint an AI czar while dismissing industry safety warnings as a hoax, continuing to press US tech companies to accelerate AI development. The stance signals the administration will prioritize competitive speed over regulatory caution despite growing internal alarm at major AI labs.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
@@ -11,6 +44,17 @@
     "light": true
   },
   {
+    "title": "México intenta contener la crisis del diésel con subsidio adicional ante conflicto petrolero",
+    "summary": "La Secretaría de Hacienda mantuvo por segunda semana consecutiva el subsidio al 100% del IEPS al diésel y aumentó significativamente el subsidio compensatorio, de MXN$0.1 a MXN$1.8 por litro, para contener la crisis internacional del diésel derivada del conflicto en Medio Oriente. La medida, que también eleva los subsidios a gasolinas regular y premium, busca evitar un golpe inflacionario pero tiene un costo fiscal estimado en más de MXN$1,750 millones mensuales.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-intenta-contener-la-crisis-del-diesel-con-subsidio-adicional-ante-conflicto-petrolero/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-19T14:00:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "¿Cómo la IA mataría a todos los humanos? Esto dicen OpenAI, Anthropic, Elon Musk, Trump y China",
     "summary": "El texto repasa la ola reciente de advertencias sobre riesgo existencial de la IA, incluyendo renuncias de ingenieros de OpenAI y Anthropic, estimaciones de riesgo de extinción superiores al 10% y un llamado conjunto de los CEOs de las principales firmas de IA para frenar el desarrollo de sistemas más capaces. También contrasta estas posturas con las reacciones de gobiernos como Estados Unidos y China.",
     "link": "https://www.elfinanciero.com.mx/tech/2026/09/19/la-ia-matara-a-la-humanidad-esto-dicen-openai-anthropic-elon-musk-trump-y-china/",
@@ -20,6 +64,28 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
+    "summary": "Investors are eager to buy longer-term corporate bonds, but companies remain reluctant to sell that kind of debt right now, according to Bloomberg's Credit Weekly. The mismatch highlights shifting dynamics in corporate debt issuance amid uncertain rate expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-09-19T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Diesel Prices Keep Pressure on Fed and Markets",
+    "summary": "The Federal Reserve unanimously raised its benchmark rate by a quarter point as policymakers confront inflation above target and geopolitical uncertainty. Elevated diesel prices are a particular concern for businesses and could keep pressure on the Fed for further hikes, according to Bank of America's Joe Quinlan.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-19/diesel-prices-keep-pressure-on-fed-and-markets-video",
+    "source": "Bloomberg",
+    "published": "2026-09-19T13:40:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
   },
   {
     "title": "AI Agents Test the Limits of Human Oversight",
@@ -39,6 +105,17 @@
     "source": "El Economista",
     "published": "2026-09-19T12:00:00-06:00",
     "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Petróleo sobre US$100: qué mercados, sectores y acciones ganan y pierden",
+    "summary": "El petróleo por encima de US$100 está reconfigurando el liderazgo de las bolsas globales: Colombia sube 46% en dólares desde el inicio del conflicto con Irán, mientras exportadores netos como Arabia Saudita apenas avanzan. Analistas de Bloomberg Intelligence señalan que la composición sectorial de cada mercado, más que la simple condición de exportador o importador de crudo, explica el desempeño.",
+    "link": "https://www.bloomberglinea.com/mercados/petroleo-sobre-us100-que-mercados-sectores-y-acciones-ganan-y-pierden/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-19T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "es",
     "light": false
@@ -341,6 +418,17 @@
     "light": true
   },
   {
+    "title": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
+    "summary": "La ferroviaria CPKC advirtió que una eventual alza en el cobro del derecho de vía en México, de 1.25% a 3%, podría frenar sus planes de inversión en infraestructura ferroviaria en el país. La advertencia surge en medio de una propuesta de la Secretaría de Hacienda para actualizar dicho gravamen.",
+    "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
+    "source": "Expansión",
+    "published": "2026-09-18T19:27:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "EU defiende \"verificación rigurosa\" de Inteligencia tras plan militar con informe erróneo de IA",
     "summary": "El Departamento de Defensa de Estados Unidos afirmó estar comprometido con una verificación rigurosa de la inteligencia y una integración responsable de nuevas tecnologías, después de que un documento generado por IA con información errónea casi lleva a sus fuerzas a abordar un buque chino en Oriente Próximo. El caso se suma a los ejemplos recientes que alimentan las dudas sobre confiar en sistemas de IA para decisiones sensibles.",
     "link": "https://www.eleconomista.com.mx/tecnologia/eu-defiende-verificacion-rigurosa-inteligencia-plan-militar-informe-erroneo-ia-20260918-834259.html",
@@ -471,6 +559,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Por qué cayó el yen si el Banco de Japón subió las tasas? 5 respuestas y el efecto en América Latina",
+    "summary": "El Banco de Japón subió su tasa de interés en 25 puntos base hasta 1.25%, su nivel más alto desde 1995, pero el yen cayó cerca de 1.2% frente al dólar ante la falta de señales claras sobre el ritmo de futuras subidas. El movimiento reaviva el interés en el carry trade con conexiones directas a América Latina, según analistas consultados por Bloomberg Línea.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-cayo-el-yen-si-el-banco-de-japon-subio-las-tasas-5-respuestas-y-el-efecto-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-18T15:11:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "PWC CEO Rejects AI Job Doom",
@@ -5399,104 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Mexico Fintech Kapital Raises Funds to Build Out AI Platform",
-    "summary": "Mexican fintech Kapital raised $125 million in fresh equity and debt to build out its AI platform. The company plans to use the capital to expand both domestically and internationally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/mexico-fintech-kapital-raises-funds-to-build-out-ai-platform",
-    "source": "Bloomberg",
-    "published": "2026-09-09T10:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "New York's Commercial Real Estate Market Gets Boost From AI",
-    "summary": "AI-driven demand is providing a boost to New York's commercial real estate market, Bloomberg reports, as office space remains needed even as AI reshapes work patterns. The trend suggests AI-related tenants are becoming a meaningful factor in office demand.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-09/new-york-s-commercial-real-estate-market-gets-boost-from-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-09T10:29:01+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum quiere cambiar las reglas en las aduanas: Esto es lo que propone",
-    "summary": "La presidenta Claudia Sheinbaum envió al Congreso una iniciativa para reformar la Ley Aduanera y reducir de 50% a 20% el umbral de diferencia de valor que activa la presunción de infracción por subvaluación de mercancías. La medida busca fortalecer la capacidad institucional para detectar prácticas que erosionan la recaudación tributaria y afectan a la industria nacional.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/09/09/sheinbaum-quiere-cambiar-las-reglas-en-las-aduanas-esto-es-lo-que-propone/",
-    "source": "El Financiero",
-    "published": "2026-09-09T09:52:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Déficit fiscal disminuirá a 3.9 por ciento del PIB en 2027, pronostica Hacienda en Paquete Económico",
-    "summary": "Hacienda proyecta que el déficit fiscal amplio (RFSP) baje a 3.9% del PIB en 2027, desde 4.1% estimado para el cierre de 2026, como parte del Paquete Económico 2027. El secretario Edgar Amador aseguró que la consolidación fiscal continuará sin comprometer el gasto social ni los proyectos de inversión.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/09/deficit-fiscal-disminuira-a-39-por-ciento-del-pib-en-2027-pronostica-hacienda-en-paquete-economico/",
-    "source": "El Financiero",
-    "published": "2026-09-09T09:45:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic researcher quits over AI labs 'gambling with our lives'",
-    "summary": "An Anthropic researcher resigned, citing concerns that AI labs are 'gambling with our lives' in the race to build increasingly powerful systems. The departure highlights growing unease inside Silicon Valley AI companies over safety practices.",
-    "link": "https://www.ft.com/content/20c07191-8da6-440f-b04b-8ea0ebdd9153?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-09T09:31:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia-Backed Firm in Indonesia Signs $3.1 Billion GPU Loan",
-    "summary": "Nvidia-backed Indonesian AI infrastructure platform Zankore signed a $3.1 billion loan to purchase advanced chips. The deal underscores surging, debt-financed demand for AI computing capacity across Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/nvidia-backed-firm-in-indonesia-signs-3-1-billion-gpu-loan",
-    "source": "Bloomberg",
-    "published": "2026-09-09T09:27:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El Paquete Económico 2027: una apuesta a la credibilidad",
-    "summary": "Enrique Quintana analiza el Paquete Económico 2027 entregado por Hacienda, destacando que sus cifras de déficit, crecimiento e inversión pública resultan lo bastante realistas para ser consideradas creíbles por mercados e inversionistas. El déficit se ubicaría en 3.9% del PIB, entre las proyecciones de abril y las de analistas como Citi.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/09/el-paquete-economico-2027-una-apuesta-a-la-credibilidad/",
-    "source": "El Financiero",
-    "published": "2026-09-09T08:45:47+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
-    "summary": "SoftBank will repay the remaining balance of a $40 billion bridge loan used to finance its investment in OpenAI, moving to refinance the deal with longer-term debt. The move underscores the scale of capital being deployed to fund AI-related equity stakes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
-    "source": "Bloomberg",
-    "published": "2026-09-09T07:28:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA ‘podría acabar con nosotros’: Extrabajador de OpenAI y Anthropic alerta por riesgos para la humanidad",
-    "summary": "Jacob Coxon, quien trabajó como investigador de IA en Anthropic y OpenAI, advirtió tras renunciar que ninguna de las dos empresas actúa de forma responsable y que la carrera por desarrollar superinteligencia autónoma podría poner en riesgo a la humanidad para finales de la década. Sus declaraciones se suman al debate sobre la falta de gobernanza y controles de seguridad en el desarrollo acelerado de modelos de IA.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/09/09/jacob-coxon-renuncia-a-anthropic-y-openai-denuncia-que-la-ia-podria-acabar-con-la-humanidad/",
-    "source": "El Financiero",
-    "published": "2026-09-09T07:01:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
   }
 ]
