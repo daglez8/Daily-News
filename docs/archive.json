@@ -1,5 +1,159 @@
 [
   {
+    "title": "Congressman Calls for National Data Center Strategy",
+    "summary": "Democratic Rep. Suhas Subramanyam is calling for a national strategy to guide the rapid expansion of AI data centers, warning that the current state-by-state approach leaves communities bearing infrastructure costs. He proposes measuring data centers' energy and water use and requiring large electricity users to fund needed grid upgrades.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-21/congressman-calls-for-national-data-center-strategy-video",
+    "source": "Bloomberg",
+    "published": "2026-09-21T17:50:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta's New Muse AI App Tops Charts, Draws Strong Early Reviews",
+    "summary": "Meta's new AI assistant, Muse, has quickly climbed to the top of mobile app charts with strong early reviews. The launch signals Meta is gaining traction in the increasingly crowded consumer AI assistant market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+    "source": "Bloomberg",
+    "published": "2026-09-21T17:44:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Former xAI Staffer Eyes $50 Million for Firm to Fight Deepfakes",
+    "summary": "A former xAI and Google staffer is in talks to raise roughly $50 million in seed funding for a new startup focused on combating deepfakes online. The fundraising reflects growing investor interest in AI safety and content-authenticity tools.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/former-xai-staffer-eyes-50-million-for-firm-to-fight-deepfakes",
+    "source": "Bloomberg",
+    "published": "2026-09-21T17:31:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La Fed rompe tres años de pausa: sube tasas y reconfigura el mapa cambiario",
+    "summary": "La Reserva Federal subió su tasa de referencia 25 puntos base a un rango de 3.75%-4.00%, su primer incremento desde 2023, en medio de presiones inflacionarias derivadas de la guerra entre Estados Unidos e Irán y el alza del petróleo. El presidente de la Fed, Kevin Warsh, reconoció que el contexto geopolítico fue determinante, y 16 de 18 miembros del comité prevén al menos un alza adicional este año.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/09/21/la-fed-rompe-tres-anos-de-pausa-sube-tasas-y-reconfigura-el-mapa-cambiario/",
+    "source": "El Financiero",
+    "published": "2026-09-21T16:43:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Startups Like Harvey Embrace Open Models to Cut Reliance on Anthropic, OpenAI",
+    "summary": "Legal AI startup Harvey, valued at $15.6 billion, built its product around OpenAI's models for specialized legal work. Rising AI costs are now pushing Harvey and similar startups to adopt open-source models to reduce reliance on Anthropic and OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai",
+    "source": "Bloomberg",
+    "published": "2026-09-21T16:05:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué el interés en las acciones del Banco Santander? Las claves de su avance en el Ibex 35",
+    "summary": "Las acciones de Banco Santander acumulan un avance de 26.67% en 2026, impulsadas por expectativas de crecimiento de beneficios y una menor dependencia de Brasil. El consenso de Bloomberg muestra 81.5% de recomendaciones de compra, aunque Citi considera que su valoración de 10 veces el PER estimado para 2028 aún no refleja plenamente sus perspectivas.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-el-interes-en-las-acciones-del-banco-santander-las-claves-de-su-avance-en-el-ibex-35/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T16:02:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso inicia la semana 'con el pie derecho': ¿Cuánto le gana al dólar HOY 21 de septiembre?",
+    "summary": "El peso mexicano cotizó cerca de 17.22 pesos por dólar, con una apreciación de 0.06% frente a su cierre anterior, mientras los mercados esperan la decisión de política monetaria de Banxico. Analistas atribuyen el movimiento a una corrección tras la depreciación de la semana pasada, ligada al alza de tasas de la Reserva Federal.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/21/peso-dolar-tipo-de-cambio-hoy-21-de-septiembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-09-21T15:53:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cuatro razones por las que el mercado puede subestimar el alza de tasas de la Fed",
+    "summary": "Deutsche Bank advierte que los mercados podrían estar subestimando el alcance del nuevo ciclo de alzas de tasas iniciado por la Fed, el BCE y el Banco de Japón en las últimas semanas. El banco señala un patrón histórico de subestimación inicial, agravado por materias primas más caras y condiciones financieras aún acomodaticias.",
+    "link": "https://www.bloomberglinea.com/mercados/cuatro-razones-por-las-que-el-mercado-puede-subestimar-el-alza-de-tasas-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T15:38:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AMD, Intel Soar as Meta's Muse AI Agent Spurs Chip Stock Rally",
+    "summary": "Semiconductor stocks including AMD and Intel rallied after early signs of success for Meta's new AI agent, Muse, sparked enthusiasm about chip demand. Investors are betting the growth of consumer AI agents will drive further semiconductor demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar",
+    "source": "Bloomberg",
+    "published": "2026-09-21T15:36:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El mayor valor inmobiliario es la información",
+    "summary": "El artículo de opinión sostiene que en el mercado inmobiliario actual la transparencia de información es tan valiosa como la ubicación. Cita el Global Real Estate Transparency Index 2026 de JLL, que ubica a Reino Unido, Francia, Australia y Estados Unidos entre los mercados más transparentes, destacando que la abundancia de información pública facilita medir riesgos y tomar mejores decisiones de inversión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/09/21/el-mayor-valor-inmobiliario-es-la-informacion/",
+    "source": "El Financiero",
+    "published": "2026-09-21T15:24:06+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Amazon Blocks Meta's Muse AI Agent From Its Retail Site",
+    "summary": "Amazon has blocked Meta's new AI agent, Muse, from operating on its retail site after Meta declined a request to remove the bot. The move highlights growing friction between tech giants over AI agents' access to competitors' platforms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+    "source": "Bloomberg",
+    "published": "2026-09-21T15:13:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Concerned About AI Cybersecurity: Guild",
+    "summary": "Robinhood's Chief Investment Officer Stephanie Guild discussed rising concerns over AI security and the competitive dynamics among AI developers. Her comments come amid broader investor focus on AI-related cybersecurity risk.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-21/concerned-about-ai-cybersecurity-guild-video",
+    "source": "Bloomberg",
+    "published": "2026-09-21T15:12:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed will need to be 'aggressive' on inflation, says top official",
+    "summary": "Fed official Austan Goolsbee warned that the central bank will need to act aggressively on inflation, citing overheating demand compounding supply pressures from the Iran conflict. His comments add to signals that further rate hikes may be needed.",
+    "link": "https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-21T15:10:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Accenture Will Help Anthropic Test AI Model Safety",
+    "summary": "Anthropic is partnering with Accenture to stress-test the safety of its advanced AI models before deployment. Accenture evaluators will be embedded with Anthropic's teams, actively trying to break the models to surface vulnerabilities.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-21/accenture-will-help-anthropic-test-ai-model-safety-video",
+    "source": "Bloomberg",
+    "published": "2026-09-21T14:44:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 87,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Energía, logística y activos estratégicos: las tres corrientes que ordenan el capital del mundo",
     "summary": "Las cuatro mayores tecnológicas del mundo invertirán más de 700,000 millones de dólares en activos físicos este año, casi el doble que en 2025, según sus propias proyecciones a inversionistas. La columna sostiene que la demanda de cómputo de IA está impulsando un giro masivo de capital hacia infraestructura pesada como energía, terrenos y logística.",
     "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/09/21/energia-logistica-y-activos-estrategicos-las-tres-corrientes-que-ordenan-el-capital-del-mundo/",
@@ -20,6 +174,28 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La IA podría hacer crecer 5.1% la economía de América Latina y el Caribe: BID",
+    "summary": "Un estudio del BID de próxima publicación estima que la adopción generalizada de la IA podría impulsar 5.1% el PIB de América Latina y el Caribe en una década, frente a solo 0.3% con una adopción limitada. Sin embargo, advierte que los salarios podrían caer hasta 20.9% para los trabajadores que no logren reubicarse en los nuevos empleos que genere la tecnología.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/ia-crecer-5-1-economia-america-latina-caribe-bid-20260921-834517.html",
+    "source": "El Economista",
+    "published": "2026-09-21T12:21:41-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI insta a EU a liderar los esfuerzos mundiales para desarrollar normas técnicas",
+    "summary": "OpenAI pidió que Estados Unidos lidere una iniciativa internacional para desarrollar normas técnicas globales de IA, incluida la \"automejora recursiva\". La petición llega mientras líderes mundiales se reúnen en la Asamblea General de la ONU y varios ejecutivos de IA piden una desaceleración coordinada del desarrollo de la tecnología.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/openai-insta-eu-liderar-esfuerzos-mundiales-desarrollar-normas-tecnicas-20260921-834515.html",
+    "source": "El Economista",
+    "published": "2026-09-21T12:17:19-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Anthropic and Microsoft Dominate Nscale’s $103 Billion in Contracts",
@@ -51,6 +227,17 @@
     "published": "2026-09-21T12:02:40+00:00",
     "category": "AI & Agents",
     "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Una de cada 3 grandes empresas mexicanas espera aumentar su plantilla con IA: Encuesta de Banxico",
+    "summary": "Según la Encuesta Mensual de Actividad Económica Regional de Banxico, 32.6% de las grandes empresas mexicanas que planean usar IA en los próximos tres años espera aumentar su plantilla laboral, mientras 46.8% no anticipa cambios significativos y 20.5% prevé una reducción. Las cifras reflejan las expectativas empresariales, no una proyección oficial de empleo del banco central.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/3-grandes-empresas-mexicanas-espera-aumentar-plantilla-ia-encuesta-banxico-20260921-834513.html",
+    "source": "El Economista",
+    "published": "2026-09-21T11:46:47-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
     "language": "es",
     "light": false
   },
@@ -119,6 +306,39 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Colombia será prioridad para Revolut? Así desafiará la billonaria inversión de Nu",
+    "summary": "Revolut prepara su llegada a Colombia con una inversión inicial de COP$400,000 millones enfocada en solidez patrimonial, mientras compite con la inversión de COP$5 billones anunciada por Nu Colombia. El CEO de Revolut en Colombia señaló que ese monto es solo el capital inicial de un plan de expansión mayor.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-sera-prioridad-para-revolut-asi-desafiara-la-billonaria-inversion-de-nu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "MercadoLibre pone el foco en la región andina y prepara su expansión financiera en Colombia",
+    "summary": "El CFO de MercadoLibre para la región andina, Guilherme Cohn, dijo que gran parte del crecimiento futuro de la empresa dependerá de mercados como Colombia, donde la compañía está sentando las bases para lanzar banca digital. MercadoLibre ya cuenta con una oferta consolidada de banca digital en Brasil y Chile.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/mercadolibre-pone-el-foco-en-la-region-andina-y-prepara-su-expansion-financiera-en-colombia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ecosistema fintech colombiano busca su siguiente salto: más crédito, tecnología y alianzas",
+    "summary": "La industria fintech colombiana está pasando de competir con la banca tradicional a enfocarse en crédito, datos e inteligencia artificial, según sus protagonistas. Bold, por ejemplo, busca extender su oferta de pagos hacia créditos de capital de trabajo para pequeñas empresas, con una mora cercana al 7%.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/ecosistema-fintech-colombiano-busca-su-siguiente-salto-mas-credito-tecnologia-y-alianzas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
   },
   {
     "title": "El trimestre que sostuvo el crecimiento",
@@ -5278,225 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Coppel, Lala, Banamex, TCL y Gentera tienen más datos que nunca, pero simplificar la compra sigue siendo su reto",
-    "summary": "Grandes empresas mexicanas como Coppel, Lala, Banamex, TCL y Gentera cuentan con más datos de clientes que nunca, pero simplificar el proceso de compra y aprovechar esa información sigue siendo su principal reto, según se discutió en un summit sobre clientes inteligentes.",
-    "link": "https://expansion.mx/empresas/2026/09/10/cliente-inteligente-empresas-summit-2026",
-    "source": "Expansión",
-    "published": "2026-09-11T00:34:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Economías regionales repuntan en el segundo trimestre del año",
-    "summary": "La actividad económica regional en México mostró una recuperación generalizada en el segundo trimestre de 2026, con un crecimiento nacional de 1.9% anual tras un periodo de atonía, según el Reporte sobre las Economías Regionales de Banxico. Las regiones sur y centro del país registraron el mayor dinamismo.",
-    "link": "https://www.eleconomista.com.mx/estados/economias-regionales-repuntan-segundo-trimestre-ano-20260910-833031.html",
-    "source": "El Economista",
-    "published": "2026-09-10T23:46:02-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
-    "summary": "Anthropic disclosed five examples of users who circumvented its safety controls and tried to obfuscate the purpose of their research in attempts to use its AI models for potentially developing bioweapons. The start-up said it intervened to stop the scientists involved, highlighting growing scrutiny of AI safety guardrails at frontier labs.",
-    "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-10T22:27:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta lanza Muse, una IA que puede entrar a tus apps y actuar en tu nombre",
-    "summary": "Meta presentó Muse, un nuevo agente de inteligencia artificial capaz de acceder a las aplicaciones del usuario y ejecutar acciones en su nombre, sumándose a la carrera por los agentes autónomos de IA.",
-    "link": "https://expansion.mx/tecnologia/2026/09/10/muse-nuevo-agente-ia-meta",
-    "source": "Expansión",
-    "published": "2026-09-10T22:00:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Humans Are the Real Culprits of AI Risk",
-    "summary": "In a Bloomberg Opinion video, columnist Parmy Olson argues that if Anthropic's leaders are genuinely concerned about existential AI risk, they should do more to reconcile the contradictions in the logic that drives their approach to developing increasingly powerful models.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/opinion-humans-are-the-real-culprits-of-ai-risk-video",
-    "source": "Bloomberg",
-    "published": "2026-09-10T21:20:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Promulga California ley para proteger a niños de redes e IA",
-    "summary": "El gobernador de California promulgó un paquete de leyes para proteger a los menores de los riesgos de la tecnología, incluyendo redes sociales e inteligencia artificial.",
-    "link": "https://www.reforma.com/promulga-california-ley-para-proteger-a-ninos-de-redes-e-ia/ar3274326",
-    "source": "Reforma",
-    "published": "2026-09-10T21:11:09-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
-    "summary": "Nu afirmó que su decisión de operar como banco en México ha impulsado fuertemente su número de clientes, y la fintech apuesta ahora por fortalecer su negocio de remesas y su expansión internacional.",
-    "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
-    "source": "Expansión",
-    "published": "2026-09-10T20:56:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "“No hay una renuncia a las deducciones”, asevera el secretario de Hacienda, Édgar Amador Zamora",
-    "summary": "El secretario de Hacienda, Édgar Amador Zamora, aseguró que no hay una renuncia a las deducciones fiscales por parte del gobierno, en declaraciones realizadas durante el Expansión Summit sobre la política fiscal del país.",
-    "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
-    "source": "Expansión",
-    "published": "2026-09-10T20:44:34+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Tecnología y deuda de América Latina: inversiones que Santander ve ante una Fed restrictiva",
-    "summary": "Ante una Reserva Federal que podría mantener las tasas elevadas por más tiempo, Santander Private Banking apuesta por combinar acciones de calidad con crédito corporativo y bonos, favoreciendo activos de riesgo. El cambio de estrategia llegó a fines de agosto tras señales de moderación en el empleo y la actividad económica de Estados Unidos.",
-    "link": "https://www.bloomberglinea.com/mercados/tecnologia-y-deuda-de-america-latina-inversiones-que-santander-ve-ante-una-fed-restrictiva/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-10T20:14:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
-    "summary": "Nu, el banco digital liderado por David Vélez, eliminará las comisiones para enviar dinero desde Estados Unidos hacia México en tiempo real a través de su app, reforzando su apuesta por el negocio de remesas y su expansión en servicios financieros transfronterizos.",
-    "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
-    "source": "Expansión",
-    "published": "2026-09-10T19:07:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Gobierno de México ofrece créditos de hasta 5 millones para Pymes, ¿quién puede pedirlos y para qué?",
-    "summary": "El gobierno de México, a través de Nafin y Bancomext, ofrece créditos de hasta 5 millones de pesos para pequeñas y medianas empresas, como parte de sus programas de financiamiento para impulsar la actividad productiva del país.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/10/creditos-pymes-nafin-bancomext-hasta-5-millones-pesos",
-    "source": "Expansión",
-    "published": "2026-09-10T19:06:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Peligroso rebote para el tipo de cambio que lo acerca a los 17 pesos por dólar",
-    "summary": "El peso mexicano se depreció este jueves frente al dólar, acercándose a los 17 pesos por unidad, ante las expectativas de un alza en la tasa de interés de la Fed la próxima semana. El mercado también asimiló un repunte en la inflación al productor en EU, el mayor incremento desde mayo, previo a la publicación del dato de inflación al consumidor.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/10/peso-dolar-precio-hoy-10-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-10T18:04:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia’s Huang Touts Cybersecurity as Next Big Market for AI",
-    "summary": "Nvidia CEO Jensen Huang said cybersecurity is set to become AI's next major market, as advances in the technology reshape an industry built around defending computer systems. His comments point to AI-driven security tools as a growing opportunity alongside Nvidia's core chip business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-s-huang-touts-cybersecurity-as-next-big-market-for-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-10T17:08:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brazilian ID-Verification Firm Unico Acquires Argentina’s Valida",
-    "summary": "Brazilian identity-verification firm Unico agreed to acquire Argentine rival Valida, extending its footprint across Latin America's ID-verification market. The deal is part of Unico's broader regional expansion strategy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/brazilian-id-verification-firm-unico-acquires-argentina-s-valida",
-    "source": "Bloomberg",
-    "published": "2026-09-10T17:03:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Moonshot Secretly Routed User Requests Through Claude, Anthropic Says",
-    "summary": "Anthropic accused Chinese AI firm Moonshot AI of secretly routing thousands of user requests through Anthropic's Claude models and presenting the responses as its own, in an apparent bid to gain an edge in the AI race. The allegation adds to growing tension between US and Chinese AI developers over model provenance and competitive practices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
-    "source": "Bloomberg",
-    "published": "2026-09-10T17:00:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nubank, de David Vélez, da el salto a EE.UU. y lanza Nu Global, con cuentas en dólares y euros digitales",
-    "summary": "Nu Holdings, el banco digital de David Vélez, adelantó su entrada al mercado estadounidense y lanzó Nu Global, una cuenta digital en dólares y euros, mientras espera la aprobación final de su licencia bancaria en EU. La compañía ya contaba con aprobación condicional de la OCC desde enero y decidió acelerar el lanzamiento ofreciendo productos de inmediato a través de Lead Bank.",
-    "link": "https://www.bloomberglinea.com/mercados/nubank-de-david-velez-da-el-salto-a-eeuu-y-lanza-nu-global-con-cuentas-en-dolares-y-euros-digitales/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-10T16:31:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Next Phase of the AI Boom",
-    "summary": "Switchyard Partners CEO Joe Kaiser told Bloomberg the AI boom is entering a new phase in which electricity, not compute, could become the binding constraint, pushing data centers toward stranded power sources. He argued that market competition could produce better AI safety guardrails and that sharply lowering compute cost per task will be key to sustaining the next wave of AI investment.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/the-next-phase-of-the-ai-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-09-10T16:12:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vantage Data Centers seeks $2bn in loans from Pimco and PGIM",
-    "summary": "Vantage Data Centers, backed by DigitalBridge, is seeking $2 billion in loans from Pimco and PGIM to fund AI infrastructure buildout. The move comes as Wall Street banks pull back on their exposure to data-center debt.",
-    "link": "https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-10T16:04:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Top Pentagon Official Rejects Anthropic Researcher’s AI Warning",
-    "summary": "A senior Pentagon official pushed back on warnings from an Anthropic engineer who said AI insiders believe the technology could pose existential risks within the decade. The pushback highlights a widening rift between AI safety researchers and government officials over how seriously to treat frontier-AI risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/top-pentagon-official-rejects-anthropic-researcher-s-ai-warning",
-    "source": "Bloomberg",
-    "published": "2026-09-10T15:57:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BNP Says Too Much AI Borrowing Will End Bull Market in Credit",
-    "summary": "BNP Paribas warned that excessive AI-driven borrowing by technology companies will eventually end the multiyear bull market in corporate credit, once markets become saturated with tech debt. The bank's call flags growing concern that AI infrastructure spending is building up risk in credit markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/bnp-says-too-much-ai-borrowing-will-end-bull-market-in-credit",
-    "source": "Bloomberg",
-    "published": "2026-09-10T15:30:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
   }
 ]
