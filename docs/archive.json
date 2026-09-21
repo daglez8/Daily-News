@@ -1,5 +1,82 @@
 [
   {
+    "title": "Empresas en México adoptan cada vez más la IA, ¿cuáles son los efectos en el empleo?",
+    "summary": "Un reporte de Banxico basado en la Encuesta Mensual de Actividad Económica Regional (EMAER) muestra que la adopción de inteligencia artificial sigue en aumento entre las empresas mexicanas, sobre todo en las de más de 100 trabajadores, con una tendencia similar entre regiones pero distinta según tamaño y sector. Hasta ahora la mayoría de las empresas no reporta efectos significativos sobre el empleo, aunque una proporción relevante señala efectos ligeramente positivos sobre las ventas por trabajador.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/empresas-en-mexico-adoptan-cada-vez-mas-la-ia-cuales-son-los-efectos-en-el-empleo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-21T07:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "JPMorgan Sees Dealmaking On Track for Record Year",
+    "summary": "Dorothee Blessing, Global Investment Banking Co-Head at JPMorgan, said dealmaking activity has been strong this year and is on pace for a record. She made the comments in an interview from the sidelines of the JPMorgan India Conference.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-21/jpmorgan-sees-dealmaking-on-track-for-record-year-video",
+    "source": "Bloomberg",
+    "published": "2026-09-21T05:24:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lex in depth: the challenging maths of Anthropic’s IPO",
+    "summary": "The Financial Times' Lex column examines the difficult math behind valuing Anthropic ahead of a potential IPO. It notes there are several possible ways to approach the valuation, with some suggesting the AI company could be worth far more than current estimates suggest.",
+    "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-21T04:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+    "summary": "The Federal Reserve and the Bank of England are intensifying scrutiny of banks' exposure to trading firms following a blow-up at Jane Street-linked, AI-focused hedge fund Situational Awareness. Regulators are stepping up questioning of prime brokers about the risk controls they apply to such clients.",
+    "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-21T04:00:11+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’",
+    "summary": "Revolut's Russian-born founder and CEO Nik Storonsky spoke to the Financial Times about his ambition to build a global bank he describes as carrying 'effectively zero risk.' The interview covers his strategy for growing Revolut into Europe's most valuable start-up.",
+    "link": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-21T03:00:08+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Activos virtuales: una nueva agenda de cooperación entre México y Estados Unidos",
+    "summary": "El artículo de opinión plantea que los activos virtuales, en especial las stablecoins, están dejando de ser solo instrumentos especulativos para convertirse en herramientas de pago y liquidación transfronteriza más eficientes. Destaca la Ley GENIUS de EU de 2025 y la nueva Crypto Task Force de la SEC como referentes para construir una agenda de cooperación regulatoria entre México y Estados Unidos en materia de activos digitales.",
+    "link": "https://www.eleconomista.com.mx/opinion/activos-virtuales-nueva-agenda-cooperacion-mexico-estados-unidos-20260921-834442.html",
+    "source": "El Economista",
+    "published": "2026-09-21T00:01:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ingenia Rejects Warburg Pincus’ Sweetened A$5.05 Share Offer",
+    "summary": "Australian developer Ingenia Communities Group rejected a sweetened takeover offer from private equity giant Warburg Pincus and its affiliates, saying the bid undervalues the company. The rejection marks the latest turn in Warburg Pincus's pursuit of the residential and holiday-park developer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/ingenia-rejects-new-1-5-billion-warburg-pincus-takeover-bid",
+    "source": "Bloomberg",
+    "published": "2026-09-20T22:52:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
     "summary": "Citigroup CEO Jane Fraser said banks and companies are racing to patch and secure their AI systems as adoption accelerates, describing it as a coming ‘tsunami’ of security work. She made the comments at the Qatar Economic Forum’s UNGA Special Edition, framing AI defense as an urgent priority for the financial industry.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video",
@@ -31,6 +108,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
+    "summary": "La Grieta Pavilion was built in Mexico as an academic and constructive exploration focused on sustainability and material awareness, designed with WEYES Estudio alongside architecture students from CEDIM. The project doubles as a completed structure and a pedagogical exercise linking design, construction and environmental engagement.",
+    "link": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
+    "source": "ArchDaily",
+    "published": "2026-09-20T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Canek Vázquez bajo escrutinio: Señalamientos de corrupción y litigios rodean al delegado del Infonavit en Hidalgo",
@@ -110,6 +198,17 @@
     "light": true
   },
   {
+    "title": "EM Investors Are Favoring Local Bonds as Dollar Debt Lags",
+    "summary": "Emerging-market investors are favoring local-currency sovereign bonds over dollar-denominated debt, as surging US Treasury yields dim the relative appeal of dollar bonds from developing nations. The shift illustrates how rising US rates are reshaping capital flows into EM fixed income.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/em-investors-are-favoring-local-bonds-as-dollar-debt-lags",
+    "source": "Bloomberg",
+    "published": "2026-09-20T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Canadá pide a Estados Unidos, China y Francia unir fuerzas para regular la inteligencia artificial",
     "summary": "El primer ministro de Canadá, Mark Carney, llamó a Canadá, Estados Unidos, China y Francia a unir fuerzas para establecer una regulación adecuada de la inteligencia artificial. El llamado se dio durante un encuentro con el presidente francés Emmanuel Macron, en el que Carney destacó el papel de estas cuatro naciones a la vanguardia del desarrollo de la IA.",
     "link": "https://www.eleconomista.com.mx/internacionales/canada-pide-estados-unidos-china-francia-unir-fuerzas-regular-inteligencia-artificial-20260920-834362.html",
@@ -174,6 +273,17 @@
     "relevance_score": 71,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "The Sound of Wood / Antoine Aunave, Flora Peyrot, Mathilde Steenhaut, Luc Loviton",
+    "summary": "This ArchDaily feature profiles a project nestled in a mountain valley village, describing how the setting's seasonal rhythms and a rising breeze that stirs 'the sound of wood' shape its sense of place. The piece frames the mountain village as both a retreat from the world and a source of quiet sensory experience.",
+    "link": "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
+    "source": "ArchDaily",
+    "published": "2026-09-20T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Kashkari, de la Fed, dice que la inflación va más allá de los precios del petróleo: Fox News",
@@ -273,6 +383,17 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Trump no tolerará los intentos de frenar el desarrollo de la IA",
+    "summary": "Según el titular de Expansión, el presidente Donald Trump afirmó que no tolerará intentos de frenar el desarrollo de la inteligencia artificial. La nota, de tipo encabezado, no ofrece más detalles adicionales.",
+    "link": "https://expansion.mx/tecnologia/2026/09/19/trump-no-tolerara-freno-a-la-ia",
+    "source": "Expansión",
+    "published": "2026-09-19T21:45:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Septiembre-octubre, meses críticos para los ciclones: ¿qué industrias mexicanas están más expuestas?",
@@ -5375,127 +5496,6 @@
     "published": "2026-09-10T07:00:00+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "FirstRand Profit Falls as $1.1 Billion Provision Curbs Gains",
-    "summary": "FirstRand's profit fell for the first time in six years after a $1.1 billion provision for UK clients' claims over missold car loans at its British motor-finance unit offset growth from loans and fee income.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/firstrand-profit-falls-5-as-1-1-billion-provision-curbs-gains",
-    "source": "Bloomberg",
-    "published": "2026-09-10T06:40:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera: BIS",
-    "summary": "El director del Banco de Pagos Internacionales, Pablo Hernández de Cos, advirtió que el auge de la IA genera nuevos riesgos para la estabilidad financiera, y que el gasto en infraestructura relacionada ya es lo bastante grande como para influir en la economía global. Señaló que, aunque la IA no cambia los mandatos de los bancos centrales, sí exige vigilar de cerca estos riesgos emergentes.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/auge-ia-plantea-nuevos-riesgos-estabilidad-financiera-bis-20260910-832857.html",
-    "source": "El Economista",
-    "published": "2026-09-10T06:10:57-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grab Is Said in Talks to Buy SoftBank-Backed Fintech Firm Atome",
-    "summary": "Grab Holdings, Southeast Asia's largest ride-hailing and delivery firm, is reportedly in talks to buy a majority stake in SoftBank-backed buy-now-pay-later platform Atome Financial, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome",
-    "source": "Bloomberg",
-    "published": "2026-09-10T05:51:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
-    "summary": "TSMC reported a 53% jump in monthly revenue as AI chip demand continues to outstrip supply, with the company struggling to keep pace with the global AI infrastructure buildout. It's a fresh data point on how strong the AI chip cycle remains.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/tsmc-revenue-rises-53-as-ai-chip-demand-outstrips-supply",
-    "source": "Bloomberg",
-    "published": "2026-09-10T05:35:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Gravarían 3% de ventas aunque tengan pérdidas",
-    "summary": "Si avanza el proyecto de Presupuesto 2027, las empresas deberán pagar ISR sobre al menos 3.3% de sus ventas a partir del próximo año, incluso si registran pérdidas. Es un cambio fiscal significativo para la base gravable corporativa en México.",
-    "link": "https://www.reforma.com/gravarian-3-de-ventas-aunque-tengan-perdidas/ar3273573",
-    "source": "Reforma",
-    "published": "2026-09-10T05:00:47-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Busca SHCP borrar efectivo por sectores",
-    "summary": "El gobierno mexicano busca que el Congreso faculte a la SHCP para decidir, de manera discrecional, en qué sectores se prohibirá el uso de efectivo, como parte del Paquete Económico 2027. La medida ampliaría el poder regulatorio de Hacienda sobre los medios de pago.",
-    "link": "https://www.reforma.com/busca-shcp-borrar-efectivo-por-sectores/ar3273576",
-    "source": "Reforma",
-    "published": "2026-09-10T05:00:47-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Generación de 500 empleos: Invertirá Grupo AM Real Estate 340 mdp en Morelos",
-    "summary": "Grupo AM Real Estate invertirá 340 millones de pesos en Almanta, un desarrollo residencial en Xochitepec, Morelos, que generará más de 500 empleos directos y 1,100 indirectos en su primera etapa. El proyecto de 812 lotes busca atraer a compradores de la Ciudad de México en busca de segunda residencia, en una zona donde los desarrollos comparables han subido casi 37% de valor en cinco años.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/09/generacion-de-500-empleos-invertira-grupo-am-real-estate-340-mdp-en-morelos/",
-    "source": "El Financiero",
-    "published": "2026-09-10T04:14:39+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SK Hynix Closes In on Amazon as AI Debt Binge Reorders Risk",
-    "summary": "Heavy borrowing by US Big Tech firms to fund AI buildouts is reordering credit risk hierarchies, with bond investors starting to view some emerging-market issuers as safer bets than debt-laden AI leaders. It's a notable shift in how markets are pricing the AI infrastructure boom's financial risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/ai-debt-binge-is-reordering-risk-hierarchy-with-emerging-bonds",
-    "source": "Bloomberg",
-    "published": "2026-09-10T04:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DOJ Probes Nvidia’s Tie-Up With Groq on Antitrust Concerns",
-    "summary": "The US Justice Department is investigating whether Nvidia structured its $20 billion licensing agreement with AI chip startup Groq to avoid antitrust review.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
-    "source": "Bloomberg",
-    "published": "2026-09-10T02:58:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los datos faltantes: frenar el despojo desde la modernización de los registros inmobiliarios",
-    "summary": "Columna de opinión plantea que, para frenar el despojo de propiedades, es clave modernizar los registros públicos inmobiliarios de México y atender las causas estructurales que facilitan estos delitos patrimoniales. Vincula la seguridad jurídica de la propiedad con la calidad de la infraestructura de datos registral.",
-    "link": "https://www.eleconomista.com.mx/opinion/datos-faltantes-frenar-despojo-modernizacion-registros-inmobiliarios-20260910-832850.html",
-    "source": "El Economista",
-    "published": "2026-09-10T01:53:01-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
-    "summary": "Analistas de BBVA y Banamex advierten que los nuevos límites a las deducciones fiscales planteados en el Paquete Económico 2027 podrían frenar la inversión privada en México.",
-    "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
-    "source": "Expansión",
-    "published": "2026-09-10T01:05:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 73,
     "language": "es",
     "light": false
   }
