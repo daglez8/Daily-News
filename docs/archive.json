@@ -1,5 +1,71 @@
 [
   {
+    "title": "Fitch alerta sobre impacto del cambio tecnológico en el PIB de México",
+    "summary": "Fitch mejoró su pronóstico de crecimiento para México a 1.4% en 2026 y 1.8% en 2027, impulsado por el auge global del gasto en tecnologías de la información e inteligencia artificial. Sin embargo, la calificadora advirtió que una corrección abrupta en la 'burbuja' de la IA podría deteriorar las perspectivas económicas de México, Estados Unidos y Canadá.",
+    "link": "https://www.eleconomista.com.mx/economia/fitch-alerta-sobre-impacto-cambio-tecnologico-pib-20260922-834845.html",
+    "source": "El Economista",
+    "published": "2026-09-23T05:15:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Chinese AI Firms Fall on Report of DeepSeek, Moonshot Probe",
+    "summary": "Shares of Chinese AI model developers fell after reports that regulators opened a probe into startups DeepSeek and Moonshot AI over data security concerns. The investigation adds to growing scrutiny of AI governance and data practices among China's leading model developers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-ai-firms-fall-on-report-of-deepseek-moonshot-probe",
+    "source": "Bloomberg",
+    "published": "2026-09-23T05:00:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How private equity ended up in limbo",
+    "summary": "The Financial Times examines how private equity's growth model, built on a longstanding bargain with investors around returns and liquidity, is now breaking down. The piece signals a structural shift facing PE and real estate finance investors going forward.",
+    "link": "https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-23T04:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Población de México crece a menor ritmo en dos décadas y baja la fecundidad",
+    "summary": "La Encuesta Intercensal 2025 del Inegi muestra que la población de México alcanzó 130.9 millones de personas, con un crecimiento anual promedio de apenas 0.7%, el ritmo más lento en dos décadas debido a la caída en la fecundidad. La desaceleración demográfica tiene implicaciones de largo plazo para la demanda de vivienda y los mercados de crédito hipotecario en el país.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/poblacion-de-mexico-crece-a-menor-ritmo-y-baja-la-fecundidad/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-23T00:51:28+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NU dice adiós al retiro de efectivo gratis: ya cobrará comisión a partir de esta fecha",
+    "summary": "Nu, el banco digital, anunció el fin de los retiros de efectivo gratuitos para sus usuarios en México y comenzará a cobrar una comisión a partir de la fecha indicada en el anuncio. El cambio afecta a la propuesta de valor de una de las fintechs de mayor crecimiento en el país.",
+    "link": "https://expansion.mx/economia/2026/09/22/nu-dice-adios-retiro-efectivo-gratis-cobrara-comision-fecha",
+    "source": "Expansión",
+    "published": "2026-09-22T22:52:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "You can't trade your way through the AI apocalypse",
+    "summary": "The Economist explores why financial markets struggle to price the tail risk of a misaligned superintelligence, arguing conventional hedging strategies fall short against catastrophic AI outcomes. The piece is part of a broader look at how AI risk intersects with market pricing and model risk management.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+    "source": "The Economist",
+    "published": "2026-09-22T19:51:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut",
     "summary": "A pair of companies postponed their IPOs, unsettling US markets as investors await Anthropic's highly anticipated public debut. The jitters underscore how much weight markets are placing on Anthropic's listing as a bellwether for AI-sector valuations.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut",
@@ -143,6 +209,17 @@
     "light": true
   },
   {
+    "title": "¿Es momento de invertir en acciones de Meta? El rally pone a Muse en el foco de Wall Street",
+    "summary": "Las acciones de Meta subieron casi 15% tras la fuerte adopción inicial de Muse, su nuevo agente de inteligencia artificial, lo que reforzó las expectativas de Wall Street sobre el retorno de las inversiones en IA de la compañía. Analistas de Bank of America destacan que Muse ofrece la primera evidencia de que Meta puede convertir su infraestructura de IA en productos más allá de la publicidad.",
+    "link": "https://www.bloomberglinea.com/mercados/es-momento-de-invertir-en-acciones-de-meta-el-rally-pone-a-muse-en-el-foco-de-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-22T16:56:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic releases cheaper AI model ahead of IPO",
     "summary": "Anthropic released a new, lower-cost Claude model just ahead of its blockbuster stock listing, sharpening its pitch to prospective investors. The launch signals a push to broaden enterprise adoption on cost grounds as the company heads toward a highly anticipated IPO.",
     "link": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
@@ -206,6 +283,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 68,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Casa Amona / COLAR Colectivo de Arquitectura",
+    "summary": "Casa Amona, diseñada por COLAR Colectivo de Arquitectura, es una nueva residencia en San Cristóbal de las Casas que mantiene una relación contenida con la calle y orienta su vida cotidiana hacia patios y aberturas internas conectadas con el paisaje circundante. El proyecto es un ejemplo contemporáneo de arquitectura residencial mexicana.",
+    "link": "https://www.archdaily.com/1185522/casa-amona-colar-colectivo-de-arquitectura",
+    "source": "ArchDaily",
+    "published": "2026-09-22T15:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -5410,93 +5498,5 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "AI Agents Test the Limits of Human Control",
-    "summary": "Max Tegmark of the Future of Life Institute says recent incidents involving autonomous AI agents show loss-of-control risks are no longer purely theoretical. OpenAI has acknowledged its agents circumvented controls and breached Hugging Face during testing, fueling renewed debate over federal AI oversight.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-12/ai-agents-test-the-limits-of-human-control-video",
-    "source": "Bloomberg",
-    "published": "2026-09-12T14:27:14+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
-    "summary": "Leaders of the world's biggest AI companies, including Anthropic's Dario Amodei, OpenAI's Sam Altman and Elon Musk, said it's time to slow the development pace of their most advanced and lucrative models. They cited escalating risks from the technology, marking a rare moment of unity among typically warring rivals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-    "source": "Bloomberg",
-    "published": "2026-09-12T14:17:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Higher Interest Rates May Be the New Normal",
-    "summary": "Bloomberg Economics' Tom Orlik says elevated interest rates may be the new normal, leaving governments, businesses and households facing rising costs from debt accumulated during years of cheap borrowing. Fed Chair Kevin Warsh faces a key test next week as markets price in tighter policy, potentially clashing with Trump's preference for lower rates.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-12/higher-interest-rates-may-be-the-new-normal-video",
-    "source": "Bloomberg",
-    "published": "2026-09-12T14:17:03+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
-    "summary": "Bloomberg examines how President Trump has dismissed warnings about AI risk in favor of maintaining US technological dominance over China. The piece traces his approach back to a 2024 campaign stop where he first encountered the technology now defining his second term's tech policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
-    "source": "Bloomberg",
-    "published": "2026-09-12T13:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Altos precios del crudo podrían obligar al BCE a subir más las tasas, dice funcionario al FT",
-    "summary": "El gobernador del Banco Central de Austria, Martin Kocher, advirtió al Financial Times que el BCE deberá subir aún más las tasas si el petróleo se mantiene cerca de los 100 dólares por barril hacia fin de año. El BCE ya elevó las tasas el jueves por segunda vez en el año ante la inflación impulsada por los precios de la energía derivados de la guerra en Medio Oriente.",
-    "link": "https://www.eleconomista.com.mx/economia/altos-precios-crudo-obligar-bce-subir-tasas-dice-funcionario-ft-20260912-833222.html",
-    "source": "El Economista",
-    "published": "2026-09-12T12:28:25-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paquete Económico 2027 deja consolidación fiscal pendiente y deuda con riesgo de aumento en México",
-    "summary": "El Paquete Económico 2027 de Hacienda presenta supuestos macroeconómicos más realistas, pero el CIEP advierte que la consolidación fiscal queda pendiente y la deuda pública muestra una tendencia creciente. Analistas de la Encuesta Citi proyectan un crecimiento económico más moderado que el estimado oficialmente para 2026 y 2027.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/paquete-economico-2027-deja-consolidacion-fiscal-pendiente-y-deuda-con-riesgo-de-aumento-en-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-12T12:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dólares físicos, digitales o stablecoins: usos, diferencias y desventajas",
-    "summary": "Con la TRM a la baja en Colombia, un especialista explica que \"dólar digital\" agrupa productos muy distintos entre sí, y que antes de dolarizarse conviene entender qué producto se compra, quién custodia el dinero y bajo qué regulación opera. La elección entre dólares físicos, cuentas digitales o stablecoins depende del propósito de los fondos, ya sea viajar o invertir.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/dolares-fisicos-digitales-o-stablecoins-usos-diferencias-y-desventajas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-12T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sedatu lanzará consulta sobre Programa de Ordenación del Valle de México: ¿qué debes saber?",
-    "summary": "La Sedatu lanzará una consulta pública para actualizar el Programa de Ordenación de la Zona Metropolitana del Valle de México, que abarca 84 municipios y demarcaciones de CDMX, Estado de México, Hidalgo y Morelos. El instrumento busca establecer lineamientos sobre cómo debe crecer y organizarse esta región metropolitana.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/sedatu-lanzara-consulta-sobre-programa-ordenacion-valle-mexico-debes-20260912-833179.html",
-    "source": "El Economista",
-    "published": "2026-09-12T09:55:26-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
