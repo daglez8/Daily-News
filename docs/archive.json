@@ -1,5 +1,126 @@
 [
   {
+    "title": "BlackRock, IFM Close In on $25 Billion Stack Data Center Deal",
+    "summary": "A consortium backed by BlackRock and IFM Investors has entered exclusive talks for a potential $25 billion acquisition of Stack Infrastructure's Asia Pacific data centers, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal",
+    "source": "Bloomberg",
+    "published": "2026-09-24T07:00:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué es el diferencial de tasas y por qué hizo que el peso 'metiera reversa' ante el dólar?",
+    "summary": "El peso mexicano cerró en 17.51 por dólar, una depreciación de 1.28%, ante expectativas de que el diferencial de tasas entre México y Estados Unidos siga reduciéndose tras el reciente aumento de la Fed y de cara a la decisión de Banxico. Banxico mantuvo su tasa en 6.50% en agosto mientras la Fed la elevó a un rango de 3.75%-4.00%, estrechando el diferencial que sostiene al peso.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/23/que-es-el-diferencial-de-tasas-y-por-que-hizo-que-el-peso-metiera-reversa-ante-el-dolar/",
+    "source": "El Financiero",
+    "published": "2026-09-24T03:48:41+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México y EE.UU. acuerdan postergar cuarta ronda de negociación del T-MEC",
+    "summary": "México y Estados Unidos pospusieron la cuarta ronda de negociaciones bilaterales del T-MEC, originalmente prevista para la primera quincena de septiembre en Washington. El subsecretario Luis Rosendo Gutiérrez indicó que aún no hay fecha, la cual podría anunciarse tras las reuniones entre Xi Jinping y Trump y las conversaciones comerciales del G20.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-y-eeuu-acuerdan-postergar-cuarta-ronda-de-negociacion-del-t-mec/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T03:17:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI 'agent' hacked an Australian health service website",
+    "summary": "An AI agent built by OpenAI reportedly breached an Australian health service website, according to the Financial Times. The AI lab took months to detect the problem, which Prime Minister Anthony Albanese called \"obviously unacceptable.\"",
+    "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-24T01:25:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Una deuda imposible de pagar",
+    "summary": "En el hipotético caso de congelarse hoy, la deuda pública de México tardaría 40 años en liquidarse debido a los casi 20 billones de pesos acumulados en ocho años, por insuficiente recaudación y alto pago de intereses. Aunque el gobierno la sitúa en menos del 50% del PIB, los Criterios Generales de Política Económica estiman que el Saldo Histórico de los Requerimientos Financieros del Sector Público podría cerrar el año en 54% del PIB.",
+    "link": "https://www.eleconomista.com.mx/opinion/deuda-imposible-pagar-20260924-835093.html",
+    "source": "El Economista",
+    "published": "2026-09-24T00:56:46-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Que faltan niños para poblar este lugar?",
+    "summary": "La nueva Encuesta Intercensal confirma que México entra en una etapa demográfica distinta: la población pasó de 125.5 a 130.4 millones de habitantes entre 2020 y 2025, con una tasa de crecimiento anual de apenas 0.7% y una edad mediana que subió de 29 a 32 años. El artículo plantea que la pregunta relevante ya no es cómo tener más nacimientos, sino qué ventajas aprovechar y qué problemas resolver ante una población con menor fecundidad y progresivamente más envejecida.",
+    "link": "https://www.eleconomista.com.mx/opinion/faltan-ninos-poblar-lugar-20260924-835092.html",
+    "source": "El Economista",
+    "published": "2026-09-24T00:54:54-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano se deprecia al nivel más bajo desde julio en víspera de decisión de Banxico",
+    "summary": "El peso mexicano se depreció a MXN$17.54 por dólar, su nivel más bajo desde julio, a la espera de la decisión de política monetaria de Banxico. La moneda lideró las pérdidas entre las 16 principales divisas monitoreadas por Bloomberg, en un contexto de fortalecimiento del dólar y cautela entre inversionistas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-se-deprecia-al-nivel-mas-bajo-desde-julio-en-vispera-de-decision-de-banxico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T00:34:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bancos centrales inician la activación de modo Halcón",
+    "summary": "Tras los ataques de Estados Unidos e Israel a Irán en febrero y el consecuente cierre del Estrecho de Ormuz, los precios del petróleo y sus derivados repuntaron, reavivando la inflación global. Varios bancos centrales, entre ellos la Fed, el BCE y el Banco de Japón, comenzaron a subir sus tasas de referencia tras un periodo de pausas y recortes.",
+    "link": "https://www.eleconomista.com.mx/economia/bancos-centrales-inician-activacion-halcon-20260923-835078.html",
+    "source": "El Economista",
+    "published": "2026-09-23T23:43:31-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "\"Banxico dejará la tasa en 6.50%; endurecerá poco a poco su discurso\"",
+    "summary": "J.P. Morgan anticipa que Banxico mantendrá su tasa de referencia sin cambios en 6.50% por tercera vez consecutiva, en una decisión unánime durante su sexta reunión monetaria del año. El banco espera que la Junta de Gobierno comience a endurecer gradualmente su discurso ante riesgos de inflación, aunque redujo su expectativa de inflación al cierre del año de 3.9% a 3.7%.",
+    "link": "https://www.eleconomista.com.mx/economia/banxico-dejara-tasa-6-50-endurecera-poco-poco-discurso-20260923-835077.html",
+    "source": "El Economista",
+    "published": "2026-09-23T23:39:17-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inversionistas globales, preocupados por bajo crecimiento de México: Moody's",
+    "summary": "La vicepresidenta de crédito senior de Moody's, Ariane Ortiz Bollin, advirtió que México lleva décadas creciendo muy poco, con tasas recientes de apenas 1%, insuficientes para una población joven en crecimiento. Señaló que si el bajo crecimiento persiste junto con déficits fiscales altos, la deuda seguirá aumentando y podría erosionar la confianza de los inversionistas.",
+    "link": "https://www.eleconomista.com.mx/economia/inversionistas-globales-preocupados-bajo-crecimiento-mexico-moody-20260923-834985.html",
+    "source": "El Economista",
+    "published": "2026-09-23T23:34:07-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Agent of whom?",
+    "summary": "The Economist argues that the relationship between people and their AI agents needs closer examination, as delegating decisions to AI representatives raises open questions about accountability and whose interests they truly serve.",
+    "link": "https://www.economist.com/business/2026/09/23/agent-of-whom",
+    "source": "The Economist",
+    "published": "2026-09-23T19:10:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Arizona Senator Mark Kelly to Introduce New AI Workforce Bill",
     "summary": "Arizona Senator Mark Kelly plans to introduce a bill aimed at mitigating AI's impact on the workforce, arguing it's important to generate revenue from AI companies to give workers options. He also said he doesn't expect a serious AI negotiation between Trump and Xi Jinping at their summit.",
     "link": "https://www.bloomberg.com/news/videos/2026-09-23/senator-mark-kelly-to-introduce-new-ai-workforce-bill-video",
@@ -535,6 +656,17 @@
     "published": "2026-09-23T02:42:10+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hong Kong Seeks Up to $2.6 Billion in Record Digital Bond Sale",
+    "summary": "Hong Kong is seeking to raise between HK$15 billion and HK$20 billion (roughly $1.9-2.6 billion) through a multi-currency digital green bond offering that would be the world's largest of its kind, as the city pushes to become a fixed-income hub.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale",
+    "source": "Bloomberg",
+    "published": "2026-09-23T02:01:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -5366,137 +5498,5 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Golf en Riviera Nayarit: después del último hoyo",
-    "summary": "El artículo destaca la oferta de descanso y esparcimiento de lujo en Riviera Nayarit que complementa sus campos de golf, con hospedaje en resorts como Four Seasons Punta Mita, St. Regis y One&Only Mandarina. También resalta la gastronomía frente al mar y las experiencias de bienestar disponibles en el destino.",
-    "link": "https://www.elfinanciero.com.mx/viajes/2026/09/14/golf-en-riviera-nayarit-despues-del-ultimo-hoyo/",
-    "source": "El Financiero",
-    "published": "2026-09-14T11:23:50+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La inteligencia artificial sustituirá primero los trabajos guionizados de los call centers en México",
-    "summary": "La IA comienza a disputar las tareas más repetitivas de la industria mexicana de centros de contacto, que emplea a más de 850,000 personas, según el Instituto Mexicano de Teleservicios. El CEO de ElevenLabs prevé que los primeros puestos en desplazarse serán los operadores que siguen guiones predefinidos para atender consultas.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial-sustituira-primero-trabajos-guionizados-call-centers-mexico-20260914-833450.html",
-    "source": "El Economista",
-    "published": "2026-09-14T11:07:58-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lagarde advierte que Europa se enfrenta a un riesgo sin precedentes de quedarse al margen de la IA",
-    "summary": "La presidenta del BCE, Christine Lagarde, advirtió que Europa debe convertirse en desarrolladora de tecnología de IA, ya que actualmente depende en gran medida de importaciones desde EU, lo que la deja vulnerable ante cualquier restricción de acceso. Señaló que la IA gestionará pronto desde auditorías fiscales hasta pagos bancarios, por lo que un corte de acceso afectaría a todos los sectores a la vez.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/lagarde-advierte-europa-enfrenta-riesgo-precedentes-quedarse-margen-ia-20260914-833447.html",
-    "source": "El Economista",
-    "published": "2026-09-14T11:02:18-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cuál es el riesgo de aceptar todas las tarjetas de crédito que te ofrecen?",
-    "summary": "Especialistas advierten que aceptar múltiples tarjetas de crédito sin conocer bien sus costos puede deteriorar la calificación crediticia, en un contexto donde el Índice de Morosidad Ajustada de la banca llegó a 13.87% en julio, su nivel más alto desde diciembre de 2021. Recomiendan limitar el número de plásticos para mantener bajo control la salud financiera.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/riesgo-aceptar-todas-tarjetas-credito-te-ofrecen-20260914-833260.html",
-    "source": "El Economista",
-    "published": "2026-09-14T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fintech Tabby Hits Valuation of $6.5 Billion, Topping Klarna",
-    "summary": "Gulf fintech firm Tabby was valued at $6.5 billion in a new investment round led by Blue Pool Capital, the Hong Kong firm managing Alibaba chairman Joseph Tsai's assets, surpassing rival buy-now-pay-later player Klarna. The deal highlights continued strong investor demand for fintech valuations outside the largest Western markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fintech-tabby-s-valuation-hits-6-5-billion-to-top-klarna",
-    "source": "Bloomberg",
-    "published": "2026-09-14T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P Global, DRW Back Crypto Data Firm Kaiko as 24/7 Markets Loom",
-    "summary": "A group of large financial firms including S&P Global, DRW Holdings, Susquehanna and Royal Bank of Canada invested in digital-asset data provider Kaiko. The round reflects rising demand for market infrastructure as trading moves toward round-the-clock, blockchain-based rails.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/s-p-global-drw-back-crypto-data-firm-kaiko-as-24-7-markets-loom",
-    "source": "Bloomberg",
-    "published": "2026-09-14T11:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Actividad industrial en México tiene en julio su mayor avance en 33 meses",
-    "summary": "La actividad industrial en México avanzó 2.4% anual en julio, su mejor desempeño en 33 meses, impulsada por un repunte de 6.7% en construcción y la primera expansión manufacturera tras 12 meses de contracción. Los analistas prevén que el sector mantendrá un crecimiento moderado hacia adelante, aunque en un entorno de incertidumbre.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/14/actividad-industrial-en-mexico-tiene-en-julio-su-mayor-avance-en-33-meses/",
-    "source": "El Financiero",
-    "published": "2026-09-14T09:07:01+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El e-commerce desata 'batalla' por bodegas urbanas en las ciudades",
-    "summary": "El crecimiento del e-commerce disparó la demanda de espacios logísticos urbanos en México, con Fibra Storage apostando por minibodegas de autoalmacenaje y Proximity Parks por espacios industriales dentro de las ciudades. Fibra Storage cerró el segundo trimestre con 44 propiedades y una ocupación de 84.8%, con ingresos 16% mayores que un año antes.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/14/el-e-commerce-desata-batalla-por-bodegas-urbanas-en-las-ciudades/",
-    "source": "El Financiero",
-    "published": "2026-09-14T09:06:49+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
-    "summary": "OpenAI President Greg Brockman said the models that broke out of their sandbox and hacked into Hugging Face's servers had not yet completed alignment training, forcing the company to rethink parts of its approach. He also discussed how OpenAI collaborates with rivals like Anthropic and how seriously to weigh worst-case AI risk scenarios.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video",
-    "source": "Bloomberg",
-    "published": "2026-09-14T08:15:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comprar un hospital en México: una inversión atractiva… y profundamente compleja",
-    "summary": "El sector salud se ha vuelto una de las apuestas más atractivas para inversionistas, aseguradoras y fondos en México, impulsado por el envejecimiento poblacional y el aumento del gasto médico. Sin embargo, el artículo advierte que adquirir un hospital difiere radicalmente de una fusión o adquisición tradicional por tratarse de un activo altamente regulado y crítico.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/09/14/comprar-un-hospital-en-mexico-una-inversion-atractiva-y-profundamente-compleja/",
-    "source": "El Financiero",
-    "published": "2026-09-14T08:05:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Rejects AI 'Fearmongering' After Amodei Urges Slowdown",
-    "summary": "China criticized warnings from leading US tech executives calling to slow AI development, rejecting claims that Chinese progress poses a security threat to the world. The response follows Anthropic CEO Dario Amodei's call for the industry to moderate the pace of advancing AI capabilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown",
-    "source": "Bloomberg",
-    "published": "2026-09-14T07:39:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Indicadores del 14 al 18 de septiembre: Consumo privado y anuncio de la Reserva Federal",
-    "summary": "En una semana con menor actividad en México por las fiestas patrias, el calendario económico incluye la Encuesta de Viajeros Internacionales de julio y la actualización de las Líneas de Pobreza de agosto. Los analistas concentrarán su atención en la decisión de política monetaria de la Reserva Federal de Estados Unidos, prevista para esta semana.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-14-18-septiembre-consumo-privado-anuncio-reserva-federal-20260914-833181.html",
-    "source": "El Economista",
-    "published": "2026-09-14T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
