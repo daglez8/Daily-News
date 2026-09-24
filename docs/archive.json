@@ -1,5 +1,181 @@
 [
   {
+    "title": "Banxico deja tasa sin cambios en 6.5% y descarta ‘copiar’ a la Fed: ‘No tenemos que reaccionar a EU’",
+    "summary": "El Banco de México mantuvo su tasa de referencia sin cambios en 6.50%, como esperaba el mercado, tras señalar que la inflación de servicios se resiste a bajar con más fuerza. La gobernadora Victoria Rodríguez Ceja descartó que el banco central deba 'reaccionar' a las alzas de tasas de la Fed bajo la nueva presidencia de Kevin Warsh. La inflación general repuntó a 3.42% en la primera quincena de septiembre, presionada por jitomate, cebolla y bebidas alcohólicas.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/24/tasa-del-banxico-hoy-24-de-septiembre-2026-en-cuanto-quedo/",
+    "source": "El Financiero",
+    "published": "2026-09-24T19:09:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "MercadoLibre amplía su negocio: se podrá invertir en acciones desde la app de Mercado Pago",
+    "summary": "Mercado Pago, la división fintech de MercadoLibre, ampliará su oferta para permitir que los usuarios inviertan en acciones desde la app, según confirmó el fundador Marcos Galperin en una entrevista. Aunque no hubo un anuncio formal, la medida refuerza la estrategia de la fintech de sumar servicios financieros más allá de pagos y crédito.",
+    "link": "https://www.bloomberglinea.com/negocios/mercadolibre-amplia-su-negocio-se-podra-invertir-en-acciones-desde-la-app-de-mercado-pago/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T18:57:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Policy An Opportunity For 'Bipartisan Step Forward,' Says Miriam Vogel",
+    "summary": "EqualAI president Miriam Vogel says she encountered little partisan rhetoric while testifying before lawmakers on AI's impact, calling the moment an opportunity for a 'bipartisan step forward' on AI policy. She also weighed in on the US-China AI race, noting China is pursuing a 'whole of government' approach to the technology.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/ai-an-opportunity-for-bipartisan-step-forward-vogel-video",
+    "source": "Bloomberg",
+    "published": "2026-09-24T18:55:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Darktrace CEO: AI Agents Are the New ‘Insider Threat’",
+    "summary": "Darktrace CEO Ed Jennings says AI agents are becoming a new kind of 'insider threat' as companies rapidly deploy autonomous systems with access to sensitive data and infrastructure. He discusses why cybersecurity teams are racing to catch up with agent adoption and how behavioral monitoring of agent identities could help contain the risk.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/darktrace-ceo-ai-agents-are-the-new-insider-threat-video",
+    "source": "Bloomberg",
+    "published": "2026-09-24T18:32:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
+    "summary": "Goldman Sachs earned more than $200 million in fees from Situational Awareness, a barely two-year-old AI-focused hedge fund that became the biggest client of the bank's prime brokerage unit. The Financial Times highlights how quickly AI-themed funds have grown into major sources of Wall Street revenue.",
+    "link": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-24T18:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moody’s advierte a México: Requiere ‘sí o sí’ ajuste fiscal para estabilizar deuda pública",
+    "summary": "Moody's advirtió que México necesita un ajuste fiscal adicional de más de 1.5% del PIB este año para estabilizar su deuda pública, ante un déficit elevado y un crecimiento cercano al 1%. El analista Renzo Merino proyectó un déficit de 4% a 4.5% del PIB para 2026 y señaló que la consolidación fiscal de 2025 fue insuficiente.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/09/24/moodys-advierte-a-mexico-requiere-si-o-si-ajuste-fiscal-para-estabilizar-deuda-publica/",
+    "source": "El Financiero",
+    "published": "2026-09-24T17:42:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The AI agent revolution has moved a big step closer",
+    "summary": "The Financial Times argues the AI agent revolution has moved a big step closer, pointing to Meta's launch of Muse as an early glimpse of how the technology could become a mass-market product. The piece frames Muse as a signal that autonomous AI agents are shifting from enterprise pilots toward consumer-scale deployment.",
+    "link": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-24T17:33:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HouseCanary Files Bankruptcy to Collect $260 Million From Rocket",
+    "summary": "Property data provider HouseCanary filed for bankruptcy to buy time as it seeks to collect more than $260 million from affiliates of Rocket Mortgage. The company accuses Rocket of stealing a computer model it used to quickly value homes for real estate investors and mortgage brokers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/housecanary-files-bankruptcy-to-collect-260-million-from-rocket",
+    "source": "Bloomberg",
+    "published": "2026-09-24T16:38:34+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US mortgage rates breach 7% as affordability pressures mount",
+    "summary": "US mortgage rates have climbed above 7% as surging government bond yields and rising oil prices tied to the war in Iran fuel inflation fears ahead of national elections. The Financial Times notes the move adds fresh pressure on housing affordability just as buyers were hoping for relief.",
+    "link": "https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-24T16:12:59+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BNP Paribas CIB Strikes AI Deal with Google Cloud, Credit Memo/Res",
+    "summary": "BNP Paribas is deepening its partnership with Google Cloud in a five-year extension, betting on artificial intelligence to boost efficiency across its corporate and investment bank, including in credit memo preparation. The deal is one of the clearer examples yet of a major global bank embedding AI directly into credit and underwriting workflows.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/bnp-paribas-cib-strikes-ai-deal-with-google-cloud-credit-memo-res",
+    "source": "Bloomberg",
+    "published": "2026-09-24T16:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mercado Pago y Revolut obtendrán licencia bancaria antes de 2027, dice director del BCRA",
+    "summary": "Mercado Pago y Revolut obtendrán licencias para operar como bancos en Argentina antes de que termine 2026, según anticipó un director del Banco Central argentino (BCRA). El anuncio se dio durante la Conferencia 'Nuevo Dinero' del sector financiero y marca un paso más hacia la bancarización formal de las grandes fintechs de la región.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mercado-pago-y-revolut-obtendran-licencia-bancaria-antes-de-2027-dice-director-del-bcra/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T15:49:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The Biggest AI Adoption RIsk",
+    "summary": "Former Instacart president and Beacon CEO Nilam Ganenthiran argues the biggest obstacle to AI adoption is trust, noting the technology is 'arming both the good guys and bad guys.' He says safety fears are holding back real-economy deployment even as he builds what he calls an 'AI-native Berkshire Hathaway.'",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/the-biggest-ai-adoption-risk-video",
+    "source": "Bloomberg",
+    "published": "2026-09-24T15:44:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fitch mantiene calificación de Pemex como bono basura a un escalón del grado de inversión",
+    "summary": "Fitch Ratings mantuvo la calificación de Pemex en BB+, un escalón por debajo del grado de inversión, con perspectiva estable, después de que el gobierno mexicano ratificó su apoyo presupuestal a la petrolera para 2027. La agencia destacó nuevas medidas legislativas que permiten a Pemex compartir el límite de endeudamiento con Hacienda para mejorar su apalancamiento.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-mantiene-calificacion-de-pemex-como-bono-basura-a-un-escalon-del-grado-de-inversion/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T15:37:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Evaluators Raise Ideological Bias Concern for Trump, Industry",
+    "summary": "Groups that evaluate AI models for safety and bias have found themselves at the center of a global debate over ideological bias, one that could shape both the pace of AI innovation and the direction of financial markets. Bloomberg reports the scrutiny is intensifying under the Trump administration as evaluators face pressure from multiple sides of the industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-evaluators-raise-ideological-bias-concern-for-trump-industry",
+    "source": "Bloomberg",
+    "published": "2026-09-24T14:29:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Actividad económica de México sorprende y crece 0.8% en julio",
+    "summary": "La actividad económica de México creció 0.8% en julio, por encima de lo esperado por el mercado, al arrancar el tercer trimestre, según Expansión. El dato ofrece una señal de resiliencia para la economía mexicana en medio de las advertencias de las calificadoras sobre deuda y crecimiento limitado.",
+    "link": "https://expansion.mx/economia/2026/09/24/economia-mexicana-sorprende-alza-arrancar-tercer-trimestre",
+    "source": "Expansión",
+    "published": "2026-09-24T14:00:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Jitomate, cebolla y colegiaturas encabezan alzas de precios en la primera quincena de septiembre",
+    "summary": "La inflación anual en México se ubicó en 3.42% en la primera quincena de septiembre, por encima del 3.28% que esperaba el mercado, informó el Inegi. El alza se explica principalmente por incrementos en el jitomate (+22.79% quincenal), la cebolla (+8.61%) y las colegiaturas de primaria y secundaria por el regreso a clases.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/jitomate-cebolla-colegiaturas-encabezan-alzas-precios-primera-quincena-septiembre-20260924-835152.html",
+    "source": "El Economista",
+    "published": "2026-09-24T13:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 75,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El golpe al peso: ¿episodio o tendencia?",
     "summary": "El peso mexicano se depreció cerca de 3.5% en menos de tres semanas, llegando a cotizar en 17.60 por dólar, su nivel más débil desde julio. El columnista atribuye el ajuste al alza de un cuarto de punto de la Fed (a 3.75%-4.00%), al aumento de tasas del Banco de Japón a 1.25%, y a las tensiones entre Trump y México en la ONU, que erosionaron el diferencial que sostenía al 'superpeso'.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/24/el-golpe-al-peso-episodio-o-tendencia/",
@@ -22,6 +198,17 @@
     "light": true
   },
   {
+    "title": "El sector de la construcción inició mal el segundo semestre: ENEC",
+    "summary": "El Inegi reportó que el valor de producción de las empresas constructoras cayó 2.2% en julio respecto a junio, rompiendo una racha de nueve meses de crecimiento, aunque en la comparación anual el sector aún avanzó 4.6%. En cifras desestacionalizadas fue la segunda mayor caída desde enero de 2025, una señal de arranque débil para la construcción en el segundo semestre.",
+    "link": "https://www.eleconomista.com.mx/empresas/sector-construccion-inicio-mal-segundo-semestre-enec-20260924-835154.html",
+    "source": "El Economista",
+    "published": "2026-09-24T12:02:25-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "México frena la promoción de IED: recortará 31% su presupuesto en 2027",
     "summary": "El gobierno de México reducirá 31% el presupuesto destinado a la promoción de inversión extranjera directa (IED) para 2027. El recorte plantea dudas sobre la estrategia del país para capitalizar la ola de nearshoring.",
     "link": "https://expansion.mx/economia/2026/09/24/mexico-focalizar-inversion-extranjera-2027-recorte-promocion",
@@ -31,6 +218,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Propone Xi a Trump 'control humano' sobre la IA",
+    "summary": "El presidente chino Xi Jinping propuso a Donald Trump desarrollar la inteligencia artificial bajo 'control humano', durante su encuentro bilateral en la Casa Blanca. La propuesta se suma a la creciente atención que ambos gobiernos están dando a la gobernanza de la IA en medio de la rivalidad tecnológica entre ambos países.",
+    "link": "https://www.reforma.com/propone-xi-a-trump-control-humano-sobre-la-ia/ar3281879",
+    "source": "Reforma",
+    "published": "2026-09-24T11:47:46-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Singapore’s Finance Firms to Train 80,000 Staff in AI Skills",
@@ -77,6 +275,17 @@
     "light": true
   },
   {
+    "title": "Tata goes to war with itself",
+    "summary": "The Economist reports on an escalating governance battle at Tata, one of India's largest conglomerates, as internal disputes threaten to destabilize the group. The piece frames the conflict as a cautionary tale about board oversight and succession risk at major emerging-market corporations.",
+    "link": "https://www.economist.com/business/2026/09/24/tata-goes-to-war-with-itself",
+    "source": "The Economist",
+    "published": "2026-09-24T10:33:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Adiós al ‘cash’: Ley de Economía Digital propone propone reducir las cuotas por pago con tarjetas",
     "summary": "Banxico, junto con la CNBV y la Secretaría de Hacienda, propone dentro de la Ley de Economía Digital reducir las cuotas de intercambio en pagos con tarjeta y mejorar la interoperabilidad de los medios de pago. La iniciativa, en consulta pública, busca impulsar la adopción de pagos digitales y complementa las estrategias del banco central en torno al SPEI.",
     "link": "https://www.elfinanciero.com.mx/nacional/2026/09/24/adios-al-cash-ley-de-economia-digital-propone-propone-reducir-las-cuotas-por-pago-con-tarjetas/",
@@ -86,6 +295,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "How the Fed should measure inflation",
+    "summary": "The Economist examines the challenge of pinning down the Fed's preferred measure of underlying inflation, arguing it may be harder than new Fed chair Kevin Warsh assumes. The piece is a reminder that monetary-policy signals feeding into global rates and mortgage markets rest on contested economic judgment calls.",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+    "source": "The Economist",
+    "published": "2026-09-24T09:44:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Nearshoring estratégico redefine rumbo industrial",
@@ -187,6 +407,17 @@
     "light": false
   },
   {
+    "title": "JPMorgan comparó los precios de MercadoLibre y Shopee en Brasil: ¿dónde son más baratos?",
+    "summary": "Un análisis de JPMorgan sobre 1,042 productos idénticos encontró que Shopee es más barata que MercadoLibre en 59% de los artículos comparados en Brasil, aunque el descuento mediano es de apenas 2.8%. El estudio, realizado entre el 3 y el 19 de septiembre, revela una competencia de precios reñida entre ambas plataformas de e-commerce en el mercado brasileño.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/jpmorgan-comparo-los-precios-de-mercadolibre-y-shopee-en-brasil-donde-son-mas-baratos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-24T05:16:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Emerging markets sell foreign currency bonds at record rate",
     "summary": "Emerging-market issuers are selling foreign-currency bonds at a record pace, even as conflict, rising interest rates and a strong dollar create a more challenging backdrop. Investor appetite for EM debt has remained resilient despite these headwinds.",
     "link": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
@@ -239,6 +470,17 @@
     "category": "AI & Agents",
     "relevance_score": 85,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
+    "summary": "El SAT busca atraer a micro y pequeñas empresas hacia el régimen simplificado (Resico) ofreciendo una tasa de IVA de 7% y la eliminación de obligaciones contables a partir de 2027, según Expansión. La propuesta busca formalizar más negocios reduciendo su carga administrativa y fiscal.",
+    "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
+    "source": "Expansión",
+    "published": "2026-09-24T01:20:31+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
     "light": true
   },
   {
@@ -5256,247 +5498,5 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "China Media Dismisses Amodei's 'Self-Serving' AI Safety Call",
-    "summary": "Chinese state media dismissed calls by Anthropic CEO Dario Amodei and other US AI executives to slow frontier model development as a 'self-serving' tactic to blunt Chinese competition. The rebuke underscores how the US-China AI race is shaping the global debate over safety guardrails.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
-    "source": "Bloomberg",
-    "published": "2026-09-15T03:52:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post",
-    "summary": "A researcher who recently resigned from Google DeepMind warned in an exit post that humanity is running out of time to prevent AI from causing widespread harm. The departure adds to a growing list of AI insiders publicly voicing safety concerns about the pace of frontier development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
-    "source": "Bloomberg",
-    "published": "2026-09-15T02:39:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Traxion lanzará OPA por hasta el 100% de sus acciones ante un deterioro macroeconómico y geopolítico",
-    "summary": "Grupo Traxion anunció una oferta pública de adquisición voluntaria por hasta el 100% de sus acciones en circulación, a un precio de 13.18 pesos por acción -una prima superior al 20%- ante el deterioro macroeconómico y geopolítico que ha afectado su cotización. La empresa no anticipa una recuperación del entorno en los próximos dos o tres trimestres.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-traxion-inicia-proceso-para-salir-de-la-bolsa-mexicana-de-valores/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-15T01:26:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
-    "summary": "ANZ Group CEO Nuno Matos warned of unpredictable risks tied to artificial intelligence and declined to rule out large-scale job cuts as the bank adopts the fast-evolving technology. His comments follow public warnings from Elon Musk and Sam Altman about AI's pace of development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
-    "source": "Bloomberg",
-    "published": "2026-09-15T00:52:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Aseguradoras u hospitales, he ahí el dilema",
-    "summary": "Una iniciativa en la Cámara de Diputados busca regular tanto a aseguradoras como al sector hospitalario privado, incluyendo deducibilidad fiscal para pólizas médicas de personas mayores de 60 años y mayor vigilancia de costos hospitalarios ante Profeco. El proyecto, negociado durante un año con el sector asegurador vía AMIS y Hacienda, aún depende de su aprobación en el Congreso.",
-    "link": "https://www.eleconomista.com.mx/opinion/aseguradoras-u-hospitales-he-dilema-20260914-833612.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:57:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Flujo de divisas turísticas desacelera a julio",
-    "summary": "El Inegi reportó que México recibió 21,742.9 millones de dólares en ingresos turísticos entre enero y julio, una cifra récord pero con un crecimiento de apenas 0.3% respecto a 2025. La llegada de turistas por vía aérea a destinos de playa cayó 4.6%, con una baja de 2.6% en el gasto de ese segmento.",
-    "link": "https://www.eleconomista.com.mx/empresas/flujo-divisas-turisticas-desacelera-julio-20260914-833606.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:54:25-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gobierno alcanza 600,000 viviendas contratadas y 1.8 millones de apoyos",
-    "summary": "El gobierno de Sheinbaum reportó 600,000 viviendas nuevas contratadas -37% de su meta- y 1.8 millones de apoyos para mejoramiento habitacional, además de la reestructuración de créditos hipotecarios considerados impagables. La Sedatu detalló una inversión acumulada de más de 75,000 millones de pesos en 766 proyectos habitacionales.",
-    "link": "https://www.eleconomista.com.mx/empresas/gobierno-alcanza-600-000-viviendas-contratadas-1-8-millones-apoyos-20260914-833609.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:52:08-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México se rezaga en sus metas de competitividad mundial",
-    "summary": "México cayó de la posición 55 a la 62 en el Índice de Competitividad Mundial del IMD tras no alcanzar las metas fijadas por la Secretaría de Economía para 2025 y 2026. El país mantiene fortalezas en integración comercial y nearshoring, pero persisten limitantes en productividad y crecimiento.",
-    "link": "https://www.eleconomista.com.mx/empresas/mexico-rezaga-metas-competitividad-mundial-20260914-833608.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:49:15-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cuando la Presidenta le quitó el micrófono al Secretario de Hacienda",
-    "summary": "El columnista advierte que el Paquete Económico 2027 confirma que el gobierno de Sheinbaum volverá a incumplir sus metas de finanzas públicas, y le preocupa el aparente desdén oficial ante señales de estrés hacendario como el gasto creciente en pensiones, deuda y participaciones a estados.",
-    "link": "https://www.eleconomista.com.mx/opinion/presidenta-le-quito-microfono-secretario-hacienda-20260914-833607.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:45:59-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dividir a Pemex, ¿la solución?",
-    "summary": "Las tres grandes calificadoras -Moody's, S&P y Fitch- coinciden en un diagnóstico crítico sobre el perfil crediticio de Pemex, marcado por deuda elevada, flujo de caja negativo y producción en declive, que la convierte en un pasivo contingente para las finanzas públicas de México. El artículo analiza si dividir a la petrolera podría aliviar la presión fiscal.",
-    "link": "https://www.eleconomista.com.mx/opinion/dividir-pemex-solucion-20260914-833604.html",
-    "source": "El Economista",
-    "published": "2026-09-14T23:37:35-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Labs Should Make Safe Tech Without Antitrust Help, David Sacks Says",
-    "summary": "David Sacks, co-chair of the President's Council of Advisors on Science & Technology, said Anthropic and OpenAI should build safe AI products — and pace their own progress if needed — without seeking government intervention or antitrust cover. The comments push back on recent industry calls for coordinated regulatory guardrails.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says",
-    "source": "Bloomberg",
-    "published": "2026-09-14T23:22:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DOJ Says Millions in Iran Oil Proceeds Laundered on Binance",
-    "summary": "The US Justice Department is seeking forfeiture of $61 million it says was generated from Iranian black-market oil sales and laundered through the Binance cryptocurrency exchange. The case highlights continued scrutiny of crypto platforms' exposure to sanctions evasion.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/doj-says-millions-in-iranian-oil-proceeds-laundered-on-binance",
-    "source": "Bloomberg",
-    "published": "2026-09-14T22:57:10+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
-    "summary": "Expansión presenta un listado de las 20 empresas mexicanas más importantes por ingresos, incluyendo a América Móvil, Cemex e Infonavit, que compiten a nivel internacional. El ranking ofrece un panorama del peso económico de las principales corporaciones del país.",
-    "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
-    "source": "Expansión",
-    "published": "2026-09-14T22:40:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
-    "summary": "El FMI y la organización México Evalúa consideran insuficiente la meta de déficit fiscal de 3.9% del PIB planteada por la Secretaría de Hacienda para 2027 y recomiendan reducirla a 2.5% para fortalecer la consolidación fiscal del país.",
-    "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
-    "source": "Expansión",
-    "published": "2026-09-14T22:34:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Estos 3 bancos ofrecen créditos de hasta 500,000 pesos para Pymes que buscan crecer y financiarse",
-    "summary": "Tres bancos en México ofrecen líneas de crédito de hasta 500,000 pesos dirigidas a pequeñas y medianas empresas que buscan capital para crecer o financiar su operación.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/14/3-bancos-tramitar-creditos-hasta-500-000-pesos-para-pymes",
-    "source": "Expansión",
-    "published": "2026-09-14T22:09:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Temores por la IA golpean a Wall Street mientras el petróleo y los bonos aumentan la presión",
-    "summary": "Wall Street cerró en baja el lunes, arrastrado por una fuerte venta de fabricantes de chips ante las dudas sobre el ritmo de desarrollo de la inteligencia artificial, mientras el petróleo y el rendimiento del bono del Tesoro a 10 años, que superó brevemente 5%, sumaron presión. El índice de semiconductores cayó 6% después de que Dario Amodei (Anthropic), respaldado por Sam Altman y Elon Musk, pidiera frenar el desarrollo de los modelos más avanzados, mientras Microsoft publicó un manifiesto con límites para sus propios sistemas.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-cae-entre-temores-por-la-ia-petroleo-al-alza-y-apuestas-por-una-fed-mas-restrictiva/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-14T20:08:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
-    "summary": "La autoridad aduanera mexicana tendrá mayor margen legal para embargar mercancías importadas cuyo valor declarado sea considerado artificialmente bajo, como parte de un endurecimiento contra la subvaluación.",
-    "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
-    "source": "Expansión",
-    "published": "2026-09-14T19:46:07+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Are We Losing Control of AI? What’s Driving New Fears",
-    "summary": "Long-standing fears about AI escaping human control have intensified in recent days, driven by rapid technological advances, a string of cybersecurity breaches involving AI agents, and new warnings from rank-and-file AI staffers. The piece surveys what's fueling the latest wave of anxiety among tech leaders and insiders.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/are-we-losing-control-of-ai-what-s-driving-new-fears",
-    "source": "Bloomberg",
-    "published": "2026-09-14T19:35:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Aprender IA puede costar más de 20,000 pesos, pero solo 14% de las empresas la reconoce en el salario",
-    "summary": "Capacitarse en inteligencia artificial puede costar más de 20,000 pesos en México, pero solo 14% de las empresas reconoce esa habilidad con un incremento salarial, según el artículo.",
-    "link": "https://expansion.mx/carrera/2026/09/14/saber-inteligencia-artificial-costo-salario",
-    "source": "Expansión",
-    "published": "2026-09-14T19:33:45+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Canadian Insurer Sagen Plans to Raise Around C$300 Million",
-    "summary": "Sagen MI Canada, a mortgage insurer, is looking to raise around C$300 million through a bond sale as soon as this week. The deal offers a read on investor appetite for mortgage-insurance credit risk amid a higher-rate environment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canadian-insurer-sagen-plans-to-raise-around-c-300-million",
-    "source": "Bloomberg",
-    "published": "2026-09-14T18:36:19+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Accenture Settles With Justice Department Over DEI Policies",
-    "summary": "Accenture agreed to pay $25 million to resolve US Justice Department allegations that it considered race and sex in hiring and promotion decisions. The settlement adds to a wave of federal enforcement actions targeting corporate DEI practices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/accenture-settles-with-justice-department-over-dei-policies",
-    "source": "Bloomberg",
-    "published": "2026-09-14T18:19:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Se ponen d-IA-cuerdo: Anthropic y OpenAi chocan con Trump por desarrollo de la inteligencia artificial",
-    "summary": "Dario Amodei (Anthropic), respaldado por Sam Altman (OpenAI) y Elon Musk, pidió frenar el desarrollo de los sistemas de IA más avanzados para evitar riesgos catastróficos, lo que provocó una venta masiva de acciones tecnológicas. Trump rechazó cualquier control adicional sobre la IA y calificó el llamado de Amodei como una \"conspiración enferma\".",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/14/se-ponen-d-ia-cuerdo-anthropic-y-openai-chocan-con-trump-por-desarrollo-de-la-inteligencia-artificial/",
-    "source": "El Financiero",
-    "published": "2026-09-14T18:02:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 94,
-    "language": "es",
-    "light": false
   }
 ]
