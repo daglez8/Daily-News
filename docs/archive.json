@@ -1,5 +1,82 @@
 [
   {
+    "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
+    "summary": "Emerging-market investors, from Aegon to JPMorgan Asset Management, are pulling back from their riskiest bond bets as a deepening selloff in global credit markets pushes US yields higher. The retreat signals growing caution toward EM credit risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar",
+    "source": "Bloomberg",
+    "published": "2026-09-27T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+    "summary": "Australia's Senate has summoned the CEOs of OpenAI and Anthropic to testify before an inquiry into AI oversight, following recent security revelations involving an AI vendor. The hearing adds to growing global scrutiny of how leading AI labs manage risk and safety.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+    "source": "Bloomberg",
+    "published": "2026-09-27T11:17:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors pursue Dubai investment group over missing payments",
+    "summary": "Investors are pursuing Dubai-based investment group AIX over allegedly skipped or delayed payouts on bond-like products that promised double-digit annual returns. The case raises fresh questions about oversight of high-yield investment vehicles in the Gulf region.",
+    "link": "https://www.ft.com/content/39eb5cb2-f73e-4c18-8357-f7378428c8e1?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T09:38:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Te llaman y nadie responde? Así pueden usar tu voz para intentar estafarte con IA",
+    "summary": "El Economista explica cómo estafadores están utilizando inteligencia artificial para clonar voces y perpetrar fraudes telefónicos, a partir de llamadas con silencios sospechosos. El reportaje alerta sobre esta nueva modalidad de fraude impulsada por IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/te-llaman-nadie-responde-asi-voz-intentar-estafarte-ia-20260927-835411.html",
+    "source": "El Economista",
+    "published": "2026-09-27T07:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
+    "summary": "Australia's Deputy PM Richard Marles said sensitive government data remains secure, seeking to reassure the public after revelations that a breach linked to OpenAI exposed government data. The episode has intensified debate over AI vendors' data safeguards.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
+    "source": "Bloomberg",
+    "published": "2026-09-27T04:16:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
+    "summary": "The Financial Times highlights a widening gap between soaring valuations and thin revenues among companies riding the AI boom to public markets. The contrast between ambition and income is becoming a defining feature of the current wave of AI IPOs.",
+    "link": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private credit turmoil eases as investor withdrawals slow",
+    "summary": "Turmoil in private credit markets is easing as retail investor withdrawal requests slow, though analysts caution it is too early to call a bottom. The shift offers some relief after months of redemption pressure on the asset class.",
+    "link": "https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US housing crunch puts private equity in midterm campaign crosshairs",
     "summary": "An FT analysis finds institutional and private-equity-backed landlords are increasingly blamed for soaring US housing costs, turning PE's role in residential real estate into a political flashpoint ahead of the midterm elections. The piece signals growing regulatory and reputational risk for PE real estate investors more broadly.",
     "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
@@ -64,6 +141,17 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+    "summary": "Chinese consumer stocks remain stuck in what Bloomberg calls a 'lost decade' as Beijing's single-minded focus on artificial intelligence draws investor and policy attention away from the sector. The divergence highlights how the AI boom is reshaping capital allocation in China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+    "source": "Bloomberg",
+    "published": "2026-09-27T00:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
@@ -218,6 +306,17 @@
     "relevance_score": 90,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Los altos rendimientos de los bonos golpearán al mercado? No necesariamente, según Lombard Odier",
+    "summary": "Los elevados rendimientos de los bonos soberanos no representan necesariamente un obstáculo para las bolsas, siempre que el crecimiento económico se mantenga sólido, según Lombard Odier. El análisis matiza el temor del mercado ante la reciente escalada de tasas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/los-altos-rendimientos-de-los-bonos-golpearan-al-mercado-no-necesariamente-segun-lombard-odier/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-26T05:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
@@ -572,6 +671,17 @@
     "light": true
   },
   {
+    "title": "Bonos argentinos no detienen su caída y el riesgo país se dispara al nivel más alto en seis meses",
+    "summary": "El riesgo país de Argentina superó los 600 puntos básicos, su nivel más alto en seis meses, en medio de una nueva jornada negativa para la deuda argentina. Bloomberg Línea detalla la escalada en los rendimientos exigidos por los inversionistas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bonos-argentinos-no-detienen-su-caida-y-el-riesgo-pais-se-dispara-al-nivel-mas-alto-en-seis-meses/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-25T17:09:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "SK Hynix's Solidigm Is Said to Weigh US IPO as Soon as 2027",
     "summary": "SK Hynix's memory-chip unit Solidigm is considering a US initial public offering as soon as next year, according to people familiar with the matter, as chipmakers tied to the AI buildout weigh tapping public markets.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027",
@@ -634,6 +744,17 @@
     "published": "2026-09-25T16:37:54+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cuántos salarios se necesitan para comprar un metro cuadrado en Buenos Aires",
+    "summary": "Comprar un metro cuadrado de vivienda en Buenos Aires requiere entre 2.8 y 3.5 salarios, según un informe reciente citado por Bloomberg Línea. La cifra refleja la presión sobre la asequibilidad de la vivienda en la capital argentina.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cuantos-salarios-se-necesitan-para-comprar-un-metro-cuadrado-en-buenos-aires/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-25T16:07:38+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5377,126 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "La ruta del fraude financiero en América Latina: de Brasil a Colombia y México en pocas semanas",
-    "summary": "Ejecutivos de Incode señalan que el fraude financiero digital sigue una ruta predecible en América Latina: surge primero en Brasil, con las modalidades más sofisticadas, y en cuestión de semanas se replica en Colombia y luego en México. La tendencia subraya la necesidad de que bancos y fintechs mexicanas anticipen vectores de fraude ya detectados en otros mercados de la región.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-ruta-del-fraude-financiero-en-america-latina-de-brasil-a-colombia-y-mexico-en-pocas-semanas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T15:00:26+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Precio del dólar, oro, bonos y acciones: qué cambia tras incremento en la tasas de la Fed",
-    "summary": "La primera subida de tasas de la Reserva Federal desde 2023 reordenó el mapa de inversión: el dólar se fortaleció, el oro quedó bajo presión y las acciones enfrentan un mayor costo de capital. El mercado ahora evalúa qué activos podrán resistir si la Fed mantiene las tasas elevadas por más tiempo.",
-    "link": "https://www.bloomberglinea.com/mercados/precio-del-dolar-oro-bonos-y-acciones-que-cambia-tras-incremento-en-la-tasas-de-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T13:36:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sleep like a pro",
-    "summary": "The Economist profiles a company's effort to build a more rested workforce by treating sleep as a performance and productivity lever. The piece touches on growing corporate interest in sleep science, echoing broader wearables and longevity trends.",
-    "link": "https://www.economist.com/business/2026/09/17/sleep-like-a-pro",
-    "source": "The Economist",
-    "published": "2026-09-17T12:45:01+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Housing Starts Drop Unexpectedly on Multifamily Projects",
-    "summary": "New US home construction fell unexpectedly in August to one of its weakest paces since the pandemic, driven by a plunge in multifamily housing starts. The data adds to signs of a cooling housing sector amid elevated borrowing costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-housing-starts-unexpectedly-decline-on-multifamily-projects",
-    "source": "Bloomberg",
-    "published": "2026-09-17T12:35:45+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "KKR Passes Partners Group as Europe's Top Evergreen Fund Manager",
-    "summary": "KKR & Co. has overtaken Partners Group AG as Europe's largest manager of open-ended private market funds, expanding its evergreen fund business while its Swiss rival grapples with investor withdrawal requests. The shift highlights intensifying competition among private equity firms for permanent capital vehicles.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/kkr-passes-partners-group-as-europe-s-top-evergreen-fund-manager",
-    "source": "Bloomberg",
-    "published": "2026-09-17T12:27:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Centros comerciales mantienen selectividad en la expansión",
-    "summary": "Los centros comerciales institucionales en México —988 inmuebles con 25.09 millones de m² de área bruta rentable— mantienen ocupación superior al 91% y rentas al alza, según un reporte de Mac Arquitectos Consultores. El sector prioriza el reposicionamiento de activos y la disciplina en la asignación de capital por encima de la apertura de nuevos desarrollos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/09/17/centros-comerciales-mantienen-selectividad-en-la-expansion/",
-    "source": "El Financiero",
-    "published": "2026-09-17T12:26:29+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Future Savings Is Latest Ebitda Tweak to Jolt Debt Investors",
-    "summary": "A struggling French property services company added a controversial line item to its earnings—€20 million of projected future savings from a new AI strategy—raising eyebrows among credit investors. The episode illustrates how companies are using speculative AI savings to flatter earnings reported to debt markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ai-future-savings-is-latest-ebitda-tweak-to-jolt-debt-investors",
-    "source": "Bloomberg",
-    "published": "2026-09-17T12:21:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tarjetas fáciles, deudas difíciles",
-    "summary": "Los bancos digitales en México están emitiendo tarjetas de crédito de forma masiva, ampliando el acceso al crédito mientras Banxico reporta un aumento en la morosidad del crédito al consumo. El columnista advierte que la facilidad de solicitud vía celular reduce la reflexión de compra y eleva el riesgo de sobreendeudamiento entre familias con menor educación financiera.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/09/17/tarjetas-faciles-deudas-dificiles/",
-    "source": "El Financiero",
-    "published": "2026-09-17T12:20:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA está fuera de control, ¿y si el problema no es la IA?",
-    "summary": "Esta columna de opinión de Expansión cuestiona la narrativa de que la inteligencia artificial está 'fuera de control', planteando que el verdadero problema podría estar en cómo las organizaciones y personas la implementan y gobiernan, más que en la tecnología misma.",
-    "link": "https://expansion.mx/opinion/2026/09/17/la-ia-esta-fuera-de-control-y-si-el-problema-no-es-la-ia",
-    "source": "Expansión",
-    "published": "2026-09-17T12:10:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 79,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México fabrica para Norteamérica…y ¿también puede financiarla?",
-    "summary": "Una columna de opinión en Expansión explora si México, además de consolidarse como la plataforma manufacturera de Norteamérica por el nearshoring, puede convertirse también en una fuente de financiamiento para esa cadena de valor regional. El planteamiento vincula el auge industrial con el papel que debe jugar el sistema financiero mexicano en su consolidación.",
-    "link": "https://expansion.mx/opinion/2026/09/17/mexico-fabrica-para-norteamerica-y-tambien-puede-financiarla",
-    "source": "Expansión",
-    "published": "2026-09-17T12:00:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "San Francisco's AI Wealth Boom Skirts Engineers as OpenAI, Anthropic IPOs Near",
-    "summary": "San Francisco's tech economy is being reshaped by the enormous personal wealth generated at OpenAI and Anthropic as both companies approach IPOs, even as many software engineers elsewhere face layoffs and a cooling job market. The piece highlights a growing wealth divide within the AI industry itself.",
-    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-    "source": "Bloomberg",
-    "published": "2026-09-17T12:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
   }
 ]
