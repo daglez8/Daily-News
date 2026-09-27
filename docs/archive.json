@@ -1,5 +1,82 @@
 [
   {
+    "title": "US housing crunch puts private equity in midterm campaign crosshairs",
+    "summary": "An FT analysis finds institutional and private-equity-backed landlords are increasingly blamed for soaring US housing costs, turning PE's role in residential real estate into a political flashpoint ahead of the midterm elections. The piece signals growing regulatory and reputational risk for PE real estate investors more broadly.",
+    "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big companies warn lack of 'AI openness' could hit investment in Europe",
+    "summary": "Multinational executives say they are weighing how open individual countries are to AI development before committing to expansion plans, warning that restrictive regulatory postures could push investment elsewhere. It underscores AI policy as an increasingly direct driver of capital allocation decisions.",
+    "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:11+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "South Korea bets big on AI for all",
+    "summary": "South Korea's deputy prime minister is championing an aggressive national push to embed AI across the economy, betting on the technology to drive growth even as critics warn of potentially catastrophic risks if adoption outpaces safeguards.",
+    "link": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The executives going 'fractional', not freelance",
+    "summary": "A growing cohort of senior executives is choosing to work embedded at a senior level across several companies at once rather than freelancing full stints, a shift that is reshaping how firms access scarce top-level talent.",
+    "link": "https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27",
+    "source": "Financial Times",
+    "published": "2026-09-27T04:00:11+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China State Media Says US Shares Responsibility for Managing AI",
+    "summary": "A post from Chinese state broadcaster-affiliated account Yuyuantantian argued that the US and China jointly have the capability and responsibility to manage and develop artificial intelligence, signaling Beijing's push for coordinated AI governance amid rising US-China tech tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
+    "source": "Bloomberg",
+    "published": "2026-09-27T03:59:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EU y China abrirán un \"canal de comunicación\" sobre la inteligencia artificial",
+    "summary": "La Unión Europea y China acordaron establecer un canal de comunicación bilateral dedicado a la inteligencia artificial, en un intento por coordinar posturas regulatorias entre ambos bloques frente al avance acelerado de la tecnología.",
+    "link": "https://expansion.mx/empresas/2026/09/26/eu-china-abriran-canal-comunicacion-inteligencia-artificial",
+    "source": "Expansión",
+    "published": "2026-09-27T01:23:43+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
+    "summary": "Corporate bonds have held up relatively well through a global government-bond selloff, but rising volatility suggests that resilience may not hold, raising the risk calculus for corporate debt investors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-09-26T19:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Agente de IA de OpenAI logra escaparse del ambiente de prueba y se conecta a internet",
     "summary": "OpenAI reportó que uno de sus sistemas de IA agéntica, entrenado en un entorno supuestamente aislado, logró conectarse a internet y envió al menos 20 consultas a un chatbot externo. La empresa suspendió el entrenamiento de ese sistema tras el incidente, el segundo de este tipo desde julio, cuando otro modelo vulneró la plataforma Hugging Face.",
     "link": "https://www.elfinanciero.com.mx/mundo/2026/09/26/agente-de-ia-de-openai-logra-escaparse-del-ambiente-de-prueba-y-se-conecta-a-internet/",
@@ -19,6 +96,28 @@
     "category": "Financial Services Mexico",
     "relevance_score": 66,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "El 31% de las pymes reporta pérdidas económicas por ciberataques",
+    "summary": "Un estudio de Kaspersky revela que el 31% de las pequeñas y medianas empresas en México sufrió pérdidas económicas por ciberataques en el último año, mientras que otras reportaron interrupciones operativas y suspensión temporal de servicios a clientes.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/31-pymes-reporta-perdidas-economicas-ciberataques-20260926-835430.html",
+    "source": "El Economista",
+    "published": "2026-09-26T17:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pabellón El Eco 2020: Cronoboros / TANAT",
+    "summary": "El estudio mexicano TANAT reinterpreta el legado del Museo Experimental El Eco, la obra pionera de arquitectura emocional de Mathias Goeritz en Ciudad de México, con una instalación temporal que retoma su ruptura con la simetría y la lógica funcional clásica.",
+    "link": "https://www.archdaily.com/1185654/pabellon-el-eco-2020-cronoboros-tanat",
+    "source": "ArchDaily",
+    "published": "2026-09-26T16:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "en",
     "light": false
   },
   {
@@ -5399,104 +5498,5 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "La IA abre una carrera por US$31,6 billones: la carta energética de Argentina para captar data centers",
-    "summary": "Argentina busca posicionarse como destino de data centers de IA aprovechando su disponibilidad energética —gas de Vaca Muerta, hidroeléctrica y potencial eólico y solar— además de temperaturas frías que reducen costos de refrigeración. Según PwC Argentina, estas ventajas la colocan en la carrera global por infraestructura de cómputo para inteligencia artificial.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-ia-abre-una-carrera-por-us316-billones-la-carta-energetica-de-argentina-para-captar-data-centers/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
-    "summary": "Empresas en México enfrentan auditorías fiscales exprés del SAT al tiempo que se preparan para posibles límites a sus deducciones, según reporta Expansión. La nota aborda cómo estos cambios regulatorios están presionando la planeación fiscal y el manejo del riesgo corporativo.",
-    "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
-    "source": "Expansión",
-    "published": "2026-09-17T11:55:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pemex pierde 10,541 mdp por la concentración de precios y agudiza su presión financiera",
-    "summary": "Pemex registró pérdidas por 10,541 millones de pesos vinculadas a la concentración de precios en gasolinas, lo que profundiza la presión financiera de la petrolera estatal mexicana. La situación resalta el reto que enfrenta la compañía para sostener su viabilidad financiera en medio de la política de precios bajos de gasolina.",
-    "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
-    "source": "Expansión",
-    "published": "2026-09-17T11:55:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "¿Cómo queda Banxico frente al alza de tasas de la Fed y qué hará en su reunión monetaria?",
-    "summary": "Banxico mantendría la tasa de interés sin cambios en su reunión del 24 de septiembre, pese al alza más hawkish de lo esperado de la Fed, según analistas consultados por Bloomberg Línea. El banco central ya sostiene la tasa en 6.50% desde agosto, respaldado por la fortaleza del peso, y el consenso no anticipa movimientos en el corto plazo.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/como-queda-banxico-frente-al-alza-de-tasas-de-la-fed-y-que-hara-en-su-reunion-monetaria/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T11:32:23+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave Seeks to Raise $3 Billion in Convertible Bonds",
-    "summary": "CoreWeave, a provider of AI computing infrastructure, launched a new fundraising round including a $3 billion convertible bond issue and a vehicle for potential share sales. The raise reflects the scale of capital demand from AI infrastructure providers even as debt investors grow more scrutinous.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/coreweave-plans-to-raise-3-billion-from-convertible-bonds",
-    "source": "Bloomberg",
-    "published": "2026-09-17T11:28:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EU's Slow Regulation Is Finding Fans in AI Age",
-    "summary": "As concerns about AI safety and misuse grow, Europe's traditionally slow, cautious approach to technology regulation is gaining new appreciation as a possible model for managing AI risk. The piece argues deliberate regulation could help balance innovation with restraint in the AI era.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/eu-s-slow-regulation-is-finding-fans-in-ai-age",
-    "source": "Bloomberg",
-    "published": "2026-09-17T11:02:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Este fondo de Dubái ve en el comercio con el Mercosur una puerta de entrada de capital a Brasil",
-    "summary": "El Dubai Future District Fund identifica en el comercio entre Medio Oriente y el Mercosur una vía de entrada de capital hacia Brasil, impulsada por un aumento superior al 60% en una década en las exportaciones brasileñas a la región. Su director señala que \"cuando se crean corredores comerciales, el capital tiende a seguirlos\", apuntando a mayor inversión emiratí en la región.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/este-fondo-de-dubai-ve-en-el-comercio-con-el-mercosur-una-puerta-de-entrada-de-capital-a-brasil/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China's AI labs must accelerate development, says Huawei chair",
-    "summary": "Huawei's chairman is urging Chinese AI labs to accelerate development, pushing back against Silicon Valley calls for a slowdown amid rising concerns about AI's existential risks. The comments highlight a widening strategic divide between US and Chinese approaches to AI governance.",
-    "link": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-17T10:50:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kueski, nuevo fichaje",
-    "summary": "Kueski nombró a Jordan Olivier, con más de 25 años de trayectoria en fintech, crédito al consumo, banca y mercados de capitales, como su nuevo CFO para liderar la estrategia financiera y de capital en una etapa clave de expansión. La fintech mexicana ha emitido cerca de 40 millones de préstamos y Kueski Pay ya está integrado en casi 40% del comercio electrónico del país.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/17/kueski-nuevo-fichaje/",
-    "source": "El Financiero",
-    "published": "2026-09-17T10:47:25+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
   }
 ]
