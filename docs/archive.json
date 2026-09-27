@@ -1,5 +1,93 @@
 [
   {
+    "title": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
+    "summary": "Anthropic CEO Dario Amodei is set to have dinner with President Trump on Sunday, bringing together two prominent but opposing voices in the AI safety debate. The meeting comes amid rising concern in Washington over AI safety oversight and regulation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+    "source": "Bloomberg",
+    "published": "2026-09-27T18:48:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Corporate America embraces cheaper 'open' AI models",
+    "summary": "US companies well beyond Silicon Valley are increasingly adopting cheaper, open-source Chinese AI models as alternatives to OpenAI and Anthropic's proprietary systems. The trend signals growing enterprise price sensitivity and could reshape competitive dynamics in the AI model market.",
+    "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T17:00:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Safety Concerns Put Congress on the Spot",
+    "summary": "Rep. Don Beyer, co-chair of the Congressional AI Caucus, told Bloomberg that recent AI incidents have raised the urgency for federal safeguards, including mandatory safety testing and incident reporting for advanced models. He argued Congress should establish binding oversight rather than rely on voluntary industry commitments.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-27/ai-safety-concerns-put-congress-on-the-spot-video",
+    "source": "Bloomberg",
+    "published": "2026-09-27T14:11:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inflation Keeps Pressure on the Fed",
+    "summary": "Economist Neil Dutta told Bloomberg that a stabilized US labor market alongside persistent inflation could force the Federal Reserve to raise rates faster than markets currently expect. He warned that rising food and energy costs risk pushing inflation expectations higher.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-27/inflation-keeps-pressure-on-the-fed-video",
+    "source": "Bloomberg",
+    "published": "2026-09-27T13:43:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Data Center Boom Faces Wall Street Skepticism",
+    "summary": "Wall Street is growing more skeptical of the AI data center boom as rising interest rates, local opposition and permitting delays add cost and uncertainty to projects, a New York Times reporter told Bloomberg. Financing the buildout may increasingly require tapping public markets even as investor caution grows.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video",
+    "source": "Bloomberg",
+    "published": "2026-09-27T13:14:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
+    "summary": "Stock market sentiment is swinging sharply between fear and euphoria over artificial intelligence, with investors alternating between existential worry and enthusiasm over AI-driven cost savings. The volatility underscores how central AI has become to equity market narratives.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
+    "source": "Bloomberg",
+    "published": "2026-09-27T13:00:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trabajo con prestaciones en México se ha reducido en 370,000 plazas en lo que va del 2026",
+    "summary": "El empleo subordinado con prestaciones en México se ha reducido en 370,159 plazas en lo que va de 2026, según la Encuesta Nacional de Ocupación y Empleo. Aunque agosto registró un repunte, el acumulado anual no ha logrado crecer, reflejando fragilidad en la creación de empleo formal.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/trabajo-prestaciones-mexico-reducido-370-000-plazas-20260927-835427.html",
+    "source": "El Economista",
+    "published": "2026-09-27T13:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+    "summary": "Bill Gates said US government safeguards against AI risks would not hinder the country's competitiveness with China, pushing back on the Trump administration's largely hands-off regulatory approach. His comments add a prominent tech voice to the growing debate over federal AI oversight.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+    "source": "Bloomberg",
+    "published": "2026-09-27T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
     "summary": "Emerging-market investors, from Aegon to JPMorgan Asset Management, are pulling back from their riskiest bond bets as a deepening selloff in global credit markets pushes US yields higher. The retreat signals growing caution toward EM credit risk.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-27/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar",
@@ -22,6 +110,17 @@
     "light": true
   },
   {
+    "title": "The India shock: exporting workers to the world",
+    "summary": "The Financial Times examines how emigration has helped India manage its labor surplus by exporting workers globally, though the strategy faces structural limits. The piece explores the broader implications for global labor markets and workforce mobility.",
+    "link": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-27T11:00:02+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Investors pursue Dubai investment group over missing payments",
     "summary": "Investors are pursuing Dubai-based investment group AIX over allegedly skipped or delayed payouts on bond-like products that promised double-digit annual returns. The case raises fresh questions about oversight of high-yield investment vehicles in the Gulf region.",
     "link": "https://www.ft.com/content/39eb5cb2-f73e-4c18-8357-f7378428c8e1?syn-25a6b1a6=1",
@@ -31,6 +130,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Transición a jornada de 40 horas enfrenta vacíos de información y retos de movilidad en México",
+    "summary": "El debate sobre reducir la jornada laboral en México hacia 2027 afecta a más de la mitad de la población ocupada que trabaja entre 40 y 48 horas semanales, según el INEGI. Un análisis de Sales Boyoli advierte que faltan datos desglosados sobre movilidad y traslados cotidianos para calibrar bien la reforma.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/transicion-jornada-40-horas-enfrenta-vacios-informacion-retos-movilidad-mexico-20260927-835513.html",
+    "source": "El Economista",
+    "published": "2026-09-27T09:35:32-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿Te llaman y nadie responde? Así pueden usar tu voz para intentar estafarte con IA",
@@ -559,6 +669,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Wall Street cierra al alza mientras el petróleo cae y los bonos mantienen la presión",
+    "summary": "Wall Street cerró al alza impulsado por acciones tecnológicas, después de que la caída del petróleo aliviara parte de la presión sobre los mercados de bonos durante la semana. Las expectativas de avances diplomáticos entre Estados Unidos e Irán favorecieron la recuperación bursátil.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-abre-al-alza-mientras-el-petroleo-cede-y-los-bonos-del-tesoro-se-estabilizan/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-25T20:02:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Las claves económicas de la semana (21 al 25 de septiembre): De IGAE y el anuncio de Banxico",
@@ -5377,126 +5498,5 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "No será como Terminator: el riesgo real de la IA en México hoy está en los ciberataques",
-    "summary": "Expansión sostiene que el riesgo inmediato de la IA en México no son escenarios apocalípticos tipo 'Terminator', sino su uso para potenciar ciberataques más sofisticados. El artículo llama a empresas y gobierno a reforzar su ciberseguridad ante esta amenaza creciente.",
-    "link": "https://expansion.mx/tecnologia/2026/09/17/no-sera-terminator-el-riesgo-real-de-la-ia-en-mexico",
-    "source": "Expansión",
-    "published": "2026-09-17T20:00:19+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "will.i.am on Personal AI Agents, Fundraising Efforts",
-    "summary": "Musician will.i.am discussed his push to build personal AI agents for college students through his company FYI.AI, along with its ongoing fundraising efforts, in an interview at Dreamforce. The conversation highlights growing celebrity and non-traditional entrants into the consumer AI agent space.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/will-i-am-on-personal-ai-agents-fundraising-efforts-video",
-    "source": "Bloomberg",
-    "published": "2026-09-17T19:51:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi revela las razones del probable aumento en el precio del dólar 2026 tras decisión de la Fed",
-    "summary": "Citi ve margen para que el dólar siga fortaleciéndose después de que la Fed adoptara un tono más restrictivo de lo esperado en su reciente reunión, con octubre abierto a un nuevo movimiento de tasas. El analista Daniel Tobón señala que la combinación de política monetaria restrictiva, tensión geopolítica y aversión al riesgo crea un contexto muy alcista para el dólar, aunque persiste la cautela.",
-    "link": "https://www.bloomberglinea.com/mercados/citi-revela-las-razones-del-probable-aumento-en-el-precio-del-dolar-2026-tras-decision-de-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T19:24:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rey Carlos III advierte de 'riesgos existenciales' si la IA cae 'en manos equivocadas'",
-    "summary": "El rey Carlos III advirtió en una cumbre en Dumfries House, Escocia, sobre los “riesgos existenciales” de que la inteligencia artificial caiga en manos equivocadas y sea usada de forma catastrófica. Al encuentro asistieron ejecutivos de Nvidia, Google DeepMind, OpenAI y Anthropic, además de representantes de China y el Vaticano. El monarca instó a los líderes del sector a garantizar que la IA sirva a la humanidad y no solo al avance tecnológico.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/17/rey-carlos-iii-advierte-de-riesgos-existenciales-si-la-ia-cae-en-manos-equivocadas/",
-    "source": "El Financiero",
-    "published": "2026-09-17T19:05:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fintech México pide preservar competencia y neutralidad tecnológica ante Ley de Economía Digital",
-    "summary": "La Asociación Fintech México respaldó la Iniciativa de Ley de Economía Digital para Pagos Digitales, señalando que fortalece la inclusión financiera y la digitalización, pero pidió preservar la competencia y la neutralidad tecnológica entre los distintos participantes de la infraestructura de pagos. El gremio busca asegurar que el impulso regulatorio a los pagos digitales no desincentive la inversión privada en el sector.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fintech-mexico-pide-preservar-competencia-neutralidad-tecnologica-ley-economia-digital-20260917-833974.html",
-    "source": "El Economista",
-    "published": "2026-09-17T18:38:56+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los modelos de IA abiertos quedan a 3 puntos de los cerrados y a 60% de su precio: Mozilla",
-    "summary": "Un informe de Mozilla sobre el estado de la IA de código abierto muestra que modelos abiertos como Kimi K3, Qwen y DeepSeek han cerrado la brecha con los modelos cerrados de OpenAI y Anthropic, quedando a solo tres puntos de rendimiento y con un costo 60% menor. El reporte destaca que, pese al avance en capacidad y precio, los modelos de pesos abiertos aún presentan fallas en su despliegue práctico.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/modelos-ia-abiertos-quedan-3-puntos-cerrados-60-precio-mozilla-20260917-833958.html",
-    "source": "El Economista",
-    "published": "2026-09-17T17:36:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 81,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Revolut sospesa una cotización dual en los mercados de Nueva York y Londres",
-    "summary": "El CEO de Revolut, Nik Storonsky, confirmó que el neobanco evalúa una doble cotización bursátil en Nueva York y Londres, aunque su opción preferida sigue siendo el Nasdaq. La fintech británica, que ya opera con licencias bancarias en México, Reino Unido, Australia y otros mercados, también recibió aprobación condicional de su carta bancaria en Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/revolut-sospesa-cotizacion-dual-mercados-nueva-york-londres-20260917-833956.html",
-    "source": "El Economista",
-    "published": "2026-09-17T17:30:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 79,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banco de Japón sigue a la Fed y se alista para subir tasas: por qué debe importarle a América Latina",
-    "summary": "El Banco de Japón se alista para subir su tasa de referencia de 1% a 1.25% este viernes, la segunda alza en tres meses, en medio de presiones inflacionarias persistentes. El movimiento golpea el carry trade que durante años usó el yen barato para financiar inversiones en mercados emergentes de mayor rendimiento, incluida América Latina.",
-    "link": "https://www.bloomberglinea.com/mercados/banco-de-japon-sigue-a-la-fed-y-se-alista-para-subir-tasas-por-que-debe-importarle-a-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T16:51:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Has AI broken the old VC model?",
-    "summary": "The FT reports that a wave of AI-driven mega-IPOs is stretching the venture capital industry's traditional feast-or-famine dynamics to an extreme, concentrating outsized returns in a small number of AI bets. The piece questions whether the old VC playbook still works in an AI-dominated funding environment.",
-    "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-17T16:46:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says",
-    "summary": "The Trump administration is weighing updates to interagency antitrust guidance on cybersecurity to address new AI-driven threats, according to Associate US Attorney General Stanley Woodward. The move signals growing regulatory attention to how AI capabilities intersect with competition and security policy in Washington.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-weighs-antitrust-guidance-on-ai-safety-top-doj-official-says",
-    "source": "Bloomberg",
-    "published": "2026-09-17T15:53:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Colombia piensa en regular activos digitales? Hay consumidores financieros desprotegidos",
-    "summary": "El superintendente financiero de Colombia, Pablo Rivas, señaló que el regulador está construyendo herramientas para supervisar activos digitales y otras fintech, advirtiendo que hoy existen consumidores financieros sin protección estatal por la falta de regulación. Dijo que el avance regulatorio será prudente y coordinado entre el Congreso, el Gobierno y la Superintendencia.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-piensa-en-regular-activos-digitales-hay-consumidores-financieros-desprotegidos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-17T15:51:26+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
