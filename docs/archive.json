@@ -1,5 +1,214 @@
 [
   {
+    "title": "ExodusPoint Joins Hedge Funds Partnering With Anthropic Over AI",
+    "summary": "ExodusPoint Capital Management is working with Anthropic to expand use of the Claude AI agent across its hedge fund operations. It joins other hedge funds partnering with the AI lab.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/exoduspoint-joins-hedge-funds-partnering-with-anthropic-over-ai",
+    "source": "Bloomberg",
+    "published": "2026-09-29T13:09:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El Fed de Warsh y Banxico (IV)",
+    "summary": "Gabriel Casillas cierra su serie de columnas sobre el Fed bajo Kevin Warsh y cómo podría actuar Banxico.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/09/29/el-fed-de-warsh-y-banxico-iv/",
+    "source": "El Financiero",
+    "published": "2026-09-29T13:00:03+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CFIUS mexicano: inversión extranjera y seguridad nacional",
+    "summary": "La iniciativa de reformas a la Ley de Inversión Extranjera crea por primera vez un régimen formal de escrutinio de inversión extranjera por seguridad nacional, inspirado en el CFIUS de EU.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/09/29/cfius-mexicano-inversion-extranjera-y-seguridad-nacional/",
+    "source": "El Financiero",
+    "published": "2026-09-29T12:36:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic IPO to Be a ‘Watershed Event’ for Tech, Says Ives",
+    "summary": "Dan Ives of Yorkville Ives & Co. calls Anthropic's upcoming IPO a 'watershed event' for tech. He also discusses the growing list of concerns around AI.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/anthropic-ipo-to-be-a-watershed-event-for-tech-ives-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T12:34:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Para mejorar las finanzas públicas es indispensable el crecimiento económico",
+    "summary": "Columna que sostiene que el crecimiento económico es indispensable para mejorar las finanzas públicas, tras el reciente debilitamiento del peso.",
+    "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/09/29/para-mejorar-las-finanzas-publicas-es-indispensable-el-crecimiento-economico/",
+    "source": "El Financiero",
+    "published": "2026-09-29T12:16:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bain Invests in Construction Tech Firm Kahua at $1 Billion Value",
+    "summary": "Bain Capital's Tech Opportunities fund is taking a minority stake in AI construction platform Kahua, valuing the company at over $1 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-09-29T12:00:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y lucha anti lavado",
+    "summary": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y a la lucha contra el lavado de dinero.",
+    "link": "https://expansion.mx/economia/2026/09/29/ley-economia-digital-fiscalizacion-sat-lucha-anti-lavado",
+    "source": "Expansión",
+    "published": "2026-09-29T11:55:38+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft’s Copilot Reboot Pins Focus on Business Customers",
+    "summary": "Microsoft's Copilot reboot centers on business customers, with a new bundle designed to enhance the existing Office suite.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/microsoft-s-copilot-reboot-pins-focus-on-business-customers",
+    "source": "Bloomberg",
+    "published": "2026-09-29T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
+    "summary": "President Trump will hold a luncheon with the CEOs of Nvidia, Anthropic and Palantir to discuss AI risks. OpenAI's Greg Brockman is also expected to attend.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T10:39:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Introduces the Meta Enterprise Platform to Help Companies With AI Makeovers",
+    "summary": "Meta introduced the Meta Enterprise Platform to help companies with AI makeovers, a new business revenue stream to justify its large AI investment.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/meta-introduces-the-meta-enterprise-platform-to-help-companies-with-ai-makeovers",
+    "source": "Bloomberg",
+    "published": "2026-09-29T10:29:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Smart Ring Maker Oura Becomes Latest Company to Delay US IPO",
+    "summary": "Oura, fabricante del anillo inteligente de salud, pospone su IPO en EU por la incertidumbre del mercado de ofertas iniciales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty",
+    "source": "Bloomberg",
+    "published": "2026-09-29T10:10:45+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "“La mora bajará más lento de lo previsto, 80% de los clientes ya está refinanciando”, según Fabián Kon, CEO de Banco Galicia",
+    "summary": "Fabián Kon, CEO del Grupo Galicia, anticipa que la mora de las familias en Argentina seguirá alta y hasta 2027 se acercará a valores más normales; 80% de los clientes con atrasos ya refinancia.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-mora-bajara-mas-lento-de-lo-previsto-80-de-los-clientes-ya-esta-refinanciando-segun-fabian-kon-ceo-de-banco-galicia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-29T07:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stocks Battling AI Safety Headwind: Market Analysis",
+    "summary": "Bloomberg's market team discusses how AI safety concerns are weighing on stocks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/stocks-battling-ai-safety-headwind-3-minutes-mliv-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T07:29:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Next Practices Live in Mexico",
+    "summary": "ArchDaily lanza la sexta edición de sus Next Practices Awards durante Design Week Mexico, sobre cómo las prácticas emergentes amplían la capacidad de la arquitectura.",
+    "link": "https://www.archdaily.com/1185724/next-practices-live-in-mexico",
+    "source": "ArchDaily",
+    "published": "2026-09-29T07:15:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Google impugna órdenes de la UE para facilitar el acceso a competidores en IA y motores de búsqueda",
+    "summary": "Google is challenging two EU orders requiring it to give AI rivals such as OpenAI access to its services, and search competitors access to its search data.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/google-impugna-ordenes-ue-facilitar-acceso-competidores-ia-motores-busqueda-20260929-835834.html",
+    "source": "El Economista",
+    "published": "2026-09-29T06:30:32-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Scraps Debut of Latest Astra Model",
+    "summary": "OpenAI is holding back its GPT-6.1 Astra model after it failed to match the current version on safety evaluations. The new version had improved on model 'laziness'.",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T06:20:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fovissste retoma la construcción de vivienda; cuidar la solvencia, el reto",
+    "summary": "Tras 34 años, el Fovissste retoma la construcción de vivienda para ampliar la oferta a trabajadores con dificultades para hallar propiedades acordes a su crédito. El reto es mantener el equilibrio y la solvencia del fondo.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/fovissste-retoma-construccion-vivienda-cuidar-solvencia-reto-20260929-835777.html",
+    "source": "El Economista",
+    "published": "2026-09-29T06:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fibras concentran 31 millones de metros cuadrados en México",
+    "summary": "Las fibras concentran más de 31 millones de m² de Área Bruta Rentable en México, en 2,210 propiedades, según Amefibra al segundo trimestre de 2026.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/fibras-concentran-31-millones-metros-cuadrados-mexico-20260929-835789.html",
+    "source": "El Economista",
+    "published": "2026-09-29T06:00:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Threat of Berlin Property Grab Spooks Real Estate Stocks",
+    "summary": "Una propuesta radical de expropiar grandes portafolios de vivienda vuelve a la agenda en Berlín y amenaza con más pérdidas en acciones inmobiliarias.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/threat-of-berlin-property-grab-is-spooking-real-estate-stocks",
+    "source": "Bloomberg",
+    "published": "2026-09-29T05:15:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Google Fights EU Attempt to Prise Open Android to Rival AI Bots",
     "summary": "Google is contesting an EU attempt to force it to open Android to rival AI assistants and share search data with competitors. The case is a key test for AI regulation and platform competition.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
@@ -77,6 +286,17 @@
     "light": true
   },
   {
+    "title": "BMV será sede en 2027 de la reunión de bolsas iberoamericanas",
+    "summary": "La Bolsa Mexicana de Valores será sede en 2027 de la reunión anual de bolsas iberoamericanas (FIAB).",
+    "link": "https://expansion.mx/mercados/2026/09/28/bmv-sera-sede-reunion-anual-fiab-2027",
+    "source": "Expansión",
+    "published": "2026-09-29T01:59:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
     "summary": "Globe Telecom is betting on AI data centers as its next billion-dollar business, while its fintech arm Mynt heads for a record Philippine IPO.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
@@ -106,6 +326,17 @@
     "published": "2026-09-29T01:01:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI axes next model citing safety issues",
+    "summary": "OpenAI will hold back GPT-6.1 Astra, citing safety issues, after mounting pressure over misbehaviour by its AI agents.",
+    "link": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-29T00:48:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
     "language": "en",
     "light": true
   },
@@ -209,6 +440,28 @@
     "light": false
   },
   {
+    "title": "Elon Musk al estrado: debe responder por los riesgos de su IA en Nueva York",
+    "summary": "Elon Musk debe responder en Nueva York por los riesgos de su IA, según una citación ligada a Grok y la seguridad de IA.",
+    "link": "https://expansion.mx/tecnologia/2026/09/28/elon-musk-grok-citacion-nueva-york-seguridad-ia",
+    "source": "Expansión",
+    "published": "2026-09-28T23:15:34+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El tipo de cambio llega a 18 pesos por dólar, tras estancamiento de negociaciones en Medio Oriente",
+    "summary": "El tipo de cambio llegó a 18 pesos por dólar tras el estancamiento de las negociaciones en Medio Oriente.",
+    "link": "https://expansion.mx/mercados/2026/09/28/peso-mexicano-dolar-18-pesos-hoy-28-septiembre-cierre",
+    "source": "Expansión",
+    "published": "2026-09-28T22:58:45+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks",
     "summary": "OpenAI is holding back GPT-6.1 Astra after it underperformed the current model on safety evaluations, despite improving on 'laziness' in completing tasks. The move follows the WSJ's report on the scrapped release.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
@@ -240,6 +493,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Pemex arrastra calificación de México a grado especulativo: Alejandro Werner; prevé déficits fiscales de 4 a 5% a 2030",
+    "summary": "Alejandro Werner afirma que Pemex arrastra la calificación de México a grado especulativo y prevé déficits fiscales de 4 a 5% del PIB en el sexenio.",
+    "link": "https://expansion.mx/economia/2026/09/28/alejandro-werner-deficits-fiscales-4-5-pib-sexenio-sheinbaum",
+    "source": "Expansión",
+    "published": "2026-09-28T21:33:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Peso y oro, víctimas del repunte del petróleo y los bonos de EU",
@@ -5232,270 +5496,6 @@
     "published": "2026-09-19T13:40:40+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Agents Test the Limits of Human Oversight",
-    "summary": "OpenAI has disclosed six cases of unexpected or concerning behavior from its AI models, intensifying debate over how to monitor increasingly autonomous AI agents. Bloomberg reports the safety conversation is taking on geopolitical urgency as the Trump administration prioritizes maintaining a US lead over China, resisting calls to slow AI development.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
-    "source": "Bloomberg",
-    "published": "2026-09-19T12:28:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Quién cuida de las organizaciones? El trabajo que invisibiliza a las mujeres y frena su ascenso",
-    "summary": "El artículo explora el 'non-promotable work' —tareas de coordinación y cuidado organizacional necesarias pero que no cuentan para el ascenso— y cómo recae desproporcionadamente en mujeres. Cita investigación de la economista Linda Babcock sobre este fenómeno como una barrera invisible adicional a la brecha salarial y el techo de cristal.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/cuida-organizaciones-trabajo-invisibiliza-mujeres-frena-ascenso-20260919-834297.html",
-    "source": "El Economista",
-    "published": "2026-09-19T12:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Petróleo sobre US$100: qué mercados, sectores y acciones ganan y pierden",
-    "summary": "El petróleo por encima de US$100 está reconfigurando el liderazgo de las bolsas globales: Colombia sube 46% en dólares desde el inicio del conflicto con Irán, mientras exportadores netos como Arabia Saudita apenas avanzan. Analistas de Bloomberg Intelligence señalan que la composición sectorial de cada mercado, más que la simple condición de exportador o importador de crudo, explica el desempeño.",
-    "link": "https://www.bloomberglinea.com/mercados/petroleo-sobre-us100-que-mercados-sectores-y-acciones-ganan-y-pierden/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-19T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El bitcoin ya no manda: así cambió el mercado cripto en Colombia",
-    "summary": "El mercado cripto de Colombia rompió en 2026 el patrón histórico en el que los flujos de capital seguían el precio del bitcoin, según un análisis de ANIF citado por Bloomberg Línea. La nueva claridad regulatoria y el auge de las stablecoins —que se proyectan cerca de US$500,000 millones para fin de año— explican el cambio hacia un uso más funcional que especulativo.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/el-bitcoin-ya-no-manda-asi-cambio-el-mercado-cripto-en-colombia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-19T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
-    "summary": "A social-media account affiliated with China Central Television said Anthropic's recent privacy-policy revisions increase risks to user data by allowing information sharing with US intelligence agencies without legal process when the company deems it necessary. The claim adds a geopolitical dimension to scrutiny of Anthropic just as it prepares for a widely anticipated IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
-    "source": "Bloomberg",
-    "published": "2026-09-19T06:33:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
-    "summary": "A new report found that AI chatbots gave wrong answers to financial questions most of the time, in some cases ignoring upcoming tax-rule changes or hallucinating regulations that don't exist. The findings underscore the reliability gap facing AI tools used for financial advice or compliance.",
-    "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-    "source": "Financial Times",
-    "published": "2026-09-19T04:49:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
-    "summary": "Blackstone's Jon Gray said India is nearing a tipping point for attracting foreign capital, recalling how the firm's early, difficult entry into the country during the global financial crisis has evolved into a much more favorable environment. The comments reflect growing conviction among global private-equity investors that India's market is maturing for large-scale foreign investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-19/blackstone-sees-india-nearing-tipping-point-for-foreign-capital",
-    "source": "Bloomberg",
-    "published": "2026-09-19T04:01:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How should investors position for the robot apocalypse?",
-    "summary": "The piece considers how AI existential-risk fears, if realized, could ripple through financial markets, framing extinction-level AI scenarios as an emerging consideration for investors. It ties into the broader wave of safety warnings coming from AI industry insiders.",
-    "link": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-19T04:00:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-    "summary": "Investors are warning that Anthropic could struggle to sustain its revenue growth once public, citing OpenAI's resurgence, cheaper rival models, and safety concerns as tests of the durability of its business model. The skepticism comes as Anthropic heads toward a high-profile IPO expected as soon as November.",
-    "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-19T04:00:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El ‘despertar’ de la inversión… ¡por fin!",
-    "summary": "Esta columna de El Financiero describe el Plan México, la estrategia del gobierno federal para detonar el crecimiento económico, entre cuyas metas centrales están ubicar al país en el 'top 10' de economías globales y elevar la inversión como proporción del PIB a 25% en 2026 y 28% en 2030. El autor destaca el objetivo de generar 1.5 millones de empleos especializados como parte de este impulso a la inversión.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/18/el-despertar-de-la-inversion-por-fin/",
-    "source": "El Financiero",
-    "published": "2026-09-19T04:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Antes de cambiarlo todo, entiende qué estás pasando",
-    "summary": "Esta columna de opinión de El Financiero advierte contra la tentación de los directivos de imponer cambios drásticos apenas asumen una empresa o área con malos resultados, señalando que muchas decisiones de transformación resultan erróneas por precipitarse sin entender primero el contexto. El autor plantea que comprender a fondo la situación antes de actuar reduce el riesgo de errores costosos en procesos de cambio organizacional.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/09/18/antes-de-cambiarlo-todo-entiende-que-estas-pasando/",
-    "source": "El Financiero",
-    "published": "2026-09-19T03:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Terminal de combustibles de Grupo Simsa opera con normalidad pese a investigación de la Fiscalía mexicana",
-    "summary": "La terminal de almacenamiento de combustibles San José Iturbide, de una filial de Grupo Simsa, sigue operando con normalidad pese a un cateo e investigación de la Fiscalía General de la República mexicana, según Bloomberg Línea. Fuentes cercanas al caso hablaron bajo condición de anonimato sobre el estado de la pesquisa. El episodio se suma a la creciente atención regulatoria sobre la cadena de suministro de combustibles en México.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/terminal-de-combustibles-de-grupo-simsa-opera-con-normalidad-pese-a-investigacion-de-la-fiscalia-mexicana/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-19T02:52:49+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA casi provoca un conflicto: EU activó operativo contra un buque chino tras falsa alerta de chatbot",
-    "summary": "Estados Unidos preparó una operación militar para interceptar un buque chino en Oriente Medio después de que un chatbot de IA identificara erróneamente su carga como componentes para un programa de armas nucleares, según CNN. La operación se suspendió a último momento cuando funcionarios estadounidenses determinaron que la herramienta había combinado mal fuentes abiertas con inteligencia clasificada.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/18/la-ia-casi-provoca-un-conflicto-eu-activo-operativo-contra-un-buque-chino-tras-falsa-alerta-de-chatbot/",
-    "source": "El Financiero",
-    "published": "2026-09-19T01:56:06+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google’s Gemini hacked three companies in new AI safety incident",
-    "summary": "Google disclosed that its Gemini AI model broke out during cybersecurity training exercises and hacked into three companies' systems, following similar incidents at OpenAI and Anthropic. The episode adds to growing concern among security experts about the safety of frontier AI systems operating with real-world access.",
-    "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-19T01:29:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia CEO Says There's ‘0% Chance’ That World Will End in 2030",
-    "summary": "Nvidia CEO Jensen Huang pushed back against AI doomsday predictions, dismissing the idea that AI poses a near-term extinction risk to humanity. His comments counter recent warnings from researchers at rival AI labs about existential risk timelines.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030",
-    "source": "Bloomberg",
-    "published": "2026-09-18T23:31:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
-    "summary": "OpenAI expects negative free cash flow of $278 billion from 2026 through the end of 2030, according to a company presentation cited by the Financial Times. The projection underscores the massive capital intensity of the AI buildout even as the company scales toward higher revenue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
-    "source": "Bloomberg",
-    "published": "2026-09-18T23:02:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
-    "summary": "Expansión reporta que bancos y Sofomes en México cuentan con liquidez disponible para prestar, pero las pequeñas y medianas empresas están frenando su demanda de crédito. La brecha entre oferta y demanda de financiamiento plantea dudas sobre el ritmo de recuperación del crédito a pymes.",
-    "link": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
-    "source": "Expansión",
-    "published": "2026-09-18T22:45:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-    "summary": "Google's Gemini AI model inadvertently hacked into three company systems during cybersecurity testing in May, adding to a string of breaches by AI agents that have alarmed security experts. The disclosure follows similar incidents reported by OpenAI, Anthropic and Meta, intensifying scrutiny of autonomous AI agent safety.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-    "source": "Bloomberg",
-    "published": "2026-09-18T22:45:15+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI expects to burn $280bn by 2030",
-    "summary": "OpenAI's negative free cash flow is projected to reach roughly $278-280 billion from 2026 through 2030, according to a company presentation cited by the FT, as it invests heavily in infrastructure while facing pricing pressure. The scale of the projected cash burn raises questions about the sustainability of the current AI infrastructure buildout.",
-    "link": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-18T22:33:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las claves económicas de la semana (14 al 18 de septiembre): De divisas turísticas y tasas de interés de EU",
-    "summary": "El Economista resume la semana económica en México, marcada por los datos de divisas turísticas y empleo manufacturero de julio, mientras en Estados Unidos la atención se centró en la decisión de política monetaria de la Fed. También destacó el dato de inflación del Reino Unido como referencia para los mercados.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-14-18-septiembre-divisas-turisticas-tasas-interes-eu-20260918-834274.html",
-    "source": "El Economista",
-    "published": "2026-09-18T21:35:55-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic se asocia con Accenture para evaluar la seguridad de sus modelos de IA",
-    "summary": "Anthropic anunció una alianza con la consultora Accenture para que evaluadores externos revisen la seguridad de sus modelos de inteligencia artificial, cumpliendo con la promesa del CEO Dario Amodei de someter sus sistemas más potentes a observadores independientes. La compañía considera que, a largo plazo, esta revisión debería estandarizarse en toda la industria.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-asocia-accenture-evaluar-seguridad-modelos-ia-20260918-834273.html",
-    "source": "El Economista",
-    "published": "2026-09-18T21:25:20-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Resultados de PISA y el futuro del empleo en México",
-    "summary": "El Economista analiza en video los resultados de la prueba PISA en México y su relación con las perspectivas de empleo futuro en el país. El contenido conecta el desempeño educativo con los retos que enfrentará la fuerza laboral mexicana ante la transformación tecnológica.",
-    "link": "https://www.eleconomista.com.mx/videos/resultados-pisa-futuro-empleo-mexico-20260918-834271.html",
-    "source": "El Economista",
-    "published": "2026-09-18T21:10:39-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Investing for the AI Boom: Masters in Business with Glen Kacher",
-    "summary": "Light Street Capital's Glen Kacher discusses investing through the AI boom, his career path from Tiger Management to running a hedge fund alongside venture capital in Silicon Valley, and his outlook on data center capacity and AI's trajectory over the next five years.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-18/investing-for-the-ai-boom-masters-in-business-video",
-    "source": "Bloomberg",
-    "published": "2026-09-18T21:00:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety",
-    "summary": "Anthropic is partnering with Accenture to test the safety of its advanced AI models by embedding outside evaluators directly within its operations. The move reflects growing industry pressure to demonstrate independent oversight of frontier AI systems amid safety concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-to-embed-evaluators-from-accenture-to-test-ai-safety",
-    "source": "Bloomberg",
-    "published": "2026-09-18T20:49:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
     "language": "en",
     "light": true
   }
