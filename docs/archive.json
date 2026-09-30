@@ -1,5 +1,126 @@
 [
   {
+    "title": "Fed Votes to Overhaul Stress Tests in Major Wall Street Bank Win",
+    "summary": "The Federal Reserve voted to finalize its overhaul of bank stress tests, a major win for Wall Street's largest lenders. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/fed-votes-to-overhaul-stress-tests-in-major-wall-street-bank-win",
+    "source": "Bloomberg",
+    "published": "2026-09-30T13:01:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BMW Targets Shedding 20% of Managers Through AI in Savings Push",
+    "summary": "BMW plans to use AI to help eliminate a fifth of its management roles by mid-2027 as part of a buyout plan to cut costs and lift profitability. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/bmw-targets-shedding-20-of-managers-through-ai-in-savings-push",
+    "source": "Bloomberg",
+    "published": "2026-09-30T13:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DoorDash Unveils Text-to-Order AI Agent That Works With Apple's iMessage",
+    "summary": "DoorDash unveiled an AI agent for ordering food that works inside Apple's Messages app, as it pushes personal AI assistants ahead of e-commerce rivals. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage",
+    "source": "Bloomberg",
+    "published": "2026-09-30T12:57:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Traders Pull Back on October Fed Hike Bets After Cool PCE Data",
+    "summary": "Traders pared back bets on an October Fed rate hike after the preferred inflation gauge rose less than expected. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/traders-pull-back-on-october-fed-hike-bets-after-cool-pce-data",
+    "source": "Bloomberg",
+    "published": "2026-09-30T12:48:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Texas Stock Exchange Raises $155 Million After First Listings",
+    "summary": "The parent of the Texas Stock Exchange raised $155 million in a third funding round as it challenges NYSE and Nasdaq for listings. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/texas-stock-exchange-raises-155-million-after-first-listings",
+    "source": "Bloomberg",
+    "published": "2026-09-30T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "KKR’s Policard: Massive Need for Capital in Europe",
+    "summary": "KKR's Vincent Policard says Europe needs up to $800 billion a year in infrastructure investment, almost double current levels, as governments seek private capital for AI and space. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-30/kkr-s-policard-massive-need-for-capital-in-europe-video",
+    "source": "Bloomberg",
+    "published": "2026-09-30T11:43:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Singapore Records First AI-Linked Data Breach After Email Addresses Exposed",
+    "summary": "Singapore recorded its first AI-related data breach notification after a food company accidentally exposed customers' email addresses in a bulk email. (Summary from blurb.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/singapore-reports-first-data-breach-linked-to-ai-use-st",
+    "source": "Bloomberg",
+    "published": "2026-09-30T11:13:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Mortgage Rates Rise to an Almost Three-Year High of 7.3%",
+    "summary": "Las tasas hipotecarias en EE.UU. subieron por sexta semana consecutiva a un máximo de casi tres años (7.3%), frenando a posibles compradores de vivienda. (Resumen basado en el extracto.)",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-mortgage-rates-increase-to-an-almost-three-year-high-of-7-3",
+    "source": "Bloomberg",
+    "published": "2026-09-30T11:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La liquidez global y la caída del peso",
+    "summary": "A un año de la Encuesta Trienal del BIS, en la que el peso se ubicó como la decimocuarta divisa más operada, el artículo analiza la liquidez global y la caída del peso.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/30/la-liquidez-global-y-la-caida-del-peso/",
+    "source": "El Financiero",
+    "published": "2026-09-30T10:49:05+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Subirá el predial? Esto dice la nueva ley que avalaron en Diputados",
+    "summary": "La Comisión de Transparencia de Diputados aprobó con 20 votos a favor la nueva ley de Sheinbaum para armonizar el predial en todo el país. El dictamen genera dudas sobre si subirá el impuesto.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/09/30/subira-el-predial-esto-dice-la-nueva-ley-que-avalaron-en-diputados/",
+    "source": "El Financiero",
+    "published": "2026-09-30T10:12:40+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Grupos europeos de pagos unen fuerzas para reducir la dependencia de Visa y Mastercard",
+    "summary": "Varios grupos europeos de pagos, entre ellos Bizum, Bancomat y Wero, se unen en una empresa conjunta para pagos transfronterizos. Buscan reducir la dependencia de Visa y Mastercard.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/grupos-europeos-pagos-unen-fuerzas-reducir-dependencia-visa-mastercard-20260930-836058.html",
+    "source": "El Economista",
+    "published": "2026-09-30T06:27:28-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Real Estate Stocks Are a Bold Bet on Monetary Policy Reversal",
     "summary": "Pessimism around real estate stocks is severe as interest rates climb, creating conditions for a sharp reversal that could reward investors with good timing (summary from blurb).",
     "link": "https://www.bloomberg.com/news/articles/2026-09-30/real-estate-stocks-are-a-bold-bet-on-monetary-policy-reversal",
@@ -31,6 +152,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI industry moves to thwart data centre backlash ahead of US midterms",
+    "summary": "The AI Infrastructure Coalition, whose members include Google, Meta and Microsoft, unveiled commitments to cover energy costs and minimise water usage. The move aims to head off data centre backlash ahead of US midterms. (Summary from blurb.)",
+    "link": "https://www.ft.com/content/9705f5bf-bc06-481d-b2a3-1299463074b8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-30T04:01:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
   },
   {
     "title": "The risks of HSBC’s return to its roots",
@@ -128,6 +260,17 @@
     "published": "2026-09-29T22:15:09+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump toma el control de la IA y firma acuerdo “moralmente vinculante” para no ralentizar su desarrollo",
+    "summary": "Trump firmó un acuerdo 'moralmente vinculante' para que el gobierno lidere la IA sin ralentizar su desarrollo. Expansión detalla el alcance de la medida.",
+    "link": "https://expansion.mx/tecnologia/2026/09/29/trump-acuerdo-lideres-ia-autorregulacion-desarrollo",
+    "source": "Expansión",
+    "published": "2026-09-29T22:11:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
     "language": "es",
     "light": false
   },
@@ -5355,148 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Empresas en México adoptan cada vez más la IA, ¿cuáles son los efectos en el empleo?",
-    "summary": "Un reporte de Banxico basado en la Encuesta Mensual de Actividad Económica Regional (EMAER) muestra que la adopción de inteligencia artificial sigue en aumento entre las empresas mexicanas, sobre todo en las de más de 100 trabajadores, con una tendencia similar entre regiones pero distinta según tamaño y sector. Hasta ahora la mayoría de las empresas no reporta efectos significativos sobre el empleo, aunque una proporción relevante señala efectos ligeramente positivos sobre las ventas por trabajador.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/empresas-en-mexico-adoptan-cada-vez-mas-la-ia-cuales-son-los-efectos-en-el-empleo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-21T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Revolut alcanza el millón de clientes en México a menos de 8 meses de lanzar operaciones bancarias",
-    "summary": "Revolut superó el millón de clientes en México a menos de ocho meses de lanzar operaciones bancarias completas, con inversiones locales por 167 millones de dólares. El banco digital británico busca convertir al país en plataforma para su expansión en América, tras obtener también su licencia bancaria en Colombia.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/revolut-alcanza-millon-clientes-mexico-8-meses-lanzar-operaciones-bancarias-20260921-834471.html",
-    "source": "El Economista",
-    "published": "2026-09-21T06:45:05-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El BCE abre una conexión mediante \"blockchain\" con los mercados financieros",
-    "summary": "El Banco Central Europeo lanzó Pontes, un nuevo servicio que conecta su sistema de pagos con mercados basados en blockchain, permitiendo liquidar transacciones con euros respaldados por el BCE. Deutsche Bank, Santander y Clearstream ya completaron el proceso como primer grupo de usuarios del servicio.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-abre-conexion-mediante-blockchain-mercados-financieros-20260921-834469.html",
-    "source": "El Economista",
-    "published": "2026-09-21T06:33:50-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pedro Sánchez dice que el sector de la IA no puede autorregularse",
-    "summary": "El presidente español Pedro Sánchez afirmó que la industria de la IA no puede autorregularse, en medio de una carrera global de gobiernos por establecer marcos regulatorios ante riesgos de privacidad, discriminación y concentración de poder tecnológico. Sánchez presentó una hoja de ruta a 12 meses que incluye una gigafábrica de IA y nuevos modelos para clima, salud y energía.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/pedro-sanchez-dice-sector-ia-autorregularse-20260921-834467.html",
-    "source": "El Economista",
-    "published": "2026-09-21T06:23:33-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Traders Can Handle a Hawkish Fed But Not Cracks in AI Bull Case",
-    "summary": "Investors are growing more comfortable with a hawkish Fed now that its inflation-fighting resolve is clearer, but oil prices and cracks in the AI trade are keeping them from fully committing to risk assets. Bloomberg notes markets can absorb tighter policy more easily than doubts about the AI boom's durability.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-21/markets-can-handle-a-hawkish-fed-not-uncertainty-taking-stock",
-    "source": "Bloomberg",
-    "published": "2026-09-21T06:16:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "New Data Centers Worth $68 Billion Disrupted in US, Data Show",
-    "summary": "Bloomberg reports that $68 billion worth of new US data center projects have faced disruption as local opposition mounts. The trend highlights growing friction between AI infrastructure buildout and community pushback.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show",
-    "source": "Bloomberg",
-    "published": "2026-09-21T05:32:33+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan Sees Dealmaking On Track for Record Year",
-    "summary": "Dorothee Blessing, Global Investment Banking Co-Head at JPMorgan, said dealmaking activity has been strong this year and is on pace for a record. She made the comments in an interview from the sidelines of the JPMorgan India Conference.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-21/jpmorgan-sees-dealmaking-on-track-for-record-year-video",
-    "source": "Bloomberg",
-    "published": "2026-09-21T05:24:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investigan la filtración de viajeros de Aeroméxico",
-    "summary": "La SABG investiga la venta en Telegram de 15 millones de registros de pasajeros de Aeroméxico tras detectar una posible filtración de datos. El caso se suma a una serie reciente de incidentes de ciberseguridad que afectan a empresas mexicanas.",
-    "link": "https://www.reforma.com/investigan-la-filtracion-de-viajeros-de-aeromexico/ar3279351",
-    "source": "Reforma",
-    "published": "2026-09-21T05:01:16-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-    "summary": "US Treasury Secretary Scott Bessent said Washington and Beijing are working toward a 'shared vision' on AI following talks with his Chinese counterpart ahead of the Trump-Xi summit. The remarks suggest AI policy coordination is emerging as a theme of the upcoming meeting.",
-    "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-21T04:11:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lex in depth: the challenging maths of Anthropic’s IPO",
-    "summary": "The Financial Times' Lex column examines the difficult math behind valuing Anthropic ahead of a potential IPO. It notes there are several possible ways to approach the valuation, with some suggesting the AI company could be worth far more than current estimates suggest.",
-    "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-21T04:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
-    "summary": "The Federal Reserve and the Bank of England are intensifying scrutiny of banks' exposure to trading firms following a blow-up at Jane Street-linked, AI-focused hedge fund Situational Awareness. Regulators are stepping up questioning of prime brokers about the risk controls they apply to such clients.",
-    "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-21T04:00:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "T. Rowe Fund Targets Chinese Winners of Booming AI Supply Chain",
-    "summary": "A top-performing T. Rowe Price fund is increasing its bets on Greater China companies further down the AI supply chain, wagering the region's investment cycle still has room to catch up with global peers. The move reflects growing investor appetite for AI-adjacent plays outside the US mega-caps.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-21/t-rowe-fund-targets-chinese-winners-of-booming-ai-supply-chain",
-    "source": "Bloomberg",
-    "published": "2026-09-21T03:55:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’",
-    "summary": "Revolut's Russian-born founder and CEO Nik Storonsky spoke to the Financial Times about his ambition to build a global bank he describes as carrying 'effectively zero risk.' The interview covers his strategy for growing Revolut into Europe's most valuable start-up.",
-    "link": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-21T03:00:08+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
