@@ -1,5 +1,181 @@
 [
   {
+    "title": "Real Estate Stocks Are a Bold Bet on Monetary Policy Reversal",
+    "summary": "Pessimism around real estate stocks is severe as interest rates climb, creating conditions for a sharp reversal that could reward investors with good timing (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/real-estate-stocks-are-a-bold-bet-on-monetary-policy-reversal",
+    "source": "Bloomberg",
+    "published": "2026-09-30T06:17:12+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Targets $30 Billion Funding at $1.4 Trillion Value",
+    "summary": "OpenAI aims to raise at least $30 billion in a new round at a valuation of around $1.4 trillion, excluding the new money, after pushing back its IPO plans, according to people familiar with the matter (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-30/openai-targets-30b-funding-at-1-4t-value-video",
+    "source": "Bloomberg",
+    "published": "2026-09-30T05:55:34+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Construcción en México enfrenta falta de mano de obra y rezago tecnológico",
+    "summary": "La construcción en México enfrenta escasez y encarecimiento de mano de obra, además de un rezago tecnológico de una década, según El Financiero.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/29/construccion-en-mexico-enfrenta-falta-de-mano-de-obra-y-rezago-tecnologico/",
+    "source": "El Financiero",
+    "published": "2026-09-30T04:51:41+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The risks of HSBC’s return to its roots",
+    "summary": "The FT looks at the risks of HSBC's return to its roots and its doubling down on Hong Kong to capture wealth flowing out of China (summary from blurb).",
+    "link": "https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-09-30T04:00:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "PaleBlueDot AI Seeks $600 Million Private Credit to Buy Chips",
+    "summary": "US-based PaleBlueDot AI is in talks with lenders including Brookfield for $600 million of private credit to buy chips for a site in South Korea (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/palebluedot-ai-seeks-600-million-private-credit-to-buy-chips",
+    "source": "Bloomberg",
+    "published": "2026-09-30T03:52:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump pacta autorregulación de desarrolladores de IA",
+    "summary": "Donald Trump dijo que ejecutivos tecnológicos acordaron establecer normas para la IA y reiteró su apoyo a la rápida expansión de centros de datos, en medio de la creciente preocupación por la seguridad de la IA.",
+    "link": "https://www.eleconomista.com.mx/empresas/trump-pacta-autorregulacion-desarrolladores-ia-20260930-836030.html",
+    "source": "El Economista",
+    "published": "2026-09-30T00:22:36-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
+    "summary": "La reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
+    "source": "Expansión",
+    "published": "2026-09-30T00:02:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "España anuncia plan contra crisis de vivienda",
+    "summary": "El gobierno español presentó medidas contra la crisis de vivienda bajo presión de protestas por mayor protección a inquilinos, pero su aprobación depende de un Parlamento donde no tiene mayoría.",
+    "link": "https://www.eleconomista.com.mx/internacionales/espana-anuncia-plan-crisis-vivienda-20260929-836024.html",
+    "source": "El Economista",
+    "published": "2026-09-29T23:50:13-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México quiere emular a Brasil y masificar en un año los pagos digitales",
+    "summary": "México busca emular a Brasil y masificar los pagos digitales en un año, según Expansión. La nota se enmarca en el impulso a la infraestructura de pagos del país.",
+    "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
+    "source": "Expansión",
+    "published": "2026-09-29T23:07:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Deloitte UK Partner Pay Grows to $1.5 Million on AI Demand",
+    "summary": "Deloitte UK's equity partners earned an average of about £1.13 million last year, up 7%, as demand for AI advice drove profit (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+    "source": "Bloomberg",
+    "published": "2026-09-29T23:01:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Pagarás impuestos al SAT por pagos digitales? Esto es lo que debes saber de la iniciativa de Ley",
+    "summary": "Expansión explica si los pagos digitales generarán impuestos al SAT bajo la iniciativa de Ley de Economía Digital, y qué deben saber los usuarios.",
+    "link": "https://expansion.mx/finanzas-personales/2026/09/29/pagaras-impuestos-extra-tarjeta-debito",
+    "source": "Expansión",
+    "published": "2026-09-29T22:21:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu México nombra a Estephany Paulette Ley como CEO",
+    "summary": "Nu México nombra a Estephany Paulette Ley como su nueva CEO, según Expansión. El cambio de liderazgo ocurre en uno de los principales bancos digitales del país.",
+    "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
+    "source": "Expansión",
+    "published": "2026-09-29T22:15:09+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BMO US Commercial Bank Head on Yields, M&A Pipeline",
+    "summary": "BMO's US Commercial Bank head Tony Sciarrino says rising rates haven't yet caused a meaningful slowdown in client planning or borrowing, though growth in a higher-rate environment demands more discipline (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/bmo-us-commercial-bank-head-on-yields-m-a-pipeline-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T22:00:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Altman on OpenAI's IPO Plans, AI Agent Dots, AI Security",
+    "summary": "OpenAI CEO Sam Altman discusses the launch of Dots, its new premium AI personal agent, and says the company will go public eventually but is being patient. He also touches on AI security (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/altman-on-openai-s-ipo-plans-ai-agent-dots-ai-security-video",
+    "source": "Bloomberg",
+    "published": "2026-09-29T21:34:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso borra ganancias de 2026; tipo de cambio rompe barrera de 18 unidades por dólar",
+    "summary": "Expansión reporta que el peso borra sus ganancias de 2026 y el tipo de cambio rompe la barrera de 18 unidades por dólar.",
+    "link": "https://expansion.mx/mercados/2026/09/29/peso-mexicano-borra-ganancia-2026-cotiza-cerca-18-14-dolar",
+    "source": "Expansión",
+    "published": "2026-09-29T21:16:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "S&P 500 cae con los rendimientos de los bonos en máximos de 2002 y señales restrictivas de la Fed",
+    "summary": "Wall Street cerró volátil ante la preocupación por una inflación elevada que empujó los rendimientos del Tesoro; la tasa a 30 años superó 5,59%, según Bloomberg Línea (resumen del adelanto).",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-opera-con-cautela-con-la-caida-del-petroleo-y-el-mercado-atento-a-nuevos-datos-en-eeuu/",
+    "source": "Bloomberg Línea",
+    "published": "2026-09-29T20:04:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Are We Losing Control of AI? What’s Driving New Fears",
     "summary": "Bloomberg explains why fears of AI escaping human control have intensified in recent weeks, driven by technical advances and a series of cybersecurity breaches. Tech leaders and insiders' warnings are now hard to dismiss (summary from blurb).",
     "link": "https://www.bloomberg.com/news/articles/2026-09-29/are-we-losing-control-of-ai-what-s-driving-new-fears",
@@ -9,6 +185,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La IA que trabaja aunque no estés: así son los nuevos Dots de OpenAI",
+    "summary": "Expansión describe los nuevos Dots de OpenAI, agentes de IA que siguen trabajando aunque el usuario no esté presente.",
+    "link": "https://expansion.mx/tecnologia/2026/09/29/openai-dots-agentes-ia-gpt-6-astra",
+    "source": "Expansión",
+    "published": "2026-09-29T18:33:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Trump Hosts AI Leaders at White House",
@@ -64,6 +251,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Mercado Libre emite deuda en BIVA ante riesgos de fondeo señalados por Moody’s",
+    "summary": "Mercado Libre emite deuda en la BIVA ante los riesgos de fondeo señalados por Moody's, según Expansión.",
+    "link": "https://expansion.mx/mercados/2026/09/29/mercado-libre-deuda-biva-mercado-pago-riesgos-fondeo",
+    "source": "Expansión",
+    "published": "2026-09-29T18:07:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
@@ -143,6 +341,17 @@
     "light": true
   },
   {
+    "title": "Clearlake Wraps Up $1 Billion CFO Trade After Rejigging Deal",
+    "summary": "Clearlake Capital raised $1 billion in a deal backed by stakes in its private market funds after reworking the collateral mix following talks with investors (summary from blurb).",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/clearlake-raises-1-billion-from-cfo-trade-after-rejigging-deal",
+    "source": "Bloomberg",
+    "published": "2026-09-29T17:01:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Los datos que hay que conocer de Anthropic, fabricante de Claude, antes de su llegada a Wall Street",
     "summary": "Se espera que Anthropic, creadora de Claude, salga a bolsa en EE.UU. con una valoración superior a US$2 billones, en una de las mayores OPI tecnológicas. Nuevos detalles de su prospecto, reportados por Reuters, ofrecen una imagen más clara de la compañía.",
     "link": "https://www.bloomberglinea.com/tecnologia/los-datos-que-hay-que-conocer-de-anthropic-fabricante-de-claude-antes-de-su-llegada-a-wall-street/",
@@ -163,6 +372,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "“Queremos asegurarnos de que sea seguro”: OpenAI retrasa su modelo de IA por preocupaciones internas",
+    "summary": "OpenAI retrasa el lanzamiento de su nuevo modelo de IA por preocupaciones internas de seguridad. Según Expansión, la empresa dice querer asegurarse de que sea seguro antes de liberarlo.",
+    "link": "https://expansion.mx/tecnologia/2026/09/29/openai-retrasa-ia-por-preocupaciones-seguridad",
+    "source": "Expansión",
+    "published": "2026-09-29T16:11:17+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
   },
   {
     "title": "The AI boom meets a new kind of crypto scam",
@@ -315,6 +535,17 @@
     "published": "2026-09-29T10:10:45+00:00",
     "category": "Personal Interest Watchlist",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Flags ‘Catastrophic’ Risks in IPO Filing: Reuters",
+    "summary": "Anthropic warned in its IPO prospectus that its technology poses \"catastrophic or existential risks to humanity\" and outlined plans to spend hundreds of billions of dollars, per Reuters. The disclosure comes as the company prepares to go public.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters",
+    "source": "Bloomberg",
+    "published": "2026-09-29T08:11:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
     "language": "en",
     "light": true
   },
@@ -5265,237 +5496,6 @@
     "published": "2026-09-21T03:00:08+00:00",
     "category": "HIR / Creditaria Competitive Intel",
     "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Activos virtuales: una nueva agenda de cooperación entre México y Estados Unidos",
-    "summary": "El artículo de opinión plantea que los activos virtuales, en especial las stablecoins, están dejando de ser solo instrumentos especulativos para convertirse en herramientas de pago y liquidación transfronteriza más eficientes. Destaca la Ley GENIUS de EU de 2025 y la nueva Crypto Task Force de la SEC como referentes para construir una agenda de cooperación regulatoria entre México y Estados Unidos en materia de activos digitales.",
-    "link": "https://www.eleconomista.com.mx/opinion/activos-virtuales-nueva-agenda-cooperacion-mexico-estados-unidos-20260921-834442.html",
-    "source": "El Economista",
-    "published": "2026-09-21T00:01:59-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fidelity’s Durance Is Shunning Tech Bonds Feeding the AI Boom",
-    "summary": "Fidelity International portfolio manager James Durance says he is avoiding the wave of tech bonds financing the AI boom. His stance reflects growing investor caution about the credit risk building up around AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-21/fidelity-s-durance-is-shunning-tech-bonds-feeding-the-ai-boom",
-    "source": "Bloomberg",
-    "published": "2026-09-21T00:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ingenia Rejects Warburg Pincus’ Sweetened A$5.05 Share Offer",
-    "summary": "Australian developer Ingenia Communities Group rejected a sweetened takeover offer from private equity giant Warburg Pincus and its affiliates, saying the bid undervalues the company. The rejection marks the latest turn in Warburg Pincus's pursuit of the residential and holiday-park developer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/ingenia-rejects-new-1-5-billion-warburg-pincus-takeover-bid",
-    "source": "Bloomberg",
-    "published": "2026-09-20T22:52:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
-    "summary": "Citigroup CEO Jane Fraser said banks and companies are racing to patch and secure their AI systems as adoption accelerates, describing it as a coming ‘tsunami’ of security work. She made the comments at the Qatar Economic Forum’s UNGA Special Edition, framing AI defense as an urgent priority for the financial industry.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video",
-    "source": "Bloomberg",
-    "published": "2026-09-20T16:53:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-    "summary": "Microsoft's AI chief Mustafa Suleyman said competition with China on artificial intelligence should not be used as a reason to avoid regulating the technology. He argued that safety guardrails remain necessary even as the AI race with China intensifies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-    "source": "Bloomberg",
-    "published": "2026-09-20T16:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "General Atlantic CEO Sees Long-Term AI Opportunity",
-    "summary": "General Atlantic CEO Bill Ford said accelerating innovation has created one of the strongest growth-investing environments of his career, with opportunities spanning the US, Middle East, Asia and Latin America. He said AI should keep generating investment opportunities despite bouts of overvaluation and safety concerns, even as geopolitical risks reshape supply chains.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/general-atlantic-ceo-sees-long-term-ai-opportunity-video",
-    "source": "Bloomberg",
-    "published": "2026-09-20T16:14:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
-    "summary": "La Grieta Pavilion was built in Mexico as an academic and constructive exploration focused on sustainability and material awareness, designed with WEYES Estudio alongside architecture students from CEDIM. The project doubles as a completed structure and a pedagogical exercise linking design, construction and environmental engagement.",
-    "link": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
-    "source": "ArchDaily",
-    "published": "2026-09-20T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Canek Vázquez bajo escrutinio: Señalamientos de corrupción y litigios rodean al delegado del Infonavit en Hidalgo",
-    "summary": "El delegado regional del Infonavit en Hidalgo, Alejandro Canek Vázquez Góngora, enfrenta nuevo escrutinio por señalamientos de corrupción y presuntas irregularidades patrimoniales vinculadas a operaciones de vivienda en el estado. Una investigación periodística sugiere la posible existencia de un esquema de ‘cártel inmobiliario’ con participación de particulares y fedatarios públicos, lo que podría derivar en la intervención de autoridades fiscalizadoras y ministeriales.",
-    "link": "https://www.elfinanciero.com.mx/estados/2026/09/20/canek-vazquez-bajo-escrutinio-senalamientos-de-corrupcion-y-litigios-rodean-al-delegado-del-infonavit-en-hidalgo/",
-    "source": "El Financiero",
-    "published": "2026-09-20T15:57:38+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
-    "summary": "The Financial Times reports that Wall Street expects the US Treasury to issue about $1tn in short-term debt as borrowing costs climb. The growing reliance on Treasury bills comes as Treasury Secretary Scott Bessent tries to curb the rise in longer-term rates.",
-    "link": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-20T15:00:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "70 años de alzas de tasas de la Fed: ¿qué enseñan los ciclos pasados a la economía actual?",
-    "summary": "La Fed elevó su tasa 25 puntos base hacia 3.75%-4%, iniciando el cuarto ciclo alcista del siglo y el 15° en 70 años, según un análisis de Deutsche Bank citado por Bloomberg Línea. Históricamente estos ciclos han durado en promedio 22 meses y generado un endurecimiento medio de 478 puntos base, una referencia relevante para anticipar el rumbo de las tasas y su impacto en el crédito.",
-    "link": "https://www.bloomberglinea.com/mercados/70-anos-de-alzas-de-tasas-de-la-fed-que-ensenan-los-ciclos-pasados-a-la-economia-actual/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-20T14:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Howard Marks Flags Uncertainty in AI Investing",
-    "summary": "Oaktree co-chair Howard Marks said market optimism since late 2022 has made investors overlook bad news, urging more caution. He said enthusiasm around AI is undeniable but uncertainty over its profitability, valuations and job impact makes it impossible to know if that exuberance is irrational.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/howard-marks-flags-uncertainty-in-ai-investing-video",
-    "source": "Bloomberg",
-    "published": "2026-09-20T13:43:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Marsh CEO Says Geopolitics Tops CEO Risks",
-    "summary": "Marsh CEO John Doyle told Bloomberg that geopolitical tensions and their impact on trade and supply chains are the top concern for corporate leaders heading into next year, ahead of even cyber and AI-related risks. He noted that emerging technology is simultaneously amplifying the cyber threats companies must manage. The comments come as insurers and risk managers recalibrate enterprise risk frameworks for an increasingly fragmented geopolitical environment.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/marsh-ceo-says-geopolitics-tops-ceo-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-09-20T13:03:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI is a powerful but problematic new collaborator in mathematics",
-    "summary": "The Financial Times warns that AI is becoming a powerful but problematic collaborator in mathematics, as models increasingly pursue goals with poorly defined parameters. The piece flags early signs of unintended consequences from AI systems working on complex mathematical problems.",
-    "link": "https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203",
-    "source": "Financial Times",
-    "published": "2026-09-20T13:00:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Indaga SABG venta de datos de clientes de Aeroméxico",
-    "summary": "La Secretaría Anticorrupción detectó que en Telegram se ofrecen a la venta 15 millones de registros de pasajeros que volaron con Aeroméxico. El hallazgo abre una investigación sobre una posible filtración masiva de datos de clientes de la aerolínea.",
-    "link": "https://www.reforma.com/indaga-sabg-venta-de-datos-de-clientes-de-aeromexico/ar3279193",
-    "source": "Reforma",
-    "published": "2026-09-20T12:37:53-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "EM Investors Are Favoring Local Bonds as Dollar Debt Lags",
-    "summary": "Emerging-market investors are favoring local-currency sovereign bonds over dollar-denominated debt, as surging US Treasury yields dim the relative appeal of dollar bonds from developing nations. The shift illustrates how rising US rates are reshaping capital flows into EM fixed income.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/em-investors-are-favoring-local-bonds-as-dollar-debt-lags",
-    "source": "Bloomberg",
-    "published": "2026-09-20T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Canadá pide a Estados Unidos, China y Francia unir fuerzas para regular la inteligencia artificial",
-    "summary": "El primer ministro de Canadá, Mark Carney, llamó a Canadá, Estados Unidos, China y Francia a unir fuerzas para establecer una regulación adecuada de la inteligencia artificial. El llamado se dio durante un encuentro con el presidente francés Emmanuel Macron, en el que Carney destacó el papel de estas cuatro naciones a la vanguardia del desarrollo de la IA.",
-    "link": "https://www.eleconomista.com.mx/internacionales/canada-pide-estados-unidos-china-francia-unir-fuerzas-regular-inteligencia-artificial-20260920-834362.html",
-    "source": "El Economista",
-    "published": "2026-09-20T12:28:44-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Préstamos a tecnológicas duran cinco años y los servidores de IA se renuevan en 2.5",
-    "summary": "Un análisis del Banco de Pagos Internacionales sobre casi 14,000 operaciones de crédito directo encontró que los préstamos a empresas tecnológicas duran en promedio cinco años, mientras los servidores de IA se renuevan cada 2.5 años, generando un desfase de riesgo. El saldo de crédito directo a tecnológicas pasó de 22,000 millones a más de 1 billón de dólares entre 2010 y 2025, y ya representa 44% del crédito privado analizado.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/prestamos-tecnologicas-duran-cinco-anos-servidores-ia-renuevan-2-20260920-834360.html",
-    "source": "El Economista",
-    "published": "2026-09-20T12:00:12-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inside Jefferies' Months-Long Tussle With Glencore Over Radiant",
-    "summary": "Bloomberg details a months-long, increasingly tense dispute between Jefferies Financial Group and commodities giant Glencore over the Radiant deal, with Jefferies executives growing frustrated with their counterparty. The standoff illustrates the friction that can arise in complex financial-sponsor and M&A dealmaking. It's a notable case study in dealmaking conflict among major financial institutions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/inside-jefferies-months-long-tussle-with-glencore-over-radiant",
-    "source": "Bloomberg",
-    "published": "2026-09-20T11:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El mercado de capitales como parte de una estrategia nacional de crecimiento",
-    "summary": "Un artículo de opinión en El Economista plantea que México necesita profundizar su mercado de capitales para financiar el crecimiento de las próximas décadas, más allá del crédito bancario y los recursos públicos. El autor llama a construir una visión de largo plazo entre autoridades y participantes del mercado para que el mercado de valores sea un motor estable de inversión y financiamiento empresarial.",
-    "link": "https://www.eleconomista.com.mx/opinion/mercado-capitales-parte-estrategia-nacional-crecimiento-20260920-834357.html",
-    "source": "El Economista",
-    "published": "2026-09-20T11:05:00-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Si la IA resuelve por sí sola problemas complejos, ¿para qué servirán los matemáticos?",
-    "summary": "OpenAI resolvió mediante un modelo de IA la ecuación de Navier-Stokes, un problema matemático formulado en 1845, lo que generó una ‘crisis existencial’ entre matemáticos como Terence Tao. El artículo explora qué papel quedará para los matemáticos humanos si la IA sigue resolviendo por sí sola problemas complejos de investigación.",
-    "link": "https://www.eleconomista.com.mx/arteseideas/ia-resuelve-sola-problemas-complejos-serviran-matematicos-20260920-834342.html",
-    "source": "El Economista",
-    "published": "2026-09-20T11:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cracks in Europe's Junk Property Debt Revive Fears of 2023 Pain",
-    "summary": "Bloomberg reports that Europe's riskier real estate debt is showing renewed strain from higher-for-longer interest rates, with a slump in junk-rated property bonds and the rare cancellation of a planned new issue. The pattern is reviving fears of a repeat of the 2023 property-debt crunch. It's a signal worth watching for mortgage and real-estate credit markets more broadly.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/cracks-in-europe-s-junk-property-debt-revive-fears-of-2023-pain",
-    "source": "Bloomberg",
-    "published": "2026-09-20T11:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 71,
     "language": "en",
     "light": true
   }
