@@ -1,5 +1,137 @@
 [
   {
+    "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+    "summary": "FBI and US Coast Guard investigators found that hackers accessed the propulsion system of an oil supertanker approaching the Texas coast this summer. The breach highlights growing physical risks from cyberattacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker",
+    "source": "Bloomberg",
+    "published": "2026-10-02T19:01:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Traders Waver on Bets For Another Rate Hike This Year",
+    "summary": "Bond traders remain heavily positioned for more Fed rate hikes, and even the slowdown in job growth is unlikely to change that outlook much. Analysts discuss what the data means for rates this year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/traders-waver-on-bets-for-another-rate-hike-this-year-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T18:45:50+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "September Jobs Miss Shocks Markets",
+    "summary": "A big September jobs miss rattled markets as credit investors turned cautious. Blackstone joined Broadcom's massive AI financing push while Anthropic eyes an IPO.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/open-interest-10-2-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T17:58:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
+    "summary": "Lockheed Martin takes a model-agnostic approach to AI, using 55 different LLMs across its business, including OpenAI's. Its technology chief explains how the company tests AI before deploying it.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T17:37:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "James Manyika on AI Regulation",
+    "summary": "Google SVP James Manyika says AI safety should not be left to any one company and calls for a collective effort on regulation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/james-manyika-on-ai-regulation-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T17:32:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Paramount’s $52 Billion Debt Saga Ends With Hair-Raising Finale",
+    "summary": "The months-long hunt for $52 billion of debt to fund Paramount Skydance's takeover of Warner Bros. Discovery ended in a messy finale, with records smashed and instant losses. The financing is among the largest of its kind.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/paramount-s-52-billion-debt-saga-ends-with-hair-raising-finale",
+    "source": "Bloomberg",
+    "published": "2026-10-02T17:18:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+    "summary": "The US economy added just 29,000 jobs in September as hiring slowed sharply. The weak figure renews the market debate over further Fed rate rises.",
+    "link": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-02T16:59:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hedge Funds Exiting Crowded Trades Fueled Rout in French Bonds",
+    "summary": "Hedge funds on the wrong side of this week's slump in French bonds were forced to unwind crowded bets rapidly. The unwinds fueled wild moves that European markets struggled to absorb.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-exiting-crowded-trades-fueled-rout-in-french-bonds",
+    "source": "Bloomberg",
+    "published": "2026-10-02T16:40:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘El resplandor’ del peso: Gana al dólar tras ‘débil’ dato de empleo en EU",
+    "summary": "El peso mexicano frena una racha de cuatro sesiones a la baja frente al dólar tras el débil dato de empleo en EU, de solo 29 mil puestos. El mercado reevalúa el rumbo de las tasas de la Fed.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-02T16:13:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why does Anthropic’s IPO feel so weird?",
+    "summary": "The build-up to Anthropic's expected IPO has felt unusually discordant compared with other blockbuster listings, according to the FT. The piece examines why the AI lab's path to market feels strange to investors.",
+    "link": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-02T15:21:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
+    "summary": "US equity exchanges will move toward around-the-clock trading starting in December. The change ends decades of nightly market closures.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon",
+    "source": "Bloomberg",
+    "published": "2026-10-02T14:08:29+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Onsemi Revises the Terms of Synaptics Deal",
+    "summary": "Onsemi revised the terms of its Synaptics acquisition, now paying about $5.7 billion in cash instead of roughly $7 billion in shares.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/onsemi-revises-the-terms-of-synaptics-deal-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T13:59:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US Adds 29,000 Jobs in September, Jobless Rate Rises",
     "summary": "The US added just 29,000 jobs in September while the jobless rate rose, a sharp slowdown in hiring that complicates the Fed's rate path.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-02/us-adds-29-000-jobs-in-september-jobless-rate-rises-video",
@@ -9,6 +141,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Remesas a México superaron los 5,000 millones de dólares en agosto, por cuarto mes consecutivo",
+    "summary": "Las remesas a México superaron los 5,000 millones de dólares en agosto, el cuarto mes consecutivo por encima de ese nivel. Son un flujo clave para el consumo y el crédito de los hogares.",
+    "link": "https://www.eleconomista.com.mx/videos/remesas-mexico-superaron-5-000-millones-dolares-agosto-cuarto-mes-consecutivo-20261002-836549.html",
+    "source": "El Economista",
+    "published": "2026-10-02T12:48:28-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "US Bond Traders Pull Back on Fed Hike Bets After Weak Jobs Data",
@@ -55,6 +198,17 @@
     "light": true
   },
   {
+    "title": "Chalet des Huarts / Atelier MAa architecture +",
+    "summary": "A modest 105 m² seasonal retreat overlooking Lake Memphremagog is adapted rather than demolished or expanded. The chalet explores how an inherited structure can endure.",
+    "link": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
+    "source": "ArchDaily",
+    "published": "2026-10-02T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "My mortgage is a problem for the Fed, and for America",
     "summary": "An FT columnist argues that homeowners staying put with low-rate mortgages have frozen the housing market, leaving affordability as poor as during the housing bubble. The lock-in is framed as a problem for the Fed and the US economy.",
     "link": "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1",
@@ -64,6 +218,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Viviendo más, pero cotizando menos. Los retos de las pensiones en México",
+    "summary": "Los sistemas de pensiones de América Latina no fueron diseñados para la longevidad actual, y en México se vive más pero se cotiza menos. El artículo revisa los retos de incentivos para el retiro.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/viviendo-cotizando-retos-pensiones-mexico-20261002-836387.html",
+    "source": "El Economista",
+    "published": "2026-10-02T10:45:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AT1 Niche Turns Into Acute Painpoint of Global Bond Selloff",
@@ -5333,170 +5498,5 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "SoftBank emite bonos por 10,000 millones de dólares para invertir en OpenAI",
-    "summary": "SoftBank Group está colocando bonos en dólares por 10,000 millones de dólares para financiar sus inversiones en OpenAI, repartidos en tramos a 3.5, 5.5 y 7.5 años. La emisión refleja el creciente apetito de deuda corporativa ligada al boom de infraestructura de IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/softbank-emite-bonos-10-000-millones-dolares-invertir-openai-20260923-834878.html",
-    "source": "El Economista",
-    "published": "2026-09-23T06:32:57-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BIG’s Macondo Park Opens as a Temporary Cultural Landscape for Shakira’s Madrid Residency",
-    "summary": "Bjarke Ingels Group has opened Macondo Park, a temporary 185,000-square-meter cultural landscape surrounding the Madrid venue for Shakira's concert residency. Inspired by Gabriel García Márquez's fictional town of Macondo, the park will host public programming through the run of the singer's 12-show residency before being dismantled.",
-    "link": "https://www.archdaily.com/1185625/bigs-macondo-park-opens-as-a-temporary-cultural-landscape-for-shakiras-madrid-residency",
-    "source": "ArchDaily",
-    "published": "2026-09-23T06:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "OCDE ajusta pronóstico de PIB a 1.5% para México en el 2026",
-    "summary": "La OCDE elevó su pronóstico de crecimiento del PIB de México para 2026 a 1.5%, desde el 0.8% estimado en junio, por arriba de las expectativas del sector privado (1.4%) y en línea con las de Banxico y Hacienda. Para 2027 mantuvo su previsión sin cambios, en 1.8%.",
-    "link": "https://www.eleconomista.com.mx/economia/ocde-ajusta-pronostico-pib-1-5-mexico-20260923-834846.html",
-    "source": "El Economista",
-    "published": "2026-09-23T06:15:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Airtel Money Plans London IPO as Listings Push Bears Fruit",
-    "summary": "Airtel Mobile Commerce presentó su solicitud para lo que podría ser la mayor OPI en Londres en cinco años, una señal de que las reformas a los mercados de capitales de la ciudad están dando resultado.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/mobile-payments-firm-airtel-money-announces-plans-for-london-ipo",
-    "source": "Bloomberg",
-    "published": "2026-09-23T06:09:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fitch alerta sobre impacto del cambio tecnológico en el PIB de México",
-    "summary": "Fitch mejoró su pronóstico de crecimiento para México a 1.4% en 2026 y 1.8% en 2027, impulsado por el auge global del gasto en tecnologías de la información e inteligencia artificial. Sin embargo, la calificadora advirtió que una corrección abrupta en la 'burbuja' de la IA podría deteriorar las perspectivas económicas de México, Estados Unidos y Canadá.",
-    "link": "https://www.eleconomista.com.mx/economia/fitch-alerta-sobre-impacto-cambio-tecnologico-pib-20260922-834845.html",
-    "source": "El Economista",
-    "published": "2026-09-23T05:15:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Chinese AI Firms Fall on Report of DeepSeek, Moonshot Probe",
-    "summary": "Shares of Chinese AI model developers fell after reports that regulators opened a probe into startups DeepSeek and Moonshot AI over data security concerns. The investigation adds to growing scrutiny of AI governance and data practices among China's leading model developers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-ai-firms-fall-on-report-of-deepseek-moonshot-probe",
-    "source": "Bloomberg",
-    "published": "2026-09-23T05:00:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global banks threaten to shift investment away from UK if taxes rise",
-    "summary": "Grandes bancos globales advierten que podrían trasladar inversión fuera del Reino Unido si el canciller John Healey sube los impuestos en el próximo presupuesto para compensar el mayor costo de endeudamiento derivado de la guerra con Irán.",
-    "link": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-23T04:00:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push",
-    "summary": "Un operador de centros de datos del Reino Unido que prepara una OPI de 35,000 millones de dólares no mencionó de forma destacada a ByteDance, su mayor cliente el año pasado, en la presentación a inversionistas bursátiles.",
-    "link": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-23T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How private equity ended up in limbo",
-    "summary": "The Financial Times examines how private equity's growth model, built on a longstanding bargain with investors around returns and liquidity, is now breaking down. The piece signals a structural shift facing PE and real estate finance investors going forward.",
-    "link": "https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-23T04:00:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Above the Snowline: 11 Shelters Built at the Limits of Construction",
-    "summary": "ArchDaily recorre 11 refugios construidos en alta montaña, de los Andes al Himalaya y los Alpes, donde la arquitectura se reduce a sus negociaciones más elementales con el viento, el terreno y la logística de construir en altitud extrema.",
-    "link": "https://www.archdaily.com/1184648/above-the-snowline-11-shelters-built-at-the-limits-of-construction",
-    "source": "ArchDaily",
-    "published": "2026-09-23T04:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SoftBank Pays Steep Price to Become Goliath of Junk-Bond Markets",
-    "summary": "SoftBank pushed through one of the largest junk-bond offerings on record, offering yields higher than anything it has paid before to fund its massive AI ambitions. The jumbo high-yield sale underscores how much capital Masayoshi Son's group is committing to its AI push.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push",
-    "source": "Bloomberg",
-    "published": "2026-09-23T02:42:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hong Kong Seeks Up to $2.6 Billion in Record Digital Bond Sale",
-    "summary": "Hong Kong is seeking to raise between HK$15 billion and HK$20 billion (roughly $1.9-2.6 billion) through a multi-currency digital green bond offering that would be the world's largest of its kind, as the city pushes to become a fixed-income hub.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale",
-    "source": "Bloomberg",
-    "published": "2026-09-23T02:01:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Plan México necesita algo más que inversión para funcionar, advierte Mariana Mazzucato",
-    "summary": "La economista Mariana Mazzucato advierte que el Plan México necesita algo más que inversión para funcionar y alcanzar sus objetivos.",
-    "link": "https://expansion.mx/economia/2026/09/22/plan-mexico-claves-exito-mariana-mazzucato",
-    "source": "Expansión",
-    "published": "2026-09-23T02:01:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Población de México crece a menor ritmo en dos décadas y baja la fecundidad",
-    "summary": "La Encuesta Intercensal 2025 del Inegi muestra que la población de México alcanzó 130.9 millones de personas, con un crecimiento anual promedio de apenas 0.7%, el ritmo más lento en dos décadas debido a la caída en la fecundidad. La desaceleración demográfica tiene implicaciones de largo plazo para la demanda de vivienda y los mercados de crédito hipotecario en el país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/poblacion-de-mexico-crece-a-menor-ritmo-y-baja-la-fecundidad/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T00:51:28+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "NU dice adiós al retiro de efectivo gratis: ya cobrará comisión a partir de esta fecha",
-    "summary": "Nu, el banco digital, anunció el fin de los retiros de efectivo gratuitos para sus usuarios en México y comenzará a cobrar una comisión a partir de la fecha indicada en el anuncio. El cambio afecta a la propuesta de valor de una de las fintechs de mayor crecimiento en el país.",
-    "link": "https://expansion.mx/economia/2026/09/22/nu-dice-adios-retiro-efectivo-gratis-cobrara-comision-fecha",
-    "source": "Expansión",
-    "published": "2026-09-22T22:52:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
   }
 ]
