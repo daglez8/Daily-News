@@ -1,5 +1,148 @@
 [
   {
+    "title": "US Adds 29,000 Jobs in September, Jobless Rate Rises",
+    "summary": "The US added just 29,000 jobs in September while the jobless rate rose, a sharp slowdown in hiring that complicates the Fed's rate path.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/us-adds-29-000-jobs-in-september-jobless-rate-rises-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T12:49:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Bond Traders Pull Back on Fed Hike Bets After Weak Jobs Data",
+    "summary": "Bond traders pared bets on a Federal Reserve rate hike this month after weak US labor-market data. Yields and the dollar eased following the jobs report.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/bond-traders-pull-back-on-fed-hike-bets-after-soft-jobs-data",
+    "source": "Bloomberg",
+    "published": "2026-10-02T12:38:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests",
+    "summary": "Blue Owl again capped redemptions at 5% on two private credit funds after withdrawal requests of 39% and 17%. Fears around AI kept requests at its flagship technology fund well above industry peers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/blue-owl-again-caps-two-bdcs-after-39-17-withdrawal-requests",
+    "source": "Bloomberg",
+    "published": "2026-10-02T12:38:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México logra inversión récord, ¿por qué no crece más?",
+    "summary": "Expansión analiza por qué México logra inversión récord pero no consigue crecer más.",
+    "link": "https://expansion.mx/opinion/2026/10/02/mexico-logra-inversion-record-por-que-no-crece-mas",
+    "source": "Expansión",
+    "published": "2026-10-02T12:06:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stocks Climb Ahead of Payrolls Report, Anthropic Eyes November IPO",
+    "summary": "Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of November 9. The report came alongside US equity futures rising ahead of the payrolls release.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-brief-10-02-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T12:05:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "My mortgage is a problem for the Fed, and for America",
+    "summary": "An FT columnist argues that homeowners staying put with low-rate mortgages have frozen the housing market, leaving affordability as poor as during the housing bubble. The lock-in is framed as a problem for the Fed and the US economy.",
+    "link": "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-02T11:09:56+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AT1 Niche Turns Into Acute Painpoint of Global Bond Selloff",
+    "summary": "A corner of the Additional Tier 1 bond market is under acute stress in the global selloff, as rising rates squeeze banks with large property-lending businesses. Their riskiest debt is being hit hardest.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/at1-niche-turns-into-acute-painpoint-of-global-bond-selloff",
+    "source": "Bloomberg",
+    "published": "2026-10-02T10:36:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Talent Race Between US and China Is the Next Battleground",
+    "summary": "China and India supply most international grad students in the US, and increasingly they are returning home, making the AI talent race a key battleground.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
+    "source": "Bloomberg",
+    "published": "2026-10-02T10:28:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuando la IA nos gane el juicio (II)",
+    "summary": "Una columna sobre cómo la IA gana terreno frente a los abogados y si podría reemplazar total o parcialmente a los juzgadores, así como lo que ocurriría si los tribunales se resisten.",
+    "link": "https://www.elfinanciero.com.mx/opinion/oliver-galindo/2026/10/02/cuando-la-ia-nos-gane-el-juicio-ii/",
+    "source": "El Financiero",
+    "published": "2026-10-02T10:09:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NYC’s AI Office Boom Is Bust for Young Job Hunters, Report Finds",
+    "summary": "A Partnership for New York City report finds that NYC's AI office boom, with big investment and rising office leasing, is doing little for young workers starting their careers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nyc-s-ai-office-boom-is-bust-for-young-job-hunters-report-finds",
+    "source": "Bloomberg",
+    "published": "2026-10-02T10:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Analistas elevan previsión del PIB en México y ven mejor clima para los negocios",
+    "summary": "Analistas elevaron su previsión de crecimiento del PIB de México para este año y mostraron mayor optimismo sobre el clima de negocios y las decisiones de inversión.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/02/analistas-elevan-prevision-del-pib-en-mexico-y-ven-mejor-clima-para-los-negocios/",
+    "source": "El Financiero",
+    "published": "2026-10-02T09:50:12+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gobierno de Milei retoma plan de $2 billones para impulsar crédito hipotecario con fondos del FGS",
+    "summary": "El gobierno de Milei retoma el plan de ARS$2 billones, diseñado por Luis Caputo, para impulsar el crédito hipotecario en Argentina con fondos del FGS de la ANSeS.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-retoma-plan-de-2-billones-para-impulsar-credito-hipotecario-con-fondos-del-fgs/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-02T08:30:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación en la zona euro se dispara a 3.8% en septiembre y mantiene presión sobre las tasas del BCE",
+    "summary": "La inflación de la eurozona subió a 3.8% en septiembre, más de lo previsto, por el aumento de costos energéticos. Aumenta la presión sobre el BCE para subir tasas.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-zona-euro-dispara-3-8-septiembre-mantiene-presion-sobre-tasas-bce-20261002-836505.html",
+    "source": "El Economista",
+    "published": "2026-10-02T06:40:01-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "PIMCO's Stracke on Credit Risks, Yield Shock Ahead",
     "summary": "PIMCO President Christian Stracke discusses the forces behind the global bond selloff, the yield levels that could threaten equities, and whether investors underestimate the policy tightening still ahead.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-02/pimco-s-stracke-on-credit-risks-yield-shock-ahead-video",
@@ -29,6 +172,17 @@
     "published": "2026-10-02T05:09:09+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amazon to Move $8 Billion of Chips Off Its Books, FT Says",
+    "summary": "Amazon is reportedly exploring a deal to shift about $8 billion of top-end Nvidia chips off its balance sheet to investors, per the FT.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-10-02T04:23:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -84,6 +238,17 @@
     "published": "2026-10-02T00:20:31-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reforma Judicial frena inversiones de 28.8% de empresas, según Coparmex",
+    "summary": "Coparmex reporta que la Reforma Judicial frena inversiones de 28.8% de las empresas.",
+    "link": "https://expansion.mx/economia/2026/10/01/reforma-judicial-frena-inversiones-empresas-coparmex",
+    "source": "Expansión",
+    "published": "2026-10-02T00:11:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
     "language": "es",
     "light": false
   },
@@ -425,6 +590,17 @@
     "published": "2026-10-01T11:20:59+00:00",
     "category": "AI & Agents",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "GCash Owner Prices Record Philippine IPO of Nearly $1 Billion",
+    "summary": "Fintech GCash owner Mynt priced its shares below the maximum for the Philippines' biggest IPO, nearly $1 billion and the country's first listing this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-01/gcash-owner-prices-record-philippine-ipo-of-nearly-1-billion",
+    "source": "Bloomberg",
+    "published": "2026-10-01T11:10:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -5321,182 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 72,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "¿Quieres ganar 1,000 pesos en Cetes? Esto tendrías que invertir para conseguirlos con el rendimiento actual",
-    "summary": "Expansión detalla cuánto habría que invertir en Cetes para obtener 1,000 pesos de rendimiento al tipo de interés actual, una referencia para inversionistas minoristas en México.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/22/ganar-1-000-pesos-cetes-esto-tendrias-que-invertir",
-    "source": "Expansión",
-    "published": "2026-09-22T21:40:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México se adelanta a la era cuántica y crea consejo para blindar su seguridad digital",
-    "summary": "México creó un consejo para blindar su seguridad digital ante los riesgos que plantea la computación cuántica, anticipándose a la nueva era tecnológica.",
-    "link": "https://expansion.mx/tecnologia/2026/09/22/mexico-consejo-riesgos-computo-cuantico-seguridad-digital",
-    "source": "Expansión",
-    "published": "2026-09-22T20:31:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "You can't trade your way through the AI apocalypse",
-    "summary": "The Economist explores why financial markets struggle to price the tail risk of a misaligned superintelligence, arguing conventional hedging strategies fall short against catastrophic AI outcomes. The piece is part of a broader look at how AI risk intersects with market pricing and model risk management.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
-    "source": "The Economist",
-    "published": "2026-09-22T19:51:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut",
-    "summary": "A pair of companies postponed their IPOs, unsettling US markets as investors await Anthropic's highly anticipated public debut. The jitters underscore how much weight markets are placing on Anthropic's listing as a bellwether for AI-sector valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut",
-    "source": "Bloomberg",
-    "published": "2026-09-22T18:53:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fitch mejora a 1.4% el crecimiento de México para 2026 por el impulso de EU y la IA",
-    "summary": "Fitch elevó su estimación de crecimiento para México en 2026 a 1.4%, citando el impulso de la demanda de Estados Unidos y de la inteligencia artificial. La revisión al alza sugiere una mejora incipiente en las perspectivas económicas del país.",
-    "link": "https://expansion.mx/economia/2026/09/22/fitch-mejora-crecimiento-mexico-2026-ia-eu-exportaciones",
-    "source": "Expansión",
-    "published": "2026-09-22T18:51:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pantera Holdings inicia OPA por Traxión; la operación abre la puerta a posible desliste en la BMV",
-    "summary": "Pantera Holdings lanzó una oferta pública de adquisición (OPA) por Traxión, una operación que podría llevar a la empresa de logística a un posible desliste de la Bolsa Mexicana de Valores. El movimiento es un ejemplo relevante de consolidación y actividad de M&A en el mercado bursátil mexicano.",
-    "link": "https://expansion.mx/mercados/2026/09/22/traxion-opa-acciones-desliste-bmv",
-    "source": "Expansión",
-    "published": "2026-09-22T18:39:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SpaceXAI’s Grok Bot Gains Early Traction",
-    "summary": "SpaceXAI's always-on 'Grok Bot' agent has topped 400,000 weekly users about a month after launch, an early signal of demand as SpaceXAI pushes into the AI-agent market against OpenAI and Anthropic. The product is distinct from the flagship Grok chatbot and is built to function more like a persistent digital employee.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/spacexai-s-grok-bot-gains-early-traction-video",
-    "source": "Bloomberg",
-    "published": "2026-09-22T18:25:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta’s Muse Drags Down ‘Consumer Inertia’ Stocks",
-    "summary": "Shares of banks, insurers and online travel agencies slid as investors worried that AI agents like Meta's Muse could erode the 'consumer inertia' that has long protected these businesses from switching. The move illustrates how AI-agent products are starting to reshape investor views of incumbent financial and travel-services stocks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia",
-    "source": "Bloomberg",
-    "published": "2026-09-22T18:14:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The Global AI Race: Chips, Talent, and World Models",
-    "summary": "Bloomberg recorre la carrera global de la IA en tres frentes: el nuevo chip de IA de Alibaba para competir con Nvidia en medio de una expansión masiva de centros de datos, el impulso de Silicon Valley por universidades alternativas para la era de la IA, y la visión de la pionera Fei-Fei Li sobre seguridad y la disputa por construir 'modelos del mundo'.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-tech-9-22-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-09-22T18:13:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Teresa Ribera Says AI Needs Safety Standards",
-    "summary": "European Commission Executive Vice President Teresa Ribera said AI needs safety standards that are respected globally, speaking amid UN General Assembly discussions. Her comments add a senior EU policymaker's voice to the intensifying debate over binding AI governance rules.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/teresa-ribera-says-ai-needs-safety-standards-video",
-    "source": "Bloomberg",
-    "published": "2026-09-22T18:03:39+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA complica a quienes quieren diversificar sus inversiones",
-    "summary": "Fondos de pensiones y fondos soberanos con miles de millones de dólares están descubriendo que la diversificación de sus carteras, en la que confiaron durante años, puede ser en gran medida una ilusión en la era de la IA. El artículo apunta a los retos que enfrentan los grandes inversionistas institucionales para gestionar el riesgo de concentración ligado a la narrativa de la inteligencia artificial.",
-    "link": "https://www.bloomberg.com/news/features/2026-09-22/la-ia-complica-a-quienes-quieren-diversificar-sus-inversiones",
-    "source": "Bloomberg",
-    "published": "2026-09-22T17:57:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Data centres are straining the insurance market",
-    "summary": "The Economist reports that AI data centers are straining the insurance market, as insurers weigh juicy premiums against financial stakes that are hard to underwrite. The piece flags a growing risk-management challenge tied to the scale of the AI infrastructure build-out.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market",
-    "source": "The Economist",
-    "published": "2026-09-22T17:36:59+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private Credit's Default Disconnect",
-    "summary": "Bloomberg examines how private-credit default rates vary widely depending on the methodology used to measure them, making it hard to gauge the true level of distress in the asset class. The piece highlights growing scrutiny of transparency in private credit as the market has ballooned.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/private-credit-s-default-disconnect-video",
-    "source": "Bloomberg",
-    "published": "2026-09-22T17:14:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
-    "summary": "BBVA reducirá en media hora el horario de atención en sus sucursales en México a partir del 5 de octubre. El ajuste refleja la tendencia de la banca mexicana hacia una menor dependencia de la atención presencial conforme avanza la digitalización de servicios.",
-    "link": "https://expansion.mx/economia/2026/09/22/bbva-cambia-horario-sucursales",
-    "source": "Expansión",
-    "published": "2026-09-22T17:10:46+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Legora in Talks to Raise Funds at a Roughly $8.5 Billion Value",
-    "summary": "Legal-AI startup Legora is in talks for a new funding round that could value it at roughly $8.5 billion, according to people familiar with the matter. The talks underscore continued investor appetite for AI-native professional-services platforms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/legora-in-talks-to-raise-funds-at-a-roughly-8-5-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-09-22T17:07:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI to Let Outside Groups Evaluate AI Models at Earlier Phase",
-    "summary": "OpenAI said it will let independent third-party groups vet its AI models for safety risks earlier in the development cycle, expanding its external-evaluation program. The move is part of a broader industry response to mounting concern over AI's potential harms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase",
-    "source": "Bloomberg",
-    "published": "2026-09-22T17:05:52+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
     "light": true
   }
 ]
