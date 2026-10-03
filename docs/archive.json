@@ -1,5 +1,27 @@
 [
   {
+    "title": "Can AI Outrun America’s Deficit Problem?",
+    "summary": "NEC Director Kevin Hassett argues AI's economic benefits may be larger than current data show, comparing today to the early internet era. He remains optimistic on growth despite a growing debt burden.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
+    "source": "Bloomberg",
+    "published": "2026-10-03T12:03:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
+    "summary": "RBI Governor Sanjay Malhotra warned that the next financial crisis could originate outside finance, such as from war or a cyber attack.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-03/war-cyber-attack-could-trigger-next-financial-crisis-rbi-says",
+    "source": "Bloomberg",
+    "published": "2026-10-03T08:11:56+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Qué países de Latinoamérica están mejor posicionados en la carrera de la IA, según Oxford",
     "summary": "Oxford Economics estima que la IA generativa sumaría entre 0.1 y 0.3 puntos porcentuales al crecimiento de América Latina, pero sin cambiar las dinámicas de largo plazo de la región. El análisis evalúa qué países están mejor posicionados en la carrera de la IA.",
     "link": "https://www.bloomberglinea.com/latinoamerica/que-paises-de-latinoamerica-estan-mejor-posicionados-en-la-carrera-de-la-ia-segun-oxford/",
@@ -9,6 +31,17 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Reducen la proyección de crecimiento potencial",
+    "summary": "Tras años de muy baja expansión del PIB, analistas comienzan a reducir sus estimaciones del crecimiento potencial de México.",
+    "link": "https://www.reforma.com/reducen-la-proyeccion-de-crecimiento-potencial/ar3287558",
+    "source": "Reforma",
+    "published": "2026-10-03T05:01:04-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
   },
   {
     "title": "The right and wrong lessons to learn from Spain’s housing crisis",
@@ -132,6 +165,17 @@
     "light": true
   },
   {
+    "title": "S&P 500 sube y Nasdaq 100 marca récord tras débil dato de empleo que reduce apuestas sobre la Fed",
+    "summary": "Wall Street cerró al alza y el Nasdaq 100 marcó récord después de que un fuerte enfriamiento del empleo redujera las apuestas a nuevas alzas de tasas de la Fed. La caída de los combustibles también dio alivio.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-debil-dato-de-empleo-que-impulsa-los-bonos-y-alivia-las-apuestas-sobre-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-02T20:08:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Las claves económicas de la semana (28 de septiembre al 2 de octubre): De remesas y balanza comercial",
     "summary": "Resumen de las claves económicas de la semana en México, con el reporte de Banxico sobre remesas de agosto y cifras preliminares de Inegi sobre la balanza comercial.",
     "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-28-septiembre-2-octubre-remesas-balanza-comercial-20261002-836667.html",
@@ -174,6 +218,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CNA da hasta 1 año a OXIO para consumar la compra de Movistar y también será dueño de GTAC",
+    "summary": "La Comisión Nacional Antimonopolio autorizó la compra de Movistar por 450 millones de dólares por parte de OXIO y concedió seis meses a Telefónica y OXIO para cerrar la operación, prorrogables una vez. OXIO también será dueño de GTAC.",
+    "link": "https://www.eleconomista.com.mx/empresas/cna-da-1-ano-oxio-consumar-compra-movistar-sera-dueno-gtac-20261002-836643.html",
+    "source": "El Economista",
+    "published": "2026-10-02T18:56:31-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Traders Waver on Bets For Another Rate Hike This Year",
@@ -5443,60 +5498,5 @@
     "relevance_score": 93,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Anthropic Unveils Cheaper Claude Opus 5.5 Ahead of Expected IPO",
-    "summary": "Anthropic released a new, faster and cheaper AI model, Claude Opus 5.5, similar to its Fable 5.1 release. The company is expected to hold its IPO as soon as this fall, according to Bloomberg's Rachel Metz.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/anthropic-unveils-cheaper-claude-opus-5-5-ahead-of-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-09-23T16:19:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 96,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apollo's Rowan Blasts Regulators for Handling of Walter Insurers",
-    "summary": "Apollo Global Management CEO Marc Rowan criticized Delaware insurance regulators over their handling of Mark Walter's insurance companies, which are now the subject of a federal probe. The remarks escalate tensions around regulatory oversight of PE-backed insurers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/-what-are-you-doing-rowan-blasts-regulators-on-walter-saga",
-    "source": "Bloomberg",
-    "published": "2026-09-23T16:03:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA compite cada vez más con los gobiernos por el capital: BlackRock ve US$7,5 billones en juego",
-    "summary": "BlackRock Investment Institute advierte que la demanda de financiamiento de la inteligencia artificial empieza a competir con los gobiernos por el capital disponible, en un contexto de costos de financiamiento elevados. La firma estima que la demanda anual de financiamiento en EE.UU. podría superar los US$7.5 billones para 2030, impulsada principalmente por la infraestructura de IA, la competencia por capital más intensa desde la crisis financiera de 2008.",
-    "link": "https://www.bloomberglinea.com/mercados/la-ia-compite-cada-vez-mas-con-los-gobiernos-por-el-capital-blackrock-ve-us75-billones-en-juego/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T15:50:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los países más endeudados de América Latina, luego de que la deuda global rompiera otro récord",
-    "summary": "La deuda global marcó un nuevo récord en el primer semestre de 2026, al superar los US$365 billones tras un aumento de más de US$10 billones, según el Institute of International Finance. El IIF advierte que, pese a una relación deuda/PIB menor al máximo de 2021, los costos del servicio de la deuda han subido con fuerza.",
-    "link": "https://www.bloomberglinea.com/mercados/los-paises-mas-endeudados-de-america-latina-luego-de-que-la-deuda-global-rompiera-otro-record/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T14:40:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 71,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Daños de más de COP$30 billones por el terremoto no ponen en riesgo a las aseguradoras en Colombia",
-    "summary": "El terremoto de magnitud 7.4 que sacudió a Colombia el 10 de agosto afectará los resultados de las aseguradoras en el segundo semestre de 2026, pero no pondría en riesgo sus calificaciones, según Fitch Ratings. La calificadora explica que solo una pequeña proporción de las pérdidas está asegurada y que la mayor parte del riesgo se cede a reaseguradores internacionales.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/danos-de-mas-de-cop30-billones-por-el-terremoto-no-ponen-en-riesgo-a-las-aseguradoras-en-colombia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T14:32:10+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
   }
 ]
