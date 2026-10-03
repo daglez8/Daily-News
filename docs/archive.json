@@ -1,5 +1,170 @@
 [
   {
+    "title": "Qué países de Latinoamérica están mejor posicionados en la carrera de la IA, según Oxford",
+    "summary": "Oxford Economics estima que la IA generativa sumaría entre 0.1 y 0.3 puntos porcentuales al crecimiento de América Latina, pero sin cambiar las dinámicas de largo plazo de la región. El análisis evalúa qué países están mejor posicionados en la carrera de la IA.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/que-paises-de-latinoamerica-estan-mejor-posicionados-en-la-carrera-de-la-ia-segun-oxford/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-03T07:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The right and wrong lessons to learn from Spain’s housing crisis",
+    "summary": "FT argues that evictions and spiralling rents are symptoms, not the underlying disease, in Spain's housing crisis, and weighs which lessons to take from it.",
+    "link": "https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-03T04:00:48+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué las acciones del S&P 500 son resilientes ante la caída de los bonos?",
+    "summary": "El S&P 500 cerró septiembre con una caída de 0.5% y acumula más de 12% en el año, resiliente pese a que los rendimientos de los bonos de EU llegaron a niveles no vistos desde 2007.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-las-acciones-del-sp-500-son-resilientes-ante-la-caida-de-los-bonos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-03T04:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banxico cierra el programa de envío de remesas \"Directo a México\"; garantiza operaciones ordenadas",
+    "summary": "Banxico cierra el programa de envío de remesas \"Directo a México\" y garantiza que las operaciones se cerrarán de forma ordenada.",
+    "link": "https://expansion.mx/economia/2026/10/02/banxico-cierre-programa-directo-a-mexico",
+    "source": "Expansión",
+    "published": "2026-10-03T00:13:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bancos en México refuerzan prevención de lavado de dinero ante mayores exigencias de EU en combate a cárteles",
+    "summary": "Los bancos en México refuerzan sus controles de prevención de lavado de dinero ante las mayores exigencias de Estados Unidos en el combate a los cárteles. El tema apunta a mayor presión regulatoria y de cumplimiento para el sector financiero.",
+    "link": "https://expansion.mx/economia/2026/10/02/bancos-en-mexico-refuerzan-prevencion-de-lavado-de-dinero-ante-mayores-exigencias-de-eu-en-combate-a-carteles",
+    "source": "Expansión",
+    "published": "2026-10-03T00:00:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+    "summary": "Kevin Hassett afirma que el impulso de la IA a la productividad podría ser mucho mayor de lo que reflejan las cifras oficiales. El programa también aborda las salvaguardas que las empresas de IA coinciden en necesitar.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T23:12:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La UIF iniciará certificación en prevención de lavado de dinero en 2027",
+    "summary": "La UIF iniciará en 2027 una certificación en prevención de lavado de dinero, lo que sumará exigencias de cumplimiento para entidades financieras y sujetos obligados.",
+    "link": "https://expansion.mx/economia/2026/10/02/uif-hacienda-certificacion-prevencion-lavado-dinero-2027",
+    "source": "Expansión",
+    "published": "2026-10-02T22:28:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NYU's Gary Marcus on AI development concerns",
+    "summary": "Gary Marcus sostiene que los desarrolladores de IA, incluido OpenAI, carecen de salvaguardas suficientes para sistemas que no pueden controlar de forma confiable.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/nyu-s-gary-marcus-on-ai-development-concerns-video",
+    "source": "Bloomberg",
+    "published": "2026-10-02T22:15:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México debería considerar una consolidación más ambiciosa para que descienda la deuda: FMI",
+    "summary": "El FMI dice que México debería considerar una consolidación fiscal más ambiciosa para que la deuda pública siga una trayectoria descendente, aunque reconoce que el país continúa en la senda de consolidación y espera que siga gradualmente en 2027.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-deberia-considerar-una-consolidacion-mas-ambiciosa-para-que-descienda-deuda-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-02T21:54:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "FMI urge a México a reducir la deuda y recuerda a Banxico que la meta de inflación es 3%",
+    "summary": "El FMI urge a México a reducir su deuda y recuerda a Banxico que la meta de inflación es de 3%. El mensaje llega con el ajuste fiscal y la política monetaria en el centro de la agenda.",
+    "link": "https://expansion.mx/economia/2026/10/02/fmi-mexico-ajuste-fiscal-inflacion-banxico",
+    "source": "Expansión",
+    "published": "2026-10-02T20:59:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+    "summary": "Apple planea introducir nuevos controles de privacidad en Mac y advierte sobre los riesgos de dar acceso amplio a datos a software de terceros, incluidos agentes de IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+    "source": "Bloomberg",
+    "published": "2026-10-02T20:50:08+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
+    "summary": "Wall Street intenta convivir con rendimientos de 5% tras el gran retroceso de bonos. El viernes trajo un alivio breve y una advertencia sobre el daño de los rendimientos altos en todo tipo de estrategias.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
+    "source": "Bloomberg",
+    "published": "2026-10-02T20:40:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (28 de septiembre al 2 de octubre): De remesas y balanza comercial",
+    "summary": "Resumen de las claves económicas de la semana en México, con el reporte de Banxico sobre remesas de agosto y cifras preliminares de Inegi sobre la balanza comercial.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-28-septiembre-2-octubre-remesas-balanza-comercial-20261002-836667.html",
+    "source": "El Economista",
+    "published": "2026-10-02T19:51:24-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
+    "summary": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre, un ajuste en el modelo de servicio de la banca en México.",
+    "link": "https://expansion.mx/economia/2026/10/02/bbva-cambia-de-horario-sucursales",
+    "source": "Expansión",
+    "published": "2026-10-02T19:21:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO",
+    "summary": "Nscale, an AI infrastructure company, hired Meta veteran Justin Osofsky as COO to speed expansion ahead of its upcoming IPO.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
+    "source": "Bloomberg",
+    "published": "2026-10-02T19:20:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
     "summary": "FBI and US Coast Guard investigators found that hackers accessed the propulsion system of an oil supertanker approaching the Texas coast this summer. The breach highlights growing physical risks from cyberattacks.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker",
@@ -22,6 +187,39 @@
     "light": true
   },
   {
+    "title": "Bitso procesa 15% de las remesas de Estados Unidos a México",
+    "summary": "Bitso procesa 15% de las remesas que Estados Unidos envía a México, un dato que muestra el avance de las plataformas fintech y cripto en los flujos de pagos transfronterizos hacia el país.",
+    "link": "https://expansion.mx/economia/2026/10/02/bitso-procesa-15-de-las-remesas-de-estados-unidos-a-mexico",
+    "source": "Expansión",
+    "published": "2026-10-02T18:40:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Low-profile hedge fund smashes record for New York office rent",
+    "summary": "A low-profile hedge fund, Castle Hook, will pay up to $21.2mn a year for 53,000 sq ft of penthouse space in Related's new Madison Avenue tower, a record for New York office rent.",
+    "link": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-02T18:31:10+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano recupera terreno frente al dólar, pero termina su peor semana desde marzo",
+    "summary": "El peso mexicano recupera terreno frente al dólar, pero termina su peor semana desde marzo.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-recupera-terreno-frente-dolar-termina-peor-semana-marzo-20261002-836609.html",
+    "source": "El Economista",
+    "published": "2026-10-02T18:18:15-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "September Jobs Miss Shocks Markets",
     "summary": "A big September jobs miss rattled markets as credit investors turned cautious. Blackstone joined Broadcom's massive AI financing push while Anthropic eyes an IPO.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-02/open-interest-10-2-2026-video",
@@ -33,6 +231,17 @@
     "light": true
   },
   {
+    "title": "El peso mexicano toma un respiro tras ajuste del petróleo y débil reporte de empleo en EU",
+    "summary": "El peso mexicano toma un respiro tras el ajuste del petróleo y un débil reporte de empleo en Estados Unidos.",
+    "link": "https://expansion.mx/mercados/2026/10/02/el-peso-mexicano-toma-un-respiro-tras-ajuste-del-petroleo-y-debil-reporte-de-empleo-en-eu",
+    "source": "Expansión",
+    "published": "2026-10-02T17:43:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
     "summary": "Lockheed Martin takes a model-agnostic approach to AI, using 55 different LLMs across its business, including OpenAI's. Its technology chief explains how the company tests AI before deploying it.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
@@ -42,6 +251,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Los mercados afrontan un riesgo inédito: dos históricos colchones económicos pierden fuerza",
+    "summary": "Los mercados podrían entrar en una etapa con menos protección ante crisis: la política monetaria y la fiscal, que amortiguaron caídas por décadas, enfrentan restricciones que reducen su margen de respuesta.",
+    "link": "https://www.bloomberglinea.com/mercados/los-mercados-afrontan-un-riesgo-inedito-dos-historicos-colchones-economicos-pierden-fuerza/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-02T17:35:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "James Manyika on AI Regulation",
@@ -64,6 +284,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "AMS House / Jacobsen Arquitetura",
+    "summary": "AMS House by Jacobsen Arquitetura sits on a sloping plot with native forest as a backdrop; three blocks linked by covered walkways, with the social volume at the center.",
+    "link": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
+    "source": "ArchDaily",
+    "published": "2026-10-02T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
@@ -108,6 +339,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Rural School in Oaxaca / Territorio Estudio",
+    "summary": "Escuela rural en Oaxaca de Territorio Estudio: un techo de estructura ligera y abierta crea sombra y dialoga con la naturaleza y las condiciones preexistentes del sitio.",
+    "link": "https://www.archdaily.com/1023159/rural-school-in-oaxaca-territorio-estudio",
+    "source": "ArchDaily",
+    "published": "2026-10-02T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
@@ -174,6 +416,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Argentina anuncia “pasaporte de oro” para extranjeros: podrán adquirirlo desde los US$350.000",
+    "summary": "Argentina presentó en París un programa de ciudadanía por inversión: un aporte no reembolsable de US$350,000 al Tesoro o un título público de US$800,000 darían acceso a la ciudadanía.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-anuncia-pasaporte-de-oro-para-extranjeros-podran-adquirirlo-desde-los-us350000/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-02T12:16:50+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "México logra inversión récord, ¿por qué no crece más?",
@@ -5243,259 +5496,6 @@
     "published": "2026-09-23T14:32:10+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OCDE mejora pronóstico para México, pero advierte inflación persistente y crédito caro",
-    "summary": "La OCDE mejoró su pronóstico de crecimiento para México, pero advirtió que la inflación seguirá siendo persistente y el crédito se mantendrá caro en el país, según reportó Expansión.",
-    "link": "https://expansion.mx/economia/2026/09/23/ocde-mejora-crecimiento-mexico-inflacion-bolsillo-2026",
-    "source": "Expansión",
-    "published": "2026-09-23T14:16:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Australia's Corporate Watchdog Sets New Safeguards on AI Trading",
-    "summary": "Australia's securities regulator is tightening safeguards for automated and AI-enabled trading to bring its rules in line with international standards. The move adds Australia to the growing list of regulators addressing model risk in algorithmic and AI-driven markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/australia-s-corporate-watchdog-sets-new-safeguards-on-ai-trading",
-    "source": "Bloomberg",
-    "published": "2026-09-23T14:01:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México será el país más afectado ante la posible prohibición de exportaciones de diésel en EE.UU.",
-    "summary": "México sería el país más afectado por una eventual prohibición de exportaciones de diésel de Estados Unidos, medida recién respaldada por Donald Trump, ya que es el principal comprador de diésel estadounidense con cerca de 220,000 barriles diarios en 2025. El combustible es estratégico para transporte, agricultura, industria y generación eléctrica de emergencia en el país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-sera-el-pais-mas-afectado-ante-la-posible-prohibicion-de-exportaciones-de-diesel-en-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T13:20:34+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma a Ley Aduanera representa atrasos y sobrecostos para importadores y exportadores",
-    "summary": "Una reforma a la Ley Aduanera de México generará atrasos y sobrecostos para importadores y exportadores, según reportó Expansión.",
-    "link": "https://expansion.mx/economia/2026/09/23/reforma-ley-aduanera-atrasos-costos-importadores",
-    "source": "Expansión",
-    "published": "2026-09-23T13:05:55+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 69,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Profuturo reúne perspectivas del sector financiero en la 16.ª Semana de los Economistas",
-    "summary": "Profuturo realizó la 16ª edición de su Semana de los Economistas, con la participación de economistas de J.P. Morgan, Bank of America, Citi, Scotiabank, Finamex, Santander, Barclays y HSBC para analizar la economía mexicana y el panorama internacional. El foro semestral busca mantener actualizada la visión económica que sustenta el proceso de inversión de la afore.",
-    "link": "https://www.eleconomista.com.mx/empresas/profuturo-reune-perspectivas-sector-financiero-16-a-semana-economistas-20260923-834753.html",
-    "source": "El Economista",
-    "published": "2026-09-23T12:50:03-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Skeptics Surrender Again as Traders Eye Path Forward for Tech",
-    "summary": "Equity bulls impulsaron al Nasdaq 100 a su primer récord desde junio, y los escépticos de la IA vuelven a ceder terreno frente al optimismo del mercado. Los traders ahora buscan señales de que este impulso pueda sostenerse.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/ai-skeptics-surrender-again-as-traders-eye-path-forward-for-tech",
-    "source": "Bloomberg",
-    "published": "2026-09-23T12:27:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Shore House / Stanley Office of Architecture",
-    "summary": "Perched on a steep, forested slope at the edge of Kootenay Lake, Shore House is a family home designed by Stanley Office of Architecture to respond to its challenging terrain. The design uses deep foundations and cantilevered floors that project over the landscape.",
-    "link": "https://www.archdaily.com/1033068/shore-house-stanley-office-of-architecture",
-    "source": "ArchDaily",
-    "published": "2026-09-23T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Las cámaras empresariales alertan que limitar deducciones pegará a la inversión y el empleo",
-    "summary": "Cámaras empresariales en México advierten que limitar las deducciones fiscales golpearía la inversión y el empleo formal en el país.",
-    "link": "https://expansion.mx/economia/2026/09/23/limite-deducciones-amenaza-inversion-empleo-formal-ip",
-    "source": "Expansión",
-    "published": "2026-09-23T11:55:26+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Analistas dejan estático su pronóstico para la tasa de interés de Banxico tras alza de la Fed",
-    "summary": "Los analistas mantienen sin cambios su pronóstico para la tasa de interés de Banxico y prevén que el banco central la deje igual en su decisión del 24 de septiembre. Esto ocurre pese a que la Reserva Federal de EU subió sus tasas por primera vez en tres años, lo que amplía el diferencial entre ambos bancos centrales.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-dejan-estatico-su-pronostico-para-la-tasa-de-interes-de-banxico-tras-alza-de-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T11:31:04+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Eight Sleep Debuts Pod 6 Solo and Pod 6 Solo, Nears $1 Billion in Pod Sales",
-    "summary": "Eight Sleep lanzó una nueva versión, más económica, de su funda de colchón con control de temperatura Pod, y afirmó que la línea está en camino de alcanzar 1,000 millones de dólares en ventas acumuladas antes de fin de año.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/eight-sleep-debuts-pod-6-solo-and-pod-6-solo-nears-1-billion-in-pod-sales",
-    "source": "Bloomberg",
-    "published": "2026-09-23T11:27:37+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump rechaza ante la ONU regulación internacional de la IA, a la que llamará \"superinteligencia\"",
-    "summary": "Donald Trump rechazó ante la Asamblea General de la ONU la regulación internacional de la inteligencia artificial, a la que se refirió como \"superinteligencia\", según reportó El Economista.",
-    "link": "https://www.eleconomista.com.mx/videos/trump-rechaza-onu-regulacion-internacional-ia-llamara-superinteligencia-20260923-834918.html",
-    "source": "El Economista",
-    "published": "2026-09-23T11:07:08-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 73,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Meta Muse AI Personal Assistant Gets Off to Fast Start",
-    "summary": "El nuevo asistente personal de IA Muse, de Meta, tuvo un arranque sólido, con una recepción cálida tanto de usuarios como de los mercados.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/meta-muse-ai-personal-assistant-gets-off-to-fast-start",
-    "source": "Bloomberg",
-    "published": "2026-09-23T11:07:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Aún perciben señales de estancamiento económico",
-    "summary": "El Indicador Oportuno de la Actividad Económica del INEGI anticipa una reactivación de la economía mexicana en agosto, pero de apenas 0.1% mensual, una dinámica todavía magra y lejos de una recuperación satisfactoria. Los datos de comercio minorista confirman este ritmo pausado al inicio del segundo semestre de 2026.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/23/aun-perciben-senales-de-estancamiento-economico/",
-    "source": "El Financiero",
-    "published": "2026-09-23T11:05:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI’s Sam Altman to Promote AI Standards During UN Speech",
-    "summary": "El director ejecutivo de OpenAI, Sam Altman, promoverá la creación de estándares globales de IA en un discurso ante la ONU, posicionándose como una voz centrista frente al debate sobre si se debe frenar el avance de la tecnología.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-s-sam-altman-to-promote-ai-standards-during-un-speech",
-    "source": "Bloomberg",
-    "published": "2026-09-23T10:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Data Centers Have a Heat Problem",
-    "summary": "Los centros de datos en EU convierten enormes cantidades de electricidad en calor residual, elevando la temperatura en vecindarios cercanos. El auge de la IA está disparando el consumo eléctrico, mientras el costo y los pocos incentivos frenan la adopción de alternativas de enfriamiento.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/ai-data-centers-have-a-heat-problem-video",
-    "source": "Bloomberg",
-    "published": "2026-09-23T09:01:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuáles son los motivos detrás del rally que llevó al bitcoin a subir 37% desde fines de julio",
-    "summary": "El bitcoin, que venía de un desempeño muy negativo en 2026, repuntó 37% desde fines de julio hasta superar los US$86,500. Un informe del bróker Inviú atribuye el rally a la normalización del marco regulatorio de criptomonedas en EU y a la consolidación de fondos cotizados en el sector.",
-    "link": "https://www.bloomberglinea.com/cripto/cuales-son-los-motivos-detras-del-rally-que-llevo-al-bitcoin-a-subir-37-desde-fines-de-julio/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T09:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La billetera de los bancos argentinos se integra con ChatGPT: cómo serán las compras IA con MODO",
-    "summary": "MODO, la billetera digital de los bancos argentinos, lanzará una herramienta que permitirá hacer compras directamente desde ChatGPT sin salir de la conversación, con Frávega como primer comercio integrado. La iniciativa combina la capacidad conversacional de ChatGPT con la infraestructura de pagos de MODO.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-billetera-de-los-bancos-argentinos-se-integra-con-chatgpt-como-seran-las-compras-ia-con-modo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T08:40:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OECD sounds alarm on surging government bond yields",
-    "summary": "The OECD warned that surging government bond yields are increasing pressure on public finances worldwide, as rising debt-interest bills strain fiscal positions. The Paris-based forecaster's alert adds to growing concern over sovereign debt sustainability.",
-    "link": "https://www.ft.com/content/6c13ada9-f325-428b-b91e-bffcf92eddad?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-23T08:00:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 71,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia-Backed AI Startup Seeks $10 Billion Before Australian IPO",
-    "summary": "La startup australiana de IA Firmus Technologies negocia con prestamistas un financiamiento de unos 10,000 millones de dólares para comprar chips de Nvidia destinados a su centro de datos en Indonesia, en lo que podría ser uno de los mayores acuerdos de infraestructura de IA en Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-backed-ai-startup-seeks-10-billion-before-australian-ipo",
-    "source": "Bloomberg",
-    "published": "2026-09-23T07:46:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Startup Wrtn Picks Banks for Korea IPO After Valuation Boost",
-    "summary": "La surcoreana Wrtn Technologies, una de las startups de IA de más rápido crecimiento del país, eligió a Mirae Asset Securities como asegurador líder para su próxima oferta pública inicial, tras un reciente salto en su valuación.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/ai-startup-wrtn-picks-banks-for-korea-ipo-after-valuation-boost",
-    "source": "Bloomberg",
-    "published": "2026-09-23T07:17:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las nuevas generaciones no buscan un jefe amigo, sino una autoridad confiable",
-    "summary": "Las nuevas generaciones en el trabajo no buscan un jefe amigable, sino una autoridad confiable que sirva de guía para su desarrollo profesional. Cuando el estilo de liderazgo no conecta con el equipo, suelen surgir problemas de comunicación, confianza y desempeño.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/nuevas-generaciones-buscan-jefe-amigo-autoridad-confiable-20260923-834744.html",
-    "source": "El Economista",
-    "published": "2026-09-23T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Xi and Trump Seek Safe AI Without Slowing the Race for Supremacy",
-    "summary": "Xi Jinping y Donald Trump se reunirán esta semana para tratar temas como comercio y Taiwán, pero coinciden en algo: ninguno quiere frenar la carrera por la IA, aun cuando ambos buscan formas de mantener la tecnología bajo control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy",
-    "source": "Bloomberg",
-    "published": "2026-09-23T07:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los líderes de la IA informarán a la ONU ante advertencias de posible pérdida de control",
-    "summary": "Directivos de OpenAI, Anthropic y Hugging Face informarán al Consejo de Seguridad de la ONU sobre los riesgos de que la IA supere el control humano. La comparecencia ocurre en medio de advertencias sobre tecnologías cada vez más potentes que podrían mejorar por sí mismas y amenazar la seguridad internacional.",
-    "link": "https://www.eleconomista.com.mx/internacionales/lideres-ia-informaran-onu-advertencias-posible-perdida-control-20260923-834881.html",
-    "source": "El Economista",
-    "published": "2026-09-23T06:48:18-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
     "language": "es",
     "light": false
   }
