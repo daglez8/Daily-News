@@ -1,5 +1,82 @@
 [
   {
+    "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
+    "summary": "US Treasury Secretary Scott Bessent called prominent AI figures' warnings about existential risk alarmist and unhelpful. He urged the industry to police itself and produce solutions. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
+    "source": "Bloomberg",
+    "published": "2026-10-03T17:12:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tiny Hotels Are Luxury Travel’s Next Big Thing",
+    "summary": "Luxury travelers increasingly seek tiny hotels with one to six rooms, combining villa privacy with high-end service. The trend is spreading across Europe and the US. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-03/tiny-hotels-are-luxury-travel-s-next-big-thing-video",
+    "source": "Bloomberg",
+    "published": "2026-10-03T16:35:28+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
+    "summary": "Fraud investigator Jay Jones says AI helps scammers create convincing fake recruiters and job listings that put people's money and personal data at risk. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
+    "source": "Bloomberg",
+    "published": "2026-10-03T15:15:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why Philosophers Are Worried About AI",
+    "summary": "Harvard philosopher Michael Sandel argues the more immediate AI question is whether it changes humans themselves, weakening authentic connection and independent thought. Universities are already confronting this as students use AI. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-03/why-philosophers-are-worried-about-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-10-03T14:03:58+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Vas a sacar un auto a 72 meses? Esta es la ‘trampa’ de las mensualidades que nadie te dice",
+    "summary": "El Financiero advierte sobre la 'trampa' de los financiamientos automotrices a 72 meses: las mensualidades bajas ocultan un costo total mayor. Es una guía de finanzas personales sobre crédito al consumo.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/10/03/vas-a-sacar-un-auto-a-72-meses-esta-es-la-trampa-de-las-mensualidades-que-nadie-te-dice/",
+    "source": "El Financiero",
+    "published": "2026-10-03T13:45:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+    "summary": "An OpenAI safety employee has quit and warned that top AI firms aren't doing enough to mitigate the technology's risks. The exit adds to a growing chorus of insiders raising alarms. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+    "source": "Bloomberg",
+    "published": "2026-10-03T13:13:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
+    "summary": "Paramount Skydance and Oracle are becoming some of corporate America's biggest borrowers, and their shared link to Larry Ellison is stirring angst on Wall Street. Summarized from the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+    "source": "Bloomberg",
+    "published": "2026-10-03T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Can AI Outrun America’s Deficit Problem?",
     "summary": "NEC Director Kevin Hassett argues AI's economic benefits may be larger than current data show, comparing today to the early internet era. He remains optimistic on growth despite a growing debt burden.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
@@ -9,6 +86,28 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Fraudes en México: robo de identidad preocupa a 51% de consumidores, pero 21% no hace nada",
+    "summary": "Un estudio de Buró de Crédito (TransUnion) muestra que el robo de identidad preocupa al 51% de los consumidores en México, pero 21% no hace nada al respecto. Es la primera vez que el Consumer Pulse incluye a México.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/fraudes-mexico-robo-identidad-preocupa-51-consumidores-20261003-836598.html",
+    "source": "El Economista",
+    "published": "2026-10-03T11:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cómo se te vería esa ropa? ChatGPT estrena probador virtual para compras",
+    "summary": "OpenAI incorporó a ChatGPT un probador virtual que usa IA para mostrar ropa y accesorios sobre una imagen del propio usuario. Busca reducir la incertidumbre al comprar ropa en línea.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/te-veria-ropa-chatgpt-estrena-probador-virtual-compras-20261003-836694.html",
+    "source": "El Economista",
+    "published": "2026-10-03T10:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
@@ -5398,105 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 64,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Nvidia Is Shaping the Rules for AI",
-    "summary": "Bloomberg Opinion's Parmy Olson argues that Jensen Huang and Donald Trump have aligned in downplaying AI risk warnings and resisting new regulation. The piece contends that slowing AI development simply isn't an option Nvidia is willing to entertain.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/opinion-nvidia-is-shaping-the-rules-for-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-09-23T17:45:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comprar acciones de Amazon: proyección para el cierre de 2026 y las señales que sigue Wall Street",
-    "summary": "Amazon encara el cierre de 2026 apoyado en AWS y la publicidad como motores de crecimiento, tras un trimestre con ventas de US$200,606 millones (+20% interanual) y utilidad operativa de US$27,461 millones (+43%). Analistas de Needham mantienen recomendación de compra, aunque el mercado vigila un capex previsto de US$220,000 millones para 2026 y un flujo de caja libre negativo de US$7,700 millones.",
-    "link": "https://www.bloomberglinea.com/mercados/comprar-acciones-de-amazon-proyeccion-para-el-cierre-de-2026-y-las-senales-que-sigue-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T17:44:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 77,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Bond-Market Slide Deepens, Pushing Yields to Two-Decade Highs",
-    "summary": "Losses in the US Treasury market deepened Wednesday as strong economic data and a weak auction pushed yields across most maturities to their highest levels in nearly two decades. Five-year yields breached 5% for the first time since 2007.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007",
-    "source": "Bloomberg",
-    "published": "2026-09-23T17:08:50+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 77,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dan Ives Joins Closed-End Fund Wave With AI-Focused Vehicle",
-    "summary": "AI bull Dan Ives is launching a closed-end fund to bet on private AI companies, joining a growing wave of firms offering public-market investors exposure to hot startups. The move reflects continued strong investor appetite for AI-related private-equity plays.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/dan-ives-joins-closed-end-fund-wave-with-ai-focused-vehicle",
-    "source": "Bloomberg",
-    "published": "2026-09-23T17:01:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bonos, acciones y blockchain: qué es la tokenización que podría alcanzar US$4 billones en 2035",
-    "summary": "El mercado de activos tokenizados —bonos, acciones y otros instrumentos llevados a blockchain— pasó de unos US$10,000 millones en enero de 2025 a cerca de US$39,000 millones en septiembre de 2026, según Deutsche Bank. La entidad proyecta que podría alcanzar entre US$3 y US$4 billones hacia 2035, en un proceso que modernizaría la infraestructura financiera más que eliminar intermediarios.",
-    "link": "https://www.bloomberglinea.com/mercados/bonos-acciones-y-blockchain-que-es-la-tokenizacion-que-podria-alcanzar-us4-billones-en-2035/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-23T16:36:34+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Zuckerberg to unveil new AI products as Meta's Muse app tops charts",
-    "summary": "Meta's personal AI 'agent' app, Muse, which can shop and schedule on a user's behalf, has become the most downloaded app in the US. Mark Zuckerberg is set to unveil additional AI products as the app's popularity puts Meta back at the center of the AI race, per the Financial Times.",
-    "link": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-23T16:35:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft Pledges to Spend Additional $2 Billion in Gulf Region",
-    "summary": "Microsoft pledged about $2 billion in additional spending in the Middle East, its first significant update on regional business since the outbreak of the US-Iran war. The commitment adds to the company's broader push to expand AI infrastructure in the Gulf.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-pledges-to-spend-additional-2-billion-in-gulf-region",
-    "source": "Bloomberg",
-    "published": "2026-09-23T16:32:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 67,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Cautela' de Banxico con la tasa de interés empeora tipo de cambio: Peso se deprecia 1.16%",
-    "summary": "El peso mexicano se depreció 1.16% este miércoles, hasta 17.49 unidades por dólar, en la antesala de la decisión de política monetaria de Banxico del jueves 24 de septiembre, en la que se espera que la tasa se mantenga en 6.50%. La depreciación se da mientras el mercado anticipa nuevas alzas de tasas de la Fed, lo que reduciría aún más el diferencial con México.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/23/peso-dolar-precio-hoy-23-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-23T16:27:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 87,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek Tests Efficient, Safer Method for Training AI Agents",
-    "summary": "DeepSeek detailed a new, more efficient method for training AI agents that also aims to reduce the kind of misbehavior fueling global AI-safety concerns. The technique could help agents learn faster while behaving more predictably.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/deepseek-tests-efficient-safer-method-for-training-ai-agents",
-    "source": "Bloomberg",
-    "published": "2026-09-23T16:25:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 93,
-    "language": "en",
     "light": true
   }
 ]
