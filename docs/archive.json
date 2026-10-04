@@ -1,5 +1,93 @@
 [
   {
+    "title": "Britain’s Reliance on US Cloud Giants Alarms Its Politicians",
+    "summary": "UK politicians warned that dependence on big American cloud providers is 'a strategic and economic vulnerability,' since US authorities can switch off services or demand data under federal law.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
+    "source": "Bloomberg",
+    "published": "2026-10-04T07:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Korea Orders Security Checks After Finance-Sector Data Breaches",
+    "summary": "South Korean regulators urged financial institutions to promptly complete internal security inspections and report results after a series of cyberattacks caused personal data breaches across the industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches",
+    "source": "Bloomberg",
+    "published": "2026-10-04T05:43:28+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+    "summary": "Wall Street's IPO momentum is cooling on tepid investor demand and valuation concerns. Several listings have been paused in recent weeks, with the delay of Anthropic's public debut sending a chill through markets.",
+    "link": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T04:01:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+    "summary": "DigitalBridge, cuyo CEO Marc Ganzi dice que será el 'brazo de infraestructura de terceros' de SoftBank tras una adquisición de US$4 mil millones. Las ambiciones de IA de Masayoshi Son superan el balance de SoftBank.",
+    "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T04:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China closes hundreds of banks to bolster financial system",
+    "summary": "China shut down more than 670 lenders last year, a record, as Fitch says smaller players remain the weakest part of the sector. The closures are aimed at bolstering the financial system.",
+    "link": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T02:00:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+    "summary": "An AI-fueled rush for capital sent Hong Kong share sales to a record this summer, as bankers skipped the summer break. The surge came despite a bruising selloff in the city's stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+    "source": "Bloomberg",
+    "published": "2026-10-04T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
+    "summary": "A new White House task force will produce a report assessing the risks posed by AI and what responsibility the federal government should have over the technology, according to WSJ.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+    "source": "Bloomberg",
+    "published": "2026-10-03T23:38:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EU invierte en 17 entidades de México durante el primer semestre de 2026",
+    "summary": "La inversión extranjera directa de EE.UU. en México creció 14.7% anual en el primer semestre de 2026, hasta US$16,871 millones, casi la mitad (48.2%) del total nacional, pese a la revisión del T-MEC.",
+    "link": "https://www.eleconomista.com.mx/estados/eu-invierte-17-entidades-mexico-primer-semestre-20261003-836732.html",
+    "source": "El Economista",
+    "published": "2026-10-03T19:13:48-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
     "summary": "US Treasury Secretary Scott Bessent called prominent AI figures' warnings about existential risk alarmist and unhelpful. He urged the industry to police itself and produce solutions. Summarized from the blurb only.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
@@ -5410,93 +5498,5 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Inversionistas globales, preocupados por bajo crecimiento de México: Moody's",
-    "summary": "La vicepresidenta de crédito senior de Moody's, Ariane Ortiz Bollin, advirtió que México lleva décadas creciendo muy poco, con tasas recientes de apenas 1%, insuficientes para una población joven en crecimiento. Señaló que si el bajo crecimiento persiste junto con déficits fiscales altos, la deuda seguirá aumentando y podría erosionar la confianza de los inversionistas.",
-    "link": "https://www.eleconomista.com.mx/economia/inversionistas-globales-preocupados-bajo-crecimiento-mexico-moody-20260923-834985.html",
-    "source": "El Economista",
-    "published": "2026-09-23T23:34:07-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tu iPhone puede clonar tu voz y hablar por ti: así puedes activar esta función de Apple",
-    "summary": "Expansión explica cómo activar la función del iPhone que permite clonar la voz del usuario para que el dispositivo hable en su nombre. La herramienta de Apple abre preguntas sobre los riesgos de suplantación de identidad mediante IA generativa de voz.",
-    "link": "https://expansion.mx/tecnologia/2026/09/23/tu-iphone-puede-clonar-tu-voz-y-usarla-para-hablar-por-ti",
-    "source": "Expansión",
-    "published": "2026-09-23T23:15:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Mientras BBVA reduce sus horarios en sucursales, estos bancos cierran después de las 4",
-    "summary": "BBVA redujo los horarios de atención en algunas de sus sucursales en México, mientras que otros bancos mantienen operaciones después de las 4 de la tarde. El reporte compara los horarios de atención al público entre distintas instituciones bancarias del país.",
-    "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
-    "source": "Expansión",
-    "published": "2026-09-23T20:15:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Ley de Economía Digital permitirá abrir cuentas bancarias con la CURP biométrica",
-    "summary": "La propuesta de Ley de Economía Digital en México contempla permitir la apertura de cuentas bancarias utilizando la CURP biométrica como medio de identificación. La medida busca facilitar el acceso a servicios financieros formales mediante la simplificación de los trámites de identidad.",
-    "link": "https://expansion.mx/economia/2026/09/23/curp-digital-abrir-cuentas-bancarias-ley-economia-digital",
-    "source": "Expansión",
-    "published": "2026-09-23T19:35:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Agent of whom?",
-    "summary": "The Economist argues that the relationship between people and their AI agents needs closer examination, as delegating decisions to AI representatives raises open questions about accountability and whose interests they truly serve.",
-    "link": "https://www.economist.com/business/2026/09/23/agent-of-whom",
-    "source": "The Economist",
-    "published": "2026-09-23T19:10:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Arizona Senator Mark Kelly to Introduce New AI Workforce Bill",
-    "summary": "Arizona Senator Mark Kelly plans to introduce a bill aimed at mitigating AI's impact on the workforce, arguing it's important to generate revenue from AI companies to give workers options. He also said he doesn't expect a serious AI negotiation between Trump and Xi Jinping at their summit.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/senator-mark-kelly-to-introduce-new-ai-workforce-bill-video",
-    "source": "Bloomberg",
-    "published": "2026-09-23T18:55:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft President Backs Deployment of AI Safety Evaluators",
-    "summary": "Microsoft President Brad Smith said the company backs the use of independent evaluators to assess the safety of AI systems. The comments add Microsoft's institutional weight to the push for third-party AI safety oversight.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-president-backs-deployment-of-ai-safety-evaluators",
-    "source": "Bloomberg",
-    "published": "2026-09-23T18:40:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 79,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
-    "summary": "La producción de Nissan en México cayó 25.1%, afectada por el cierre de plantas en Aguascalientes y Morelos, según reportó Expansión.",
-    "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
-    "source": "Expansión",
-    "published": "2026-09-23T18:10:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
   }
 ]
