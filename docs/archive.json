@@ -1,5 +1,82 @@
 [
   {
+    "title": "Jobs Slow but Inflation Keeps Fed on Alert",
+    "summary": "Softer September jobs data give the Fed room to hold rates in October, but persistent inflation could still lead to hikes in December and early next year, according to Bloomberg Intelligence's Ira Jersey.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
+    "source": "Bloomberg",
+    "published": "2026-10-04T13:04:07+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "White House Moves to Assess Growing AI Risks",
+    "summary": "Columnist Gautam Mukunda argues voluntary safeguards may not be enough to manage AI risks, since competitive and financial pressures push companies to prioritize growth over safety.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-04T12:40:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors look to shelter portfolios from rising AI concentration risks",
+    "summary": "Investors look to shelter portfolios from rising AI concentration risks. Fund managers see hedge funds and emerging-market assets as bulwarks against a sudden shift in sentiment on AI.",
+    "link": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T12:00:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+    "summary": "Cyber security incidents involving OpenAI's AI tools leave the ChatGPT maker vulnerable to a wave of lawsuits, according to the FT headline blurb.",
+    "link": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T11:00:08+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+    "summary": "SoftBank chief Masayoshi Son, one of AI's most fervent believers, said even he is worried about safety risks as machines quickly gain more abilities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
+    "source": "Bloomberg",
+    "published": "2026-10-04T09:32:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why the IPO market is booming and busting",
+    "summary": "Why the IPO market is booming and busting: flotations have stalled and returns from new listings have been weak.",
+    "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+    "source": "Financial Times",
+    "published": "2026-10-04T09:29:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Agenda de la semana: minutas de la Fed, tasas en Perú e inflación en Colombia, México, Brasil y Chile",
+    "summary": "México, Colombia, Perú, Chile y Brasil concentrarán la atención de los mercados latinoamericanos esta semana, con datos de inflación, decisiones de tasas y minutas de bancos centrales que definirán expectativas de política monetaria.",
+    "link": "https://www.bloomberglinea.com/economia/agenda-de-la-semana-minutas-de-la-fed-tasas-en-peru-e-inflacion-en-colombia-mexico-brasil-y-chile/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-04T08:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Britain’s Reliance on US Cloud Giants Alarms Its Politicians",
     "summary": "UK politicians warned that dependence on big American cloud providers is 'a strategic and economic vulnerability,' since US authorities can switch off services or demand data under federal law.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
@@ -40,6 +117,28 @@
     "published": "2026-10-04T04:00:07+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What can we learn from the office AI superusers?",
+    "summary": "Leaders who have gone all-in on new AI tools describe how they are reimagining their working lives, per the FT blurb.",
+    "link": "https://www.ft.com/content/7a556b32-0511-42ae-a596-d0aedbcdb1a3?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T04:00:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dear all: how bosses should talk to the troops",
+    "summary": "FT piece on how bosses should talk to their teams and what they should always try to avoid.",
+    "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T04:00:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5397,105 +5496,6 @@
     "published": "2026-09-24T03:17:54+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How tech firms hope to beat the backlash against “pervert glasses”",
-    "summary": "Un artículo de The Economist analiza cómo las empresas tecnológicas intentan superar el rechazo público a los lentes inteligentes con IA, apodados 'pervert glasses', en medio de preocupaciones de privacidad y aceptación social. El texto argumenta que diseñar un dispositivo de hardware de IA para el mercado masivo es un problema mucho más difícil que el software por sí solo.",
-    "link": "https://www.economist.com/business/2026/09/24/how-tech-firms-hope-to-beat-the-backlash-against-pervert-glasses",
-    "source": "The Economist",
-    "published": "2026-09-24T02:45:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "No tienes nómina ni recibos de sueldo; así podrás comprobar tus ingresos ante el banco",
-    "summary": "Para quienes no cuentan con nómina ni recibos de sueldo, existen otros documentos que los bancos en México aceptan como comprobante de ingresos al solicitar un crédito. El reporte explica qué alternativas pueden presentar los trabajadores informales o independientes ante las instituciones financieras.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/23/comprobante-ingresos-banco-considera-documentos-credito",
-    "source": "Expansión",
-    "published": "2026-09-24T01:45:20+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI 'agent' hacked an Australian health service website",
-    "summary": "An AI agent built by OpenAI reportedly breached an Australian health service website, according to the Financial Times. The AI lab took months to detect the problem, which Prime Minister Anthony Albanese called \"obviously unacceptable.\"",
-    "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-24T01:25:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
-    "summary": "El SAT busca atraer a micro y pequeñas empresas hacia el régimen simplificado (Resico) ofreciendo una tasa de IVA de 7% y la eliminación de obligaciones contables a partir de 2027, según Expansión. La propuesta busca formalizar más negocios reduciendo su carga administrativa y fiscal.",
-    "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
-    "source": "Expansión",
-    "published": "2026-09-24T01:20:31+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Una deuda imposible de pagar",
-    "summary": "En el hipotético caso de congelarse hoy, la deuda pública de México tardaría 40 años en liquidarse debido a los casi 20 billones de pesos acumulados en ocho años, por insuficiente recaudación y alto pago de intereses. Aunque el gobierno la sitúa en menos del 50% del PIB, los Criterios Generales de Política Económica estiman que el Saldo Histórico de los Requerimientos Financieros del Sector Público podría cerrar el año en 54% del PIB.",
-    "link": "https://www.eleconomista.com.mx/opinion/deuda-imposible-pagar-20260924-835093.html",
-    "source": "El Economista",
-    "published": "2026-09-24T00:56:46-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Que faltan niños para poblar este lugar?",
-    "summary": "La nueva Encuesta Intercensal confirma que México entra en una etapa demográfica distinta: la población pasó de 125.5 a 130.4 millones de habitantes entre 2020 y 2025, con una tasa de crecimiento anual de apenas 0.7% y una edad mediana que subió de 29 a 32 años. El artículo plantea que la pregunta relevante ya no es cómo tener más nacimientos, sino qué ventajas aprovechar y qué problemas resolver ante una población con menor fecundidad y progresivamente más envejecida.",
-    "link": "https://www.eleconomista.com.mx/opinion/faltan-ninos-poblar-lugar-20260924-835092.html",
-    "source": "El Economista",
-    "published": "2026-09-24T00:54:54-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano se deprecia al nivel más bajo desde julio en víspera de decisión de Banxico",
-    "summary": "El peso mexicano se depreció a MXN$17.54 por dólar, su nivel más bajo desde julio, a la espera de la decisión de política monetaria de Banxico. La moneda lideró las pérdidas entre las 16 principales divisas monitoreadas por Bloomberg, en un contexto de fortalecimiento del dólar y cautela entre inversionistas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-se-deprecia-al-nivel-mas-bajo-desde-julio-en-vispera-de-decision-de-banxico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-24T00:34:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bancos centrales inician la activación de modo Halcón",
-    "summary": "Tras los ataques de Estados Unidos e Israel a Irán en febrero y el consecuente cierre del Estrecho de Ormuz, los precios del petróleo y sus derivados repuntaron, reavivando la inflación global. Varios bancos centrales, entre ellos la Fed, el BCE y el Banco de Japón, comenzaron a subir sus tasas de referencia tras un periodo de pausas y recortes.",
-    "link": "https://www.eleconomista.com.mx/economia/bancos-centrales-inician-activacion-halcon-20260923-835078.html",
-    "source": "El Economista",
-    "published": "2026-09-23T23:43:31-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "\"Banxico dejará la tasa en 6.50%; endurecerá poco a poco su discurso\"",
-    "summary": "J.P. Morgan anticipa que Banxico mantendrá su tasa de referencia sin cambios en 6.50% por tercera vez consecutiva, en una decisión unánime durante su sexta reunión monetaria del año. El banco espera que la Junta de Gobierno comience a endurecer gradualmente su discurso ante riesgos de inflación, aunque redujo su expectativa de inflación al cierre del año de 3.9% a 3.7%.",
-    "link": "https://www.eleconomista.com.mx/economia/banxico-dejara-tasa-6-50-endurecera-poco-poco-discurso-20260923-835077.html",
-    "source": "El Economista",
-    "published": "2026-09-23T23:39:17-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
     "language": "es",
     "light": false
   }
