@@ -1,5 +1,38 @@
 [
   {
+    "title": "Trump ya tiene zar de la IA: Designa a Jay Clayton para encabezar la ‘Fuerza de Superinteligencia’",
+    "summary": "Trump designó a Jay Clayton, director de inteligencia nacional, para encabezar un grupo de trabajo de la Casa Blanca sobre IA ante la preocupación por sus riesgos de seguridad. La 'Fuerza de Superinteligencia' busca evaluar riesgos y oportunidades de esta tecnología.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/10/04/trump-ya-tiene-zar-de-la-ia-designa-a-jay-clayton-para-encabezar-la-fuerza-de-superinteligencia/",
+    "source": "El Financiero",
+    "published": "2026-10-04T19:05:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Stocks Drive an Increasingly Divided Market",
+    "summary": "Schwab's Kevin Gordon says AI-related tech stocks are propping up the broader market even as many individual companies have fallen far more, pointing to increasingly narrow market leadership.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-04/ai-stocks-drive-an-increasingly-divided-market-video",
+    "source": "Bloomberg",
+    "published": "2026-10-04T16:05:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Funcionaría un ‘kill switch’? ‘Padrino’ de la IA advierte que el sistema podría persuadir a humanos",
+    "summary": "El debate sobre si sería posible apagar una IA avanzada ('kill switch') cobra fuerza conforme crecen las capacidades de los modelos. El artículo recoge la advertencia de un 'padrino' de la IA de que el sistema podría persuadir a los humanos.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/10/04/funcionaria-un-kill-switch-padrino-de-la-ia-advierte-que-el-sistema-podria-persuadir-a-humanos/",
+    "source": "El Financiero",
+    "published": "2026-10-04T13:56:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Jobs Slow but Inflation Keeps Fed on Alert",
     "summary": "Softer September jobs data give the Fed room to hold rates in October, but persistent inflation could still lead to hikes in December and early next year, according to Bloomberg Intelligence's Ira Jersey.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
@@ -7,6 +40,17 @@
     "published": "2026-10-04T13:04:07+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
+    "summary": "Wall Street's AI fixation is overwhelming other risks, including soaring interest rates, as investors keep pouring money into the largest tech stocks and push equity indexes toward record highs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+    "source": "Bloomberg",
+    "published": "2026-10-04T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
@@ -22,6 +66,28 @@
     "light": true
   },
   {
+    "title": "Trump Names Clayton, Ferguson to Lead AI Task Force",
+    "summary": "Trump announced a 'Super Intelligence Force' White House task force on AI, led by Director of National Intelligence Jay Clayton and FTC chairman Andrew Ferguson. It responds to growing safety concerns about rapidly advancing AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/trump-names-clayton-ferguson-to-lead-ai-task-force",
+    "source": "Bloomberg",
+    "published": "2026-10-04T12:38:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Explicador: ¿Qué es la Fuerza de Superinteligencia que creó Donald Trump?",
+    "summary": "Trump anunció la Fuerza de Superinteligencia, un grupo de la Casa Blanca que coordinará la política federal de IA, encabezado por Jay Clayton. Tendrá 120 días para evaluar los riesgos y oportunidades de esta tecnología.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/explicador-fuerza-superinteligencia-creo-donald-trump-20261004-836762.html",
+    "source": "El Economista",
+    "published": "2026-10-04T12:29:35-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Investors look to shelter portfolios from rising AI concentration risks",
     "summary": "Investors look to shelter portfolios from rising AI concentration risks. Fund managers see hedge funds and emerging-market assets as bulwarks against a sudden shift in sentiment on AI.",
     "link": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
@@ -29,6 +95,17 @@
     "published": "2026-10-04T12:00:08+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
+    "summary": "Traders are alert for signs of contagion in Europe's government bond market after a selloff revived memories of the region's debt crisis 15 years ago.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
+    "source": "Bloomberg",
+    "published": "2026-10-04T11:15:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -42,6 +119,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Van Peborgh Lodge / Claesson Koivisto Rune Architects",
+    "summary": "A contemporary log cabin in the Swedish mountains of Dalarna, designed as a ski lodge that works in every season and is rooted in local building traditions, with open views of a changing landscape.",
+    "link": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects",
+    "source": "ArchDaily",
+    "published": "2026-10-04T10:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
@@ -382,6 +470,17 @@
     "category": "AI & Agents",
     "relevance_score": 64,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "OXIO tiene seis meses para cerrar la compra de Telefónica y quedarse con los 21 millones de usuarios de Movistar",
+    "summary": "OXIO tiene seis meses para cerrar la compra de Telefónica México y quedarse con los 21 millones de usuarios de Movistar.",
+    "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
+    "source": "Expansión",
+    "published": "2026-10-02T22:56:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
     "light": true
   },
   {
@@ -5399,104 +5498,5 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Proxy Adviser Glass Lewis Merges With Clarity AI: ESG Investing",
-    "summary": "Proxy adviser Glass Lewis is merging with Clarity AI, a European ESG data and analytics firm, expanding its footprint in sustainability-focused investing. The tie-up comes as investor demand for tools to manage climate and sustainability risk continues to rise.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/proxy-adviser-glass-lewis-merges-with-clarity-ai-esg-investing",
-    "source": "Bloomberg",
-    "published": "2026-09-24T07:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El papa León advierte del riesgo de un apocalipsis provocado por la IA",
-    "summary": "El Vaticano advirtió sobre el riesgo de un apocalipsis provocado por la inteligencia artificial, una preocupación que el papa León XIV coloca en el centro de su papado. El pontífice reiterará su llamado a establecer normas globales para supervisar el sector de la IA en un discurso ante la UNESCO.",
-    "link": "https://www.eleconomista.com.mx/internacionales/papa-leon-advierte-riesgo-apocalipsis-provocado-ia-20260924-835106.html",
-    "source": "El Economista",
-    "published": "2026-09-24T06:35:19-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fondation Beyeler Expands with Three New Buildings by Peter Zumthor",
-    "summary": "The Fondation Beyeler in Riehen, Switzerland is expanding with three new buildings designed by Peter Zumthor, alongside an enlarged park and the adaptive reuse of historic structures. The expansion, comprising the Wyss Museum, the Ammann Pavilion and the Erlen Torhaus, opens to visitors on September 26, 2026, ahead of a full opening in January 2027.",
-    "link": "https://www.archdaily.com/1185683/fondation-beyeler-expands-with-three-new-buildings-by-peter-zumthor",
-    "source": "ArchDaily",
-    "published": "2026-09-24T06:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 68,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Morgan Stanley Rushes to Check Fallout After Deal List Leak",
-    "summary": "Morgan Stanley is racing to contain the fallout after a leaked internal deal list, with clients seeking explanations and at least two regulators beginning to assess the potential consequences. The incident raises fresh questions about data governance at major investment banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/morgan-stanley-rushes-to-contain-fallout-after-deal-list-leak",
-    "source": "Bloomberg",
-    "published": "2026-09-24T06:27:18+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta presenta Charm, su dispositivo de IA, en la búsqueda del sucesor del smartphone",
-    "summary": "Meta presentó Charm, un pequeño dispositivo portátil del tamaño de un estuche de AirPods para usar su asistente de IA, Muse, con pantalla táctil y conexión 5G integrada. El anuncio de Zuckerberg llega mientras Silicon Valley invierte miles de millones buscando el sucesor del smartphone.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/meta-presenta-charm-dispositivo-ia-busqueda-sucesor-smartphone-20260924-835103.html",
-    "source": "El Economista",
-    "published": "2026-09-24T06:21:26-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "JPMorgan comparó los precios de MercadoLibre y Shopee en Brasil: ¿dónde son más baratos?",
-    "summary": "Un análisis de JPMorgan sobre 1,042 productos idénticos encontró que Shopee es más barata que MercadoLibre en 59% de los artículos comparados en Brasil, aunque el descuento mediano es de apenas 2.8%. El estudio, realizado entre el 3 y el 19 de septiembre, revela una competencia de precios reñida entre ambas plataformas de e-commerce en el mercado brasileño.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/jpmorgan-comparo-los-precios-de-mercadolibre-y-shopee-en-brasil-donde-son-mas-baratos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-24T05:16:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Emerging markets sell foreign currency bonds at record rate",
-    "summary": "Emerging-market issuers are selling foreign-currency bonds at a record pace, even as conflict, rising interest rates and a strong dollar create a more challenging backdrop. Investor appetite for EM debt has remained resilient despite these headwinds.",
-    "link": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-24T04:00:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Qué es el diferencial de tasas y por qué hizo que el peso 'metiera reversa' ante el dólar?",
-    "summary": "El peso mexicano cerró en 17.51 por dólar, una depreciación de 1.28%, ante expectativas de que el diferencial de tasas entre México y Estados Unidos siga reduciéndose tras el reciente aumento de la Fed y de cara a la decisión de Banxico. Banxico mantuvo su tasa en 6.50% en agosto mientras la Fed la elevó a un rango de 3.75%-4.00%, estrechando el diferencial que sostiene al peso.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/23/que-es-el-diferencial-de-tasas-y-por-que-hizo-que-el-peso-metiera-reversa-ante-el-dolar/",
-    "source": "El Financiero",
-    "published": "2026-09-24T03:48:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México y EE.UU. acuerdan postergar cuarta ronda de negociación del T-MEC",
-    "summary": "México y Estados Unidos pospusieron la cuarta ronda de negociaciones bilaterales del T-MEC, originalmente prevista para la primera quincena de septiembre en Washington. El subsecretario Luis Rosendo Gutiérrez indicó que aún no hay fecha, la cual podría anunciarse tras las reuniones entre Xi Jinping y Trump y las conversaciones comerciales del G20.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-y-eeuu-acuerdan-postergar-cuarta-ronda-de-negociacion-del-t-mec/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-24T03:17:54+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
   }
 ]
