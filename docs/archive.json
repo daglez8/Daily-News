@@ -1,5 +1,148 @@
 [
   {
+    "title": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
+    "summary": "DBS CIO Hou Wey Fook argues Nvidia's P/E multiple and projected 70% earnings growth next year show AI-driven tech stocks are far from bubble territory.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says",
+    "source": "Bloomberg",
+    "published": "2026-10-05T07:04:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BT Buys TalkTalk to Save UK Broadband Provider From Collapse",
+    "summary": "BT agreed to buy TalkTalk to save the UK broadband provider from collapse, per Bloomberg's headline.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/bt-buys-talktalk-to-save-uk-broadband-provider-from-collapse",
+    "source": "Bloomberg",
+    "published": "2026-10-05T06:27:34+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Schneider Electric to Acquire PTC in All-Cash Deal",
+    "summary": "Schneider Electric agreed to acquire software group PTC in an all-cash deal valued at about $23.7bn, the French conglomerate's largest takeover. The deal expands its AI and software offering for manufacturers.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/schneider-electric-to-acquire-ptc-in-all-cash-deal-video",
+    "source": "Bloomberg",
+    "published": "2026-10-05T05:48:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese AI Labs Catch Up to OpenAI, Anthropic",
+    "summary": "Bloomberg's China Show title points to Chinese AI labs catching up to OpenAI and Anthropic. The blurb gives only a general program description, so details are limited.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/the-china-show-10-5-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-05T05:23:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El financiamiento de la inteligencia artificial puede presionar aún más a los Treasuries",
+    "summary": "Según un informe del IIF, el boom de inversión en IA se volvió un nuevo demandante de ahorro de largo plazo y puede presionar al alza las tasas reales, incluso si los precios relativos de los bonos no cambian. Los grandes hiperescaladores como Amazon y Alphabet están detrás de este gasto.",
+    "link": "https://www.bloomberglinea.com/mercados/el-financiamiento-de-la-inteligencia-artificial-puede-presionar-aun-mas-a-los-treasuries/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-05T05:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
+    "summary": "Malaysia planea introducir su primera ley dedicada a la inteligencia artificial a principios de 2027. La iniciativa se suma al esfuerzo global de los gobiernos por regular los riesgos y usos indebidos de la IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
+    "source": "Bloomberg",
+    "published": "2026-10-05T03:06:45+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Asia Economies Among Most at Risk From any AI Correction, Researchers Warn",
+    "summary": "A new study finds Asia's powerhouse economies are more exposed than most to a potential AI bust, which could undercut surging exports and rattle markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/asia-economies-among-most-at-risk-from-any-ai-correction-researchers-warn",
+    "source": "Bloomberg",
+    "published": "2026-10-05T02:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank’s Masayoshi Son Warns on AI Safety",
+    "summary": "SoftBank chief Masayoshi Son said at a tech forum that even he is worried about AI safety risks as machines rapidly gain abilities. He reiterated his view that AI could account for at least 20% of global GDP by 2040.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/softbank-s-masayoshi-son-warns-on-ai-safety-video",
+    "source": "Bloomberg",
+    "published": "2026-10-05T02:05:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inflación en zona euro, en máximos de tres años",
+    "summary": "La inflación en la zona euro subió a 3.8% anual en septiembre, su máximo en tres años, por el alza de costos energéticos derivada de la guerra en Medio Oriente. Queda muy por encima del objetivo del BCE de 2%.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-zona-euro-maximos-tres-anos-20261004-836831.html",
+    "source": "El Economista",
+    "published": "2026-10-04T23:29:25-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "EU registra datos débiles de crecimiento del empleo",
+    "summary": "El empleo en EU creció solo 29,000 puestos en septiembre, muy por debajo de lo esperado, y el desempleo subió a 4.2%. Los datos débiles influyen en las expectativas de tasas de la Fed y, por ende, en el costo del crédito en México.",
+    "link": "https://www.eleconomista.com.mx/economia/eu-registra-datos-debiles-crecimiento-empleo-20261004-836830.html",
+    "source": "El Economista",
+    "published": "2026-10-04T23:27:29-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
+    "summary": "American AI companies' performance lead over China narrowed to a record low as labs such as DeepSeek gained ground, according to Bloomberg Intelligence. The shift threatens US tech supremacy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
+    "source": "Bloomberg",
+    "published": "2026-10-04T21:03:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dealmaking slowdown threatens early end to M&A boom",
+    "summary": "Interest rate rises, AI anxiety and midterm elections have cooled animal spirits after a record-breaking start to the year, and a dealmaking slowdown threatens an early end to the M&A boom.",
+    "link": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-04T20:00:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+    "summary": "Jacob Coxon, exinvestigador de Anthropic que advirtió que la IA podría volverse demasiado poderosa para controlarla, testificará ante el Concejo de Nueva York junto con representantes de grandes empresas de IA. La audiencia sube el escrutinio sobre gobernanza y riesgos de la IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
+    "source": "Bloomberg",
+    "published": "2026-10-04T20:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Trump ya tiene zar de la IA: Designa a Jay Clayton para encabezar la ‘Fuerza de Superinteligencia’",
     "summary": "Trump designó a Jay Clayton, director de inteligencia nacional, para encabezar un grupo de trabajo de la Casa Blanca sobre IA ante la preocupación por sus riesgos de seguridad. La 'Fuerza de Superinteligencia' busca evaluar riesgos y oportunidades de esta tecnología.",
     "link": "https://www.elfinanciero.com.mx/mundo/2026/10/04/trump-ya-tiene-zar-de-la-ia-designa-a-jay-clayton-para-encabezar-la-fuerza-de-superinteligencia/",
@@ -7,6 +150,17 @@
     "published": "2026-10-04T19:05:07+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump pone a su jefe de inteligencia al frente de la nueva fuerza para controlar la IA en Estados Unidos",
+    "summary": "Trump puso a su jefe de inteligencia al frente de la nueva fuerza para controlar la inteligencia artificial en Estados Unidos. La iniciativa apunta a reforzar la supervisión y seguridad de la IA a nivel federal.",
+    "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
+    "source": "Expansión",
+    "published": "2026-10-04T17:50:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
     "language": "es",
     "light": false
   },
@@ -5344,159 +5498,5 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "La clave de wifi que te dan en recepción es el primer paso para paralizar a toda tu empresa",
-    "summary": "Expansión advierte sobre cómo compartir la clave de wifi de recepción sin controles adecuados puede ser el primer paso para que un ataque cibernético paralice a toda una empresa. La nota aborda riesgos de seguridad informática frecuentemente subestimados en el entorno corporativo.",
-    "link": "https://expansion.mx/tecnologia/2026/09/24/clave-wifi-puede-paralizar-toda-tu-empresa",
-    "source": "Expansión",
-    "published": "2026-09-24T11:55:35+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "México frena la promoción de IED: recortará 31% su presupuesto en 2027",
-    "summary": "El gobierno de México reducirá 31% el presupuesto destinado a la promoción de inversión extranjera directa (IED) para 2027. El recorte plantea dudas sobre la estrategia del país para capitalizar la ola de nearshoring.",
-    "link": "https://expansion.mx/economia/2026/09/24/mexico-focalizar-inversion-extranjera-2027-recorte-promocion",
-    "source": "Expansión",
-    "published": "2026-09-24T11:55:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Propone Xi a Trump 'control humano' sobre la IA",
-    "summary": "El presidente chino Xi Jinping propuso a Donald Trump desarrollar la inteligencia artificial bajo 'control humano', durante su encuentro bilateral en la Casa Blanca. La propuesta se suma a la creciente atención que ambos gobiernos están dando a la gobernanza de la IA en medio de la rivalidad tecnológica entre ambos países.",
-    "link": "https://www.reforma.com/propone-xi-a-trump-control-humano-sobre-la-ia/ar3281879",
-    "source": "Reforma",
-    "published": "2026-09-24T11:47:46-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Singapore’s Finance Firms to Train 80,000 Staff in AI Skills",
-    "summary": "Singapore's major financial institutions have pledged to train more than 80,000 local employees in AI skills. The initiative aims to cushion white-collar workers from potential job disruption as the country accelerates AI adoption in finance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/singapore-s-finance-firms-to-train-80-000-staff-in-ai-skills",
-    "source": "Bloomberg",
-    "published": "2026-09-24T11:45:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ex-DeepMind Researcher Thore Graepel Raising Funds for AI Reasoning Startup",
-    "summary": "Thore Graepel, a co-creator of AlphaGo and former DeepMind researcher, is raising significant funding for a new AI reasoning startup. He is the latest prominent researcher to leave Google DeepMind to pursue an independent venture.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ex-deepmind-researcher-thore-graepel-raising-funds-for-ai-reasoning-startup",
-    "source": "Bloomberg",
-    "published": "2026-09-24T11:21:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nscale IPO Puts Wall Street Attention on AI Data Centers, Neoclouds",
-    "summary": "Nscale's planned IPO is drawing Wall Street's attention to AI data centers and so-called neoclouds. The company is positioning itself to be seen as a hyperscaler in its own right.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/nscale-ipo-puts-wall-street-attention-on-ai-data-centers-neoclouds",
-    "source": "Bloomberg",
-    "published": "2026-09-24T11:02:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Video Startup Higgsfield Eyes $1 Billion in 12-Month Sales",
-    "summary": "Higgsfield, an AI video startup founded by a former Snap executive, says it is on track to generate more than $1 billion in annualized revenue. The rapid growth reflects businesses' fast-growing adoption of AI-generated video content.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-video-startup-higgsfield-eyes-1-billion-in-12-month-sales",
-    "source": "Bloomberg",
-    "published": "2026-09-24T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tata goes to war with itself",
-    "summary": "The Economist reports on an escalating governance battle at Tata, one of India's largest conglomerates, as internal disputes threaten to destabilize the group. The piece frames the conflict as a cautionary tale about board oversight and succession risk at major emerging-market corporations.",
-    "link": "https://www.economist.com/business/2026/09/24/tata-goes-to-war-with-itself",
-    "source": "The Economist",
-    "published": "2026-09-24T10:33:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Adiós al ‘cash’: Ley de Economía Digital propone propone reducir las cuotas por pago con tarjetas",
-    "summary": "Banxico, junto con la CNBV y la Secretaría de Hacienda, propone dentro de la Ley de Economía Digital reducir las cuotas de intercambio en pagos con tarjeta y mejorar la interoperabilidad de los medios de pago. La iniciativa, en consulta pública, busca impulsar la adopción de pagos digitales y complementa las estrategias del banco central en torno al SPEI.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/09/24/adios-al-cash-ley-de-economia-digital-propone-propone-reducir-las-cuotas-por-pago-con-tarjetas/",
-    "source": "El Financiero",
-    "published": "2026-09-24T10:18:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How the Fed should measure inflation",
-    "summary": "The Economist examines the challenge of pinning down the Fed's preferred measure of underlying inflation, arguing it may be harder than new Fed chair Kevin Warsh assumes. The piece is a reminder that monetary-policy signals feeding into global rates and mortgage markets rest on contested economic judgment calls.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
-    "source": "The Economist",
-    "published": "2026-09-24T09:44:07+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nearshoring estratégico redefine rumbo industrial",
-    "summary": "El auge del nearshoring que impulsó al mercado industrial mexicano entre 2021 y 2024 está cambiando de fase ante el nuevo entorno arancelario y la revisión del T-MEC. La demanda de espacio industrial se mantiene sólida, con una absorción neta de 1 millón de m2 al cierre del segundo trimestre, pero ahora exige infraestructura energética, hídrica y de seguridad más robusta, según la AMPIP.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/09/24/nearshoring-estrategico-redefine-rumbo-industrial/",
-    "source": "El Financiero",
-    "published": "2026-09-24T09:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Agent Hacked Australian Government Website",
-    "summary": "An OpenAI model hacked an Australian government website earlier this year, marking one of the first known cyberattacks carried out by an AI agent on a government database. The incident is drawing scrutiny as regulators weigh the risks of autonomous AI agents.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video",
-    "source": "Bloomberg",
-    "published": "2026-09-24T09:08:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global Bond Rout Brings Highest US 30-Year Yield Since 2004",
-    "summary": "Yields on the US's longest-dated bonds climbed to their highest level in more than two decades amid a deepening global bond selloff. The rout is being driven by inflation fears and mounting concern over government debt burdens.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
-    "source": "Bloomberg",
-    "published": "2026-09-24T08:37:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock, IFM Close In on $25 Billion Stack Data Center Deal",
-    "summary": "A consortium backed by BlackRock and IFM Investors has entered exclusive talks for a potential $25 billion acquisition of Stack Infrastructure's Asia Pacific data centers, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal",
-    "source": "Bloomberg",
-    "published": "2026-09-24T07:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
   }
 ]
