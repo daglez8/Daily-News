@@ -1,5 +1,148 @@
 [
   {
+    "title": "Anthropic Expands Access to Latest AI Models for Cyber Firms",
+    "summary": "Anthropic is widening access to its most advanced AI models for a select group of cybersecurity organizations. They will test the models' cyber capabilities in collaboration with the US government.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-06/anthropic-expands-access-to-latest-ai-models-for-cyber-firms",
+    "source": "Bloomberg",
+    "published": "2026-10-06T18:58:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Billions Pour Into OpenAI, DeepSeek Ahead of IPOs",
+    "summary": "OpenAI is in talks with multiple investors to raise at least $30 billion at a valuation of about $1.4 trillion, while DeepSeek is close to securing at least $12 billion ahead of its own IPO next year.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/bloomberg-tech-10-6-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T18:55:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says",
+    "summary": "The deeply distressed tail of the US leveraged loan market has reached its highest level since the pandemic, according to JPMorgan, with technology the biggest sector under pressure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
+    "source": "Bloomberg",
+    "published": "2026-10-06T18:10:49+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI, Anthropic Lead Consumer AI Spending: A16z",
+    "summary": "A16z's Olivia Moore says consumer AI adoption is growing but fewer than 5% of consumers pay for any AI product. OpenAI and Anthropic dominate spending, with some power users paying up to $1,000 a month.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/openai-anthropic-lead-consumer-ai-spending-a16z-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T17:42:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic, OpenAI Can Both Win AI Race: T. Rowe Price",
+    "summary": "T. Rowe Price's Emma Norchet says Anthropic is entering an 'act two', moving beyond coding to become an AI layer where businesses execute entire workflows. The firm holds multi-billion-dollar positions in both Anthropic and OpenAI and sees room for both to win.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/anthropic-openai-can-both-win-ai-race-t-rowe-price-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T17:18:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bender: AI’s ‘Existential’ Risk Is ‘Fake’",
+    "summary": "University of Washington professor Emily Bender argues the AI safety debate is too focused on hypothetical existential threats. She says it overlooks present harms such as environmental costs, worker disruption, surveillance and misinformation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/bender-ai-s-existential-risk-is-fake-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T17:11:58+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jamie Dimon Warns on AI's Growing Cyber Threat",
+    "summary": "JPMorgan CEO Jamie Dimon warns about AI's growing cyber threat in an exclusive interview, alongside comments on rising debt and dealmaking. Ray Dalio is also sounding the alarm on bonds.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/open-interest-10-6-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T16:46:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México crecerá por debajo del promedio de América Latina en 2026, dice el Banco Mundial",
+    "summary": "The World Bank expects Mexico to grow below the Latin American average in 2026, with El Salvador and Paraguay among the faster-growing economies.",
+    "link": "https://expansion.mx/economia/2026/10/06/el-salvador-paraguay-creceran-mas-mexico-2026-banco-mundial",
+    "source": "Expansión",
+    "published": "2026-10-06T16:29:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El peso mexicano se recupera y regresa a 17.95 por dólar; petróleo y bonos dan un respiro",
+    "summary": "El peso mexicano se recupera y regresa a 17.95 por dólar, con respiro por la caída del petróleo y los bonos, según Expansión.",
+    "link": "https://expansion.mx/mercados/2026/10/06/peso-mexicano-baja-17-95-dolar-06-octubre-2026",
+    "source": "Expansión",
+    "published": "2026-10-06T16:03:53+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI to See Massive Adoption 'Unseen' in Previous Tech Cycles, Says Neostellar Principal",
+    "summary": "Bloomberg Intelligence says the US lead over China in AI performance has narrowed to a record low as labs such as DeepSeek gain ground. Neostellar's Willy Lee gives a VC view on AI adoption.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/ai-to-see-adoption-unseen-in-previous-cycles-says-lee-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T14:42:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan's Dimon Weighs In on AI Boom, Bond Selloff and UK Banks",
+    "summary": "Jamie Dimon discusses the issues behind financing the AI boom, the global bond selloff and the state of UK banks at JPMorgan's Tech Stars Conference in London.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-06/dimon-weighs-in-on-ai-boom-bond-selloff-and-uk-banks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-06T14:02:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The bond market turns on France",
+    "summary": "France is being hit by a pre-election debt sell-off in the bond market, and many fear it could shake the Eurozone.",
+    "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-06T14:00:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banco Mundial: América Latina reduce ritmo de crecimiento a 2.2% en 2026",
+    "summary": "The World Bank projects Latin America and the Caribbean will slow to 2.2% growth in 2026 from 2.4% last year. El Salvador, Paraguay and Argentina lead the region.",
+    "link": "https://www.eleconomista.com.mx/economia/banco-mundial-america-latina-reduce-ritmo-crecimiento-2-2-20261006-837162.html",
+    "source": "El Economista",
+    "published": "2026-10-06T12:35:48-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Uber to Buy EzCater for $2.3 Billion in Enterprise Delivery Push",
     "summary": "Uber comprará ezCater por 2,300 millones de dólares en efectivo para que Uber Eats llegue a clientes corporativos.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-06/uber-to-buy-catering-platform-ezcater-for-2-3-billion-in-cash",
@@ -42,6 +185,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Alto costo del espectro condiciona todavía el despliegue de redes en México: Daniel Hajj",
+    "summary": "El costo del espectro en México sigue por encima del promedio latinoamericano y condiciona el despliegue de redes, advirtió Daniel Hajj, director general de América Móvil, en el México Digital Summit.",
+    "link": "https://www.eleconomista.com.mx/empresas/alto-costo-espectro-condiciona-todavia-despliegue-redes-mexico-daniel-hajj-20261006-837147.html",
+    "source": "El Economista",
+    "published": "2026-10-06T11:07:55-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users",
@@ -5344,159 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Wall Street cierra al alza mientras el petróleo cae y los bonos mantienen la presión",
-    "summary": "Wall Street cerró al alza impulsado por acciones tecnológicas, después de que la caída del petróleo aliviara parte de la presión sobre los mercados de bonos durante la semana. Las expectativas de avances diplomáticos entre Estados Unidos e Irán favorecieron la recuperación bursátil.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-abre-al-alza-mientras-el-petroleo-cede-y-los-bonos-del-tesoro-se-estabilizan/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-25T20:02:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las claves económicas de la semana (21 al 25 de septiembre): De IGAE y el anuncio de Banxico",
-    "summary": "El resumen semanal repasa los datos económicos clave de México, entre ellos la decisión de política monetaria de Banxico y el IGAE de julio publicado por el Inegi. También destaca que la actividad empresarial en EU alcanzó un máximo de más de cinco años mientras la confianza del consumidor tocó un mínimo de cuatro meses.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-21-25-septiembre-igae-anuncio-banxico-20260925-835435.html",
-    "source": "El Economista",
-    "published": "2026-09-25T19:42:49-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mes del Testamento: Afore XXI Banorte llama a trabajadores a revisar su patrimonio heredable",
-    "summary": "En el marco del Mes del Testamento, Afore XXI Banorte llamó a los trabajadores con Ahorro Voluntario a revisar y actualizar a sus beneficiarios legales y designados en su Cuenta Individual, para asegurar que su patrimonio heredable quede correctamente definido.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/09/25/mes-del-testamento-afore-xxi-banorte-llama-a-trabajadores-a-revisar-su-patrimonio-heredable/",
-    "source": "El Financiero",
-    "published": "2026-09-25T18:46:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI reconoce que sus herramientas publicaron por error imágenes de usuarios de ChatGPT",
-    "summary": "OpenAI reconoció que sus herramientas de IA publicaron por error en internet 53 imágenes enviadas por usuarios a ChatGPT, un incidente que esta vez involucra datos de sus propios usuarios. La compañía dijo que la mayoría de los enlaces no indexados ya fueron retirados con ayuda de los proveedores de alojamiento, y que la limpieza del resto está en curso.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/openai-reconoce-herramientas-publicaron-error-imagenes-usuarios-chatgpt-20260925-835428.html",
-    "source": "El Economista",
-    "published": "2026-09-25T18:45:35-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Punta Pájaros: cuando habitar también significa regenerar",
-    "summary": "En la costa de Puerto Escondido, Oaxaca, el hotel boutique Punta Pájaros —diseñado por el arquitecto Alberto Kalach sobre 2.5 hectáreas con villas elevadas— propone un modelo turístico que busca regenerar el ecosistema local en lugar de solo minimizar su impacto. Es un ejemplo del desarrollo turístico-inmobiliario de alto nivel que gana terreno en las costas mexicanas.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/09/25/punta-pajaros-cuando-habitar-tambien-significa-regenerar/",
-    "source": "El Financiero",
-    "published": "2026-09-25T18:26:47+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sindicato exige decreto ante crisis habitacional",
-    "summary": "Un sindicato exigió al gobierno un decreto para atender la crisis habitacional en México, según El Economista, en medio de la creciente presión sobre el acceso a vivienda asequible en el país.",
-    "link": "https://www.eleconomista.com.mx/videos/sindicato-exige-decreto-crisis-habitacional-20260925-835421.html",
-    "source": "El Economista",
-    "published": "2026-09-25T18:08:20-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Accel Sees AI Opportunity Shifting to Applications",
-    "summary": "Accel partner Matt Weigand says the AI investment opportunity is shifting from infrastructure toward applications, calling the current boom the biggest tech cycle Silicon Valley has seen. He also discussed why open-source AI can grow alongside frontier labs like Anthropic and OpenAI, and why trust and safety are becoming key differentiators.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
-    "source": "Bloomberg",
-    "published": "2026-09-25T18:05:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
-    "summary": "Anthropic signed an $11.6 billion compute deal with Akamai — the largest contract in Akamai's history — to secure AI computing power. Separately, Microsoft is stepping back from building a standalone personal chatbot, instead merging its consumer and workplace Copilot assistants into one.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-09-25T18:04:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fitch ratifica el fortalecimiento del perfil crediticio de Pemex",
-    "summary": "Fitch Ratings ratificó las calificaciones internacionales de largo plazo de Pemex en \"BB+\" y su calificación nacional en \"AA(mex)\", ambas con perspectiva estable, tras haber elevado la nota internacional de \"B+\" a \"BB\" en agosto de 2025. La agencia reconoce avances en el fortalecimiento financiero y operativo de la petrolera estatal.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/09/25/fitch-ratifica-el-fortalecimiento-del-perfil-crediticio-de-pemex/",
-    "source": "El Financiero",
-    "published": "2026-09-25T18:02:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma de la Carta Orgánica: qué cambios introdujo el Senado y deberán aprobarse en Diputados",
-    "summary": "El Senado argentino aprobó con cambios la reforma de la Carta Orgánica del Banco Central, modificando el mecanismo para designar y remover a sus autoridades, por lo que el proyecto deberá regresar a Diputados para su aprobación final. La votación reflejó tensiones políticas sobre la gobernanza de la autoridad monetaria.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/reforma-de-la-carta-organica-que-cambios-introdujo-el-senado-y-deberan-aprobarse-en-diputados/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-25T17:52:27+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Justice Department Closes Investigation of CrowdStrike Deals",
-    "summary": "US federal prosecutors have closed an investigation into deals CrowdStrike made with a distributor without taking further action, according to people familiar with the matter, removing a regulatory overhang for the cybersecurity firm.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/us-justice-department-closes-investigation-of-crowdstrike-deals",
-    "source": "Bloomberg",
-    "published": "2026-09-25T17:15:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bonos argentinos no detienen su caída y el riesgo país se dispara al nivel más alto en seis meses",
-    "summary": "El riesgo país de Argentina superó los 600 puntos básicos, su nivel más alto en seis meses, en medio de una nueva jornada negativa para la deuda argentina. Bloomberg Línea detalla la escalada en los rendimientos exigidos por los inversionistas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bonos-argentinos-no-detienen-su-caida-y-el-riesgo-pais-se-dispara-al-nivel-mas-alto-en-seis-meses/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-25T17:09:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SK Hynix's Solidigm Is Said to Weigh US IPO as Soon as 2027",
-    "summary": "SK Hynix's memory-chip unit Solidigm is considering a US initial public offering as soon as next year, according to people familiar with the matter, as chipmakers tied to the AI buildout weigh tapping public markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027",
-    "source": "Bloomberg",
-    "published": "2026-09-25T17:05:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Residência em Campos do Jordão / Gil Mello Arquitetura",
-    "summary": "A full renovation in the Brazilian mountain town of Campos do Jordão reused the existing perimeter walls, foundations and slabs to optimize resources and execution time. The project reflects a resource-efficient approach to high-end residential renovation in a mountain setting.",
-    "link": "https://www.archdaily.com/1185725/residencia-em-campos-do-jordao-gil-mello-arquitetura",
-    "source": "ArchDaily",
-    "published": "2026-09-25T17:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
   }
 ]
