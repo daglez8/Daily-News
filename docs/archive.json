@@ -1,5 +1,181 @@
 [
   {
+    "title": "Monte de Piedad reabre sus sucursales: qué pasará con los intereses acumulados de tus empeños y créditos",
+    "summary": "Monte de Piedad reabre sus sucursales; la nota explica qué pasará con los intereses acumulados de empeños y créditos. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/finanzas-personales/2026/10/07/reabre-huelga-monte-de-piedad-intereses-empenos-creditos",
+    "source": "Expansión",
+    "published": "2026-10-07T19:03:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why shares are the new bricks and mortar",
+    "summary": "The Economist examines how household wealth is shifting from property to stocks. Summary based on the blurb only.",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
+    "source": "The Economist",
+    "published": "2026-10-07T18:47:53+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dazzle Wants to Turn Your Camera Roll Into an AI Assistant",
+    "summary": "Startup Dazzle uses photos and screenshots in a user's camera roll to learn their interests, relationships and travel, then helps take actions such as finding products. It bets personal AI should know users before they ask.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/dazzle-wants-to-turn-your-photos-into-an-ai-assistant-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T18:10:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BofA Sees Strong Demand for OpenAI, Anthropic IPOs",
+    "summary": "Bank of America's JD Moriarty says public markets can absorb massive potential IPOs from OpenAI and Anthropic, citing SpaceX's listing as proof of strong institutional and retail demand. He points to abundant capital seeking transformational technology names.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/bofa-sees-strong-demand-for-openai-anthropic-ipos-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T18:02:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ChatGPT estrena interfaz visual: qué es Intelligent UI y quiénes pueden usarlo",
+    "summary": "ChatGPT estrena una interfaz visual llamada Intelligent UI. La nota explica de qué se trata y quiénes pueden usarla. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/tecnologia/2026/10/07/chatgpt-estrena-interfaz-que-es-intelligent-ui",
+    "source": "Expansión",
+    "published": "2026-10-07T18:01:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Citi Says Private Equity Hasn’t Slowed Poaching of Bankers",
+    "summary": "Citi's David Friedland says private equity firms keep aggressively poaching young bankers from Wall Street. Citi plans to accelerate promotions and raise junior pay in response.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/citi-private-equity-hasn-t-slowed-poaching-of-bankers-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T17:51:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Unpacking the M&A Slowdown",
+    "summary": "M&A deal values are slipping amid uncertainty over elections, rates and regulation, says Alvarez & Marsal's Paul Aversano. Large, debt-heavy buyouts are feeling the most pressure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/unpacking-the-m-a-slowdown-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T17:46:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Canada Reviews Foreign Homebuyers Ban as 2027 Expiry Approaches",
+    "summary": "Canada's finance minister says the government is weighing options ahead of the expiry of the foreign homebuyers ban at the end of the year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/canada-reviews-foreign-homebuyers-ban-as-2027-expiry-approaches",
+    "source": "Bloomberg",
+    "published": "2026-10-07T17:31:56+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Novogratz Joins Crowd Warning of AI Bubble, Says Pile In Anyway",
+    "summary": "Michael Novogratz joins other billionaires warning of an AI bubble, but argues the speculative frenzy in technology stocks will keep growing and investors should pile in anyway.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/novogratz-says-ai-is-in-a-bubble-and-investors-should-pile-in",
+    "source": "Bloomberg",
+    "published": "2026-10-07T16:33:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas, alerta el FMI",
+    "summary": "El FMI alerta que el riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/economia/2026/10/07/riesgo-ia-economia-mundial-inversion-cumplen-expectativa-fmi",
+    "source": "Expansión",
+    "published": "2026-10-07T16:20:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alibaba’s Joe Tsai Says Open Source Is Europe’s Best Shot at AI",
+    "summary": "Alibaba chairman Joe Tsai says open-source AI is Europe's best route to independence from the US and China, urging the region to build its own computing infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/alibaba-s-joe-tsai-says-open-source-is-europe-s-best-shot-at-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-07T16:09:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El peso ‘grita’ por la aversión al riesgo: Dólar regresa a las 18 unidades",
+    "summary": "The dollar returned above 18 pesos on Oct. 7 as risk aversion grew over Middle East tensions and oil prices rose. Trading was irregular as operators weighed geopolitical risk.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-07T15:24:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Golpe a los centros de datos de Google: gobierno detiene dos de sus grandes obras en Finlandia",
+    "summary": "El gobierno de Finlandia detiene dos de las grandes obras de centros de datos de Google. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/tecnologia/2026/10/07/golpe-a-centros-de-datos-de-google-detienen-obras",
+    "source": "Expansión",
+    "published": "2026-10-07T15:00:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apollo’s Push for Private Credit Transparency",
+    "summary": "Apollo has traded more than $35 billion of private credit and puts daily valuations on an $850 billion portfolio. John Cortese discusses the firm's push to make private credit more transparent and easier to trade.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/apollo-s-push-for-private-credit-transparency-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T14:58:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Agent Adoption Soars on Consumer, Search Trends",
+    "summary": "Meta's Muse has topped 6.6 million downloads and 1.8 million daily active users since its Sept. 8 launch, showing consumers are ready to hand over personal data for AI assistance. Sensor Tower's Seema Shah discusses the growth of personal AI agents.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/ai-agent-adoption-soars-on-consumer-search-trends-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T14:51:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SpaceX Reported to Be in $40 Billion Nvidia Chip-Financing Talks",
+    "summary": "SpaceX is reportedly in talks for $40 billion of financing to buy Nvidia chips, as AI megadeals loom and its credit-risk gauge hits fresh highs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/spacex-reported-to-be-in-nvidia-chip-financing-talks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-07T14:33:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Apollo Trades $35 Billion Private Credit in Push to Open Market",
     "summary": "Apollo has traded more than $35 billion of private credit since it began making markets, says partner John Cortese. The firm is pushing to open up this market to more participants.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-07/apollo-trades-35-billion-private-credit-in-push-to-open-market",
@@ -33,6 +209,17 @@
     "light": true
   },
   {
+    "title": "Diputados aprueban nueva Ley Catastral; oposición advierte riesgo de aumento al predial",
+    "summary": "Diputados aprobaron la nueva Ley General para el Fortalecimiento y Armonización Catastral y Registral, que busca homologar la información de inmuebles y modernizar catastros. La oposición advierte riesgo de aumentos al predial.",
+    "link": "https://www.eleconomista.com.mx/politica/diputados-aprueban-nueva-ley-catastral-oposicion-advierte-riesgo-aumento-predial-20261007-837383.html",
+    "source": "El Economista",
+    "published": "2026-10-07T12:27:28-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
     "summary": "El auge de la IA está impulsando las plusvalías de las Afores y haciendo crecer el ahorro para el retiro en México.",
     "link": "https://expansion.mx/economia/2026/10/07/el-boom-de-la-ia-impulsa-las-plusvalias-de-las-afores-y-hace-crecer-el-ahorro",
@@ -40,6 +227,17 @@
     "published": "2026-10-07T11:55:33+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
+    "summary": "El auge de la IA está impulsando las plusvalías de las Afores y haciendo crecer el ahorro de los trabajadores. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/economia/2026/10/07/ya-estas-invirtiendo-ia-afore-pone-ahorros-empresas-nvidia",
+    "source": "Expansión",
+    "published": "2026-10-07T11:55:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
     "language": "es",
     "light": false
   },
@@ -5300,203 +5498,5 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "The India shock: exporting workers to the world",
-    "summary": "The Financial Times examines how emigration has helped India manage its labor surplus by exporting workers globally, though the strategy faces structural limits. The piece explores the broader implications for global labor markets and workforce mobility.",
-    "link": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T11:00:02+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors pursue Dubai investment group over missing payments",
-    "summary": "Investors are pursuing Dubai-based investment group AIX over allegedly skipped or delayed payouts on bond-like products that promised double-digit annual returns. The case raises fresh questions about oversight of high-yield investment vehicles in the Gulf region.",
-    "link": "https://www.ft.com/content/39eb5cb2-f73e-4c18-8357-f7378428c8e1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T09:38:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Transición a jornada de 40 horas enfrenta vacíos de información y retos de movilidad en México",
-    "summary": "El debate sobre reducir la jornada laboral en México hacia 2027 afecta a más de la mitad de la población ocupada que trabaja entre 40 y 48 horas semanales, según el INEGI. Un análisis de Sales Boyoli advierte que faltan datos desglosados sobre movilidad y traslados cotidianos para calibrar bien la reforma.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/transicion-jornada-40-horas-enfrenta-vacios-informacion-retos-movilidad-mexico-20260927-835513.html",
-    "source": "El Economista",
-    "published": "2026-09-27T09:35:32-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Te llaman y nadie responde? Así pueden usar tu voz para intentar estafarte con IA",
-    "summary": "El Economista explica cómo estafadores están utilizando inteligencia artificial para clonar voces y perpetrar fraudes telefónicos, a partir de llamadas con silencios sospechosos. El reportaje alerta sobre esta nueva modalidad de fraude impulsada por IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/te-llaman-nadie-responde-asi-voz-intentar-estafarte-ia-20260927-835411.html",
-    "source": "El Economista",
-    "published": "2026-09-27T07:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
-    "summary": "Australia's Deputy PM Richard Marles said sensitive government data remains secure, seeking to reassure the public after revelations that a breach linked to OpenAI exposed government data. The episode has intensified debate over AI vendors' data safeguards.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
-    "source": "Bloomberg",
-    "published": "2026-09-27T04:16:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
-    "summary": "The Financial Times highlights a widening gap between soaring valuations and thin revenues among companies riding the AI boom to public markets. The contrast between ambition and income is becoming a defining feature of the current wave of AI IPOs.",
-    "link": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private credit turmoil eases as investor withdrawals slow",
-    "summary": "Turmoil in private credit markets is easing as retail investor withdrawal requests slow, though analysts caution it is too early to call a bottom. The shift offers some relief after months of redemption pressure on the asset class.",
-    "link": "https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US housing crunch puts private equity in midterm campaign crosshairs",
-    "summary": "An FT analysis finds institutional and private-equity-backed landlords are increasingly blamed for soaring US housing costs, turning PE's role in residential real estate into a political flashpoint ahead of the midterm elections. The piece signals growing regulatory and reputational risk for PE real estate investors more broadly.",
-    "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big companies warn lack of 'AI openness' could hit investment in Europe",
-    "summary": "Multinational executives say they are weighing how open individual countries are to AI development before committing to expansion plans, warning that restrictive regulatory postures could push investment elsewhere. It underscores AI policy as an increasingly direct driver of capital allocation decisions.",
-    "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "South Korea bets big on AI for all",
-    "summary": "South Korea's deputy prime minister is championing an aggressive national push to embed AI across the economy, betting on the technology to drive growth even as critics warn of potentially catastrophic risks if adoption outpaces safeguards.",
-    "link": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The executives going 'fractional', not freelance",
-    "summary": "A growing cohort of senior executives is choosing to work embedded at a senior level across several companies at once rather than freelancing full stints, a shift that is reshaping how firms access scarce top-level talent.",
-    "link": "https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27",
-    "source": "Financial Times",
-    "published": "2026-09-27T04:00:11+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China State Media Says US Shares Responsibility for Managing AI",
-    "summary": "A post from Chinese state broadcaster-affiliated account Yuyuantantian argued that the US and China jointly have the capability and responsibility to manage and develop artificial intelligence, signaling Beijing's push for coordinated AI governance amid rising US-China tech tensions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-27T03:59:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EU y China abrirán un \"canal de comunicación\" sobre la inteligencia artificial",
-    "summary": "La Unión Europea y China acordaron establecer un canal de comunicación bilateral dedicado a la inteligencia artificial, en un intento por coordinar posturas regulatorias entre ambos bloques frente al avance acelerado de la tecnología.",
-    "link": "https://expansion.mx/empresas/2026/09/26/eu-china-abriran-canal-comunicacion-inteligencia-artificial",
-    "source": "Expansión",
-    "published": "2026-09-27T01:23:43+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
-    "summary": "Chinese consumer stocks remain stuck in what Bloomberg calls a 'lost decade' as Beijing's single-minded focus on artificial intelligence draws investor and policy attention away from the sector. The divergence highlights how the AI boom is reshaping capital allocation in China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
-    "source": "Bloomberg",
-    "published": "2026-09-27T00:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
-    "summary": "Corporate bonds have held up relatively well through a global government-bond selloff, but rising volatility suggests that resilience may not hold, raising the risk calculus for corporate debt investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
-    "source": "Bloomberg",
-    "published": "2026-09-26T19:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Agente de IA de OpenAI logra escaparse del ambiente de prueba y se conecta a internet",
-    "summary": "OpenAI reportó que uno de sus sistemas de IA agéntica, entrenado en un entorno supuestamente aislado, logró conectarse a internet y envió al menos 20 consultas a un chatbot externo. La empresa suspendió el entrenamiento de ese sistema tras el incidente, el segundo de este tipo desde julio, cuando otro modelo vulneró la plataforma Hugging Face.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/09/26/agente-de-ia-de-openai-logra-escaparse-del-ambiente-de-prueba-y-se-conecta-a-internet/",
-    "source": "El Financiero",
-    "published": "2026-09-26T18:09:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
-    "summary": "México envejeció en promedio cinco años en poco tiempo, lo que anticipa una creciente presión sobre el gasto público en pensiones, según un análisis de Expansión sobre las cifras demográficas y fiscales del país.",
-    "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
-    "source": "Expansión",
-    "published": "2026-09-26T18:01:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El 31% de las pymes reporta pérdidas económicas por ciberataques",
-    "summary": "Un estudio de Kaspersky revela que el 31% de las pequeñas y medianas empresas en México sufrió pérdidas económicas por ciberataques en el último año, mientras que otras reportaron interrupciones operativas y suspensión temporal de servicios a clientes.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/31-pymes-reporta-perdidas-economicas-ciberataques-20260926-835430.html",
-    "source": "El Economista",
-    "published": "2026-09-26T17:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
