@@ -1,5 +1,104 @@
 [
   {
+    "title": "Fidelity: Tokenized Markets Need to Put Assets to Work",
+    "summary": "Emma Pecenicic, de Fidelity International, dice que el siguiente capítulo de la tokenización es poner los activos a trabajar, no solo llevarlos a la cadena de bloques.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/fidelity-tokenized-markets-need-to-put-assets-to-work-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T06:47:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+    "summary": "Un estratega de un banco de inversión londinense advierte que el trade de IA podría terminar pronto y desatar la peor caída del S&P 500 desde la crisis financiera de 2008.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-bubble-risks-worst-s-p-500-crash-since-2008-strategist-says",
+    "source": "Bloomberg",
+    "published": "2026-10-08T06:16:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Squeezes Tech Grads at India’s Banking Hubs",
+    "summary": "La IA está transformando la fuerza laboral de TI de India, con seis millones de personas, frenando la contratación de nivel inicial en los centros globales de capacidades. La demanda se desplaza hacia quienes saben desplegar la tecnología y entienden el negocio.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/ai-squeezes-tech-grads-at-india-s-banking-hubs-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T05:15:57+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tikehau: Private Markets Entering a More Selective Phase",
+    "summary": "Mathieu Chabran, cofundador de Tikehau Capital, sostiene que el desempeño futuro del crédito privado y el capital privado dependerá de la disciplina de suscripción, la protección a la baja y la creación de valor operativo.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/tikehau-private-markets-entering-a-more-selective-phase-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T04:54:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman Says Middle Managers at Risk as New Hires Oversee AI",
+    "summary": "Kevin Sneader, de Goldman Sachs, afirma que los nuevos empleados en finanzas supervisarán agentes de IA desde su ingreso. Esto plantea qué pasará con los mandos medios actuales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
+    "source": "Bloomberg",
+    "published": "2026-10-08T04:01:50+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 87,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
+    "summary": "Los negocios de trading de los bancos están en auge, pero la regulación posterior a la crisis implica que ya no son ellos quienes toman las apuestas. El FT analiza el auge del financiamiento a hedge funds.",
+    "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-08T04:00:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value",
+    "summary": "Alphabet's Isomorphic Labs, an AI drug-discovery company, is in early talks to raise funds at a valuation of at least $40 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/alphabet-s-isomorphic-labs-in-funding-talks-for-at-least-40-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-10-08T04:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
+    "summary": "Singapore bank shares extended their selloff after JPMorgan warned that surging long bond yields will hurt third-quarter earnings for Southeast Asian lenders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
+    "source": "Bloomberg",
+    "published": "2026-10-08T02:03:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Financiera Adventus Capital realiza la primera emisión simplificada de deuda en la Bolsa Mexicana",
+    "summary": "Adventus Capital, una sofom no bancaria, se convirtió en la primera emisora simplificada de la BMV al colocar MXN$560 millones de deuda. La emisión es una bursatilización de derechos de cobro de un crédito al estado de Michoacán, respaldado por participaciones federales.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/financiera-adventus-capital-realiza-la-primera-emision-simplificada-de-deuda-en-la-bolsa-mexicana/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-07T21:33:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Monte de Piedad reabre sus sucursales: qué pasará con los intereses acumulados de tus empeños y créditos",
     "summary": "Monte de Piedad reabre sus sucursales; la nota explica qué pasará con los intereses acumulados de empeños y créditos. Resumen basado solo en el titular.",
     "link": "https://expansion.mx/finanzas-personales/2026/10/07/reabre-huelga-monte-de-piedad-intereses-empenos-creditos",
@@ -513,6 +612,17 @@
     "published": "2026-10-07T01:18:55+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Diputados aprueban Ley de Economía Digital para reducir el uso de efectivo en México",
+    "summary": "La Cámara de Diputados aprobó la Ley de Economía Digital para Pagos Digitales y Electrónicos, impulsada por Sheinbaum, con 330 votos a favor y 122 en contra. Busca incentivar los pagos digitales en una economía donde predomina el efectivo.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-economia-digital-para-reducir-el-uso-de-efectivo-en-mexico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-07T00:26:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
     "language": "es",
     "light": false
   },
@@ -5386,116 +5496,6 @@
     "published": "2026-09-27T23:27:32+00:00",
     "category": "AI & Agents",
     "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
-    "summary": "Anthropic CEO Dario Amodei is set to have dinner with President Trump on Sunday, bringing together two prominent but opposing voices in the AI safety debate. The meeting comes amid rising concern in Washington over AI safety oversight and regulation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
-    "source": "Bloomberg",
-    "published": "2026-09-27T18:48:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Corporate America embraces cheaper 'open' AI models",
-    "summary": "US companies well beyond Silicon Valley are increasingly adopting cheaper, open-source Chinese AI models as alternatives to OpenAI and Anthropic's proprietary systems. The trend signals growing enterprise price sensitivity and could reshape competitive dynamics in the AI model market.",
-    "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-27T17:00:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Safety Concerns Put Congress on the Spot",
-    "summary": "Rep. Don Beyer, co-chair of the Congressional AI Caucus, told Bloomberg that recent AI incidents have raised the urgency for federal safeguards, including mandatory safety testing and incident reporting for advanced models. He argued Congress should establish binding oversight rather than rely on voluntary industry commitments.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-27/ai-safety-concerns-put-congress-on-the-spot-video",
-    "source": "Bloomberg",
-    "published": "2026-09-27T14:11:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflation Keeps Pressure on the Fed",
-    "summary": "Economist Neil Dutta told Bloomberg that a stabilized US labor market alongside persistent inflation could force the Federal Reserve to raise rates faster than markets currently expect. He warned that rising food and energy costs risk pushing inflation expectations higher.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-27/inflation-keeps-pressure-on-the-fed-video",
-    "source": "Bloomberg",
-    "published": "2026-09-27T13:43:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Data Center Boom Faces Wall Street Skepticism",
-    "summary": "Wall Street is growing more skeptical of the AI data center boom as rising interest rates, local opposition and permitting delays add cost and uncertainty to projects, a New York Times reporter told Bloomberg. Financing the buildout may increasingly require tapping public markets even as investor caution grows.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video",
-    "source": "Bloomberg",
-    "published": "2026-09-27T13:14:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
-    "summary": "Stock market sentiment is swinging sharply between fear and euphoria over artificial intelligence, with investors alternating between existential worry and enthusiasm over AI-driven cost savings. The volatility underscores how central AI has become to equity market narratives.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
-    "source": "Bloomberg",
-    "published": "2026-09-27T13:00:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trabajo con prestaciones en México se ha reducido en 370,000 plazas en lo que va del 2026",
-    "summary": "El empleo subordinado con prestaciones en México se ha reducido en 370,159 plazas en lo que va de 2026, según la Encuesta Nacional de Ocupación y Empleo. Aunque agosto registró un repunte, el acumulado anual no ha logrado crecer, reflejando fragilidad en la creación de empleo formal.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/trabajo-prestaciones-mexico-reducido-370-000-plazas-20260927-835427.html",
-    "source": "El Economista",
-    "published": "2026-09-27T13:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-    "summary": "Bill Gates said US government safeguards against AI risks would not hinder the country's competitiveness with China, pushing back on the Trump administration's largely hands-off regulatory approach. His comments add a prominent tech voice to the growing debate over federal AI oversight.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
-    "source": "Bloomberg",
-    "published": "2026-09-27T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
-    "summary": "Emerging-market investors, from Aegon to JPMorgan Asset Management, are pulling back from their riskiest bond bets as a deepening selloff in global credit markets pushes US yields higher. The retreat signals growing caution toward EM credit risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar",
-    "source": "Bloomberg",
-    "published": "2026-09-27T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
-    "summary": "Australia's Senate has summoned the CEOs of OpenAI and Anthropic to testify before an inquiry into AI oversight, following recent security revelations involving an AI vendor. The hearing adds to growing global scrutiny of how leading AI labs manage risk and safety.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
-    "source": "Bloomberg",
-    "published": "2026-09-27T11:17:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
     "language": "en",
     "light": true
   }
