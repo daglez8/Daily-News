@@ -1,5 +1,170 @@
 [
   {
+    "title": "Citrini Says Agentic Finance Fosters ‘New Paradigm’ for Crypto Investing",
+    "summary": "Citrini Research sostiene que llegó la era de la 'inversión cripto fundamental' porque las finanzas con agentes de IA se construirán sobre blockchains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/citrini-says-agentic-finance-fosters-new-paradigm-for-crypto-investing",
+    "source": "Bloomberg",
+    "published": "2026-10-08T18:57:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed’s Musalem Signals Rates Should Rise Next Six-to-Nine Months",
+    "summary": "Alberto Musalem, de la Fed de St. Louis, dijo que las tasas tendrán que subir en los próximos seis a nueve meses para bajar la inflación a tiempo, sin respaldar un alza en la reunión de octubre.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/fed-s-musalem-signals-rates-should-rise-next-6-9-months-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T18:47:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Cisma’ en el Banxico por bajar o no la tasa de interés: ‘Debemos estar abiertos a la discusión’",
+    "summary": "La Junta de Gobierno del Banxico está dividida sobre la tasa de interés, con dos miembros a favor de un recorte. El debate ocurre mientras la Fed se perfila para subir tasas, lo que reduciría el diferencial.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/08/cisma-en-el-banxico-por-bajar-o-no-la-tasa-de-interes-debemos-estar-abiertos-a-la-discusion/",
+    "source": "El Financiero",
+    "published": "2026-10-08T18:20:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
+    "summary": "Gestoras de crédito privado que buscan deshacerse de fondos golpeados atraen el interés de rivales que ven oportunidades baratas. Ocurre en uno de los periodos más turbulentos para este mercado de 1.8 billones de dólares.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
+    "source": "Bloomberg",
+    "published": "2026-10-08T18:19:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Union Square Ventures Doubles Fund Size for the AI Era",
+    "summary": "Union Square Ventures casi duplica su fondo principal con 900 millones de dólares nuevos, 500 millones para su fondo de etapa temprana, para competir en la era de la IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/union-square-ventures-doubles-fund-size-for-the-ai-era-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T17:57:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Los pájaros’ acechan al peso: Dólar ‘vuela’ a 18.16 unidades afectado por minutas del Banxico",
+    "summary": "El peso regresa a niveles de 18 por dólar por la volatilidad del crudo y el alza en los rendimientos de bonos estadounidenses. Nuevos ataques de Irán contra petroleros impulsaron el precio del petróleo.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-08T17:41:52+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia-Backed Firmus Is Set to Postpone IPO, Weigh Private Round",
+    "summary": "Firmus Grid, empresa australiana de centros de datos, pospondría su IPO y evalúa una ronda privada de financiamiento, según fuentes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round",
+    "source": "Bloomberg",
+    "published": "2026-10-08T17:17:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI’s Revenue Run Rate Nears $50 Billion, Less Than Reported",
+    "summary": "OpenAI va camino a ingresos anualizados de unos 50 mil millones de dólares, por debajo de algunas estimaciones divulgadas. El dato pesó sobre las acciones de chips.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/openai-s-annualized-revenue-nears-50-billion-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-10-08T17:04:26+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "FTC Probes Block After Consumer Complaints Over Frozen Accounts",
+    "summary": "La FTC investiga si Block, matriz de Square y Cash App, violó leyes de protección al consumidor al no atender cuentas congeladas o desactivadas tras recortes de personal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts",
+    "source": "Bloomberg",
+    "published": "2026-10-08T17:00:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Minuta de Banxico revela que tres miembros abren la puerta a un recorte de la tasa de interés",
+    "summary": "La mayoría de los miembros de Banxico abrió la puerta a evaluar un recorte de tasa ante la evolución reciente de la inflación, aunque con el tono restrictivo de la Fed como contexto. Así lo muestra la minuta publicada el 8 de octubre.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-revela-que-tres-miembros-abren-la-puerta-a-un-recorte-de-la-tasa-de-interes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-08T16:23:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
+    "summary": "Arena Intelligence, startup detrás de un popular ranking de modelos de IA, levantó 200 millones de dólares con valuación de 3,100 millones y planea medir también la seguridad de la IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round",
+    "source": "Bloomberg",
+    "published": "2026-10-08T16:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CreditSights' Cisar Sees Cracks in AI Credit Boom",
+    "summary": "Winnie Cisar, de CreditSights, dice que el auge del financiamiento de IA complica el análisis de crédito por retornos inciertos, posible sobreconstrucción de centros de datos y estructuras más complejas.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-08/creditsights-cisar-sees-cracks-in-ai-credit-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-10-08T15:40:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Former OpenAI, Cognition Staffers Want AI to Help Run a Business",
+    "summary": "Un grupo de exempleados de OpenAI, Cognition AI y otras firmas crea Hone, una empresa de agentes de IA para ayudar a operar negocios, en un campo cada vez más concurrido.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business",
+    "source": "Bloomberg",
+    "published": "2026-10-08T15:00:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman to pay top executives $500mn in special bonuses",
+    "summary": "Goldman Sachs prepares to hand out equity awards from a five-year scheme to senior leaders, reportedly around $500mn in special bonuses.",
+    "link": "https://www.ft.com/content/212f15c8-a897-4db0-bacf-d1556a11b9ed?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-08T14:14:31+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Launches Workplace AI Agent That Acts Like Colleague",
+    "summary": "Google anunció un agente Gemini para el entorno laboral, intensificando la competencia con OpenAI, Anthropic y Microsoft por los clientes corporativos.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/google-launches-universal-gemini-ai-agent-for-workplace",
+    "source": "Bloomberg",
+    "published": "2026-10-08T13:25:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Apple Watch Series 12, Ultra 4 New Features Aren't Enough to Beat Oura, Whoop",
     "summary": "Las nuevas funciones de salud del Apple Watch Series 12 y Ultra 4 reducen la brecha, pero quienes se toman en serio el fitness no deberían abandonar aún Oura y Whoop.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-08/apple-watch-series-12-ultra-4-new-features-aren-t-enough-to-beat-oura-whoop",
@@ -7,6 +172,17 @@
     "published": "2026-10-08T13:05:26+00:00",
     "category": "Personal Interest Watchlist",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The rise of the model marketplace",
+    "summary": "Negocios como OpenRouter prosperan mientras las empresas buscan reducir costos de modelos de IA mediante mercados de modelos.",
+    "link": "https://www.economist.com/business/2026/10/08/the-rise-of-the-model-marketplace",
+    "source": "The Economist",
+    "published": "2026-10-08T13:01:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
     "language": "en",
     "light": true
   },
@@ -29,6 +205,28 @@
     "published": "2026-10-08T12:51:47+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Exfuncionario de Michoacán y su familia caen por red que suplantaba con IA a gobernadores y ministros",
+    "summary": "Un exfuncionario de Michoacán y su familia fueron detenidos por una red de extorsión que usaba inteligencia artificial y logotipos oficiales para suplantar a gobernadores y ministros.",
+    "link": "https://www.eleconomista.com.mx/politica/exfuncionario-michoacan-familia-caen-red-suplantaba-ia-gobernadores-ministros-20261008-837612.html",
+    "source": "El Economista",
+    "published": "2026-10-08T12:40:50-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Endeudamiento continuará enfocado en el mercado local para evitar volatilidad: Subsecretaria de Hacienda",
+    "summary": "La subsecretaria de Hacienda, María del Carmen Bonilla, indicó que la estrategia de endeudamiento del próximo año seguirá enfocada en el mercado local para reducir vulnerabilidades y evitar la volatilidad de otras monedas.",
+    "link": "https://www.eleconomista.com.mx/economia/endeudamiento-continuara-enfocado-mercado-local-evitar-volatilidad-subsecretaria-hacienda-20261008-837613.html",
+    "source": "El Economista",
+    "published": "2026-10-08T12:33:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -62,6 +260,28 @@
     "published": "2026-10-08T11:43:44+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "USA Today demanda a OpenAI por infringir sus derechos de autor en el entrenamiento de ChatGPT",
+    "summary": "USA Today y varios periódicos de su propiedad demandaron a OpenAI en Manhattan por usar cientos de miles de artículos para entrenar sus modelos de lenguaje sin autorización.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/today-demanda-openai-infringir-derechos-autor-entrenamiento-chatgpt-20261008-837606.html",
+    "source": "El Economista",
+    "published": "2026-10-08T11:40:44-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump tratará como \"enemigo\" a quien no diga \"superinteligencia\" en vez de IA",
+    "summary": "Donald Trump dijo que tratará como 'enemigo' a quien use 'inteligencia artificial' en lugar de 'superinteligencia', término que la Casa Blanca quiere imponer.",
+    "link": "https://www.eleconomista.com.mx/internacionales/trump-tratara-enemigo-diga-superinteligencia-vez-ia-20261008-837599.html",
+    "source": "El Economista",
+    "published": "2026-10-08T11:23:28-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -110,6 +330,17 @@
     "light": true
   },
   {
+    "title": "Repunta inflación en México a 3.45% en septiembre",
+    "summary": "La inflación anual en México se ubicó en 3.45% en septiembre, por encima del 3.26% de agosto.",
+    "link": "https://www.reforma.com/repunta-inflacion-en-mexico-a-3-45-en-septiembre/ar3290638",
+    "source": "Reforma",
+    "published": "2026-10-08T07:38:10-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Fidelity: Tokenized Markets Need to Put Assets to Work",
     "summary": "Emma Pecenicic, de Fidelity International, dice que el siguiente capítulo de la tokenización es poner los activos a trabajar, no solo llevarlos a la cadena de bloques.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-08/fidelity-tokenized-markets-need-to-put-assets-to-work-video",
@@ -141,6 +372,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Housing as a Human Right and an Exhibition Reassessing Le Corbusier: This Week's Review",
+    "summary": "This week's review notes World Architecture Day's focus on the global housing crisis and housing as a human right, alongside an exhibition reassessing Le Corbusier.",
+    "link": "https://www.archdaily.com/1186539/housing-as-a-human-right-and-an-exhibition-reassessing-le-corbusier-this-weeks-review",
+    "source": "ArchDaily",
+    "published": "2026-10-08T05:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Tikehau: Private Markets Entering a More Selective Phase",
@@ -194,6 +436,17 @@
     "published": "2026-10-08T02:03:35+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China races to build data centres in bid for AI supremacy",
+    "summary": "China construye infraestructura de cómputo a gran velocidad en Mongolia Interior en su carrera por el liderazgo en IA.",
+    "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-08T00:15:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5243,259 +5496,6 @@
     "published": "2026-09-28T16:04:13+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI, Meta Expected to Attend AI Hearing, NYC Council Says",
-    "summary": "Executives from major AI companies, including OpenAI and Meta, are expected to appear before New York City lawmakers next week amid concern over the lack of guardrails around AI. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nyc-council-says-openai-meta-officials-to-attend-ai-hearing",
-    "source": "Bloomberg",
-    "published": "2026-09-28T16:00:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HSBC convierte su alcance global en valor para el patrimonio de sus clientes",
-    "summary": "HSBC destaca su alcance global como valor para el patrimonio de sus clientes, en un artículo sobre su oferta de banca patrimonial en México.",
-    "link": "https://expansion.mx/economia/2026/09/28/hsbc-convierte-su-alcance-global-en-valor-para-el-patrimonio-de-los-clientes",
-    "source": "Expansión",
-    "published": "2026-09-28T15:55:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
-    "summary": "Meta is launching an enterprise AI business as Mark Zuckerberg looks to turn massive AI investment into profits. Summarized from the blurb only.",
-    "link": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-28T15:54:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano inicia la semana con la mayor caída frente al dólar desde abril",
-    "summary": "El peso mexicano inició la semana con su mayor caída frente al dólar desde abril de 2026, tras la decisión de política monetaria de Banxico. La moneda cotiza en 17.87 pesos por dólar.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-inicia-la-semana-con-la-mayor-caida-frente-al-dolar-desde-abril/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-28T15:50:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rising Rates Pressure Property Values as REIT M&A Deals Pick Up",
-    "summary": "Multifamily, industrial and office sectors are likely to set the pace for global real estate capital flows this year, while AI fuels a surge in data center transactions, says PGIM's Rick Romano. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/rising-rates-pressure-property-values-video",
-    "source": "Bloomberg",
-    "published": "2026-09-28T15:41:23+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
-    "summary": "Top executives from Anthropic, OpenAI, Meta and Microsoft are urging policymakers to scrutinize how much AI systems are improving themselves and to put safeguards in place. It adds to industry calls for greater oversight. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-28T15:38:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Outspoken AI Bear Jain Capitulates After $36 Billion Exodus",
-    "summary": "A year after calling the AI boom the \"dot-com bubble on steroids,\" Rajiv Jain has abruptly reversed course and embraced the tech trade. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ai-skeptic-rajiv-jain-embraces-the-tech-trade-he-once-shunned",
-    "source": "Bloomberg",
-    "published": "2026-09-28T15:25:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La empresa mexicana se está quedando sin margen para equivocarse",
-    "summary": "Un análisis basado en el International Business Report de Grant Thornton muestra que la proporción de empresas mexicanas que citan la incertidumbre económica como una restricción subió de 42.4% a 56.2% entre el primer y segundo trimestre de 2025, mientras crecía también la preocupación por costos de energía y disrupción geopolítica. El artículo advierte que los riesgos ya no son aislados, sino que se transmiten rápidamente entre áreas del negocio, complicando la gestión empresarial tradicional centrada en eficiencia y reducción de costos.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/empresa-mexicana-quedando-margen-equivocarse-20260928-835410.html",
-    "source": "El Economista",
-    "published": "2026-09-28T13:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El comercio mundial de IA podría repuntar tras su reciente retroceso: JP Morgan",
-    "summary": "Analistas de J.P. Morgan, liderados por Mislav Matejka, señalan que el retroceso reciente en el comercio mundial de IA mejoró el posicionamiento de los inversionistas y dejó valoraciones atractivas, lo que podría impulsar un renovado interés, en especial en semiconductores. El banco destaca que la fortaleza de los beneficios y la creciente monetización de la IA respaldan una inversión de capital sólida pese a los temores de desaceleración del sector.",
-    "link": "https://www.eleconomista.com.mx/mercados/comercio-mundial-ia-repuntar-reciente-retroceso-jp-morgan-20260928-835634.html",
-    "source": "El Economista",
-    "published": "2026-09-28T12:46:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Platform",
-    "summary": "Meta has tapped MongoDB CEO Chirantan \"CJ\" Desai to lead a new AI platform for enterprise customers. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/mongodb-s-ceo-steps-down-for-senior-role-at-meta-shares-plunge",
-    "source": "Bloomberg",
-    "published": "2026-09-28T12:42:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA concentra 27% de la inversión fija de Estados Unidos; México se vuelve proveedor de ese auge",
-    "summary": "La inversión ligada a la IA representó cerca de 27% de la inversión fija de EE.UU. en el segundo trimestre de 2026, según Oxford Economics. México se ha convertido en uno de los principales proveedores del equipo que alimenta ese auge.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/ia-concentra-27-inversion-fija-estados-unidos-mexico-vuelve-proveedor-ese-auge-20260928-835677.html",
-    "source": "El Economista",
-    "published": "2026-09-28T12:08:25-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "F2 Inks Investment with Golub, Provides AI Platform",
-    "summary": "F2 AI Inc., an AI developer focused on credit, received a $5 million investment from private credit manager Golub Capital as it builds out its AI platform. The deal is another example of a financial institution investing directly in AI technology that is reshaping how credit decisions get made.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/f2-gets-investment-from-golub-signs-deal-to-provide-ai-platform",
-    "source": "Bloomberg",
-    "published": "2026-09-28T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso queda atrapado entre la Fed y la deuda récord de Estados Unidos",
-    "summary": "El peso queda atrapado entre la política de la Fed, la deuda récord de EE.UU. y el diferencial de tasas con Banxico, en un entorno de volatilidad.",
-    "link": "https://expansion.mx/mercados/2026/09/28/peso-mexicano-volatilidad-fed-banxico-diferencial-tasas",
-    "source": "Expansión",
-    "published": "2026-09-28T11:55:44+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los ciberdelincuentes llegaron hasta tu firma: así se especializan para robar tus datos",
-    "summary": "Ciberdelincuentes se especializan en atacar a firmas y profesionales mediante correos falsos que suplantan a plataformas como Zoom o DocuSign para robar datos.",
-    "link": "https://expansion.mx/tecnologia/2026/09/28/phishing-correos-falsos-zoom-docusign",
-    "source": "Expansión",
-    "published": "2026-09-28T11:55:16+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Adopta IA",
-    "summary": "Research Land, firma mexicana de investigación de mercados dirigida por Pablo Levy con más de 2.6 millones de entrevistas acumuladas, integrará IA, ciencia de datos y analítica predictiva a su modelo para identificar patrones y anticipar comportamientos, sin eliminar la supervisión de especialistas. La empresa, tercera más grande del país en su sector, busca convertir grandes volúmenes de información en decisiones estratégicas en medio de una reconfiguración de la industria de investigación de mercados en México.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/28/adopta-ia/",
-    "source": "El Financiero",
-    "published": "2026-09-28T11:51:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano cae y dólar se fortalece",
-    "summary": "El peso mexicano cae y el dólar se fortalece en una jornada marcada por la aversión al riesgo global.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-cae-dolar-fortalece-20260928-835673.html",
-    "source": "El Economista",
-    "published": "2026-09-28T11:46:05-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "América Latina impulsa reglas para proveedores de infraestructura digital y telecom",
-    "summary": "EE.UU. y 14 gobiernos de América Latina y el Caribe acordaron promover reglas para identificar proveedores de confianza en infraestructura digital y telecomunicaciones, sin discriminación.",
-    "link": "https://www.eleconomista.com.mx/empresas/america-latina-impulsa-reglas-proveedores-infraestructura-digital-telecom-20260928-835671.html",
-    "source": "El Economista",
-    "published": "2026-09-28T11:39:36-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia's Huang Boosts Share Buyback by a Record $150 Billion",
-    "summary": "Nvidia increased the size of its share buyback authorization by a record $150 billion, surpassing the $110 billion authorization Apple approved in 2024. CEO Jensen Huang framed the move as a signal of confidence in the chipmaker's continued growth amid the AI boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7",
-    "source": "Bloomberg",
-    "published": "2026-09-28T11:16:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sofipos: regulación y una competencia que apenas comienza",
-    "summary": "Las Sofipos mexicanas atraviesan un punto de inflexión: el marco regulatorio se ha endurecido en estándares de información financiera, clasificación de cartera y supervisión, mientras la competencia interna se desplaza del crecimiento de clientes hacia eficiencia, tecnología y calidad de cartera. El cruce entre regulación y competencia está permitiendo que algunos modelos financieros dentro de este sector alcancen escala considerable, reforzando su papel como alternativa a la banca tradicional para segmentos desatendidos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/09/28/sofipos-regulacion-y-una-competencia-que-apenas-comienza/",
-    "source": "El Financiero",
-    "published": "2026-09-28T11:14:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "What is the AI capex breakeven rate?",
-    "summary": "The piece examines what return on invested capital the AI hyperscalers' enormous infrastructure spending needs to generate in order to break even, questioning whether current capex levels are justified by the underlying economics. It frames the debate around whether the \"heroic\" ROIC assumptions embedded in today's AI investment plans can hold up.",
-    "link": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
-    "source": "Financial Times",
-    "published": "2026-09-28T11:00:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El crecimiento de 2026 va a sorprender",
-    "summary": "El INEGI confirmó que el IGAE de julio creció 0.8% mensual y 3.3% anual, muy por encima de lo que anticipaban los propios indicadores oportunos del instituto, con los servicios avanzando 4% y la industria 2.4%. El autor destaca que, con las estimaciones disponibles para agosto, el tercer trimestre apunta a un crecimiento cercano a 3.2% anual, el mejor trimestre del año para la economía mexicana.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/28/el-crecimiento-de-2026-va-a-sorprender/",
-    "source": "El Financiero",
-    "published": "2026-09-28T10:59:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Desconoces una transferencia de tu cuenta? El dictamen de Condusef puede respaldarte",
-    "summary": "Condusef ofrece un dictamen que respalda a usuarios que desconocen una transferencia o retiro de su cuenta y buscan que el banco restituya su dinero. El documento fortalece la defensa jurídica del cliente.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/desconoces-transferencia-cuenta-dictamen-condusef-respaldarte-20260928-835239.html",
-    "source": "El Economista",
-    "published": "2026-09-28T10:55:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Safety Fears Grow as Trump Pushes Ahead in Race With China",
-    "summary": "As the Trump administration pushes an aggressive \"let's go and let's win\" stance in the AI race with China, concerns over AI safety are mounting, raising doubts about whether that posture can be sustained. The piece frames the growing tension between the pace of AI deployment and the safeguards needed to manage its risks.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/ai-safety-fears-grow-as-trump-pushes-ahead-in-race-with-china",
-    "source": "Bloomberg",
-    "published": "2026-09-28T10:32:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
     "language": "en",
     "light": true
   }
