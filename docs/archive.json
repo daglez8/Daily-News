@@ -1,5 +1,126 @@
 [
   {
+    "title": "Anthropic and OpenAI Use Different Revenue Calculations, Clouding AI Valuations",
+    "summary": "Investors comparing OpenAI and Anthropic have hit a snag: the two private companies calculate a closely watched revenue figure differently. The gap clouds valuation comparisons between the AI leaders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+    "source": "Bloomberg",
+    "published": "2026-10-09T18:23:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why Finance Execs Are Counting Every Token",
+    "summary": "'Tokenmaxxing' has given way to value-maxing, but AI spend still keeps CFOs up at night. Bloomberg looks at how finance chiefs are policing token consumption.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/why-finance-execs-are-counting-every-token-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T18:21:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "From Anthropic to Waymo: Kleiner Perkins Bets on AI’s Next Act",
+    "summary": "Kleiner Perkins partner Ilya Fushman says AI is still early in reshaping the economy, with opportunities from frontier models like Anthropic to consumer agents, autonomous vehicles and robotics.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/kleiner-perkins-bets-on-ai-s-next-act-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T18:12:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank-Backed OPay Wins $185 Million Standard Bank Placement",
+    "summary": "SoftBank-backed OPay secured about $185 million in a private placement with Africa's biggest bank as it prepares to list in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/softbank-backed-opay-wins-185-million-standard-bank-placement",
+    "source": "Bloomberg",
+    "published": "2026-10-09T17:45:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "No importa cuánto ‘corra’ el peso: Tipo de cambio sube hasta las 18.44 unidades",
+    "summary": "El peso mexicano extiende su racha negativa y toca su peor nivel desde noviembre de 2025 ante mayor demanda de activos refugio; el dólar se encamina a su cuarta semana consecutiva de ganancias.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/09/peso-dolar-precio-hoy-9-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-09T17:27:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La deuda que la inteligencia artificial no puede pagar",
+    "summary": "Columna de Expansión sobre la deuda que la inteligencia artificial no puede pagar, en el contexto del financiamiento masivo del auge de la IA.",
+    "link": "https://expansion.mx/opinion/2026/10/09/deuda-ia-inteligencia-artificial-empresas",
+    "source": "Expansión",
+    "published": "2026-10-09T16:01:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "ABCP Market Makes Comeback as Banks Seek Balance-Sheet Relief",
+    "summary": "Asset-backed commercial paper, blamed for amplifying the 2008 crisis, is returning as banks tap short-term funding to do more business with less balance-sheet strain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/abcp-market-makes-comeback-as-banks-seek-balance-sheet-relief",
+    "source": "Bloomberg",
+    "published": "2026-10-09T16:00:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Buildout is Boom 'Not Bubble,' Says Jared Gross",
+    "summary": "Credit markets are jittery over more mega debt deals funding the AI arms race. JPMorgan Asset Management's Jared Gross explains why he sees a boom, not a bubble.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/ai-buildout-is-boom-not-bubble-says-jared-gross-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T15:31:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Modelos de IA abiertos facilitan material de abuso sexual infantil",
+    "summary": "Los modelos de IA abiertos facilitan la creación de material de abuso sexual infantil y, una vez descargados, es casi imposible rastrear las actividades ilegales.",
+    "link": "https://www.bloomberg.com/news/features/2026-10-09/ia-de-codigo-abierto-impulsa-material-de-abuso-sexual-infantil",
+    "source": "Bloomberg",
+    "published": "2026-10-09T15:30:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Panmure Warns AI Bubble Could Burst Within Next Two Years",
+    "summary": "Panmure Liberum's Joachim Klement outlines the risks in AI stocks and the potential for a severe AI-triggered market crash.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/panmure-warns-ai-bubble-could-burst-by-2028-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T14:36:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Targets $70 Billion in Annualized Revenue by Year-End",
+    "summary": "OpenAI expects to reach or exceed $70 billion in annualized revenue by year-end, driven largely by its enterprise business.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/openai-targets-70b-in-annualized-revenue-by-year-end-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T13:42:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
     "summary": "TypeSafe AI, creadora del modelo Jev, que se volvió viral hace pocas semanas, levantó cerca de US$870 millones con valuación de US$7,500 millones, liderada por Andreessen Horowitz.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
@@ -40,6 +161,17 @@
     "published": "2026-10-09T11:55:06+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las nuevas obligaciones para las plataformas digitales",
+    "summary": "El Economista aborda las nuevas obligaciones para las plataformas digitales en México, un cambio regulatorio relevante para empresas del sector.",
+    "link": "https://www.eleconomista.com.mx/videos/nuevas-obligaciones-plataformas-digitales-20261009-837816.html",
+    "source": "El Economista",
+    "published": "2026-10-09T11:46:16-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -88,6 +220,17 @@
     "light": true
   },
   {
+    "title": "La Inteligencia Artificial y tus finanzas personales (Parte 2 de 5)",
+    "summary": "El Economista, en la segunda parte de su serie, explica cómo la IA puede ayudar con las finanzas personales, ordenando información y explicando conceptos, pero con errores que exigen cautela.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/inteligencia-artificial-tus-finanzas-personales-parte-2-20261009-837164.html",
+    "source": "El Economista",
+    "published": "2026-10-09T10:50:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Bending Spoons CEO Sees Opportunity in ‘SaaSpocalypse’",
     "summary": "El CEO de Bending Spoons, Luca Ferrari, ve oportunidades de adquisición en la caída de valuaciones de software ('SaaSpocalypse'). Dice que la IA abarata objetivos y acelera su modelo de compras.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video",
@@ -119,6 +262,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Los retos de Bre-B tras mover COP$262 billones en su primer año de operación",
+    "summary": "Bre-B, el sistema de pagos inmediatos de Colombia, cumplió un año con más de 1,700 millones de transacciones, 36 millones de usuarios y 245 entidades conectadas, aunque enfrenta retos pendientes.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/los-retos-de-bre-b-tras-cumplir-su-primer-ano-de-operacion/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-09T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
@@ -185,6 +339,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "UN-Habitat Recognizes Five Approaches to Adequate Housing With 2026 Scroll of Honour",
+    "summary": "UN-Habitat named five 2026 Scroll of Honour recipients for contributions to adequate housing and sustainable urban development in Brazil, Myanmar, Pakistan, Tunisia and the UK.",
+    "link": "https://www.archdaily.com/1186425/un-habitat-recognizes-five-approaches-to-adequate-housing-with-2026-scroll-of-honour",
+    "source": "ArchDaily",
+    "published": "2026-10-09T06:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "OpenAI explica que despidió a 3 investigadores por abuso de confianza sobre confidencialidad",
@@ -394,6 +559,17 @@
     "relevance_score": 76,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI Borrowing Spree Hammers Tech Debt in Rush to Reprice Risk",
+    "summary": "The rush to finance AI is rattling the $10 trillion-plus US corporate bond market, with credit insurance prices spiking and risk being repriced for big tech names.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-debt-spree-hammers-tech-debt-as-traders-rush-to-reprice-risk",
+    "source": "Bloomberg",
+    "published": "2026-10-08T22:24:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
@@ -5322,181 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Trump to meet tech chiefs including Amodei, Musk and Zuckerberg over AI safety",
-    "summary": "The White House will host a lunch with tech chiefs including Amodei, Musk and Zuckerberg over AI safety. The president is resisting calls for regulation (summary from blurb).",
-    "link": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T16:51:27+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "“Queremos asegurarnos de que sea seguro”: OpenAI retrasa su modelo de IA por preocupaciones internas",
-    "summary": "OpenAI retrasa el lanzamiento de su nuevo modelo de IA por preocupaciones internas de seguridad. Según Expansión, la empresa dice querer asegurarse de que sea seguro antes de liberarlo.",
-    "link": "https://expansion.mx/tecnologia/2026/09/29/openai-retrasa-ia-por-preocupaciones-seguridad",
-    "source": "Expansión",
-    "published": "2026-09-29T16:11:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The AI boom meets a new kind of crypto scam",
-    "summary": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models, according to The Economist. It flags a new crypto-related scam risk tied to the AI boom (summary from blurb).",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
-    "source": "The Economist",
-    "published": "2026-09-29T16:05:58+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How the AI boom could worsen the rich world’s fiscal crunch",
-    "summary": "The Economist argues that even with higher growth from the AI boom, rich-world governments may find taxes harder to collect, worsening the fiscal crunch.",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
-    "source": "The Economist",
-    "published": "2026-09-29T15:55:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Acción de Nu rebota tras su mayor caída desde 2025: 5 claves de la posible compra de Monzo",
-    "summary": "La acción de Nu Holdings rebota tras su mayor caída desde 2025, mientras los inversionistas evalúan una posible compra de Monzo. La operación podría alterar la estrategia con la que el banco digital construyó su expansión durante más de una década.",
-    "link": "https://www.bloomberglinea.com/mercados/accion-de-nu-rebota-tras-su-mayor-caida-desde-2025-5-claves-de-la-posible-compra-de-monzo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-29T14:54:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "ExodusPoint Joins Hedge Funds Partnering With Anthropic Over AI",
-    "summary": "ExodusPoint Capital Management is working with Anthropic to expand use of the Claude AI agent across its hedge fund operations. It joins other hedge funds partnering with the AI lab.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/exoduspoint-joins-hedge-funds-partnering-with-anthropic-over-ai",
-    "source": "Bloomberg",
-    "published": "2026-09-29T13:09:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El Fed de Warsh y Banxico (IV)",
-    "summary": "Gabriel Casillas cierra su serie de columnas sobre el Fed bajo Kevin Warsh y cómo podría actuar Banxico.",
-    "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/09/29/el-fed-de-warsh-y-banxico-iv/",
-    "source": "El Financiero",
-    "published": "2026-09-29T13:00:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CFIUS mexicano: inversión extranjera y seguridad nacional",
-    "summary": "La iniciativa de reformas a la Ley de Inversión Extranjera crea por primera vez un régimen formal de escrutinio de inversión extranjera por seguridad nacional, inspirado en el CFIUS de EU.",
-    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/09/29/cfius-mexicano-inversion-extranjera-y-seguridad-nacional/",
-    "source": "El Financiero",
-    "published": "2026-09-29T12:36:05+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO to Be a ‘Watershed Event’ for Tech, Says Ives",
-    "summary": "Dan Ives of Yorkville Ives & Co. calls Anthropic's upcoming IPO a 'watershed event' for tech. He also discusses the growing list of concerns around AI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/anthropic-ipo-to-be-a-watershed-event-for-tech-ives-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T12:34:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Para mejorar las finanzas públicas es indispensable el crecimiento económico",
-    "summary": "Columna que sostiene que el crecimiento económico es indispensable para mejorar las finanzas públicas, tras el reciente debilitamiento del peso.",
-    "link": "https://www.elfinanciero.com.mx/opinion/benito-solis/2026/09/29/para-mejorar-las-finanzas-publicas-es-indispensable-el-crecimiento-economico/",
-    "source": "El Financiero",
-    "published": "2026-09-29T12:16:47+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bain Invests in Construction Tech Firm Kahua at $1 Billion Value",
-    "summary": "Bain Capital's Tech Opportunities fund is taking a minority stake in AI construction platform Kahua, valuing the company at over $1 billion.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-09-29T12:00:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y lucha anti lavado",
-    "summary": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y a la lucha contra el lavado de dinero.",
-    "link": "https://expansion.mx/economia/2026/09/29/ley-economia-digital-fiscalizacion-sat-lucha-anti-lavado",
-    "source": "Expansión",
-    "published": "2026-09-29T11:55:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft’s Copilot Reboot Pins Focus on Business Customers",
-    "summary": "Microsoft's Copilot reboot centers on business customers, with a new bundle designed to enhance the existing Office suite.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/microsoft-s-copilot-reboot-pins-focus-on-business-customers",
-    "source": "Bloomberg",
-    "published": "2026-09-29T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comisiones por retirar en cajeros que no son de tu banco bajaron 32.5% desde 2016: cuánto pagas hoy",
-    "summary": "Las comisiones por retirar en cajeros de otro banco bajaron 32.5% real entre 2016 y 2025, gracias a 21 convenios de colaboración en el sector. La comisión máxima promedio pasó de 42.64 pesos en 2016 a una cifra mucho menor hoy.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/comisiones-retirar-cajeros-son-banco-bajaron-32-5-2016-cuanto-pagas-hoy-20260929-835243.html",
-    "source": "El Economista",
-    "published": "2026-09-29T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
-    "summary": "President Trump will hold a luncheon with the CEOs of Nvidia, Anthropic and Palantir to discuss AI risks. OpenAI's Greg Brockman is also expected to attend.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T10:39:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Introduces the Meta Enterprise Platform to Help Companies With AI Makeovers",
-    "summary": "Meta introduced the Meta Enterprise Platform to help companies with AI makeovers, a new business revenue stream to justify its large AI investment.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/meta-introduces-the-meta-enterprise-platform-to-help-companies-with-ai-makeovers",
-    "source": "Bloomberg",
-    "published": "2026-09-29T10:29:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
   }
 ]
