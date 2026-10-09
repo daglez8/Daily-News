@@ -1,5 +1,170 @@
 [
   {
+    "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
+    "summary": "TypeSafe AI, creadora del modelo Jev, que se volvió viral hace pocas semanas, levantó cerca de US$870 millones con valuación de US$7,500 millones, liderada por Andreessen Horowitz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-10-09T13:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué esperar de Banxico ahora que abre la puerta a recortar la tasa de interés?",
+    "summary": "Analistas leen un tono más dovish en la minuta de Banxico, con varios miembros abiertos a recortar la tasa. Se discute qué esperar para la política monetaria sin un consenso claro sobre cuándo ocurriría el próximo ajuste.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperar-de-banxico-ahora-que-abre-la-puerta-a-recortar-la-tasa-de-interes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-09T12:29:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pagos digitales: una oportunidad para ampliar la inclusión financiera en México",
+    "summary": "Los pagos digitales se plantean como una oportunidad para ampliar la inclusión financiera en México. El artículo de opinión revisa su potencial para llevar servicios formales a más usuarios.",
+    "link": "https://expansion.mx/opinion/2026/10/09/pagos-digitales-una-oportunidad-para-ampliar-la-inclusion-financiera-en-mexico",
+    "source": "Expansión",
+    "published": "2026-10-09T12:08:37+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fraude bancario imparable en México; clientes reclaman 11,213 mdp en el primer semestre de 2026",
+    "summary": "Los clientes bancarios reclamaron 11,213 mdp por fraude en el primer semestre, en un contexto de fraude que no cede en México. El dato apunta a presión sobre banca, conducta financiera y protección al consumidor.",
+    "link": "https://expansion.mx/economia/2026/10/09/fraude-bancario-imparable-en-mexico-clientes-reclaman-11-213-mdp-en-el-primer-semestre-de-2026",
+    "source": "Expansión",
+    "published": "2026-10-09T11:55:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "KKR Bans Non-Competes for Lower-Paid US Portfolio Company Staff",
+    "summary": "KKR has banned non-compete agreements for lower-paid employees at its US portfolio companies, arguing restrictive contracts aren't needed to stay competitive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/kkr-bans-non-competes-for-lower-paid-us-portfolio-company-staff",
+    "source": "Bloomberg",
+    "published": "2026-10-09T11:45:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Computer scientist David Silver: ‘Where are we going without AI?’",
+    "summary": "Interview with David Silver, the architect of Google DeepMind's AlphaGo, on building machines that teach themselves and his sense of moral obligation to advance AI.",
+    "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-09T11:30:08+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Burnham Says UK Will Curb Non-Compete Clauses After Tech, AI Startup Outcry",
+    "summary": "The UK plans to curb non-compete clauses after complaints from tech and AI startups about restrictions on moving jobs or founding companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry",
+    "source": "Bloomberg",
+    "published": "2026-10-09T11:26:54+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "We Want to 'Dominate' US: Revolut's Storonsky",
+    "summary": "El CEO de Revolut, Nik Storonsky, quiere 'dominar' el mercado de EE.UU. y competir con JPMorgan y American Express. Planea una oferta bancaria digital completa, con tarjetas y préstamos, apoyada en IA y automatización.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T10:50:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bending Spoons CEO Sees Opportunity in ‘SaaSpocalypse’",
+    "summary": "El CEO de Bending Spoons, Luca Ferrari, ve oportunidades de adquisición en la caída de valuaciones de software ('SaaSpocalypse'). Dice que la IA abarata objetivos y acelera su modelo de compras.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T10:38:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Is Trouncing the US in Consumer Adoption of Generative AI",
+    "summary": "Bloomberg Opinion: EE.UU. destaca en capacidad de IA, pero China lo supera en adopción de IA generativa por parte de los consumidores.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-09T10:30:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revolut CEO Aims To Rival JPMorgan, American Express",
+    "summary": "Entrevista a Storonsky en la conferencia Wave by Vento en Turín sobre las ambiciones de Revolut en EE.UU. frente a JPMorgan y American Express.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-aims-to-rival-jpmorgan-american-express-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T10:27:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
+    "summary": "Bloomberg Tech: Europe analiza cómo la IA entra más a fondo en la banca para volverse más rápida y eficiente. También examina las nuevas vulnerabilidades que puede generar la tecnología.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/ai-in-banking-risk-and-reward-bloomberg-tech-europe-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T09:52:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman Says Investors to Shift Focus to AI Monetization",
+    "summary": "Goldman Sachs espera que los inversionistas pasen a enfocarse en la monetización de la IA. Persisten dudas de si el gasto de capital se traducirá en productos monetizables.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/goldman-says-investors-to-shift-focus-to-ai-monetization-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T09:41:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "'Last Night I Had Nightmares' Says Airtel Money CEO Before IPO",
+    "summary": "Airtel Money debuts on the London Stock Exchange in a listing that may be the bourse's biggest IPO in five years; its performance is a test of London's capital-markets revival.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/-i-had-nightmares-says-airtel-money-ceo-before-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T09:07:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why JPMorgan Is the Most AI-Advanced Bank",
+    "summary": "JPMorgan encabeza de nuevo el ranking de Evident Insight de los bancos más avanzados en IA. La CEO de Evident explica por qué los pioneros se distancian y por qué importa la inversión sostenida en IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/why-jpmorgan-is-the-most-ai-advanced-bank-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T08:38:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Caras o baratas? Expertos de mercado explican cómo ven las acciones de IA",
     "summary": "Expertos de mercado analizan si las acciones ligadas a IA están caras o baratas, ante múltiplos elevados y crecimiento de ganancias que plantea dudas de valuación.",
     "link": "https://www.bloomberglinea.com/mercados/caras-o-baratas-expertos-de-mercado-explican-como-ven-las-acciones-de-ia/",
@@ -20,6 +185,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "OpenAI explica que despidió a 3 investigadores por abuso de confianza sobre confidencialidad",
+    "summary": "OpenAI despidió a tres investigadores tras una investigación que halló que infringieron políticas sobre el manejo de información confidencial, según informó la empresa en X.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/openai-explica-despidio-3-investigadores-abuso-confianza-sobre-confidencialidad-20261009-837770.html",
+    "source": "El Economista",
+    "published": "2026-10-09T06:19:29-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Europe’s Bond Market Turbulence Puts ECB Repo Funding Into Focus",
@@ -88,6 +264,17 @@
     "light": true
   },
   {
+    "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+    "summary": "SoftBank founder Masayoshi Son has held talks with senior UAE figures about raising $100bn from Gulf investors to expand the company's AI bet.",
+    "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-09T04:30:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Five ways to tell if market trouble lies ahead",
     "summary": "The cost of credit default swaps for AI companies looking to borrow is rising, one of the signals the FT flags for market trouble ahead. (Summary from blurb only.)",
     "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
@@ -106,6 +293,17 @@
     "published": "2026-10-09T04:00:31+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why bank stocks are falling despite surging interest rates",
+    "summary": "Why bank stocks are falling despite surging interest rates. If funding costs rise, the expanding profit margins banks have enjoyed may start to reverse.",
+    "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-09T04:00:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
     "language": "en",
     "light": true
   },
@@ -130,6 +328,17 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Seamos serios con el predial",
+    "summary": "México recauda por predial cerca de 0.2% del PIB, el nivel más bajo del mundo para su desarrollo e ingresos y muy por debajo del promedio OCDE. La columna plantea reforzar este impuesto a la propiedad.",
+    "link": "https://www.eleconomista.com.mx/opinion/seamos-serios-predial-20261009-837757.html",
+    "source": "El Economista",
+    "published": "2026-10-09T01:01:48-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Will OpenAI Revenue Reset Stop AI Demand?",
@@ -350,6 +559,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Revolut’s Storonsky Says He’s Coming for JPMorgan’s US Crown",
+    "summary": "Storonsky dice que Revolut va por la corona de JPMorgan en EE.UU. y que, si sale a bolsa, tendría su listado principal allí. Compite con grandes bancos y emisores de tarjetas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-08/revolut-ceo-storonsky-says-he-s-targeting-us-primary-listing",
+    "source": "Bloomberg",
+    "published": "2026-10-08T16:24:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Minuta de Banxico revela que tres miembros abren la puerta a un recorte de la tasa de interés",
@@ -5276,226 +5496,6 @@
     "published": "2026-09-29T10:29:21+00:00",
     "category": "AI & Agents",
     "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Smart Ring Maker Oura Becomes Latest Company to Delay US IPO",
-    "summary": "Oura, fabricante del anillo inteligente de salud, pospone su IPO en EU por la incertidumbre del mercado de ofertas iniciales.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty",
-    "source": "Bloomberg",
-    "published": "2026-09-29T10:10:45+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Flags ‘Catastrophic’ Risks in IPO Filing: Reuters",
-    "summary": "Anthropic warned in its IPO prospectus that its technology poses \"catastrophic or existential risks to humanity\" and outlined plans to spend hundreds of billions of dollars, per Reuters. The disclosure comes as the company prepares to go public.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters",
-    "source": "Bloomberg",
-    "published": "2026-09-29T08:11:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "“La mora bajará más lento de lo previsto, 80% de los clientes ya está refinanciando”, según Fabián Kon, CEO de Banco Galicia",
-    "summary": "Fabián Kon, CEO del Grupo Galicia, anticipa que la mora de las familias en Argentina seguirá alta y hasta 2027 se acercará a valores más normales; 80% de los clientes con atrasos ya refinancia.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-mora-bajara-mas-lento-de-lo-previsto-80-de-los-clientes-ya-esta-refinanciando-segun-fabian-kon-ceo-de-banco-galicia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-29T07:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Stocks Battling AI Safety Headwind: Market Analysis",
-    "summary": "Bloomberg's market team discusses how AI safety concerns are weighing on stocks.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/stocks-battling-ai-safety-headwind-3-minutes-mliv-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T07:29:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Next Practices Live in Mexico",
-    "summary": "ArchDaily lanza la sexta edición de sus Next Practices Awards durante Design Week Mexico, sobre cómo las prácticas emergentes amplían la capacidad de la arquitectura.",
-    "link": "https://www.archdaily.com/1185724/next-practices-live-in-mexico",
-    "source": "ArchDaily",
-    "published": "2026-09-29T07:15:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Google impugna órdenes de la UE para facilitar el acceso a competidores en IA y motores de búsqueda",
-    "summary": "Google is challenging two EU orders requiring it to give AI rivals such as OpenAI access to its services, and search competitors access to its search data.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/google-impugna-ordenes-ue-facilitar-acceso-competidores-ia-motores-busqueda-20260929-835834.html",
-    "source": "El Economista",
-    "published": "2026-09-29T06:30:32-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Scraps Debut of Latest Astra Model",
-    "summary": "OpenAI is holding back its GPT-6.1 Astra model after it failed to match the current version on safety evaluations. The new version had improved on model 'laziness'.",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T06:20:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fovissste retoma la construcción de vivienda; cuidar la solvencia, el reto",
-    "summary": "Tras 34 años, el Fovissste retoma la construcción de vivienda para ampliar la oferta a trabajadores con dificultades para hallar propiedades acordes a su crédito. El reto es mantener el equilibrio y la solvencia del fondo.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/fovissste-retoma-construccion-vivienda-cuidar-solvencia-reto-20260929-835777.html",
-    "source": "El Economista",
-    "published": "2026-09-29T06:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fibras concentran 31 millones de metros cuadrados en México",
-    "summary": "Las fibras concentran más de 31 millones de m² de Área Bruta Rentable en México, en 2,210 propiedades, según Amefibra al segundo trimestre de 2026.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/fibras-concentran-31-millones-metros-cuadrados-mexico-20260929-835789.html",
-    "source": "El Economista",
-    "published": "2026-09-29T06:00:00-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Threat of Berlin Property Grab Spooks Real Estate Stocks",
-    "summary": "Una propuesta radical de expropiar grandes portafolios de vivienda vuelve a la agenda en Berlín y amenaza con más pérdidas en acciones inmobiliarias.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/threat-of-berlin-property-grab-is-spooking-real-estate-stocks",
-    "source": "Bloomberg",
-    "published": "2026-09-29T05:15:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google Fights EU Attempt to Prise Open Android to Rival AI Bots",
-    "summary": "Google is contesting an EU attempt to force it to open Android to rival AI assistants and share search data with competitors. The case is a key test for AI regulation and platform competition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
-    "source": "Bloomberg",
-    "published": "2026-09-29T05:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI ‘le pone hielo’ a la IA: Retrasa su modelo más reciente por temas de seguridad",
-    "summary": "OpenAI retrasó el lanzamiento de su modelo GPT-6.1 Astra por preocupaciones de seguridad de sus propios investigadores. La decisión se enmarca en un esfuerzo más amplio por desacelerar el avance de la tecnología.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/28/openai-le-pone-hielo-a-la-ia-retrasa-su-modelo-mas-reciente-por-temas-de-seguridad/",
-    "source": "El Financiero",
-    "published": "2026-09-29T04:58:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia turns to insurers to spread the risk of AI build-out",
-    "summary": "Nvidia is turning to insurers to spread the risk of its AI build-out, seeking to draw Wall Street deeper into financing the AI boom.",
-    "link": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T04:04:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "A meeting a day keeps the robots away",
-    "summary": "An FT column argues that predictions of imminent white-collar automation underappreciate what other people's jobs actually entail, from meetings to coordination.",
-    "link": "https://www.ft.com/content/4aad6056-761f-42df-ab65-683a15cf40dc?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T04:00:31+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UniCredit’s Orcel moves to seize control of Commerzbank within months",
-    "summary": "UniCredit's Andrea Orcel plans to seize control of Commerzbank within months, aiming to replace 10 board members and oust the CEO as soon as January, according to people familiar. A major FIG M&A move.",
-    "link": "https://www.ft.com/content/2b6db828-897d-46cf-ba64-e3e8560b5f4e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T04:00:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "MSCI Launches AI Value Chain Indexes as Hedging Demand Grows",
-    "summary": "MSCI launched a series of AI value chain indexes so investors can hedge exposure to the sector more precisely.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/msci-launches-ai-value-chain-indexes-as-hedging-demand-grows",
-    "source": "Bloomberg",
-    "published": "2026-09-29T02:59:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
-    "summary": "Anthropic's long-awaited S-1 IPO filing shows the Claude maker lost $8bn last year on $4.6bn in revenue. The prospectus also warns of 'existential risks to humanity'. It is a landmark event for AI capital markets.",
-    "link": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T02:28:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BMV será sede en 2027 de la reunión de bolsas iberoamericanas",
-    "summary": "La Bolsa Mexicana de Valores será sede en 2027 de la reunión anual de bolsas iberoamericanas (FIAB).",
-    "link": "https://expansion.mx/mercados/2026/09/28/bmv-sera-sede-reunion-anual-fiab-2027",
-    "source": "Expansión",
-    "published": "2026-09-29T01:59:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
-    "summary": "Globe Telecom is betting on AI data centers as its next billion-dollar business, while its fintech arm Mynt heads for a record Philippine IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
-    "source": "Bloomberg",
-    "published": "2026-09-29T01:51:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI to Help Australia on AI Defense After Government Hack",
-    "summary": "OpenAI apologized for its AI models breaching Australian government websites and promised a new task force on AI cyber risk. The incident is fueling calls for stronger AI safeguards.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
-    "source": "Bloomberg",
-    "published": "2026-09-29T01:18:41+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
     "language": "en",
     "light": true
   }
