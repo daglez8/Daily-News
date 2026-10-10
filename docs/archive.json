@@ -1,5 +1,93 @@
 [
   {
+    "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
+    "summary": "Nvidia is in early-stage talks to acquire or further invest in Reflection AI, a US developer of open-weight models, according to the Financial Times.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
+    "source": "Bloomberg",
+    "published": "2026-10-10T18:52:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+    "summary": "Microsoft CEO Satya Nadella said companies should treat powerful AI models as potential insider threats and assume they could be compromised. He urged an 'emergency brake' system to stop agentic models from going rogue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-10T18:35:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+    "summary": "Nvidia is in talks to acquire Reflection AI, a US open-model startup. The Trump administration hopes the company can rival cheap Chinese alternatives such as DeepSeek.",
+    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-10T18:14:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jefferies Says It Found Fraud in $900 Million of Radiant Deals",
+    "summary": "A Jefferies-run fund told a court it has evidence of alleged fraud by iron ore traders Radiant World and Sapphire Minmetals in receivables-financing deals with almost $900 million in face value.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
+    "source": "Bloomberg",
+    "published": "2026-10-10T15:03:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El ‘gemelo malvado’ del USB: Así es el cable O.MG, un peligro para tu celular y cuenta bancaria",
+    "summary": "Los cables O.MG, que parecen cargadores comunes, pueden extraer datos e instalar malware sin que el usuario lo note, poniendo en riesgo celulares y cuentas bancarias.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/10/10/el-gemelo-malvado-del-usb-asi-es-el-cable-omg-un-peligro-para-tu-celular-y-cuenta-bancaria/",
+    "source": "El Financiero",
+    "published": "2026-10-10T14:30:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+    "summary": "The Trump administration's embrace of legal liability to enforce AI safety sets up conflicts over who pays when models go rogue: the developers or the deployers. The debate bears directly on enterprise AI governance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+    "source": "Bloomberg",
+    "published": "2026-10-10T14:19:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The Race for AI Supremacy Raises Safety Concerns",
+    "summary": "Kevin Roose says a small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has driven the race toward AGI, raising questions about who controls the technology and its risks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+    "source": "Bloomberg",
+    "published": "2026-10-10T13:41:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué México necesita más que bonos verdes?",
+    "summary": "México necesita movilizar cerca de 1.7 billones de pesos anuales para su transición sostenible, según estimaciones de Hacienda, frente a necesidades de 13.6 billones entre 2023 y 2030. La columna plantea que se requiere más que bonos verdes.",
+    "link": "https://www.eleconomista.com.mx/opinion/mexico-necesita-bonos-verdes-20261010-837934.html",
+    "source": "El Economista",
+    "published": "2026-10-10T11:58:48-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI borrowing slows as investors grow wary of debt binge",
     "summary": "Appetite for financing the AI infrastructure boom is being tested after months of record bond issuance, and AI-related borrowing is slowing as investors grow wary.",
     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
@@ -7,6 +95,28 @@
     "published": "2026-10-10T11:00:07+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué consolidar tus deudas no siempre resuelve el problema?",
+    "summary": "Nota de finanzas personales sobre por qué consolidar deudas no siempre resuelve el problema, considerando también el componente emocional del estrés financiero.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/consolidar-tus-deudas-siempre-resuelve-problema-20261010-837893.html",
+    "source": "El Economista",
+    "published": "2026-10-10T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Rich Countries Are Now on Front Lines as World’s Risk Map Shifts",
+    "summary": "The IMF will confront mounting signs of debt trouble in wealthy countries this week, a shift from its usual focus on poor nations mired in debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/rich-countries-are-now-on-front-lines-as-world-s-risk-map-shifts",
+    "source": "Bloomberg",
+    "published": "2026-10-10T11:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -5386,116 +5496,6 @@
     "published": "2026-09-30T06:17:12+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Targets $30 Billion Funding at $1.4 Trillion Value",
-    "summary": "OpenAI aims to raise at least $30 billion in a new round at a valuation of around $1.4 trillion, excluding the new money, after pushing back its IPO plans, according to people familiar with the matter (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-30/openai-targets-30b-funding-at-1-4t-value-video",
-    "source": "Bloomberg",
-    "published": "2026-09-30T05:55:34+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Construcción en México enfrenta falta de mano de obra y rezago tecnológico",
-    "summary": "La construcción en México enfrenta escasez y encarecimiento de mano de obra, además de un rezago tecnológico de una década, según El Financiero.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/09/29/construccion-en-mexico-enfrenta-falta-de-mano-de-obra-y-rezago-tecnologico/",
-    "source": "El Financiero",
-    "published": "2026-09-30T04:51:41+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI industry moves to thwart data centre backlash ahead of US midterms",
-    "summary": "The AI Infrastructure Coalition, whose members include Google, Meta and Microsoft, unveiled commitments to cover energy costs and minimise water usage. The move aims to head off data centre backlash ahead of US midterms. (Summary from blurb.)",
-    "link": "https://www.ft.com/content/9705f5bf-bc06-481d-b2a3-1299463074b8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-30T04:01:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The risks of HSBC’s return to its roots",
-    "summary": "The FT looks at the risks of HSBC's return to its roots and its doubling down on Hong Kong to capture wealth flowing out of China (summary from blurb).",
-    "link": "https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-30T04:00:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "PaleBlueDot AI Seeks $600 Million Private Credit to Buy Chips",
-    "summary": "US-based PaleBlueDot AI is in talks with lenders including Brookfield for $600 million of private credit to buy chips for a site in South Korea (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-30/palebluedot-ai-seeks-600-million-private-credit-to-buy-chips",
-    "source": "Bloomberg",
-    "published": "2026-09-30T03:52:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump pacta autorregulación de desarrolladores de IA",
-    "summary": "Donald Trump dijo que ejecutivos tecnológicos acordaron establecer normas para la IA y reiteró su apoyo a la rápida expansión de centros de datos, en medio de la creciente preocupación por la seguridad de la IA.",
-    "link": "https://www.eleconomista.com.mx/empresas/trump-pacta-autorregulacion-desarrolladores-ia-20260930-836030.html",
-    "source": "El Economista",
-    "published": "2026-09-30T00:22:36-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
-    "summary": "La reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros, según Expansión.",
-    "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
-    "source": "Expansión",
-    "published": "2026-09-30T00:02:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "España anuncia plan contra crisis de vivienda",
-    "summary": "El gobierno español presentó medidas contra la crisis de vivienda bajo presión de protestas por mayor protección a inquilinos, pero su aprobación depende de un Parlamento donde no tiene mayoría.",
-    "link": "https://www.eleconomista.com.mx/internacionales/espana-anuncia-plan-crisis-vivienda-20260929-836024.html",
-    "source": "El Economista",
-    "published": "2026-09-29T23:50:13-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México quiere emular a Brasil y masificar en un año los pagos digitales",
-    "summary": "México busca emular a Brasil y masificar los pagos digitales en un año, según Expansión. La nota se enmarca en el impulso a la infraestructura de pagos del país.",
-    "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
-    "source": "Expansión",
-    "published": "2026-09-29T23:07:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deloitte UK Partner Pay Grows to $1.5 Million on AI Demand",
-    "summary": "Deloitte UK's equity partners earned an average of about £1.13 million last year, up 7%, as demand for AI advice drove profit (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
-    "source": "Bloomberg",
-    "published": "2026-09-29T23:01:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
