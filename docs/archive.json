@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI borrowing slows as investors grow wary of debt binge",
+    "summary": "Appetite for financing the AI infrastructure boom is being tested after months of record bond issuance, and AI-related borrowing is slowing as investors grow wary.",
+    "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-10T11:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tokenización financiera: los cuatro obstáculos que debe superar para transformar los mercados, según el FMI",
+    "summary": "Un análisis del FMI sostiene que la tokenización de activos financieros podría transformar los mercados, pero su potencial está lejos de materializarse. El texto identifica cuatro obstáculos que debe superar.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/tokenizacion-financiera-los-cuatro-obstaculos-que-debe-superar-para-transformar-los-mercados-segun-el-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-10T10:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "The world of one trade — AI",
     "summary": "Investor portfolios have become alarmingly reliant on a single bet: the build-out of an uncertain AI technology. FT assesses the concentration risk.",
     "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
@@ -20,6 +42,17 @@
     "relevance_score": 85,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Banking Stock Swoon in Europe Is a Sign of Caution, Not Panic",
+    "summary": "The selloff in European bank stocks after three years of strong gains looks more like a reset than a crash, according to Bloomberg.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/banking-stock-swoon-in-europe-is-a-sign-of-caution-not-panic",
+    "source": "Bloomberg",
+    "published": "2026-10-10T06:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Banxico desafía críticas a nuevos recortes de tasas",
@@ -51,6 +84,17 @@
     "published": "2026-10-10T00:08:39+00:00",
     "category": "AI & Agents",
     "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Logitech CEO Hanneke Faber on AI Agents & The Great Tech Divide",
+    "summary": "Logitech CEO Hanneke Faber discusses the company's CTRL Tomorrow study on technology's impact on users and opportunities in the AI era.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/logitech-ceo-on-ai-agents-the-great-tech-divide-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T23:10:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -176,6 +220,17 @@
     "light": true
   },
   {
+    "title": "Empresas advierten sobre daños económicos y operativos por cambios fiscales para 2027",
+    "summary": "Empresas advierten daños económicos y operativos por los cambios fiscales para 2027, en particular el límite a deducciones que plantean Hacienda y el SAT.",
+    "link": "https://expansion.mx/economia/2026/10/09/empresas-riesgos-limite-deducciones-sat-hacienda",
+    "source": "Expansión",
+    "published": "2026-10-09T17:38:03+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Pagos digitales, aduanas y “Ley Antimemes”: las reformas que movieron al Congreso esta semana",
     "summary": "El Congreso avanzó esta semana reformas sobre modernización tecnológica y fiscalización, incluyendo pagos digitales, aduanas y la llamada 'Ley Antimemes'.",
     "link": "https://www.eleconomista.com.mx/politica/pagos-digitales-aduanas-ley-antimemes-reformas-movieron-congreso-semana-20261009-837877.html",
@@ -216,6 +271,17 @@
     "published": "2026-10-09T17:16:19-06:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tipo de cambio se dispara y se acerca a los 18.50 pesos por dólar",
+    "summary": "El tipo de cambio se dispara y se acerca a los 18.50 pesos por dólar, según Expansión.",
+    "link": "https://expansion.mx/mercados/2026/10/09/tipo-de-cambio-se-dispara-y-se-acerca-a-los-18-50-pesos-por-dolar",
+    "source": "Expansión",
+    "published": "2026-10-09T17:04:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
     "language": "es",
     "light": false
   },
@@ -308,6 +374,17 @@
     "light": true
   },
   {
+    "title": "El menor gasto de México ayuda a contener el crecimiento del déficit fiscal",
+    "summary": "El menor gasto público ayuda a contener el crecimiento del déficit fiscal de México, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/09/menor-gasto-contienel-crecimiento-deficit-fiscal",
+    "source": "Expansión",
+    "published": "2026-10-09T13:02:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
     "summary": "TypeSafe AI, creadora del modelo Jev, que se volvió viral hace pocas semanas, levantó cerca de US$870 millones con valuación de US$7,500 millones, liderada por Andreessen Horowitz.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
@@ -337,6 +414,17 @@
     "published": "2026-10-09T12:08:37+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿La IA puede destruir la humanidad?",
+    "summary": "Columna de opinión de Expansión que plantea si la inteligencia artificial puede destruir a la humanidad.",
+    "link": "https://expansion.mx/opinion/2026/10/08/la-ia-puede-destruir-la-humanidad",
+    "source": "Expansión",
+    "published": "2026-10-09T12:01:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5410,93 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "¿Pagarás impuestos al SAT por pagos digitales? Esto es lo que debes saber de la iniciativa de Ley",
-    "summary": "Expansión explica si los pagos digitales generarán impuestos al SAT bajo la iniciativa de Ley de Economía Digital, y qué deben saber los usuarios.",
-    "link": "https://expansion.mx/finanzas-personales/2026/09/29/pagaras-impuestos-extra-tarjeta-debito",
-    "source": "Expansión",
-    "published": "2026-09-29T22:21:48+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nu México nombra a Estephany Paulette Ley como CEO",
-    "summary": "Nu México nombra a Estephany Paulette Ley como su nueva CEO, según Expansión. El cambio de liderazgo ocurre en uno de los principales bancos digitales del país.",
-    "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
-    "source": "Expansión",
-    "published": "2026-09-29T22:15:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trump toma el control de la IA y firma acuerdo “moralmente vinculante” para no ralentizar su desarrollo",
-    "summary": "Trump firmó un acuerdo 'moralmente vinculante' para que el gobierno lidere la IA sin ralentizar su desarrollo. Expansión detalla el alcance de la medida.",
-    "link": "https://expansion.mx/tecnologia/2026/09/29/trump-acuerdo-lideres-ia-autorregulacion-desarrollo",
-    "source": "Expansión",
-    "published": "2026-09-29T22:11:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BMO US Commercial Bank Head on Yields, M&A Pipeline",
-    "summary": "BMO's US Commercial Bank head Tony Sciarrino says rising rates haven't yet caused a meaningful slowdown in client planning or borrowing, though growth in a higher-rate environment demands more discipline (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/bmo-us-commercial-bank-head-on-yields-m-a-pipeline-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T22:00:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Altman on OpenAI's IPO Plans, AI Agent Dots, AI Security",
-    "summary": "OpenAI CEO Sam Altman discusses the launch of Dots, its new premium AI personal agent, and says the company will go public eventually but is being patient. He also touches on AI security (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/altman-on-openai-s-ipo-plans-ai-agent-dots-ai-security-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T21:34:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso borra ganancias de 2026; tipo de cambio rompe barrera de 18 unidades por dólar",
-    "summary": "Expansión reporta que el peso borra sus ganancias de 2026 y el tipo de cambio rompe la barrera de 18 unidades por dólar.",
-    "link": "https://expansion.mx/mercados/2026/09/29/peso-mexicano-borra-ganancia-2026-cotiza-cerca-18-14-dolar",
-    "source": "Expansión",
-    "published": "2026-09-29T21:16:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ejecutiva de Amazon Prime Video defiende uso de IA y asegura que ya reduce costos",
-    "summary": "Una ejecutiva de Prime Video defiende el uso de IA en entretenimiento y dice que ya reduce costos de producción.",
-    "link": "https://www.bloomberglinea.com/estilo-de-vida/ejecutiva-de-amazon-prime-video-defiende-uso-de-ia-y-asegura-que-ya-reduce-costos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-29T20:58:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "S&P 500 cae con los rendimientos de los bonos en máximos de 2002 y señales restrictivas de la Fed",
-    "summary": "Wall Street cerró volátil ante la preocupación por una inflación elevada que empujó los rendimientos del Tesoro; la tasa a 30 años superó 5,59%, según Bloomberg Línea (resumen del adelanto).",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-opera-con-cautela-con-la-caida-del-petroleo-y-el-mercado-atento-a-nuevos-datos-en-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-29T20:04:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
