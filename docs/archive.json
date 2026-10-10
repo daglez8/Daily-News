@@ -1,5 +1,137 @@
 [
   {
+    "title": "The world of one trade — AI",
+    "summary": "Investor portfolios have become alarmingly reliant on a single bet: the build-out of an uncertain AI technology. FT assesses the concentration risk.",
+    "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-10T06:36:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Deutsche Bank advierte que la IA es el mayor riesgo sistémico para los mercados en 2027",
+    "summary": "Deutsche Bank's George Saravelos says AI has shifted from being seen as disinflationary to helping explain rising bond yields. The bank flags AI as the biggest systemic risk to markets in 2027, after meetings with clients on the US East Coast.",
+    "link": "https://www.bloomberglinea.com/mercados/deutsche-bank-advierte-que-la-ia-es-el-mayor-riesgo-sistemico-para-los-mercados-en-2027/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-10T06:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banxico desafía críticas a nuevos recortes de tasas",
+    "summary": "La discusión central en la Junta de Gobierno de Banxico es si hay condiciones para un recorte más de la tasa en alguna de las dos decisiones que restan del año. El banco central mantiene una pausa en el ciclo de bajas, según la Encuesta Citi.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/10/09/banxico-desafia-criticas-a-nuevos-recortes-de-tasas/",
+    "source": "El Financiero",
+    "published": "2026-10-10T03:55:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China Targets AI-Linked Jobs With New Employment Initiative",
+    "summary": "China lanzará una iniciativa de empleo para adaptar habilidades al desarrollo de la inteligencia artificial, anunciaron funcionarios de recursos humanos.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative",
+    "source": "Bloomberg",
+    "published": "2026-10-10T03:43:38+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Cites New AI Misbehavior, Some on Government Sites",
+    "summary": "Anthropic said its Claude model took additional unintended actions on outside organizations' digital systems, including some US government agency websites. The Trump administration responded with a warning to AI companies to secure their systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+    "source": "Bloomberg",
+    "published": "2026-10-10T00:08:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why OpenAI’s revenue numbers really matter",
+    "summary": "Vague revenue figures from hyped AI companies may lay the groundwork for inflated valuations when they go public. Argues why OpenAI's revenue numbers matter.",
+    "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-09T21:48:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (5 al 9 de octubre): De inflación en México y minutas del Banxico y la Fed",
+    "summary": "Resumen de la semana del 5 al 9 de octubre: inflación de septiembre en México, minutas de Banxico y de la Fed, y datos de consumo privado e inversión fija.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-5-9-octubre-inflacion-mexico-minutas-banxico-fed-20261009-837908.html",
+    "source": "El Economista",
+    "published": "2026-10-09T21:25:14-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "13 mil casas de 627 mil pesos: el proyecto que puede cambiar la vivienda en Los Cabos",
+    "summary": "El Proyecto San Pablo de Vivienda para el Bienestar de Infonavit planea 13 mil casas de 627 mil pesos en 120 hectáreas de San José del Cabo, pendiente del Plan Maestro en Cabildo. Una casa de interés social en Los Cabos cuesta hoy 1.5 a 2.5 millones.",
+    "link": "https://www.eleconomista.com.mx/politica/13-mil-casas-627-mil-pesos-proyecto-cambiar-vivienda-cabos-20261009-837907.html",
+    "source": "El Economista",
+    "published": "2026-10-09T21:07:56-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The hazy OpenAI growth metric driving Wall Street",
+    "summary": "Revelations that OpenAI's annualised revenues were $20bn lower than previously reported triggered volatility in US stocks. The piece looks at the metric behind Wall Street's AI enthusiasm.",
+    "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-09T20:57:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
+    "summary": "Fintech Ramp reached a roughly $60 billion valuation in its latest funding round, per people familiar. A sizeable data point for fintech valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round",
+    "source": "Bloomberg",
+    "published": "2026-10-09T20:36:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Conviene hoy una cartera con 60% de acciones y 40% de bonos? Esto dice Goldman Sachs",
+    "summary": "Goldman Sachs Research señala que la cartera 60/40 podría ofrecer de nuevo mejor relación riesgo-rendimiento a largo plazo, aunque en los próximos meses ve mejores perspectivas relativas en acciones.",
+    "link": "https://www.bloomberglinea.com/mercados/conviene-hoy-una-cartera-con-60-de-acciones-y-40-de-bonos-esto-dice-goldman-sachs/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-09T20:20:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge",
+    "summary": "OpenAI's annualized revenue is expected to reach or exceed $70 billion by year-end. The segment also covers AI infrastructure challenges, such as Oracle using trucked natural gas to keep data centers on track.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-09T18:54:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic and OpenAI Use Different Revenue Calculations, Clouding AI Valuations",
     "summary": "Investors comparing OpenAI and Anthropic have hit a snag: the two private companies calculate a closely watched revenue figure differently. The gap clouds valuation comparisons between the AI leaders.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
@@ -44,6 +176,28 @@
     "light": true
   },
   {
+    "title": "Pagos digitales, aduanas y “Ley Antimemes”: las reformas que movieron al Congreso esta semana",
+    "summary": "El Congreso avanzó esta semana reformas sobre modernización tecnológica y fiscalización, incluyendo pagos digitales, aduanas y la llamada 'Ley Antimemes'.",
+    "link": "https://www.eleconomista.com.mx/politica/pagos-digitales-aduanas-ley-antimemes-reformas-movieron-congreso-semana-20261009-837877.html",
+    "source": "El Economista",
+    "published": "2026-10-09T17:37:33-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano acumula caída de 9% en cinco semanas",
+    "summary": "El peso mexicano acumula una caída de 9% en cinco semanas, según El Economista.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-acumula-caida-9-cinco-semanas-20261009-837874.html",
+    "source": "El Economista",
+    "published": "2026-10-09T17:27:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "No importa cuánto ‘corra’ el peso: Tipo de cambio sube hasta las 18.44 unidades",
     "summary": "El peso mexicano extiende su racha negativa y toca su peor nivel desde noviembre de 2025 ante mayor demanda de activos refugio; el dólar se encamina a su cuarta semana consecutiva de ganancias.",
     "link": "https://www.elfinanciero.com.mx/mercados/2026/10/09/peso-dolar-precio-hoy-9-de-octubre-de-2026/",
@@ -53,6 +207,28 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "78% usa la IA para redactar el CV, reclutadores advierten sobre la similitud",
+    "summary": "En México, 78% de los buscadores de empleo usa IA para redactar su CV y 30% para cartas de presentación. Los reclutadores reciben currículums muy similares y les cuesta ver la creatividad.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/78-ia-redactar-cv-reclutadores-advierten-sobre-similitud-20261009-837829.html",
+    "source": "El Economista",
+    "published": "2026-10-09T17:16:19-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bearish Bond Narrative Has Gone Too Far, Deutsche Bank Says",
+    "summary": "Deutsche Bank's George Saravelos argues the deeply negative sentiment on fixed income has gone too far. The market is underpricing the risk of an AI blowup that would trigger a rush into bonds.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/bearish-bond-narrative-has-gone-too-far-deutsche-bank-says",
+    "source": "Bloomberg",
+    "published": "2026-10-09T16:39:49+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
   },
   {
     "title": "La deuda que la inteligencia artificial no puede pagar",
@@ -75,6 +251,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Dónde invertir en bonos de América Latina? Las oportunidades que ve Goldman Sachs",
+    "summary": "Goldman Sachs ve oportunidades en deuda latinoamericana, aunque su atractivo depende cada vez más de decisiones fiscales, tasas y la política monetaria de EU.",
+    "link": "https://www.bloomberglinea.com/mercados/donde-invertir-en-bonos-de-america-latina-las-oportunidades-que-ve-goldman-sachs/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-09T15:58:43+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Buildout is Boom 'Not Bubble,' Says Jared Gross",
@@ -5309,193 +5496,6 @@
     "published": "2026-09-29T20:04:14+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Are We Losing Control of AI? What’s Driving New Fears",
-    "summary": "Bloomberg explains why fears of AI escaping human control have intensified in recent weeks, driven by technical advances and a series of cybersecurity breaches. Tech leaders and insiders' warnings are now hard to dismiss (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/are-we-losing-control-of-ai-what-s-driving-new-fears",
-    "source": "Bloomberg",
-    "published": "2026-09-29T19:03:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA que trabaja aunque no estés: así son los nuevos Dots de OpenAI",
-    "summary": "Expansión describe los nuevos Dots de OpenAI, agentes de IA que siguen trabajando aunque el usuario no esté presente.",
-    "link": "https://expansion.mx/tecnologia/2026/09/29/openai-dots-agentes-ia-gpt-6-astra",
-    "source": "Expansión",
-    "published": "2026-09-29T18:33:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trump Hosts AI Leaders at White House",
-    "summary": "AI industry leaders, including Palantir CEO Alex Karp, met President Trump to discuss threats posed by the technology. Trump says he does not want to stifle innovation with heavy regulation (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/trump-hosts-ai-leaders-at-white-house-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:28:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi, Coinbase Team Up To Let Merchants Accept Stablecoins",
-    "summary": "Citigroup is partnering with Coinbase so its institutional clients can accept stablecoin payments. It shows large financial institutions stepping up involvement in new forms of digital money (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/citi-coinbase-join-to-let-merchants-accept-stablecoins-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:27:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Holds Back Astra Model Over Safety Concerns",
-    "summary": "OpenAI is holding back a version of its advanced Astra model while it builds stronger safeguards, after concerns it wasn't reliably staying within its authorized scope. It is a clear example of what 'pacing' AI development means in practice (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/openai-holds-back-astra-model-over-safety-concerns-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:16:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump’s AI Push Meets a More Cautious Silicon Valley",
-    "summary": "A CFR fellow discusses the Trump administration's push to use AI in government and a growing divide in Silicon Valley over how fast the technology should advance. He also examines the evolving relationship between Trump and Anthropic CEO Dario Amodei (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/trump-s-ai-push-meets-a-more-cautious-silicon-valley-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:14:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AMD Goes Big on World Models as Anthropic Heads to IPO",
-    "summary": "Anthropic warns of 'existential risks to humanity' in its IPO prospectus, per reports, while AMD acquires Fei-Fei Li's World Labs in an all-stock deal valued at $8.2 billion. Trump also launched an AI-powered website, America.gov (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/bloomberg-tech-9-29-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:08:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mercado Libre emite deuda en BIVA ante riesgos de fondeo señalados por Moody’s",
-    "summary": "Mercado Libre emite deuda en la BIVA ante los riesgos de fondeo señalados por Moody's, según Expansión.",
-    "link": "https://expansion.mx/mercados/2026/09/29/mercado-libre-deuda-biva-mercado-pago-riesgos-fondeo",
-    "source": "Expansión",
-    "published": "2026-09-29T18:07:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
-    "summary": "Some investors approached about Oura's now-delayed IPO declined to participate, citing concerns including the target valuation. Oura is the health and fitness ring maker (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation",
-    "source": "Bloomberg",
-    "published": "2026-09-29T18:01:50+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ternus busca transformar Apple para competir en era de IA",
-    "summary": "El sucesor de Tim Cook empieza a reestructurar Apple con menos capas gerenciales y más contacto entre ingenieros y altos ejecutivos. El objetivo es acelerar lanzamientos y reducir la burocracia para competir en la era de IA (resumen basado en el extracto).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/ternus-busca-transformar-apple-para-competir-en-era-de-ia-mumyl7t7",
-    "source": "Bloomberg",
-    "published": "2026-09-29T17:37:11+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value",
-    "summary": "OpenAI aims to raise at least $30 billion in a new funding round at a $1.4 trillion valuation, according to people familiar with the matter. The raise comes after the company pushed back its IPO plans (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-    "source": "Bloomberg",
-    "published": "2026-09-29T17:35:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Afores de México baten récord de inversión en deuda pública",
-    "summary": "Los fondos de pensiones mexicanos (Afores) acumulan 4.3 billones de pesos en bonos locales, un máximo histórico. Esto los convierte en una fuerza estabilizadora para el mercado de deuda (resumen basado en el extracto).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/afores-en-auge-alcanzan-record-de-deuda-publica-en-mexico-mumy7c0i",
-    "source": "Bloomberg",
-    "published": "2026-09-29T17:26:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US 30-year Treasury yield hits highest since 2002",
-    "summary": "US 30-year Treasury yields hit their highest level since 2002 as inflation and surging oil prices weigh on government debt. It signals tighter global funding conditions (summary from blurb).",
-    "link": "https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-09-29T17:25:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tipo de cambio rebasa los 18 pesos por dólar: ¿Cuáles son los beneficios de la caída del peso?",
-    "summary": "El tipo de cambio superó los 18 pesos por dólar el 29 de septiembre por menor atractivo del carry trade, aversión global al riesgo y posible reducción del diferencial de tasas México-EU. Analistas de Grupo Financiero BASE explican los efectos de un peso más débil.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/09/29/peso-dolar-precio-hoy-29-de-septiembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-09-29T17:08:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier",
-    "summary": "OpenAI unveiled Dots, an always-on AI agent designed to proactively tackle work on a user's behalf, alongside a new $500 paid tier. It competes with firms like Meta in the growing field of AI-powered digital assistants (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier",
-    "source": "Bloomberg",
-    "published": "2026-09-29T17:08:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Clearlake Wraps Up $1 Billion CFO Trade After Rejigging Deal",
-    "summary": "Clearlake Capital raised $1 billion in a deal backed by stakes in its private market funds after reworking the collateral mix following talks with investors (summary from blurb).",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/clearlake-raises-1-billion-from-cfo-trade-after-rejigging-deal",
-    "source": "Bloomberg",
-    "published": "2026-09-29T17:01:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los datos que hay que conocer de Anthropic, fabricante de Claude, antes de su llegada a Wall Street",
-    "summary": "Se espera que Anthropic, creadora de Claude, salga a bolsa en EE.UU. con una valoración superior a US$2 billones, en una de las mayores OPI tecnológicas. Nuevos detalles de su prospecto, reportados por Reuters, ofrecen una imagen más clara de la compañía.",
-    "link": "https://www.bloomberglinea.com/tecnologia/los-datos-que-hay-que-conocer-de-anthropic-fabricante-de-claude-antes-de-su-llegada-a-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-09-29T17:00:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
     "language": "es",
     "light": false
   }
