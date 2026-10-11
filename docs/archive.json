@@ -1,5 +1,27 @@
 [
   {
+    "title": "Cuesta comprar vivienda 15 años de sueldo íntegro",
+    "summary": "La CDMX es la entidad más cara para adquirir vivienda: un trabajador tendría que entregar su salario íntegro durante 15 años para comprar una. El dato refleja el deterioro de la asequibilidad habitacional.",
+    "link": "https://www.reforma.com/cuesta-comprar-vivienda-15-anos-de-sueldo-integro/ar3292450",
+    "source": "Reforma",
+    "published": "2026-10-11T05:01:28-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 86,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
+    "summary": "South Korea's $4.3 trillion stock market, a poster child of this year's AI trade, is rapidly losing relevance with investors by almost every measure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
+    "source": "Bloomberg",
+    "published": "2026-10-11T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
     "summary": "Tech companies are ramping up bond sales this year despite rising yields, and talk of big financings from SpaceX and Broadcom amplifies investor fears about the coming wave of AI-related debt.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
@@ -5474,28 +5496,6 @@
     "published": "2026-09-30T09:12:33-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano perfila su peor caída mensual frente al dólar en más de dos años",
-    "summary": "El peso se recupera tras tocar su peor nivel desde marzo, pero perfila su mayor pérdida mensual en más de dos años por apuestas sobre tasas de interés.",
-    "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-30-septiembre-2026-cuanto-cotiza-20260930-836079.html",
-    "source": "El Economista",
-    "published": "2026-09-30T09:00:42-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grupos europeos de pagos unen fuerzas para reducir la dependencia de Visa y Mastercard",
-    "summary": "Varios grupos europeos de pagos, entre ellos Bizum, Bancomat y Wero, se unen en una empresa conjunta para pagos transfronterizos. Buscan reducir la dependencia de Visa y Mastercard.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/grupos-europeos-pagos-unen-fuerzas-reducir-dependencia-visa-mastercard-20260930-836058.html",
-    "source": "El Economista",
-    "published": "2026-09-30T06:27:28-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
     "language": "es",
     "light": false
   }
