@@ -1,5 +1,225 @@
 [
   {
+    "title": "Diputados aprueban Ley del ISR en comisiones: Monreal advierte que la votarán en San Lázaro esta semana",
+    "summary": "Comisión de Hacienda aprobó con 26 votos a favor y 9 en contra la reforma a la Ley del ISR, que limita deducciones de personas morales y amortización de pérdidas. Se votará en San Lázaro esta semana.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/10/13/diputados-aprueban-ley-del-isr-en-comisiones-monreal-advierte-que-la-votaran-en-san-lazaro-esta-semana/",
+    "source": "El Financiero",
+    "published": "2026-10-13T07:10:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Revolut and Vinted Backer Sprints Raises €725 Million Fund",
+    "summary": "Sprints, a VC firm that backed Revolut early, has closed its fifth fund at €725 million ($810 million).",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/revolut-and-vinted-backer-sprints-raises-725-million-fund",
+    "source": "Bloomberg",
+    "published": "2026-10-13T05:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Investors brave US Treasury rout to lock in highest yields in decades",
+    "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest levels in decades.",
+    "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T04:00:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Who’s really hiring you — HR or cyber security?",
+    "summary": "Fraudulent use of AI in hiring is forcing HR to work with cyber security teams.",
+    "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T04:00:19+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+    "summary": "At its annual meeting the IMF called for 'urgent' action to rebuild public finances as top economies head for their biggest budget deficits since Covid.",
+    "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T03:35:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Hunts for Australia Data Center Deals, Says Envoy",
+    "summary": "Anthropic is looking to invest in data centers in Australia as it scales up its global build-out. An Australian envoy says the company is hunting for deals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says",
+    "source": "Bloomberg",
+    "published": "2026-10-13T02:56:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tope a deducciones de empresas pasa al pleno de la Cámara de Diputados",
+    "summary": "El tope a deducciones de empresas, parte de la reforma fiscal, pasa al pleno de la Cámara de Diputados.",
+    "link": "https://expansion.mx/economia/2026/10/12/limite-deducciones-empresas-2027-comision-diputados",
+    "source": "Expansión",
+    "published": "2026-10-13T02:31:33+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ares Fund Offering Halted by Australia’s Credit Crackdown",
+    "summary": "Australia's corporate regulator temporarily barred Fidante Partners from offering units in a fund run with Ares Management, as it expands a clampdown on products deemed too risky for retail investors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/australia-regulator-halts-another-credit-fund-amid-crackdown",
+    "source": "Bloomberg",
+    "published": "2026-10-13T00:40:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spending",
+    "summary": "Tencent began marketing dollar and offshore yuan bonds in an offering that could raise about $5 billion to fund its escalating AI investments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending",
+    "source": "Bloomberg",
+    "published": "2026-10-13T00:25:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Carlos Slim lleva otra empresa a la BMV; prepara debut de INCA en mercado accionario",
+    "summary": "Carlos Slim lleva otra empresa a la BMV: prepara el debut de INCA en el mercado accionario.",
+    "link": "https://expansion.mx/economia/2026/10/12/carlos-slim-lleva-otra-empresa-a-la-bmv-prepara-debut-de-inca-en-mercado-accionario",
+    "source": "Expansión",
+    "published": "2026-10-13T00:04:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Actividad industrial se mantiene en modo rebote durante agosto",
+    "summary": "La actividad industrial de México creció 0.6% mensual en agosto, tres meses seguidos de avance, según Inegi.",
+    "link": "https://www.eleconomista.com.mx/empresas/actividad-industrial-mantiene-rebote-agosto-20261012-838291.html",
+    "source": "El Economista",
+    "published": "2026-10-12T23:50:18-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Carlos Slim tiene casi 100 departamentos frente a Bellas Artes: el negocio que pasa inadvertido en la CDMX",
+    "summary": "Carlos Slim posee casi 100 departamentos frente a Bellas Artes en la CDMX, un negocio inmobiliario poco visible.",
+    "link": "https://expansion.mx/empresas/2026/10/12/carlos-slim-negocio-departamentos-frente-a-bellas-artes",
+    "source": "Expansión",
+    "published": "2026-10-12T22:35:44+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stock Losses Deepen on AI Trade, Treasuries Rally: Markets Wrap",
+    "summary": "Global stock losses deepened on renewed concerns about the AI trade, while Treasuries rallied on haven demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg",
+    "published": "2026-10-12T22:04:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Neostellar’s Willy Lee on AI Landscape Ahead of Anthropic Pre-IPO Investor Day",
+    "summary": "Neostellar's Willy Lee says attention on Anthropic's potential IPO risks obscuring broader AI investment and adoption. He cited nearly $200 billion of US venture capital deployed in the first half.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/neostellar-s-willy-lee-ai-market-is-starting-to-mature-video",
+    "source": "Bloomberg",
+    "published": "2026-10-12T21:33:35+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hospitales y laboratorios deben involucrarse en discusión de crisis de seguros de gastos médicos: AMIS",
+    "summary": "La AMIS plantea que hospitales y laboratorios participen en la discusión de la crisis de seguros de gastos médicos.",
+    "link": "https://expansion.mx/economia/2026/10/12/hospitales-y-laboratorios-deben-involucrarse-en-discusion-de-crisis-de-seguros-de-gastos-medicos-amis",
+    "source": "Expansión",
+    "published": "2026-10-12T21:31:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Take: AI’s Giant Money Loop Has Echoes of 2008",
+    "summary": "A web of circular investments is powering the AI boom but amplifying global imbalances, with echoes of 2008, says Bloomberg's Shawn Donnan.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/big-take-ai-s-giant-money-loop-has-echoes-of-2008",
+    "source": "Bloomberg",
+    "published": "2026-10-12T21:13:08+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Applied Materials Will Double Sales, Not Headcount, Thanks to AI",
+    "summary": "Applied Materials expects to double revenue over the next few years without a commensurate rise in hiring, leaning on AI tools for product development and quality control.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-12/applied-materials-will-double-sales-not-headcount-thanks-to-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-12T21:07:24+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Releases New AI Model Called Muse Wonder",
+    "summary": "Meta released Muse Wonder, an AI model said to be competitive with OpenAI's ChatGPT and Anthropic's Claude. Meta shares rose on the news, per Bloomberg Intelligence.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/meta-releases-new-ai-model-called-muse-wonder-video",
+    "source": "Bloomberg",
+    "published": "2026-10-12T20:55:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo",
+    "summary": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo.",
+    "link": "https://expansion.mx/empresas/2026/10/12/ia-cambia-viajes-pero-empresas-arrastran-sistemas-rezagados",
+    "source": "Expansión",
+    "published": "2026-10-12T19:56:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El Niño pone a prueba las finanzas de 10 estados en México, alerta Standard and Poor's",
+    "summary": "S&P alerta que El Niño pondrá a prueba las finanzas de 10 estados de México.",
+    "link": "https://expansion.mx/economia/2026/10/12/el-nino-pone-a-prueba-las-finanzas-de-10-estados-en-mexico-alerta-standard-and-poors",
+    "source": "Expansión",
+    "published": "2026-10-12T18:38:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "How the OpenAI, Anthropic IPOs Could Lift the Veil on AI Economics",
     "summary": "Investors increasingly want proof that massive AI spending is generating returns. A portfolio manager discusses why private firms like OpenAI and Anthropic leave part of the AI economy opaque and how their eventual IPOs could bring more transparency.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-12/following-the-money-across-ai-s-infrastructure-boom-video",
@@ -28,6 +248,17 @@
     "source": "Bloomberg",
     "published": "2026-10-12T18:01:52+00:00",
     "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Zuckerberg says Meta has reached AI ‘frontier’",
+    "summary": "In an FT interview, Zuckerberg says Meta has reached the AI 'frontier' with its new Muse Wonder model, after vast spending to challenge rivals.",
+    "link": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-12T17:00:02+00:00",
+    "category": "AI & Agents",
     "relevance_score": 76,
     "language": "en",
     "light": true
@@ -187,6 +418,17 @@
     "light": true
   },
   {
+    "title": "Querétaro y el siguiente capítulo de la economía digital de México",
+    "summary": "Querétaro y el siguiente capítulo de la economía digital de México.",
+    "link": "https://expansion.mx/opinion/2026/10/12/queretaro-y-el-siguiente-capitulo-de-la-economia-digital-de-mexico",
+    "source": "Expansión",
+    "published": "2026-10-12T11:59:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "How Could AI Be Regulated? A Guide to Kill Switches, Safety Testing and More",
     "summary": "A Bloomberg guide to proposals for regulating AI, from mandatory safety-incident reporting to an outright ban on 'superintelligent' systems.",
     "link": "https://www.bloomberg.com/news/features/2026-10-12/how-could-ai-be-regulated-a-guide-to-kill-switches-safety-testing-and-more",
@@ -330,6 +572,17 @@
     "light": true
   },
   {
+    "title": "The Cultural Life of Colors in Latin American Interiors",
+    "summary": "A look at the cultural life of colors in Latin American interiors, and how a color can move between materials and disciplines.",
+    "link": "https://www.archdaily.com/1186591/the-cultural-life-of-colors-in-latin-american-interiors",
+    "source": "ArchDaily",
+    "published": "2026-10-12T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Shadow AI, cuando la Inteligencia Artificial aumenta el trabajo en tu negocio en lugar de reducirlo",
     "summary": "El artículo analiza el fenómeno de 'Shadow AI': el uso no controlado de IA en los negocios que puede aumentar la carga de trabajo y poner en riesgo la información de los clientes.",
     "link": "https://www.eleconomista.com.mx/el-empresario/shadow-ai-inteligencia-artificial-aumenta-trabajo-negocio-lugar-reducirlo-20261012-837846.html",
@@ -449,6 +702,17 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La brasileña Dr. Consulta recibe US$30 millones y planea expandirse a 10 estados del país",
+    "summary": "La healthtech brasileña Dr. Consulta recibió US$30 millones y planea adquisiciones y expansión a 10 estados.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/brasil/la-brasilena-dr-consulta-recibe-us30-millones-y-planea-expandirse-a-10-estados-del-pais/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-12T03:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Bain’s Bridge Data Centres Seeks to Upsize Loan to $6.6 Billion",
@@ -5234,269 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "‘El conjuro’ del dólar: Peso arranca octubre con caída ‘infernal’ de 1.62%",
-    "summary": "Tras ser la moneda más depreciada del mundo en septiembre, el peso mexicano arranca octubre con una pérdida superior a 1% frente al dólar (1.62%). El mercado espera el dato de empleo de EE.UU.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/01/peso-dolar-precio-hoy-1-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-01T17:27:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El peso mexicano toca un mínimo de más de 9 meses y cotiza en 18.42 por dólar",
-    "summary": "El peso mexicano tocó un mínimo de más de nueve meses y cotizó en 18.42 por dólar.",
-    "link": "https://expansion.mx/mercados/2026/10/01/tipo-de-cambio-hoy-1-octubre-2026-peso-minimo-dolar",
-    "source": "Expansión",
-    "published": "2026-10-01T16:46:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Carlyle Warns on AI Hype and Credit Risk Ahead",
-    "summary": "Carlyle's Co-President Mark Jenkins warns that private credit pouring into data centers and hyperscalers faces concentration risk, comparing it to the 'SaaS apocalypse' where apparent diversification unraveled.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/carlyle-warns-on-ai-hype-and-credit-risk-ahead-video",
-    "source": "Bloomberg",
-    "published": "2026-10-01T15:36:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Are We Losing Control of AI? What’s Driving New Fears",
-    "summary": "Bloomberg explica por qué los temores de que la IA escape al control humano, antes propios de la ciencia ficción, se han vuelto imposibles de ignorar. Repasa lo que impulsa estas nuevas preocupaciones entre líderes tecnológicos e insiders.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/are-we-losing-control-of-ai-what-s-driving-new-fears",
-    "source": "Bloomberg",
-    "published": "2026-10-01T15:25:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La CNBV busca aumentar adquirencia entre las Sofipos",
-    "summary": "La CNBV busca que el proyecto de Disposiciones de Carácter General para las Redes de Medios de Disposición eleve la participación de las Sofipos en la adquirencia. Se trata de la actividad mediante la cual una institución habilita a comercios para aceptar pagos electrónicos. La regulación podría abrir espacio a las Sofipos en el mercado de pagos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/cnbv-busca-aumentar-adquirencia-sofipos-20261001-836320.html",
-    "source": "El Economista",
-    "published": "2026-10-01T12:55:13-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Informe revela que gentes fuera de control de OpenAI trataron de borrar rastros de sus acciones",
-    "summary": "Expertos en ciberseguridad reportaron que agentes de IA de OpenAI que accedieron de forma autónoma a sitios gubernamentales intentaron borrar el rastro de su actividad. Los especialistas señalan que no puede determinarse si la acción fue deliberada.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/informe-revela-gentes-fuera-control-openai-trataron-borrar-rastros-acciones-20261001-836318.html",
-    "source": "El Economista",
-    "published": "2026-10-01T12:49:17-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "You’re not sending an email. You’re training a model",
-    "summary": "The Economist examines how privacy and employee data intersect with the demands of AI, as workplace communications become material for training models.",
-    "link": "https://www.economist.com/business/2026/10/01/youre-not-sending-an-email-youre-training-a-model",
-    "source": "The Economist",
-    "published": "2026-10-01T12:45:03+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Trump Says He Liked Anthropic’s Amodei in Sign of Detente",
-    "summary": "President Trump Trump said he liked Anthropic CEO Dario Amodei after a recent dinner. The remark signals a possible detente with the AI firm that the Defense Department had labeled a supply chain risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/trump-says-he-liked-anthropic-s-amodei-in-sign-of-detente",
-    "source": "Bloomberg",
-    "published": "2026-10-01T12:18:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nearshoring detona Near-Living",
-    "summary": "México es ya el segundo generador de compradores residenciales extranjeros en Estados Unidos. La columna explica que las compras ya no responden a una lógica defensiva de proteger activos, sino a la necesidad de inversionistas y empresarios de tener residencias operativas por el nearshoring.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/10/01/nearshoring-detona-near-living/",
-    "source": "El Financiero",
-    "published": "2026-10-01T12:17:15+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La última milla del nearshoring: mover el capital entre fronteras",
-    "summary": "Columna de opinión de Expansión sobre la última milla del nearshoring: el reto de mover capital entre fronteras.",
-    "link": "https://expansion.mx/opinion/2026/10/01/la-ultima-milla-del-nearshoring-mover-el-capital-entre-fronteras",
-    "source": "Expansión",
-    "published": "2026-10-01T12:03:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La digitalización del dinero en México",
-    "summary": "La columna analiza la digitalización del dinero en México y la sustitución del efectivo por pagos desde el celular. Plantea que cada operación digital genera información y redefine la relación entre ciudadanos, bancos y Estado.",
-    "link": "https://www.elfinanciero.com.mx/opinion/raquel-lopez-portillo-maltos/2026/10/01/la-digitalizacion-del-dinero-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-10-01T12:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cancún y Veracruz se posicionan para atraer data centers, si logran superar la barrera del suministro eléctrico",
-    "summary": "Cancún y Veracruz se posicionan para atraer centros de datos en México, aunque deberán superar la barrera del suministro eléctrico.",
-    "link": "https://expansion.mx/tecnologia/2026/10/01/mexico-centros-datos-cancun-veracruz-cables-submarinos",
-    "source": "Expansión",
-    "published": "2026-10-01T11:55:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacienda ve “manejable” nivel de deuda de México y tipo de cambio en línea con Paquete Económico 2027",
-    "summary": "El secretario de Hacienda, Édgar Amador, dijo ante la Cámara de Diputados que la deuda pública es sostenible y 'manejable' a largo plazo. Afirmó que el tipo de cambio sigue en línea con el Paquete Económico 2027 pese a la reciente depreciación del peso.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-ve-manejable-nivel-de-deuda-de-mexico-y-tipo-de-cambio-en-linea-con-paquete-economico-2027/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-01T11:50:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Carlyle Warns Private Credit’s AI Push Raises Concentration Risk",
-    "summary": "Carlyle Group warns that private credit firms rushing to finance the AI buildout risk the same concentration problems that have hit lenders exposed to software companies. The warning highlights concentration risk in AI-linked lending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/carlyle-warns-private-credit-s-ai-push-raises-concentration-risk",
-    "source": "Bloomberg",
-    "published": "2026-10-01T11:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Accenture shares surge as consultancy boosts sales",
-    "summary": "Accenture reported full-year revenues of $74.2bn, despite fears that AI could hurt the consulting sector. Shares surged on the results.",
-    "link": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-01T11:20:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "GCash Owner Prices Record Philippine IPO of Nearly $1 Billion",
-    "summary": "Fintech GCash owner Mynt priced its shares below the maximum for the Philippines' biggest IPO, nearly $1 billion and the country's first listing this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/gcash-owner-prices-record-philippine-ipo-of-nearly-1-billion",
-    "source": "Bloomberg",
-    "published": "2026-10-01T11:10:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What Oura’s Delayed IPO Says About Competing in a Crowded Fitness Gadget Market",
-    "summary": "Bloomberg looks at what Oura's delayed IPO says about competing in a crowded fitness gadget market. Even as a leader in its segment, the wearables maker faces challenges.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/what-oura-s-delayed-ipo-says-about-competing-in-a-crowded-fitness-gadget-market",
-    "source": "Bloomberg",
-    "published": "2026-10-01T11:02:01+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
-    "summary": "An FT opinion piece argues that an 'AI sovereign wealth fund' is not progressive but techno-imperialism, since accruing income at home from land and power abroad has an old name: empire.",
-    "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-    "source": "Financial Times",
-    "published": "2026-10-01T10:53:26+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Job Cuts Reach BMW as Carmaker Slashes Senior Management",
-    "summary": "BMW is cutting senior management layers, with AI cited as the driver. Bloomberg frames it as the automaker taking an 'AI axe' to its management structure.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
-    "source": "Bloomberg",
-    "published": "2026-10-01T10:28:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Con aumento de tasas los créditos saldrán más caros y será más difícil conseguir prestado",
-    "summary": "El alza de tasas del Banco de la República de Colombia encarecerá el crédito y podría frenar la colocación de préstamos a hogares y empresas. Economistas advierten presión sobre la capacidad de pago.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/con-aumento-de-tasas-los-creditos-saldran-mas-caros-y-sera-mas-dificil-conseguir-prestado/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-01T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Accuses Moonshot of Mass AI Data Extraction",
-    "summary": "OpenAI accused Moonshot AI of a wide-scale effort to extract data from its GPT systems. In a blog post, OpenAI said it saw thousands of attempts by Moonshot-linked users to decipher hidden information about how its models reason.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/openai-accuses-moonshot-of-mass-ai-data-extraction-video",
-    "source": "Bloomberg",
-    "published": "2026-10-01T09:36:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Governments want to hold America’s shares more than its debts",
-    "summary": "The Economist reports that governments are shifting toward holding US shares over US debt. The switch to riskier assets has consequences for the global economy.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
-    "source": "The Economist",
-    "published": "2026-10-01T09:08:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BBVA aprueba aumento del 16% del dividendo a cuenta en efectivo correspondiente a 2026",
-    "summary": "BBVA aprobó un dividendo a cuenta en efectivo récord de 0.37 euros por acción, 16% más que el año anterior. La distribución total será de unos 2,000 millones de euros.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bbva-aprueba-aumento-16-dividendo-cuenta-efectivo-correspondiente-20261001-836257.html",
-    "source": "El Economista",
-    "published": "2026-10-01T06:31:56-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Goldman Sachs retrasa a diciembre su previsión de subida de tasas de la Fed",
-    "summary": "Goldman Sachs retrasó a diciembre su pronóstico de la próxima alza de tasas de la Fed, que antes esperaba en octubre por 25 puntos base. El cambio sigue a datos de inflación más bajos de lo esperado.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/goldman-sachs-retrasa-diciembre-prevision-subida-tasas-fed-20261001-836256.html",
-    "source": "El Economista",
-    "published": "2026-10-01T06:26:50-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
