@@ -1,5 +1,159 @@
 [
   {
+    "title": "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet",
+    "summary": "Mark Zuckerberg admitted Meta had to commit hundreds of billions of dollars to AI infrastructure before knowing whether its products would succeed. The remarks highlight the scale of uncertainty behind the AI investment race.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet",
+    "source": "Bloomberg",
+    "published": "2026-10-13T18:14:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ray Dalio alerta por la deuda de EE.UU. y cree que el desplome de los bonos aún no termina",
+    "summary": "Ray Dalio advierte que el mercado bajista de bonos de EU podría profundizarse y trasladar pérdidas a Wall Street, por el desequilibrio entre la oferta de deuda y la demanda de inversionistas, que mantiene presión sobre las tasas.",
+    "link": "https://www.bloomberglinea.com/mercados/ray-dalio-alerta-por-la-deuda-de-eeuu-y-cree-que-el-desplome-de-los-bonos-aun-no-termina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-13T17:56:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+    "summary": "Chip stocks slid and Kospi fell sharply after Broadcom's boss warned of a 'casino' mentality in AI investing, with Samsung and SK Hynix leading declines amid worries over the scale of AI spending.",
+    "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T17:47:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bassman Warns of ‘Nightmare Scenario’ Amplifying US Bond Selloff",
+    "summary": "Harley Bassman warns that a little-noticed feature of the Treasury market threatens to worsen a monthslong selloff and push yields higher.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/bassman-warns-of-nightmare-scenario-amplifying-us-bond-selloff",
+    "source": "Bloomberg",
+    "published": "2026-10-13T17:34:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SambaNova CEO: AI’s Next Phase Is About Efficiency",
+    "summary": "SambaNova CEO Rodrigo Liang says the AI infrastructure boom is shifting toward inference, efficiency and ROI, with enterprises like JPMorgan running AI behind their own firewalls. The company is closing its Series F.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/sambanova-ceo-ai-s-next-phase-is-about-efficiency-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T17:06:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "FMI mejora pronóstico de crecimiento de México a 1.5% en 2026 gracias a ‘boom’ de exportaciones",
+    "summary": "El FMI elevó de 1.2% a 1.5% su pronóstico de crecimiento del PIB de México para 2026, gracias al 'boom' de exportaciones. Sería una 'modesta aceleración' tras el avance de apenas 0.5% en 2025.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/13/pib-de-mexico-crecera-15-por-ciento-en-2026-gracias-a-exportaciones-fmi/",
+    "source": "El Financiero",
+    "published": "2026-10-13T17:05:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta’s Muse Wonder Takes Aim at OpenAI, Anthropic",
+    "summary": "Meta says its new Muse Wonder model has frontier-level capabilities, built to power its Muse personal AI assistant under chief AI officer Alexandr Wang. Bloomberg discusses how it is positioned against OpenAI and Anthropic.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/meta-s-muse-wonder-takes-aim-at-openai-anthropic-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T17:02:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Will Let Anyone Publish Privately Listed Vibe-Coded Apps on Play Store",
+    "summary": "Google will let anyone publish privately listed vibe-coded apps on the Play Store, lowering the barrier for nontechnical users who build personal tools with AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store",
+    "source": "Bloomberg",
+    "published": "2026-10-13T17:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Will bank earnings growth become a thing of the past?",
+    "summary": "The FT asks whether bank earnings growth will fade, arguing it would be foolish to think Wall Street giants can't outrun the threat from AI. The piece links big-bank profitability to how AI reshapes the industry.",
+    "link": "https://www.ft.com/content/9f6ec5b2-4f0b-4ed3-9541-588d49e3ad7e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T16:49:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Banks Face New Pressure",
+    "summary": "Wall Street's biggest banks kicked off earnings season with mixed results as new profit challenges emerge, while the AI trade cracks further on a chip selloff. KBW's Chris McGratty weighs in.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/open-interest-10-13-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T16:31:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street plays down investor fears of faltering trading boom",
+    "summary": "JPMorgan Chase and Goldman Sachs posted strong third-quarter earnings boosted by their equities businesses, easing investor fears that the trading boom is faltering.",
+    "link": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T16:10:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sube y baja ‘mortal’ para el peso: Tipo de cambio se acerca a las 18.40 unidades",
+    "summary": "El peso mexicano cae con fuerza y el tipo de cambio se acerca a 18.40 por dólar, con el mercado atento a la inflación de septiembre en EU, que podría calibrar el próximo movimiento de la Reserva Federal.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/13/peso-dolar-tipo-de-cambio-hoy-13-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-13T16:08:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los 3 grandes riesgos que amenazan la estabilidad financiera mundial, según el FMI",
+    "summary": "El FMI, en su Informe de Estabilidad Financiera Mundial de octubre, advierte tres grandes riesgos que podrían desatar turbulencias en los mercados pese a la resistencia de las principales economías.",
+    "link": "https://www.bloomberglinea.com/mercados/los-3-grandes-riesgos-que-amenazan-la-estabilidad-financiera-mundial-segun-el-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-13T15:48:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nandan Nilekani Sees AI Opportunity for Infosys",
+    "summary": "Infosys co-founder Nandan Nilekani says AI is driving the biggest transformation in IT services in decades, discussing enterprise adoption, legacy systems and Infosys' model-agnostic approach.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T13:38:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Citi’s Fixed Income Traders Drive Third-Quarter Beat on Revenue",
     "summary": "Citigroup's fixed-income traders posted their best third quarter in at least a decade, lifting revenue to near-record levels and offsetting a sluggish quarter in investment banking advisory.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-13/citi-s-ficc-traders-drive-third-quarter-beat-on-revenue-video",
@@ -9,6 +163,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El presidente de Microsoft pide estándares de seguridad \"reales y eficaces\" de la IA",
+    "summary": "El presidente de Microsoft, Brad Smith, pidió que empresas y países adopten normas de seguridad 'reales y eficaces' para contener los riesgos de la IA, en las que el público pueda confiar. Subrayó que la IA necesita estándares como cualquier otra tecnología crítica.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/presidente-microsoft-pide-estandares-seguridad-reales-eficaces-ia-20261013-838374.html",
+    "source": "El Economista",
+    "published": "2026-10-13T12:09:27-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
   },
   {
     "title": "LSEG in Talks to Buy Permira-Owned Credit Firm Octus",
@@ -42,6 +207,39 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Cyber attack on French supermarket fridges raises alarm over food security",
+    "summary": "A cyber attack on French supermarket fridges pushed temperatures as high as 80°C, melting equipment and destroying food, and is raising alarm over food security.",
+    "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T11:50:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Diputados avalan en comisiones deuda de 1.7 billones de pesos y recaudación de de 6.2 billones; se turna al pleno",
+    "summary": "La Comisión de Hacienda de Diputados aprobó el dictamen de la Ley de Ingresos 2027, con un techo de endeudamiento de 1.7 billones de pesos y recaudación de 6.2 billones, por 26 votos a favor y 11 en contra. Pasa al pleno.",
+    "link": "https://www.eleconomista.com.mx/economia/diputados-avalan-comisiones-deuda-1-7-billones-pesos-recaudacion-6-2-billones-turna-pleno-20261013-838366.html",
+    "source": "El Economista",
+    "published": "2026-10-13T11:07:36-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Explicador: ¿Cómo se reducirá la jornada laboral en México a partir de 2027?",
+    "summary": "El Economista explica que a partir del 1 de enero de 2027 comenzará a reducirse gradualmente la jornada laboral en México, tras la reforma a la Ley Federal del Trabajo del 1 de mayo.",
+    "link": "https://www.eleconomista.com.mx/explicadores/reduccion-jornada-laboral-mexico-2027-explicada-20261013-837887.html",
+    "source": "El Economista",
+    "published": "2026-10-13T11:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Boom Fuels Global Financial Risks: A Guide to the Circular Deals",
@@ -174,6 +372,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Mexico City Architecture City Guide: 38 Projects From Tenochtitlan to the 21st Century",
+    "summary": "ArchDaily publica una guía de arquitectura de Ciudad de México con 38 proyectos, desde Tenochtitlan hasta el siglo XXI.",
+    "link": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+    "source": "ArchDaily",
+    "published": "2026-10-13T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
@@ -5289,214 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Cuando la IA nos gane el juicio (II)",
-    "summary": "Una columna sobre cómo la IA gana terreno frente a los abogados y si podría reemplazar total o parcialmente a los juzgadores, así como lo que ocurriría si los tribunales se resisten.",
-    "link": "https://www.elfinanciero.com.mx/opinion/oliver-galindo/2026/10/02/cuando-la-ia-nos-gane-el-juicio-ii/",
-    "source": "El Financiero",
-    "published": "2026-10-02T10:09:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "NYC’s AI Office Boom Is Bust for Young Job Hunters, Report Finds",
-    "summary": "A Partnership for New York City report finds that NYC's AI office boom, with big investment and rising office leasing, is doing little for young workers starting their careers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nyc-s-ai-office-boom-is-bust-for-young-job-hunters-report-finds",
-    "source": "Bloomberg",
-    "published": "2026-10-02T10:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Analistas elevan previsión del PIB en México y ven mejor clima para los negocios",
-    "summary": "Analistas elevaron su previsión de crecimiento del PIB de México para este año y mostraron mayor optimismo sobre el clima de negocios y las decisiones de inversión.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/02/analistas-elevan-prevision-del-pib-en-mexico-y-ven-mejor-clima-para-los-negocios/",
-    "source": "El Financiero",
-    "published": "2026-10-02T09:50:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gobierno de Milei retoma plan de $2 billones para impulsar crédito hipotecario con fondos del FGS",
-    "summary": "El gobierno de Milei retoma el plan de ARS$2 billones, diseñado por Luis Caputo, para impulsar el crédito hipotecario en Argentina con fondos del FGS de la ANSeS.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-retoma-plan-de-2-billones-para-impulsar-credito-hipotecario-con-fondos-del-fgs/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-02T08:30:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inflación en la zona euro se dispara a 3.8% en septiembre y mantiene presión sobre las tasas del BCE",
-    "summary": "La inflación de la eurozona subió a 3.8% en septiembre, más de lo previsto, por el aumento de costos energéticos. Aumenta la presión sobre el BCE para subir tasas.",
-    "link": "https://www.eleconomista.com.mx/economia/inflacion-zona-euro-dispara-3-8-septiembre-mantiene-presion-sobre-tasas-bce-20261002-836505.html",
-    "source": "El Economista",
-    "published": "2026-10-02T06:40:01-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "PIMCO's Stracke on Credit Risks, Yield Shock Ahead",
-    "summary": "PIMCO President Christian Stracke discusses the forces behind the global bond selloff, the yield levels that could threaten equities, and whether investors underestimate the policy tightening still ahead.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/pimco-s-stracke-on-credit-risks-yield-shock-ahead-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T06:03:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Tools Suspected in Korea’s Shinhan Bank Hack, Yonhap Says",
-    "summary": "Advanced AI tools may have been used in a cyberattack on South Korea's Shinhan Bank that exposed data on about 25,000 customers, per Yonhap. The case highlights the risk of automated hacking against financial institutions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/ai-tools-suspected-in-korea-s-shinhan-bank-hack-yonhap-says",
-    "source": "Bloomberg",
-    "published": "2026-10-02T05:44:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global bond market steadies after sharp sell-off",
-    "summary": "Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002, before the global bond market steadied.",
-    "link": "https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T05:09:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Amazon to Move $8 Billion of Chips Off Its Books, FT Says",
-    "summary": "Amazon is reportedly exploring a deal to shift about $8 billion of top-end Nvidia chips off its balance sheet to investors, per the FT.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says",
-    "source": "Bloomberg",
-    "published": "2026-10-02T04:23:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Amazon seeks to offload $8bn of Nvidia chips to investors",
-    "summary": "Amazon seeks to offload about $8bn of Nvidia chips to investors, a move aimed at improving the tech group's balance sheet health as AI spending soars.",
-    "link": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T04:00:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Quant hedge funds reap big gains from global bond sell-off",
-    "summary": "Trend-following quant funds have profited from this year's sharp rise in yields, fueled by the Iran war and strong US data stoking inflation fears.",
-    "link": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T04:00:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "No, AI is not similar to the Manhattan Project",
-    "summary": "An FT opinion piece argues that AI is not comparable to the Manhattan Project, since the current threat was born out of the private sector.",
-    "link": "https://www.ft.com/content/7b8336a1-6ac4-4f55-a987-b5f7cf6f4983",
-    "source": "Financial Times",
-    "published": "2026-10-02T04:00:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI got smarter. The bills got harder to control",
-    "summary": "Powerful AI tools are burning through corporate budgets, forcing a rethink of how the technology is priced ahead of frontier-lab IPOs. Token-based costs have become hard to control.",
-    "link": "https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T04:00:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Filtran datos en el IMSS, SAT e Hipotecaria Federal",
-    "summary": "La Secretaría Anticorrupción y Buen Gobierno informó que el IMSS, el SAT, la Sociedad Hipotecaria Federal y nueve institutos de salud no protegieron conforme a la ley los datos personales de ciudadanos. Lo revela su Segundo Informe de Labores 2025-2026.",
-    "link": "https://www.eleconomista.com.mx/politica/filtran-datos-imss-sat-e-hipotecaria-federal-20261002-836476.html",
-    "source": "El Economista",
-    "published": "2026-10-02T00:20:31-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma Judicial frena inversiones de 28.8% de empresas, según Coparmex",
-    "summary": "Coparmex reporta que la Reforma Judicial frena inversiones de 28.8% de las empresas.",
-    "link": "https://expansion.mx/economia/2026/10/01/reforma-judicial-frena-inversiones-empresas-coparmex",
-    "source": "Expansión",
-    "published": "2026-10-02T00:11:32+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La Ley de Economía Digital es aprobada por diputados en Comisión de Hacienda",
-    "summary": "La Ley de Economía Digital fue aprobada por diputados en la Comisión de Hacienda, avanzando en el proceso legislativo.",
-    "link": "https://expansion.mx/economia/2026/10/01/ley-economia-digital-aprobada-diputados-comision-hacienda",
-    "source": "Expansión",
-    "published": "2026-10-01T23:50:11+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank Stock Investors See Past Credit Risks to AI Returns",
-    "summary": "SoftBank's equity investors are focusing on the potential returns from its AI bets, helping the stock rebound even as the company faces higher borrowing costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside",
-    "source": "Bloomberg",
-    "published": "2026-10-01T23:30:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Robo de identidad y el fraude son las mayores amenazas para los mexicanos: Buró de Crédito",
-    "summary": "El Buró de Crédito señala que el robo de identidad y el fraude son las mayores amenazas para los mexicanos en materia financiera.",
-    "link": "https://expansion.mx/economia/2026/10/01/robo-de-identidad-y-el-fraude-son-las-mayores-amenazas-para-los-mexicanos-buro-de-credito",
-    "source": "Expansión",
-    "published": "2026-10-01T23:26:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ley de Economía Digital impulsará pagos más eficientes y ventas de las Pymes, dicen Visa y Mercado Pago",
-    "summary": "Visa y Mercado Pago afirman que la Ley de Economía Digital impulsará pagos más eficientes y las ventas de las Pymes en México.",
-    "link": "https://expansion.mx/economia/2026/10/01/ley-de-economia-digital-impulsara-pagos-mas-eficientes-y-ventas-de-las-pymes-dicen-visa-y-mercado-pago",
-    "source": "Expansión",
-    "published": "2026-10-01T23:13:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
   }
 ]
