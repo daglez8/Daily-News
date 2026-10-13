@@ -1,5 +1,104 @@
 [
   {
+    "title": "Citi’s Fixed Income Traders Drive Third-Quarter Beat on Revenue",
+    "summary": "Citigroup's fixed-income traders posted their best third quarter in at least a decade, lifting revenue to near-record levels and offsetting a sluggish quarter in investment banking advisory.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/citi-s-ficc-traders-drive-third-quarter-beat-on-revenue-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T12:50:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "LSEG in Talks to Buy Permira-Owned Credit Firm Octus",
+    "summary": "London Stock Exchange Group is in talks to acquire Octus, a global credit platform, from private equity owner Permira, according to people familiar with the matter. The deal would be a notable financial-data and PE exit transaction.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/lseg-in-talks-to-buy-permira-owned-credit-firm-octus",
+    "source": "Bloomberg",
+    "published": "2026-10-13T12:00:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "12.9 millones de datos están a la venta: quién responde cuando una empresa los expone",
+    "summary": "Expansión examina quién responde cuando una empresa expone datos: 12.9 millones de registros están a la venta. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/tecnologia/2026/10/13/quien-responde-por-tus-datos-personales",
+    "source": "Expansión",
+    "published": "2026-10-13T11:55:44+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Goldman Beats on Equity Trading as Fixed Income Falls Short",
+    "summary": "Goldman Sachs' equities traders reported $6.44 billion in revenue for the third quarter, topping expectations, while fixed income and rates trading fell far short of estimates.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/goldman-beats-on-equity-trading-as-fixed-income-misses-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T11:50:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Boom Fuels Global Financial Risks: A Guide to the Circular Deals",
+    "summary": "New pools of capital are flowing into the US, but not in the way they used to. Bloomberg offers a guide to the circular deals around the AI boom and the global financial risks they create.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/ai-boom-fuels-global-financial-risks-a-guide-to-the-circular-deals",
+    "source": "Bloomberg",
+    "published": "2026-10-13T10:28:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Raimondo Says AI Challenges Need Governance Framework",
+    "summary": "Gina Raimondo argues a governance framework is needed for AI's challenges, including the risk of agents going rogue. She spoke at the 2026 Bloomberg New Economy Forum in New Delhi.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/raimondo-says-ai-challenges-need-governance-framework",
+    "source": "Bloomberg",
+    "published": "2026-10-13T10:24:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens",
+    "summary": "Anthropic warns that rogue AI agents could 'self-replicate' and act as worms spreading across smart appliances such as lawnmowers and TVs. The company frames it as a future cybersecurity threat.",
+    "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-13T10:11:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bancos tradicionales VS. Neobancos: la rentabilidad que ofrecen en sus cuentas de ahorros",
+    "summary": "Tras la alza de tasas del Banco de la República a 12,25% con inflación de 6,24%, Bloomberg Línea compara cuánto pagan bancos tradicionales y neobancos en cuentas de ahorro en Colombia, con cifras de la Superintendencia Financiera.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/bancos-tradicionales-vs-neobancos-la-rentabilidad-que-ofrecen-en-sus-cuentas-de-ahorros/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-13T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fed's Waller on Monetary Policy in the Age of AI",
+    "summary": "Fed Governor Christopher Waller discusses how central banks can respond to the economic and social changes driven by AI, speaking at the 2026 Bloomberg New Economy Forum in New Delhi.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/fed-s-waller-on-monetary-policy-in-the-age-of-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T08:38:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Diputados aprueban Ley del ISR en comisiones: Monreal advierte que la votarán en San Lázaro esta semana",
     "summary": "Comisión de Hacienda aprobó con 26 votos a favor y 9 en contra la reforma a la Ley del ISR, que limita deducciones de personas morales y amortización de pérdidas. Se votará en San Lázaro esta semana.",
     "link": "https://www.elfinanciero.com.mx/nacional/2026/10/13/diputados-aprueban-ley-del-isr-en-comisiones-monreal-advierte-que-la-votaran-en-san-lazaro-esta-semana/",
@@ -7,6 +106,39 @@
     "published": "2026-10-13T07:10:10+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Venture capital repuntó en América Latina en 2025, pero menos startups logran despegar: Informe",
+    "summary": "La inversión de capital de riesgo en startups de América Latina creció notablemente en 2025, pero la recuperación llega a menos empresas y ayuda menos a que las pequeñas escalen, según un informe de Endeavor y Glisco Partners.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/venture-capital-repunto-america-latina-2025-startups-logran-despegar-informe-20261013-838319.html",
+    "source": "El Economista",
+    "published": "2026-10-13T06:22:12-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic dice que las nuevas medidas de seguridad reducen los ataques de \"destilación\" de la IA",
+    "summary": "Anthropic dijo que sus nuevas medidas de seguridad contra los ataques de 'destilación' redujeron entre 90% y 99% los datos recopilados por competidores que buscan copiar las capacidades de Claude. La destilación se ha vuelto una preocupación clave en la industria de IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-dice-nuevas-medidas-seguridad-reducen-ataques-destilacion-ia-20261013-838318.html",
+    "source": "El Economista",
+    "published": "2026-10-13T06:16:43-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los modelos de IA podrían autorreplicarse pronto sin acceder a centros de datos: Anthropic",
+    "summary": "Anthropic informó que sus experimentos indican que modelos de IA pequeños podrían estar a pocos meses de autorreplicarse en dispositivos IoT comerciales, como hornos inteligentes y decodificadores de Android TV, sin necesitar centros de datos. El hallazgo plantea nuevos riesgos de ciberseguridad ligados a agentes de IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/modelos-ia-autorreplicarse-pronto-acceder-centros-datos-anthropic-20261013-838317.html",
+    "source": "El Economista",
+    "published": "2026-10-13T06:12:16-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
     "language": "es",
     "light": false
   },
@@ -5366,137 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
-    "summary": "Stripe is expanding its Dublin office, a boost for a city hit by a spate of AI-related job cuts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
-    "source": "Bloomberg",
-    "published": "2026-10-01T23:01:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Al peso le tomó casi dos años ganar 18%, pero en un mes perdió 6.5%",
-    "summary": "Al peso le tomó casi dos años ganar 18%, pero en un solo mes perdió 6.5%, según Expansión.",
-    "link": "https://expansion.mx/mercados/2026/10/01/peso-mexicano-pierde-6-5-septiembre-dolar-tipo-cambio",
-    "source": "Expansión",
-    "published": "2026-10-01T22:51:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Russell Reynolds CEO on C-Suite Leadership & New Book",
-    "summary": "Russell Reynolds CEO Constantine Alexandrakis, author of The Catalyst CEO, discusses why CEOs cannot drive transformation alone and what leadership is needed when a company requires both cultural repair and strategic disruption.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/russell-reynolds-ceo-on-c-suite-leadership-new-book-video",
-    "source": "Bloomberg",
-    "published": "2026-10-01T21:57:16+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Rising Yields Are Wreaking Havoc on Stocks Outside the AI Trade",
-    "summary": "After the 10-year Treasury yield rose as high as 5.34%, its highest since 2002, traders debate when the bond selloff will hurt the resilient US stock market. Stocks outside the AI trade are already suffering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/rising-yields-are-wreaking-havoc-on-stocks-outside-the-ai-trade",
-    "source": "Bloomberg",
-    "published": "2026-10-01T20:30:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Said to Plan Pre-IPO Investor Day as Listing Nears",
-    "summary": "Anthropic is set to meet prospective investors on Oct. 14 ahead of its planned IPO, according to people familiar with the matter. The listing push advances even amid scrutiny over AI safety.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears",
-    "source": "Bloomberg",
-    "published": "2026-10-01T20:14:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
-    "summary": "OpenAI and Meta are pushing ahead with AI agents while trying to convince users to trust them with more sensitive tasks. The newsletter examines how far public trust will stretch.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
-    "source": "Bloomberg",
-    "published": "2026-10-01T20:00:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Remesas bajan en agosto y se interrumpe racha de 6 meses al alza",
-    "summary": "México recibió 5,452 millones de dólares en remesas en agosto, una baja de 3.6% anual según Banxico. Con ello se interrumpe una racha de seis meses de crecimientos consecutivos.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/01/remesas-bajan-en-agosto-y-se-interrumpe-racha-de-6-meses-al-alza/",
-    "source": "El Financiero",
-    "published": "2026-10-01T19:01:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CFPB Cuts May Leave Personal Financial Data at Risk, Report Says",
-    "summary": "A watchdog report says US government databases with sensitive financial information on millions of Americans may be at risk after the Trump administration gutted the Consumer Financial Protection Bureau last year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/cfpb-cuts-may-leave-personal-financial-data-at-risk-report-says",
-    "source": "Bloomberg",
-    "published": "2026-10-01T18:34:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US mortgage rates jump the most in four years amid bond sell-off",
-    "summary": "Las tasas hipotecarias en EE.UU. registraron su mayor salto en cuatro años en medio de la venta de bonos. Constructoras y compradores potenciales siguen enfrentando condiciones de mercado difíciles.",
-    "link": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-01T18:29:38+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
-    "summary": "OpenAI se separó de tres empleados por violar las políticas sobre el manejo de información privada, incluido compartirla supuestamente con un grupo externo.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
-    "source": "Bloomberg",
-    "published": "2026-10-01T18:27:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "“Nos encanta lo que estamos viendo en Argentina”, dice el CEO global del Santander",
-    "summary": "El CEO global de Santander, Héctor Grisi, dijo en el Argentina Week de París que el banco pasó de ver estabilización a ver una gran oportunidad de inversión en Argentina. Por primera vez financia a largo plazo proyectos de energía y minería en el país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/nos-encanta-lo-que-estamos-viendo-en-argentina-dice-el-ceo-global-del-santander/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-01T18:13:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Benchmark Yield Hits Highest Since 2002",
-    "summary": "Los Treasuries se recuperaron de la venta global de bonos que golpeó a Europa, llevando el rendimiento a 10 años de vuelta desde un máximo de 24 años. Ira Jersey de Bloomberg analiza el movimiento.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/us-benchmark-yield-hits-highest-since-2002-video",
-    "source": "Bloomberg",
-    "published": "2026-10-01T17:38:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
