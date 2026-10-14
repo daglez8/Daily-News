@@ -1,5 +1,236 @@
 [
   {
+    "title": "AI demand to exceed supply for 2 more years, says ASML",
+    "summary": "ASML says AI demand will exceed supply for two more years, with clients such as TSMC and Intel reporting 'very, very strong demand'.",
+    "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T06:50:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sunil Mittal Warns AI Is Outpacing Regulation",
+    "summary": "Sunil Mittal says governments are struggling to keep pace with AI innovation and argues regulation should set guardrails without stifling innovation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T06:22:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "L&G Is Hedging Its Bond Purchases Against Risk of Selloff",
+    "summary": "Legal & General, Britain's largest asset manager, is hedging its government bond purchases against the risk of a renewed selloff in global debt markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/l-g-is-hedging-its-bond-purchases-against-risk-of-selloff",
+    "source": "Bloomberg",
+    "published": "2026-10-14T06:15:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ASML Raises Full-Year Sales Outlook",
+    "summary": "ASML raised the low end of its 2026 sales forecast to €44–45 billion as AI spending boosts demand for its chip-making machines.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T06:07:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
+    "summary": "Indian tycoon Sunil Bharti Mittal called for immediate AI regulatory frameworks, warning that governments should not wait for a serious rogue-agent incident before acting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ai-regulation-needed-now-before-accidents-occur-mittal-says",
+    "source": "Bloomberg",
+    "published": "2026-10-14T05:55:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IMF, World Bank Tout Bangkok Blueprint Against Digital Fraud",
+    "summary": "The IMF and World Bank unveiled a global roadmap to fight online financial fraud as sophisticated scams undermine confidence in digital finance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/imf-world-bank-unveil-bangkok-blueprint-to-combat-digital-fraud",
+    "source": "Bloomberg",
+    "published": "2026-10-14T05:30:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ASML Says It Can’t Keep Up With AI Demand for Chip Tools",
+    "summary": "ASML warns that soaring AI spending could leave it with a supply shortfall of chip-making machines over the next two years, while it raises its 2026 sales forecast.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand",
+    "source": "Bloomberg",
+    "published": "2026-10-14T05:12:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center",
+    "summary": "Princeton Digital Group is seeking a syndicated loan of up to $1.2 billion for its Malaysia data center buildout as the AI infrastructure debt binge continues.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-s-pdg-seeks-1-2-billion-loan-for-malaysia-data-center",
+    "source": "Bloomberg",
+    "published": "2026-10-14T04:28:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Espionaje en OpenAI? Arrestan a exempleado por ‘plantar’ una grabadora oculta en sus oficinas",
+    "summary": "Un empleado de OpenAI fue arrestado y acusado de usar un dispositivo de grabación oculto en una oficina de la compañía en San Francisco, según OpenAI y el Departamento de Justicia de EU.",
+    "link": "https://www.elfinanciero.com.mx/tech/2026/10/13/espionaje-en-openai-arrestan-a-exempleado-por-plantar-una-grabadora-oculta-en-sus-oficinas/",
+    "source": "El Financiero",
+    "published": "2026-10-14T04:08:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cheaper Yuan Debt Gives Chinese Firms an AI Funding Edge",
+    "summary": "Tencent is leaning on cheap offshore yuan debt to fund its AI infrastructure, an example of Chinese tech firms using a funding edge over global rivals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/cheaper-yuan-debt-gives-tencent-an-ai-funding-advantage",
+    "source": "Bloomberg",
+    "published": "2026-10-14T03:10:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Le ‘cae la voladora’ a Bank of America: ¿Por qué gobierno de Trump la multó con mil 200 millones de dólares?",
+    "summary": "El Tesoro de EU impondrá multas por 1,200 millones de dólares a Bank of America por presuntas violaciones a leyes antilavado y normas de sanciones.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/13/le-cae-la-voladora-a-bank-of-america-por-que-el-gobierno-de-trump-la-multo-con-mil-200-mdd/",
+    "source": "El Financiero",
+    "published": "2026-10-14T03:04:56+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Televisa compra AT&T México: ¿Quién es David Martínez, el empresario que se alió para competir con Slim?",
+    "summary": "Grupo Televisa anunció un acuerdo con Fintech Holdings, de David Martínez, para adquirir el 100% de las operaciones de AT&T México, en una alianza para competir con Slim.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/13/televisa-compra-att-mexico-quien-es-david-martinez-el-empresario-que-se-alio-para-competir-con-slim/",
+    "source": "El Financiero",
+    "published": "2026-10-14T02:27:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+    "summary": "US authorities arrested a Saudi employee of OpenAI for allegedly bugging its offices; the AI lab found a recording device concealed behind a television in a conference room.",
+    "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T01:59:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Infonavit entrega de 900 hogares en Veracruz, reconoce a Indheca Grupo Constructor",
+    "summary": "El Infonavit entregó 900 viviendas en Veracruz, el mayor volumen de hogares otorgado de una sola vez, con reconocimiento a Indheca Grupo Constructor.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/10/13/infonavit-entrega-900-viviendas-a-derechohabientes-en-veracruz/",
+    "source": "El Financiero",
+    "published": "2026-10-14T01:47:12+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reforma judicial y costos laborales ensombrecen la incipiente mejora del PIB",
+    "summary": "La economía muestra señales de vida pero lejos de una recuperación sólida: la inversión creció 1.4% mensual en julio, impulsada por construcción no residencial; reforma judicial y costos laborales pesan.",
+    "link": "https://www.eleconomista.com.mx/opinion/reforma-judicial-costos-laborales-ensombrecen-incipiente-mejora-pib-20261014-838513.html",
+    "source": "El Economista",
+    "published": "2026-10-14T00:55:48-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ley catastral, el desafío",
+    "summary": "La Cámara de Diputados aprobó la nueva Ley General para el Fortalecimiento y Armonización Catastral y Registral, propuesta por Sheinbaum, que pasa ahora a la Cámara de Senadores.",
+    "link": "https://www.eleconomista.com.mx/opinion/ley-catastral-desafio-20261014-838501.html",
+    "source": "El Economista",
+    "published": "2026-10-14T00:13:07-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sheinbaum anuncia 8.4 billones de pesos de inversión en infraestructura al 2030",
+    "summary": "Sheinbaum anunció un plan de inversión pública y mixta en infraestructura por 8.4 billones de pesos para los próximos años.",
+    "link": "https://www.eleconomista.com.mx/empresas/sheinbaum-anuncia-8-4-billones-pesos-inversion-infraestructura-20261014-838499.html",
+    "source": "El Economista",
+    "published": "2026-10-14T00:11:18-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Diputados aprueban en lo general reforma al ISR para recuperar recaudación",
+    "summary": "La Cámara de Diputados aprobó en lo general la reforma a la Ley del ISR que limita deducciones y pérdidas fiscales de empresas con ingresos superiores a 50 millones de pesos.",
+    "link": "https://www.eleconomista.com.mx/economia/diputados-aprueban-general-reforma-isr-recuperar-recaudacion-20261013-838493.html",
+    "source": "El Economista",
+    "published": "2026-10-13T23:44:54-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
+    "summary": "Anthropic has asked the federal appeals court in Washington to rehear its case after the court upheld the Trump administration's designation of the company as a supply-chain risk to US national security.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
+    "source": "Bloomberg",
+    "published": "2026-10-13T22:24:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Vista Equity CEO Smith on Growth of AI, Agentic Software",
+    "summary": "Vista Equity's Robert F. Smith discusses the growth of AI and agentic software and stresses the importance of learning to use an AI agent.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/vista-s-smith-on-growth-of-ai-agentic-software-video",
+    "source": "Bloomberg",
+    "published": "2026-10-13T21:45:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office",
+    "summary": "An OpenAI employee was arrested and charged with using a hidden recording device in one of the company's San Francisco offices, according to OpenAI and the US Justice Department.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
+    "source": "Bloomberg",
+    "published": "2026-10-13T20:13:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet",
     "summary": "Mark Zuckerberg admitted Meta had to commit hundreds of billions of dollars to AI infrastructure before knowing whether its products would succeed. The remarks highlight the scale of uncertainty behind the AI investment race.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet",
@@ -9,6 +240,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El negocio de las citas online no resiste: Bumble vuelve a ser privado por 1,300 millones de dólares",
+    "summary": "Bumble vuelve a ser privada en una operación de 1,300 millones de dólares, en una señal de las dificultades del negocio de citas en línea.",
+    "link": "https://expansion.mx/tecnologia/2026/10/13/bumble-adquisicion-1300-millones-dolares",
+    "source": "Expansión",
+    "published": "2026-10-13T18:09:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Ray Dalio alerta por la deuda de EE.UU. y cree que el desplome de los bonos aún no termina",
@@ -31,6 +273,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Menos dinero por petróleo y más por impuestos, el dictamen de la Ley de Ingresos llega al pleno de Diputados",
+    "summary": "El dictamen de la Ley de Ingresos llega al pleno de Diputados con menos recursos por petróleo y más por impuestos.",
+    "link": "https://expansion.mx/economia/2026/10/13/menos-dinero-por-petroleo-y-mas-por-impuestos-el-dictamen-de-la-ley-de-ingresos-llega-al-pleno-de-diputados",
+    "source": "Expansión",
+    "published": "2026-10-13T17:44:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Bassman Warns of ‘Nightmare Scenario’ Amplifying US Bond Selloff",
@@ -240,6 +493,17 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales",
+    "summary": "Ledger revisa sus políticas de venta de dispositivos tras un spyware implantado en algunas carteras que derivó en pérdidas estimadas de $90 millones en criptomonedas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ledger-to-review-sale-policies-after-crypto-spyware-attack",
+    "source": "Bloomberg",
+    "published": "2026-10-13T11:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "AI Boom Fuels Global Financial Risks: A Guide to the Circular Deals",
@@ -5234,269 +5498,5 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
-    "summary": "Lockheed Martin takes a model-agnostic approach to AI, using 55 different LLMs across its business, including OpenAI's. Its technology chief explains how the company tests AI before deploying it.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T17:37:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los mercados afrontan un riesgo inédito: dos históricos colchones económicos pierden fuerza",
-    "summary": "Los mercados podrían entrar en una etapa con menos protección ante crisis: la política monetaria y la fiscal, que amortiguaron caídas por décadas, enfrentan restricciones que reducen su margen de respuesta.",
-    "link": "https://www.bloomberglinea.com/mercados/los-mercados-afrontan-un-riesgo-inedito-dos-historicos-colchones-economicos-pierden-fuerza/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-02T17:35:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "James Manyika on AI Regulation",
-    "summary": "Google SVP James Manyika says AI safety should not be left to any one company and calls for a collective effort on regulation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/james-manyika-on-ai-regulation-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T17:32:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paramount’s $52 Billion Debt Saga Ends With Hair-Raising Finale",
-    "summary": "The months-long hunt for $52 billion of debt to fund Paramount Skydance's takeover of Warner Bros. Discovery ended in a messy finale, with records smashed and instant losses. The financing is among the largest of its kind.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/paramount-s-52-billion-debt-saga-ends-with-hair-raising-finale",
-    "source": "Bloomberg",
-    "published": "2026-10-02T17:18:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AMS House / Jacobsen Arquitetura",
-    "summary": "AMS House by Jacobsen Arquitetura sits on a sloping plot with native forest as a backdrop; three blocks linked by covered walkways, with the social volume at the center.",
-    "link": "https://www.archdaily.com/1034312/ams-house-jacobsen-arquitetura",
-    "source": "ArchDaily",
-    "published": "2026-10-02T17:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
-    "summary": "The US economy added just 29,000 jobs in September as hiring slowed sharply. The weak figure renews the market debate over further Fed rate rises.",
-    "link": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T16:59:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hedge Funds Exiting Crowded Trades Fueled Rout in French Bonds",
-    "summary": "Hedge funds on the wrong side of this week's slump in French bonds were forced to unwind crowded bets rapidly. The unwinds fueled wild moves that European markets struggled to absorb.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-exiting-crowded-trades-fueled-rout-in-french-bonds",
-    "source": "Bloomberg",
-    "published": "2026-10-02T16:40:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘El resplandor’ del peso: Gana al dólar tras ‘débil’ dato de empleo en EU",
-    "summary": "El peso mexicano frena una racha de cuatro sesiones a la baja frente al dólar tras el débil dato de empleo en EU, de solo 29 mil puestos. El mercado reevalúa el rumbo de las tasas de la Fed.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/02/peso-dolar-precio-hoy-2-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-02T16:13:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why does Anthropic’s IPO feel so weird?",
-    "summary": "The build-up to Anthropic's expected IPO has felt unusually discordant compared with other blockbuster listings, according to the FT. The piece examines why the AI lab's path to market feels strange to investors.",
-    "link": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T15:21:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Rural School in Oaxaca / Territorio Estudio",
-    "summary": "Escuela rural en Oaxaca de Territorio Estudio: un techo de estructura ligera y abierta crea sombra y dialoga con la naturaleza y las condiciones preexistentes del sitio.",
-    "link": "https://www.archdaily.com/1023159/rural-school-in-oaxaca-territorio-estudio",
-    "source": "ArchDaily",
-    "published": "2026-10-02T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
-    "summary": "US equity exchanges will move toward around-the-clock trading starting in December. The change ends decades of nightly market closures.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon",
-    "source": "Bloomberg",
-    "published": "2026-10-02T14:08:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Onsemi Revises the Terms of Synaptics Deal",
-    "summary": "Onsemi revised the terms of its Synaptics acquisition, now paying about $5.7 billion in cash instead of roughly $7 billion in shares.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/onsemi-revises-the-terms-of-synaptics-deal-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T13:59:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Adds 29,000 Jobs in September, Jobless Rate Rises",
-    "summary": "The US added just 29,000 jobs in September while the jobless rate rose, a sharp slowdown in hiring that complicates the Fed's rate path.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/us-adds-29-000-jobs-in-september-jobless-rate-rises-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T12:49:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Remesas a México superaron los 5,000 millones de dólares en agosto, por cuarto mes consecutivo",
-    "summary": "Las remesas a México superaron los 5,000 millones de dólares en agosto, el cuarto mes consecutivo por encima de ese nivel. Son un flujo clave para el consumo y el crédito de los hogares.",
-    "link": "https://www.eleconomista.com.mx/videos/remesas-mexico-superaron-5-000-millones-dolares-agosto-cuarto-mes-consecutivo-20261002-836549.html",
-    "source": "El Economista",
-    "published": "2026-10-02T12:48:28-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Bond Traders Pull Back on Fed Hike Bets After Weak Jobs Data",
-    "summary": "Bond traders pared bets on a Federal Reserve rate hike this month after weak US labor-market data. Yields and the dollar eased following the jobs report.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/bond-traders-pull-back-on-fed-hike-bets-after-soft-jobs-data",
-    "source": "Bloomberg",
-    "published": "2026-10-02T12:38:56+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blue Owl Again Caps Two BDCs After 39%, 17% Withdrawal Requests",
-    "summary": "Blue Owl again capped redemptions at 5% on two private credit funds after withdrawal requests of 39% and 17%. Fears around AI kept requests at its flagship technology fund well above industry peers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/blue-owl-again-caps-two-bdcs-after-39-17-withdrawal-requests",
-    "source": "Bloomberg",
-    "published": "2026-10-02T12:38:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Argentina anuncia “pasaporte de oro” para extranjeros: podrán adquirirlo desde los US$350.000",
-    "summary": "Argentina presentó en París un programa de ciudadanía por inversión: un aporte no reembolsable de US$350,000 al Tesoro o un título público de US$800,000 darían acceso a la ciudadanía.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-anuncia-pasaporte-de-oro-para-extranjeros-podran-adquirirlo-desde-los-us350000/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-02T12:16:50+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México logra inversión récord, ¿por qué no crece más?",
-    "summary": "Expansión analiza por qué México logra inversión récord pero no consigue crecer más.",
-    "link": "https://expansion.mx/opinion/2026/10/02/mexico-logra-inversion-record-por-que-no-crece-mas",
-    "source": "Expansión",
-    "published": "2026-10-02T12:06:59+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Stocks Climb Ahead of Payrolls Report, Anthropic Eyes November IPO",
-    "summary": "Anthropic is reportedly seeking to go public as soon as mid-November, with formal IPO marketing potentially starting the week of November 9. The report came alongside US equity futures rising ahead of the payrolls release.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-brief-10-02-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T12:05:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chalet des Huarts / Atelier MAa architecture +",
-    "summary": "A modest 105 m² seasonal retreat overlooking Lake Memphremagog is adapted rather than demolished or expanded. The chalet explores how an inherited structure can endure.",
-    "link": "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
-    "source": "ArchDaily",
-    "published": "2026-10-02T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "My mortgage is a problem for the Fed, and for America",
-    "summary": "An FT columnist argues that homeowners staying put with low-rate mortgages have frozen the housing market, leaving affordability as poor as during the housing bubble. The lock-in is framed as a problem for the Fed and the US economy.",
-    "link": "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T11:09:56+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Viviendo más, pero cotizando menos. Los retos de las pensiones en México",
-    "summary": "Los sistemas de pensiones de América Latina no fueron diseñados para la longevidad actual, y en México se vive más pero se cotiza menos. El artículo revisa los retos de incentivos para el retiro.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/viviendo-cotizando-retos-pensiones-mexico-20261002-836387.html",
-    "source": "El Economista",
-    "published": "2026-10-02T10:45:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AT1 Niche Turns Into Acute Painpoint of Global Bond Selloff",
-    "summary": "A corner of the Additional Tier 1 bond market is under acute stress in the global selloff, as rising rates squeeze banks with large property-lending businesses. Their riskiest debt is being hit hardest.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/at1-niche-turns-into-acute-painpoint-of-global-bond-selloff",
-    "source": "Bloomberg",
-    "published": "2026-10-02T10:36:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Talent Race Between US and China Is the Next Battleground",
-    "summary": "China and India supply most international grad students in the US, and increasingly they are returning home, making the AI talent race a key battleground.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
-    "source": "Bloomberg",
-    "published": "2026-10-02T10:28:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   }
 ]
