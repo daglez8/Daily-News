@@ -1,5 +1,214 @@
 [
   {
+    "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
+    "summary": "OpenAI CFO Sarah Friar says businesses opting for low-cost Chinese AI models are taking a cybersecurity risk, echoing concerns from rival Anthropic.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
+    "source": "Bloomberg",
+    "published": "2026-10-14T12:54:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los límites de la digitalización forzada",
+    "summary": "Columna sobre los límites de la digitalización financiera forzada: aunque puede dar comodidad y ahorro a consumidores y reducir costos a empresas, también plantea riesgos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/10/14/los-limites-de-la-digitalizacion-forzada/",
+    "source": "El Financiero",
+    "published": "2026-10-14T12:45:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
+    "summary": "US Treasuries slumped after hotter-than-expected inflation led traders to raise bets that the Fed will hike rates later this month and next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-treasuries-slump-as-hot-inflation-lifts-fed-rate-hike-bets",
+    "source": "Bloomberg",
+    "published": "2026-10-14T12:44:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
+    "summary": "Bank of America's profits fell 17% after a $1.2bn money laundering fine, and the second-largest US bank reported weaker trading results than Wall Street rivals.",
+    "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T12:19:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's Princen on AI Impact on Businesses, Startups",
+    "summary": "Anthropic's Guillaume Princen discusses how AI will affect businesses and startups, customer spending on frontier models and AI safety risks. He spoke from the International AI Summit in Dublin.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-impact-on-businesses-startups-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T12:18:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
+    "summary": "Morgan Stanley's third-quarter profit rose as equity traders topped estimates and its wealth-management arm drew a record amount of new money.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/morgan-stanley-profit-climbs-on-equity-trading-beat-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T12:15:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kraken Parent to Acquire Lithuania-Based Saldo Bank",
+    "summary": "Payward, matriz del exchange cripto Kraken, adquirirá la sociedad matriz de Saldo Bank UAB, lo que le dará una licencia bancaria en Lituania.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/kraken-parent-to-acquire-lithuania-based-saldo-bank",
+    "source": "Bloomberg",
+    "published": "2026-10-14T12:11:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
+    "summary": "OpenAI CFO Sarah Friar says the company is doubling down on safety and alignment, and is holding back its next-generation model while it carries out checks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T11:55:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock pulls in $205bn to take assets to record high",
+    "summary": "BlackRock pulled in $205bn to lift assets to a record high, as the world's largest asset manager becomes a growing force in private capital after buying HPS and Global Infrastructure Partners.",
+    "link": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T11:39:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Mortgage Rates Hit 7.5%, Extends Home Buying Slump",
+    "summary": "US mortgage rates climbed to 7.5%, pushing home-purchase activity lower for a sixth straight week and extending the buying slump.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-mortgage-rates-hit-7-5-extending-slump-in-purchase-activity",
+    "source": "Bloomberg",
+    "published": "2026-10-14T11:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Más predial, menos renta",
+    "summary": "Columna que cuestiona la propuesta legislativa para que los municipios cobren más predial, con notas de preocupación sobre sus efectos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/manuel-molano/2026/10/14/mas-predial-menos-renta/",
+    "source": "El Financiero",
+    "published": "2026-10-14T11:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tycoons Amplify Calls for Stronger AI Rules as Risks Mount",
+    "summary": "Billionaires including Sunil Bharti Mittal and Noubar Afeyan join corporate leaders calling for tighter control of AI, reflecting mounting concern over the threat of renegade AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount",
+    "source": "Bloomberg",
+    "published": "2026-10-14T10:22:34+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "General Atlantic plans IPO at up to $10bn valuation",
+    "summary": "General Atlantic plans an IPO at a valuation of up to $10bn, seeking to fund an ambitious expansion to keep pace with rivals Blackstone and Apollo.",
+    "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T10:00:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El crédito caro frena el sueño de tener casa propia en Colombia, advierte Constructora Bolívar",
+    "summary": "Julián Perdomo, president of Constructora Bolívar, says high interest rates are now the main reason Colombians give up buying a home, with the drop-out indicator around 50% in the industry. He spoke with Bloomberg Línea.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/tasas-de-interes-altas-disparan-los-desistimientos-en-la-compra-de-vivienda-presidente-de-constructora-bolivar/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-14T10:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+    "summary": "CoreWeave's co-founder is eyeing insurers' vast capital to provide loans that fund the Nvidia-backed cloud provider's data-centre build-out.",
+    "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T09:58:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech Leaders on Moving AI From Pilot to Scale",
+    "summary": "Leaders from PwC, Sinovation Ventures, OpenAI and TDK discuss what it takes to move enterprise AI from pilot projects to deployment at scale.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T09:49:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crypto exchange Kraken owner to buy European bank",
+    "summary": "Payward is buying Lithuania's Saldo Bank as it seeks to become a broader financial services company.",
+    "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T09:30:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "MAIA: Interview of Guillaume Princen on Anthropic’s AI Strategy",
+    "summary": "Anthropic's Guillaume Princen says startups and large firms are adopting Claude tools to boost employee productivity, overhaul processes and build new products. He points to growing demand for frontier models, in an interview from the International AI Summit in Dublin.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T09:16:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+    "summary": "An Anthropic senior sales executive argues that open alternatives to its AI models carry more risk of cybersecurity incidents and other dangers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
+    "source": "Bloomberg",
+    "published": "2026-10-14T08:48:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI demand to exceed supply for 2 more years, says ASML",
     "summary": "ASML says AI demand will exceed supply for two more years, with clients such as TSMC and Intel reporting 'very, very strong demand'.",
     "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
@@ -20,6 +229,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Google DeepMind y Google Cloud darán acceso a investigadores europeos a sus modelos de vanguardia",
+    "summary": "Google DeepMind y Google Cloud darán a hasta 200 investigadores científicos europeos acceso directo a sus modelos de vanguardia, junto con 3 millones de dólares en créditos de cómputo.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/google-deepmind-google-cloud-permitiran-investigadores-europeos-acceder-modelos-vanguardia-20261014-838522.html",
+    "source": "El Economista",
+    "published": "2026-10-14T06:17:10-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "L&G Is Hedging Its Bond Purchases Against Risk of Selloff",
@@ -75,6 +295,28 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Tira la toalla AT&T en México",
+    "summary": "Televisa y Fintech Holdings ofrecieron 2 mil millones de dólares por la filial de AT&T en México, y esperan que la compra se concrete en el primer trimestre de 2027.",
+    "link": "https://www.reforma.com/tira-la-toalla-at-t-en-mexico/ar3294335",
+    "source": "Reforma",
+    "published": "2026-10-14T05:00:32-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
+    "summary": "La Cámara de Diputados aprobó la reforma a la Ley del ISR que limita las deducciones a las empresas.",
+    "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
+    "source": "Expansión",
+    "published": "2026-10-14T04:38:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center",
@@ -154,6 +396,28 @@
     "light": false
   },
   {
+    "title": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
+    "summary": "Las quejas contra aseguradoras en México crecieron 7.76% y los reclamos suman 2,386 millones de pesos.",
+    "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
+    "source": "Expansión",
+    "published": "2026-10-14T01:42:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué pasa con tu cuenta si tu Afore se declara en quiebra? Esto ocurre con tu ahorro para el retiro",
+    "summary": "Explica qué ocurre con el ahorro para el retiro de los trabajadores si su Afore se declara en quiebra.",
+    "link": "https://expansion.mx/finanzas-personales/2026/10/13/que-pasa-afore-quiebra-esto-debes-saber-de-tus-ahorros",
+    "source": "Expansión",
+    "published": "2026-10-14T00:58:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Reforma judicial y costos laborales ensombrecen la incipiente mejora del PIB",
     "summary": "La economía muestra señales de vida pero lejos de una recuperación sólida: la inversión creció 1.4% mensual en julio, impulsada por construcción no residencial; reforma judicial y costos laborales pesan.",
     "link": "https://www.eleconomista.com.mx/opinion/reforma-judicial-costos-laborales-ensombrecen-incipiente-mejora-pib-20261014-838513.html",
@@ -161,6 +425,17 @@
     "published": "2026-10-14T00:55:48-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
+    "summary": "El Departamento del Tesoro de EU sancionó a Bank of America con 1,210 millones de dólares por permitir lavado de dinero de China.",
+    "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
+    "source": "Expansión",
+    "published": "2026-10-14T00:13:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
     "language": "es",
     "light": false
   },
@@ -209,6 +484,28 @@
     "light": true
   },
   {
+    "title": "Televisa comprará AT&T México: qué pasará con tu línea y qué ocurrirá si todavía tienes una deuda",
+    "summary": "Explica qué pasará con las líneas de los usuarios y con quienes aún tienen adeudos tras el acuerdo de Televisa para comprar AT&T México.",
+    "link": "https://expansion.mx/empresas/2026/10/13/televisa-compra-at-t-que-pasara-con-tu-linea-y-deuda",
+    "source": "Expansión",
+    "published": "2026-10-13T22:07:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso presionado por la Reserva Federal de Estados Unidos; HSBC prevé otra alza en la tasa de la Fed",
+    "summary": "El peso se ve presionado por la Reserva Federal de EU, y HSBC prevé otra alza en la tasa de la Fed.",
+    "link": "https://expansion.mx/economia/2026/10/13/peso-presionado-por-la-reserva-federal-de-estados-unidos-hsbc-preve-otra-alza-en-la-tasa-de-la-fed",
+    "source": "Expansión",
+    "published": "2026-10-13T21:58:38+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Vista Equity CEO Smith on Growth of AI, Agentic Software",
     "summary": "Vista Equity's Robert F. Smith discusses the growth of AI and agentic software and stresses the importance of learning to use an AI agent.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-13/vista-s-smith-on-growth-of-ai-agentic-software-video",
@@ -218,6 +515,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Televisa y Fintech Holdings acuerdan comprar AT&T México por 2,000 millones de dólares",
+    "summary": "Televisa y Fintech Holdings acordaron comprar AT&T México por 2,000 millones de dólares, en una operación relevante para el sector de telecomunicaciones y servicios financieros en el país.",
+    "link": "https://expansion.mx/empresas/2026/10/13/televisa-acuerda-compra-att-mexico-2000-millones-dolares",
+    "source": "Expansión",
+    "published": "2026-10-13T20:35:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office",
@@ -5188,314 +5496,6 @@
     "published": "2026-10-03T11:00:00-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cómo se te vería esa ropa? ChatGPT estrena probador virtual para compras",
-    "summary": "OpenAI incorporó a ChatGPT un probador virtual que usa IA para mostrar ropa y accesorios sobre una imagen del propio usuario. Busca reducir la incertidumbre al comprar ropa en línea.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/te-veria-ropa-chatgpt-estrena-probador-virtual-compras-20261003-836694.html",
-    "source": "El Economista",
-    "published": "2026-10-03T10:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
-    "summary": "RBI Governor Sanjay Malhotra warned that the next financial crisis could originate outside finance, such as from war or a cyber attack.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/war-cyber-attack-could-trigger-next-financial-crisis-rbi-says",
-    "source": "Bloomberg",
-    "published": "2026-10-03T08:11:56+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Qué países de Latinoamérica están mejor posicionados en la carrera de la IA, según Oxford",
-    "summary": "Oxford Economics estima que la IA generativa sumaría entre 0.1 y 0.3 puntos porcentuales al crecimiento de América Latina, pero sin cambiar las dinámicas de largo plazo de la región. El análisis evalúa qué países están mejor posicionados en la carrera de la IA.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/que-paises-de-latinoamerica-estan-mejor-posicionados-en-la-carrera-de-la-ia-segun-oxford/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-03T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reducen la proyección de crecimiento potencial",
-    "summary": "Tras años de muy baja expansión del PIB, analistas comienzan a reducir sus estimaciones del crecimiento potencial de México.",
-    "link": "https://www.reforma.com/reducen-la-proyeccion-de-crecimiento-potencial/ar3287558",
-    "source": "Reforma",
-    "published": "2026-10-03T05:01:04-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "The right and wrong lessons to learn from Spain’s housing crisis",
-    "summary": "FT argues that evictions and spiralling rents are symptoms, not the underlying disease, in Spain's housing crisis, and weighs which lessons to take from it.",
-    "link": "https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-03T04:00:48+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Por qué las acciones del S&P 500 son resilientes ante la caída de los bonos?",
-    "summary": "El S&P 500 cerró septiembre con una caída de 0.5% y acumula más de 12% en el año, resiliente pese a que los rendimientos de los bonos de EU llegaron a niveles no vistos desde 2007.",
-    "link": "https://www.bloomberglinea.com/mercados/por-que-las-acciones-del-sp-500-son-resilientes-ante-la-caida-de-los-bonos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-03T04:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico cierra el programa de envío de remesas \"Directo a México\"; garantiza operaciones ordenadas",
-    "summary": "Banxico cierra el programa de envío de remesas \"Directo a México\" y garantiza que las operaciones se cerrarán de forma ordenada.",
-    "link": "https://expansion.mx/economia/2026/10/02/banxico-cierre-programa-directo-a-mexico",
-    "source": "Expansión",
-    "published": "2026-10-03T00:13:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bancos en México refuerzan prevención de lavado de dinero ante mayores exigencias de EU en combate a cárteles",
-    "summary": "Los bancos en México refuerzan sus controles de prevención de lavado de dinero ante las mayores exigencias de Estados Unidos en el combate a los cárteles. El tema apunta a mayor presión regulatoria y de cumplimiento para el sector financiero.",
-    "link": "https://expansion.mx/economia/2026/10/02/bancos-en-mexico-refuerzan-prevencion-de-lavado-de-dinero-ante-mayores-exigencias-de-eu-en-combate-a-carteles",
-    "source": "Expansión",
-    "published": "2026-10-03T00:00:32+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
-    "summary": "Kevin Hassett afirma que el impulso de la IA a la productividad podría ser mucho mayor de lo que reflejan las cifras oficiales. El programa también aborda las salvaguardas que las empresas de IA coinciden en necesitar.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T23:12:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OXIO tiene seis meses para cerrar la compra de Telefónica y quedarse con los 21 millones de usuarios de Movistar",
-    "summary": "OXIO tiene seis meses para cerrar la compra de Telefónica México y quedarse con los 21 millones de usuarios de Movistar.",
-    "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
-    "source": "Expansión",
-    "published": "2026-10-02T22:56:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "La UIF iniciará certificación en prevención de lavado de dinero en 2027",
-    "summary": "La UIF iniciará en 2027 una certificación en prevención de lavado de dinero, lo que sumará exigencias de cumplimiento para entidades financieras y sujetos obligados.",
-    "link": "https://expansion.mx/economia/2026/10/02/uif-hacienda-certificacion-prevencion-lavado-dinero-2027",
-    "source": "Expansión",
-    "published": "2026-10-02T22:28:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "NYU's Gary Marcus on AI development concerns",
-    "summary": "Gary Marcus sostiene que los desarrolladores de IA, incluido OpenAI, carecen de salvaguardas suficientes para sistemas que no pueden controlar de forma confiable.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/nyu-s-gary-marcus-on-ai-development-concerns-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T22:15:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México debería considerar una consolidación más ambiciosa para que descienda la deuda: FMI",
-    "summary": "El FMI dice que México debería considerar una consolidación fiscal más ambiciosa para que la deuda pública siga una trayectoria descendente, aunque reconoce que el país continúa en la senda de consolidación y espera que siga gradualmente en 2027.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-deberia-considerar-una-consolidacion-mas-ambiciosa-para-que-descienda-deuda-fmi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-02T21:54:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "FMI urge a México a reducir la deuda y recuerda a Banxico que la meta de inflación es 3%",
-    "summary": "El FMI urge a México a reducir su deuda y recuerda a Banxico que la meta de inflación es de 3%. El mensaje llega con el ajuste fiscal y la política monetaria en el centro de la agenda.",
-    "link": "https://expansion.mx/economia/2026/10/02/fmi-mexico-ajuste-fiscal-inflacion-banxico",
-    "source": "Expansión",
-    "published": "2026-10-02T20:59:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-    "summary": "Apple planea introducir nuevos controles de privacidad en Mac y advierte sobre los riesgos de dar acceso amplio a datos a software de terceros, incluidos agentes de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-    "source": "Bloomberg",
-    "published": "2026-10-02T20:50:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-    "summary": "Wall Street intenta convivir con rendimientos de 5% tras el gran retroceso de bonos. El viernes trajo un alivio breve y una advertencia sobre el daño de los rendimientos altos en todo tipo de estrategias.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
-    "source": "Bloomberg",
-    "published": "2026-10-02T20:40:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 sube y Nasdaq 100 marca récord tras débil dato de empleo que reduce apuestas sobre la Fed",
-    "summary": "Wall Street cerró al alza y el Nasdaq 100 marcó récord después de que un fuerte enfriamiento del empleo redujera las apuestas a nuevas alzas de tasas de la Fed. La caída de los combustibles también dio alivio.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-debil-dato-de-empleo-que-impulsa-los-bonos-y-alivia-las-apuestas-sobre-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-02T20:08:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las claves económicas de la semana (28 de septiembre al 2 de octubre): De remesas y balanza comercial",
-    "summary": "Resumen de las claves económicas de la semana en México, con el reporte de Banxico sobre remesas de agosto y cifras preliminares de Inegi sobre la balanza comercial.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-28-septiembre-2-octubre-remesas-balanza-comercial-20261002-836667.html",
-    "source": "El Economista",
-    "published": "2026-10-02T19:51:24-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
-    "summary": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre, un ajuste en el modelo de servicio de la banca en México.",
-    "link": "https://expansion.mx/economia/2026/10/02/bbva-cambia-de-horario-sucursales",
-    "source": "Expansión",
-    "published": "2026-10-02T19:21:46+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO",
-    "summary": "Nscale, an AI infrastructure company, hired Meta veteran Justin Osofsky as COO to speed expansion ahead of its upcoming IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
-    "source": "Bloomberg",
-    "published": "2026-10-02T19:20:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
-    "summary": "FBI and US Coast Guard investigators found that hackers accessed the propulsion system of an oil supertanker approaching the Texas coast this summer. The breach highlights growing physical risks from cyberattacks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker",
-    "source": "Bloomberg",
-    "published": "2026-10-02T19:01:10+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CNA da hasta 1 año a OXIO para consumar la compra de Movistar y también será dueño de GTAC",
-    "summary": "La Comisión Nacional Antimonopolio autorizó la compra de Movistar por 450 millones de dólares por parte de OXIO y concedió seis meses a Telefónica y OXIO para cerrar la operación, prorrogables una vez. OXIO también será dueño de GTAC.",
-    "link": "https://www.eleconomista.com.mx/empresas/cna-da-1-ano-oxio-consumar-compra-movistar-sera-dueno-gtac-20261002-836643.html",
-    "source": "El Economista",
-    "published": "2026-10-02T18:56:31-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Traders Waver on Bets For Another Rate Hike This Year",
-    "summary": "Bond traders remain heavily positioned for more Fed rate hikes, and even the slowdown in job growth is unlikely to change that outlook much. Analysts discuss what the data means for rates this year.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/traders-waver-on-bets-for-another-rate-hike-this-year-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T18:45:50+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bitso procesa 15% de las remesas de Estados Unidos a México",
-    "summary": "Bitso procesa 15% de las remesas que Estados Unidos envía a México, un dato que muestra el avance de las plataformas fintech y cripto en los flujos de pagos transfronterizos hacia el país.",
-    "link": "https://expansion.mx/economia/2026/10/02/bitso-procesa-15-de-las-remesas-de-estados-unidos-a-mexico",
-    "source": "Expansión",
-    "published": "2026-10-02T18:40:44+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Low-profile hedge fund smashes record for New York office rent",
-    "summary": "A low-profile hedge fund, Castle Hook, will pay up to $21.2mn a year for 53,000 sq ft of penthouse space in Related's new Madison Avenue tower, a record for New York office rent.",
-    "link": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-02T18:31:10+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano recupera terreno frente al dólar, pero termina su peor semana desde marzo",
-    "summary": "El peso mexicano recupera terreno frente al dólar, pero termina su peor semana desde marzo.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-recupera-terreno-frente-dolar-termina-peor-semana-marzo-20261002-836609.html",
-    "source": "El Economista",
-    "published": "2026-10-02T18:18:15-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "September Jobs Miss Shocks Markets",
-    "summary": "A big September jobs miss rattled markets as credit investors turned cautious. Blackstone joined Broadcom's massive AI financing push while Anthropic eyes an IPO.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-02/open-interest-10-2-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-02T17:58:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso mexicano toma un respiro tras ajuste del petróleo y débil reporte de empleo en EU",
-    "summary": "El peso mexicano toma un respiro tras el ajuste del petróleo y un débil reporte de empleo en Estados Unidos.",
-    "link": "https://expansion.mx/mercados/2026/10/02/el-peso-mexicano-toma-un-respiro-tras-ajuste-del-petroleo-y-debil-reporte-de-empleo-en-eu",
-    "source": "Expansión",
-    "published": "2026-10-02T17:43:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
     "language": "es",
     "light": false
   }
