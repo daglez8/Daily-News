@@ -1,5 +1,192 @@
 [
   {
+    "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
+    "summary": "The OpenAI engineer arrested for allegedly using a hidden recording device in a San Francisco office had booked a one-way ticket to Saudi Arabia for Oct. 12, per a court filing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+    "source": "Bloomberg",
+    "published": "2026-10-14T18:52:33+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman Sachs Leads Rivals in Third-Quarter Share Sale Revenue",
+    "summary": "Goldman Sachs led its four largest US equity underwriting rivals in third-quarter share-sale revenue; only Morgan Stanley reported lower fees than a year earlier.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/goldman-sachs-leads-rivals-in-third-quarter-share-sale-revenue",
+    "source": "Bloomberg",
+    "published": "2026-10-14T18:21:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+    "summary": "Berkshire Hathaway added $330 million to its stake in Bending Spoons, the tech group that owns AOL and Vimeo. Shares jumped more than 40% on the news before giving back some gains.",
+    "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T17:58:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave CEO Says Market Acting ‘Irrationally,’ Stands by Model",
+    "summary": "CoreWeave CEO Mike Intrator says the market is acting 'irrationally' after a plunge in the company's stock and bond prices, and stands by its business model.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-ceo-blames-rout-on-market-acting-irrationally",
+    "source": "Bloomberg",
+    "published": "2026-10-14T17:54:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan revisa su estrategia en América Latina: anticipa fuerte repunte en Brasil y rebaja a Chile",
+    "summary": "JPMorgan subió a sobreponderar las acciones de Brasil tras la primera vuelta electoral y redujo Chile a neutral, ante perspectivas divergentes en ambos mercados.",
+    "link": "https://www.bloomberglinea.com/mercados/jpmorgan-revisa-su-estrategia-en-america-latina-anticipa-fuerte-repunte-en-brasil-y-rebaja-a-chile/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-14T17:53:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflation Jolt Raises Stakes for Warsh’s Final Word in Bangkok",
+    "summary": "September's hot US inflation data raised expectations that the Federal Reserve may hike rates this month, a prospect that had seemed unlikely. It raises the stakes for Warsh's final remarks in Bangkok.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+    "source": "Bloomberg",
+    "published": "2026-10-14T17:43:06+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
+    "summary": "Nvidia CEO Jensen Huang said he would halt chip supply to a customer developing unsafe AI software, though he considers current concern about the technology unwarranted.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-14T17:34:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Modal CEO: AI Has Entered a ‘New Era of Software’",
+    "summary": "AI cloud startup Modal raised $750 million at a $15.75 billion valuation. CEO Erik Bernhardsson says demand for inference and reinforcement learning is surging, and that increasingly capable agents will need secure virtual environments.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/modal-ceo-ai-has-entered-a-new-era-of-software-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T17:31:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
+    "summary": "DA Davidson's Gil Luria says CoreWeave is 'destroying value at every turn' if it borrows at 9% for roughly 5% returns, regardless of scale.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/coreweave-neocloud-leverage-a-concern-for-gil-luria-video",
+    "source": "Bloomberg",
+    "published": "2026-10-14T17:06:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Financing Will Need To Tap Global Markets: August",
+    "summary": "Oak Hill Advisors founder Glenn August says AI financing will need to tap global markets. He spoke at the CAIS Summit in Beverly Hills.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-financing-will-need-to-tap-global-markets-august",
+    "source": "Bloomberg",
+    "published": "2026-10-14T16:16:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock cambia una estrategia de inversión de casi seis años y ahora favorece a los bonos",
+    "summary": "BlackRock cambió una estrategia de casi seis años: reduce su exposición a acciones de Wall Street y favorece bonos, ante el repunte de rendimientos del Tesoro de EU.",
+    "link": "https://www.bloomberglinea.com/mercados/blackrock-cambia-una-estrategia-de-inversion-de-casi-seis-anos-y-ahora-favorece-a-los-bonos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-14T16:11:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BofA Sheds $22 Billion in Value as Lapses Come to Light",
+    "summary": "Bank of America lost about $22 billion in market value after its largest regulatory fine in a decade, tied to compliance lapses, weighed on earnings. CEO Brian Moynihan said the bank takes the fines seriously and that accountability exists at the firm.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-sheds-30-billion-in-value-as-years-of-lapses-come-to-light",
+    "source": "Bloomberg",
+    "published": "2026-10-14T15:52:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+    "summary": "Freshfields partners are exploring a carve-out of the firm's AI legal-tech unit, said to be worth billions, ahead of any valuation decline, according to leaked emails.",
+    "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T15:48:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso mexicano toca los 18.60 por dólar; se deprecia por dato de inflación de Estados Unidos",
+    "summary": "El peso mexicano tocó los 18.60 por dólar y se depreció tras el dato de inflación de Estados Unidos.",
+    "link": "https://expansion.mx/economia/2026/10/14/peso-mexicano-toca-los-18-60-por-dolar-se-deprecia-por-dato-de-inflacion-de-estados-unidos",
+    "source": "Expansión",
+    "published": "2026-10-14T15:37:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "CoreWeave’s Bonds Turn Distressed, Drawing ‘Yikes’ From Musk",
+    "summary": "CoreWeave's bonds have turned distressed, drawing a sharp reaction from Elon Musk as concerns over AI-cloud leverage grow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
+    "source": "Bloomberg",
+    "published": "2026-10-14T15:29:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
+    "summary": "The arrest of engineer Abdulrahman Alfozan, accused of planting a hidden device at OpenAI, has shocked tech figures in Saudi Arabia, where he is well connected.",
+    "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-14T14:40:47+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los bonos soberanos encarecen la deuda y elevan los riesgos fiscales, advierte el FMI",
+    "summary": "El FMI advierte que el alza de los rendimientos de la deuda soberana en economías avanzadas encarece el financiamiento y agrava los riesgos fiscales.",
+    "link": "https://www.bloomberglinea.com/mercados/los-bonos-soberanos-encarecen-la-deuda-y-elevan-los-riesgos-fiscales-advierte-el-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-14T14:28:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
     "summary": "OpenAI CFO Sarah Friar says businesses opting for low-cost Chinese AI models are taking a cybersecurity risk, echoing concerns from rival Anthropic.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
@@ -31,6 +218,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Casi 13,000 trabajadores de AT&T México pasarán al grupo de Televisa y Fintech tras la venta",
+    "summary": "El acuerdo de venta de AT&T México a Grupo Televisa y Fintech Holdings por 2,000 millones de dólares contempla el traspaso de 12,995 trabajadores. Se espera que la operación concluya en el primer trimestre de 2027. La directora general, Mónica Aspe, informó a los empleados.",
+    "link": "https://www.eleconomista.com.mx/empresas/13-000-trabajadores-at-t-mexico-pasaran-grupo-televisa-fintech-venta-20261014-838574.html",
+    "source": "El Economista",
+    "published": "2026-10-14T12:30:59-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
   },
   {
     "title": "BofA profits drop 17% after $1.2bn money laundering fine",
@@ -77,6 +275,28 @@
     "light": true
   },
   {
+    "title": "La transformación no se compra, se construye",
+    "summary": "Columna de Expansión sobre transformación organizacional: argumenta que la transformación no se compra, se construye.",
+    "link": "https://expansion.mx/opinion/2026/10/14/la-transformacion-no-se-compra-se-construye",
+    "source": "Expansión",
+    "published": "2026-10-14T12:02:42+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México registra el tercer mayor avance entre los principales exportadores de bienes para la IA",
+    "summary": "México registró el tercer mayor avance entre los principales exportadores de bienes vinculados a la inteligencia artificial, según la nota de Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/14/mexico-aumenta-participacion-exportaciones-ia",
+    "source": "Expansión",
+    "published": "2026-10-14T11:55:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
     "summary": "OpenAI CFO Sarah Friar says the company is doubling down on safety and alignment, and is holding back its next-generation model while it carries out checks.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video",
@@ -99,6 +319,28 @@
     "light": true
   },
   {
+    "title": "Netflix inicia ola de recortes: despide a 1,000 empleados en su mayor reestructuración desde 2022",
+    "summary": "Netflix comenzó a despedir a unas 1,000 personas, 6% de su plantilla global, en su mayor ajuste desde 2022. La empresa dice que debe ser rigurosa en la asignación de personal y recursos.",
+    "link": "https://www.eleconomista.com.mx/empresas/netflix-inicia-ola-recortes-despide-1-000-empleados-mayor-reestructuracion-20261014-838565.html",
+    "source": "El Economista",
+    "published": "2026-10-14T11:35:07-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Es segura la terminal donde pagas? Así pueden alterar los cobros o clonar tu tarjeta",
+    "summary": "El Economista explica cómo pueden alterarse los cobros en terminales de pago o clonarse tarjetas, y qué hacer cuando el importe de la pantalla no coincide con el estado de cuenta.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/segura-terminal-pagas-asi-alterar-cobros-clonar-tarjeta-20261014-838438.html",
+    "source": "El Economista",
+    "published": "2026-10-14T11:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "US Mortgage Rates Hit 7.5%, Extends Home Buying Slump",
     "summary": "US mortgage rates climbed to 7.5%, pushing home-purchase activity lower for a sixth straight week and extending the buying slump.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-mortgage-rates-hit-7-5-extending-slump-in-purchase-activity",
@@ -117,6 +359,28 @@
     "published": "2026-10-14T11:00:00+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Safebrok presenta SMART GREEN CITY, una ciudad inteligente planificada desde cero en la península de Yucatán",
+    "summary": "SafeBrok México lanzó Smart Green City, un proyecto urbano planificado desde cero en la península de Yucatán que destina más de 70% de su superficie a áreas verdes. Responde al creciente interés inmobiliario por el sur del país.",
+    "link": "https://www.eleconomista.com.mx/empresas/safebrok-presenta-smart-green-city-ciudad-inteligente-planificada-cero-peninsula-yucatan-20261014-838233.html",
+    "source": "El Economista",
+    "published": "2026-10-14T10:55:17-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Vas a comprar un bien inmueble? Exige el CFDI al vendedor para que puedas deducir tus impuestos",
+    "summary": "Quien compre un inmueble como persona física debe exigir al vendedor el CFDI para poder deducir correctamente el ISR ante el SAT.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/vas-comprar-inmueble-exige-cfdi-vendedor-puedas-deducir-tus-impuestos-20261014-836391.html",
+    "source": "El Economista",
+    "published": "2026-10-14T10:55:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -207,6 +471,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Cabin Ostøya / R21 Arkitekter",
+    "summary": "A new cabin on the island of Ostøya, Norway, replaces an existing building on its footprint and overlooks the fjord landscape, as part of a coastal protection plan.",
+    "link": "https://www.archdaily.com/1186290/cabin-ostoya-r21-arkitekter",
+    "source": "ArchDaily",
+    "published": "2026-10-14T07:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "AI demand to exceed supply for 2 more years, says ASML",
@@ -425,6 +700,17 @@
     "published": "2026-10-14T00:55:48-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
+    "summary": "La presidenta Sheinbaum presentó una inversión de 8.4 billones de pesos para impulsar el crecimiento de México, en el marco del Plan México.",
+    "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
+    "source": "Expansión",
+    "published": "2026-10-14T00:20:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
@@ -5210,292 +5496,6 @@
     "published": "2026-10-04T12:29:35-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Investors look to shelter portfolios from rising AI concentration risks",
-    "summary": "Investors look to shelter portfolios from rising AI concentration risks. Fund managers see hedge funds and emerging-market assets as bulwarks against a sudden shift in sentiment on AI.",
-    "link": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T12:00:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
-    "summary": "Traders are alert for signs of contagion in Europe's government bond market after a selloff revived memories of the region's debt crisis 15 years ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
-    "source": "Bloomberg",
-    "published": "2026-10-04T11:15:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
-    "summary": "Cyber security incidents involving OpenAI's AI tools leave the ChatGPT maker vulnerable to a wave of lawsuits, according to the FT headline blurb.",
-    "link": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T11:00:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Van Peborgh Lodge / Claesson Koivisto Rune Architects",
-    "summary": "A contemporary log cabin in the Swedish mountains of Dalarna, designed as a ski lodge that works in every season and is rooted in local building traditions, with open views of a changing landscape.",
-    "link": "https://www.archdaily.com/1185636/van-peborgh-lodge-claesson-koivisto-rune-architects",
-    "source": "ArchDaily",
-    "published": "2026-10-04T10:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
-    "summary": "SoftBank chief Masayoshi Son, one of AI's most fervent believers, said even he is worried about safety risks as machines quickly gain more abilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
-    "source": "Bloomberg",
-    "published": "2026-10-04T09:32:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why the IPO market is booming and busting",
-    "summary": "Why the IPO market is booming and busting: flotations have stalled and returns from new listings have been weak.",
-    "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
-    "source": "Financial Times",
-    "published": "2026-10-04T09:29:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Agenda de la semana: minutas de la Fed, tasas en Perú e inflación en Colombia, México, Brasil y Chile",
-    "summary": "México, Colombia, Perú, Chile y Brasil concentrarán la atención de los mercados latinoamericanos esta semana, con datos de inflación, decisiones de tasas y minutas de bancos centrales que definirán expectativas de política monetaria.",
-    "link": "https://www.bloomberglinea.com/economia/agenda-de-la-semana-minutas-de-la-fed-tasas-en-peru-e-inflacion-en-colombia-mexico-brasil-y-chile/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-04T08:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Britain’s Reliance on US Cloud Giants Alarms Its Politicians",
-    "summary": "UK politicians warned that dependence on big American cloud providers is 'a strategic and economic vulnerability,' since US authorities can switch off services or demand data under federal law.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
-    "source": "Bloomberg",
-    "published": "2026-10-04T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Korea Orders Security Checks After Finance-Sector Data Breaches",
-    "summary": "South Korean regulators urged financial institutions to promptly complete internal security inspections and report results after a series of cyberattacks caused personal data breaches across the industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches",
-    "source": "Bloomberg",
-    "published": "2026-10-04T05:43:28+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
-    "summary": "Wall Street's IPO momentum is cooling on tepid investor demand and valuation concerns. Several listings have been paused in recent weeks, with the delay of Anthropic's public debut sending a chill through markets.",
-    "link": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T04:01:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-    "summary": "DigitalBridge, cuyo CEO Marc Ganzi dice que será el 'brazo de infraestructura de terceros' de SoftBank tras una adquisición de US$4 mil millones. Las ambiciones de IA de Masayoshi Son superan el balance de SoftBank.",
-    "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T04:00:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "What can we learn from the office AI superusers?",
-    "summary": "Leaders who have gone all-in on new AI tools describe how they are reimagining their working lives, per the FT blurb.",
-    "link": "https://www.ft.com/content/7a556b32-0511-42ae-a596-d0aedbcdb1a3?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T04:00:07+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dear all: how bosses should talk to the troops",
-    "summary": "FT piece on how bosses should talk to their teams and what they should always try to avoid.",
-    "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T04:00:07+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China closes hundreds of banks to bolster financial system",
-    "summary": "China shut down more than 670 lenders last year, a record, as Fitch says smaller players remain the weakest part of the sector. The closures are aimed at bolstering the financial system.",
-    "link": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-04T02:00:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
-    "summary": "An AI-fueled rush for capital sent Hong Kong share sales to a record this summer, as bankers skipped the summer break. The surge came despite a bruising selloff in the city's stocks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
-    "source": "Bloomberg",
-    "published": "2026-10-04T00:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
-    "summary": "A new White House task force will produce a report assessing the risks posed by AI and what responsibility the federal government should have over the technology, according to WSJ.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-    "source": "Bloomberg",
-    "published": "2026-10-03T23:38:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EU invierte en 17 entidades de México durante el primer semestre de 2026",
-    "summary": "La inversión extranjera directa de EE.UU. en México creció 14.7% anual en el primer semestre de 2026, hasta US$16,871 millones, casi la mitad (48.2%) del total nacional, pese a la revisión del T-MEC.",
-    "link": "https://www.eleconomista.com.mx/estados/eu-invierte-17-entidades-mexico-primer-semestre-20261003-836732.html",
-    "source": "El Economista",
-    "published": "2026-10-03T19:13:48-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
-    "summary": "US Treasury Secretary Scott Bessent called prominent AI figures' warnings about existential risk alarmist and unhelpful. He urged the industry to police itself and produce solutions. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
-    "source": "Bloomberg",
-    "published": "2026-10-03T17:12:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tiny Hotels Are Luxury Travel’s Next Big Thing",
-    "summary": "Luxury travelers increasingly seek tiny hotels with one to six rooms, combining villa privacy with high-end service. The trend is spreading across Europe and the US. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-03/tiny-hotels-are-luxury-travel-s-next-big-thing-video",
-    "source": "Bloomberg",
-    "published": "2026-10-03T16:35:28+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
-    "summary": "Fraud investigator Jay Jones says AI helps scammers create convincing fake recruiters and job listings that put people's money and personal data at risk. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
-    "source": "Bloomberg",
-    "published": "2026-10-03T15:15:35+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why Philosophers Are Worried About AI",
-    "summary": "Harvard philosopher Michael Sandel argues the more immediate AI question is whether it changes humans themselves, weakening authentic connection and independent thought. Universities are already confronting this as students use AI. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-03/why-philosophers-are-worried-about-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-10-03T14:03:58+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Vas a sacar un auto a 72 meses? Esta es la ‘trampa’ de las mensualidades que nadie te dice",
-    "summary": "El Financiero advierte sobre la 'trampa' de los financiamientos automotrices a 72 meses: las mensualidades bajas ocultan un costo total mayor. Es una guía de finanzas personales sobre crédito al consumo.",
-    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/10/03/vas-a-sacar-un-auto-a-72-meses-esta-es-la-trampa-de-las-mensualidades-que-nadie-te-dice/",
-    "source": "El Financiero",
-    "published": "2026-10-03T13:45:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
-    "summary": "An OpenAI safety employee has quit and warned that top AI firms aren't doing enough to mitigate the technology's risks. The exit adds to a growing chorus of insiders raising alarms. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-    "source": "Bloomberg",
-    "published": "2026-10-03T13:13:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
-    "summary": "Paramount Skydance and Oracle are becoming some of corporate America's biggest borrowers, and their shared link to Larry Ellison is stirring angst on Wall Street. Summarized from the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
-    "source": "Bloomberg",
-    "published": "2026-10-03T13:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can AI Outrun America’s Deficit Problem?",
-    "summary": "NEC Director Kevin Hassett argues AI's economic benefits may be larger than current data show, comparing today to the early internet era. He remains optimistic on growth despite a growing debt burden.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
-    "source": "Bloomberg",
-    "published": "2026-10-03T12:03:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fraudes en México: robo de identidad preocupa a 51% de consumidores, pero 21% no hace nada",
-    "summary": "Un estudio de Buró de Crédito (TransUnion) muestra que el robo de identidad preocupa al 51% de los consumidores en México, pero 21% no hace nada al respecto. Es la primera vez que el Consumer Pulse incluye a México.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/fraudes-mexico-robo-identidad-preocupa-51-consumidores-20261003-836598.html",
-    "source": "El Economista",
-    "published": "2026-10-03T11:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
     "language": "es",
     "light": false
   }
