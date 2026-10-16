@@ -1,5 +1,93 @@
 [
   {
+    "title": "Schwab CEO on AI Strategy, Investing Trends, and ‘Charlie’",
+    "summary": "Rick Wurster, CEO de Schwab, habla de tendencias de inversión, de cómo atraer a inversionistas jóvenes y de por qué la firma bloquea agentes de IA no autorizados. Es un caso concreto de gobernanza de agentes en servicios financieros.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/schwab-ceo-on-ai-strategy-investing-trends-charlie-video",
+    "source": "Bloomberg",
+    "published": "2026-10-16T13:11:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BNY Targets Blind Spots in ABS After Tricolor Mess Rocked Market",
+    "summary": "A un año de los fraudes que expusieron riesgos ocultos en documentos financieros rutinarios (caso Tricolor), BNY lanza herramientas para cubrir puntos ciegos en el mercado de ABS, de unos 1 billón de dólares.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/bny-targets-blind-spots-in-abs-after-tricolor-mess-rocked-market",
+    "source": "Bloomberg",
+    "published": "2026-10-16T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Equity Trading Gives Banks a Bright Spot This Earnings Season",
+    "summary": "Big bank earnings did little to change dimming views on the sector, which is in its longest losing streak since the financial crisis. Equities trading was the bright spot.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/equity-trading-gives-banks-a-bright-spot-this-earnings-season-mvayr9z8",
+    "source": "Bloomberg",
+    "published": "2026-10-16T12:48:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cero por ciento es la IA",
+    "summary": "Phil Sebok, quien dirige en México a Wonderful (la empresa detrás de los agentes de IA que usa Mercado Libre), sostiene que los proyectos de IA fallan 0% por tecnología y 100% por decisiones humanas. La columna explora qué implica esto para la adopción de agentes en las empresas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/luis-g-y-g/2026/10/16/cero-por-ciento-es-la-ia/",
+    "source": "El Financiero",
+    "published": "2026-10-16T12:41:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Steelmaker Celsa Said to Ask Banks for Pitches on IPO or Sale",
+    "summary": "Spanish steelmaker Celsa Group has asked banks for pitches as it weighs strategic options including a sale or IPO, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/steelmaker-celsa-said-to-ask-banks-for-pitches-on-ipo-or-sale",
+    "source": "Bloomberg",
+    "published": "2026-10-16T12:19:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nscale IPO: Data Center Delays Show Risks for the Neoclouds",
+    "summary": "Delays at data-center buildouts in the Norwegian fjords, from worker unrest and fires, show the risks facing neocloud operators ahead of the Nscale IPO. Summary based on the blurb.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/nscale-ipo-data-center-delays-show-risks-for-the-neoclouds",
+    "source": "Bloomberg",
+    "published": "2026-10-16T10:27:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+    "summary": "CoreWeave is caught between investors who see rising bond yields as a threat to the AI trade and those who believe computing demand will justify the enthusiasm. Its stock wipeout highlights the divide between AI fear and greed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+    "source": "Bloomberg",
+    "published": "2026-10-16T08:56:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Los problemas de CoreWeave están sacudiendo el auge de la IA",
+    "summary": "La creciente deuda de CoreWeave, respaldada por Nvidia, genera preocupación sobre el auge de la IA: sus acciones y bonos se han desplomado y los inversionistas dudan de que la demanda justifique los miles de millones prestados para construir centros de datos.",
+    "link": "https://www.eleconomista.com.mx/empresas/problemas-coreweave-sacudiendo-auge-ia-20261016-838959.html",
+    "source": "El Economista",
+    "published": "2026-10-16T06:53:50-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Nscale's Flagship Data Center Hit by Delays Ahead of IPO",
     "summary": "AI infrastructure firm Nscale is seeking to raise up to $3 billion in an IPO as soon as this month, as investors grow wary of the AI buildout. The UK company has been hit by regulatory hurdles, a fire and other delays at its flagship data center.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/nscale-s-flagship-data-center-hit-by-delays-ahead-of-ipo-video",
@@ -99,6 +187,17 @@
     "light": true
   },
   {
+    "title": "¿Por qué importa la baja de calificación de HR Ratings a México?",
+    "summary": "Columnista analiza por qué importa la baja de HR Ratings a la deuda soberana de México a HR BBB: sigue en grado de inversión, pero en el límite, y una baja más la sacaría de esa categoría. Cita el deterioro de los principales balances de finanzas públicas.",
+    "link": "https://www.eleconomista.com.mx/opinion/importa-baja-calificacion-hr-ratings-mexico-20261016-838948.html",
+    "source": "El Economista",
+    "published": "2026-10-16T01:38:29-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Recorta HR calificación de México a “BBB” con perspectiva Estable; preocupa la deuda",
     "summary": "HR Ratings recortó la calificación soberana de México de BBB+ a BBB con perspectiva estable, por el deterioro de los balances fiscales y una trayectoria de crecimiento más débil. La rebaja también arrastra la nota de Pemex y presiona el costo de endeudamiento esperado.",
     "link": "https://www.eleconomista.com.mx/economia/recorta-hr-calificacion-mexico-bbb-perspectiva-estable-preocupa-deuda-20261016-838933.html",
@@ -139,6 +238,17 @@
     "published": "2026-10-15T23:50:34-06:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "HR Ratings rebaja calificación crediticia de México por deterioro fiscal y arrastra a Pemex",
+    "summary": "HR Ratings recortó la calificación crediticia de México de BBB+ a BBB por el deterioro de los balances fiscales y la revisión a la baja del crecimiento. Mantuvo la perspectiva estable y ratificó la calificación de corto plazo; la baja también arrastra a Pemex.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hr-ratings-rebaja-calificacion-crediticia-de-mexico-por-deterioro-en-balances-fiscales/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-15T23:06:23+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
     "language": "es",
     "light": false
   },
@@ -5388,115 +5498,5 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Alto costo del espectro condiciona todavía el despliegue de redes en México: Daniel Hajj",
-    "summary": "El costo del espectro en México sigue por encima del promedio latinoamericano y condiciona el despliegue de redes, advirtió Daniel Hajj, director general de América Móvil, en el México Digital Summit.",
-    "link": "https://www.eleconomista.com.mx/empresas/alto-costo-espectro-condiciona-todavia-despliegue-redes-mexico-daniel-hajj-20261006-837147.html",
-    "source": "El Economista",
-    "published": "2026-10-06T11:07:55-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users",
-    "summary": "OpenAI y Anthropic enfrentan presión de precios de grandes usuarios de IA, pues las startups de software con IA recurren cada vez más a modelos abiertos más baratos. Puede afectar los márgenes de los proveedores de modelos.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-06/openai-and-anthropic-face-rising-price-pressure-from-big-ai-users",
-    "source": "Bloomberg",
-    "published": "2026-10-06T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Subscription Models Tested as Few Consumers Pay",
-    "summary": "Los modelos de suscripción de IA para consumidores se ponen a prueba porque pocos usuarios pagan. La suscripción podría no bastar como atractivo.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-06/ai-subscription-models-tested-as-few-consumers-pay",
-    "source": "Bloomberg",
-    "published": "2026-10-06T10:29:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI in $30 Billion Round Talks With BlackRock, UAE Funds",
-    "summary": "OpenAI negocia con fondos de Emiratos Árabes Unidos una ronda de financiamiento de 30,000 millones de dólares, y BlackRock también conversa para participar, según fuentes. La operación confirma el apetito de capital por la IA de frontera.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-06/openai-in-30b-round-talks-with-blackrock-uae-funds-video",
-    "source": "Bloomberg",
-    "published": "2026-10-06T10:27:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan Tops Global AI Banking Index for Fifth Straight Year",
-    "summary": "JPMorgan Chase mantiene por quinto año consecutivo el primer lugar del índice global de IA bancaria y amplía su ventaja. El ranking muestra que el despliegue de IA en la industria bancaria se acelera a un ritmo récord.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
-    "source": "Bloomberg",
-    "published": "2026-10-06T10:16:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Palmer Luckey’s Erebor surges to more than $7bn in deposits since launch",
-    "summary": "Erebor, el banco de Palmer Luckey para la industria tecnológica, supera 7,000 millones de dólares en depósitos desde su lanzamiento. Busca llenar el vacío dejado por la caída de Silicon Valley Bank.",
-    "link": "https://www.ft.com/content/42b6fa88-f730-4f8a-a194-8f53d0759aaf?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-06T10:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "MNT-Halan Plans $150 Million IPO, Egypt’s Biggest Since 2021",
-    "summary": "La fintech egipcia MNT-Halan, un unicornio, busca captar 150 millones de dólares en una OPI, la mayor de Egipto en dólares en cerca de cinco años.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/mnt-halan-plans-150-million-ipo-egypt-s-biggest-since-2021",
-    "source": "Bloomberg",
-    "published": "2026-10-06T09:43:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Firms Face Scrutiny in Australia",
-    "summary": "Australia intensifica el escrutinio de la IA: OpenAI, Anthropic, Microsoft y Google responden ante una comisión parlamentaria tras la intrusión en sitios gubernamentales atribuida a modelos de OpenAI. Anticipa mayor presión regulatoria sobre los proveedores de IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-06/ai-firms-face-scrutiny-in-australia-video",
-    "source": "Bloomberg",
-    "published": "2026-10-06T08:00:28+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "España aprueba los decretos sobre vivienda que desencadenaron las elecciones anticipadas",
-    "summary": "El gobierno español aprobó dos decretos de vivienda, con topes a los alquileres y otras medidas, cuyo rechazo en el Congreso llevó a Sánchez a convocar elecciones anticipadas. Muestra el peso político de la asequibilidad de vivienda.",
-    "link": "https://www.eleconomista.com.mx/internacionales/espana-aprueba-decretos-sobre-vivienda-desencadenaron-elecciones-anticipadas-20261006-837112.html",
-    "source": "El Economista",
-    "published": "2026-10-06T06:47:34-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Francés BPCE adquiere una participación del 7% en Sabadell",
-    "summary": "El grupo francés BPCE adquirió 7% de Sabadell y planea mantenerse como accionista de largo plazo. Según analistas, la participación podría proteger al banco de ofertas hostiles.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/frances-bpce-adquiere-participacion-7-sabadell-20261006-837106.html",
-    "source": "El Economista",
-    "published": "2026-10-06T06:21:55-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
   }
 ]
