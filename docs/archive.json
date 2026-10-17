@@ -1,5 +1,38 @@
 [
   {
+    "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+    "summary": "Junk bond buyers are increasingly freezing out tech startups seeking financing as CoreWeave's pain raises bigger questions about how AI companies will fund themselves.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-10-17T14:27:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+    "summary": "DeepSeek released an update of its AI model that it says is faster and leaner, stepping up its challenge to Anthropic, OpenAI and Chinese rivals Moonshot Kimi and Z.ai.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+    "source": "Bloomberg",
+    "published": "2026-10-17T13:47:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Selloff Tests Investor Confidence",
+    "summary": "Ritholtz's Barry Ritholtz says AI remains transformational, but investors face a hard task determining which companies will emerge as winners and losers.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+    "source": "Bloomberg",
+    "published": "2026-10-17T13:05:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La IA puede acelerar el PIB mundial, pero también desatar turbulencias financieras, dice el FMI",
     "summary": "La directora del FMI, Kristalina Georgieva, advierte que la IA puede elevar el crecimiento mundial, pero también desatar riesgos financieros, transformar el mercado laboral y ampliar brechas entre países.",
     "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-ia-puede-acelerar-el-pib-mundial-pero-tambien-desatar-turbulencias-financieras-dice-el-fmi/",
@@ -7,6 +40,17 @@
     "published": "2026-10-17T10:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Comprar casa en México: precios de vivienda por estado",
+    "summary": "En septiembre de 2026 el precio promedio de la vivienda en México llegó a 32,495 pesos por metro cuadrado, con grandes diferencias entre estados. El esfuerzo económico para comprar casa cambia por completo según la entidad.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/comprar-casa-mexico-precios-vivienda-20261017-839106.html",
+    "source": "El Economista",
+    "published": "2026-10-17T09:57:40-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 85,
     "language": "es",
     "light": false
   },
@@ -117,6 +161,17 @@
     "published": "2026-10-16T21:17:57-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "China busca limitar la exportación de tecnologías de IA en medio de la disputa con EU",
+    "summary": "China busca limitar la exportación de tecnologías de inteligencia artificial en medio de su disputa con Estados Unidos.",
+    "link": "https://expansion.mx/tecnologia/2026/10/16/china-limita-exportacion-tecnologias-ia",
+    "source": "Expansión",
+    "published": "2026-10-16T21:00:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5441,61 +5496,6 @@
     "published": "2026-10-07T12:29:39+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Diputados aprueban nueva Ley Catastral; oposición advierte riesgo de aumento al predial",
-    "summary": "Diputados aprobaron la nueva Ley General para el Fortalecimiento y Armonización Catastral y Registral, que busca homologar la información de inmuebles y modernizar catastros. La oposición advierte riesgo de aumentos al predial.",
-    "link": "https://www.eleconomista.com.mx/politica/diputados-aprueban-nueva-ley-catastral-oposicion-advierte-riesgo-aumento-predial-20261007-837383.html",
-    "source": "El Economista",
-    "published": "2026-10-07T12:27:28-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
-    "summary": "El auge de la IA está impulsando las plusvalías de las Afores y haciendo crecer el ahorro para el retiro en México.",
-    "link": "https://expansion.mx/economia/2026/10/07/el-boom-de-la-ia-impulsa-las-plusvalias-de-las-afores-y-hace-crecer-el-ahorro",
-    "source": "Expansión",
-    "published": "2026-10-07T11:55:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
-    "summary": "El auge de la IA está impulsando las plusvalías de las Afores y haciendo crecer el ahorro de los trabajadores. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/economia/2026/10/07/ya-estas-invirtiendo-ia-afore-pone-ahorros-empresas-nvidia",
-    "source": "Expansión",
-    "published": "2026-10-07T11:55:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Monte de Piedad ahora tendrá ‘Montecitos’",
-    "summary": "El Nacional Monte de Piedad reanuda operaciones en sus 301 sucursales tras casi un año de huelga, con nuevos formatos 'Montecitos' para más de un millón de usuarios anuales.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/10/07/monte-de-piedad-ahora-tendra-montecitos/",
-    "source": "El Financiero",
-    "published": "2026-10-07T11:20:03+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Study: Claude, ChatGPT, AI Bots Offer Different Shopping Prices Based on Wealth",
-    "summary": "A study found that Claude, ChatGPT and other AI shopping assistants offer different prices depending on a user's wealth. The research could fuel calls for more regulation.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-    "source": "Bloomberg",
-    "published": "2026-10-07T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
     "language": "en",
     "light": true
   }
