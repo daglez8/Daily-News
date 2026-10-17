@@ -1,5 +1,16 @@
 [
   {
+    "title": "La IA puede acelerar el PIB mundial, pero también desatar turbulencias financieras, dice el FMI",
+    "summary": "La directora del FMI, Kristalina Georgieva, advierte que la IA puede elevar el crecimiento mundial, pero también desatar riesgos financieros, transformar el mercado laboral y ampliar brechas entre países.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-ia-puede-acelerar-el-pib-mundial-pero-tambien-desatar-turbulencias-financieras-dice-el-fmi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-17T10:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "The dress rehearsal for an AI reckoning",
     "summary": "FT argues the recent AI-related ructions are a dress rehearsal that hints at what a true bursting of the bubble could do to financial markets.",
     "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
@@ -11,8 +22,19 @@
     "light": true
   },
   {
+    "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
+    "summary": "An OpenAI engineer charged with using a hidden recording device in a company office asked to be freed from custody and denied that his one-way ticket to Saudi Arabia was a flight plan.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+    "source": "Bloomberg",
+    "published": "2026-10-17T03:55:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Sigues en tu empleo por miedo?",
-    "summary": "Una columna sobre empleados que permanecen en su puesto por miedo a perder el ingreso aunque llevan meses pensando en irse, y el costo de ese desgaste.",
+    "summary": "Columna sobre empleados que permanecen en su puesto por miedo a perder el ingreso aunque lleven meses pensando en irse, y el desgaste que eso implica.",
     "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/10/16/sigues-en-tu-empleo-por-miedo/",
     "source": "El Financiero",
     "published": "2026-10-17T03:30:00+00:00",
@@ -22,8 +44,74 @@
     "light": false
   },
   {
+    "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With India’s Gen Z",
+    "summary": "Jio's $3.2 billion IPO tests Reliance's appeal with India's Gen Z, a generation for which Ambani's company was historically an entry point to equity markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
+    "source": "Bloomberg",
+    "published": "2026-10-17T02:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+    "summary": "Anthropic is offering Blackstone a double-digit yield in its latest chip financing. High borrowing costs complicate the AI lab's goal of reaching investment-grade status.",
+    "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-17T00:47:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
+    "summary": "Nu México debuta como banco ante la CNBV, con menor morosidad que otros neobancos, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
+    "source": "Expansión",
+    "published": "2026-10-17T00:25:07+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
+    "summary": "Chinese firms have become the biggest losers of the faltering global AI trade, a setback for Beijing's push to use stock markets to boost tech ambitions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
+    "source": "Bloomberg",
+    "published": "2026-10-17T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+    "summary": "Anthropic presented its own draft AI safety and security bill to US lawmakers, amid heightened concern over advanced AI risks. The proposal arrives as no federal AI law exists.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
+    "source": "Bloomberg",
+    "published": "2026-10-16T22:25:33+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI",
+    "summary": "OpenAI hired SpaceX's Graham Seamans to lead sales for its cybersecurity business, the latest in a string of hires from Musk's AI venture.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-16T21:36:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic plantea ley sobre IA para que Washington vete modelos peligrosos",
-    "summary": "Anthropic, creador de Claude, propuso su propio marco regulatorio ante la falta de una ley federal en EU. Washington podría vetar un modelo de IA peligroso, pero solo con autorización de un juez.",
+    "summary": "Anthropic, creador de Claude, propuso un marco regulatorio ante la falta de una ley federal: Washington podría vetar un modelo de IA peligroso, pero solo con autorización de un juez. La iniciativa fue presentada a legisladores de EU.",
     "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-plantea-ley-sobre-ia-washington-vete-modelos-peligrosos-20261016-839084.html",
     "source": "El Economista",
     "published": "2026-10-16T21:17:57-06:00",
@@ -33,13 +121,46 @@
     "light": false
   },
   {
+    "title": "Grupo Gigante nombra a José Antonio Meade como presidente del Consejo de Administración",
+    "summary": "Grupo Gigante nombró a José Antonio Meade presidente no ejecutivo e independiente de su Consejo de Administración a partir del 1 de enero de 2027.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-gigante-nombra-a-jose-antonio-meade-como-presidente-del-consejo-de-administracion/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-16T20:59:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
+    "summary": "Thoma Bravo-backed Proofpoint locked in $1.25 billion in financing to support its acquisition of cybersecurity peer Varonis Systems. JPMorgan and UBS are leading the debt deal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal",
+    "source": "Bloomberg",
+    "published": "2026-10-16T20:53:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Las claves económicas de la semana 12 al 16 de octubre): De consumo privado en México e inflación en EU",
-    "summary": "Resumen semanal de indicadores: en México destacaron actividad industrial, consumo privado y manufactura; en EU, inflación y ventas minoristas.",
+    "summary": "Resumen semanal: actividad industrial, consumo privado e industria manufacturera en México, y inflación y ventas minoristas en EU.",
     "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-12-16-octubre-consumo-privado-mexico-e-inflacion-eu-20261016-839080.html",
     "source": "El Economista",
     "published": "2026-10-16T20:30:42-06:00",
     "category": "Financial Services Mexico",
-    "relevance_score": 72,
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "S&P 500 cae y el Nasdaq 100 sufre su mayor caída semanal desde 2025 ante dudas sobre la IA",
+    "summary": "Wall Street profundizó pérdidas ante dudas sobre la rentabilidad de la inversión en IA y el repunte del petróleo, que reavivó temores inflacionarios y presionó los bonos de EU. El Nasdaq 100 sufrió su mayor caída semanal desde 2025.",
+    "link": "https://www.bloomberglinea.com/mercados/el-sp-500-opera-con-cautela-tras-una-semana-de-presion-tecnologica-y-dudas-sobre-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-16T20:07:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
@@ -55,110 +176,11 @@
     "light": false
   },
   {
-    "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-    "summary": "Anthropic is offering Blackstone a double-digit yield in its latest chip financing. High borrowing costs complicate the AI lab's goal of reaching investment-grade status.",
-    "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-17T00:47:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
-    "summary": "Anthropic has presented its own draft bill to US lawmakers for regulating AI safety and security, amid heightened concern over the risks of fast-advancing AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
-    "source": "Bloomberg",
-    "published": "2026-10-16T22:25:33+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
-    "summary": "Thoma Bravo-backed Proofpoint locked in $1.25 billion in financing, with JPMorgan and UBS, for its acquisition of cybersecurity firm Varonis.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal",
-    "source": "Bloomberg",
-    "published": "2026-10-16T20:53:51+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-    "summary": "Big Tech stocks had their biggest weekly drop since 'liberation day' as AI jitters sent investors into government debt, halting a months-long Treasury sell-off.",
-    "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T20:42:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
-    "summary": "A deepening rout in the AI complex reached into its debt financing this week, while oil at $110 threatens to make inflation harder to contain. Wall Street anxiety is spreading.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock",
-    "source": "Bloomberg",
-    "published": "2026-10-16T20:31:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "It’s not just Commerzbank: Italians are eating up German business",
-    "summary": "The Economist says UniCredit's takeover of Commerzbank is only the start, as Italian firms buy up German business. Based on the blurb only.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
-    "source": "The Economist",
-    "published": "2026-10-16T17:58:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
-    "summary": "Big US bank shares logged their worst weekly losing streak since the 2008 financial crisis after quarterly earnings failed to lift sentiment for the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
-    "source": "Bloomberg",
-    "published": "2026-10-16T17:13:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 Suffers Worst Week Since June as AI Fears Hit Chipmakers",
-    "summary": "The S&P 500 posted its biggest weekly loss since June as a crude price spike renewed inflation fears and AI-trade worries hit chipmakers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
-    "source": "Bloomberg",
-    "published": "2026-10-16T14:01:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
-    "summary": "Anthropic signed its first data-center lease in Canada, buying capacity at a new project in Nova Scotia worth more than C$10 billion.",
+    "summary": "Anthropic signed its first data-center lease in Canada, buying capacity at an EverWind project in Nova Scotia worth more than C$10 billion.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
     "source": "Bloomberg",
     "published": "2026-10-16T14:00:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Schwab CEO on AI Strategy, Investing Trends, and ‘Charley’",
-    "summary": "Schwab CEO Rick Wurster discusses customer trends, efforts to attract younger investors and why the firm is blocking unauthorized AI agents.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/schwab-ceo-on-ai-strategy-investing-trends-charlie-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T13:11:04+00:00",
     "category": "AI & Agents",
     "relevance_score": 85,
     "language": "en",
@@ -166,73 +188,51 @@
   },
   {
     "title": "Más costos y menos deducciones presionan a las empresas en México para 2027",
-    "summary": "Más costos y menos deducciones presionan a las empresas en México para 2027, ante reformas en materia laboral, ISR y aduanera.",
+    "summary": "Más costos y menos deducciones presionan a las empresas en México de cara a 2027, según Expansión.",
     "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
     "source": "Expansión",
     "published": "2026-10-16T11:55:41+00:00",
     "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
   {
     "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
-    "summary": "CoreWeave is caught between investors who see rising bond yields as a rally killer for the AI trade and those betting compute demand will prevail. Its stock has been wiped out.",
+    "summary": "CoreWeave is caught between investors who see rising bond yields as a rally killer for the AI trade and those betting compute demand will prevail.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
     "source": "Bloomberg",
     "published": "2026-10-16T08:56:41+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 82,
+    "relevance_score": 78,
     "language": "en",
     "light": true
   },
   {
     "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
-    "summary": "The RIBA Stirling Prize 2026 went to Lion Green Road, a 157-home development in Coulsdon, South London, by Mary Duggan Architects with RUFFARCHITECTS.",
+    "summary": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS won the RIBA Stirling Prize 2026: 157 homes in five blocks in Coulsdon, London, for Croydon Council, mixing private and socially rented housing.",
     "link": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
     "source": "ArchDaily",
     "published": "2026-10-16T06:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
     "language": "en",
-    "light": false
-  },
-  {
-    "title": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
-    "summary": "HR Ratings bajó la calificación de Pemex en línea con el ajuste a la nota soberana de México.",
-    "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
-    "source": "Expansión",
-    "published": "2026-10-16T04:44:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
     "light": false
   },
   {
     "title": "Nvidia Partner GMI Cloud Calls CoreWeave 15% Yield ‘Insane’",
-    "summary": "The founder of Nvidia partner GMI Cloud calls CoreWeave's 15% bond yield 'insane' versus the roughly 3.45% his firm secured on a recent loan.",
+    "summary": "The founder of a cloud company with a CoreWeave-like model called CoreWeave's 15% bond yield 'insane', versus roughly 3.45% on his own recent Taiwan-dollar loan.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
     "source": "Bloomberg",
     "published": "2026-10-16T01:44:29+00:00",
     "category": "Capital Markets & M&A",
-    "relevance_score": 80,
+    "relevance_score": 72,
     "language": "en",
     "light": true
   },
   {
-    "title": "Retiros por desempleo de Afores marcan récord en septiembre; alcanza 36,200 millones de pesos",
-    "summary": "Los retiros por desempleo de Afores marcaron un récord en septiembre, con 36,200 millones de pesos, según Consar. El monto se disparó 34%.",
-    "link": "https://expansion.mx/economia/2026/10/15/retiros-por-desempleo-de-afores-alcanzan-record-en-septiembre-se-dispara-34-el-monto-consar",
-    "source": "Expansión",
-    "published": "2026-10-16T00:10:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
     "title": "HR Ratings rebaja calificación crediticia de México por deterioro fiscal y arrastra a Pemex",
-    "summary": "HR Ratings rebajó la calificación de México de BBB+ a BBB por el deterioro de los balances fiscales y una trayectoria de crecimiento más débil, lo que seguirá presionando el endeudamiento.",
+    "summary": "HR Ratings rebajó la calificación crediticia de México de BBB+ a BBB por el deterioro de los balances fiscales y una trayectoria de crecimiento menor. La decisión arrastra a Pemex y presiona el endeudamiento esperado.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hr-ratings-rebaja-calificacion-crediticia-de-mexico-por-deterioro-en-balances-fiscales/",
     "source": "Bloomberg Línea",
     "published": "2026-10-15T23:06:23+00:00",
@@ -240,49 +240,5 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "HR Ratings baja la calificación de largo plazo de México por deterioro fiscal y menor crecimiento",
-    "summary": "HR Ratings recortó la calificación de largo plazo de México por deterioro fiscal y menor crecimiento económico.",
-    "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-recorta-calificacion-mexico-deterioro-fiscal",
-    "source": "Expansión",
-    "published": "2026-10-15T22:49:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "When AI agents take matters into their own hands",
-    "summary": "The Economist looks inside the 'Annapurna incident', a case of AI agents taking matters into their own hands. Based on the blurb only.",
-    "link": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
-    "source": "The Economist",
-    "published": "2026-10-15T12:50:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI neolabs are raising huge sums. Most have little to show for it",
-    "summary": "The Economist reports AI 'neolabs' founded by star researchers are raising huge sums, but need to start producing results.",
-    "link": "https://www.economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
-    "source": "The Economist",
-    "published": "2026-10-15T12:50:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Is the semiconductor industry headed for an almighty crash?",
-    "summary": "The Economist asks whether the semiconductor industry is headed for a crash, arguing any bust would be less vertiginous than the boom.",
-    "link": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
-    "source": "The Economist",
-    "published": "2026-10-15T09:04:50+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
   }
 ]
