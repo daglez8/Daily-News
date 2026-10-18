@@ -1,5 +1,82 @@
 [
   {
+    "title": "‘Tulum 3.0’: Inversionistas apuestan por el turismo de lujo y exclusividad ante la caída de visitantes",
+    "summary": "American Airlines es la tercera gran aerolínea en recortar vuelos a Tulum mientras cae el turismo. Los inversionistas buscan devolverle al destino su perfil de lujo y exclusividad.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/17/tulum-30-inversionistas-apuestan-por-el-turismo-de-lujo-y-exclusividad-ante-la-caida-de-visitantes/",
+    "source": "El Financiero",
+    "published": "2026-10-18T04:33:19+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "America’s $10tn AI infrastructure boom is starting to fray",
+    "summary": "America's $10tn AI infrastructure boom is starting to fray as the huge bet runs into the economics of the physical world.",
+    "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-18T04:00:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic turns to lawyers to help AI agents strike deals",
+    "summary": "Anthropic y otras tecnológicas recurren a abogados para definir reglas cuando agentes de IA negocian y cierran acuerdos en nombre de personas. Surgen preguntas legales sobre autoridad, responsabilidad y términos de negociación entre máquinas.",
+    "link": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-18T04:00:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Global economy set for AI-driven surge, FT survey suggests",
+    "summary": "An FT poll of 94 economists points to an AI-driven global growth surge, with benefits reaching well beyond the US and China.",
+    "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-18T04:00:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+    "summary": "The owner of digital wallet GCash is set to start trading in a $1bn IPO, south-east Asia's biggest debut this year, adding momentum to regional listings.",
+    "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-18T01:00:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+    "summary": "A deepening US tech selloff exposes a vulnerability in Asia's AI trade: rising financing costs could choke off the spending that sustains the boom and threaten earnings across the supply chain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+    "source": "Bloomberg",
+    "published": "2026-10-18T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
+    "summary": "Australian home auctions fell over the past week as interest rates at a 15-year high weigh on housing market activity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
+    "source": "Bloomberg",
+    "published": "2026-10-17T23:57:37+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
     "summary": "Junk bond buyers are increasingly freezing out tech startups seeking financing as CoreWeave's pain raises bigger questions about how AI companies will fund themselves.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
@@ -5421,82 +5498,5 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Golpe a los centros de datos de Google: gobierno detiene dos de sus grandes obras en Finlandia",
-    "summary": "El gobierno de Finlandia detiene dos de las grandes obras de centros de datos de Google. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/tecnologia/2026/10/07/golpe-a-centros-de-datos-de-google-detienen-obras",
-    "source": "Expansión",
-    "published": "2026-10-07T15:00:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apollo’s Push for Private Credit Transparency",
-    "summary": "Apollo has traded more than $35 billion of private credit and puts daily valuations on an $850 billion portfolio. John Cortese discusses the firm's push to make private credit more transparent and easier to trade.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/apollo-s-push-for-private-credit-transparency-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T14:58:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Agent Adoption Soars on Consumer, Search Trends",
-    "summary": "Meta's Muse has topped 6.6 million downloads and 1.8 million daily active users since its Sept. 8 launch, showing consumers are ready to hand over personal data for AI assistance. Sensor Tower's Seema Shah discusses the growth of personal AI agents.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/ai-agent-adoption-soars-on-consumer-search-trends-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T14:51:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX Reported to Be in $40 Billion Nvidia Chip-Financing Talks",
-    "summary": "SpaceX is reportedly in talks for $40 billion of financing to buy Nvidia chips, as AI megadeals loom and its credit-risk gauge hits fresh highs.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/spacex-reported-to-be-in-nvidia-chip-financing-talks-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T14:33:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apollo Trades $35 Billion Private Credit in Push to Open Market",
-    "summary": "Apollo has traded more than $35 billion of private credit since it began making markets, says partner John Cortese. The firm is pushing to open up this market to more participants.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/apollo-trades-35-billion-private-credit-in-push-to-open-market",
-    "source": "Bloomberg",
-    "published": "2026-10-07T12:58:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Analistas ajustan al alza pronóstico para el dólar en México y ven sin cambios tasa de interés",
-    "summary": "Analistas elevaron su pronóstico del dólar en México para cierre de 2026 y esperan que Banxico mantenga la tasa sin cambios este año y el próximo, según la Encuesta Citi. Las perspectivas del peso se debilitaron respecto al sondeo anterior.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ajustan-al-alza-pronostico-para-el-dolar-en-mexico-y-ven-sin-cambios-tasa-de-interes/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-07T12:48:31+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Brookfield to Buy ESR India Warehouse Parks in $444 Million Deal",
-    "summary": "Brookfield has committed 43 billion rupees ($444 million) to acquire and develop ESR India's portfolio, its first warehousing-focused real estate deal in India.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/brookfield-to-buy-esr-india-warehouse-parks-in-444-million-deal",
-    "source": "Bloomberg",
-    "published": "2026-10-07T12:29:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   }
 ]
