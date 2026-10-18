@@ -1,5 +1,49 @@
 [
   {
+    "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+    "summary": "Anthropic plans to put 5% of its shares into a new fund for \"the public good\". The fund will back donations, including efforts to mitigate AI's impact on the job market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
+    "source": "Bloomberg",
+    "published": "2026-10-18T18:03:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump’s Latin America Allies Deepen Ties With Washington Lenders",
+    "summary": "Latin America's market-friendly, rightward shift is reshaping ties with Washington, including new flows of money from multilateral lenders long criticized in the region for pushing austerity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
+    "source": "Bloomberg",
+    "published": "2026-10-18T14:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¡Cuidado con tu app bancaria! Esto sabemos del fraude con el que pueden robar tu dinero",
+    "summary": "Un nuevo tipo de fraude amenaza las apps bancarias: contraseñas, códigos y biometría ya no bastan ante ciberdelincuentes capaces de evadir los mecanismos de seguridad. Subraya el riesgo de ciberseguridad y protección al consumidor en banca digital.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/10/18/cuidado-con-tu-app-bancaria-esto-sabemos-del-fraude-con-el-que-pueden-robar-tu-dinero/",
+    "source": "El Financiero",
+    "published": "2026-10-18T14:10:59+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
+    "summary": "Los operadores de opciones se preparan para un alza del VIX tras la aceleración de la inflación en EUA y las sacudidas en el sector de IA. Algunos apuestan a que la volatilidad tecnológica se contagie al mercado en general.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
+    "source": "Bloomberg",
+    "published": "2026-10-18T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "America’s Downtowns Need More Than Offices",
     "summary": "America's office real estate bust is forcing cities to rethink their downtowns. Bloomberg Opinion's Justin Fox argues that converting offices into homes and building mixed-use neighborhoods could offer a path to revival.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
@@ -11,6 +55,17 @@
     "light": true
   },
   {
+    "title": "Sedatu revisará plan de ordenamiento del Valle de México tras inquietudes por valor catastral y predios baldíos",
+    "summary": "La Sedatu y los gobiernos de CDMX, Edomex, Hidalgo y Morelos acordaron revisar el Programa de Ordenación de la Zona Metropolitana del Valle de México. Los ajustes atenderán inquietudes sobre el valor catastral de inmuebles y los predios baldíos y subutilizados.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/sedatu-revisara-plan-ordenamiento-valle-mexico-inquietudes-valor-catastral-predios-baldios-20261018-839181.html",
+    "source": "El Economista",
+    "published": "2026-10-18T12:31:40-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI Arrest Raises AI Espionage Concerns",
     "summary": "An OpenAI engineer was arrested over allegations of planting a covert recording device in an executive conference room, highlighting concerns about protecting sensitive AI technology. The discussion also covers the shift of AI training work toward highly skilled experts.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
@@ -20,6 +75,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Freno a la inversión en México: empresas de Estados Unidos alertan por reforma laboral y subcontratación",
+    "summary": "Empresas de capital estadounidense en México alertan que la posible jornada laboral de 40 horas y las trabas de la reforma de subcontratación frenan la inversión, según la reunión con la cúpula de AmCham.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/freno-inversion-mexico-empresas-estados-unidos-alertan-reforma-laboral-subcontratacion-20261018-839179.html",
+    "source": "El Economista",
+    "published": "2026-10-18T12:06:13-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
@@ -42,6 +108,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El dólar: la velocidad y la distancia son diferentes",
+    "summary": "El peso acumuló cinco semanas de pérdidas, fue la moneda más depreciada del mundo en septiembre y tocó 18.60 por dólar, su nivel más alto. El columnista matiza que la velocidad y la distancia de la depreciación son distintas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/10/17/el-dolar-la-velocidad-y-la-distancia-son-diferentes/",
+    "source": "El Financiero",
+    "published": "2026-10-18T04:43:54+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "‘Tulum 3.0’: Inversionistas apuestan por el turismo de lujo y exclusividad ante la caída de visitantes",
@@ -152,6 +229,28 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "MAGMA House / SUITE",
+    "summary": "Casa MAGMA at CASACOR São Paulo 2026 occupies 215 m² with curves, tactile textures and earthy tones, proposing an experience of warmth and introspection.",
+    "link": "https://www.archdaily.com/1187028/magma-house-suite",
+    "source": "ArchDaily",
+    "published": "2026-10-17T13:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Colares Sintra House / Sabrab",
+    "summary": "A pine-forest house in Colares, overlooking the Sintra Mountains and vineyards, transforms an existing villa into a contemporary living space open to the garden and landscape.",
+    "link": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab",
+    "source": "ArchDaily",
+    "published": "2026-10-17T11:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "La IA puede acelerar el PIB mundial, pero también desatar turbulencias financieras, dice el FMI",
@@ -5399,104 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Financiera Adventus Capital realiza la primera emisión simplificada de deuda en la Bolsa Mexicana",
-    "summary": "Adventus Capital, una sofom no bancaria, se convirtió en la primera emisora simplificada de la BMV al colocar MXN$560 millones de deuda. La emisión es una bursatilización de derechos de cobro de un crédito al estado de Michoacán, respaldado por participaciones federales.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/financiera-adventus-capital-realiza-la-primera-emision-simplificada-de-deuda-en-la-bolsa-mexicana/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-07T21:33:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BBVA México va por los millonarios del país: busca crecer 33% su banca patrimonial hacia 2029",
-    "summary": "BBVA México busca crecer 33% su banca patrimonial hacia 2029 y apunta a los clientes millonarios del país, según Expansión.",
-    "link": "https://expansion.mx/economia/2026/10/07/bbva-mexico-va-por-los-millonarios-del-pais-busca-crecer-33-su-banca-patrimonial-hacia-2029",
-    "source": "Expansión",
-    "published": "2026-10-07T19:16:39+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Monte de Piedad reabre sus sucursales: qué pasará con los intereses acumulados de tus empeños y créditos",
-    "summary": "Monte de Piedad reabre sus sucursales; la nota explica qué pasará con los intereses acumulados de empeños y créditos. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/finanzas-personales/2026/10/07/reabre-huelga-monte-de-piedad-intereses-empenos-creditos",
-    "source": "Expansión",
-    "published": "2026-10-07T19:03:44+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Why shares are the new bricks and mortar",
-    "summary": "The Economist examines how household wealth is shifting from property to stocks. Summary based on the blurb only.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
-    "source": "The Economist",
-    "published": "2026-10-07T18:47:53+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dazzle Wants to Turn Your Camera Roll Into an AI Assistant",
-    "summary": "Startup Dazzle uses photos and screenshots in a user's camera roll to learn their interests, relationships and travel, then helps take actions such as finding products. It bets personal AI should know users before they ask.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/dazzle-wants-to-turn-your-photos-into-an-ai-assistant-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T18:10:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BofA Sees Strong Demand for OpenAI, Anthropic IPOs",
-    "summary": "Bank of America's JD Moriarty says public markets can absorb massive potential IPOs from OpenAI and Anthropic, citing SpaceX's listing as proof of strong institutional and retail demand. He points to abundant capital seeking transformational technology names.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/bofa-sees-strong-demand-for-openai-anthropic-ipos-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T18:02:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ChatGPT estrena interfaz visual: qué es Intelligent UI y quiénes pueden usarlo",
-    "summary": "ChatGPT estrena una interfaz visual llamada Intelligent UI. La nota explica de qué se trata y quiénes pueden usarla. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/tecnologia/2026/10/07/chatgpt-estrena-interfaz-que-es-intelligent-ui",
-    "source": "Expansión",
-    "published": "2026-10-07T18:01:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Citi Says Private Equity Hasn’t Slowed Poaching of Bankers",
-    "summary": "Citi's David Friedland says private equity firms keep aggressively poaching young bankers from Wall Street. Citi plans to accelerate promotions and raise junior pay in response.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/citi-private-equity-hasn-t-slowed-poaching-of-bankers-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T17:51:13+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Unpacking the M&A Slowdown",
-    "summary": "M&A deal values are slipping amid uncertainty over elections, rates and regulation, says Alvarez & Marsal's Paul Aversano. Large, debt-heavy buyouts are feeling the most pressure.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/unpacking-the-m-a-slowdown-video",
-    "source": "Bloomberg",
-    "published": "2026-10-07T17:46:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
   }
 ]
