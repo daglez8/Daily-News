@@ -1,5 +1,49 @@
 [
   {
+    "title": "America’s Downtowns Need More Than Offices",
+    "summary": "America's office real estate bust is forcing cities to rethink their downtowns. Bloomberg Opinion's Justin Fox argues that converting offices into homes and building mixed-use neighborhoods could offer a path to revival.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
+    "source": "Bloomberg",
+    "published": "2026-10-18T13:01:21+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Arrest Raises AI Espionage Concerns",
+    "summary": "An OpenAI engineer was arrested over allegations of planting a covert recording device in an executive conference room, highlighting concerns about protecting sensitive AI technology. The discussion also covers the shift of AI training work toward highly skilled experts.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
+    "source": "Bloomberg",
+    "published": "2026-10-18T12:27:37+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
+    "summary": "Accenture is looking to sell its Chinese operations for up to $1.5bn. The shares of the world's largest IT consultancy have fluctuated on questions about AI's impact.",
+    "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-18T10:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says",
+    "summary": "Microsoft has pulled out of a UK data center deal with neocloud Nscale, per the Telegraph, at a critical moment for the startup's IPO hopes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says",
+    "source": "Bloomberg",
+    "published": "2026-10-18T08:31:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "‘Tulum 3.0’: Inversionistas apuestan por el turismo de lujo y exclusividad ante la caída de visitantes",
     "summary": "American Airlines es la tercera gran aerolínea en recortar vuelos a Tulum mientras cae el turismo. Los inversionistas buscan devolverle al destino su perfil de lujo y exclusividad.",
     "link": "https://www.elfinanciero.com.mx/empresas/2026/10/17/tulum-30-inversionistas-apuestan-por-el-turismo-de-lujo-y-exclusividad-ante-la-caida-de-visitantes/",
@@ -416,6 +460,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Bank of America propone una nueva estrategia para invertir y superar al portafolio 60/40",
+    "summary": "Bank of America propone una nueva distribución de inversiones para superar al portafolio tradicional 60/40, buscando mayor rentabilidad sin elevar la volatilidad. La estrategia clásica de acciones y bonos enfrenta cuestionamientos en Wall Street.",
+    "link": "https://www.bloomberglinea.com/mercados/bank-of-america-propone-una-nueva-estrategia-para-invertir-y-superar-al-portafolio-6040/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-16T16:35:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Paschi Top 10 Investor Goldstone Backs Intesa Takeover Bid",
@@ -5443,60 +5498,5 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Canada Reviews Foreign Homebuyers Ban as 2027 Expiry Approaches",
-    "summary": "Canada's finance minister says the government is weighing options ahead of the expiry of the foreign homebuyers ban at the end of the year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/canada-reviews-foreign-homebuyers-ban-as-2027-expiry-approaches",
-    "source": "Bloomberg",
-    "published": "2026-10-07T17:31:56+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Novogratz Joins Crowd Warning of AI Bubble, Says Pile In Anyway",
-    "summary": "Michael Novogratz joins other billionaires warning of an AI bubble, but argues the speculative frenzy in technology stocks will keep growing and investors should pile in anyway.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/novogratz-says-ai-is-in-a-bubble-and-investors-should-pile-in",
-    "source": "Bloomberg",
-    "published": "2026-10-07T16:33:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas, alerta el FMI",
-    "summary": "El FMI alerta que el riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/economia/2026/10/07/riesgo-ia-economia-mundial-inversion-cumplen-expectativa-fmi",
-    "source": "Expansión",
-    "published": "2026-10-07T16:20:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alibaba’s Joe Tsai Says Open Source Is Europe’s Best Shot at AI",
-    "summary": "Alibaba chairman Joe Tsai says open-source AI is Europe's best route to independence from the US and China, urging the region to build its own computing infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/alibaba-s-joe-tsai-says-open-source-is-europe-s-best-shot-at-ai",
-    "source": "Bloomberg",
-    "published": "2026-10-07T16:09:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso ‘grita’ por la aversión al riesgo: Dólar regresa a las 18 unidades",
-    "summary": "The dollar returned above 18 pesos on Oct. 7 as risk aversion grew over Middle East tensions and oil prices rose. Trading was irregular as operators weighed geopolitical risk.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/07/peso-dolar-precio-hoy-7-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-07T15:24:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
