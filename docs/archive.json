@@ -1,5 +1,137 @@
 [
   {
+    "title": "Hamilton Lane: AI’s Biggest Returns Have Been Private",
+    "summary": "Hamilton Lane's Erik Hirsch says most of the wealth created by the AI boom has accrued in private markets, as companies stay private longer and tap deeper pools of capital. The firm has exposure to OpenAI and Anthropic through its venture and growth relationships.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video",
+    "source": "Bloomberg",
+    "published": "2026-10-19T18:10:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic, Musk Offer Competing Visions for Sharing AI Wealth",
+    "summary": "Anthropic plans to dedicate 5% of its shares to a public benefit fund, amid concerns over AI-driven labor disruption. Bloomberg compares the approach with government-run fund proposals and with Musk's competing vision for sharing AI wealth.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video",
+    "source": "Bloomberg",
+    "published": "2026-10-19T18:07:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nscale’s $30B IPO Ambition Meets Investor Pushback",
+    "summary": "Nscale faces investor pushback on its $30 billion IPO valuation target, with some investors suggesting $16–19 billion instead. The segment also covers Anthropic's plan to put 5% of its shares into a public benefit fund.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-tech-10-19-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-19T17:59:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave’s Business Is Sound Despite Debt Fears, JPMorgan Says",
+    "summary": "JPMorgan analysts say investor concerns over CoreWeave's mounting debt and rapid cash burn are overdone, arguing its financing needs reflect fast expansion rather than weak project economics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/coreweave-s-business-is-sound-despite-debt-fears-jpmorgan-says",
+    "source": "Bloomberg",
+    "published": "2026-10-19T17:51:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ser la capital de los data centers obliga a Querétaro a reforzar su seguridad",
+    "summary": "Expansión reporta que el auge de Querétaro como capital de data centers obliga a reforzar su seguridad.",
+    "link": "https://expansion.mx/tecnologia/2026/10/19/ser-la-capital-de-los-data-centers-obliga-a-queretaro-a-reforzar-su-seguridad",
+    "source": "Expansión",
+    "published": "2026-10-19T17:30:38+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Interceramic impulsa su crecimiento con innovación, disciplina financiera y transformación digital",
+    "summary": "Interceramic apuesta por un modelo de crecimiento basado en innovación, diversificación de productos y fortalecimiento de su red comercial, con disciplina financiera y transformación digital.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/10/19/interceramic-impulsa-su-crecimiento-con-innovacion-disciplina-financiera-y-transformacion-digital/",
+    "source": "El Financiero",
+    "published": "2026-10-19T17:15:35+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El principal riesgo para Wall Street podría no estar en las tasas altas, advierte Citi",
+    "summary": "Citi considera que la relación histórica entre los rendimientos de los bonos y las valoraciones bursátiles ha perdido fuerza, por lo que el alza de tasas en EE.UU. no anticipa necesariamente una caída de las acciones.",
+    "link": "https://www.bloomberglinea.com/mercados/el-principal-riesgo-para-wall-street-podria-no-estar-en-las-tasas-altas-advierte-citi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-19T17:15:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Proofpoint's $6.3 Billion Cybersecurity Bet",
+    "summary": "Thoma Bravo-backed Proofpoint agreed to buy Varonis in a deal valued at about $6.3 billion. The companies say combining email, collaboration and data security creates a broader platform as AI agents and customer demand accelerate cybersecurity consolidation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/proofpoint-s-6-3-billion-cybersecurity-bet-video",
+    "source": "Bloomberg",
+    "published": "2026-10-19T15:46:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Transferencias rápidas sacuden el negocio global de remesas",
+    "summary": "Las stablecoins están cambiando las transferencias de dinero y empujan a las empresas tradicionales de remesas a replantear un negocio que dominaron durante décadas. Es un tema relevante para México, uno de los mayores receptores de remesas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/transferencias-rapidas-sacuden-el-negocio-global-de-remesas-mvffayeb",
+    "source": "Bloomberg",
+    "published": "2026-10-19T15:42:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tormenta a la vista: Cae la IA ante alza de hidrocarburos y tasas",
+    "summary": "Columna de El Financiero sobre cómo los mercados, que apostaron a que el crecimiento de la IA eclipsaría cualquier preocupación macro, ahora enfrentan presión por el alza de hidrocarburos y de tasas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/10/19/tormenta-a-la-vista-cae-la-ia-ante-alza-de-hidrocarburos-y-tasas/",
+    "source": "El Financiero",
+    "published": "2026-10-19T15:04:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bartleby newsletter: Boomers, babies and bots",
+    "summary": "Andrew Palmer, columnista Bartleby de The Economist, reúne tres estudios de investigación que le llamaron la atención, bajo el tema de boomers, bebés y bots.",
+    "link": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
+    "source": "The Economist",
+    "published": "2026-10-19T14:26:12+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
+    "summary": "The Trump administration barred civilian US agencies from using products or services from Chinese AI startup DeepSeek, citing a potential national security threat from its operations in China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
+    "source": "Bloomberg",
+    "published": "2026-10-19T13:37:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Academy’s Tchir Fears AI Debt May Trigger Sharp Selloff",
     "summary": "Peter Tchir of Academy Securities says he is nervous about a possible selloff in AI-related debt, citing 'faux liquidity' in markets. He spoke on Bloomberg Surveillance.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-19/academy-s-tchir-fears-ai-debt-may-trigger-sharp-selloff-video",
@@ -9,6 +141,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La apuesta por pagar sin efectivo",
+    "summary": "La Ley de Economía Digital para Pagos Digitales y Electrónicos ofrece una oportunidad para reducir costos, ampliar el acceso financiero y facilitar la formalización. Su implementación requiere condiciones que permitan a personas y negocios adaptarse, señala José Antonio Peña Merino, titular de la Agencia de Transformación Digital.",
+    "link": "https://www.eleconomista.com.mx/opinion/apuesta-pagar-efectivo-20261019-839356.html",
+    "source": "El Economista",
+    "published": "2026-10-19T12:47:04-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Peso mexicano pierde terreno frente al dólar: ¿qué pasará si Banxico vuelve a recortar la tasa?",
@@ -33,6 +176,17 @@
     "light": false
   },
   {
+    "title": "Proteger la inteligencia artificial podría elevar entre 10 y 25% el gasto en ciberseguridad",
+    "summary": "Proteger los sistemas de inteligencia artificial podría elevar entre 10 y 25% el gasto empresarial en ciberseguridad, según Daniel Liber, de monday.com. El acceso de estas aplicaciones a información interna aumenta la superficie de riesgo.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/proteger-inteligencia-artificial-elevar-10-25-gasto-ciberseguridad-20261019-839344.html",
+    "source": "El Economista",
+    "published": "2026-10-19T11:39:06-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "EU Officials Propose Guardrails for Insurance SRT Boom",
     "summary": "EU officials are considering tighter rules on significant risk transfers, a riskier form of insurance for banks, as part of a package to ease access to securitized finance.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-19/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom",
@@ -44,6 +198,28 @@
     "light": true
   },
   {
+    "title": "Trayectoria descendente del PIB dificulta a México administrar un déficit de 4%: HR",
+    "summary": "Félix Boni, de HR Ratings, advierte que la trayectoria descendente del PIB dificulta a México administrar un déficit de 4%. Considera que México sigue siendo un emisor soberano fuerte en la categoría BBB, pero con crecimiento de largo plazo inferior al 2.5% deseable.",
+    "link": "https://www.eleconomista.com.mx/economia/trayectoria-descendente-pib-dificulta-mexico-administrar-deficit-4-hr-20261019-839343.html",
+    "source": "El Economista",
+    "published": "2026-10-19T11:06:17-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hacienda refinanció 238,153 millones de pesos para optimizar perfil de vencimientos",
+    "summary": "La SHCP refinanció 238,153 millones de pesos de deuda pública para optimizar el perfil de vencimientos, extendiendo el plazo promedio en 2.9 años.",
+    "link": "https://www.eleconomista.com.mx/economia/hacienda-refinancio-238-153-millones-pesos-optimizar-perfil-vencimientos-20261019-839341.html",
+    "source": "El Economista",
+    "published": "2026-10-19T11:01:50-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Chip Startup Tenstorrent Raises Funds at $6.2 Billion Value",
     "summary": "AI chip startup Tenstorrent raised $1.5 billion in a round that values it at $6.2 billion, after attracting takeover interest earlier this year.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value",
@@ -53,6 +229,28 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Quieres invertir en empresas sin ser accionista? Así funcionan los bonos corporativos",
+    "summary": "Los bonos corporativos permiten invertir en una empresa como prestamista y no como accionista, ofreciendo rentabilidad a plazo definido con riesgo moderado, explica Francisco Romano, de Actinver.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/quieres-invertir-empresas-accionista-asi-funcionan-bonos-corporativos-20261019-838878.html",
+    "source": "El Economista",
+    "published": "2026-10-19T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inflación en México pone a prueba al peso",
+    "summary": "El Economista analiza cómo la inflación en México pone a prueba al peso, en un contexto de tasas e incertidumbre cambiaria.",
+    "link": "https://www.eleconomista.com.mx/videos/inflacion-mexico-pone-prueba-peso-20261019-839339.html",
+    "source": "El Economista",
+    "published": "2026-10-19T10:45:10-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Las clases medias se quedan sin acceso a vivienda",
@@ -95,6 +293,17 @@
     "published": "2026-10-19T08:59:20+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Musk Plans to Gift SpaceX Shares to Kids Through Trump Accounts",
+    "summary": "Elon Musk prometió distribuir una acción de SpaceX a cada niño en EE.UU. mediante las Trump Accounts, un compromiso multimillonario que se suma a otras grandes donaciones del sector tecnológico.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/musk-says-he-will-gift-spacex-shares-to-every-kid-in-america",
+    "source": "Bloomberg",
+    "published": "2026-10-19T08:56:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -504,6 +713,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+    "summary": "Expansión informa que Olinia necesita capital privado para producir en masa y que el gobierno busca empresarios dispuestos a invertir hasta 745 millones de dólares.",
+    "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
+    "source": "Expansión",
+    "published": "2026-10-17T21:58:32+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
@@ -5276,226 +5496,6 @@
     "published": "2026-10-08T20:15:57+00:00",
     "category": "AI & Agents",
     "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 cae tras las dudas sobre los ingresos de OpenAI y el financiamiento de la IA",
-    "summary": "Wall Street cerró con pérdidas, lideradas por tecnológicas, tras nuevas estimaciones de ingresos de OpenAI que intensificaron las dudas sobre la sostenibilidad del gasto en IA.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-retrocede-mientras-el-petroleo-supera-los-us104-y-aumentan-los-temores-inflacionarios/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-08T20:06:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Citrini Says Agentic Finance Fosters ‘New Paradigm’ for Crypto Investing",
-    "summary": "Citrini Research sostiene que llegó la era de la 'inversión cripto fundamental' porque las finanzas con agentes de IA se construirán sobre blockchains.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/citrini-says-agentic-finance-fosters-new-paradigm-for-crypto-investing",
-    "source": "Bloomberg",
-    "published": "2026-10-08T18:57:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fed’s Musalem Signals Rates Should Rise Next Six-to-Nine Months",
-    "summary": "Alberto Musalem, de la Fed de St. Louis, dijo que las tasas tendrán que subir en los próximos seis a nueve meses para bajar la inflación a tiempo, sin respaldar un alza en la reunión de octubre.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-08/fed-s-musalem-signals-rates-should-rise-next-6-9-months-video",
-    "source": "Bloomberg",
-    "published": "2026-10-08T18:47:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Cisma’ en el Banxico por bajar o no la tasa de interés: ‘Debemos estar abiertos a la discusión’",
-    "summary": "La Junta de Gobierno del Banxico está dividida sobre la tasa de interés, con dos miembros a favor de un recorte. El debate ocurre mientras la Fed se perfila para subir tasas, lo que reduciría el diferencial.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/08/cisma-en-el-banxico-por-bajar-o-no-la-tasa-de-interes-debemos-estar-abiertos-a-la-discusion/",
-    "source": "El Financiero",
-    "published": "2026-10-08T18:20:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
-    "summary": "Gestoras de crédito privado que buscan deshacerse de fondos golpeados atraen el interés de rivales que ven oportunidades baratas. Ocurre en uno de los periodos más turbulentos para este mercado de 1.8 billones de dólares.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
-    "source": "Bloomberg",
-    "published": "2026-10-08T18:19:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Union Square Ventures Doubles Fund Size for the AI Era",
-    "summary": "Union Square Ventures casi duplica su fondo principal con 900 millones de dólares nuevos, 500 millones para su fondo de etapa temprana, para competir en la era de la IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-08/union-square-ventures-doubles-fund-size-for-the-ai-era-video",
-    "source": "Bloomberg",
-    "published": "2026-10-08T17:57:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Los pájaros’ acechan al peso: Dólar ‘vuela’ a 18.16 unidades afectado por minutas del Banxico",
-    "summary": "El peso regresa a niveles de 18 por dólar por la volatilidad del crudo y el alza en los rendimientos de bonos estadounidenses. Nuevos ataques de Irán contra petroleros impulsaron el precio del petróleo.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/08/peso-dolar-precio-hoy-8-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-08T17:41:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia-Backed Firmus Is Set to Postpone IPO, Weigh Private Round",
-    "summary": "Firmus Grid, empresa australiana de centros de datos, pospondría su IPO y evalúa una ronda privada de financiamiento, según fuentes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round",
-    "source": "Bloomberg",
-    "published": "2026-10-08T17:17:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI’s Revenue Run Rate Nears $50 Billion, Less Than Reported",
-    "summary": "OpenAI va camino a ingresos anualizados de unos 50 mil millones de dólares, por debajo de algunas estimaciones divulgadas. El dato pesó sobre las acciones de chips.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/openai-s-annualized-revenue-nears-50-billion-ft-says",
-    "source": "Bloomberg",
-    "published": "2026-10-08T17:04:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "FTC Probes Block After Consumer Complaints Over Frozen Accounts",
-    "summary": "La FTC investiga si Block, matriz de Square y Cash App, violó leyes de protección al consumidor al no atender cuentas congeladas o desactivadas tras recortes de personal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts",
-    "source": "Bloomberg",
-    "published": "2026-10-08T17:00:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dólar regresa a 18.20 pesos; moneda mexicana es afectada por petróleo y expectativas de la FED",
-    "summary": "El dólar regresa a 18.20 pesos y la moneda mexicana resiente el alza del petróleo y las expectativas sobre la Fed.",
-    "link": "https://expansion.mx/mercados/2026/10/08/tipo-cambio-hoy-8-octubre-2026-18-pesos-dolar",
-    "source": "Expansión",
-    "published": "2026-10-08T16:40:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Revolut’s Storonsky Says He’s Coming for JPMorgan’s US Crown",
-    "summary": "Storonsky dice que Revolut va por la corona de JPMorgan en EE.UU. y que, si sale a bolsa, tendría su listado principal allí. Compite con grandes bancos y emisores de tarjetas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/revolut-ceo-storonsky-says-he-s-targeting-us-primary-listing",
-    "source": "Bloomberg",
-    "published": "2026-10-08T16:24:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Minuta de Banxico revela que tres miembros abren la puerta a un recorte de la tasa de interés",
-    "summary": "La mayoría de los miembros de Banxico abrió la puerta a evaluar un recorte de tasa ante la evolución reciente de la inflación, aunque con el tono restrictivo de la Fed como contexto. Así lo muestra la minuta publicada el 8 de octubre.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-revela-que-tres-miembros-abren-la-puerta-a-un-recorte-de-la-tasa-de-interes/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-08T16:23:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
-    "summary": "Arena Intelligence, startup detrás de un popular ranking de modelos de IA, levantó 200 millones de dólares con valuación de 3,100 millones y planea medir también la seguridad de la IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round",
-    "source": "Bloomberg",
-    "published": "2026-10-08T16:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CreditSights' Cisar Sees Cracks in AI Credit Boom",
-    "summary": "Winnie Cisar, de CreditSights, dice que el auge del financiamiento de IA complica el análisis de crédito por retornos inciertos, posible sobreconstrucción de centros de datos y estructuras más complejas.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-08/creditsights-cisar-sees-cracks-in-ai-credit-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-10-08T15:40:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Former OpenAI, Cognition Staffers Want AI to Help Run a Business",
-    "summary": "Un grupo de exempleados de OpenAI, Cognition AI y otras firmas crea Hone, una empresa de agentes de IA para ayudar a operar negocios, en un campo cada vez más concurrido.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business",
-    "source": "Bloomberg",
-    "published": "2026-10-08T15:00:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman to pay top executives $500mn in special bonuses",
-    "summary": "Goldman Sachs prepares to hand out equity awards from a five-year scheme to senior leaders, reportedly around $500mn in special bonuses.",
-    "link": "https://www.ft.com/content/212f15c8-a897-4db0-bacf-d1556a11b9ed?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-08T14:14:31+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google Launches Workplace AI Agent That Acts Like Colleague",
-    "summary": "Google anunció un agente Gemini para el entorno laboral, intensificando la competencia con OpenAI, Anthropic y Microsoft por los clientes corporativos.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/google-launches-universal-gemini-ai-agent-for-workplace",
-    "source": "Bloomberg",
-    "published": "2026-10-08T13:25:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apple Watch Series 12, Ultra 4 New Features Aren't Enough to Beat Oura, Whoop",
-    "summary": "Las nuevas funciones de salud del Apple Watch Series 12 y Ultra 4 reducen la brecha, pero quienes se toman en serio el fitness no deberían abandonar aún Oura y Whoop.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/apple-watch-series-12-ultra-4-new-features-aren-t-enough-to-beat-oura-whoop",
-    "source": "Bloomberg",
-    "published": "2026-10-08T13:05:26+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The rise of the model marketplace",
-    "summary": "Negocios como OpenRouter prosperan mientras las empresas buscan reducir costos de modelos de IA mediante mercados de modelos.",
-    "link": "https://www.economist.com/business/2026/10/08/the-rise-of-the-model-marketplace",
-    "source": "The Economist",
-    "published": "2026-10-08T13:01:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   }
