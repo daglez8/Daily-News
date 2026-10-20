@@ -1,5 +1,159 @@
 [
   {
+    "title": "RBC Weighs Blocking Meta’s AI Agent Muse, CEO McKay Says",
+    "summary": "RBC CEO Dave McKay is considering blocking Meta's AI agent Muse from accessing the bank's customer information. bloquear el acceso del agente de IA Muse de Meta a la información de clientes del banco. He says the bank is liable for protecting consumers, an early test of AI-agent governance around bank data.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-20/rbc-weighs-blocking-meta-s-ai-agent-muse-ceo-mckay-video",
+    "source": "Bloomberg",
+    "published": "2026-10-20T12:52:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+    "summary": "DeepSeek liberará como código abierto el software con el que opera sus modelos de IA a escala, lo que podría hacer su tecnología más barata y fácil de usar para empresas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+    "source": "Bloomberg",
+    "published": "2026-10-20T12:45:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Salesforce to Buy Marketing Platform Braze for $5.7 Billion",
+    "summary": "Salesforce has agreed to buy Braze, an AI-powered marketing platform, for almost $5.7 billion in enterprise value.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion",
+    "source": "Bloomberg",
+    "published": "2026-10-20T12:12:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Quién va ganando en la loca carrera por la IA?",
+    "summary": "Expansión analiza quién va ganando la carrera por la inteligencia artificial.",
+    "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/10/20/quien-va-ganando-en-la-loca-carrera-por-la-ia",
+    "source": "Expansión",
+    "published": "2026-10-20T11:59:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Especialistas advierten que la velocidad del cómputo cuántico dejará obsoleta la protección digital en México",
+    "summary": "Especialistas advierten que la velocidad del cómputo cuántico dejará obsoleta la protección digital en México, un riesgo de ciberseguridad para el sector financiero.",
+    "link": "https://expansion.mx/tecnologia/2026/10/20/computo-cuantico-deja-obsoleta-proteccion-digital-mexico",
+    "source": "Expansión",
+    "published": "2026-10-20T11:55:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México se prepara para disminuir el uso del efectivo; ley de Economía Digital entra en su etapa final de aprobación",
+    "summary": "México se prepara para reducir el uso de efectivo: la ley de Economía Digital entra en su etapa final de aprobación, con implicaciones para bancos y fintech.",
+    "link": "https://expansion.mx/economia/2026/10/20/curp-digital-as-bajo-para-reducir-el-uso-de-efectivo",
+    "source": "Expansión",
+    "published": "2026-10-20T11:55:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México: produce para la IA… y apenas la usa",
+    "summary": "México es la fábrica de las máquinas que hacen posible la IA, pero apenas la usa, según cifras recientes de la OMC citadas en esta columna.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/10/20/mexico-produce-para-la-ia-y-apenas-la-usa/",
+    "source": "El Financiero",
+    "published": "2026-10-20T10:30:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Amazon, Meta AI Wearables Raise Privacy Concerns Over Always-Listening Devices",
+    "summary": "Los dispositivos de IA vestibles de Amazon y Meta que escuchan permanentemente reavivan las preocupaciones de privacidad.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/amazon-meta-ai-wearables-raise-privacy-concerns-over-always-listening-devices",
+    "source": "Bloomberg",
+    "published": "2026-10-20T10:28:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Debutant’s Flameout Stokes Fears the Boom Is Ending",
+    "summary": "Korean neocloud Elice's steep debut drop has sparked a debate on whether AI valuations can be justified and whether the boom is ending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending",
+    "source": "Bloomberg",
+    "published": "2026-10-20T10:25:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Faces UK Pressure to Open iPhone to Rival Wallets",
+    "summary": "The UK antitrust watchdog says Apple's control of iPhone contactless technology blocks fintech rivals, and proposes forcing it to open access to rival wallets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/apple-faces-uk-pressure-to-open-iphone-to-rival-wallets",
+    "source": "Bloomberg",
+    "published": "2026-10-20T10:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "MNT-Halan Shares Rise 18% in Egypt Trading Debut After IPO",
+    "summary": "Egyptian fintech unicorn MNT-Halan rose as much as 18% in its trading debut after the country's biggest IPO in dollar terms since at least 2021.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/mnt-halan-shares-rise-18-in-egypt-trading-debut-after-ipo",
+    "source": "Bloomberg",
+    "published": "2026-10-20T07:39:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El 52% de las empresas familiares no cuenta un plan de sucesión",
+    "summary": "El 52% de las empresas familiares en México no tiene plan de sucesión, un riesgo para su continuidad, según un estudio sobre empresas familiares.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/52-empresas-familiares-cuenta-plan-sucesion-20261020-839416.html",
+    "source": "El Economista",
+    "published": "2026-10-20T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Qualcomm recortará empleos en todo el mundo enfocándose en el desempeño",
+    "summary": "Qualcomm recortará empleos a nivel mundial en una reducción centrada en el desempeño, tras las evaluaciones anuales, según un memorándum de su CEO Cristiano Amon.",
+    "link": "https://www.eleconomista.com.mx/empresas/qualcomm-recortara-empleos-mundo-enfocandose-desempeno-20261020-839519.html",
+    "source": "El Economista",
+    "published": "2026-10-20T06:59:22-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Inicios de construcción de viviendas unifamiliares y permisos se desplomaron en EU en septiembre",
+    "summary": "Los inicios de construcción de vivienda unifamiliar y los permisos en EU cayeron con fuerza en septiembre, ya que el alza en las tasas hipotecarias frenó la demanda.",
+    "link": "https://www.eleconomista.com.mx/economia/inicios-construccion-viviendas-unifamiliares-permisos-desplomaron-eu-septiembre-20261020-839518.html",
+    "source": "El Economista",
+    "published": "2026-10-20T06:55:50-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "GCash Parent Mynt Open to Acquisitions After IPO",
     "summary": "Mynt, parent of GCash, says it will use IPO proceeds to expand lending, financial services and international markets, and is open to acquisitions and partnerships.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-20/gcash-parent-mynt-open-to-acquisitions-after-ipo-video",
@@ -105,6 +259,17 @@
     "source": "Expansión",
     "published": "2026-10-20T02:13:19+00:00",
     "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Se avecina una crisis de deuda global",
+    "summary": "Project Syndicate advierte que el mundo se acerca a una crisis de deuda global: la guerra con Irán pudo ser la chispa, tras una década de acumulación de deuda, tasas más altas y mayores necesidades de refinanciamiento.",
+    "link": "https://www.eleconomista.com.mx/opinion/avecina-crisis-deuda-global-20261020-839454.html",
+    "source": "El Economista",
+    "published": "2026-10-20T01:47:34-06:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "es",
     "light": false
@@ -251,6 +416,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Nscale, Anthropic in Talks for $45 Billion AI Computing Deal",
+    "summary": "Nscale, an AI cloud computing firm, is in talks to sell computing power to Anthropic in a deal that could be worth about $45 billion, per people familiar with the talks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+    "source": "Bloomberg",
+    "published": "2026-10-19T19:24:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Hamilton Lane: AI’s Biggest Returns Have Been Private",
@@ -5322,181 +5498,5 @@
     "relevance_score": 84,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Las nuevas obligaciones para las plataformas digitales",
-    "summary": "El Economista aborda las nuevas obligaciones para las plataformas digitales en México, un cambio regulatorio relevante para empresas del sector.",
-    "link": "https://www.eleconomista.com.mx/videos/nuevas-obligaciones-plataformas-digitales-20261009-837816.html",
-    "source": "El Economista",
-    "published": "2026-10-09T11:46:16-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "KKR Bans Non-Competes for Lower-Paid US Portfolio Company Staff",
-    "summary": "KKR has banned non-compete agreements for lower-paid employees at its US portfolio companies, arguing restrictive contracts aren't needed to stay competitive.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/kkr-bans-non-competes-for-lower-paid-us-portfolio-company-staff",
-    "source": "Bloomberg",
-    "published": "2026-10-09T11:45:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Computer scientist David Silver: ‘Where are we going without AI?’",
-    "summary": "Interview with David Silver, the architect of Google DeepMind's AlphaGo, on building machines that teach themselves and his sense of moral obligation to advance AI.",
-    "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-09T11:30:08+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Burnham Says UK Will Curb Non-Compete Clauses After Tech, AI Startup Outcry",
-    "summary": "The UK plans to curb non-compete clauses after complaints from tech and AI startups about restrictions on moving jobs or founding companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry",
-    "source": "Bloomberg",
-    "published": "2026-10-09T11:26:54+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "We Want to 'Dominate' US: Revolut's Storonsky",
-    "summary": "El CEO de Revolut, Nik Storonsky, quiere 'dominar' el mercado de EE.UU. y competir con JPMorgan y American Express. Planea una oferta bancaria digital completa, con tarjetas y préstamos, apoyada en IA y automatización.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T10:50:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Inteligencia Artificial y tus finanzas personales (Parte 2 de 5)",
-    "summary": "El Economista, en la segunda parte de su serie, explica cómo la IA puede ayudar con las finanzas personales, ordenando información y explicando conceptos, pero con errores que exigen cautela.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/inteligencia-artificial-tus-finanzas-personales-parte-2-20261009-837164.html",
-    "source": "El Economista",
-    "published": "2026-10-09T10:50:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bending Spoons CEO Sees Opportunity in ‘SaaSpocalypse’",
-    "summary": "El CEO de Bending Spoons, Luca Ferrari, ve oportunidades de adquisición en la caída de valuaciones de software ('SaaSpocalypse'). Dice que la IA abarata objetivos y acelera su modelo de compras.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T10:38:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "China Is Trouncing the US in Consumer Adoption of Generative AI",
-    "summary": "Bloomberg Opinion: EE.UU. destaca en capacidad de IA, pero China lo supera en adopción de IA generativa por parte de los consumidores.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai",
-    "source": "Bloomberg",
-    "published": "2026-10-09T10:30:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Revolut CEO Aims To Rival JPMorgan, American Express",
-    "summary": "Entrevista a Storonsky en la conferencia Wave by Vento en Turín sobre las ambiciones de Revolut en EE.UU. frente a JPMorgan y American Express.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-aims-to-rival-jpmorgan-american-express-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T10:27:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los retos de Bre-B tras mover COP$262 billones en su primer año de operación",
-    "summary": "Bre-B, el sistema de pagos inmediatos de Colombia, cumplió un año con más de 1,700 millones de transacciones, 36 millones de usuarios y 245 entidades conectadas, aunque enfrenta retos pendientes.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/los-retos-de-bre-b-tras-cumplir-su-primer-ano-de-operacion/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-09T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
-    "summary": "Bloomberg Tech: Europe analiza cómo la IA entra más a fondo en la banca para volverse más rápida y eficiente. También examina las nuevas vulnerabilidades que puede generar la tecnología.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/ai-in-banking-risk-and-reward-bloomberg-tech-europe-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T09:52:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Says Investors to Shift Focus to AI Monetization",
-    "summary": "Goldman Sachs espera que los inversionistas pasen a enfocarse en la monetización de la IA. Persisten dudas de si el gasto de capital se traducirá en productos monetizables.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/goldman-says-investors-to-shift-focus-to-ai-monetization-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T09:41:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Last Night I Had Nightmares' Says Airtel Money CEO Before IPO",
-    "summary": "Airtel Money debuts on the London Stock Exchange in a listing that may be the bourse's biggest IPO in five years; its performance is a test of London's capital-markets revival.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/-i-had-nightmares-says-airtel-money-ceo-before-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T09:07:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why JPMorgan Is the Most AI-Advanced Bank",
-    "summary": "JPMorgan encabeza de nuevo el ranking de Evident Insight de los bancos más avanzados en IA. La CEO de Evident explica por qué los pioneros se distancian y por qué importa la inversión sostenida en IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/why-jpmorgan-is-the-most-ai-advanced-bank-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T08:38:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Caras o baratas? Expertos de mercado explican cómo ven las acciones de IA",
-    "summary": "Expertos de mercado analizan si las acciones ligadas a IA están caras o baratas, ante múltiplos elevados y crecimiento de ganancias que plantea dudas de valuación.",
-    "link": "https://www.bloomberglinea.com/mercados/caras-o-baratas-expertos-de-mercado-explican-como-ven-las-acciones-de-ia/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-09T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Airtel Money CEO Says London IPO a 'Big Milestone'",
-    "summary": "Airtel Money CEO Ian Ferrao calls the London listing a 'big milestone', in what could be the bourse's largest IPO in five years.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/airtel-money-ceo-says-london-ipo-a-big-milestone-video",
-    "source": "Bloomberg",
-    "published": "2026-10-09T06:35:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
   }
 ]
