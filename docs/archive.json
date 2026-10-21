@@ -1,5 +1,159 @@
 [
   {
+    "title": "France’s borrowing costs hit 5% for first time since 2002",
+    "summary": "French 10-year borrowing costs hit 5% for the first time since 2002, up from 3.2% in late February, on concerns over public finances and political stability.",
+    "link": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-21T12:51:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Por qué HR Ratings recortó la calificación?",
+    "summary": "HR Ratings recortó la calificación soberana de largo plazo de México de BBB+ a BBB, aún dos niveles sobre grado de inversión y con perspectiva estable. La columna explica las razones de la decisión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/10/21/por-que-hr-ratings-recorto-la-calificacion/",
+    "source": "El Financiero",
+    "published": "2026-10-21T12:06:57+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Huang Says All Industries Across Europe Need to Adopt AI",
+    "summary": "Nvidia CEO Jensen Huang urged Europe at GTC Berlin to adopt AI faster, saying all end industries must adopt it for Europe to benefit and build an AI economy.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-10-21T12:03:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Excelencia operativa lleva a Afore XXI Banorte a gestionar 9.4 millones de cuentas adicionales del SAR",
+    "summary": "La Consar designó a XXI Banorte como nueva Prestadora de Servicios del SAR tras ganar la licitación de 2026, por su capacidad operativa, solvencia y alcance tecnológico. Gestionará 9.4 millones de cuentas adicionales.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/21/excelencia-operativa-lleva-a-afore-xxi-banorte-a-gestionar-94-millones-de-cuentas-adicionales-del-sar/",
+    "source": "El Financiero",
+    "published": "2026-10-21T12:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México ya fabrica los servidores de la inteligencia artificial: ¿por qué no construye su propia industria de IA?",
+    "summary": "México se ha vuelto plataforma de producción de los servidores y equipos que hacen posible la inteligencia artificial. El columnista pregunta por qué el país no construye su propia industria de IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/10/21/mexico-ya-fabrica-los-servidores-de-la-inteligencia-artificial-por-que-no-construye-su-propia-industria-de-ia/",
+    "source": "El Financiero",
+    "published": "2026-10-21T11:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kallum Pickering Warns of AI Boom Bust Risks",
+    "summary": "Kallum Pickering of Peel Hunt warns that high rates and heavy AI investment concentrate capital and raise boom-bust risks. He also discusses Fed policy, US debt and inflation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/kallum-pickering-warns-of-ai-boom-bust-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-21T11:24:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Pagos digitales: el reto está en la letra chiquita",
+    "summary": "Tras el aval a la Ley de Economía Digital para Pagos Digitales y Electrónicos, el columnista advierte que el reto está en los detalles de la reglamentación. El sector financiero tendrá un papel importante en su implementación.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/21/pagos-digitales-el-reto-esta-en-la-letra-chiquita/",
+    "source": "El Financiero",
+    "published": "2026-10-21T11:18:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia CEO Huang Pushes Europe on All Industries Adopting AI",
+    "summary": "Nvidia CEO Jensen Huang pushed Europe to accelerate AI adoption across all industries, striking a bullish tone as some investors grow skeptical about spending on AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-21T10:54:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Elon Musk Backs Tesla-SpaceX Mega Merger",
+    "summary": "Elon Musk backs the proposed Tesla-SpaceX mega merger, per Bloomberg.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/the-pulse-10-21-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-21T10:41:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Hacking Threat to Banks as BOE, JPMorgan, Meta (META) Tighten Rules",
+    "summary": "Los bancos no esperan la intervención regulatoria ante la amenaza de hackeo con IA: el Bank of England, JPMorgan y Meta endurecen sus reglas. Bloomberg destaca el creciente riesgo de ciberseguridad con IA para el sector financiero.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/ai-hacking-threat-to-banks-as-boe-jpmorgan-meta-meta-tighten-rules",
+    "source": "Bloomberg",
+    "published": "2026-10-21T10:28:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Boom Has Years to Run Before Risks Bite, Chiavarone Says",
+    "summary": "Federated Hermes' Steve Chiavarone says the AI boom may be a bubble but the infrastructure buildout still has years to run before risks bite.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ai-boom-has-years-to-run-before-bubble-risks-bite-cio-says",
+    "source": "Bloomberg",
+    "published": "2026-10-21T10:10:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
+    "summary": "Musk's attempt to merge Tesla and SpaceX, a roughly $3.6tn deal, will require convincing shareholders and global regulators, says the FT.",
+    "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-21T09:50:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "French Yields Hit 5%, Highest Since 2002, as Risk Gauge Climbs",
+    "summary": "The yield on benchmark French debt hit 5%, the highest since 2002, as rising energy prices heightened fiscal concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high",
+    "source": "Bloomberg",
+    "published": "2026-10-21T09:18:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "5 consejos para dar retroalimentación efectiva a tus colaboradores",
+    "summary": "Cinco consejos para dar retroalimentación constructiva a los colaboradores, según DDI, para identificar mejoras, cambiar conductas y fortalecer la relación con los jefes.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/5-consejos-dar-retroalimentacion-efectiva-tus-colaboradores-20261021-839627.html",
+    "source": "El Economista",
+    "published": "2026-10-21T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "La economía mexicana “metió tercera”",
     "summary": "El Indicador Oportuno de la Actividad Económica del Inegi sugiere que la economía mexicana aceleró en el verano, tras varios trimestres de estancamiento, según el columnista.",
     "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/21/la-economia-mexicana-metio-tercera/",
@@ -66,6 +220,17 @@
     "light": true
   },
   {
+    "title": "México y la IA en el espejo, así nos ve la CEPAL",
+    "summary": "La CEPAL evalúa cómo le va a México con la IA: entre enero y julio exportó 90,800 millones de dólares en equipo de cómputo ligado al auge de la IA y los centros de datos, aunque el panorama es desigual.",
+    "link": "https://www.eleconomista.com.mx/opinion/mexico-ia-espejo-asi-ve-cepal-20261021-839726.html",
+    "source": "El Economista",
+    "published": "2026-10-21T02:21:15-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI ‘agents’ disabled their own monitoring systems",
     "summary": "OpenAI investiga si un incidente en el que sus agentes desactivaron sus propios sistemas de monitoreo muestra una 'propensión a evadir' controles. El caso reaviva el debate sobre gobernanza y riesgo de modelos de IA.",
     "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
@@ -75,6 +240,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
+    "summary": "Expansión perfila el camino empresarial del hijo de Arturo Elías Ayub, de Sears y Sanborns hacia negocios vinculados con la inteligencia artificial.",
+    "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
+    "source": "Expansión",
+    "published": "2026-10-21T01:50:34+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "SpaceX and Tesla boards explore potential merger",
@@ -220,6 +396,17 @@
     "light": false
   },
   {
+    "title": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
+    "summary": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 millones de pesos por los cambios demográficos en México, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
+    "source": "Expansión",
+    "published": "2026-10-20T22:44:20+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now",
     "summary": "Ken Griffin afirmó que los inversionistas están 'casi con certeza' en una burbuja de IA, pues muchas empresas aún no saben cuánto gastarán ni cómo transformará la economía.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
@@ -271,6 +458,17 @@
     "published": "2026-10-20T18:39:18+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The late Perry Mehrling explained the hierarchy of money",
+    "summary": "The Economist remembers Perry Mehrling, who explained the 'hierarchy of money' and how financial systems rely on layered credit and liquidity.",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+    "source": "The Economist",
+    "published": "2026-10-20T18:32:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
     "language": "en",
     "light": true
   },
@@ -341,6 +539,17 @@
     "light": false
   },
   {
+    "title": "M38 House / Muda Prefab",
+    "summary": "La casa M38 es una vivienda prefabricada de 38 m² que busca industrializar la construcción sin estandarizar la arquitectura, con una primera unidad instalada como showroom.",
+    "link": "https://www.archdaily.com/1187218/m38-house-muda-prefab",
+    "source": "ArchDaily",
+    "published": "2026-10-20T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Citadel Securities’ Rubner Says AI Trade to Gain After Midterms",
     "summary": "Citadel Securities' Scott Rubner says investors are poised to pile back into the AI trade next month once the US midterm elections have passed.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/citadel-securities-rubner-says-ai-trade-to-gain-after-midterms",
@@ -404,6 +613,17 @@
     "category": "Leadership & Future of Work",
     "relevance_score": 66,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Espiga House / Grupo Primitivo",
+    "summary": "Vivienda Espiga usa una secuencia de marcos estructurales de madera para ordenar recorridos y definir la identidad material de la casa.",
+    "link": "https://www.archdaily.com/1187171/espiga-house-grupo-primitivo",
+    "source": "ArchDaily",
+    "published": "2026-10-20T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -920,6 +1140,17 @@
     "published": "2026-10-19T19:24:06+00:00",
     "category": "AI & Agents",
     "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+    "summary": "Japan wants its pension fund and households to buy more government debt as it prepares to issue $120bn of fresh bonds. The Economist asks who will absorb the supply.",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+    "source": "The Economist",
+    "published": "2026-10-19T18:11:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -5265,237 +5496,6 @@
     "published": "2026-10-12T03:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bain’s Bridge Data Centres Seeks to Upsize Loan to $6.6 Billion",
-    "summary": "Bain Capital-owned Bridge Data Centres is in talks with banks to more than double an existing loan to about $6.6 billion, one of the largest sector deals in Asia. Summary from blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
-    "source": "Bloomberg",
-    "published": "2026-10-12T02:29:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing",
-    "summary": "DBS CEO Tan Su Shan says the market is repricing risks around the AI buildout, which could bring more discipline to financing. Summary from blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
-    "source": "Bloomberg",
-    "published": "2026-10-12T01:07:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Guerra en Medio Oriente dominará agenda en reuniones del FMI y BM",
-    "summary": "Los responsables financieros del mundo se reúnen en Bangkok bajo la sombra de la guerra en Medio Oriente, la mayor crisis de suministro energético y el alza de tasas, factores que amenazan el crecimiento global.",
-    "link": "https://www.eleconomista.com.mx/economia/guerra-medio-oriente-dominara-agenda-reuniones-fmi-bm-20261012-838087.html",
-    "source": "El Economista",
-    "published": "2026-10-12T00:15:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México es hoy el país más atractivo para la inversión en AL: CCE",
-    "summary": "José Medina Mora, presidente del CCE, afirma que México es el mejor país para invertir en América Latina por su cercanía con EU y su distancia de los conflictos bélicos. Pide al gobierno garantizar seguridad jurídica y física, agua y energía.",
-    "link": "https://www.eleconomista.com.mx/empresas/mexico-hoy-pais-atractivo-inversion-cce-20261011-838074.html",
-    "source": "El Economista",
-    "published": "2026-10-11T23:16:45-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alza de tasas de largo plazo en EU puede encarecer el financiamiento para México, advierten",
-    "summary": "BNP Paribas economist Pamela Díaz Loubet advierte que el alza de los rendimientos de los bonos del Tesoro de EU a 10 años puede encarecer el financiamiento de México. Las tasas mexicanas de largo plazo están expuestas a los movimientos del mercado estadounidense.",
-    "link": "https://www.eleconomista.com.mx/economia/alza-tasas-plazo-eu-encarecer-financiamiento-mexico-advierten-20261011-838067.html",
-    "source": "El Economista",
-    "published": "2026-10-11T22:58:45-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-    "summary": "Amazon is reportedly in talks to acquire AI startup Decart in a deal that could be valued around $7 billion, per the Wall Street Journal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
-    "source": "Bloomberg",
-    "published": "2026-10-11T20:46:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Banks Face Test as Earnings Season Begins",
-    "summary": "Bloomberg Intelligence says major US banks enter Q3 earnings with strong credit quality, but face questions over higher rates, slowing investment banking and risks tied to AI financing. Wealth management could be a bright spot.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-11/big-banks-face-test-as-earnings-season-begins-video",
-    "source": "Bloomberg",
-    "published": "2026-10-11T15:20:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Is AI Crowding Everyone Else Out of the Bond Market?",
-    "summary": "Hyperscalers, centros de datos y fabricantes de chips piden prestados cientos de miles de millones de dólares para financiar la expansión de la IA, ya una de las mayores fuerzas del crédito corporativo. La concentración creciente y los financiamientos complejos plantean cuánta deuda de IA puede absorber el mercado.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
-    "source": "Bloomberg",
-    "published": "2026-10-11T14:03:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Adiós a las tareas tradicionales? La IA obliga a universidades a cambiar sus métodos de enseñanza",
-    "summary": "Un profesor en EU descubrió con una instrucción oculta que al menos 60 de 350 estudiantes usaron IA en una tarea, caso que ilustra cómo las universidades deben cambiar sus métodos de enseñanza ante el uso creciente de esta tecnología.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial/adios-tareas-tradicionales-ia-obliga-universidades-cambiar-metodos-ensenanza-20261011-837867.html",
-    "source": "El Economista",
-    "published": "2026-10-11T12:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Se diluye esperanza en turismo nacional para salvar temporada baja en Caribe mexicano",
-    "summary": "Los hoteleros del Caribe mexicano confían en el turismo nacional para la temporada baja, pero el aporte doméstico no bastará en 2026. La oferta aérea desde EU hacia Cancún, Cozumel y Tulum se contrae 12.8% en asientos en el trimestre octubre-diciembre.",
-    "link": "https://www.eleconomista.com.mx/estados/diluye-esperanza-turismo-nacional-salvar-temporada-baja-caribe-mexicano-20261011-837995.html",
-    "source": "El Economista",
-    "published": "2026-10-11T11:04:57-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Uso de pagos digitales mejoraría si las apps bancarias son más simples y fáciles de usar: Banxico",
-    "summary": "Banxico considera que la adopción de pagos digitales en México se aceleraría si las apps de bancos y no bancos simplificaran las transferencias. El hallazgo llega mientras se analiza en el Legislativo la Ley de Ecosistema de pagos.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/pagos-digitales-mejoraria-apps-bancarias-son-simples-faciles-banxico-20261011-837444.html",
-    "source": "El Economista",
-    "published": "2026-10-11T10:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El terremoto de la IA, explicado para entenderlo",
-    "summary": "La irrupción de la IA ha provocado una crisis en las matemáticas, y el debate sobre su futuro alcanza a toda la sociedad. La inversión empresarial global en IA ya suma 1.6 billones de dólares.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/terremoto-ia-explicado-entenderlo-20261011-837975.html",
-    "source": "El Economista",
-    "published": "2026-10-11T09:55:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cuesta comprar vivienda 15 años de sueldo íntegro",
-    "summary": "La CDMX es la entidad más cara para adquirir vivienda: un trabajador tendría que entregar su salario íntegro durante 15 años para comprar una. El dato refleja el deterioro de la asequibilidad habitacional.",
-    "link": "https://www.reforma.com/cuesta-comprar-vivienda-15-anos-de-sueldo-integro/ar3292450",
-    "source": "Reforma",
-    "published": "2026-10-11T05:01:28-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 86,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
-    "summary": "South Korea's $4.3 trillion stock market, a poster child of this year's AI trade, is rapidly losing relevance with investors by almost every measure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
-    "source": "Bloomberg",
-    "published": "2026-10-11T00:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
-    "summary": "Tech companies are ramping up bond sales this year despite rising yields, and talk of big financings from SpaceX and Broadcom amplifies investor fears about the coming wave of AI-related debt.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
-    "source": "Bloomberg",
-    "published": "2026-10-10T19:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
-    "summary": "Nvidia is in early-stage talks to acquire or further invest in Reflection AI, a US developer of open-weight models, according to the Financial Times.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
-    "source": "Bloomberg",
-    "published": "2026-10-10T18:52:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
-    "summary": "Microsoft CEO Satya Nadella said companies should treat powerful AI models as potential insider threats and assume they could be compromised. He urged an 'emergency brake' system to stop agentic models from going rogue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-    "source": "Bloomberg",
-    "published": "2026-10-10T18:35:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-    "summary": "Nvidia is in talks to acquire Reflection AI, a US open-model startup. The Trump administration hopes the company can rival cheap Chinese alternatives such as DeepSeek.",
-    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-10T18:14:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Negrita House / Estudio Palacios",
-    "summary": "La Negrita House sits on the shores of Los Molinos Lake amid a dense eucalyptus forest, conceived as a peaceful retreat with its own microclimate.",
-    "link": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
-    "source": "ArchDaily",
-    "published": "2026-10-10T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Jefferies Says It Found Fraud in $900 Million of Radiant Deals",
-    "summary": "A Jefferies-run fund told a court it has evidence of alleged fraud by iron ore traders Radiant World and Sapphire Minmetals in receivables-financing deals with almost $900 million in face value.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
-    "source": "Bloomberg",
-    "published": "2026-10-10T15:03:27+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El ‘gemelo malvado’ del USB: Así es el cable O.MG, un peligro para tu celular y cuenta bancaria",
-    "summary": "Los cables O.MG, que parecen cargadores comunes, pueden extraer datos e instalar malware sin que el usuario lo note, poniendo en riesgo celulares y cuentas bancarias.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/10/10/el-gemelo-malvado-del-usb-asi-es-el-cable-omg-un-peligro-para-tu-celular-y-cuenta-bancaria/",
-    "source": "El Financiero",
-    "published": "2026-10-10T14:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
     "language": "es",
     "light": false
   }
