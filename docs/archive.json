@@ -1,5 +1,137 @@
 [
   {
+    "title": "Blackstone's Schwarzman Discovered the AI Revolution by Accident",
+    "summary": "Blackstone CEO Stephen Schwarzman explains how Jack Ma helped him discover the AI revolution 'by accident' in 2015. He shares the story on 'Leaders With Francine Lacqua'.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/digi-stephen-schwarzman-on-blackstone-ai-buildout",
+    "source": "Bloomberg",
+    "published": "2026-10-22T18:30:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
+    "summary": "UBS prevailed against two former Credit Suisse managing directors who argued their deferred-compensation certificates shouldn't have been written down in the 2023 merger.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
+    "source": "Bloomberg",
+    "published": "2026-10-22T18:22:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Navient CDS Widen by Most in Eight Years as Debtholders Left Out",
+    "summary": "Costs to protect against a Navient default rose after a restructuring that effectively cuts bondholders off from the business's biggest growth area.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/navient-cds-widen-by-most-in-eight-years-as-debtholders-left-out",
+    "source": "Bloomberg",
+    "published": "2026-10-22T17:49:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street abre con pérdidas por dudas sobre la IA: ¿Cuánto caen HOY las acciones?",
+    "summary": "Los mercados globales operan a la baja por mayor aversión al riesgo geopolítico y dudas sobre los beneficios de las empresas de inteligencia artificial. El Nasdaq encabeza las pérdidas en Wall Street.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/22/wall-street-bmv-acciones-hoy-22-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-22T17:45:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
+    "summary": "A model from OpenAI helped identify a potentially catastrophic cybersecurity vulnerability in a programming language that runs millions of websites and apps. OpenAI's Greg Brockman and Cloudflare's Matthew Prince discuss how the flaw was found and contained.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video",
+    "source": "Bloomberg",
+    "published": "2026-10-22T17:43:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso ‘resiente’ dato de inflación en México: ¿Cuánto pierde ante el dólar HOY?",
+    "summary": "El peso se deprecia 0.11% ante el dólar por mayor aversión al riesgo global ante tensiones en la guerra de EU contra Irán, tras el dato de inflación en México.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/22/peso-dolar-tipo-de-cambio-precio-hoy-22-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-22T17:33:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The AI Spending Profit Test, Blackstone's Gray sees \"Parabolic\" Demand",
+    "summary": "Meta beat Wall Street targets but its AI spending surge raises fresh concerns, while Blackstone's Jonathan Gray pushes back on AI bubble fears. Bloomberg's pre-market show.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/open-interest-10-22-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-22T16:44:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Vale la pena comprar bonos latinoamericanos? Morgan Stanley señala cuatro mercados con primas atractivas",
+    "summary": "Morgan Stanley sees opportunities in sovereign bonds of Colombia, Argentina, Mexico and Ecuador, where country-specific risks keep spreads above comparable US-rated issuers.",
+    "link": "https://www.bloomberglinea.com/mercados/vale-la-pena-comprar-bonos-latinoamericanos-morgan-stanley-senala-cuatro-mercados-con-primas-atractivas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-22T16:00:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
+    "summary": "Former OpenAI executive Kevin Weil, who led its AI-for-science efforts, is launching a startup with $215 million to use AI to speed up a key step of drug development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
+    "source": "Bloomberg",
+    "published": "2026-10-22T15:30:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Know Your Agent’ will be the new rule of the AI age",
+    "summary": "Un artículo del FT plantea que, conforme el software autónomo hace más, hay que centrarse en cómo controlar su comportamiento y establecer rendición de cuentas. Propone un esquema tipo 'Know Your Agent' como regla de la era de la IA.",
+    "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-22T14:38:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Texas Developer Seeks $3.5 Billion in Debt Financing for AT&T (T) Headquarters",
+    "summary": "The developer behind AT&T's new global headquarters in Plano, Texas, seeks about $3.5 billion via a niche form of financing to fund construction of the campus.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/texas-developer-seeks-3-5-billion-in-debt-financing-for-at-t-t-headquarters",
+    "source": "Bloomberg",
+    "published": "2026-10-22T14:00:59+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’",
+    "summary": "Blackstone president Jon Gray says investors needn't fear the AI boom turning into a bubble, days after Ken Griffin said the industry was almost certainly headed that way. He calls AI-driven demand 'parabolic'.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic",
+    "source": "Bloomberg",
+    "published": "2026-10-22T13:08:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
     "summary": "Affirm será el socio exclusivo de compra ahora, paga después de Sam's Club de Walmart, semanas antes de la temporada navideña. Es una señal de la expansión del crédito al consumo vía fintech en el retail.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/affirm-sam-s-club-strike-exclusive-buy-now-pay-later-deal",
@@ -64,6 +196,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El 80% de la fuerza laboral implementará la jornada de 40 horas sin dificultad: Salafranca",
+    "summary": "El 80% de la fuerza laboral en México no tendrá dificultad para aplicar la jornada de 40 horas, afirmó Alejandro Salafranca, al acudir a centros de trabajo fijos con horarios predeterminados.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/80-fuerza-laboral-implementara-jornada-40-horas-dificultad-alejandro-salafranca-20261022-839987.html",
+    "source": "El Economista",
+    "published": "2026-10-22T12:15:57-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Private Credit Group Says Market Fears Are Divorced From Reality",
@@ -154,6 +297,17 @@
     "light": true
   },
   {
+    "title": "Firms Race to Fix Widespread Cyber Flaw Before Hackers Break In",
+    "summary": "Governments and companies rushed to patch two critical flaws in widely used technology, keeping some websites offline as a precaution against cybercrime. Related to the vulnerability found with OpenAI's help.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/researchers-say-hackers-targeted-php-before-flaws-were-known",
+    "source": "Bloomberg",
+    "published": "2026-10-22T10:43:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Tecnología acelera transparencia inmobiliaria",
     "summary": "La tecnología y la IA están elevando la transparencia en los mercados inmobiliarios líderes en innovación y captación de inversión, con Dubái como referente. Los cambios regulatorios y las nuevas plataformas redefinen la confianza del inversionista.",
     "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/10/22/tecnologia-acelera-transparencia-inmobiliaria/",
@@ -196,6 +350,28 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Acelera inflación a 3.62% en primera quincena de octubre",
+    "summary": "La inflación de México se ubicó en 3.62% interanual en la primera quincena de octubre, su mayor nivel desde la segunda quincena de mayo.",
+    "link": "https://www.reforma.com/acelera-inflacion-a-3-62-en-primera-quincena-de-octubre/ar3299870",
+    "source": "Reforma",
+    "published": "2026-10-22T07:26:29-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Restoring Views at Neutra’s Corwin House with Sky-Frame",
+    "summary": "Architectural designer Aziz Osko has updated Richard Neutra's 1956 Corwin House in Connecticut, restoring views with Sky-Frame glazing. A modernist hillside house in woodland.",
+    "link": "https://www.archdaily.com/1186757/restoring-views-at-neutras-corwin-house-with-sky-frame",
+    "source": "ArchDaily",
+    "published": "2026-10-22T06:45:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Japan Scrambles to Patch PHP Flaws as Banks, Airlines Go Offline",
@@ -5322,181 +5498,5 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Los 3 grandes riesgos que amenazan la estabilidad financiera mundial, según el FMI",
-    "summary": "El FMI, en su Informe de Estabilidad Financiera Mundial de octubre, advierte tres grandes riesgos que podrían desatar turbulencias en los mercados pese a la resistencia de las principales economías.",
-    "link": "https://www.bloomberglinea.com/mercados/los-3-grandes-riesgos-que-amenazan-la-estabilidad-financiera-mundial-segun-el-fmi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-13T15:48:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nandan Nilekani Sees AI Opportunity for Infosys",
-    "summary": "Infosys co-founder Nandan Nilekani says AI is driving the biggest transformation in IT services in decades, discussing enterprise adoption, legacy systems and Infosys' model-agnostic approach.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video",
-    "source": "Bloomberg",
-    "published": "2026-10-13T13:38:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi’s Fixed Income Traders Drive Third-Quarter Beat on Revenue",
-    "summary": "Citigroup's fixed-income traders posted their best third quarter in at least a decade, lifting revenue to near-record levels and offsetting a sluggish quarter in investment banking advisory.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/citi-s-ficc-traders-drive-third-quarter-beat-on-revenue-video",
-    "source": "Bloomberg",
-    "published": "2026-10-13T12:50:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El presidente de Microsoft pide estándares de seguridad \"reales y eficaces\" de la IA",
-    "summary": "El presidente de Microsoft, Brad Smith, pidió que empresas y países adopten normas de seguridad 'reales y eficaces' para contener los riesgos de la IA, en las que el público pueda confiar. Subrayó que la IA necesita estándares como cualquier otra tecnología crítica.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/presidente-microsoft-pide-estandares-seguridad-reales-eficaces-ia-20261013-838374.html",
-    "source": "El Economista",
-    "published": "2026-10-13T12:09:27-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "LSEG in Talks to Buy Permira-Owned Credit Firm Octus",
-    "summary": "London Stock Exchange Group is in talks to acquire Octus, a global credit platform, from private equity owner Permira, according to people familiar with the matter. The deal would be a notable financial-data and PE exit transaction.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/lseg-in-talks-to-buy-permira-owned-credit-firm-octus",
-    "source": "Bloomberg",
-    "published": "2026-10-13T12:00:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "12.9 millones de datos están a la venta: quién responde cuando una empresa los expone",
-    "summary": "Expansión examina quién responde cuando una empresa expone datos: 12.9 millones de registros están a la venta. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/tecnologia/2026/10/13/quien-responde-por-tus-datos-personales",
-    "source": "Expansión",
-    "published": "2026-10-13T11:55:44+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Goldman Beats on Equity Trading as Fixed Income Falls Short",
-    "summary": "Goldman Sachs' equities traders reported $6.44 billion in revenue for the third quarter, topping expectations, while fixed income and rates trading fell far short of estimates.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/goldman-beats-on-equity-trading-as-fixed-income-misses-video",
-    "source": "Bloomberg",
-    "published": "2026-10-13T11:50:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cyber attack on French supermarket fridges raises alarm over food security",
-    "summary": "A cyber attack on French supermarket fridges pushed temperatures as high as 80°C, melting equipment and destroying food, and is raising alarm over food security.",
-    "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-13T11:50:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Diputados avalan en comisiones deuda de 1.7 billones de pesos y recaudación de de 6.2 billones; se turna al pleno",
-    "summary": "La Comisión de Hacienda de Diputados aprobó el dictamen de la Ley de Ingresos 2027, con un techo de endeudamiento de 1.7 billones de pesos y recaudación de 6.2 billones, por 26 votos a favor y 11 en contra. Pasa al pleno.",
-    "link": "https://www.eleconomista.com.mx/economia/diputados-avalan-comisiones-deuda-1-7-billones-pesos-recaudacion-6-2-billones-turna-pleno-20261013-838366.html",
-    "source": "El Economista",
-    "published": "2026-10-13T11:07:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Explicador: ¿Cómo se reducirá la jornada laboral en México a partir de 2027?",
-    "summary": "El Economista explica que a partir del 1 de enero de 2027 comenzará a reducirse gradualmente la jornada laboral en México, tras la reforma a la Ley Federal del Trabajo del 1 de mayo.",
-    "link": "https://www.eleconomista.com.mx/explicadores/reduccion-jornada-laboral-mexico-2027-explicada-20261013-837887.html",
-    "source": "El Economista",
-    "published": "2026-10-13T11:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales",
-    "summary": "Ledger revisa sus políticas de venta de dispositivos tras un spyware implantado en algunas carteras que derivó en pérdidas estimadas de $90 millones en criptomonedas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ledger-to-review-sale-policies-after-crypto-spyware-attack",
-    "source": "Bloomberg",
-    "published": "2026-10-13T11:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Boom Fuels Global Financial Risks: A Guide to the Circular Deals",
-    "summary": "New pools of capital are flowing into the US, but not in the way they used to. Bloomberg offers a guide to the circular deals around the AI boom and the global financial risks they create.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/ai-boom-fuels-global-financial-risks-a-guide-to-the-circular-deals",
-    "source": "Bloomberg",
-    "published": "2026-10-13T10:28:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Raimondo Says AI Challenges Need Governance Framework",
-    "summary": "Gina Raimondo argues a governance framework is needed for AI's challenges, including the risk of agents going rogue. She spoke at the 2026 Bloomberg New Economy Forum in New Delhi.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/raimondo-says-ai-challenges-need-governance-framework",
-    "source": "Bloomberg",
-    "published": "2026-10-13T10:24:42+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens",
-    "summary": "Anthropic warns that rogue AI agents could 'self-replicate' and act as worms spreading across smart appliances such as lawnmowers and TVs. The company frames it as a future cybersecurity threat.",
-    "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-13T10:11:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancos tradicionales VS. Neobancos: la rentabilidad que ofrecen en sus cuentas de ahorros",
-    "summary": "Tras la alza de tasas del Banco de la República a 12,25% con inflación de 6,24%, Bloomberg Línea compara cuánto pagan bancos tradicionales y neobancos en cuentas de ahorro en Colombia, con cifras de la Superintendencia Financiera.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/bancos-tradicionales-vs-neobancos-la-rentabilidad-que-ofrecen-en-sus-cuentas-de-ahorros/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-13T10:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed's Waller on Monetary Policy in the Age of AI",
-    "summary": "Fed Governor Christopher Waller discusses how central banks can respond to the economic and social changes driven by AI, speaking at the 2026 Bloomberg New Economy Forum in New Delhi.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/fed-s-waller-on-monetary-policy-in-the-age-of-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-10-13T08:38:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
   }
 ]
