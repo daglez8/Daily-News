@@ -1,5 +1,159 @@
 [
   {
+    "title": "OpenAI Moves Toward a $1.25 Trillion Value",
+    "summary": "OpenAI is moving toward a fundraising at a $1.25 trillion valuation, while Anthropic's looming IPO could bring blockbuster returns to its early investors. SpaceX is also taking another step toward a market listing.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-10-23-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T17:56:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Paydays Ahead for Anthropic's Early Backers",
+    "summary": "Anthropic's upcoming public listing is set to create multibillion-dollar gains for venture firms, tech companies and independent backers. Bloomberg explains why many early investors will not be able to sell their stakes right away.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/big-paydays-ahead-for-anthropic-s-early-backers-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T17:49:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment",
+    "summary": "Chinese startup Moonshot AI, valued at $50 billion, released its first major model upgrade since its own 'DeepSeek moment' this summer, as it pushes toward the frontier.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+    "source": "Bloomberg",
+    "published": "2026-10-23T17:18:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Economy 'Quite Dependent' on AI as Growth Engine, Says Tani Fukui",
+    "summary": "The US economy is 'quite dependent' on AI as a growth engine, says Tani Fukui, even as an oil price rebound and the AI-stock selloff stoke inflation worries ahead of the Fed decision.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-economy-dependent-on-ai-as-growth-engine-says-fukui-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T16:46:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Correcciones en el mercado ayudan al peso: ¿Cuánto se aprecia este viernes?",
+    "summary": "Correcciones en el mercado ayudan al peso mexicano este viernes, según El Financiero.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/23/peso-dolar-tipo-de-cambio-precio-hoy-23-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-23T16:30:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
+    "summary": "La Ley de Economía Digital llega con México en máximo histórico de tarjetas de crédito y con menos sucursales bancarias, según Expansión. Marca un cambio hacia la banca digital.",
+    "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
+    "source": "Expansión",
+    "published": "2026-10-23T16:18:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ya no es solo el petróleo o la Fed: la IA ahora mueve al dólar y los bonos",
+    "summary": "Las expectativas sobre la inteligencia artificial muestran una creciente correlación con los movimientos del dólar, los rendimientos del Tesoro y las acciones tecnológicas. Refleja que los inversionistas vigilan cada vez más a la IA como factor macro.",
+    "link": "https://www.bloomberglinea.com/mercados/ya-no-es-solo-el-petroleo-o-la-fed-la-ia-ahora-mueve-al-dolar-y-los-bonos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-23T16:16:12+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump confirma que EU y México están ‘muy cerca’ de un acuerdo para reducir aranceles: ‘Será muy bueno’",
+    "summary": "Donald Trump afirmó que EU y México están 'muy cerca' de un acuerdo para reducir aranceles, en línea con lo dicho por Sheinbaum. Un pacto sería relevante para nearshoring y demanda inmobiliaria.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/10/23/trump-confirma-que-eu-y-mexico-estan-muy-cerca-de-un-acuerdo-para-reducir-aranceles-sera-muy-bueno/",
+    "source": "El Financiero",
+    "published": "2026-10-23T16:13:48+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué pasó con el data center de OpenAI en Argentina a un año del anuncio de US$25.000 millones?",
+    "summary": "El mega data center de OpenAI en la Patagonia argentina sigue sin pasar de carta de intención a contrato definitivo un año después de su anuncio de hasta US$25.000 millones.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/que-paso-con-el-data-center-de-openai-en-argentina-a-un-ano-del-anuncio-de-us25000-millones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-23T16:05:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why AI Is Causing a Global Panic Over Cybersecurity",
+    "summary": "Banks, airlines and governments took websites offline as a precaution after researchers used AI to find flaws in a programming language underpinning much of the internet. Bloomberg's Jordan Robertson argues we are entering an era of rapid-fire software vulnerabilities.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/why-ai-is-causing-a-global-panic-over-cybersecurity-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T15:57:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+    "summary": "Global credit spreads have hit a 17-month high as a selloff in AI stocks and geopolitical tensions push investors toward safe havens. AlphaSimplex's Katy Kaminski discusses the risk-off signals across bond markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T15:37:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El peso toma un respiro, pero se encamina a siete semanas de pérdidas",
+    "summary": "El peso toma un respiro pero se encamina a siete semanas consecutivas de pérdidas frente al dólar.",
+    "link": "https://expansion.mx/mercados/2026/10/23/dolar-hoy-23-octubre-2026-peso-mexicano-bolsa-mexicana",
+    "source": "Expansión",
+    "published": "2026-10-23T15:27:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
+    "summary": "La economía mexicana crece más de lo esperado y mejora su perspectiva para 2026, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
+    "source": "Expansión",
+    "published": "2026-10-23T15:00:09+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI in Early Stages of a Bubble, Gabelli's Marangi Says",
+    "summary": "Chris Marangi, presidente de Gabelli Funds, dice que los mercados están en una burbuja ligada a la IA, pero que aún es temprano en su desarrollo. Sostiene que el crecimiento de utilidades respalda la inversión en esta transformación tecnológica.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-in-early-stages-of-a-bubble-gabelli-s-marangi-says-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T14:57:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Cuando la IA también decide: el reto de definir las reglas",
     "summary": "El CEO de Oracle México plantea que la IA ya no solo analiza información, sino que participa en procesos de negocio y automatización. Argumenta que esto exige definir reglas claras de gobierno sobre qué decisiones puede tomar.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/23/cuando-la-ia-tambien-decide-el-reto-de-definir-las-reglas/",
@@ -33,6 +187,28 @@
     "light": true
   },
   {
+    "title": "Salud mental e IA: Una mirada a la realidad emocional del talento en México",
+    "summary": "El 80% de los colaboradores en México ha experimentado malestar emocional, según el Employee Benefit Trends Study 2026 de MetLife México, pero solo 24% ha buscado atención.",
+    "link": "https://www.eleconomista.com.mx/empresas/salud-mental-e-ia-mirada-realidad-emocional-talento-mexico-20261023-837823.html",
+    "source": "El Economista",
+    "published": "2026-10-23T12:03:44-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Construcción hila en agosto tres meses de estancamiento",
+    "summary": "La construcción cumple tres meses de estancamiento en agosto, según El Economista, señal relevante para vivienda y desarrollo inmobiliario.",
+    "link": "https://www.eleconomista.com.mx/empresas/construccion-hila-agosto-tres-meses-estancamiento-20261023-840193.html",
+    "source": "El Economista",
+    "published": "2026-10-23T11:48:30-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "BASF Increases Bid for Chemicals Rival Evonik to Over €11 Billion",
     "summary": "BASF raised its takeover offer for German chemicals rival Evonik to more than €11 billion, per people familiar with the matter.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/basf-increases-bid-for-chemicals-rival-evonik-to-over-11-billion",
@@ -53,6 +229,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Sobreendeudamiento en hogares mexicanos: el riesgo se concentra en familias de bajos ingresos",
+    "summary": "Analistas y la Condusef consideran que en México no hay un problema generalizado de sobreendeudamiento de los hogares, pero sí focos de vulnerabilidad entre la población de menores ingresos.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/sobreendeudamiento-hogares-mexicanos-riesgo-concentra-familias-bajos-ingresos-20261023-840093.html",
+    "source": "El Economista",
+    "published": "2026-10-23T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Infosys Lowers Sales Forecast After Companies Curb IT Spending",
@@ -119,6 +306,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Two Projects in Paris Win the European Collective Housing Award",
+    "summary": "Two projects in Paris won the European Collective Housing Award. ArchDaily reviews how built collective-housing examples can inform decisions on affordable housing.",
+    "link": "https://www.archdaily.com/1186870/two-projects-in-paris-win-the-european-collective-housing-award",
+    "source": "ArchDaily",
+    "published": "2026-10-23T06:45:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Sir Martin Sorrell on AI's Impact on Advertising",
@@ -5298,204 +5496,6 @@
     "published": "2026-10-14T10:00:02+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El crédito caro frena el sueño de tener casa propia en Colombia, advierte Constructora Bolívar",
-    "summary": "Julián Perdomo, president of Constructora Bolívar, says high interest rates are now the main reason Colombians give up buying a home, with the drop-out indicator around 50% in the industry. He spoke with Bloomberg Línea.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/tasas-de-interes-altas-disparan-los-desistimientos-en-la-compra-de-vivienda-presidente-de-constructora-bolivar/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T10:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
-    "summary": "CoreWeave's co-founder is eyeing insurers' vast capital to provide loans that fund the Nvidia-backed cloud provider's data-centre build-out.",
-    "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T09:58:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tech Leaders on Moving AI From Pilot to Scale",
-    "summary": "Leaders from PwC, Sinovation Ventures, OpenAI and TDK discuss what it takes to move enterprise AI from pilot projects to deployment at scale.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T09:49:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crypto exchange Kraken owner to buy European bank",
-    "summary": "Payward is buying Lithuania's Saldo Bank as it seeks to become a broader financial services company.",
-    "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T09:30:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "MAIA: Interview of Guillaume Princen on Anthropic’s AI Strategy",
-    "summary": "Anthropic's Guillaume Princen says startups and large firms are adopting Claude tools to boost employee productivity, overhaul processes and build new products. He points to growing demand for frontier models, in an interview from the International AI Summit in Dublin.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T09:16:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
-    "summary": "An Anthropic senior sales executive argues that open alternatives to its AI models carry more risk of cybersecurity incidents and other dangers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
-    "source": "Bloomberg",
-    "published": "2026-10-14T08:48:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cabin Ostøya / R21 Arkitekter",
-    "summary": "A new cabin on the island of Ostøya, Norway, replaces an existing building on its footprint and overlooks the fjord landscape, as part of a coastal protection plan.",
-    "link": "https://www.archdaily.com/1186290/cabin-ostoya-r21-arkitekter",
-    "source": "ArchDaily",
-    "published": "2026-10-14T07:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "AI demand to exceed supply for 2 more years, says ASML",
-    "summary": "ASML says AI demand will exceed supply for two more years, with clients such as TSMC and Intel reporting 'very, very strong demand'.",
-    "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T06:50:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sunil Mittal Warns AI Is Outpacing Regulation",
-    "summary": "Sunil Mittal says governments are struggling to keep pace with AI innovation and argues regulation should set guardrails without stifling innovation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T06:22:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Google DeepMind y Google Cloud darán acceso a investigadores europeos a sus modelos de vanguardia",
-    "summary": "Google DeepMind y Google Cloud darán a hasta 200 investigadores científicos europeos acceso directo a sus modelos de vanguardia, junto con 3 millones de dólares en créditos de cómputo.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/google-deepmind-google-cloud-permitiran-investigadores-europeos-acceder-modelos-vanguardia-20261014-838522.html",
-    "source": "El Economista",
-    "published": "2026-10-14T06:17:10-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "L&G Is Hedging Its Bond Purchases Against Risk of Selloff",
-    "summary": "Legal & General, Britain's largest asset manager, is hedging its government bond purchases against the risk of a renewed selloff in global debt markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/l-g-is-hedging-its-bond-purchases-against-risk-of-selloff",
-    "source": "Bloomberg",
-    "published": "2026-10-14T06:15:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ASML Raises Full-Year Sales Outlook",
-    "summary": "ASML raised the low end of its 2026 sales forecast to €44–45 billion as AI spending boosts demand for its chip-making machines.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T06:07:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
-    "summary": "Indian tycoon Sunil Bharti Mittal called for immediate AI regulatory frameworks, warning that governments should not wait for a serious rogue-agent incident before acting.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ai-regulation-needed-now-before-accidents-occur-mittal-says",
-    "source": "Bloomberg",
-    "published": "2026-10-14T05:55:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IMF, World Bank Tout Bangkok Blueprint Against Digital Fraud",
-    "summary": "The IMF and World Bank unveiled a global roadmap to fight online financial fraud as sophisticated scams undermine confidence in digital finance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/imf-world-bank-unveil-bangkok-blueprint-to-combat-digital-fraud",
-    "source": "Bloomberg",
-    "published": "2026-10-14T05:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ASML Says It Can’t Keep Up With AI Demand for Chip Tools",
-    "summary": "ASML warns that soaring AI spending could leave it with a supply shortfall of chip-making machines over the next two years, while it raises its 2026 sales forecast.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand",
-    "source": "Bloomberg",
-    "published": "2026-10-14T05:12:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tira la toalla AT&T en México",
-    "summary": "Televisa y Fintech Holdings ofrecieron 2 mil millones de dólares por la filial de AT&T en México, y esperan que la compra se concrete en el primer trimestre de 2027.",
-    "link": "https://www.reforma.com/tira-la-toalla-at-t-en-mexico/ar3294335",
-    "source": "Reforma",
-    "published": "2026-10-14T05:00:32-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
-    "summary": "La Cámara de Diputados aprobó la reforma a la Ley del ISR que limita las deducciones a las empresas.",
-    "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
-    "source": "Expansión",
-    "published": "2026-10-14T04:38:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center",
-    "summary": "Princeton Digital Group is seeking a syndicated loan of up to $1.2 billion for its Malaysia data center buildout as the AI infrastructure debt binge continues.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-s-pdg-seeks-1-2-billion-loan-for-malaysia-data-center",
-    "source": "Bloomberg",
-    "published": "2026-10-14T04:28:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
