@@ -1,5 +1,115 @@
 [
   {
+    "title": "Cuando la IA también decide: el reto de definir las reglas",
+    "summary": "El CEO de Oracle México plantea que la IA ya no solo analiza información, sino que participa en procesos de negocio y automatización. Argumenta que esto exige definir reglas claras de gobierno sobre qué decisiones puede tomar.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/23/cuando-la-ia-tambien-decide-el-reto-de-definir-las-reglas/",
+    "source": "El Financiero",
+    "published": "2026-10-23T12:45:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oil hits $115 for first time since May as global stocks knocked by AI fears",
+    "summary": "Oil hit $115 for the first time since May, and global stocks fell on twin threats of surging crude and doubts over the durability of the AI boom.",
+    "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-23T12:16:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
+    "summary": "OpenAI is seeking about $30 billion in a new funding round and is now targeting a $1.25 trillion valuation, per Bloomberg. The news came as a rout in AI stocks faded at the end of a volatile week.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-pulse-10-232026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T12:14:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BASF Increases Bid for Chemicals Rival Evonik to Over €11 Billion",
+    "summary": "BASF raised its takeover offer for German chemicals rival Evonik to more than €11 billion, per people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/basf-increases-bid-for-chemicals-rival-evonik-to-over-11-billion",
+    "source": "Bloomberg",
+    "published": "2026-10-23T11:15:50+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit",
+    "summary": "Blackstone's bet on chips and GPU infrastructure, including CoreWeave, fueled a debt boom that is now upending credit markets. Executives initially questioned whether AI was real.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit",
+    "source": "Bloomberg",
+    "published": "2026-10-23T11:15:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Infosys Lowers Sales Forecast After Companies Curb IT Spending",
+    "summary": "Infosys lowered its annual sales forecast as companies keep curbing spending on major IT projects.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/infosys-lowers-sales-forecast-after-companies-curb-it-spending",
+    "source": "Bloomberg",
+    "published": "2026-10-23T10:52:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El Nobel que todo director debería leer",
+    "summary": "Columna que retoma la frase de Mario Draghi en 2012 durante la crisis del euro como lección de liderazgo y comunicación para directivos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/carlos-ruiz-gonzalez/2026/10/23/el-nobel-que-todo-director-deberia-leer/",
+    "source": "El Financiero",
+    "published": "2026-10-23T10:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
+    "summary": "DeepSeek open-sourced a new AI model as China and the US restrict each other's technology. Bloomberg notes AI leaders want models everywhere yet under their control, and may not get both.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
+    "source": "Bloomberg",
+    "published": "2026-10-23T10:28:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic strikes deal to launch European consultancy",
+    "summary": "Anthropic and UK buyout group Hg are backing a new European consultancy that will advise companies on how to deploy AI. The deal expands Anthropic's enterprise reach through a services channel.",
+    "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-23T09:04:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Shoprite, Investec Said to Discuss South African Fintech Tie-Up",
+    "summary": "Shoprite, Africa's largest grocer, is reportedly in talks with Investec about a financial-services partnership to serve its millions of customers. It is a retailer-bank tie-up in fintech.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/shoprite-investec-said-to-discuss-south-african-fintech-tie-up",
+    "source": "Bloomberg",
+    "published": "2026-10-23T07:07:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Trade Faces Earnings Test: Market Snapshot",
     "summary": "Big tech earnings this week drew mixed reactions. Investor jitters are shifting from cash flows and profits to how the AI build-out is being financed.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-trade-faces-earnings-test-market-snapshot-video",
@@ -17,6 +127,17 @@
     "source": "Bloomberg",
     "published": "2026-10-23T05:51:11+00:00",
     "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Winter arrives in markets",
+    "summary": "FT says bonds and stocks are telling the same chilly story as markets turn wintry.",
+    "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-23T05:30:08+00:00",
+    "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
     "light": true
@@ -209,6 +330,17 @@
     "light": false
   },
   {
+    "title": "Alza de precios en seguros de gastos médicos mayores, principal motivo de cancelación, dice Condusef",
+    "summary": "Condusef señala que el alza de precios en seguros de gastos médicos mayores es el principal motivo de cancelación de pólizas.",
+    "link": "https://expansion.mx/economia/2026/10/22/alza-de-precios-en-seguros-de-gastos-medicos-mayores-principal-motivo-de-cancelacion-dice-condusef",
+    "source": "Expansión",
+    "published": "2026-10-22T22:38:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
     "summary": "The FT reports OpenAI trimmed its valuation target to $1.25tn after pitching a higher price. The AI lab had floated $1.4tn earlier this month, according to documents seen by the FT.",
     "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
@@ -227,6 +359,17 @@
     "published": "2026-10-22T21:45:22+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México da un controvertido paso para endurecer las reglas de las pensiones del IMSS",
+    "summary": "México dio un paso controvertido para endurecer las reglas de acceso a las pensiones del IMSS, en un contexto de protestas por falta de medicinas y presión sobre las finanzas públicas para el Presupuesto 2027.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-da-un-controvertido-paso-para-endurecer-las-reglas-de-las-pensiones-del-imss/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-22T21:14:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
     "language": "es",
     "light": false
   },
@@ -5355,148 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "¿Espionaje en OpenAI? Arrestan a exempleado por ‘plantar’ una grabadora oculta en sus oficinas",
-    "summary": "Un empleado de OpenAI fue arrestado y acusado de usar un dispositivo de grabación oculto en una oficina de la compañía en San Francisco, según OpenAI y el Departamento de Justicia de EU.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/10/13/espionaje-en-openai-arrestan-a-exempleado-por-plantar-una-grabadora-oculta-en-sus-oficinas/",
-    "source": "El Financiero",
-    "published": "2026-10-14T04:08:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cheaper Yuan Debt Gives Chinese Firms an AI Funding Edge",
-    "summary": "Tencent is leaning on cheap offshore yuan debt to fund its AI infrastructure, an example of Chinese tech firms using a funding edge over global rivals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/cheaper-yuan-debt-gives-tencent-an-ai-funding-advantage",
-    "source": "Bloomberg",
-    "published": "2026-10-14T03:10:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Le ‘cae la voladora’ a Bank of America: ¿Por qué gobierno de Trump la multó con mil 200 millones de dólares?",
-    "summary": "El Tesoro de EU impondrá multas por 1,200 millones de dólares a Bank of America por presuntas violaciones a leyes antilavado y normas de sanciones.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/13/le-cae-la-voladora-a-bank-of-america-por-que-el-gobierno-de-trump-la-multo-con-mil-200-mdd/",
-    "source": "El Financiero",
-    "published": "2026-10-14T03:04:56+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Televisa compra AT&T México: ¿Quién es David Martínez, el empresario que se alió para competir con Slim?",
-    "summary": "Grupo Televisa anunció un acuerdo con Fintech Holdings, de David Martínez, para adquirir el 100% de las operaciones de AT&T México, en una alianza para competir con Slim.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/13/televisa-compra-att-mexico-quien-es-david-martinez-el-empresario-que-se-alio-para-competir-con-slim/",
-    "source": "El Financiero",
-    "published": "2026-10-14T02:27:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-    "summary": "US authorities arrested a Saudi employee of OpenAI for allegedly bugging its offices; the AI lab found a recording device concealed behind a television in a conference room.",
-    "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T01:59:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Infonavit entrega de 900 hogares en Veracruz, reconoce a Indheca Grupo Constructor",
-    "summary": "El Infonavit entregó 900 viviendas en Veracruz, el mayor volumen de hogares otorgado de una sola vez, con reconocimiento a Indheca Grupo Constructor.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/10/13/infonavit-entrega-900-viviendas-a-derechohabientes-en-veracruz/",
-    "source": "El Financiero",
-    "published": "2026-10-14T01:47:12+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
-    "summary": "Las quejas contra aseguradoras en México crecieron 7.76% y los reclamos suman 2,386 millones de pesos.",
-    "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
-    "source": "Expansión",
-    "published": "2026-10-14T01:42:54+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué pasa con tu cuenta si tu Afore se declara en quiebra? Esto ocurre con tu ahorro para el retiro",
-    "summary": "Explica qué ocurre con el ahorro para el retiro de los trabajadores si su Afore se declara en quiebra.",
-    "link": "https://expansion.mx/finanzas-personales/2026/10/13/que-pasa-afore-quiebra-esto-debes-saber-de-tus-ahorros",
-    "source": "Expansión",
-    "published": "2026-10-14T00:58:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Reforma judicial y costos laborales ensombrecen la incipiente mejora del PIB",
-    "summary": "La economía muestra señales de vida pero lejos de una recuperación sólida: la inversión creció 1.4% mensual en julio, impulsada por construcción no residencial; reforma judicial y costos laborales pesan.",
-    "link": "https://www.eleconomista.com.mx/opinion/reforma-judicial-costos-laborales-ensombrecen-incipiente-mejora-pib-20261014-838513.html",
-    "source": "El Economista",
-    "published": "2026-10-14T00:55:48-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
-    "summary": "La presidenta Sheinbaum presentó una inversión de 8.4 billones de pesos para impulsar el crecimiento de México, en el marco del Plan México.",
-    "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
-    "source": "Expansión",
-    "published": "2026-10-14T00:20:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
-    "summary": "El Departamento del Tesoro de EU sancionó a Bank of America con 1,210 millones de dólares por permitir lavado de dinero de China.",
-    "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
-    "source": "Expansión",
-    "published": "2026-10-14T00:13:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ley catastral, el desafío",
-    "summary": "La Cámara de Diputados aprobó la nueva Ley General para el Fortalecimiento y Armonización Catastral y Registral, propuesta por Sheinbaum, que pasa ahora a la Cámara de Senadores.",
-    "link": "https://www.eleconomista.com.mx/opinion/ley-catastral-desafio-20261014-838501.html",
-    "source": "El Economista",
-    "published": "2026-10-14T00:13:07-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sheinbaum anuncia 8.4 billones de pesos de inversión en infraestructura al 2030",
-    "summary": "Sheinbaum anunció un plan de inversión pública y mixta en infraestructura por 8.4 billones de pesos para los próximos años.",
-    "link": "https://www.eleconomista.com.mx/empresas/sheinbaum-anuncia-8-4-billones-pesos-inversion-infraestructura-20261014-838499.html",
-    "source": "El Economista",
-    "published": "2026-10-14T00:11:18-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
