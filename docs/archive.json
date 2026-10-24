@@ -1,5 +1,38 @@
 [
   {
+    "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
+    "summary": "Barclays' fixed income house is being overhauled as the bank shows it can do more for clients than trade bonds and arrange debt deals, pinning future growth on equities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
+    "source": "Bloomberg",
+    "published": "2026-10-24T11:02:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 67,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué riesgos implica invertir en bonos en 2026? Esto muestra la historia reciente",
+    "summary": "Invertir en bonos implica riesgos, aunque sus fluctuaciones suelen ser menores que las de las acciones; la historia reciente, como 2022, muestra que las pérdidas pueden ser significativas.",
+    "link": "https://www.bloomberglinea.com/mercados/que-riesgos-implica-invertir-en-bonos-en-2026-esto-muestra-la-historia-reciente/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-24T11:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+    "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security, urging governments to ditch US AI.",
+    "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-24T04:00:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
     "summary": "El Reino Unido destinará £100 millones a un laboratorio de bioseguridad con IA, con apoyo de OpenAI, Anthropic y Google DeepMind. Forma parte de medidas para entender y manejar los riesgos de la tecnología.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
@@ -9,6 +42,17 @@
     "relevance_score": 77,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
+    "summary": "Carlos Slim creó un 'Manhattan' en la CDMX sobre antiguas fábricas: una megaobra que reúne negocios, vivienda y espacios multiusos.",
+    "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
+    "source": "Expansión",
+    "published": "2026-10-23T22:30:29+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
@@ -31,6 +75,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana 19 al 23 de octubre): De actividad económica, empleo e inflación",
+    "summary": "Resumen de la semana en México: reporte de actividad económica, encuesta de empleo de septiembre e inflación de la primera quincena de octubre, con la atención de los inversionistas en las próximas decisiones de tasas.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-19-23-octubre-actividad-economica-empleo-e-inflacion-20261023-840276.html",
+    "source": "El Economista",
+    "published": "2026-10-23T21:34:57-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AlixPartners Co-CEO Rob Hornby on AI Bull Case",
@@ -286,6 +341,17 @@
     "light": true
   },
   {
+    "title": "¿Dónde invertir en renta fija en América Latina? Expertos miran a Colombia, Brasil, Argentina",
+    "summary": "Expertos ven en instrumentos de renta fija de América Latina rendimientos más atractivos que en países desarrollados en época de volatilidad, aunque exigen tolerancia al riesgo. Colombia, Brasil y Argentina destacan.",
+    "link": "https://www.bloomberglinea.com/mercados/donde-invertir-en-renta-fija-en-america-latina-expertos-miran-a-colombia-brasil-argentina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-23T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cuando la IA también decide: el reto de definir las reglas",
     "summary": "El CEO de Oracle México plantea que la IA ya no solo analiza información, sino que participa en procesos de negocio y automatización. Argumenta que esto exige definir reglas claras de gobierno sobre qué decisiones puede tomar.",
     "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/23/cuando-la-ia-tambien-decide-el-reto-de-definir-las-reglas/",
@@ -326,6 +392,17 @@
     "published": "2026-10-23T12:03:44-06:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
+    "summary": "El déficit comercial de EE.UU. con México sigue creciendo pese a que se compra más a EE.UU., sin freno a la vista según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
+    "source": "Expansión",
+    "published": "2026-10-23T11:55:20+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
     "language": "es",
     "light": false
   },
@@ -5421,82 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
-    "summary": "OpenAI CFO Sarah Friar says businesses opting for low-cost Chinese AI models are taking a cybersecurity risk, echoing concerns from rival Anthropic.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
-    "source": "Bloomberg",
-    "published": "2026-10-14T12:54:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los límites de la digitalización forzada",
-    "summary": "Columna sobre los límites de la digitalización financiera forzada: aunque puede dar comodidad y ahorro a consumidores y reducir costos a empresas, también plantea riesgos.",
-    "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/10/14/los-limites-de-la-digitalizacion-forzada/",
-    "source": "El Financiero",
-    "published": "2026-10-14T12:45:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
-    "summary": "US Treasuries slumped after hotter-than-expected inflation led traders to raise bets that the Fed will hike rates later this month and next year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-treasuries-slump-as-hot-inflation-lifts-fed-rate-hike-bets",
-    "source": "Bloomberg",
-    "published": "2026-10-14T12:44:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Casi 13,000 trabajadores de AT&T México pasarán al grupo de Televisa y Fintech tras la venta",
-    "summary": "El acuerdo de venta de AT&T México a Grupo Televisa y Fintech Holdings por 2,000 millones de dólares contempla el traspaso de 12,995 trabajadores. Se espera que la operación concluya en el primer trimestre de 2027. La directora general, Mónica Aspe, informó a los empleados.",
-    "link": "https://www.eleconomista.com.mx/empresas/13-000-trabajadores-at-t-mexico-pasaran-grupo-televisa-fintech-venta-20261014-838574.html",
-    "source": "El Economista",
-    "published": "2026-10-14T12:30:59-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
-    "summary": "Bank of America's profits fell 17% after a $1.2bn money laundering fine, and the second-largest US bank reported weaker trading results than Wall Street rivals.",
-    "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T12:19:27+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic's Princen on AI Impact on Businesses, Startups",
-    "summary": "Anthropic's Guillaume Princen discusses how AI will affect businesses and startups, customer spending on frontier models and AI safety risks. He spoke from the International AI Summit in Dublin.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-impact-on-businesses-startups-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T12:18:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
-    "summary": "Morgan Stanley's third-quarter profit rose as equity traders topped estimates and its wealth-management arm drew a record amount of new money.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/morgan-stanley-profit-climbs-on-equity-trading-beat-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T12:15:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
