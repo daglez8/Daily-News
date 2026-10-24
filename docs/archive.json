@@ -1,5 +1,82 @@
 [
   {
+    "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+    "summary": "Robin Wigglesworth of FT Alphaville discusses his book on how bonds built the modern world, why the 30-year mortgage is 'a miracle of the modern world,' and when to worry about US debt.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
+    "source": "Bloomberg",
+    "published": "2026-10-24T17:05:04+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
+    "summary": "A 'total meltdown' in the riskiest corner of the debt market has unnerved investors, per Bloomberg's Credit Weekly. Fund managers describe panicked reactions to sudden selloffs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-10-24T15:21:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
+    "summary": "Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier JLA Group from buyout firm Cinven, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla",
+    "source": "Bloomberg",
+    "published": "2026-10-24T14:08:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Boom Faces a Growing Public Backlash",
+    "summary": "Atlantic CEO Nicholas Thompson says AI offers powerful business tools but poses significant risks to media, while its broader economic impact lags behind rapidly advancing capabilities.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
+    "source": "Bloomberg",
+    "published": "2026-10-24T14:08:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "HR Navigates AI and a Changing Workplace",
+    "summary": "SHRM's Johnny C. Taylor Jr. says employers must communicate benefits more clearly and help workers see how AI can complement human intelligence amid job disruption and generational divides.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
+    "source": "Bloomberg",
+    "published": "2026-10-24T13:29:52+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Presupuesto de las familias está cada vez más lejos del precio de la vivienda",
+    "summary": "Según BBVA Research, entre 2016 y 2025 los precios de la vivienda en México subieron 108.5% mientras los ingresos de los hogares crecieron solo 25%. La brecha de 83.6 puntos porcentuales complica el acceso a un hogar y presiona la demanda de crédito hipotecario.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/presupuesto-familias-vez-lejos-precio-vivienda-20261024-840245.html",
+    "source": "El Economista",
+    "published": "2026-10-24T12:30:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dando crédito a los que dan crédito",
+    "summary": "Columna de opinión sobre el acto de otorgar crédito, desde su raíz etimológica (credere, confiar) hasta su papel en el mundo mercantil y el financiamiento de pequeñas empresas.",
+    "link": "https://www.eleconomista.com.mx/opinion/dando-credito-dan-credito-20261024-840306.html",
+    "source": "El Economista",
+    "published": "2026-10-24T11:52:54-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
     "summary": "Barclays' fixed income house is being overhauled as the bank shows it can do more for clients than trade bonds and arrange debt deals, pinning future growth on equities.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
@@ -18,6 +95,28 @@
     "published": "2026-10-24T11:00:01+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gastar mejor, no menos: lo que el consumidor mexicano busca para sus finanzas personales este 2027",
+    "summary": "El estudio Consumer Outlook 2027 de NielsenIQ muestra que México es el mercado latinoamericano con mayor intención de aumentar su gasto, aunque con criterio más exigente. El costo de vida sigue pesando: 75% de los consumidores globales percibió aumentos.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/gastar-mejor-consumidor-mexicano-busca-finanzas-personales-20261024-840281.html",
+    "source": "El Economista",
+    "published": "2026-10-24T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Se puede contratar un ciberataque por internet? Así funciona el mercado clandestino",
+    "summary": "Contratar un ciberataque en la dark web cuesta desde 30 dólares y ya no exige conocimientos técnicos avanzados, según El Economista.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/contratar-ciberataque-internet-asi-funciona-mercado-clandestino-20261024-840290.html",
+    "source": "El Economista",
+    "published": "2026-10-24T11:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -44,6 +143,28 @@
     "light": true
   },
   {
+    "title": "HSBC suspenderá el uso de sus tarjetas durante varias horas por mantenimiento y estos clientes serán afectados",
+    "summary": "HSBC suspenderá el uso de sus tarjetas durante varias horas por mantenimiento, afectando a ciertos clientes en México.",
+    "link": "https://expansion.mx/finanzas-personales/2026/10/23/tarjetas-hsbc-dejaran-funcionar-horas-mantenimiento",
+    "source": "Expansión",
+    "published": "2026-10-23T22:38:25+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jornada de 40 horas abre dudas sobre los ingresos por bonos, comisiones y horas extra",
+    "summary": "La jornada de 40 horas abre dudas sobre los ingresos por bonos, comisiones y horas extra de los trabajadores en México.",
+    "link": "https://expansion.mx/carrera/2026/10/23/jornada-laboral-40-horas-bonos-comisiones-horas-extra",
+    "source": "Expansión",
+    "published": "2026-10-23T22:33:37+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
     "summary": "Carlos Slim creó un 'Manhattan' en la CDMX sobre antiguas fábricas: una megaobra que reúne negocios, vivienda y espacios multiusos.",
     "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
@@ -53,6 +174,17 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI Jitters, Oil & Big Tech",
+    "summary": "The Close covers AI jitters, oil and Big Tech, with guests from BlackRock, AXA Group and AlixPartners.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-close-10-23-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-23T22:00:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
@@ -5366,137 +5498,5 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Inflation Jolt Raises Stakes for Warsh’s Final Word in Bangkok",
-    "summary": "September's hot US inflation data raised expectations that the Federal Reserve may hike rates this month, a prospect that had seemed unlikely. It raises the stakes for Warsh's final remarks in Bangkok.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
-    "source": "Bloomberg",
-    "published": "2026-10-14T17:43:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
-    "summary": "Nvidia CEO Jensen Huang said he would halt chip supply to a customer developing unsafe AI software, though he considers current concern about the technology unwarranted.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
-    "source": "Bloomberg",
-    "published": "2026-10-14T17:34:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Modal CEO: AI Has Entered a ‘New Era of Software’",
-    "summary": "AI cloud startup Modal raised $750 million at a $15.75 billion valuation. CEO Erik Bernhardsson says demand for inference and reinforcement learning is surging, and that increasingly capable agents will need secure virtual environments.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/modal-ceo-ai-has-entered-a-new-era-of-software-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T17:31:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
-    "summary": "DA Davidson's Gil Luria says CoreWeave is 'destroying value at every turn' if it borrows at 9% for roughly 5% returns, regardless of scale.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/coreweave-neocloud-leverage-a-concern-for-gil-luria-video",
-    "source": "Bloomberg",
-    "published": "2026-10-14T17:06:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Financing Will Need To Tap Global Markets: August",
-    "summary": "Oak Hill Advisors founder Glenn August says AI financing will need to tap global markets. He spoke at the CAIS Summit in Beverly Hills.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-financing-will-need-to-tap-global-markets-august",
-    "source": "Bloomberg",
-    "published": "2026-10-14T16:16:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock cambia una estrategia de inversión de casi seis años y ahora favorece a los bonos",
-    "summary": "BlackRock cambió una estrategia de casi seis años: reduce su exposición a acciones de Wall Street y favorece bonos, ante el repunte de rendimientos del Tesoro de EU.",
-    "link": "https://www.bloomberglinea.com/mercados/blackrock-cambia-una-estrategia-de-inversion-de-casi-seis-anos-y-ahora-favorece-a-los-bonos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T16:11:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BofA Sheds $22 Billion in Value as Lapses Come to Light",
-    "summary": "Bank of America lost about $22 billion in market value after its largest regulatory fine in a decade, tied to compliance lapses, weighed on earnings. CEO Brian Moynihan said the bank takes the fines seriously and that accountability exists at the firm.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-sheds-30-billion-in-value-as-years-of-lapses-come-to-light",
-    "source": "Bloomberg",
-    "published": "2026-10-14T15:52:32+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
-    "summary": "Freshfields partners are exploring a carve-out of the firm's AI legal-tech unit, said to be worth billions, ahead of any valuation decline, according to leaked emails.",
-    "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T15:48:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano toca los 18.60 por dólar; se deprecia por dato de inflación de Estados Unidos",
-    "summary": "El peso mexicano tocó los 18.60 por dólar y se depreció tras el dato de inflación de Estados Unidos.",
-    "link": "https://expansion.mx/economia/2026/10/14/peso-mexicano-toca-los-18-60-por-dolar-se-deprecia-por-dato-de-inflacion-de-estados-unidos",
-    "source": "Expansión",
-    "published": "2026-10-14T15:37:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave’s Bonds Turn Distressed, Drawing ‘Yikes’ From Musk",
-    "summary": "CoreWeave's bonds have turned distressed, drawing a sharp reaction from Elon Musk as concerns over AI-cloud leverage grow.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
-    "source": "Bloomberg",
-    "published": "2026-10-14T15:29:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
-    "summary": "The arrest of engineer Abdulrahman Alfozan, accused of planting a hidden device at OpenAI, has shocked tech figures in Saudi Arabia, where he is well connected.",
-    "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T14:40:47+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los bonos soberanos encarecen la deuda y elevan los riesgos fiscales, advierte el FMI",
-    "summary": "El FMI advierte que el alza de los rendimientos de la deuda soberana en economías avanzadas encarece el financiamiento y agrava los riesgos fiscales.",
-    "link": "https://www.bloomberglinea.com/mercados/los-bonos-soberanos-encarecen-la-deuda-y-elevan-los-riesgos-fiscales-advierte-el-fmi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T14:28:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
