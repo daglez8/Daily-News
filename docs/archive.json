@@ -1,5 +1,82 @@
 [
   {
+    "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
+    "summary": "Investors including JPMorgan Asset Management, Generali and Ninety One are loading up on emerging-market debt, defying a surge in Treasury yields that would once have driven them out.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
+    "source": "Bloomberg",
+    "published": "2026-10-25T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Markets Look to Big Tech for AI Payoff",
+    "summary": "MetLife Investment Management's Drew Matus discusses how AI spending is driving markets and parts of the US economy, as investors look to Big Tech earnings for evidence the investment will pay off.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
+    "source": "Bloomberg",
+    "published": "2026-10-25T12:10:28+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan’s Private Bank Using AI to Make Advisers More Efficient",
+    "summary": "JPMorgan's private bank is using AI to onboard clients, support investment research and other tasks to raise adviser productivity, according to its EMEA head Pablo Garnica.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
+    "source": "Bloomberg",
+    "published": "2026-10-25T11:48:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why students in a Pennsylvania midterm battleground fear AI is about to kill their future",
+    "summary": "Young people in a Pennsylvania midterm battleground are increasingly anxious and angry about Big Tech's AI revolution and what it means for their job prospects.",
+    "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-25T11:00:02+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing",
+    "summary": "Suzhou Dongshan Precision raised about HK$9.9 billion ($1.3 billion) in Hong Kong's biggest listing in nearly two months, landing in a volatile market for AI build-out-related companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
+    "source": "Bloomberg",
+    "published": "2026-10-25T10:30:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
+    "summary": "Apollo's chief economist Torsten Slok says AI has delivered \"zero payoff\" to corporate America outside the technology sector despite heavy investment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+    "source": "Bloomberg",
+    "published": "2026-10-25T09:28:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Brookfield to Open Doha Office to Deepen Middle East Reach",
+    "summary": "Brookfield Asset Management is opening an office in Qatar, deepening its Middle East presence while many countries in the region grapple with the economic fallout from the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
+    "source": "Bloomberg",
+    "published": "2026-10-25T08:47:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
     "summary": "Robin Wigglesworth of FT Alphaville discusses his book on how bonds built the modern world, why the 30-year mortgage is 'a miracle of the modern world,' and when to worry about US debt.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
@@ -42,6 +119,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "A tres años de Otis, negocios operan sin seguro y escasa protección ante eventos climáticos",
+    "summary": "A tres años del huracán Otis, negocios en Acapulco operan con seguros insuficientes y escasa protección financiera ante eventos climáticos.",
+    "link": "https://expansion.mx/economia/2026/10/24/huracan-otis-negocios-acapulco-mitad-blindaje-financiero",
+    "source": "Expansión",
+    "published": "2026-10-24T14:05:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "How This County Made the Data Center Boom Pay Off",
@@ -5410,93 +5498,5 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Banco de Valores avanza para sellar la compra del broker argentino PPI",
-    "summary": "Banco de Valores avanza hacia la compra del broker argentino PPI, operación que está en proceso de due diligence, según confirmó una fuente a Bloomberg Línea.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/banco-de-valores-avanza-para-sellar-la-compra-del-broker-argentino-ppi/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T19:53:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bankaool apuesta por Pymes y subirse al Plan México",
-    "summary": "Bankaool apuesta por las Pymes y por sumarse al Plan México, según Expansión. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/economia/2026/10/14/bankaool-apuesta-por-pymes-y-subirse-al-plan-mexico",
-    "source": "Expansión",
-    "published": "2026-10-14T19:40:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave’s Big Dream Crashes Into Reality as Yields Top 15%",
-    "summary": "CoreWeave's ambition to reach an investment-grade rating and borrow \"unlimited\" sums runs into reality as its yields top 15%.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15",
-    "source": "Bloomberg",
-    "published": "2026-10-14T19:10:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Gobierno de México da créditos de hasta 5 millones para Pymes: requisitos y quién puede pedirlos",
-    "summary": "El gobierno de México ofrece créditos de hasta 5 millones de pesos para Pymes; Expansión detalla requisitos y quién puede solicitarlos. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/finanzas-personales/2026/10/14/creditos-pymes-5-millones-pesos-requisitos",
-    "source": "Expansión",
-    "published": "2026-10-14T19:06:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
-    "summary": "The OpenAI engineer arrested for allegedly using a hidden recording device in a San Francisco office had booked a one-way ticket to Saudi Arabia for Oct. 12, per a court filing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
-    "source": "Bloomberg",
-    "published": "2026-10-14T18:52:33+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Sachs Leads Rivals in Third-Quarter Share Sale Revenue",
-    "summary": "Goldman Sachs led its four largest US equity underwriting rivals in third-quarter share-sale revenue; only Morgan Stanley reported lower fees than a year earlier.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/goldman-sachs-leads-rivals-in-third-quarter-share-sale-revenue",
-    "source": "Bloomberg",
-    "published": "2026-10-14T18:21:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
-    "summary": "Berkshire Hathaway added $330 million to its stake in Bending Spoons, the tech group that owns AOL and Vimeo. Shares jumped more than 40% on the news before giving back some gains.",
-    "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-14T17:58:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CoreWeave CEO Says Market Acting ‘Irrationally,’ Stands by Model",
-    "summary": "CoreWeave CEO Mike Intrator says the market is acting 'irrationally' after a plunge in the company's stock and bond prices, and stands by its business model.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-ceo-blames-rout-on-market-acting-irrationally",
-    "source": "Bloomberg",
-    "published": "2026-10-14T17:54:27+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
