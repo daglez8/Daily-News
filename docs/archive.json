@@ -44,6 +44,17 @@
     "light": true
   },
   {
+    "title": "How This County Made the Data Center Boom Pay Off",
+    "summary": "AI is driving a wave of new data centers, and communities are asking what they get in return. Virginia's Loudoun County turned the industry into a major tax base but is now limiting further growth, suggesting towns have more bargaining power than they think.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video",
+    "source": "Bloomberg",
+    "published": "2026-10-24T14:03:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "HR Navigates AI and a Changing Workplace",
     "summary": "SHRM's Johnny C. Taylor Jr. says employers must communicate benefits more clearly and help workers see how AI can complement human intelligence amid job disruption and generational divides.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
@@ -51,6 +62,17 @@
     "published": "2026-10-24T13:29:52+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Persistent Oil Prices Threaten Inflation Outlook",
+    "summary": "Seaport's Jonathan Golub argues stocks are not in an AI bubble, citing strong earnings and lower valuations. He warns a prolonged Middle East conflict could keep oil and inflation elevated and eventually force the Federal Reserve to respond.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-24/persistent-oil-prices-threaten-inflation-outlook-video",
+    "source": "Bloomberg",
+    "published": "2026-10-24T13:19:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -5474,28 +5496,6 @@
     "published": "2026-10-14T17:54:27+00:00",
     "category": "AI & Agents",
     "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan revisa su estrategia en América Latina: anticipa fuerte repunte en Brasil y rebaja a Chile",
-    "summary": "JPMorgan subió a sobreponderar las acciones de Brasil tras la primera vuelta electoral y redujo Chile a neutral, ante perspectivas divergentes en ambos mercados.",
-    "link": "https://www.bloomberglinea.com/mercados/jpmorgan-revisa-su-estrategia-en-america-latina-anticipa-fuerte-repunte-en-brasil-y-rebaja-a-chile/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T17:53:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Another warning sign for China’s economy: falling consumer credit",
-    "summary": "The Economist notes falling consumer credit in China: a crackdown on aggressive debt collectors is good news for borrowers but bad for the credit economy.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
-    "source": "The Economist",
-    "published": "2026-10-14T17:52:55+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
     "language": "en",
     "light": true
   }
