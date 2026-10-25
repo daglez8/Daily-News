@@ -1,5 +1,27 @@
 [
   {
+    "title": "Fed Looks Set to Pause After September Rate Hike",
+    "summary": "Bloomberg's Maria Eloisa Capurro previews the Fed's rate decision, with a pause widely expected after September's first hike since 2023 despite inflation above target. Investors will scrutinize Chair Kevin Warsh's language.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video",
+    "source": "Bloomberg",
+    "published": "2026-10-25T13:48:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
+    "summary": "Three of the biggest tech companies report earnings this week with healthy growth expected. Fears over AI spending threaten to overshadow the results.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+    "source": "Bloomberg",
+    "published": "2026-10-25T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
     "summary": "Investors including JPMorgan Asset Management, Generali and Ninety One are loading up on emerging-market debt, defying a surge in Treasury yields that would once have driven them out.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
@@ -18,6 +40,17 @@
     "published": "2026-10-25T12:10:28+00:00",
     "category": "AI & Agents",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
+    "summary": "Mistral is betting that open-source models can let it compete with Big Tech, offering companies lower costs, more data control and technological sovereignty. Europe has fallen behind the US in building the largest AI models.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+    "source": "Bloomberg",
+    "published": "2026-10-25T12:04:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
     "language": "en",
     "light": true
   },
@@ -77,6 +110,28 @@
     "light": true
   },
   {
+    "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
+    "summary": "Goldman Sachs cut its 12-month Kospi target by 25% as concerns over the AI trade intensify, after raising it repeatedly this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
+    "source": "Bloomberg",
+    "published": "2026-10-25T07:44:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Capcom alerta por acceso a datos de casi 12 millones de cuentas de usuarios",
+    "summary": "Capcom alertó por acceso no autorizado a datos de casi 12 millones de cuentas de usuarios.",
+    "link": "https://expansion.mx/tecnologia/2026/10/24/capcom-acceso-no-autorizado-datos-cuentas-usuarios",
+    "source": "Expansión",
+    "published": "2026-10-24T23:47:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
     "summary": "Robin Wigglesworth of FT Alphaville discusses his book on how bonds built the modern world, why the 30-year mortgage is 'a miracle of the modern world,' and when to worry about US debt.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
@@ -86,6 +141,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
+    "summary": "El SAT busca atraer de regreso capitales mexicanos del extranjero con una tasa de ISR de 7.5% propuesta para 2027.",
+    "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
+    "source": "Expansión",
+    "published": "2026-10-24T16:34:09+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
   },
   {
     "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
@@ -141,6 +207,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Profuturo adelanta el reloj y gana el Gran Effie al ponerle cara al retiro",
+    "summary": "Profuturo gana el Gran Effie 2026 con una campaña que le pone cara al retiro y busca acercar el ahorro pensionario a los usuarios.",
+    "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
+    "source": "Expansión",
+    "published": "2026-10-24T14:00:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "HR Navigates AI and a Changing Workplace",
@@ -5419,83 +5496,6 @@
     "published": "2026-10-14T23:49:30-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mastercard lanza programa para ampliar la aceptación de pagos sin contacto en México",
-    "summary": "Mastercard lanzó en México un programa para acelerar los pagos sin contacto, dirigido a bancos adquirentes y grandes comercios, tras identificar una brecha entre la infraestructura disponible y la adopción.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mastercard-lanza-programa-ampliar-aceptacion-pagos-contacto-mexico-20261014-838706.html",
-    "source": "El Economista",
-    "published": "2026-10-14T23:18:47-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AT&T compró Iusacell para desafiar a Slim, pero ahora vende su negocio en México por la mitad de lo que le costó",
-    "summary": "AT&T vende su negocio en México por la mitad de lo que le costó adquirir Iusacell, con el que buscó desafiar a Slim.",
-    "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
-    "source": "Expansión",
-    "published": "2026-10-14T22:30:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
-    "summary": "Anthropic told prospective investors its third-quarter revenue reached $16.8 billion as it moves toward an IPO. The figure comes from people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
-    "source": "Bloomberg",
-    "published": "2026-10-14T22:22:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Diputados aprueban Ley de Ingresos 2027 con bolsa de MXN$10,6 billones y déficit fiscal “complejo”",
-    "summary": "La Cámara de Diputados aprobó la Ley de Ingresos 2027 con MXN$10.6 billones y un déficit fiscal que Sheinbaum calificó de \"complejo\". Impuestos y deuda serán las principales fuentes de recursos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-ley-de-ingresos-2027-con-bolsa-de-mxn106-billones-y-complejo-deficit-fiscal/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T21:47:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The AI boom is threatened by an epidemic of unreliable numbers",
-    "summary": "The Economist argues the AI boom is threatened by an epidemic of unreliable numbers, as investors can no longer trust the data they rely on.",
-    "link": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
-    "source": "The Economist",
-    "published": "2026-10-14T21:19:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Proponen multa de 47 mil pesos por alza desmedida en rentas",
-    "summary": "Brugada presentó un proyecto de ley que plantea multas de hasta 46,924 pesos a quienes suban rentas por encima de la inflación en la Ciudad de México.",
-    "link": "https://www.reforma.com/proponen-multa-de-47-mil-pesos-por-alza-desmedida-en-rentas/ar3295053",
-    "source": "Reforma",
-    "published": "2026-10-14T20:18:33-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "S&P 500 cae y el dólar toca máximos de 2025 tras dato de inflación que presiona a la Fed",
-    "summary": "Las acciones de EU profundizaron sus pérdidas por ventas de semiconductores y expectativas de mayores tasas de la Fed tras una inflación de septiembre superior a lo previsto.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-los-bonos-se-desploman-y-el-dolar-repunta-tras-dato-de-inflacion-en-eeuu/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-14T20:08:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
     "language": "es",
     "light": false
   }
