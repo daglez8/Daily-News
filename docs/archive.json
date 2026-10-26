@@ -1,5 +1,203 @@
 [
   {
+    "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+    "summary": "The S-1 reveals Anthropic's revenue and spending and an unusual corporate structure ahead of a listing under ticker ANT. Venture backers such as Menlo and Bessemer stand to gain a large payout.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/bloomberg-tech-10-26-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T18:27:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s S-1 Reveals Financial War Chest",
+    "summary": "Analyst Gil Luria says the S-1 shows Anthropic has a financial war chest rather than going public from desperation. He flags the complexity of its public benefit corporation structure and majority voting control held by seven people.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-s-s-1-reveals-financial-war-chest-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T18:25:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La banca en México perderá comisiones en cobros con tarjetas, pero ganará clientes con pagos digitales, dice Moody's",
+    "summary": "Moody's estima que la banca en México perderá comisiones por cobros con tarjetas, pero ganará clientes gracias a los pagos digitales.",
+    "link": "https://expansion.mx/economia/2026/10/26/bancos-pagos-digitales-menos-comisiones-mas-clientes-moodys",
+    "source": "Expansión",
+    "published": "2026-10-26T18:03:49+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Marathon’s Richards Warns ‘No Way Out’ for Beaten-Down CCC Debt",
+    "summary": "CVC Marathon CEO Bruce Richards warns that many of the riskiest borrowers have few options other than default as refinancing gets more expensive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/marathon-s-richards-warns-no-way-out-for-beaten-down-ccc-debt",
+    "source": "Bloomberg",
+    "published": "2026-10-26T17:51:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley Expects Data-Center ABS Spreads to Widen Further",
+    "summary": "Morgan Stanley espera que los spreads de ABS que financian centros de datos sigan ampliándose, mientras las empresas buscan distintos mercados de deuda para financiar sus proyectos de IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-expects-data-center-abs-spreads-to-widen-further",
+    "source": "Bloomberg",
+    "published": "2026-10-26T17:46:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+    "summary": "Anthropic's prospectus details the lab's stated 'mission', roughly $800bn in data-centre commitments and an extraordinary governance structure. FT highlights what the 240,000-word filing reveals.",
+    "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-26T17:45:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lori Keith Sees Long AI Growth as Anthropic files IPO",
+    "summary": "A portfolio manager sees AI shifting from pilots to measurable economic value. Per the S-1, about 12,000 Anthropic customers spend at least $100,000 a year, up from roughly 950 a year earlier, and over 1,900 spend $1M+.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/lori-keith-sees-long-ai-growth-as-anthropic-files-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T17:37:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why you shouldn’t bother reading the Anthropic IPO filing",
+    "summary": "FT argues that valuing the AI lab on its historic reported numbers is a fool's errand, given how fast the business is changing.",
+    "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-26T17:29:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Files for Massive Nasdaq IPO",
+    "summary": "Anthropic presentó oficialmente su solicitud de IPO en Nasdaq, que sería uno de los debuts bursátiles más grandes de la historia. El programa también aborda riesgos de inflación y el siguiente capítulo del gasto en IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/open-interest-10-26-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T17:06:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Looks to Raise $95 Billion From Stock Sale to Fund AI Investments",
+    "summary": "Meta is seeking to raise hasta $95 billion by selling acciones comunes y preferentes para financiar su desarrollo de IA.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/meta-looks-to-raise-95-billion-from-stock-sale-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T17:02:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman’s Pasquariello Says Tech Rout Casts Doubt on AI Trade",
+    "summary": "Goldman's Tony Pasquariello says hedge funds sold tech stocks at the fastest pace in two years during Thursday's rout, casting doubt over conviction in the AI trade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/goldman-s-pasquariello-says-tech-rout-casts-doubt-on-ai-trade",
+    "source": "Bloomberg",
+    "published": "2026-10-26T16:51:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Shock Lula Win Derails $6 Billion in Equity Sales as Banks Reel",
+    "summary": "Brazilian companies had about $6 billion in equity sales lined up that were expected to follow a conservative win; Lula's shock victory derails them and leaves banks reeling.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/shock-lula-win-derails-6-billion-in-equity-sales-as-banks-reel",
+    "source": "Bloomberg",
+    "published": "2026-10-26T16:12:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
+    "summary": "Microsoft is offering buyouts to 60,000 workers in the US, Canada, India and the UK as it retools its workforce for the AI era.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/microsoft-offers-buyouts-to-60-000-employees-video",
+    "source": "Bloomberg",
+    "published": "2026-10-26T16:09:49+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Welcome to the Infinite Work Machine",
+    "summary": "Bloomberg looks at the never-ending arms race in AI agents and how it is reshaping work.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/welcome-to-the-infinite-work-machine",
+    "source": "Bloomberg",
+    "published": "2026-10-26T16:05:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Victoria de Lula golpea a los activos de América Latina: así caen los mercados",
+    "summary": "Los mercados de América Latina caen tras la inesperada victoria de Lula en Brasil, con presión en las principales bolsas y monedas de la región.",
+    "link": "https://www.bloomberglinea.com/mercados/victoria-de-lula-golpea-a-los-activos-de-america-latina-asi-caen-los-mercados/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-26T14:58:18+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué significa el repunte de los yields del Tesoro para las estrategias de inversión?",
+    "summary": "En septiembre los yields globales saltaron: el Treasury a 2 años subió 54 pb a 4.9% y el de 10 años llegó a 5.3%, máximo desde 2002. El índice Bloomberg Aggregate acumula una caída de casi 3%.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/26/que-significa-el-repunte-de-los-yields-del-tesoro-para-las-estrategias-de-inversion/",
+    "source": "El Financiero",
+    "published": "2026-10-26T14:54:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
+    "summary": "Anthropic PBC filed for its long-awaited IPO, a landmark moment for an AI industry increasingly hungry for capital to fund its buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances",
+    "source": "Bloomberg",
+    "published": "2026-10-26T13:08:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revolut entra a la captación de nómina de trabajadores en México",
+    "summary": "Revolut entra a la captación de nómina de trabajadores en México, ampliando su oferta bancaria digital en el país.",
+    "link": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico",
+    "source": "Expansión",
+    "published": "2026-10-26T13:00:19+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "A Fed Skip Cements the Odds for December, Economist Dutta Says",
     "summary": "Neil Dutta, de Renaissance Macro, ve que una pausa de la Fed esta semana consolida las probabilidades de un alza en diciembre. Argumenta que, desde la gestión de riesgos, tiene sentido subir tasas.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-26/a-fed-skip-now-cements-odds-for-december-dutta-video",
@@ -31,6 +229,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "AT&T México respaldará con sus propios activos el 60% del precio de su adquisición",
+    "summary": "La adquisición de AT&T México por Grupo Televisa y Fintech Holdings, por 2,000 mdd, se financiará con un crédito de 1,200 mdd garantizado por activos del negocio adquirido y 800 mdd en efectivo, según Moody's Local México.",
+    "link": "https://www.eleconomista.com.mx/empresas/at-t-mexico-respaldara-propios-activos-60-precio-adquisicion-20261026-840517.html",
+    "source": "El Economista",
+    "published": "2026-10-26T12:02:00-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Repensar los riesgos para fortalecer al negocio",
@@ -77,6 +286,17 @@
     "light": true
   },
   {
+    "title": "CyberCartel utilizó IA para atacar más de 400 objetivos financieros en América Latina",
+    "summary": "El grupo CyberCartel usó IA para coordinar ataques contra más de 400 objetivos en América Latina, incluidos bancos y proveedores de pagos. Desarrolló CARLIY0S, que distribuía tareas entre modelos comerciales de IA y los conectaba con programas capaces de ejecutar acciones.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/cybercartel-utilizo-ia-atacar-400-objetivos-financieros-america-latina-20261026-840515.html",
+    "source": "El Economista",
+    "published": "2026-10-26T11:38:43-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Cómo afectaría al T-MEC una mayoría demócrata",
     "summary": "A una semana de las elecciones legislativas en EE.UU., los pronosticadores esperan que los demócratas recuperen la Cámara de Representantes. El texto analiza cómo una mayoría demócrata afectaría la revisión del T-MEC.",
     "link": "https://www.elfinanciero.com.mx/opinion/jorge-molina-larrondo/2026/10/26/como-afectaria-al-t-mec-una-mayoria-democrata/",
@@ -84,6 +304,28 @@
     "published": "2026-10-26T11:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Transferencias bancarias con tu celular: qué cambia con las nuevas reglas de Banxico",
+    "summary": "Tras aprobarse la Ley de Economía Digital para reducir el uso de efectivo, a fin de año cambiarán las reglas del SPEI: las transferencias podrán hacerse con el número de teléfono. Banxico impulsa así los pagos digitales.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/transferencias-bancarias-celular-cambia-nuevas-reglas-banxico-20261026-839966.html",
+    "source": "El Economista",
+    "published": "2026-10-26T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft propone retiros voluntarios a 60,000 empleados en EU, Canadá, India y Reino Unido",
+    "summary": "Microsoft propone un nuevo plan de salidas voluntarias a unos 60,000 empleados en EU, Canadá, India y Reino Unido, seis meses después de una primera oferta. Aplica solo a ciertas divisiones y busca adaptar las plantillas a las nuevas necesidades.",
+    "link": "https://www.eleconomista.com.mx/empresas/microsoft-propone-retiros-voluntarios-60-000-empleados-eu-canada-india-reino-unido-20261026-840507.html",
+    "source": "El Economista",
+    "published": "2026-10-26T10:29:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 80,
     "language": "es",
     "light": false
   },
@@ -118,6 +360,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 83,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "The City as a Quarry: Housing Transformation",
+    "summary": "A conference with the European Commission, the Government of Catalonia and European architects explores how renovating, reusing and transforming existing buildings can increase housing supply amid the housing crisis.",
+    "link": "https://www.archdaily.com/1187514/the-city-as-a-quarry-housing-transformation",
+    "source": "ArchDaily",
+    "published": "2026-10-26T09:05:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -5243,259 +5496,6 @@
     "published": "2026-10-15T17:32:53+00:00",
     "category": "AI & Agents",
     "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
-    "summary": "Meta released one of its new AI models for developers to download and modify, while keeping its most advanced technology closed to turn its AI investments into revenue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/meta-releases-open-ai-model-while-keeping-its-best-tech-closed",
-    "source": "Bloomberg",
-    "published": "2026-10-15T17:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Risk of an AI crunch for stock markets is rising",
-    "summary": "This week's market tremor may be a foretaste of things to come, as the risk of an AI-driven crunch for stock markets rises.",
-    "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-15T16:53:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso sale de su ‘Miseria’ ante el dólar: ¿Cuánto baja el tipo de cambio HOY?",
-    "summary": "El peso mexicano gana al dólar este jueves tras una semana de presión por la posibilidad de que la Fed suba su tasa en su reunión de finales de mes.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/15/peso-dolar-precio-hoy-15-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-15T16:39:26+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Lion Green Road by Mary Duggan Architects and RUFFARCHITECTS Wins RIBA Stirling Prize 2026",
-    "summary": "The RIBA Stirling Prize 2026 went to Lion Green Road, a 157-home housing development in Coulsdon, South London, designed by Mary Duggan Architects with RUFFARCHITECTS for Croydon Council.",
-    "link": "https://www.archdaily.com/1186944/lion-green-road-by-mary-duggan-architects-and-ruffarchitects-wins-riba-stirling-prize-2026",
-    "source": "ArchDaily",
-    "published": "2026-10-15T16:35:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "CoreWeave’s Selloff Is ‘Buying Opportunity,’ Deutsche Bank Says",
-    "summary": "CoreWeave's selloff has wiped out more than $10 billion in market value in four sessions on a deteriorating credit profile. Deutsche Bank calls it a buying opportunity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-s-selloff-is-buying-opportunity-deutsche-bank-says",
-    "source": "Bloomberg",
-    "published": "2026-10-15T16:21:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum califica de “responsable” la actuación de Banxico por tasas más bajas",
-    "summary": "President Sheinbaum called Banxico's performance 'responsible' as the policy rate has fallen to 6.50%, and said she believes in the central bank's autonomy.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/sheinbaum-califica-de-responsable-la-actuacion-de-banxico-por-tasas-mas-bajas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-15T16:01:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia CEO Downplays CoreWeave Concerns, Bolstering Stock",
-    "summary": "Nvidia CEO Jensen Huang defended the financial health of AI supplier CoreWeave, a customer in which Nvidia also invests, after debt concerns triggered a selloff in its shares and bonds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed",
-    "source": "Bloomberg",
-    "published": "2026-10-15T15:27:52+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflación de septiembre 2026 en América Latina, país por país, de México hasta Argentina",
-    "summary": "Los mayores precios de energía y alimentos aceleran la inflación global y América Latina empieza a sentir el impacto. Bloomberg Línea repasa la inflación de septiembre 2026 país por país.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-de-septiembre-2026-en-america-latina-pais-por-pais-de-mexico-hasta-argentina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-15T14:55:45+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave Credit Risk Hits Record as Default Odds Top 60% on Borrowing Plans",
-    "summary": "A measure of CoreWeave's credit risk climbed to an all-time high as some of its high-yield bonds extended declines. The trigger was the company's talk of tapping vast pools of capital from insurers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default",
-    "source": "Bloomberg",
-    "published": "2026-10-15T14:01:51+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 cae ante nuevos temores por la IA y presiones inflacionarias que complican a la Fed",
-    "summary": "Wall Street abrió a la baja por nuevas ventas en tecnología y datos que refuerzan expectativas de tasas altas por más tiempo, lo que complica a la Fed.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-ante-nuevos-temores-por-la-ia-y-presiones-inflacionarias-que-complican-a-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-15T13:51:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "GTCR, Elliott Acquire Software Firm CCC for $4.6 Billion",
-    "summary": "GTCR and Elliott are acquiring car-insurance software provider CCC Intelligent Solutions for about $4.6 billion, a sign of life for software dealmaking.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/gtcr-elliott-acquire-software-firm-ccc-for-4-6-billion",
-    "source": "Bloomberg",
-    "published": "2026-10-15T13:37:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Santander's Ana Botin on US Growth, Debt, AI and the Global Economy | The David Rubenstein Show",
-    "summary": "Santander's Ana Botín discusses the bank's US expansion, including its recent acquisition of Webster Financial, and why she sees weak growth as a main challenge for the global economy.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/santander-s-ana-botin-the-david-rubenstein-show-video",
-    "source": "Bloomberg",
-    "published": "2026-10-15T13:22:58+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "When AI agents take matters into their own hands",
-    "summary": "The Economist looks at what happens when AI agents take matters into their own hands, through the 'Annapurna incident'.",
-    "link": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
-    "source": "The Economist",
-    "published": "2026-10-15T12:50:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI neolabs are raising huge sums. Most have little to show for it",
-    "summary": "Superstar researchers who branch out into AI 'neolabs' are raising huge sums, but need to start producing results.",
-    "link": "https://www.economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
-    "source": "The Economist",
-    "published": "2026-10-15T12:50:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El CERN se asocia con Mistral para desarrollar una IA dedicada a la investigación científica",
-    "summary": "El CERN y la startup de IA Mistral anunciaron una alianza para desarrollar un modelo de IA para uso de investigadores.",
-    "link": "https://www.eleconomista.com.mx/internacionales/cern-asocia-mistral-desarrollar-ia-dedicada-investigacion-cientifica-20261015-838807.html",
-    "source": "El Economista",
-    "published": "2026-10-15T12:44:08-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ley de Rentas en CDMX: qué propone, multas y cómo cambiarían los contratos",
-    "summary": "La jefa de Gobierno de CDMX, Clara Brugada, presentó al Congreso local la Ley de Relaciones Inquilinarias y Rentas Justas, Razonables y Asequibles. Propone regular los contratos de vivienda en renta, con multas para incumplimientos.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/ley-rentas-cdmx-propone-multas-cambiarian-contratos-20261015-838701.html",
-    "source": "El Economista",
-    "published": "2026-10-15T12:30:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El trabajo ya cambió y América Latina es quien propone las reglas",
-    "summary": "Columna de Expansión sobre cómo el trabajo ya cambió y el papel de América Latina en definir las nuevas reglas.",
-    "link": "https://expansion.mx/opinion/2026/10/15/el-trabajo-ya-cambio-y-america-latina-es-quien-propone-las-reglas",
-    "source": "Expansión",
-    "published": "2026-10-15T12:04:52+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ripple Opens $9 Billion Perp-Trading Boom to Wall Street Clients",
-    "summary": "Crypto firms are turning to traditional finance, positioning themselves as competitors to Wall Street's institutional businesses; Ripple opens a $9 billion perp-trading market to Wall Street clients.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ripple-opens-9-billion-perp-trading-boom-to-wall-street-clients",
-    "source": "Bloomberg",
-    "published": "2026-10-15T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
-    "summary": "Los avisos antilavado relacionados con criptomonedas ante la UIF aumentaron 52%, según el reporte. El dato llega en un momento de escrutinio sobre el sistema financiero mexicano.",
-    "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
-    "source": "Expansión",
-    "published": "2026-10-15T11:55:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nerviosismo en sector financiero",
-    "summary": "El sector financiero mexicano espera con nerviosismo la evaluación del GAFI sobre la efectividad del país contra el lavado de dinero y el financiamiento al terrorismo. Las señales desde EU, incluida una sanción del Departamento del Tesoro, aumentan la preocupación.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/15/nerviosismo-en-sector-financiero/",
-    "source": "El Financiero",
-    "published": "2026-10-15T11:42:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Rout Deepens; Anthropic Revenue Hits $16.8B; Warsh to Speak in Bangkok",
-    "summary": "Anthropic habría informado a inversionistas ingresos de US$16.8 mil millones en el tercer trimestre mientras prepara su salida a bolsa. Los futuros de acciones caen por la venta de títulos ligados a IA, con inversionistas rotando hacia bonos antes de datos de PPI y comentarios de Warsh en Bangkok.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/bloomberg-brief-10-15-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-15T11:34:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banks Vie for $4.25 Billion Debt Financing to Back Lantheus Deal",
-    "summary": "Varios bancos compiten por unirse al financiamiento de deuda de US$4,250 millones que respalda la adquisición de Lantheus por Curium, antes de su sindicación el próximo año.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/banks-vie-for-4-25-billion-debt-financing-to-back-lantheus-deal",
-    "source": "Bloomberg",
-    "published": "2026-10-15T11:31:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Se acelera la inflación en EU y pega al peso",
-    "summary": "La inflación en EU subió a 3.7% anual en septiembre desde 3.4% en agosto, por encima del consenso de 3.6%, con un avance mensual de 0.6%. La sorpresa presiona al peso y refuerza expectativas de tasas más altas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/10/15/se-acelera-la-inflacion-en-eu-y-pega-al-peso/",
-    "source": "El Financiero",
-    "published": "2026-10-15T11:15:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
     "language": "es",
     "light": false
   }
