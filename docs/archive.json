@@ -1,5 +1,148 @@
 [
   {
+    "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth",
+    "summary": "Anthropic opened its books to IPO investors just after a rough week for AI stocks, and Wall Street generally liked the signs of healthy growth. The filing eased some investor nerves about the AI trade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-filing-calms-nerves-with-signs-of-healthy-growth",
+    "source": "Bloomberg",
+    "published": "2026-10-27T13:00:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Healthcare Stocks Become Anti-AI Bet as Investors Turn Defensive",
+    "summary": "With confidence in the AI trade under pressure, investors are turning to healthcare stocks as a defensive, anti-AI bet.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/healthcare-stocks-become-anti-ai-bet-as-investors-turn-defensive",
+    "source": "Bloomberg",
+    "published": "2026-10-27T12:45:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dutch Plan to Cut 25,000 Jobs Will Show Whether AI Can Shrink Government",
+    "summary": "The Dutch government plans to cut 25,000 civil servant jobs through an AI-led efficiency drive, perhaps the most ambitious such public-sector plan yet. Making it work and replicating it elsewhere could prove tricky.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/dutch-plan-to-cut-25-000-jobs-will-show-whether-ai-can-shrink-government",
+    "source": "Bloomberg",
+    "published": "2026-10-27T12:44:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bending Spoons Seeks $1.5 Billion in Debt to Fund Acquisitions",
+    "summary": "Bending Spoons is tapping debt markets for $1.5 billion, partly to pursue its acquisition-led growth strategy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bending-spoons-seeks-1-5-billion-in-debt-to-fund-acquisitions",
+    "source": "Bloomberg",
+    "published": "2026-10-27T12:01:29+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+    "summary": "Quant firms are racing to fund PhDs and build labs as the AI boom creates new competition for top scientific talent. Some of finance's most secretive employers are recruiting publicly.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/ai-talent-war-has-quant-firms-racing-to-fund-phds-build-labs",
+    "source": "Bloomberg",
+    "published": "2026-10-27T11:15:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Relies on Close Connections With Amazon, Google and Microsoft",
+    "summary": "Anthropic's prospectus shows deep ties to Amazon, Google and Microsoft, which invest in it and supply compute while also competing with it.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-relies-on-close-connections-with-amazon-google-and-microsoft",
+    "source": "Bloomberg",
+    "published": "2026-10-27T11:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Quebec’s La Caisse to Buy BCE Towers Stake for $1.7 Billion",
+    "summary": "Quebec's pension manager La Caisse will buy 49.9% of BCE's wireless towers for $1.7 billion, giving BCE cash to pare debt or fund its AI strategy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/quebec-s-la-caisse-to-buy-bce-towers-stake-for-1-7-billion",
+    "source": "Bloomberg",
+    "published": "2026-10-27T10:47:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Filing Reveals $417 Billion in Future AI Spending",
+    "summary": "Anthropic filed for one of the largest IPOs in history, and the prospectus reveals about $417 billion in future AI spending commitments. The filing suggests the company may need to raise more capital.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending",
+    "source": "Bloomberg",
+    "published": "2026-10-27T10:28:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft Alumni Score Funding to Build AI Agents for Finance",
+    "summary": "Hyphenate, founded by Microsoft alumni, raised $45 million led by Nexus Venture Partners to build AI agents that can run finances for businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance",
+    "source": "Bloomberg",
+    "published": "2026-10-27T10:00:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México aporta 8.3 por ciento de la recaudación de aranceles de EU",
+    "summary": "Estados Unidos recaudó 14,439 millones de dólares en aranceles a importaciones mexicanas entre enero y agosto, 8.3% del total de aranceles recaudados por el gobierno de Trump.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/27/mexico-aporta-83-por-ciento-de-la-recaudacion-de-aranceles-de-eu/",
+    "source": "El Financiero",
+    "published": "2026-10-27T09:51:36+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "JPMorgan Private Bank on How to Balance AI Exposure",
+    "summary": "JPMorgan Private Bank's Madison Faller says investors can balance AI exposure with quality credit and real assets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/jpmorgan-private-bank-on-how-to-balance-ai-exposure-video",
+    "source": "Bloomberg",
+    "published": "2026-10-27T09:21:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Brings Mega IPO to Australia’s AI-Starved Retail Crowd",
+    "summary": "Anthropic will offer IPO shares directly to Australian retail investors, a market still reeling from a high-profile data center deal collapse.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-brings-mega-ipo-to-australia-s-ai-starved-retail-crowd",
+    "source": "Bloomberg",
+    "published": "2026-10-27T06:55:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Citi y BCA Research rebajan la calificación de los activos brasileños tras victoria de Lula",
+    "summary": "Citigroup y BCA Research rebajaron la calificación de los activos brasileños tras la victoria de Lula, por el deterioro del perfil riesgo-rentabilidad y dudas sobre la disciplina fiscal.",
+    "link": "https://www.eleconomista.com.mx/mercados/citi-bca-research-rebajan-calificacion-activos-brasilenos-victoria-lula-20261027-840693.html",
+    "source": "El Economista",
+    "published": "2026-10-27T06:41:29-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "What Anthropic's IPO Means for the AI Trade",
     "summary": "Anthropic planea listar en el Nasdaq bajo el símbolo ANT y se espera que recaude más que cualquier empresa en una OPI. Su desempeño en el mercado podría reforzar o debilitar la confianza de Wall Street en el auge de la IA.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-27/what-anthropic-s-ipo-means-for-the-ai-trade-video",
@@ -9,6 +152,28 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Nvidia invertirá 3,000 millones de dólares en Meta y reforzará su colaboración en IA",
+    "summary": "Nvidia will invest $3 billion in Meta's share offering and deepen collaboration on Meta's Muse AI assistant and related models.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-invertira-3-000-millones-dolares-meta-reforzara-colaboracion-ia-20261027-840688.html",
+    "source": "El Economista",
+    "published": "2026-10-27T06:18:08-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "HSBC eleva 32% su beneficio en 3T pese a la desaceleración en gestión patrimonial",
+    "summary": "HSBC's third-quarter profit jumped 32% on favorable interest rates and avoided credit losses, though wealth management slowed markedly.",
+    "link": "https://www.eleconomista.com.mx/mercados/hsbc-eleva-32-beneficio-3t-pese-desaceleracion-gestion-patrimonial-20261027-840687.html",
+    "source": "El Economista",
+    "published": "2026-10-27T06:14:04-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Detalles que debe saber si quiere invertir en Anthropic tras su salida al Nasdaq",
@@ -29,6 +194,17 @@
     "published": "2026-10-27T05:14:43+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The winners and losers of the weight-loss economy",
+    "summary": "People on GLP-1s are spending differently; some sectors will benefit while others must adapt, says the FT on the weight-loss economy.",
+    "link": "https://www.ft.com/content/2f1667a8-ef1b-46a0-bc95-6061ec85fb8e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-27T05:00:18+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -154,6 +330,17 @@
     "light": true
   },
   {
+    "title": "Don’t expect supersize profits from Anthropic soon",
+    "summary": "The Economist notes that Anthropic's IPO prospectus carries warnings about challenges ahead, tempering expectations of outsized profits soon.",
+    "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
+    "source": "The Economist",
+    "published": "2026-10-26T22:23:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Las marcas apuestan a ciegas por aparecer en la IA: invierten más, pero desconocen el retorno en ventas",
     "summary": "Las marcas invierten más para aparecer en las respuestas de la IA, pero desconocen el retorno en ventas.",
     "link": "https://expansion.mx/tecnologia/2026/10/26/marcas-invierten-chatgpt-ia-sin-medir-ventas",
@@ -218,6 +405,28 @@
     "relevance_score": 74,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "S&P 500 cerró al alza tras solicitud de OPI de Anthropic, mientras activos de Brasil se desplomaron",
+    "summary": "Wall Street closed higher on a tech rebound and Anthropic's IPO filing, while Brazilian assets plunged after Lula's unexpected reelection.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-solicitud-de-opi-de-anthropic-mientras-activos-de-brasil-se-desploman/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-26T20:05:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Intel to Buy Quantum Startup Classiq for About $2.3 Billion",
+    "summary": "Intel agreed to buy Israeli quantum startup Classiq Technologies for about $2.3 billion to push into quantum computing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+    "source": "Bloomberg",
+    "published": "2026-10-26T20:01:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Casa Cardona / Sensacional Dinámica Mexicana",
@@ -5289,214 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Steelmaker Celsa Said to Ask Banks for Pitches on IPO or Sale",
-    "summary": "Spanish steelmaker Celsa Group has asked banks for pitches as it weighs strategic options including a sale or IPO, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/steelmaker-celsa-said-to-ask-banks-for-pitches-on-ipo-or-sale",
-    "source": "Bloomberg",
-    "published": "2026-10-16T12:19:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Más costos y menos deducciones presionan a las empresas en México para 2027",
-    "summary": "Mayores costos y menos deducciones presionan a las empresas en México de cara a 2027.",
-    "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
-    "source": "Expansión",
-    "published": "2026-10-16T11:55:41+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Consumo privado cae en septiembre",
-    "summary": "El consumo privado en México cayó en septiembre, según datos reportados por El Economista.",
-    "link": "https://www.eleconomista.com.mx/videos/consumo-privado-cae-septiembre-20261016-838996.html",
-    "source": "El Economista",
-    "published": "2026-10-16T11:54:50-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso cae ante apuestas sobre la Fed",
-    "summary": "El peso cae ante apuestas sobre las decisiones de la Fed, en un entorno de volatilidad cambiaria.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-cae-apuestas-sobre-fed-20261016-838989.html",
-    "source": "El Economista",
-    "published": "2026-10-16T11:04:30-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Por qué pocos trabajadores reintegran a su afore el dinero de retiro por desempleo?",
-    "summary": "Los retiros de Afores por desempleo marcan máximos históricos cada año, pero solo 1% o menos de los trabajadores reintegra los recursos a su cuenta individual.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/pocos-trabajadores-reintegran-afore-dinero-retiro-desempleo-20261016-838877.html",
-    "source": "El Economista",
-    "published": "2026-10-16T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Caen 25% las fusiones y adquisiciones en México; suman 14,549 millones de dólares",
-    "summary": "Las fusiones y adquisiciones en México sumaron 200 operaciones por 14,549 millones de dólares hasta septiembre. Esto representa caídas anuales de 12% en número de transacciones y de 25% en valor.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/caen-25-fusiones-adquisiciones-mexico-suman-14-549-millones-dolares-20261016-838988.html",
-    "source": "El Economista",
-    "published": "2026-10-16T10:55:31-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nscale IPO: Data Center Delays Show Risks for the Neoclouds",
-    "summary": "Delays at data-center buildouts in the Norwegian fjords, from worker unrest and fires, show the risks facing neocloud operators ahead of the Nscale IPO. Summary based on the blurb.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/nscale-ipo-data-center-delays-show-risks-for-the-neoclouds",
-    "source": "Bloomberg",
-    "published": "2026-10-16T10:27:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
-    "summary": "CoreWeave is caught between investors who see rising bond yields as a threat to the AI trade and those who believe computing demand will justify the enthusiasm. Its stock wipeout highlights the divide between AI fear and greed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
-    "source": "Bloomberg",
-    "published": "2026-10-16T08:56:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-    "summary": "Los ministros de finanzas del G7 acordaron realizar simulacros de ciberataques potenciados por IA contra bancos. La medida refleja la creciente preocupación por el riesgo cibernético en el sistema financiero.",
-    "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T07:36:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Los problemas de CoreWeave están sacudiendo el auge de la IA",
-    "summary": "La creciente deuda de CoreWeave, respaldada por Nvidia, genera preocupación sobre el auge de la IA: sus acciones y bonos se han desplomado y los inversionistas dudan de que la demanda justifique los miles de millones prestados para construir centros de datos.",
-    "link": "https://www.eleconomista.com.mx/empresas/problemas-coreweave-sacudiendo-auge-ia-20261016-838959.html",
-    "source": "El Economista",
-    "published": "2026-10-16T06:53:50-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nscale's Flagship Data Center Hit by Delays Ahead of IPO",
-    "summary": "AI infrastructure firm Nscale is seeking to raise up to $3 billion in an IPO as soon as this month, as investors grow wary of the AI buildout. The UK company has been hit by regulatory hurdles, a fire and other delays at its flagship data center.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/nscale-s-flagship-data-center-hit-by-delays-ahead-of-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T06:53:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bets on Fed rate hold in October strengthen after Warsh comments",
-    "summary": "Bets on a Fed rate hold in October strengthened after Chair Warsh said the economy has broadly conformed with expectations since September's rate increase.",
-    "link": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T06:37:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cambios en comercio con EU afectaría inversión: FMI",
-    "summary": "Un informe del FMI advierte que cambios en la relación comercial México-EU afectarían la inversión empresarial en México, amplificando limitaciones estructurales e incertidumbre de políticas internas.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/16/cambios-en-comercio-con-eu-afectaria-inversion-fmi/",
-    "source": "El Financiero",
-    "published": "2026-10-16T06:20:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed's Warsh Says AI Will Change Monetary Policy Conduct",
-    "summary": "El presidente de la Fed, Kevin Warsh, describió la IA como el cambio más trascendente para la economía de EU y global en su vida, un choque de oferta positivo a mediano plazo. Habló en un evento del FMI en Bangkok.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-s-warsh-says-ai-will-change-monetary-policy-conduct-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T04:48:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BOE’s Bailey Calls for Global AI Testing Standards",
-    "summary": "El gobernador del Banco de Inglaterra, Andrew Bailey, pidió estándares rigurosos de pruebas de modelos de IA antes y después de su lanzamiento para proteger la infraestructura financiera. Advirtió también que los mercados podrían corregir por sobreestimar los retornos de la IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/boe-s-bailey-calls-for-global-ai-testing-standards-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T04:46:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
-    "summary": "HR Ratings bajó la calificación de Pemex en línea con el ajuste a la nota soberana de México.",
-    "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
-    "source": "Expansión",
-    "published": "2026-10-16T04:44:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blue Owl’s Clarke Plays Down Software Risks, Touts Data Centers",
-    "summary": "Blue Owl's global head of institutional capital says the firm can withstand AI-driven disruption in software and that investor worries about private credit are overblown. He touts data centers as a growth area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/blue-owl-s-clarke-plays-down-software-risks-touts-data-centers",
-    "source": "Bloomberg",
-    "published": "2026-10-16T04:04:42+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic assigned highest junk credit rating in June",
-    "summary": "Kroll Bond Rating Agency asignó a Anthropic una calificación crediticia en el nivel especulativo más alto en junio, lo que perfila al laboratorio de IA para alcanzar grado de inversión.",
-    "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T04:00:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK government courted UBS over London HQ move",
-    "summary": "Rachel Reeves pitched the City as an alternative home for UBS, which is weighing its options amid new capital proposals. The UK government courted the Swiss bank over a London HQ move.",
-    "link": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T04:00:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
