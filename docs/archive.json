@@ -1,5 +1,93 @@
 [
   {
+    "title": "DoorDash Is Said to Near $17B Takeover of Instacart",
+    "summary": "DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
+    "source": "Bloomberg",
+    "published": "2026-10-27T19:00:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoFi Says It's Well Positioned for Economic Uncertainty",
+    "summary": "SoFi raised its full-year net revenue guidance to about $5.04 billion and saw demand for its lending products grow. CEO Anthony Noto says the growth leaves the fintech better able to handle economic uncertainty.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/sofi-says-it-s-well-positioned-for-economic-uncertainty-video",
+    "source": "Bloomberg",
+    "published": "2026-10-27T18:28:40+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Boosts Equity Offering to $98 Billion, Raising Its AI Bet",
+    "summary": "Meta plans to boost its equity offering to almost $98 billion, one of the largest ever, as it raises its bet on AI. Anthropic's IPO filing is also framed as a defining test for the AI boom.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-tech-10-27-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-27T18:24:15+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Un exdirectivo de Meta quiere reemplazar Word, Excel y PowerPoint con Inteligencia Artificial",
+    "summary": "Un exdirectivo de Meta busca reemplazar Word, Excel y PowerPoint con herramientas de inteligencia artificial, según Expansión. Apunta a la productividad de oficina basada en IA.",
+    "link": "https://expansion.mx/tecnologia/2026/10/27/director-ia-meta-rohit-patel-microsoft-office-google",
+    "source": "Expansión",
+    "published": "2026-10-27T17:25:38+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The limits of hedging the AI boom",
+    "summary": "The Financial Times examines how finding protection against a tech-investment boom is becoming more urgent and harder. It looks at the limits of hedging the AI boom.",
+    "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-27T17:07:56+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Scotiabank Plans SRT Transaction Tied to $2 Billion of Loans",
+    "summary": "Bank of Nova Scotia is working on a significant risk transfer tied to around $2 billion of loans. Lenders are rushing to take advantage of strong demand to close such deals before year-end.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/scotiabank-plans-srt-transaction-tied-to-2-billion-of-loans",
+    "source": "Bloomberg",
+    "published": "2026-10-27T16:57:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Pesadilla en la calle’ del tipo de cambio: Peso pierde sus ganancias del lunes ante el dólar",
+    "summary": "El peso mexicano pierde las ganancias del lunes ante un dólar más fuerte, previo a la decisión de política monetaria de la Fed. El mercado espera que la Fed mantenga la tasa sin cambios.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/27/peso-dolar-tipo-de-cambio-hoy-27-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-27T16:49:28+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The AI Boom Will Pull Back, Warns Former SEC Chair Gary Gensler",
+    "summary": "Former SEC Chair Gary Gensler says history suggests the AI investment boom won't continue indefinitely. He expects a slowdown or reversal within 18 to 30 months, with mounting debt shaping how disruptive it is.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/the-ai-boom-will-pull-back-warns-gary-gensler-video",
+    "source": "Bloomberg",
+    "published": "2026-10-27T14:57:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth",
     "summary": "Anthropic opened its books to IPO investors just after a rough week for AI stocks, and Wall Street generally liked the signs of healthy growth. The filing eased some investor nerves about the AI trade.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-filing-calms-nerves-with-signs-of-healthy-growth",
@@ -33,6 +121,17 @@
     "light": true
   },
   {
+    "title": "Afores no podrán cobrarte más de 0.53% de comisión en 2027",
+    "summary": "Las Afores podrán cobrar una comisión máxima de 0.53% sobre saldos administrados en 2027. Es decir, hasta 5.3 pesos por cada 1,000 administrados.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/afores-podran-cobrarte-0-53-comision-20261027-840734.html",
+    "source": "El Economista",
+    "published": "2026-10-27T12:24:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Bending Spoons Seeks $1.5 Billion in Debt to Fund Acquisitions",
     "summary": "Bending Spoons is tapping debt markets for $1.5 billion, partly to pursue its acquisition-led growth strategy.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-27/bending-spoons-seeks-1-5-billion-in-debt-to-fund-acquisitions",
@@ -42,6 +141,28 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Novogratz Says Credit Market Is Reaching ‘Peak Nervousness’",
+    "summary": "Michael Novogratz of Galaxy Digital says anxiety in global credit markets over AI spending is on the verge of easing. He suggests the 'peak nervousness' phase may be near.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
+    "source": "Bloomberg",
+    "published": "2026-10-27T11:37:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sismo cambiario: El peso mexicano roza los 18.90 por dólar y firma su peor nivel en un año",
+    "summary": "El peso mexicano vive su momento más crítico del año, cotizando cerca de 18.70 por dólar tras un máximo intradía de 18.86, el nivel más alto en 52 semanas. La depreciación refleja un sesgo de alta volatilidad.",
+    "link": "https://www.eleconomista.com.mx/empresas/sismo-cambiario-peso-mexicano-roza-18-90-dolar-firma-peor-nivel-ano-20261027-840350.html",
+    "source": "El Economista",
+    "published": "2026-10-27T11:18:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
@@ -64,6 +185,17 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Subirá o bajará el dólar? La Fed se reúne y estas son las expectativas para las monedas de América Latina",
+    "summary": "La Fed se reúne con la expectativa de mantener las tasas sin cambios, mientras los mercados evalúan un posible aumento en diciembre. Se analizan los efectos sobre el dólar y las monedas de América Latina.",
+    "link": "https://www.bloomberglinea.com/mercados/subira-o-bajara-el-dolar-la-fed-se-reune-y-estas-son-las-expectativas-para-las-monedas-de-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-27T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Quebec’s La Caisse to Buy BCE Towers Stake for $1.7 Billion",
@@ -5364,138 +5496,6 @@
     "published": "2026-10-16T16:35:13+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paschi Top 10 Investor Goldstone Backs Intesa Takeover Bid",
-    "summary": "Goldstone Capital, accionista de Monte dei Paschi respaldado por inversionistas qataríes, apoya la oferta de adquisición de Intesa Sanpaolo. Es el más reciente inversionista en sumarse al acuerdo.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/paschi-top-10-investor-goldstone-backs-intesa-takeover-bid",
-    "source": "Bloomberg",
-    "published": "2026-10-16T16:13:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-    "summary": "Citi se suma a otros bancos de EE.UU. que restringen el acceso de agentes de IA a las cuentas de sus clientes. Los prestamistas temen que los chatbots trasladen miles de millones de dólares en depósitos hacia cuentas de mayor rendimiento.",
-    "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-16T14:58:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Japan’s Cyberattacks Are an AI Warning",
-    "summary": "Ransomware attacks are surging in Japan, and Bloomberg Opinion's Catherine Thorbecke says AI is making old security flaws easier to exploit. She calls for a more coordinated response from governments and companies.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/opinion-japan-s-cyberattacks-are-an-ai-warning-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T14:54:44+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 Suffers Worst Week Since June as AI Fears Hit Chipmakers",
-    "summary": "The S&P 500 posted its biggest weekly loss since June as a crude price spike renewed inflation fears and AI-trade worries hit chipmakers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
-    "source": "Bloomberg",
-    "published": "2026-10-16T14:01:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
-    "summary": "Anthropic signed its first data-center lease in Canada, buying capacity at a new project in Nova Scotia worth more than C$10 billion.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
-    "source": "Bloomberg",
-    "published": "2026-10-16T14:00:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bank of America Fights Off Volatility, Sells $8 Billion of Bonds",
-    "summary": "Bank of America colocó 8,000 millones de dólares en bonos en una inusual emisión de viernes, tras una semana turbulenta en los mercados de crédito que afectó planes de otros emisores.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/bank-of-america-taps-high-grade-bond-market-after-turbulent-week",
-    "source": "Bloomberg",
-    "published": "2026-10-16T13:28:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Schwab CEO on AI Strategy, Investing Trends, and ‘Charlie’",
-    "summary": "Rick Wurster, CEO de Schwab, habla de tendencias de inversión, de cómo atraer a inversionistas jóvenes y de por qué la firma bloquea agentes de IA no autorizados. Es un caso concreto de gobernanza de agentes en servicios financieros.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/schwab-ceo-on-ai-strategy-investing-trends-charlie-video",
-    "source": "Bloomberg",
-    "published": "2026-10-16T13:11:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Cómo los pagos con tarjeta en tienditas y otros pequeños comercios afectan tu bolsillo?",
-    "summary": "Cada vez más comercios pequeños aceptan tarjetas, con comisiones de hasta 10% del monto de la compra. El artículo analiza cómo estos cobros afectan el bolsillo de los consumidores.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/pagos-tarjeta-tienditas-otros-pequenos-comercios-afectan-bolsillo-20261016-838839.html",
-    "source": "El Economista",
-    "published": "2026-10-16T13:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BNY Targets Blind Spots in ABS After Tricolor Mess Rocked Market",
-    "summary": "A un año de los fraudes que expusieron riesgos ocultos en documentos financieros rutinarios (caso Tricolor), BNY lanza herramientas para cubrir puntos ciegos en el mercado de ABS, de unos 1 billón de dólares.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/bny-targets-blind-spots-in-abs-after-tricolor-mess-rocked-market",
-    "source": "Bloomberg",
-    "published": "2026-10-16T13:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Equity Trading Gives Banks a Bright Spot This Earnings Season",
-    "summary": "Big bank earnings did little to change dimming views on the sector, which is in its longest losing streak since the financial crisis. Equities trading was the bright spot.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/equity-trading-gives-banks-a-bright-spot-this-earnings-season-mvayr9z8",
-    "source": "Bloomberg",
-    "published": "2026-10-16T12:48:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cero por ciento es la IA",
-    "summary": "Phil Sebok, quien dirige en México a Wonderful (la empresa detrás de los agentes de IA que usa Mercado Libre), sostiene que los proyectos de IA fallan 0% por tecnología y 100% por decisiones humanas. La columna explora qué implica esto para la adopción de agentes en las empresas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/luis-g-y-g/2026/10/16/cero-por-ciento-es-la-ia/",
-    "source": "El Financiero",
-    "published": "2026-10-16T12:41:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Explicador: ¿Subirá el predial en México tras propuestas del gobierno y nueva ley?",
-    "summary": "Se discute un posible aumento al predial tras la consulta del programa de ordenación de la zona metropolitana del Valle de México y la nueva ley de fortalecimiento. El explicador analiza qué podría cambiar para los propietarios.",
-    "link": "https://www.eleconomista.com.mx/explicadores/aumento-impuesto-predial-mexico-explicado-20261016-839002.html",
-    "source": "El Economista",
-    "published": "2026-10-16T12:40:46-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 82,
     "language": "es",
     "light": false
   }
