@@ -1,5 +1,126 @@
 [
   {
+    "title": "Wall Street ‘se asusta’ por la IA y Nasdaq pierde más de 1%; acciones de Alphabet caen 13%",
+    "summary": "Wall Street opera en rojo tras resultados trimestrales que renovaron las dudas sobre el retorno de la inversión en IA. El Nasdaq cae 1.09% y las acciones de Alphabet pierden 13%.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/29/bmv-wall-street-hoy-29-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-29T17:01:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alphabet Miss Revives AI Fears",
+    "summary": "Alphabet's sales miss reignites AI fears while Microsoft defies the gloom, and the jitters spread to Caterpillar. Bloomberg's morning briefing also looks ahead to the ECB. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-29/open-interest-10-29-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-10-29T16:55:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Christine Lagarde to step down as ECB president in February",
+    "summary": "Christine Lagarde will step down as ECB president in February, announced hours before the central bank held rates at 2.5%. Summary based on the blurb only.",
+    "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-29T16:02:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bancos esperan que México se mantenga fuera de la lista gris contra el lavado de dinero",
+    "summary": "Los bancos esperan que México se mantenga fuera de la lista gris del GAFI en la evaluación sobre prevención de lavado de dinero. Lo señaló Emilio Romano, presidente de la Asociación de Bancos de México.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/bancos-esperan-que-mexico-se-mantenga-fuera-de-la-lista-gris-contra-el-lavado-de-dinero/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-29T15:49:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
+    "summary": "La banca múltiple y de desarrollo trabaja en esquemas de financiamiento para proyectos mixtos de generación eléctrica de la CFE con empresas privadas. Directivos de la CFE dijeron antes que los proyectos aún están bajo análisis.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-29T15:48:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Canada, Nvidia Back Cohere at Over $20 Billion Valuation",
+    "summary": "AI model maker Cohere is raising a large round at a $20.5 billion valuation, roughly triple its value a year ago. Canada and Nvidia are backing the deal. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-10-29T15:45:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The Customer-Centric Agentic Enterprise",
+    "summary": "The next edge from agentic AI is transforming the customer relationship rather than cutting costs, argues Charles Schwab's Amy Ruegg. She describes how AI can anticipate individual needs, provide always-on service and personalize experiences at scale. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-29/the-customer-centric-agentic-enterprise-video",
+    "source": "Bloomberg",
+    "published": "2026-10-29T15:24:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
+    "summary": "Hedge fund billionaire Stanley Druckenmiller says he has invested in tradeXYZ, a little-known rival to CME Group, backing a push to bring perpetual futures to Wall Street. Summary based on the blurb only.",
+    "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-29T14:54:48+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Paschi Investors Deal Crushing Blow to CEO in Win for Intesa",
+    "summary": "Investors overwhelmingly rejected the main element of CEO Luigi Lovaglio's defense against a takeover by Intesa Sanpaolo. The vote sets up Monte dei Paschi, the world's oldest bank, for a potential loss of independence. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/monte-paschi-investors-reject-banco-bpm-bid-in-win-for-intesa",
+    "source": "Bloomberg",
+    "published": "2026-10-29T14:43:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+    "summary": "Investors must weigh missing out on extraordinary AI growth against pitfalls that include 'existential' risks, per the FT's look at Anthropic's giant IPO. Summary based on the headline and blurb only.",
+    "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-29T14:41:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet se desploma y Microsoft avanza: 5 claves del impacto desigual de la IA en Wall Street",
+    "summary": "Alphabet se desploma mientras Microsoft avanza tras reportar resultados. La reacción expone dos realidades distintas sobre la capacidad de las grandes tecnológicas para convertir la IA en beneficios.",
+    "link": "https://www.bloomberglinea.com/mercados/alphabet-se-desploma-y-microsoft-avanza-5-claves-del-impacto-desigual-de-la-ia-en-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-29T13:58:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Bridgewater CEO Nir Bar Dea on AI Investing, Markets and Leadership | The David Rubenstein Show",
     "summary": "Bridgewater CEO Nir Bar Dea discusses the US economy, rising national debt, the dollar and how AI will reshape investing. He also reflects on his path to Wall Street and on leadership.",
     "link": "https://www.bloomberg.com/news/videos/2026-10-29/bridgewater-ceo-on-ai-investing-debt-leadership-video",
@@ -33,6 +154,17 @@
     "light": true
   },
   {
+    "title": "Peso mexicano amplía sus pérdidas frente al dólar; toca su peor nivel en más de un año",
+    "summary": "El peso mexicano amplía sus pérdidas frente al dólar y toca su peor nivel en más de un año. Los operadores siguen datos de inflación y PIB de Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-29-octubre-20261029-841174.html",
+    "source": "El Economista",
+    "published": "2026-10-29T12:16:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Presupuesto 2027 tendrá inversión pública estancada e intereses de la deuda en ascenso",
     "summary": "El Presupuesto 2027 tendrá inversión pública estancada y un pago de intereses de la deuda en ascenso.",
     "link": "https://expansion.mx/economia/2026/10/29/presupuesto-2027-inversion-publica-estancada-intereses-deuda",
@@ -53,6 +185,28 @@
     "relevance_score": 92,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Microsoft Draws $115 Billion Demand for Jumbo Debt Offering",
+    "summary": "Microsoft drew blowout demand for its $25 billion bond offering, its first major issuance in almost a decade. Investors made room in portfolios already stuffed with AI-related debt. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
+    "source": "Bloomberg",
+    "published": "2026-10-29T11:47:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso se deprecia tras datos de inflación y PIB de EU",
+    "summary": "El peso se deprecia tras los datos de inflación y PIB de Estados Unidos, en una sesión marcada por la fortaleza del dólar.",
+    "link": "https://www.eleconomista.com.mx/videos/peso-deprecia-datos-inflacion-pib-eu-20261029-841165.html",
+    "source": "El Economista",
+    "published": "2026-10-29T11:05:36-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Blue Owl Fees Beat Estimates Though Redemptions Weigh on Inflows",
@@ -5344,159 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Comprar vivienda en México se aleja de los ingresos de las familias",
-    "summary": "El precio de la vivienda en México sube más rápido que los ingresos de las familias, ampliando la brecha para comprar casa. El encarecimiento de los inmuebles complica el acceso a crédito hipotecario y presiona la asequibilidad.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/comprar-vivienda-mexico-aleja-ingresos-familias-20261020-839506.html",
-    "source": "El Economista",
-    "published": "2026-10-20T00:26:06-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Precio de la vivienda en México llega a 32,495 pesos por m2",
-    "summary": "El precio promedio de la vivienda en México llegó a 32,495 pesos por m2 en septiembre de 2026, con alza mensual de 0.3% y anual de 4.4%, según el Indicador Banorte de Precios de Vivienda (Inbaprevi).",
-    "link": "https://www.eleconomista.com.mx/econohabitat/precio-vivienda-mexico-llega-32-495-pesos-m2-20261020-839505.html",
-    "source": "El Economista",
-    "published": "2026-10-20T00:23:04-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Organismos públicos superan a la banca en crédito para vivienda",
-    "summary": "Infonavit y Fovissste colocaron más recursos que la banca comercial para adquisición de vivienda en el primer semestre de 2026, algo que no ocurría en más de 24 meses, según BBVA Research. El cambio refleja un giro en la composición del financiamiento hipotecario.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/organismos-publicos-superan-banca-credito-vivienda-20261020-839504.html",
-    "source": "El Economista",
-    "published": "2026-10-20T00:20:11-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 93,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Fears Roar Back With Data Center Firm Elice’s 32% Debut Flop",
-    "summary": "Shares of data-center firm Elice plunged in their trading debut, underscoring concerns about whether the AI boom can justify the billions being poured into the industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo",
-    "source": "Bloomberg",
-    "published": "2026-10-20T00:13:44+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banamex fortalece franquicia, coloca 900 mdd; Banco plata, crecimiento similar a IA",
-    "summary": "Banamex, bajo la nueva administración de Fernando Chico Pardo, colocó 900 millones de dólares en instrumentos de capital híbrido. La columna también destaca el crecimiento de un neobanco con ritmo comparable al de la IA.",
-    "link": "https://www.eleconomista.com.mx/opinion/banamex-fortalece-franquicia-coloca-900-mdd-banco-plata-crecimiento-similar-ia-20261019-839485.html",
-    "source": "El Economista",
-    "published": "2026-10-19T23:00:41-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "GCash Owner Gains in Debut After Record Philippines IPO",
-    "summary": "GCash owner Mynt gained in its debut after a record Philippines IPO, a major fintech listing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks",
-    "source": "Bloomberg",
-    "published": "2026-10-19T23:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ante envejecimiento del país Afores piden revisar sistema de pensiones, pero descartan elevar la edad de retiro",
-    "summary": "Ante el envejecimiento de la población, las Afores piden revisar el sistema de pensiones, aunque descartan elevar la edad de retiro.",
-    "link": "https://expansion.mx/economia/2026/10/19/ante-envejecimiento-del-pais-afores-piden-revisar-sistema-de-pensiones-pero-descartan-elevar-la-edad-de-retiro",
-    "source": "Expansión",
-    "published": "2026-10-19T22:53:46+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Asigna Consar 9.4 millones de cuentas de Afore a XXI Banorte; será la nueva prestadora de servicios del SAR",
-    "summary": "La Consar asignó 9.4 millones de cuentas de Afore a XXI Banorte, que será la nueva prestadora de servicios del SAR.",
-    "link": "https://expansion.mx/economia/2026/10/19/asigna-consar-9-4-millones-de-cuentas-de-afore-a-xxi-banorte-sera-la-nueva-prestadora-de-servicios-del-sar",
-    "source": "Expansión",
-    "published": "2026-10-19T22:13:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tech Stocks Decline on AI Jitters, Dollar Falls: Markets Wrap",
-    "summary": "Technology shares came under renewed pressure as AI sentiment stayed jittery ahead of key earnings this week testing chip-stock gains. The dollar weakened.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg",
-    "published": "2026-10-19T22:09:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Take: CoreWeave And The Fragile AI Economy",
-    "summary": "CoreWeave's debt is rattling investors; the Big Take podcast looks at what the company's financial strain reveals about the AI boom and the future of cloud infrastructure providers.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy",
-    "source": "Bloomberg",
-    "published": "2026-10-19T22:00:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech Earnings Could Validate AI, Ives Says",
-    "summary": "Dan Ives of Yorkville, Ives and Company says upcoming Big Tech earnings will test confidence in AI, and discusses giving investors access to private AI companies.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-tech-earnings-could-validate-ai-ives-says-video",
-    "source": "Bloomberg",
-    "published": "2026-10-19T21:48:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall",
-    "summary": "Former Google CEO Eric Schmidt owns about 1% of Anthropic through an early investment, setting him up for one of the largest individual windfalls from the company's imminent public market debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall",
-    "source": "Bloomberg",
-    "published": "2026-10-19T21:18:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Aeropuertos Argentina 2000 busca hasta US$600 millones con ON para refinanciar deuda e invertir",
-    "summary": "Aeropuertos Argentina, parte de Corporación América Airports, busca hasta US$600 millones con obligaciones negociables para refinanciar deuda y financiar inversiones.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/aeropuertos-argentina-2000-busca-hasta-us600-millones-con-on-para-refinanciar-deuda-e-invertir/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-19T19:40:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nscale, Anthropic in Talks for $45 Billion AI Computing Deal",
-    "summary": "Nscale, an AI cloud computing firm, is in talks to sell computing power to Anthropic in a deal that could be worth about $45 billion, per people familiar with the talks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
-    "source": "Bloomberg",
-    "published": "2026-10-19T19:24:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
   }
 ]
