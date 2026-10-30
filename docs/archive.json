@@ -1,5 +1,181 @@
 [
   {
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "summary": "Blackstone says Anthropic is expected to receive a 'high' junk credit rating after its IPO, a shift from earlier guidance that it might reach investment grade. Details are limited to the headline blurb.",
+    "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-30T18:19:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet, matriz de Google, tuvo su mayor caída en bolsa: ¿es momento de comprar sus acciones?",
+    "summary": "La caída de Alphabet en Wall Street, su mayor en bolsa, reabre el debate sobre si sus acciones son una oportunidad. La mayoría de los analistas mantiene una visión favorable pese al desplome.",
+    "link": "https://www.bloomberglinea.com/mercados/alphabet-matriz-de-google-tuvo-su-mayor-caida-en-bolsa-es-momento-de-comprar-sus-acciones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T17:53:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US tech stocks tumble as earnings stoke AI spending fears",
+    "summary": "US tech stocks fell as earnings stoked fears over AI spending. Intel is on track for its biggest one-day plunge since 1974 after its results spooked investors.",
+    "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-30T17:30:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Calaverita’ para el peso: Gana 3 centavos ante el dólar por posible aumento en tasas de la Fed",
+    "summary": "El peso ganó tres centavos frente al dólar, pero las presiones cambiarias persisten porque el mercado espera otro aumento de tasas de la Fed este año.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/30/peso-dolar-tipo-de-cambio-hoy-30-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-30T17:26:40+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
+    "summary": "Baillie Gifford's Peter Singlehurst explains why Anthropic's technical expertise, innovation and efficient compute use appeal to long-term investors. He also views its governance structure, with seven founders holding voting control, as a positive.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T17:24:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI to Drive 40% Growth for AWS: CEO Garman",
+    "summary": "AWS CEO Matt Garman says the company aims to 'responsibly fund' its AI buildout to meet customer demand. AWS grew for a sixth straight quarter and could grow more than 40% yearly in each of the next two years.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T17:22:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CD&R pursues buyout of $40bn card processor Global Payments",
+    "summary": "Private equity firm CD&R is pursuing a buyout of Global Payments, a $40bn card processor. The deal would rank among the largest buyouts in history.",
+    "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-30T17:10:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
+    "summary": "Amazon has set up supplier financing arrangements to borrow up to $80bn against the value of hardware it buys. The move preserves financial flexibility as it spends hundreds of billions on AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai",
+    "source": "Bloomberg",
+    "published": "2026-10-30T16:36:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
+    "summary": "Fed's Alberto Musalem said additional rate increases are needed soon to bring inflation back to the central bank's target.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
+    "source": "Bloomberg",
+    "published": "2026-10-30T16:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Binance’s $6.3 Billion Cyber Heist Shows Crypto Vulnerabilities",
+    "summary": "Binance suffered the industry's biggest-ever hack, with $6.3bn in funds affected and $3bn frozen. The exchange says it will cover all losses and expects withdrawals to resume by Sunday.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T16:23:47+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic's S1 | Google's AI Problem | The Rundown",
+    "summary": "Bloomberg Tech's rundown covers Anthropic's newly filed S-1 and a rough week for Google in AI. Based on the headline blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/anthropic-s-s1-google-s-ai-problem-the-rundown-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T16:14:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Economía de México supera expectativas: Crece 3.2% anual en tercer trimestre, el más alto en 3 años",
+    "summary": "La economía de México creció 0.9% trimestral en julio-septiembre, su tercer avance consecutivo, y 3.2% anual, el mayor ritmo en tres años según la estimación oportuna del Inegi. El resultado superó expectativas pese a la incertidumbre comercial con EU.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/10/30/economia-de-mexico-supera-expectativas-crece-32-anual-en-tercer-trimestre-el-mas-alto-en-3-anos/",
+    "source": "El Financiero",
+    "published": "2026-10-30T15:25:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El peso se debilita otra vez: el precio de dólar roza los MXN$19",
+    "summary": "El dólar roza los 19 pesos (18.92 en spot), con una depreciación diaria de 0.3%, ante la incertidumbre sobre el diferencial de tasas entre México y otras economías.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-se-debilita-otra-vez-el-precio-de-dolar-roza-los-mxn19/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T15:16:08+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Seis claves para entender por qué Intel se desploma casi 30% y Amazon cae tras sus resultados",
+    "summary": "Intel shares fell almost 30% and Amazon also dropped after quarterly results, as both face doubts over capturing AI growth. Bloomberg Línea gives six keys to understanding the moves.",
+    "link": "https://www.bloomberglinea.com/mercados/seis-claves-para-entender-por-que-intel-se-desploma-casi-30-y-amazon-cae-tras-sus-resultados/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T14:42:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Explicador: ¿Qué pasará con el dinero de los clientes tras el hackeo a Binance?",
+    "summary": "Binance suspendió retiros tras un ataque informático que sustrajo unos 6,300 millones de dólares el 29 de octubre. La empresa dice haber bloqueado una parte de los fondos; el explicador detalla qué pasará con el dinero de los clientes.",
+    "link": "https://www.eleconomista.com.mx/explicadores/impacto-clientes-hackeo-binance-explicado-20261030-841412.html",
+    "source": "El Economista",
+    "published": "2026-10-30T12:50:55-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Did Anthropic value itself at $1.2tn in August?",
+    "summary": "The FT questions whether Anthropic really valued itself at $1.2tn in August. Based on a one-line blurb only.",
+    "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
+    "source": "Financial Times",
+    "published": "2026-10-30T12:36:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Meta Investigated by UK Over Alleged Harm Caused in Commercial Small Print",
     "summary": "Meta faces a UK investigation over concerns that its commercial terms could impose 'exploitative' conditions on publishers and advertisers.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print",
@@ -44,6 +220,17 @@
     "light": false
   },
   {
+    "title": "Hackeo a Binance expone la vulnerabilidad financiera ante fallos internos y dependencias externas: Expertos",
+    "summary": "Según ISACA, el hackeo a Binance es una advertencia para todo el sistema financiero: por robusta que sea la tecnología blockchain, las vulnerabilidades pueden estar en fallos internos y dependencias externas.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/hackeo-binance-expone-vulnerabilidad-financiera-fallos-internos-dependencias-externas-expertos-20261030-841407.html",
+    "source": "El Economista",
+    "published": "2026-10-30T11:34:57-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "How North Korea became a hacking superpower",
     "summary": "Cut off by sanctions, North Korea has invested heavily in cyber warfare to fund itself. The FT examines how it became a hacking superpower, relevant to the Binance heist.",
     "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
@@ -66,6 +253,17 @@
     "light": false
   },
   {
+    "title": "¿Vas a comprar tu casa? Guía para reunir el dinero de tu enganche y no morir en el intento",
+    "summary": "El 55% de los mexicanos que rentan cree que nunca podrá comprar casa, por los altos precios y los ingresos requeridos para un crédito hipotecario. El artículo ofrece una guía para reunir el enganche.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/vas-comprar-casa-guia-reunir-dinero-enganche-morir-intento-20261030-841379.html",
+    "source": "El Economista",
+    "published": "2026-10-30T11:00:00-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain",
     "summary": "Deutsche Bank afirma que el dólar no debe darse por sentado como activo refugio durante una corrección de mercado impulsada por la IA. Plantea la idea de un 'dólar de la IA'.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain",
@@ -73,6 +271,17 @@
     "published": "2026-10-30T10:47:41+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nasdaq 100 Set to Enter Correction as Spending Fears Roil Market",
+    "summary": "The Nasdaq 100 is set to enter correction territory, down 10% from its Oct. 6 record. Worries about AI spending are colliding with disappointing core-business earnings at big tech.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
+    "source": "Bloomberg",
+    "published": "2026-10-30T10:30:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -5289,214 +5498,5 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "AI-powered personal assistants could reshape the digital economy",
-    "summary": "AI-powered personal assistants could reshape the digital economy, but first they must prove they are safe for users and helpful for businesses.",
-    "link": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
-    "source": "The Economist",
-    "published": "2026-10-20T19:55:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Personal AI assistants could soon reshape the digital economy",
-    "summary": "Los asistentes personales de IA podrían reconfigurar la economía digital, pero primero deben demostrar que son seguros para los usuarios y útiles para las empresas.",
-    "link": "https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy",
-    "source": "The Economist",
-    "published": "2026-10-20T19:55:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Piedra Bay House / DE SPACE",
-    "summary": "Casa Piedra Bay in Palmar de Ocoa, Dominican Republic, by DE SPACE, integrates an arid coastal landscape into the experience of living in the house.",
-    "link": "https://www.archdaily.com/1187041/piedra-bay-house-u-guide-space-design-atelier",
-    "source": "ArchDaily",
-    "published": "2026-10-20T19:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Four-Minute Transfers Upend How Money Moves",
-    "summary": "Western Union y MoneyGram adoptan tecnología cripto para defender su negocio y profundizar la relación con clientes, reduciendo el tiempo de transferencia de tres días a cuatro minutos.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/four-minute-transfers-upend-how-money-moves-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T18:41:56+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan Brings JPM Coin To Ether For Clients",
-    "summary": "JPMorgan lanzará su token de depósitos JPM Coin en la red Ethereum para clientes institucionales. El token representa depósitos en dólares del mayor banco de EU y amplía su apuesta por pagos en blockchain.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/jpmorgan-brings-jpm-coin-to-ether-for-clients-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T18:39:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The late Perry Mehrling explained the hierarchy of money",
-    "summary": "The Economist remembers Perry Mehrling, who explained the 'hierarchy of money' and how financial systems rely on layered credit and liquidity.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
-    "source": "The Economist",
-    "published": "2026-10-20T18:32:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Seeing Some AI-To-AI Crypto Commerce: Jardine",
-    "summary": "A Chainalysis study found AI agents are spending crypto autonomously, making more than 138 million transactions on Base, the leading blockchain for agentic commerce.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/seeing-some-ai-to-ai-crypto-commerce-jardine-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T18:08:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI's Next Frontier: The Agent Economy",
-    "summary": "Sequoia Capital's Konstantine Buhler explains at Citadel's Securities Conference why he is bullish on AI agents, job growth and long-term investing, arguing AI may be creating an entirely new economy.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/ai-s-next-frontier-the-agent-economy-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T17:35:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Fears Roar Back After Elice IPO Flop",
-    "summary": "Fears about the AI trade resurfaced after South Korean data center firm Elice plunged 32% in its market debut. Anthropic's talks with Nscale and Eric Schmidt's stake were also discussed.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/bloomberg-tech-10-20-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T17:21:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Eric Schmidt’s Early Anthropic Bet Set to Pay Huge Windfall",
-    "summary": "Eric Schmidt owns about 1% of Anthropic through an early investment, positioning him for one of the largest individual windfalls from its imminent public debut. His stake could be worth up to $20 billion if Anthropic hits a $2 trillion valuation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/eric-schmidt-s-early-anthropic-bet-to-pay-huge-windfall-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T17:20:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "NScale, Anthropic in Talks for $45B AI Computing Deal",
-    "summary": "Anthropic is in talks with Nscale on a computing deal worth up to $45 billion for a second facility at Nscale's Monarch data center campus in West Virginia. It would deliver 460 megawatts using Nvidia's Vera Rubin chips.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/nscale-anthropic-in-talks-for-45b-ai-computing-deal-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T17:14:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Prudential venderá filial en México y Brasil por 4 mil mdd",
-    "summary": "Prudential Financial acordó vender sus filiales en México y Brasil a Grupo CNP Assurances por 4,025 millones de dólares en efectivo. La operación forma parte de su plan de salir de mercados emergentes y reorientar recursos a oportunidades prioritarias en Estados Unidos.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/20/prudential-vendera-filial-en-mexico-y-brasil-por-4-mil-mdd/",
-    "source": "El Financiero",
-    "published": "2026-10-20T17:11:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "M38 House / Muda Prefab",
-    "summary": "La casa M38 es una vivienda prefabricada de 38 m² que busca industrializar la construcción sin estandarizar la arquitectura, con una primera unidad instalada como showroom.",
-    "link": "https://www.archdaily.com/1187218/m38-house-muda-prefab",
-    "source": "ArchDaily",
-    "published": "2026-10-20T17:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Citadel Securities’ Rubner Says AI Trade to Gain After Midterms",
-    "summary": "Citadel Securities' Scott Rubner says investors are poised to pile back into the AI trade next month once the US midterm elections have passed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/citadel-securities-rubner-says-ai-trade-to-gain-after-midterms",
-    "source": "Bloomberg",
-    "published": "2026-10-20T16:55:16+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El futuro de las finanzas exige un liderazgo entre generaciones",
-    "summary": "La IA está transformando las decisiones financieras y las organizaciones enfrentan presión por innovar. El autor plantea que el reto es integrar distintas generaciones en el liderazgo.",
-    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/10/20/el-futuro-de-las-finanzas-exige-un-liderazgo-entre-generaciones/",
-    "source": "El Financiero",
-    "published": "2026-10-20T16:24:34+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval",
-    "summary": "Top commodity brokerages are gearing up for compute futures, derivatives tied to the cost of renting AI computing power, ahead of regulatory approval.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/brokers-gear-up-for-compute-futures-ahead-of-regulatory-approval",
-    "source": "Bloomberg",
-    "published": "2026-10-20T16:10:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
-    "summary": "La Ley de Economía Digital debutará con promociones en gasolina y una cuenta bancaria fácil de abrir. El paquete apunta a incentivar el uso de pagos electrónicos y la inclusión financiera.",
-    "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
-    "source": "Expansión",
-    "published": "2026-10-20T15:51:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US pending home sales fall to record low as mortgage rates surge",
-    "summary": "US pending home sales fell 7.3% in September to a record low as mortgage rates surged. Rising borrowing costs are deepening the housing market slowdown.",
-    "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-20T15:47:56+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Están preparadas las empresas para transitar a la jornada laboral de 40 horas en México?",
-    "summary": "A menos de tres meses de iniciar la reducción gradual de la jornada laboral de 48 a 40 horas, las empresas en México aún no están preparadas para esta reconfiguración del tiempo y el desempeño.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/estan-preparadas-las-empresas-para-transitar-a-la-jornada-laboral-de-40-horas-en-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-20T15:37:32+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
