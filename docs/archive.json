@@ -1,5 +1,38 @@
 [
   {
+    "title": "AI Spending Fears Hammer Big Tech Stocks",
+    "summary": "Disappointing Big Tech earnings are intensifying investor concerns over whether massive AI spending will generate sufficient returns, according to Bloomberg's technology editor.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video",
+    "source": "Bloomberg",
+    "published": "2026-10-31T11:43:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+    "summary": "Crypto exchanges are tightening security, placing additional alerts and restrictions on fund movements, after the $6.3bn Binance heist.",
+    "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-31T10:38:18+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
+    "summary": "SoftBank-backed OPay, a Nigeria-focused payments platform, halted its NYSE IPO, which was due to start trading Friday, citing a regulatory inquiry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
+    "source": "Bloomberg",
+    "published": "2026-10-31T08:48:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
     "summary": "OpenAI CEO Sam Altman met Samsung's top executives in South Korea to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
@@ -40,6 +73,28 @@
     "published": "2026-10-31T04:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street despide octubre con números rojos; BMV gana 8.67% mensual",
+    "summary": "Wall Street cerró octubre en rojo tras una venta masiva liderada por tecnológicas, mientras que la BMV ganó 8.67% en el mes.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/30/bmv-wall-street-hoy-30-de-octubre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-10-31T01:41:16+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Conoces realmente a quienes diriges?",
+    "summary": "Columna de opinión sobre la importancia de que los líderes conozcan a cada integrante de su equipo y adapten su trato a cada uno, con una analogía de crianza.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/10/30/conoces-realmente-a-quienes-diriges/",
+    "source": "El Financiero",
+    "published": "2026-10-31T01:13:50+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -143,6 +198,17 @@
     "light": true
   },
   {
+    "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+    "summary": "LPL Financial CEO Rich Steinmeier discusses the firm's $2.7 billion Commonwealth acquisition and the evolving relationship between AI and financial advice.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T21:14:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Hacienda descarta volver a utilizar P-Caps para apoyar finanzas de Pemex",
     "summary": "El secretario de Hacienda, Édgar Amador, dijo que no se prevé volver a usar las Notas Precapitalizadas (P-Caps) para apoyar las finanzas de Pemex.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-descarta-volver-a-utilizar-p-caps-para-apoyar-finanzas-de-pemex/",
@@ -183,6 +249,17 @@
     "published": "2026-10-30T20:07:35-06:00",
     "category": "AI & Agents",
     "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nasdaq 100 roza la corrección tras desplome de Intel, hackeo a Binance golpea al bitcoin y el oro se hunde",
+    "summary": "Wall Street cerró con fuertes pérdidas ante una nueva ola de ventas de acciones tecnológicas que profundizó las dudas sobre la rentabilidad de las inversiones en IA. El bitcoin también retrocedió tras el hackeo a Binance.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-arrastrado-por-intel-y-amazon-mientras-el-bitcoin-retrocede-tras-hackeo-a-binance/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T20:05:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
@@ -504,6 +581,17 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+    "summary": "Wall Street expects Democrats to win at least one chamber in Tuesday's midterms, and traders are wary of volatility around AI oversight, defense spending and crypto policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
+    "source": "Bloomberg",
+    "published": "2026-10-30T11:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain",
@@ -5408,94 +5496,6 @@
     "published": "2026-10-21T10:28:01+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Boom Has Years to Run Before Risks Bite, Chiavarone Says",
-    "summary": "Federated Hermes' Steve Chiavarone says the AI boom may be a bubble but the infrastructure buildout still has years to run before risks bite.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ai-boom-has-years-to-run-before-bubble-risks-bite-cio-says",
-    "source": "Bloomberg",
-    "published": "2026-10-21T10:10:25+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Terminó la euforia por los triunfos de Milei y De la Espriella y ahora la deuda se hunde",
-    "summary": "Los bonos soberanos de Colombia y Argentina se hunden tras la euforia por los triunfos de Milei y De la Espriella, presionados por mayores tasas internacionales, dudas fiscales en Colombia y temor a un giro político en Argentina en 2027.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/se-acabo-la-euforia-por-los-triunfos-de-milei-y-de-la-espriella-y-ahora-la-deuda-se-hunde/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-21T10:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
-    "summary": "Musk's attempt to merge Tesla and SpaceX, a roughly $3.6tn deal, will require convincing shareholders and global regulators, says the FT.",
-    "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-21T09:50:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cuánto pueden subir las acciones de MercadoLibre, Galicia y Vista según Morgan Stanley",
-    "summary": "Morgan Stanley proyecta que MercadoLibre podría subir a US$2.450 en doce meses, más de 30% de potencial alcista, y también analiza a Galicia y Vista. MercadoLibre es un referente de fintech y comercio en LatAm.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cuanto-pueden-subir-las-acciones-de-mercadolibre-galicia-y-vista-segun-morgan-stanley/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-21T09:45:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "French Yields Hit 5%, Highest Since 2002, as Risk Gauge Climbs",
-    "summary": "The yield on benchmark French debt hit 5%, the highest since 2002, as rising energy prices heightened fiscal concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high",
-    "source": "Bloomberg",
-    "published": "2026-10-21T09:18:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "5 consejos para dar retroalimentación efectiva a tus colaboradores",
-    "summary": "Cinco consejos para dar retroalimentación constructiva a los colaboradores, según DDI, para identificar mejoras, cambiar conductas y fortalecer la relación con los jefes.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/5-consejos-dar-retroalimentacion-efectiva-tus-colaboradores-20261021-839627.html",
-    "source": "El Economista",
-    "published": "2026-10-21T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La economía mexicana “metió tercera”",
-    "summary": "El Indicador Oportuno de la Actividad Económica del Inegi sugiere que la economía mexicana aceleró en el verano, tras varios trimestres de estancamiento, según el columnista.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/21/la-economia-mexicana-metio-tercera/",
-    "source": "El Financiero",
-    "published": "2026-10-21T07:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BlackRock’s Fink Says Slow Data-Center Buildout Is Inflationary",
-    "summary": "Larry Fink advirtió que los retrasos en la construcción de centros de datos podrían encarecer el cómputo y frenar el crecimiento económico, mientras crece la demanda de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-s-fink-says-slow-data-center-buildout-is-inflationary",
-    "source": "Bloomberg",
-    "published": "2026-10-21T06:33:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
     "language": "en",
     "light": true
   }
