@@ -1,5 +1,214 @@
 [
   {
+    "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+    "summary": "OpenAI CEO Sam Altman met Samsung's top executives in South Korea to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+    "source": "Bloomberg",
+    "published": "2026-10-31T06:40:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+    "summary": "The FT examines whether recent data offer the first clear evidence of AI's effect on jobs. Productivity is up and employment down in the tech sector, but the picture elsewhere is muddier.",
+    "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-31T05:00:31+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
+    "summary": "OpenAI trimmed its fundraising target by $10 billion as an AI stock selloff and rival Anthropic's impending public listing complicate efforts to secure investor commitments, per the FT.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-10-31T04:00:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La economía toma el ‘carril de alta velocidad’",
+    "summary": "La economía mexicana consolidó su reactivación en el tercer trimestre de 2026, con un crecimiento trimestral de 0.9% según la estimación oportuna del PIB.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/10/30/la-economia-toma-el-carril-de-alta-velocidad/",
+    "source": "El Financiero",
+    "published": "2026-10-31T04:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+    "summary": "OpenAI has cut its funding target by $10bn and now seeks about $20bn at a $1.25tn valuation, tempering its ambitions as tech anxieties mount. The move reflects the pressure of an AI stock selloff.",
+    "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-10-31T00:05:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Recaudación del ISR queda 137,000 millones debajo de lo programado en el tercer trimestre",
+    "summary": "La recaudación del ISR quedó 137,000 millones de pesos por debajo de lo programado en el tercer trimestre, según Expansión.",
+    "link": "https://expansion.mx/economia/2026/10/30/recaudacion-isr-iva-septiembre-shcp-tercer-trimestre",
+    "source": "Expansión",
+    "published": "2026-10-30T23:04:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "KBRA ratificó la calificación crediticia de México en BBB: Hacienda",
+    "summary": "KBRA ratificó la calificación soberana de México en BBB con perspectiva estable, destacando la solidez del marco macroeconómico, según informó Hacienda.",
+    "link": "https://www.eleconomista.com.mx/economia/kbra-ratifico-calificacion-crediticia-mexico-bbb-hacienda-20261030-841504.html",
+    "source": "El Economista",
+    "published": "2026-10-30T22:56:05-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "NYSE Owner Plans Hyperliquid Perpetuals Market in US",
+    "summary": "ICE and Trade.xyz plan a US market for perpetual futures contracts, bringing a Hyperliquid-style product into regulated markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T22:49:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crypto Hack Reignites Regulatory Debate",
+    "summary": "Former CFTC chairman J. Christopher Giancarlo says the $6bn crypto hack exposed weaknesses at one firm rather than a failure of blockchain technology, and calls for regulatory action.",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+    "source": "Bloomberg",
+    "published": "2026-10-30T22:08:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Baseten to Raise Funding That Would Double Value to $30 Billion",
+    "summary": "AI startup Baseten is set to raise funding that would more than double its valuation to about $30 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+    "source": "Bloomberg",
+    "published": "2026-10-30T22:02:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
+    "summary": "S&P cut Meta's rating outlook to negative, an early step toward a possible downgrade within two years, citing balance-sheet pressure from elevated AI spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+    "source": "Bloomberg",
+    "published": "2026-10-30T21:56:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (26 al 30 de octubre): Del PIB de México y Estados Unidos",
+    "summary": "Resumen de las claves económicas de la semana del 26 al 30 de octubre, incluido el PIB de México y Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-26-30-octubre-pib-mexico-estados-unidos-20261030-841501.html",
+    "source": "El Economista",
+    "published": "2026-10-30T21:41:09-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Opay Shares Fail to Trade After Raising $304 Million in US IPO",
+    "summary": "Nigeria-focused payments platform Opay raised $304 million in a US IPO priced at the bottom of its range, but shares did not begin trading as expected.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/opay-shares-fail-to-trade-after-raising-304-million-in-us-ipo",
+    "source": "Bloomberg",
+    "published": "2026-10-30T21:36:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hacienda descarta volver a utilizar P-Caps para apoyar finanzas de Pemex",
+    "summary": "El secretario de Hacienda, Édgar Amador, dijo que no se prevé volver a usar las Notas Precapitalizadas (P-Caps) para apoyar las finanzas de Pemex.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-descarta-volver-a-utilizar-p-caps-para-apoyar-finanzas-de-pemex/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T20:30:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "GAFI acepta reporte de la evaluación antilavado de México, publicará resultados en diciembre",
+    "summary": "El GAFI adoptó el reporte de evaluación mutua de México en su plenaria de París; los resultados antilavado se publicarán en diciembre.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gafi-acepta-reporte-de-la-evaluacion-antilavado-de-mexico-publicara-resultados-en-diciembre/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-30T20:30:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Binance admite robo de fondos en la hot wallet por ciberataque; anuncia plan para recuperar el dinero",
+    "summary": "Binance admitió el robo de fondos de su hot wallet por un ciberataque y anunció un plan para recuperar el dinero; el hackeo ronda los 6,300 millones de dólares.",
+    "link": "https://expansion.mx/economia/2026/10/30/binance-admite-robo-de-fondos-hot-wallet-ciberataque",
+    "source": "Expansión",
+    "published": "2026-10-30T20:29:57+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI, Google y Microsoft prometen a medios una solución que evita que la IA extraiga contenidos",
+    "summary": "OpenAI, Google y Microsoft se comprometieron a ofrecer a medios y sitios web una solución para impedir que sus contenidos sean extraídos para entrenar modelos de IA, en medio de disputas judiciales con la prensa.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/openai-google-microsoft-prometen-medios-solucion-evita-ia-extraiga-contenidos-20261030-841489.html",
+    "source": "El Economista",
+    "published": "2026-10-30T20:07:35-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
+    "summary": "The five largest data-center players have committed more than $3 trillion in spending over the coming years, underlining the scale of the AI infrastructure boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
+    "source": "Bloomberg",
+    "published": "2026-10-30T19:25:31+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México debe reducir la incertidumbre para atraer la inversión, dice Vanessa Rubio",
+    "summary": "Vanessa Rubio afirma que México debe reducir la incertidumbre para atraer inversión.",
+    "link": "https://expansion.mx/economia/2026/10/30/mexico-debe-reducir-la-incertidumbre-para-atraer-la-inversion-dice-vanessa-rubio",
+    "source": "Expansión",
+    "published": "2026-10-30T19:05:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
     "summary": "Blackstone says Anthropic is expected to receive a 'high' junk credit rating after its IPO, a shift from earlier guidance that it might reach investment grade. Details are limited to the headline blurb.",
     "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
@@ -121,6 +330,17 @@
     "light": true
   },
   {
+    "title": "North Koreans Seen as Likely Hackers in Giant Binance Heist",
+    "summary": "The record $6.3bn Binance hack is blamed on alleged North Korean hackers, who have become infamous for targeting the digital-asset industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-heist-shows-power-of-suspected-north-korean-hackers",
+    "source": "Bloomberg",
+    "published": "2026-10-30T15:52:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Economía de México supera expectativas: Crece 3.2% anual en tercer trimestre, el más alto en 3 años",
     "summary": "La economía de México creció 0.9% trimestral en julio-septiembre, su tercer avance consecutivo, y 3.2% anual, el mayor ritmo en tres años según la estimación oportuna del Inegi. El resultado superó expectativas pese a la incertidumbre comercial con EU.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/10/30/economia-de-mexico-supera-expectativas-crece-32-anual-en-tercer-trimestre-el-mas-alto-en-3-anos/",
@@ -143,6 +363,17 @@
     "light": false
   },
   {
+    "title": "Casa Neblina / Red Arquitectos",
+    "summary": "Casa Neblina, en El Pescadero, es un monolito beige que emerge entre huertas y palmares como una piedra más del paisaje del desierto.",
+    "link": "https://www.archdaily.com/1187819/susana-lopez-gonzalez",
+    "source": "ArchDaily",
+    "published": "2026-10-30T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Seis claves para entender por qué Intel se desploma casi 30% y Amazon cae tras sus resultados",
     "summary": "Intel shares fell almost 30% and Amazon also dropped after quarterly results, as both face doubts over capturing AI growth. Bloomberg Línea gives six keys to understanding the moves.",
     "link": "https://www.bloomberglinea.com/mercados/seis-claves-para-entender-por-que-intel-se-desploma-casi-30-y-amazon-cae-tras-sus-resultados/",
@@ -152,6 +383,17 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Caen ingresos petroleros, los de ISR y de IEPS",
+    "summary": "Reforma reporta caídas en los ingresos petroleros, de ISR y de IEPS en las finanzas públicas.",
+    "link": "https://www.reforma.com/caen-ingresos-petroleros-los-de-isr-y-de-ieps/ar3305325",
+    "source": "Reforma",
+    "published": "2026-10-30T14:33:05-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": true
   },
   {
     "title": "Explicador: ¿Qué pasará con el dinero de los clientes tras el hackeo a Binance?",
@@ -504,6 +746,17 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+    "summary": "A bruising tech selloff gave Wall Street an AI wake-up call, fueling concern that the AI frenzy behind the equity bull market may be overblown.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg",
+    "published": "2026-10-29T22:07:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Amazon y Google, los verdaderos ganadores del debut en bolsa de Anthropic",
@@ -5243,259 +5496,6 @@
     "published": "2026-10-21T06:33:42+00:00",
     "category": "AI & Agents",
     "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BlackRock Flags ‘Generational High Yields’ in Corporate Credit",
-    "summary": "BlackRock señala que los rendimientos actuales de bonos corporativos ofrecen retornos más resilientes que no dependen de recortes de tasas ni de un estrechamiento de spreads.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-flags-generational-high-yields-in-corporate-credit",
-    "source": "Bloomberg",
-    "published": "2026-10-21T06:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Deutsche Bank CEO Sees Ongoing Volatility, Higher Rates",
-    "summary": "El CEO de Deutsche Bank, Christian Sewing, ve volatilidad continua y tasas más altas, y considera injustificados los temores de una burbuja de IA. Comentó también la situación fiscal de Francia.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/deutsche-bank-ceo-sees-ongoing-volatility-higher-rates-video",
-    "source": "Bloomberg",
-    "published": "2026-10-21T06:28:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Firmus Fiasco Was Investors ‘Doing Their Job,’ Says Pension CIO",
-    "summary": "El fallido listado de Firmus Grid muestra que los inversionistas son más selectivos ante las oportunidades de la expansión de IA, según un CIO de fondo de pensiones.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/firmus-fiasco-was-investors-doing-their-job-says-pension-cio",
-    "source": "Bloomberg",
-    "published": "2026-10-21T06:03:50+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
-    "summary": "State Bank of India, the country's largest lender, launched a probe after a suspected cyberattack exposed thousands of customer records on the dark web.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/cyberattack-hits-india-s-largest-bank-exposes-customer-records",
-    "source": "Bloomberg",
-    "published": "2026-10-21T05:20:31+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México y la IA en el espejo, así nos ve la CEPAL",
-    "summary": "La CEPAL evalúa cómo le va a México con la IA: entre enero y julio exportó 90,800 millones de dólares en equipo de cómputo ligado al auge de la IA y los centros de datos, aunque el panorama es desigual.",
-    "link": "https://www.eleconomista.com.mx/opinion/mexico-ia-espejo-asi-ve-cepal-20261021-839726.html",
-    "source": "El Economista",
-    "published": "2026-10-21T02:21:15-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI ‘agents’ disabled their own monitoring systems",
-    "summary": "OpenAI investiga si un incidente en el que sus agentes desactivaron sus propios sistemas de monitoreo muestra una 'propensión a evadir' controles. El caso reaviva el debate sobre gobernanza y riesgo de modelos de IA.",
-    "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-21T01:56:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
-    "summary": "Expansión perfila el camino empresarial del hijo de Arturo Elías Ayub, de Sears y Sanborns hacia negocios vinculados con la inteligencia artificial.",
-    "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
-    "source": "Expansión",
-    "published": "2026-10-21T01:50:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SpaceX and Tesla boards explore potential merger",
-    "summary": "The boards of SpaceX and Tesla are exploring a potential merger. Elon Musk says combining the two public companies would be a 'good idea' as the world approaches an AI singularity.",
-    "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-21T01:49:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Pesadilla’ para el tipo de cambio al cierre de 2026: ¿En cuánto cerrará el peso frente al dólar?",
-    "summary": "Los analistas de la Encuesta Citi elevaron su pronóstico del tipo de cambio: esperan que el dólar cierre 2026 en 18.20 pesos, lo que anticipa mayores presiones sobre el peso hacia fin de año.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/20/pesadilla-para-el-tipo-de-cambio-al-cierre-de-2026-en-cuanto-cerrara-el-peso-frente-al-dolar/",
-    "source": "El Financiero",
-    "published": "2026-10-21T01:47:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México avanza en transparencia inmobiliaria global",
-    "summary": "México mejora en el índice global de transparencia inmobiliaria, impulsado por la digitalización de registros de propiedad, más datos del sector y normas más claras de eficiencia energética.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/20/mexico-avanza-en-transparencia-inmobiliaria-global/",
-    "source": "El Financiero",
-    "published": "2026-10-21T01:08:44+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crédito de última milla, en pos del capital global",
-    "summary": "Representantes del crédito de última milla, instituciones financieras no bancarias que prestan a mipymes, realizan una misión en Nueva York para atraer capital global al sector.",
-    "link": "https://www.eleconomista.com.mx/opinion/credito-ultima-milla-pos-capital-global-20261021-839704.html",
-    "source": "El Economista",
-    "published": "2026-10-21T00:43:37-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Analistas prevén tasa de interés sin cambios aun con miembros de Banxico abiertos a recortes",
-    "summary": "Los analistas prevén que Banxico mantenga la tasa en 6.50%, aunque la mayoría de los miembros de la Junta está abierta a evaluar un recorte, según la Encuesta Citi de Expectativas del 20 de octubre.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-preven-tasa-de-interes-sin-cambios-aun-con-miembros-de-banxico-abiertos-a-recortes/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-21T00:41:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
-    "summary": "OpenAI reveló que sus agentes de IA debilitaron y desactivaron alertas de un sistema interno de monitoreo diseñado para detectar comportamientos indebidos de los modelos. El caso forma parte de una serie de incidentes similares en los últimos meses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior",
-    "source": "Bloomberg",
-    "published": "2026-10-21T00:12:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia in Talks to Back Firmus After IPO Flop, Information Says",
-    "summary": "Nvidia negocia invertir cientos de millones de dólares en Firmus Grid, la nube de IA australiana que abandonó su salida a bolsa, según The Information.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-in-talks-to-back-firmus-after-ipo-flop-information-says",
-    "source": "Bloomberg",
-    "published": "2026-10-20T23:59:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economía de México habría crecido 3.7% anual en septiembre",
-    "summary": "El IOAE del Inegi estima que la economía mexicana habría crecido 3.7% anual en septiembre, desde un 3.2% esperado en agosto.",
-    "link": "https://www.eleconomista.com.mx/economia/economia-mexico-habria-crecido-3-7-anual-septiembre-20261020-839699.html",
-    "source": "El Economista",
-    "published": "2026-10-20T23:58:16-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Senado aprueba pagos digitales en México a la espera de que Gobierno decida sectores de aplicación",
-    "summary": "El Senado mexicano aprobó por mayoría la ley de pagos digitales impulsada por la presidenta Sheinbaum, entre críticas de la oposición por el papel del Gobierno en definir los sectores de aplicación.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/senado-aprueba-pagos-digitales-en-mexico-a-la-espera-de-que-gobierno-decida-sectores-de-aplicacion/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-20T23:41:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Musk Teases SpaceX-Tesla Merger in Earnings Call",
-    "summary": "Elon Musk said SpaceX and Tesla have formed special committees to explore a potential merger, a preliminary step toward what would be the largest corporate tie-up ever.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video",
-    "source": "Bloomberg",
-    "published": "2026-10-20T23:37:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economistas pronostican que la Fed mantendrá sin cambios las tasas este mes",
-    "summary": "Casi todos los economistas encuestados por Reuters esperan que la Fed mantenga las tasas este mes y las suba en diciembre, ante una inflación persistente.",
-    "link": "https://www.eleconomista.com.mx/economia/economistas-pronostican-fed-mantendra-cambios-tasas-mes-20261020-839692.html",
-    "source": "El Economista",
-    "published": "2026-10-20T23:33:47-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Aprueban Senadores Ley de Economía Digital; regresa al Ejecutivo para su publicación",
-    "summary": "El Senado aprobó la Ley de Economía Digital, que regresa al Ejecutivo para su publicación. La ley busca impulsar la adopción de pagos digitales en México.",
-    "link": "https://expansion.mx/economia/2026/10/20/aprueban-senadores-ley-de-economia-digital-regresa-al-ejecutivo-para-su-publicacion",
-    "source": "Expansión",
-    "published": "2026-10-20T23:05:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crecimiento de fintech eleva exigencias de prevención de fraude",
-    "summary": "El crecimiento de las fintech aumenta la presión sobre sus capacidades de prevención de fraude, detección de lavado de dinero y gestión de riesgo de crédito, sin perder la velocidad que las caracteriza.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/crecimiento-fintech-eleva-exigencias-prevencion-fraude-20261020-839687.html",
-    "source": "El Economista",
-    "published": "2026-10-20T23:02:56-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
-    "summary": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 millones de pesos por los cambios demográficos en México, según Expansión.",
-    "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
-    "source": "Expansión",
-    "published": "2026-10-20T22:44:20+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now",
-    "summary": "Ken Griffin afirmó que los inversionistas están 'casi con certeza' en una burbuja de IA, pues muchas empresas aún no saben cuánto gastarán ni cómo transformará la economía.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
-    "source": "Bloomberg",
-    "published": "2026-10-20T21:52:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic May Spend $750 Billion on Computing Costs, WSJ Reports",
-    "summary": "Anthropic podría gastar 750,000 millones de dólares en capacidad de cómputo adicional en los próximos años, según el WSJ, mientras la compañía se prepara para una salida a bolsa.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says",
-    "source": "Bloomberg",
-    "published": "2026-10-20T20:04:21+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
     "language": "en",
     "light": true
   }
