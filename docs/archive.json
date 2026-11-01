@@ -1,5 +1,60 @@
 [
   {
+    "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
+    "summary": "Stocks got a long-awaited jolt of volatility after disappointing earnings from tech giants fed angst around the AI-driven rally. Wall Street is bracing for more wild trading days.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
+    "source": "Bloomberg",
+    "published": "2026-11-01T15:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
+    "summary": "A rout in junk debt has sparked a 'bloodbath' for credit investors, with aggressive tactics to shift assets beyond the reach of creditors adding fuel to the sell-off.",
+    "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-01T14:54:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Talent War Spreads to Wall Street",
+    "summary": "Las firmas de trading cuantitativo compiten con los laboratorios de IA por científicos e investigadores de élite, con compensaciones de primer año de hasta 800,000 dólares para algunos doctores. Usan becas, patrocinios universitarios y eventos de reclutamiento.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-01/ai-talent-war-spreads-to-wall-street-video",
+    "source": "Bloomberg",
+    "published": "2026-11-01T14:26:56+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech Selloff Could Ease Pressure on the Fed",
+    "summary": "A BMO economist says heavy AI investment has helped push interest rates and inflation pressures higher, and that a cooling in the sector could ease the Fed's job. She sees the US economy as robust but notes softer consumer spending and wage growth.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-01/tech-selloff-could-ease-pressure-on-the-fed-video",
+    "source": "Bloomberg",
+    "published": "2026-11-01T13:33:21+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The $40 Trillion Problem Washington Won’t Talk About",
+    "summary": "US national debt has passed $40 trillion, and persistent deficits are pushing up long-term rates. Economists argue heavier government borrowing ultimately filters through to households via higher mortgage, auto and other financing costs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-01/the-40-trillion-problem-washington-won-t-talk-about-video",
+    "source": "Bloomberg",
+    "published": "2026-11-01T13:03:57+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
     "summary": "Australian home prices fell for a seventh straight month and are on track for the biggest decline in 40 years. The Reserve Bank is expected to raise borrowing costs again this week.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
@@ -9,6 +64,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Anthropic explica a los inversores los ‘riesgos catastróficos’ a los que nos expone la carrera por la IA",
+    "summary": "Anthropic, desarrolladora de Claude, presentó su folleto de emisión y se espera que salga a bolsa en noviembre con una valoración de hasta 2 billones de dólares. Sería la mayor OPI de la historia, por encima de la de SpaceX. El prospecto detalla ante inversores los 'riesgos catastróficos' de la carrera por la IA.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-explica-inversores-riesgos-catastroficos-expone-carrera-ia-20261101-841560.html",
+    "source": "El Economista",
+    "published": "2026-11-01T13:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Deuda de la IA enciende una alerta en el BIS por sus posibles efectos en otros mercados de bonos",
@@ -29,6 +95,17 @@
     "published": "2026-11-01T05:00:18+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+    "summary": "Big fund managers are pressing 'pause' on bond positions as the US midterm vote and key economic data releases loom.",
+    "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-01T05:00:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -295,6 +372,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El T-MEC puede perder prioridad para Trump tras las elecciones, prevé Daniel Watson",
+    "summary": "Daniel Watson prevé que el T-MEC puede perder prioridad para Trump tras las elecciones de medio término en EU, con implicaciones para la inversión y el nearshoring en México.",
+    "link": "https://expansion.mx/economia/2026/10/30/tmec-trump-elecciones-perder-prioridad-daniel-watson",
+    "source": "Expansión",
+    "published": "2026-10-30T22:37:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Crypto Hack Reignites Regulatory Debate",
@@ -5408,94 +5496,6 @@
     "published": "2026-10-21T16:06:29+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inflation Pressures Tell us There is Speed Limit to AI Buildout, Says Coronado",
-    "summary": "Economist Julia Coronado says inflation pressures show there is a speed limit to the AI buildout, with the trajectory of AI investment a wild card for US interest rates and stock valuations.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/inflation-pressures-show-speed-limit-to-ai-buildout-video",
-    "source": "Bloomberg",
-    "published": "2026-10-21T15:34:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fernando Chico Pardo quiere llevar a Banamex al nivel de BBVA y sus hijos podrían concretar el plan",
-    "summary": "Fernando Chico Pardo busca llevar a Banamex al nivel de BBVA, y sus hijos podrían concretar el plan. Expansión plantea el reto competitivo para el banco en el mercado mexicano; el texto completo no estuvo disponible en el feed.",
-    "link": "https://expansion.mx/economia/2026/10/21/fernando-chico-pardo-quiere-llevar-banamex-al-nivel-de-bbva",
-    "source": "Expansión",
-    "published": "2026-10-21T15:28:26+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano rompe los 18.60 por dólar ante tropiezo del T-MEC; Wall Street avanza por la IA",
-    "summary": "El peso mexicano rompió los 18.60 por dólar por el tropiezo en las negociaciones del T-MEC, mientras Wall Street avanza impulsado por la inteligencia artificial.",
-    "link": "https://expansion.mx/mercados/2026/10/21/peso-rompe-los-18-60-por-dolar-tropiezo-t-mec",
-    "source": "Expansión",
-    "published": "2026-10-21T15:27:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A OpenAI no le importa la competencia: utilizará la nube de Google para sus modelos a pesar de contratos con Microsoft",
-    "summary": "OpenAI utilizará la nube de Google para sus modelos pese a sus contratos con otros proveedores, según Expansión. El movimiento muestra que la compañía prioriza capacidad de cómputo sobre la rivalidad entre gigantes tecnológicos.",
-    "link": "https://expansion.mx/tecnologia/2026/10/21/openai-utilizara-la-nube-de-google",
-    "source": "Expansión",
-    "published": "2026-10-21T15:21:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ken Griffin’s NYC Tower Gets $3.3 Billion Construction Loan",
-    "summary": "Ken Griffin, Vornado Realty Trust and Rudin secured a $3.3 billion construction loan for a new Park Avenue office tower in Manhattan, a project clouded earlier this year by tensions with NYC Mayor Zohran Mamdani.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan",
-    "source": "Bloomberg",
-    "published": "2026-10-21T13:55:09+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "France’s borrowing costs hit 5% for first time since 2002",
-    "summary": "French 10-year borrowing costs hit 5% for the first time since 2002, up from 3.2% in late February, on concerns over public finances and political stability.",
-    "link": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-21T12:51:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Comprar casa exige ingresos de $83,000 al mes",
-    "summary": "Comprar una casa en México exige hoy ingresos de unos $83,000 pesos mensuales, según El Economista. El dato refleja la presión sobre la accesibilidad de la vivienda y el financiamiento hipotecario.",
-    "link": "https://www.eleconomista.com.mx/videos/comprar-casa-exige-ingresos-83-000-mes-20261021-839776.html",
-    "source": "El Economista",
-    "published": "2026-10-21T12:30:22-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Urges Fix for Widely Used Software After Critical Alerts",
-    "summary": "The US government is working to address potential cybersecurity issues from flaws in PHP, a widely used open-source language, after critical alerts that may affect federal agencies and critical infrastructure, per a White House official.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/governments-take-websites-offline-after-php-security-warnings",
-    "source": "Bloomberg",
-    "published": "2026-10-21T12:07:53+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
