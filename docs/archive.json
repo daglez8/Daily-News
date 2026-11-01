@@ -1,5 +1,27 @@
 [
   {
+    "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
+    "summary": "Australian home prices fell for a seventh straight month and are on track for the biggest decline in 40 years. The Reserve Bank is expected to raise borrowing costs again this week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
+    "source": "Bloomberg",
+    "published": "2026-11-01T13:01:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Deuda de la IA enciende una alerta en el BIS por sus posibles efectos en otros mercados de bonos",
+    "summary": "El BIS advirtió que el creciente financiamiento de la infraestructura de IA mediante deuda podría elevar los riesgos para la estabilidad financiera. También podría presionar los rendimientos de los bonos de largo plazo.",
+    "link": "https://www.bloomberglinea.com/mercados/deuda-de-la-ia-enciende-una-alerta-en-el-bis-por-sus-posibles-efectos-en-otros-mercados-de-bonos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-01T11:00:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
     "summary": "Xantium, un fondo cuantitativo, se separará de la firma controlada por Paul Tudor Jones II el próximo año en un lanzamiento récord de 9,000 millones de dólares, según el FT.",
     "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
@@ -31,6 +53,17 @@
     "relevance_score": 60,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+    "summary": "The FBI said North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a hacking attack on Binance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+    "source": "Bloomberg",
+    "published": "2026-10-31T21:59:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "FBI acusa a Corea del Norte de robar más de 6,000 millones de dólares en criptomonedas a Binance",
@@ -218,6 +251,17 @@
     "relevance_score": 90,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "María Fernanda Suárez asume como presidente de Banco de Bogotá tras renuncia de Echeverry",
+    "summary": "La Junta Directiva de Banco de Bogotá aceptó la renuncia de Juan Carlos Echeverry, cinco meses después de su llegada, y designó a María Fernanda Suárez Londoño como presidente.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/maria-fernanda-suarez-asume-como-presidente-de-banco-de-bogota-tras-renuncia-de-echeverry/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-31T00:00:16+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Recaudación del ISR queda 137,000 millones debajo de lo programado en el tercer trimestre",
@@ -5454,49 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "¿Por qué HR Ratings recortó la calificación?",
-    "summary": "HR Ratings recortó la calificación soberana de largo plazo de México de BBB+ a BBB, aún dos niveles sobre grado de inversión y con perspectiva estable. La columna explica las razones de la decisión.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/10/21/por-que-hr-ratings-recorto-la-calificacion/",
-    "source": "El Financiero",
-    "published": "2026-10-21T12:06:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Huang Says All Industries Across Europe Need to Adopt AI",
-    "summary": "Nvidia CEO Jensen Huang urged Europe at GTC Berlin to adopt AI faster, saying all end industries must adopt it for Europe to benefit and build an AI economy.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-10-21T12:03:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Excelencia operativa lleva a Afore XXI Banorte a gestionar 9.4 millones de cuentas adicionales del SAR",
-    "summary": "La Consar designó a XXI Banorte como nueva Prestadora de Servicios del SAR tras ganar la licitación de 2026, por su capacidad operativa, solvencia y alcance tecnológico. Gestionará 9.4 millones de cuentas adicionales.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/10/21/excelencia-operativa-lleva-a-afore-xxi-banorte-a-gestionar-94-millones-de-cuentas-adicionales-del-sar/",
-    "source": "El Financiero",
-    "published": "2026-10-21T12:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cómo convertirte en chief curiosity officer en la era del prompt",
-    "summary": "Expansión explora cómo convertirse en 'chief curiosity officer' en la era del prompt, un enfoque de liderazgo ante la adopción de IA. El texto completo no estuvo disponible en el feed.",
-    "link": "https://expansion.mx/opinion/2026/10/21/como-convertirte-en-chief-curiosity-officer-en-la-era-del-prompt",
-    "source": "Expansión",
-    "published": "2026-10-21T11:58:11+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
