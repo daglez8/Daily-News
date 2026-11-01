@@ -1,5 +1,49 @@
 [
   {
+    "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
+    "summary": "Xantium, un fondo cuantitativo, se separará de la firma controlada por Paul Tudor Jones II el próximo año en un lanzamiento récord de 9,000 millones de dólares, según el FT.",
+    "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-01T05:00:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+    "summary": "DeepSeek has released a prototype of a more autonomous coding agent, aimed at challenging Anthropic's popular Claude Code. The move signals intensifying competition in AI coding agents.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+    "source": "Bloomberg",
+    "published": "2026-11-01T03:48:18+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bancos públicos sostienen crédito en Brasil en medio de un endeudamiento récord, según Goldman",
+    "summary": "Según Goldman Sachs, los bancos públicos y las líneas de crédito del gobierno sostendrán el crédito en Brasil pese a tasas altas, morosidad creciente y un endeudamiento récord de las familias.",
+    "link": "https://www.bloomberglinea.com/mercados/bancos-publicos-sostienen-credito-en-brasil-en-medio-de-un-endeudamiento-record-segun-goldman/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-01T02:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "FBI acusa a Corea del Norte de robar más de 6,000 millones de dólares en criptomonedas a Binance",
+    "summary": "El FBI acusó a Corea del Norte del robo de más de 6,000 millones de dólares en criptoactivos de Binance, el mayor robo de este tipo jamás denunciado. La plataforma dijo haber sido blanco de un ciberataque complejo.",
+    "link": "https://www.eleconomista.com.mx/internacionales/fbi-acusa-corea-norte-robar-6-000-millones-dolares-criptomonedas-binance-20261031-841547.html",
+    "source": "El Economista",
+    "published": "2026-10-31T18:49:26-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "CFE busca mil millones de dólares entre inversionistas: ¿A qué destinará ese dinero?",
     "summary": "La CFE busca recaudar unos mil millones de dólares el próximo mes mediante un vehículo de inversión para financiar nuevas líneas de transmisión, mientras Sheinbaum intenta atraer capital privado al sector.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/10/31/cfe-busca-mil-millones-de-dolares-entre-inversionistas-a-que-destinara-ese-dinero/",
@@ -86,6 +130,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Solo tres monedas de América Latina superaron al dólar en octubre: cuáles ganaron y perdieron",
+    "summary": "Solo tres monedas latinoamericanas superaron al dólar en octubre: el peso colombiano lideró las ganancias, mientras el real brasileño y el peso mexicano registraron las mayores pérdidas, en un mes marcado por decisiones de la Fed.",
+    "link": "https://www.bloomberglinea.com/mercados/solo-tres-monedas-de-america-latina-superaron-al-dolar-en-octubre-cuales-ganaron-y-perdieron/",
+    "source": "Bloomberg Línea",
+    "published": "2026-10-31T08:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
@@ -297,6 +352,17 @@
     "light": false
   },
   {
+    "title": "El hackeo a Binance por 6,300 mdd apunta a atacantes de Corea del Norte",
+    "summary": "Expansión reporta que el hackeo a Binance por 6,300 millones de dólares apunta a atacantes de Corea del Norte. El caso subraya los riesgos de ciberseguridad en plataformas financieras.",
+    "link": "https://expansion.mx/tecnologia/2026/10/30/hackeo-a-binance-apunta-a-atacantes-de-corea-del-norte",
+    "source": "Expansión",
+    "published": "2026-10-30T20:22:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI, Google y Microsoft prometen a medios una solución que evita que la IA extraiga contenidos",
     "summary": "OpenAI, Google y Microsoft se comprometieron a ofrecer a medios y sitios web una solución para impedir que sus contenidos sean extraídos para entrenar modelos de IA, en medio de disputas judiciales con la prensa.",
     "link": "https://www.eleconomista.com.mx/tecnologia/openai-google-microsoft-prometen-medios-solucion-evita-ia-extraiga-contenidos-20261030-841489.html",
@@ -338,6 +404,17 @@
     "category": "Financial Services Mexico",
     "relevance_score": 64,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Rancho del Abuelo / Mendiola Arregui",
+    "summary": "Rancho del Abuelo es un complejo ecuestre en las afueras de Guadalajara, Jalisco, que combina espacios para el cuidado de caballos con áreas de descanso y contemplación en diálogo con el paisaje.",
+    "link": "https://www.archdaily.com/1187853/rancho-del-abuelo-mendiola-arregui",
+    "source": "ArchDaily",
+    "published": "2026-10-30T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -5419,83 +5496,6 @@
     "published": "2026-10-21T11:58:11+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La compra de AT&T por Televisa abre una nueva oportunidad para que Slim lleve a Telmex a la televisión de paga",
-    "summary": "Expansión analiza cómo la compra de AT&T por parte de Televisa abre una oportunidad para que Carlos Slim lleve a Telmex a la televisión de paga. El texto completo no estuvo disponible en el feed.",
-    "link": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
-    "source": "Expansión",
-    "published": "2026-10-21T11:55:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México ya fabrica los servidores de la inteligencia artificial: ¿por qué no construye su propia industria de IA?",
-    "summary": "México se ha vuelto plataforma de producción de los servidores y equipos que hacen posible la inteligencia artificial. El columnista pregunta por qué el país no construye su propia industria de IA.",
-    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/10/21/mexico-ya-fabrica-los-servidores-de-la-inteligencia-artificial-por-que-no-construye-su-propia-industria-de-ia/",
-    "source": "El Financiero",
-    "published": "2026-10-21T11:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kallum Pickering Warns of AI Boom Bust Risks",
-    "summary": "Kallum Pickering of Peel Hunt warns that high rates and heavy AI investment concentrate capital and raise boom-bust risks. He also discusses Fed policy, US debt and inflation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/kallum-pickering-warns-of-ai-boom-bust-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-10-21T11:24:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pagos digitales: el reto está en la letra chiquita",
-    "summary": "Tras el aval a la Ley de Economía Digital para Pagos Digitales y Electrónicos, el columnista advierte que el reto está en los detalles de la reglamentación. El sector financiero tendrá un papel importante en su implementación.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/21/pagos-digitales-el-reto-esta-en-la-letra-chiquita/",
-    "source": "El Financiero",
-    "published": "2026-10-21T11:18:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Europa busca frenar la falsificación de euros con IA y reforzar la seguridad del euro digital",
-    "summary": "El Parlamento Europeo pidió más fondos contra la falsificación de euros y nuevas medidas ante amenazas como el uso de IA para fabricar dinero falso y el riesgo de fraude ligado al futuro euro digital.",
-    "link": "https://www.eleconomista.com.mx/internacionales/europa-busca-frenar-falsificacion-euros-ia-reforzar-seguridad-euro-digital-20261021-839769.html",
-    "source": "El Economista",
-    "published": "2026-10-21T11:07:32-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Impuestos por criptomonedas en México: cuándo y cuánto pagas",
-    "summary": "Alrededor del 2.1% de los mexicanos ha comprado criptomonedas según la ENIF 2024 y Bitso, y su uso abre la puerta a obligaciones fiscales. El Economista explica cuándo y cuánto se paga de impuestos.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/impuestos-criptomonedas-mexico-cuanto-pagas-20261021-839657.html",
-    "source": "El Economista",
-    "published": "2026-10-21T11:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic y editoriales musicales expondrán argumentos clave en caso sobre entrenamiento de IA",
-    "summary": "Anthropic y editoriales musicales, entre ellas Universal Music Group, presentan argumentos ante la jueza Eumi Lee en una demanda por usar letras de canciones para entrenar a Claude. El caso es clave para el entrenamiento de IA y los derechos de autor.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-editoriales-musicales-expondran-argumentos-clave-caso-sobre-entrenamiento-ia-20261021-839768.html",
-    "source": "El Economista",
-    "published": "2026-10-21T10:59:19-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
     "language": "es",
     "light": false
   }
