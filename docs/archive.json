@@ -1,5 +1,159 @@
 [
   {
+    "title": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
+    "summary": "Explainer on Anthropic's IPO: the S-1 filing, Nasdaq listing and key risks. Covers how a company founded in 2020 by ex-OpenAI staff became an AI heavyweight.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
+    "source": "Bloomberg",
+    "published": "2026-11-02T18:35:29+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+    "summary": "Anthropic's IPO faces hurdles, notably the Nov. 3 US midterms that could upend the politically supportive climate for fast AI development. The AI policy debate is intensifying ahead of the listing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+    "source": "Bloomberg",
+    "published": "2026-11-02T18:03:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA pesa más que Trump en Wall Street: las elecciones de EU pasan a segundo plano",
+    "summary": "La IA pesa más que Trump en Wall Street, y las elecciones de EU pasan a segundo plano para los inversionistas ante las dudas sobre el gasto en inteligencia artificial.",
+    "link": "https://expansion.mx/tecnologia/2026/11/02/ia-wall-street-elecciones-trump-estados-unidos",
+    "source": "Expansión",
+    "published": "2026-11-02T18:02:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "‘La Llorona’ se lleva al dólar: Tipo de cambio baja a las 18.53 unidades en Día de Muertos",
+    "summary": "El tipo de cambio bajó a 18.53 pesos por dólar en Día de Muertos.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/02/peso-dolar-tipo-de-cambio-precio-hoy-2-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-02T17:29:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
+    "summary": "DeepSeek lanzó un modo creador para crear plugins personalizados rápidamente, reforzando su oferta de agentes de IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
+    "source": "Bloomberg",
+    "published": "2026-11-02T17:16:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 75,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing",
+    "summary": "New York City's comptroller says Anthropic's IPO structure risks disempowering shareholders and preventing ordinary people from reining in a potentially dangerous technology. It is a governance challenge for the filing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
+    "source": "Bloomberg",
+    "published": "2026-11-02T17:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+    "summary": "Anthropic's S-1 reveals about $900bn in AI spending commitments, with infrastructure costs rising faster than revenues. Investors are scrutinizing the economics of the AI boom ahead of the IPO.",
+    "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-02T16:31:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Binance Boosts Market Maker Incentives in Wake of Record Hack",
+    "summary": "Binance aumentó incentivos a market makers tras sufrir un hackeo récord de 6,300 millones de dólares, buscando reactivar la actividad.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-boosts-market-maker-incentives-in-wake-of-record-hack",
+    "source": "Bloomberg",
+    "published": "2026-11-02T16:14:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+    "summary": "Meta is eyeing at least $20 billion from a possible cross-border investment-grade bond offering as investors grow skeptical about the pace of AI spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering",
+    "source": "Bloomberg",
+    "published": "2026-11-02T16:11:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Revenue Hits Nearly $17 Billion Before Mega-IPO",
+    "summary": "Anthropic reported third-quarter revenue of nearly $17 billion, a twelve-fold jump from a year earlier, as it courts investors for a potentially record-breaking IPO.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-hits-nearly-17b-before-mega-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-11-02T15:56:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Restaurantes, bienestar y mascotas ganan espacio en el gasto con tarjetas de jóvenes",
+    "summary": "Restaurantes, bienestar y mascotas ganan espacio en el gasto con tarjetas de jóvenes, según datos de consumo con tarjeta.",
+    "link": "https://expansion.mx/economia/2026/11/02/restaurantes-bienestar-y-mascotas-ganan-espacio-en-el-gasto-con-tarjetas-de-jovenes",
+    "source": "Expansión",
+    "published": "2026-11-02T15:55:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La vivienda, un problema global que puede definir el futuro de México",
+    "summary": "Columna sobre la vivienda como problema global que puede definir el futuro de México. Sostiene que cuando le va bien a la industria de la vivienda, le va bien a la economía por su efecto multiplicador, y cuestiona el crecimiento sin acceso a vivienda.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/02/la-vivienda-un-problema-global-que-puede-definir-el-futuro-de-mexico/",
+    "source": "El Financiero",
+    "published": "2026-11-02T15:21:05+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 93,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Los bancos centrales deberían prestar más atención a las curvas de tasas",
+    "summary": "Columna que aconseja a los bancos centrales dejar de subir tasas. Banxico no las ha movido desde el recorte de mayo, mientras la Fed y el BCE han subido por el alza del petróleo.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/02/los-bancos-centrales-deberian-prestar-mas-atencion-a-las-curvas-de-tasas/",
+    "source": "El Financiero",
+    "published": "2026-11-02T15:14:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Commits to $895 Billion in Spending as Mega-IPO Nears",
+    "summary": "Anthropic disclosed a twelve-fold increase in quarterly revenue while committing to spend more than $895 billion in coming years. The disclosure comes as the AI lab seeks investors for a potentially record-breaking IPO.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-02T14:38:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 94,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Wall Street Escalates FinTwit Crackdown as AI Copycat Fears Grow",
     "summary": "Wall Street is escalating a crackdown on 'FinTwit' as fears of AI copycats grow; analysts and traders in the online finance community have been locked out of their X accounts.",
     "link": "https://www.bloomberg.com/news/features/2026-11-02/wall-street-escalates-fintwit-crackdown-as-ai-copycat-fears-grow",
@@ -7,6 +161,28 @@
     "published": "2026-11-02T13:00:04+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Buen Fin 2026: crédito es el principal motor del gasto y 9 de cada 10 mexicanos compra, revela Ipsos",
+    "summary": "Según Ipsos, el crédito es el principal motor del gasto en el Buen Fin 2026 y 90% de los consumidores suele comprar en la campaña, frente a 70% en Hot Sale.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/buen-2026-credito-principal-motor-gasto-9-10-mexicanos-compra-revela-ipsos-20261102-841518.html",
+    "source": "El Economista",
+    "published": "2026-11-02T13:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
+    "summary": "Oracle started selling $20 billion of debt and equity to fund AI investment, even as money managers show jitters about tech spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+    "source": "Bloomberg",
+    "published": "2026-11-02T12:45:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
     "language": "en",
     "light": true
   },
@@ -22,6 +198,17 @@
     "light": true
   },
   {
+    "title": "El dólar cae moderadamente antes de las elecciones de medio mandato en Estados Unidos",
+    "summary": "El dólar cae moderadamente antes de las elecciones intermedias en Estados Unidos.",
+    "link": "https://www.eleconomista.com.mx/mercados/dolar-cae-moderadamente-elecciones-medio-mandato-estados-unidos-20261102-841739.html",
+    "source": "El Economista",
+    "published": "2026-11-02T12:34:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
     "summary": "Marvell Technology acordó comprar al fabricante de óptica para centros de datos Lumentum Holdings con un valor empresarial de 115,000 millones de dólares, una de las mayores fusiones tecnológicas de la historia. La operación busca capitalizar el auge de la inteligencia artificial.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
@@ -31,6 +218,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "ChatGPT limitará la información sobre ataques masivos para prevenir nuevos actos violentos",
+    "summary": "ChatGPT incorporó medidas que limitan sus respuestas sobre hechos violentos, con reglas más estrictas para menores y temas de armas.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/chatgpt-limitara-informacion-sobre-ataques-masivos-prevenir-nuevos-actos-violentos-20261102-841735.html",
+    "source": "El Economista",
+    "published": "2026-11-02T11:58:22-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Is Making Employees Work Longer Days, New Data Shows",
@@ -55,6 +253,28 @@
     "light": true
   },
   {
+    "title": "¿Quién paga si la IA desplaza empleos? Mexicanos prefieren proteger puestos a pagar más impuestos",
+    "summary": "Una encuesta indica que 73.3% de los mexicanos prefiere exigir a las empresas conservar empleos ante el desplazamiento por IA, frente a solo 8% que aceptaría más impuestos para financiar subsidios.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/paga-ia-desplaza-empleos-mexicanos-prefieren-proteger-puestos-pagar-impuestos-20261102-841732.html",
+    "source": "El Economista",
+    "published": "2026-11-02T11:08:30-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 83,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic reporta ingresos de 17,000 millones de dólares en el 3T antes de su salida a Bolsa",
+    "summary": "Anthropic registró ingresos de 17,000 millones de dólares en el tercer trimestre, 46% más que el trimestre previo, según un documento publicado ante la SEC. La cifra llega antes de su salida a Bolsa.",
+    "link": "https://www.eleconomista.com.mx/mercados/anthropic-reporta-ingresos-17-000-millones-dolares-3t-salida-bolsa-20261102-841731.html",
+    "source": "El Economista",
+    "published": "2026-11-02T11:06:41-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Binance Outflows Reach $4.7 Billion After North Korea Hack",
     "summary": "Traders have pulled billions from Binance since last week's record cyber theft. The outflows underline the operational and cyber risks facing large crypto platforms.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack",
@@ -66,6 +286,17 @@
     "light": true
   },
   {
+    "title": "¿Listo para un mundo sin efectivo en las gasolineras? El 35% de las operaciones aún se paga en cash",
+    "summary": "El sector gasolinero podría ser de los primeros en abandonar el efectivo, aunque 35% de las operaciones aún se paga en cash y hay problemas de conectividad.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/listo-mundo-efectivo-gasolineras-35-operaciones-aun-paga-cash-20261102-841729.html",
+    "source": "El Economista",
+    "published": "2026-11-02T10:57:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
     "summary": "MUFG's Derek Halpenny says AI is 'everywhere' in US GDP data, leaving the US economy and the dollar very exposed to any AI pullback.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-02/us-gdp-dollar-very-exposed-to-ai-pullback-mufg-says-video",
@@ -75,6 +306,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Organizaciones respaldan la Ley de Rentas Justas y proponen contratos de cinco años",
+    "summary": "Organizaciones respaldan la Ley de Rentas Justas en CDMX y proponen contratos de arrendamiento de al menos cinco años, asesoría jurídica y mecanismos antes de desalojos.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/organizaciones-respaldan-ley-rentas-justas-proponen-contratos-cinco-anos-20261102-841726.html",
+    "source": "El Economista",
+    "published": "2026-11-02T10:07:42-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Pemex: avances financieros y retos operativos",
@@ -106,6 +348,17 @@
     "published": "2026-11-02T09:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué se juega Wall Street en las elecciones de medio término de Estados Unidos?",
+    "summary": "Wall Street enfrenta las elecciones intermedias con la posibilidad de que los demócratas tomen el Congreso y limiten la agenda económica de Trump.",
+    "link": "https://www.bloomberglinea.com/mercados/que-se-juega-wall-street-en-las-elecciones-de-medio-termino-de-estados-unidos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-02T08:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
     "language": "es",
     "light": false
   },
@@ -271,6 +524,17 @@
     "published": "2026-11-02T05:00:08+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chilean, Mexican Peso Lead EM Currencies Higher as Oil Sinks",
+    "summary": "El peso mexicano y el chileno lideraron las alzas de monedas emergentes tras autorizar Irán conversaciones de paz, lo que hundió el petróleo.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
+    "source": "Bloomberg",
+    "published": "2026-11-02T03:56:08+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 67,
     "language": "en",
     "light": true
   },
@@ -5234,269 +5498,5 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "The AI Spending Profit Test, Blackstone's Gray sees \"Parabolic\" Demand",
-    "summary": "Meta beat Wall Street targets but its AI spending surge raises fresh concerns, while Blackstone's Jonathan Gray pushes back on AI bubble fears. Bloomberg's pre-market show.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/open-interest-10-22-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-22T16:44:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Vale la pena comprar bonos latinoamericanos? Morgan Stanley señala cuatro mercados con primas atractivas",
-    "summary": "Morgan Stanley sees opportunities in sovereign bonds of Colombia, Argentina, Mexico and Ecuador, where country-specific risks keep spreads above comparable US-rated issuers.",
-    "link": "https://www.bloomberglinea.com/mercados/vale-la-pena-comprar-bonos-latinoamericanos-morgan-stanley-senala-cuatro-mercados-con-primas-atractivas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-22T16:00:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
-    "summary": "Former OpenAI executive Kevin Weil, who led its AI-for-science efforts, is launching a startup with $215 million to use AI to speed up a key step of drug development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
-    "source": "Bloomberg",
-    "published": "2026-10-22T15:30:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Know Your Agent’ will be the new rule of the AI age",
-    "summary": "Un artículo del FT plantea que, conforme el software autónomo hace más, hay que centrarse en cómo controlar su comportamiento y establecer rendición de cuentas. Propone un esquema tipo 'Know Your Agent' como regla de la era de la IA.",
-    "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T14:38:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Texas Developer Seeks $3.5 Billion in Debt Financing for AT&T (T) Headquarters",
-    "summary": "The developer behind AT&T's new global headquarters in Plano, Texas, seeks about $3.5 billion via a niche form of financing to fund construction of the campus.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/texas-developer-seeks-3-5-billion-in-debt-financing-for-at-t-t-headquarters",
-    "source": "Bloomberg",
-    "published": "2026-10-22T14:00:59+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ‘Parabolic’",
-    "summary": "Blackstone president Jon Gray says investors needn't fear the AI boom turning into a bubble, days after Ken Griffin said the industry was almost certainly headed that way. He calls AI-driven demand 'parabolic'.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic",
-    "source": "Bloomberg",
-    "published": "2026-10-22T13:08:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
-    "summary": "Affirm será el socio exclusivo de compra ahora, paga después de Sam's Club de Walmart, semanas antes de la temporada navideña. Es una señal de la expansión del crédito al consumo vía fintech en el retail.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/affirm-sam-s-club-strike-exclusive-buy-now-pay-later-deal",
-    "source": "Bloomberg",
-    "published": "2026-10-22T13:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "summary": "El trabajo aporta valor más allá del ingreso, por lo que el desplazamiento de trabajadores por la IA implicaría pérdidas que van más allá del salario.",
-    "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-    "source": "The Economist",
-    "published": "2026-10-22T12:59:25+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Credit Risk Gauge Hits Fresh High on AI Spending Plans",
-    "summary": "El indicador de riesgo crediticio de Meta alcanzó un récord y sus bonos cayeron, ante planes de mayor gasto de capital en IA. Crecen los temores de más emisión de deuda de grandes tecnológicas en un mercado saturado.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/meta-credit-risk-gauge-hits-fresh-high-on-ai-spending-plans",
-    "source": "Bloomberg",
-    "published": "2026-10-22T12:56:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Hackers Morph Exposed AI Models Into Tools for Cybercrime",
-    "summary": "Investigadores descubrieron una técnica para vulnerar las salvaguardas de modelos de IA expuestos y convertirlos en herramientas de ciberdelito. El hallazgo subraya los riesgos de seguridad de los modelos de IA.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/hackers-morph-exposed-ai-models-into-tools-for-cybercrime",
-    "source": "Bloomberg",
-    "published": "2026-10-22T12:46:48+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La inflación sorprende al alza en octubre y llega a 3.62% anual: Inegi",
-    "summary": "La inflación anual en México subió a 3.62% en octubre, por encima de lo esperado, según el Inegi. El dato condiciona la trayectoria de tasas de Banxico y, con ello, el costo del crédito hipotecario.",
-    "link": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
-    "source": "Expansión",
-    "published": "2026-10-22T12:40:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Buildout Becoming an Economic Predictor, Says Economist Slok",
-    "summary": "Torsten Slok, economista jefe de Apollo, califica la expansión de la IA como un motor crítico del crecimiento de EU y advierte de riesgos por retrasos en centros de datos.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/ai-buildout-becoming-economic-predictor-economist-slok-video",
-    "source": "Bloomberg",
-    "published": "2026-10-22T12:32:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El 80% de la fuerza laboral implementará la jornada de 40 horas sin dificultad: Salafranca",
-    "summary": "El 80% de la fuerza laboral en México no tendrá dificultad para aplicar la jornada de 40 horas, afirmó Alejandro Salafranca, al acudir a centros de trabajo fijos con horarios predeterminados.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/80-fuerza-laboral-implementara-jornada-40-horas-dificultad-alejandro-salafranca-20261022-839987.html",
-    "source": "El Economista",
-    "published": "2026-10-22T12:15:57-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Private Credit Group Says Market Fears Are Divorced From Reality",
-    "summary": "El Alternative Credit Council sostiene que el temor del mercado hacia el crédito privado está desconectado de la realidad del sector. El informe responde a las crecientes dudas sobre ese segmento.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/private-credit-group-says-market-fears-are-divorced-from-reality",
-    "source": "Bloomberg",
-    "published": "2026-10-22T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Le diste los correos de tu empresa a la IA, pero, ¿quién vigila que no filtre tus secretos?",
-    "summary": "El artículo plantea quién vigila que la IA no filtre información sensible de las empresas cuando se le dan correos corporativos. Aborda gobernanza y riesgos de privacidad en el uso empresarial de IA.",
-    "link": "https://expansion.mx/tecnologia/2026/10/22/riesgos-ia-agentes-correos-datos-empresas-ciberseguridad",
-    "source": "Expansión",
-    "published": "2026-10-22T11:55:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Young Brits See Tech and Finance Jobs Plunge 22% in Three Years",
-    "summary": "Los jóvenes británicos enfrentan una caída de 22% en empleos de tecnología y finanzas en tres años, según una nueva investigación. Refleja la crisis de empleo de la Generación Z y el efecto de la automatización.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/young-brits-see-tech-and-finance-jobs-plunge-22-in-three-years",
-    "source": "Bloomberg",
-    "published": "2026-10-22T11:44:26+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Reports $825 Billion in Future Spending Commitments",
-    "summary": "Meta reportó compromisos de gasto futuro por unos 825,000 millones de dólares en arrendamientos y contratos, en buena parte para cómputo e infraestructura de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments",
-    "source": "Bloomberg",
-    "published": "2026-10-22T11:35:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone Profit Drops 9.2% as Higher Rates Curb Dealmaking",
-    "summary": "La utilidad de Blackstone cayó 9.2% en el tercer trimestre porque las tasas altas frenaron las operaciones; el capital desplegado fue el más bajo del año. Refleja la presión sobre el private equity y las transacciones.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/blackstone-profit-drops-9-2-as-rates-inflation-curb-dealmaking",
-    "source": "Bloomberg",
-    "published": "2026-10-22T11:06:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings",
-    "summary": "Barclays recortará 5,000 empleos (cerca de 5% de su plantilla) para reducir costos y señala que la IA ya genera eficiencias. Las acciones cayeron tras resultados tecnológicos que no convencieron.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/the-opening-trade-10-22-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-22T11:04:24+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone cuts property valuations as higher rates hit returns",
-    "summary": "Blackstone recortó la valuación de sus propiedades por las tasas altas, y Jonathan Gray dijo que la volatilidad frenó la devolución de efectivo vía IPOs. Pesa sobre el sector inmobiliario y de capital privado.",
-    "link": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T11:03:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia’s Jensen Huang Scolds Europe on AI Race",
-    "summary": "Jensen Huang, CEO de Nvidia, pidió a Europa tomarse en serio la carrera de la IA y aprovechar sus fortalezas para competir.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/nvidia-s-jensen-huang-scolds-europe-on-ai-race",
-    "source": "Bloomberg",
-    "published": "2026-10-22T11:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Firms Race to Fix Widespread Cyber Flaw Before Hackers Break In",
-    "summary": "Governments and companies rushed to patch two critical flaws in widely used technology, keeping some websites offline as a precaution against cybercrime. Related to the vulnerability found with OpenAI's help.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/researchers-say-hackers-targeted-php-before-flaws-were-known",
-    "source": "Bloomberg",
-    "published": "2026-10-22T10:43:15+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tecnología acelera transparencia inmobiliaria",
-    "summary": "La tecnología y la IA están elevando la transparencia en los mercados inmobiliarios líderes en innovación y captación de inversión, con Dubái como referente. Los cambios regulatorios y las nuevas plataformas redefinen la confianza del inversionista.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/10/22/tecnologia-acelera-transparencia-inmobiliaria/",
-    "source": "El Financiero",
-    "published": "2026-10-22T10:30:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Europe’s bracing reality on US bond yields",
-    "summary": "Europa no puede esperar que bajen los costos de endeudamiento en EU y debe resolver sus propios problemas, señala el FT sobre los rendimientos de los bonos estadounidenses.",
-    "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T10:07:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
   }
 ]
