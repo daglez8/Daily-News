@@ -1,5 +1,137 @@
 [
   {
+    "title": "Wall Street Escalates FinTwit Crackdown as AI Copycat Fears Grow",
+    "summary": "Wall Street is escalating a crackdown on 'FinTwit' as fears of AI copycats grow; analysts and traders in the online finance community have been locked out of their X accounts.",
+    "link": "https://www.bloomberg.com/news/features/2026-11-02/wall-street-escalates-fintwit-crackdown-as-ai-copycat-fears-grow",
+    "source": "Bloomberg",
+    "published": "2026-11-02T13:00:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+    "summary": "Marvell will buy data centre component maker Lumentum in an all-stock deal valued at $115bn. The companies say the combination would create a 'leader in AI connectivity'.",
+    "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+    "source": "Financial Times",
+    "published": "2026-11-02T12:38:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
+    "summary": "Marvell Technology acordó comprar al fabricante de óptica para centros de datos Lumentum Holdings con un valor empresarial de 115,000 millones de dólares, una de las mayores fusiones tecnológicas de la historia. La operación busca capitalizar el auge de la inteligencia artificial.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
+    "source": "Bloomberg",
+    "published": "2026-11-02T12:15:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Is Making Employees Work Longer Days, New Data Shows",
+    "summary": "AI is supposed to shorten the work week, but new data shows employees are working longer days instead. The findings challenge the productivity-gain narrative around workplace AI adoption.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/ai-is-making-employees-work-longer-days-new-data-shows",
+    "source": "Bloomberg",
+    "published": "2026-11-02T11:28:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet’s Euro Debt Market Return Tests Faith in AI",
+    "summary": "Alphabet abrió libros para una oferta de bonos en euros en siete tramos, de dos a 19 años, menos de una semana después de sus decepcionantes resultados del tercer trimestre. Es su segunda emisión en euros del año.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/alphabet-s-euro-debt-market-return-tests-faith-in-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-02T11:23:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Binance Outflows Reach $4.7 Billion After North Korea Hack",
+    "summary": "Traders have pulled billions from Binance since last week's record cyber theft. The outflows underline the operational and cyber risks facing large crypto platforms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack",
+    "source": "Bloomberg",
+    "published": "2026-11-02T10:57:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
+    "summary": "MUFG's Derek Halpenny says AI is 'everywhere' in US GDP data, leaving the US economy and the dollar very exposed to any AI pullback.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/us-gdp-dollar-very-exposed-to-ai-pullback-mufg-says-video",
+    "source": "Bloomberg",
+    "published": "2026-11-02T10:26:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Pemex: avances financieros y retos operativos",
+    "summary": "Pemex redujo sus pérdidas y su deuda en el tercer trimestre de 2026, aunque persisten retos en producción y liquidez.",
+    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/11/02/pemex-avances-financieros-y-retos-operativos/",
+    "source": "El Financiero",
+    "published": "2026-11-02T09:28:16+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Altman Says AI Will Transform the Economics of Energy",
+    "summary": "OpenAI's Sam Altman said at Adipec in Abu Dhabi that AI 'is going to transform the economics of the energy world'. OpenAI signed deals to deploy its technology across UAE energy firms, investors and government agencies.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/altman-says-ai-will-transform-the-economics-of-energy-video",
+    "source": "Bloomberg",
+    "published": "2026-11-02T09:27:17+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La apuesta al ISR para 2027",
+    "summary": "La recaudación del ISR cayó 5.3% real entre enero y septiembre y quedó 137 mil millones de pesos por debajo de lo previsto, lo que cobra relevancia frente a la Ley de Ingresos 2027 aprobada la semana pasada.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/02/la-apuesta-al-isr-para-2027/",
+    "source": "El Financiero",
+    "published": "2026-11-02T09:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alphabet Is Paying Up for Euro Bonds in Test of AI Appetite",
+    "summary": "Alphabet is raising funds in the euro bond market for the second time this year, offering considerably higher yields than in May after concerns over AI spending drove a credit-market selloff.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+    "source": "Bloomberg",
+    "published": "2026-11-02T07:17:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Indicadores del 2 al 6 de noviembre: Remesas, inversión fija y anuncio de Banxico",
+    "summary": "Esta semana la atención se centra en la decisión de política monetaria de Banxico y el reporte de empleo de EU. A nivel local se conocerán cifras de remesas, expectativas económicas, consumo e inversión.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-2-6-noviembre-remesas-inversion-fija-anuncio-banxico-20261102-841583.html",
+    "source": "El Economista",
+    "published": "2026-11-02T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "OpenAI’s Altman Travels to UAE to Sign Energy, Investment Deals",
     "summary": "OpenAI firmó acuerdos para desplegar su tecnología en empresas de energía, firmas de inversión y agencias gubernamentales de los Emiratos Árabes Unidos. Busca así estrechar lazos con inversionistas estatales de los que espera miles de millones de dólares de financiamiento.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals",
@@ -44,6 +176,39 @@
     "light": true
   },
   {
+    "title": "Anthropic captará hasta 3,500 millones de dólares en Japón para su salida a bolsa en EU",
+    "summary": "Anthropic venderá en Japón acciones por hasta 552,900 millones de yenes (unos 3,500 millones de dólares) como parte de su salida a bolsa en Estados Unidos, según un registro oficial publicado este lunes. Es un paso clave en la OPI de uno de los principales laboratorios de IA.",
+    "link": "https://www.eleconomista.com.mx/mercados/anthropic-captara-3-500-millones-dolares-japon-salida-bolsa-eu-20261102-841698.html",
+    "source": "El Economista",
+    "published": "2026-11-02T06:09:22-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Binance asegura que oleada de retiradas se va ralentizando a medida que usuarios sopesan riesgos",
+    "summary": "Los operadores mantienen por ahora su confianza en Binance tras el robo de 6,300 millones de dólares, aunque los grandes inversionistas podrían ser más cautelosos con los criptoactivos ante los riesgos de seguridad.",
+    "link": "https://www.eleconomista.com.mx/mercados/binance-asegura-oleada-retiradas-ralentizando-medida-usuarios-sopesan-riesgos-20261102-841697.html",
+    "source": "El Economista",
+    "published": "2026-11-02T06:06:18-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Impacto financiero por limitar la aplicación de pérdidas fiscales",
+    "summary": "La propuesta del paquete económico 2027 limitará, a partir de ese año, la aplicación de pérdidas fiscales de ejercicios anteriores en los pagos provisionales de ISR, con alto impacto para los contribuyentes.",
+    "link": "https://www.eleconomista.com.mx/opinion/impacto-financiero-limitar-aplicacion-perdidas-fiscales-20261102-841590.html",
+    "source": "El Economista",
+    "published": "2026-11-02T06:05:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Avanza PIB 3.2% en el tercer trimestre de 2026, su mayor ritmo en tres años",
     "summary": "La economía mexicana creció 3.2% anual en el tercer trimestre de 2026, su mayor avance desde el mismo periodo de 2023. Los sectores secundario y terciario avanzaron 3.1% y 3.3%, respectivamente.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/11/01/avanza-pib-32-en-el-tercer-trimestre-de-2026-su-mayor-ritmo-en-tres-anos/",
@@ -64,6 +229,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Herzog & de Meuron and EHDD to Transform a Mid-Century Warehouse into the Eames Institute of Infinite Curiosity",
+    "summary": "Herzog & de Meuron and EHDD unveiled the masterplan for the Eames Institute's archives in Marin County, transforming a mid-century modern warehouse into a cultural destination.",
+    "link": "https://www.archdaily.com/1187925/herzog-and-de-meuron-and-ehdd-to-transform-a-mid-century-warehouse-into-the-eames-institutes-museum-archives",
+    "source": "ArchDaily",
+    "published": "2026-11-02T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
@@ -119,6 +295,17 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
+    "summary": "Oaktree's Howard Marks says recent AI-related market stumbles have somewhat burst the bubble of infallibility around the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
+    "source": "Bloomberg",
+    "published": "2026-11-02T03:04:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Macquarie Executive Sees AI Fast-Tracking Junior Analyst Careers",
@@ -5311,192 +5498,5 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Precios de la vivienda social se disparan en Colombia mientras aceleran los costos de construirlas",
-    "summary": "En Colombia, los precios de la vivienda de interés social subieron 10.5% anual en el segundo trimestre de 2026, mientras los costos de construcción crecieron 6.9% en agosto, con la mano de obra como principal componente.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/vivienda-social-dispara-sus-precios-en-colombia-mientras-aceleran-los-costos-de-construirlas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-22T10:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI compute is the new oil—and needs a new market",
-    "summary": "Firmas financieras compiten por crear instrumentos para negociar poder de cómputo, que The Economist compara con el petróleo. Surge un nuevo mercado ligado a la infraestructura de IA.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-    "source": "The Economist",
-    "published": "2026-10-22T09:07:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Acelera inflación a 3.62% en primera quincena de octubre",
-    "summary": "La inflación de México se ubicó en 3.62% interanual en la primera quincena de octubre, su mayor nivel desde la segunda quincena de mayo.",
-    "link": "https://www.reforma.com/acelera-inflacion-a-3-62-en-primera-quincena-de-octubre/ar3299870",
-    "source": "Reforma",
-    "published": "2026-10-22T07:26:29-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Restoring Views at Neutra’s Corwin House with Sky-Frame",
-    "summary": "Architectural designer Aziz Osko has updated Richard Neutra's 1956 Corwin House in Connecticut, restoring views with Sky-Frame glazing. A modernist hillside house in woodland.",
-    "link": "https://www.archdaily.com/1186757/restoring-views-at-neutras-corwin-house-with-sky-frame",
-    "source": "ArchDaily",
-    "published": "2026-10-22T06:45:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Japan Scrambles to Patch PHP Flaws as Banks, Airlines Go Offline",
-    "summary": "Japanese banks and airlines took digital services offline to shield themselves from newly found flaws in the widely used PHP language. Firms are scrambling to patch, in a stark example of the disruption such vulnerabilities cause.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-scrambles-to-patch-php-flaws-as-banks-airlines-go-offline",
-    "source": "Bloomberg",
-    "published": "2026-10-22T06:10:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Europe Should Accept Reliance on US Tech, Palantir’s Mosley Says",
-    "summary": "Palantir's Louis Mosley says European countries must accept a degree of reliance on US technology, as some governments reconsider their use of it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/europe-should-accept-reliance-on-us-tech-palantir-s-mosley-says",
-    "source": "Bloomberg",
-    "published": "2026-10-22T06:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Gains on Results, New Stock Class to Fund AI",
-    "summary": "Zuckerberg told investors Meta's costly AI wager is paying off. The company raised capex plans and announced a nonvoting share class that could ultimately help pay for acquisitions.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/meta-gains-on-results-new-stock-class-to-fund-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-10-22T05:48:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Market Value Halves From Peak as AI Fears Grow",
-    "summary": "SoftBank's market value has halved from its June peak as higher borrowing costs feed investor worries about the sustainability of its huge AI investments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/softbank-market-value-poised-to-halve-from-peak-as-ai-fears-grow",
-    "source": "Bloomberg",
-    "published": "2026-10-22T05:40:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Websites taken offline in race to patch PHP security flaw",
-    "summary": "Government security agencies warn companies to act immediately after AI uncovered widespread vulnerabilities in PHP. Websites are being taken offline in a race to patch.",
-    "link": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T04:28:04+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Venture Capitalists Push Up AI Startup Valuations with Tranched, Two-Step Rounds",
-    "summary": "Venture capitalists are pushing AI startup valuations higher with tranched, two-step rounds. Emulate, three months old with no product or website, is being valued in the billions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/venture-capitalists-push-up-ai-startup-valuations-with-tranched-two-step-rounds",
-    "source": "Bloomberg",
-    "published": "2026-10-22T04:15:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action",
-    "summary": "A UK property empire of the Al Tajir family, owners of Highland Spring, is hit by loan defaults. The family looks to sell prized assets as lenders seek to recoup unpaid debts.",
-    "link": "https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T04:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence",
-    "summary": "The UK tax authority is worried that artificial intelligence is giving people bad tax advice and plans to tackle it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-taxman-to-tackle-rogue-advice-from-artificial-intelligence",
-    "source": "Bloomberg",
-    "published": "2026-10-22T04:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "América Móvil espera que compra de AT&T por parte de Televisa le permita ofrecer televisión de paga",
-    "summary": "América Móvil expects Televisa's purchase of AT&T in Mexico to let it complement its offering, which lacks pay TV.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/america-movil-espera-que-compra-de-att-por-parte-de-televisa-le-permita-ofrecer-television-de-paga/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-22T03:14:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek Raises $15 Billion in Challenge to Leading US Labs",
-    "summary": "DeepSeek has raised about 100 billion yuan ($15 billion), one of China's largest fundraisings ever. The round signals its ambition to compete globally with Anthropic and OpenAI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
-    "source": "Bloomberg",
-    "published": "2026-10-22T02:17:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Seaside House Explores the Relationship Between Brick, Wood, and the Coastal Landscape",
-    "summary": "Seaside House in Höllviken, Sweden, by Koistinen Hellborg Architects explores brick and wood against coastal textures, with attention to light and spatial organization.",
-    "link": "https://www.archdaily.com/1186838/how-seaside-house-explores-the-relationship-between-brick-wood-and-the-coastal-landscape",
-    "source": "ArchDaily",
-    "published": "2026-10-22T01:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "AT&T reconoce un deterioro contable de 2,600 mdd y pérdida de 500 mdd en ingresos anuales por venta de filial mexicana",
-    "summary": "AT&T booked an accounting impairment of $2.6 billion and expects a $500 million annual revenue loss from selling its Mexican subsidiary.",
-    "link": "https://expansion.mx/empresas/2026/10/21/salida-mexico-att-reconoce-perdida-ingresos-500-mdd-anuales",
-    "source": "Expansión",
-    "published": "2026-10-22T00:05:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
-    "summary": "Gentera expects a gradual transition in cash reduction under Mexico's new Digital Economy Law, a development relevant to the country's financial inclusion and fintech landscape.",
-    "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
-    "source": "Expansión",
-    "published": "2026-10-22T00:01:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
   }
 ]
