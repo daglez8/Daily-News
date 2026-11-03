@@ -1,5 +1,159 @@
 [
   {
+    "title": "Is AI a Bubble? Wall Street Titans Say Not Even Close",
+    "summary": "Goldman's Solomon, Morgan Stanley's Pick and Franklin Templeton's Johnson broadly dismissed fears of an AI bubble. Pimco's Roman noted the AI debt wave has not yet distorted broader credit markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/is-ai-a-bubble-wall-street-titans-say-not-even-close-video",
+    "source": "Bloomberg",
+    "published": "2026-11-03T06:17:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+    "summary": "China plans a broad set of standards governing AI safety from development through deployment. They are among the most comprehensive guidelines to guard against loss of control over powerful AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+    "source": "Bloomberg",
+    "published": "2026-11-03T05:24:07+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS CEO Ermotti Says Cyber Risks Rival Traditional Bank Threats",
+    "summary": "UBS CEO Sergio Ermotti warned that cyber attacks now rival or exceed traditional credit and market risks for banks. He argued that managing cyber risk is as important as managing balance-sheet risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/ubs-ceo-ermotti-says-cyber-risks-rival-traditional-bank-threats",
+    "source": "Bloomberg",
+    "published": "2026-11-03T05:20:05+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The AI problem we feared is not the AI problem we got",
+    "summary": "Lay-offs are low by historical standards, but young people may still need help finding a foothold in the labour market. The piece examines AI's effect on entry-level work.",
+    "link": "https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-03T05:00:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street CEOs, Big Money Managers Divided Over AI Risks",
+    "summary": "Major asset managers are sounding alarms about risks to the AI boom even as top Wall Street CEOs tout the windfall. The split shows how divided finance leaders are over AI exposure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks",
+    "source": "Bloomberg",
+    "published": "2026-11-03T04:52:43+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS CEO Says Cyber Risk Controls Are Key for Banks",
+    "summary": "Ermotti urged regulators and the industry to stop stigmatizing cyberattack victims so banks can build collective resilience. He framed cyber controls as a core risk-management priority for the sector.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/ubs-ceo-says-cyber-risk-controls-are-key-for-banks-video",
+    "source": "Bloomberg",
+    "published": "2026-11-03T04:27:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave",
+    "summary": "Morgan Stanley CEO Ted Pick suggests AI investment could reach $10–15 trillion over the next decade. He points to major potential productivity gains.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
+    "source": "Bloomberg",
+    "published": "2026-11-03T04:18:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Blackstone, Pimco Chiefs Debate the Perils of AI Boom",
+    "summary": "Blackstone's Jon Gray and Pimco's Emmanuel Roman debated whether global credit markets can absorb the multitrillion-dollar AI spending spree. The discussion took place at the HKMA investment summit.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/blackstone-pimco-chiefs-debate-the-perils-of-ai-boom-video",
+    "source": "Bloomberg",
+    "published": "2026-11-03T03:38:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Chiefs See Robust Demand for Massive AI Deals",
+    "summary": "Wall Street chiefs said capital markets will keep underwriting the global AI infrastructure buildout. Morgan Stanley projects cumulative spending could reach $15 trillion over the next decade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
+    "source": "Bloomberg",
+    "published": "2026-11-03T03:13:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 81,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
+    "summary": "State Street CEO Ron O'Hanley said it is 'hard to see' AI as a bubble yet, citing demand that supports the massive investments in the technology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet",
+    "source": "Bloomberg",
+    "published": "2026-11-03T02:58:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "DBS CEO on How Southeast Asia's Biggest Bank Deploys AI",
+    "summary": "DBS CEO Tan Su Shan discusses the bank's aggressive adoption of AI and how the Binance hack shows the need for tighter cyber hygiene. She also covers wealth flows in Singapore and Hong Kong.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-03T02:19:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
+    "summary": "México concluyó la evaluación del GAFI sobre lavado de dinero, pero aún no se conoce su calificación. El resultado es relevante para el sistema financiero y su regulación.",
+    "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
+    "source": "Expansión",
+    "published": "2026-11-03T00:21:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
+    "summary": "Oracle raised $9.9 billion in a share sale priced at an 11% discount after its stock was hit in a choppy session. The raise comes amid heavy AI infrastructure financing needs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount",
+    "source": "Bloomberg",
+    "published": "2026-11-03T00:16:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The quest for immortality has become serious business",
+    "summary": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing. The quest for longevity has become serious business.",
+    "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+    "source": "The Economist",
+    "published": "2026-11-02T21:39:36+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
     "summary": "Explainer on Anthropic's IPO: the S-1 filing, Nasdaq listing and key risks. Covers how a company founded in 2020 by ex-OpenAI staff became an AI heavyweight.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
@@ -154,6 +308,17 @@
     "light": true
   },
   {
+    "title": "“Queremos salir a la bolsa de EE.UU. y ser el próximo unicornio argentino”, dice el CEO de Laboratorios Richmond",
+    "summary": "Marcelo Figueiras, presidente de Laboratorios Richmond, busca multiplicar por dos o tres la facturación en cinco años y avanzar hacia una salida a la bolsa de EE.UU. Aspira a ser el próximo unicornio argentino.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/queremos-salir-a-la-bolsa-de-eeuu-y-ser-el-proximo-unicornio-argentino-dice-el-ceo-de-laboratorios-richmond/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-02T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Wall Street Escalates FinTwit Crackdown as AI Copycat Fears Grow",
     "summary": "Wall Street is escalating a crackdown on 'FinTwit' as fears of AI copycats grow; analysts and traders in the online finance community have been locked out of their X accounts.",
     "link": "https://www.bloomberg.com/news/features/2026-11-02/wall-street-escalates-fintwit-crackdown-as-ai-copycat-fears-grow",
@@ -218,6 +383,17 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "House Up in the Clouds / Hennessey Architecture",
+    "summary": "A renovated 1962 Eichler home in San Francisco's Diamond Heights gains a fourth-level addition with family room and bathroom. The project makes the house more functional for a growing family.",
+    "link": "https://www.archdaily.com/1187896/up-in-the-clouds-hennessey-architecture",
+    "source": "ArchDaily",
+    "published": "2026-11-02T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "ChatGPT limitará la información sobre ataques masivos para prevenir nuevos actos violentos",
@@ -5320,182 +5496,6 @@
     "published": "2026-10-22T23:45:32-06:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
-    "summary": "OpenAI is now targeting a $1.25 trillion valuation in the final stages of a funding round of about $30 billion, according to people familiar with the matter. The figure is below the $1.4tn price tag it floated earlier this month, per the FT.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize",
-    "source": "Bloomberg",
-    "published": "2026-10-22T23:31:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Ley de Economía Digital habilita la CURP y el Expediente Ciudadano para apertura remota de cuentas",
-    "summary": "Según Expansión, la Ley de Economía Digital habilita el uso de la CURP y el Expediente Ciudadano para la apertura remota de cuentas.",
-    "link": "https://expansion.mx/economia/2026/10/22/ley-economia-digital-curp-expediente-ciudadano-remoto",
-    "source": "Expansión",
-    "published": "2026-10-22T23:29:18+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Regulador en México pone en la mira aceptación de vales de despensa en comercios",
-    "summary": "La autoridad antimonopolio de México investiga posibles prácticas indebidas en la aceptación de vales de despensa y medios de pago electrónico en comercios minoristas como supermercados y tiendas de conveniencia.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/regulador-en-mexico-pone-en-la-mira-aceptacion-de-vales-de-despensa-en-comercios/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-22T23:11:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SK Hynix Pulls Solidigm’s $10 Billion IPO on Regulatory Pushback",
-    "summary": "SK Hynix scrapped a potential $10 billion US IPO of its Solidigm unit after strong opposition from regulators and shareholders. It is the latest firm to pull an IPO amid growing investor unease over the AI boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns",
-    "source": "Bloomberg",
-    "published": "2026-10-22T22:52:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El peso mexicano se encamina a una depreciación semanal de 1.2% frente al dólar",
-    "summary": "El peso mexicano se encamina a una depreciación semanal de 1.2% frente al dólar, según Expansión.",
-    "link": "https://expansion.mx/mercados/2026/10/22/epeso-mexicano-depreciacion-semanal-1-2-dolar",
-    "source": "Expansión",
-    "published": "2026-10-22T22:50:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Se acabaron las jubilaciones doradas: la educación financiera se convirtió en el 'plan de retiro' de los jóvenes",
-    "summary": "La educación financiera se vuelve el plan de retiro de los jóvenes ante el fin de las jubilaciones doradas, de acuerdo con Expansión.",
-    "link": "https://expansion.mx/carrera/2026/10/22/fin-jubilacion-dorada-finanzas-personales-ahorro-retiro",
-    "source": "Expansión",
-    "published": "2026-10-22T22:47:12+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alza de precios en seguros de gastos médicos mayores, principal motivo de cancelación, dice Condusef",
-    "summary": "Condusef señala que el alza de precios en seguros de gastos médicos mayores es el principal motivo de cancelación de pólizas.",
-    "link": "https://expansion.mx/economia/2026/10/22/alza-de-precios-en-seguros-de-gastos-medicos-mayores-principal-motivo-de-cancelacion-dice-condusef",
-    "source": "Expansión",
-    "published": "2026-10-22T22:38:41+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-    "summary": "The FT reports OpenAI trimmed its valuation target to $1.25tn after pitching a higher price. The AI lab had floated $1.4tn earlier this month, according to documents seen by the FT.",
-    "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-22T21:50:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Regreso de comisiones bancarias y compra de más infraestructura para pagos digitales presionará el margen de gasolineras",
-    "summary": "Expansión reporta que el regreso de las comisiones bancarias y la compra de más infraestructura para pagos digitales presionarán el margen de ganancia de las gasolineras.",
-    "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
-    "source": "Expansión",
-    "published": "2026-10-22T21:45:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México da un controvertido paso para endurecer las reglas de las pensiones del IMSS",
-    "summary": "México dio un paso controvertido para endurecer las reglas de acceso a las pensiones del IMSS, en un contexto de protestas por falta de medicinas y presión sobre las finanzas públicas para el Presupuesto 2027.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-da-un-controvertido-paso-para-endurecer-las-reglas-de-las-pensiones-del-imss/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-22T21:14:59+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blackstone's Schwarzman Discovered the AI Revolution by Accident",
-    "summary": "Blackstone CEO Stephen Schwarzman explains how Jack Ma helped him discover the AI revolution 'by accident' in 2015. He shares the story on 'Leaders With Francine Lacqua'.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/digi-stephen-schwarzman-on-blackstone-ai-buildout",
-    "source": "Bloomberg",
-    "published": "2026-10-22T18:30:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
-    "summary": "UBS prevailed against two former Credit Suisse managing directors who argued their deferred-compensation certificates shouldn't have been written down in the 2023 merger.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
-    "source": "Bloomberg",
-    "published": "2026-10-22T18:22:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Navient CDS Widen by Most in Eight Years as Debtholders Left Out",
-    "summary": "Costs to protect against a Navient default rose after a restructuring that effectively cuts bondholders off from the business's biggest growth area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/navient-cds-widen-by-most-in-eight-years-as-debtholders-left-out",
-    "source": "Bloomberg",
-    "published": "2026-10-22T17:49:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street abre con pérdidas por dudas sobre la IA: ¿Cuánto caen HOY las acciones?",
-    "summary": "Los mercados globales operan a la baja por mayor aversión al riesgo geopolítico y dudas sobre los beneficios de las empresas de inteligencia artificial. El Nasdaq encabeza las pérdidas en Wall Street.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/22/wall-street-bmv-acciones-hoy-22-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-22T17:45:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
-    "summary": "A model from OpenAI helped identify a potentially catastrophic cybersecurity vulnerability in a programming language that runs millions of websites and apps. OpenAI's Greg Brockman and Cloudflare's Matthew Prince discuss how the flaw was found and contained.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video",
-    "source": "Bloomberg",
-    "published": "2026-10-22T17:43:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso ‘resiente’ dato de inflación en México: ¿Cuánto pierde ante el dólar HOY?",
-    "summary": "El peso se deprecia 0.11% ante el dólar por mayor aversión al riesgo global ante tensiones en la guerra de EU contra Irán, tras el dato de inflación en México.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/22/peso-dolar-tipo-de-cambio-precio-hoy-22-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-22T17:33:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
     "language": "es",
     "light": false
   }
