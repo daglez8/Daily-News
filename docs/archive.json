@@ -1,5 +1,159 @@
 [
   {
+    "title": "Ebrard enfría la expectativa de cambios en aranceles tras las elecciones de EU",
+    "summary": "Ebrard enfría la expectativa de cambios en los aranceles de EU a México tras las elecciones intermedias.",
+    "link": "https://expansion.mx/economia/2026/11/04/eb-rard-aranceles-mexico-t-mec-elecciones-eu",
+    "source": "Expansión",
+    "published": "2026-11-04T18:54:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "‘Grito’ de recórd en septiembre: Exportaciones de México a EU imponen máximo histórico de 62.2 mil mdd",
+    "summary": "Las exportaciones de México a EU alcanzaron un máximo histórico de 62.2 mil millones de dólares en septiembre, 40% más que un año antes y 17.6% de las importaciones de EU.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/exportaciones-de-mexico-a-eu-imponen-record-en-septiembre-de-cuanto-fue/",
+    "source": "El Financiero",
+    "published": "2026-11-04T18:28:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cómo puede afectar al T-MEC la nueva configuración política de EU?",
+    "summary": "Expansión analiza cómo la nueva configuración política de EU puede afectar al T-MEC.",
+    "link": "https://expansion.mx/economia/2026/11/04/como-puede-afectar-el-t-mec-la-nueva-configuracion-politica-de-eu",
+    "source": "Expansión",
+    "published": "2026-11-04T18:26:38+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Big Tech Soars on Bet Dems Will Save AI Spenders From Themselves",
+    "summary": "US tech megacaps led the market higher as investors bet a Democratic Congress will slow the massive AI spending that is eating into free cash flow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
+    "source": "Bloomberg",
+    "published": "2026-11-04T17:07:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso ‘hace leña’ de derrota de Trump en elecciones en EU: ¿Cuánto gana al dólar HOY?",
+    "summary": "El dólar se debilita tras la victoria demócrata en EU, lo que fortalece a las monedas emergentes, incluido el peso mexicano.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/04/peso-dolar-tipo-de-cambio-hoy-precio-4-de-noviembre-de-2027/",
+    "source": "El Financiero",
+    "published": "2026-11-04T16:39:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep",
+    "summary": "Stocks rallied on the Democratic sweep, but the AI trade was left out as Wall Street sees risks to the AI boom from a Congress more likely to restrain spending and data-center buildout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep",
+    "source": "Bloomberg",
+    "published": "2026-11-04T16:27:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Canva recorta su plantilla y la industria tecnológica acumula más de 139,000 despidos en 2026",
+    "summary": "Canva recorta su plantilla y la industria tecnológica acumula más de 139,000 despidos en 2026.",
+    "link": "https://expansion.mx/tecnologia/2026/11/04/canva-recortes-empleados-despidos-tecnologia-2026",
+    "source": "Expansión",
+    "published": "2026-11-04T16:14:54+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Crypto Giants Scrap Crime-Fighting Alliance as Hackers Circle",
+    "summary": "An alliance set up by large crypto firms to curb illicit activity has quietly been dissolved while digital-asset crime keeps surging.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
+    "source": "Bloomberg",
+    "published": "2026-11-04T15:41:28+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs",
+    "summary": "CoreWeave bonds fell, some to new lows, after Democratic candidates favoring slower data-center construction won races including Texas governor.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs",
+    "source": "Bloomberg",
+    "published": "2026-11-04T15:40:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La BMV y el peso mexicano celebran el resultado electoral en Estados Unidos",
+    "summary": "Expansión reporta que la BMV y el peso mexicano celebran el resultado electoral en Estados Unidos.",
+    "link": "https://expansion.mx/mercados/2026/11/04/peso-mexicano-bmv-celebran-elecciones-estados-unidos",
+    "source": "Expansión",
+    "published": "2026-11-04T15:25:22+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El dólar registra su mayor caída en dos meses: así reaccionan las monedas de América Latina",
+    "summary": "El dólar registra su mayor caída en dos meses tras la victoria demócrata; las monedas latinoamericanas ganan terreno, encabezadas por los pesos chileno, colombiano y mexicano.",
+    "link": "https://www.bloomberglinea.com/mercados/el-dolar-registra-su-mayor-caida-en-dos-meses-asi-reaccionan-las-monedas-de-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-04T15:23:14+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
+    "summary": "Bartleby argues that too many corporate leaders rely on gut instinct and makes the case for scientific methods of decision-making.",
+    "link": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "source": "The Economist",
+    "published": "2026-11-04T14:30:27+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+    "summary": "OPay halted its $300 million US IPO hours after pricing following inquiries by a Chinese regulator, according to people familiar.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+    "source": "Bloomberg",
+    "published": "2026-11-04T14:07:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Ahorramos lo suficiente para jubilarnos? Lo que recomienda la OCDE en sus perspectivas 2026",
+    "summary": "Las Perspectivas de Pensiones 2026 de la OCDE muestran activos de pensiones por 78 billones de dólares a finales de 2025, pero con brechas significativas en las contribuciones en casi todos los países miembros.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/ahorramos-suficiente-jubilarnos-recomienda-ocde-perspectivas-20261104-842043.html",
+    "source": "El Economista",
+    "published": "2026-11-04T13:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "JPMorgan, BofA Prepare $2.4 Billion Debt Sale for CVC’s IFF Deal",
     "summary": "Bank of America and JPMorgan are preparing about $2.4 billion of debt financing to back CVC Capital Partners' acquisition of IFF's food ingredients business.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/jpmorgan-bofa-prepare-2-4-billion-debt-sale-for-cvc-s-iff-deal",
@@ -9,6 +163,50 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Indicadores Cíclicos confirman mayor dinamismo económico de México en el tercer trimestre",
+    "summary": "El Indicador Adelantado de Inegi avanzó 0.12 puntos en agosto, sumando 11 meses consecutivos de crecimiento, lo que confirma mayor dinamismo económico en el tercer trimestre.",
+    "link": "https://www.eleconomista.com.mx/economia/indicadores-ciclicos-confirman-mayor-dinamismo-economico-mexico-tercer-trimestre-20261104-842164.html",
+    "source": "El Economista",
+    "published": "2026-11-04T12:29:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pagos digitales: infraestructura, efectivo e IA marcan nueva etapa de la adquirencia",
+    "summary": "Nuevos rieles de pago, transferencias inmediatas, e-commerce e IA están transformando la adquirencia en México, según un directivo de Geopagos.",
+    "link": "https://www.eleconomista.com.mx/empresas/pagos-digitales-infraestructura-efectivo-e-ia-marcan-nueva-etapa-adquirencia-20261104-842157.html",
+    "source": "El Economista",
+    "published": "2026-11-04T12:21:14-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Estás perdiendo dinero con tu cuenta? 5 señales de que es hora de cambiar tu nómina",
+    "summary": "El Economista enumera cinco señales de que conviene cambiar la cuenta de nómina para no perder dinero.",
+    "link": "https://www.eleconomista.com.mx/empresas/perdiendo-dinero-cuenta-5-senales-hora-cambiar-nomina-20261104-840945.html",
+    "source": "El Economista",
+    "published": "2026-11-04T12:13:33-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Centros de datos Texas enfrentan futuro incierto tras victoria de Gina Hinojosa en elecciones a gobernador",
+    "summary": "El sector de centros de datos de Texas enfrenta incertidumbre tras la elección de Gina Hinojosa, quien se comprometió a tomar medidas drásticas contra el rápido crecimiento de estos proyectos.",
+    "link": "https://www.eleconomista.com.mx/internacionales/centros-datos-texas-enfrentan-futuro-incierto-victoria-gina-hinojosa-elecciones-gobernador-20261104-842159.html",
+    "source": "El Economista",
+    "published": "2026-11-04T12:03:23-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
@@ -29,6 +227,17 @@
     "published": "2026-11-04T11:55:24+00:00",
     "category": "AI & Agents",
     "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué las neveras de los supermercados europeos eran blancos fáciles para los hackers?",
+    "summary": "Un experto sostiene que los hackers que alteraron la temperatura de refrigeradores en supermercados europeos pudieron entrar por sistemas públicos con contraseñas predeterminadas o software obsoleto; es el segundo ciberataque en tres semanas.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/neveras-supermercados-europeos-blancos-faciles-20261104-842156.html",
+    "source": "El Economista",
+    "published": "2026-11-04T11:50:31-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -75,6 +284,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Meta Raises €9 Billion as Euro Bond Debut Draws Record Demand",
+    "summary": "Meta raised €9 billion in a debut euro bond sale that drew a record €53 billion of orders, the most for any corporate deal in Europe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-04T08:11:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Trii busca acelerar su crecimiento en Chile y prepara apuestas en IA y criptomonedas",
@@ -5278,225 +5498,5 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Demanda de oficinas en el mercado inmobiliario de Querétaro manifiesta desaceleración",
-    "summary": "El inventario de oficinas en Querétaro cerró el 3T26 en 749,000 m², +2.2% anual, pero la demanda bruta de enero a septiembre fue de 23,000 m², 16% menos que un año antes. La desaceleración se acentuó en el tercer trimestre, según Solili.",
-    "link": "https://www.eleconomista.com.mx/estados/demanda-oficinas-mercado-inmobiliario-queretaro-manifiesta-desaceleracion-20261025-840431.html",
-    "source": "El Economista",
-    "published": "2026-10-25T23:25:20-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
-    "summary": "Ramona Nee, quien debía asumir como líder de Weil en enero, rechazó el cargo en medio de un éxodo de talento del despacho de Wall Street. El caso ilustra la crisis de talento que enfrentan los grandes bufetes.",
-    "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-25T23:19:41+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inside the Firings and Leadership Changes at Netflix",
-    "summary": "A programming slump and a talent backlash prompted a major leadership overhaul at Netflix, with a series of firings and management changes.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/inside-the-firings-and-leadership-changes-at-netflix",
-    "source": "Bloomberg",
-    "published": "2026-10-25T23:00:01+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vales de despensa, bajo la lupa antimonopolio; un beneficio que alcanza a 40 millones de personas",
-    "summary": "Los vales de despensa, un beneficio que alcanza a 40 millones de personas, están bajo revisión antimonopolio. El escrutinio podría afectar a los emisores y al mercado de beneficios a empleados.",
-    "link": "https://expansion.mx/economia/2026/10/25/vales-de-despensa-bajo-la-lupa-antimonopolio-un-beneficio-que-alcanza-a-40-millones-de-personas",
-    "source": "Expansión",
-    "published": "2026-10-25T16:04:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Montana Farm / Estudio Balzano",
-    "summary": "Montana Farm is a boutique equestrian breeding and training facility in Buenos Aires, designed to integrate architecture, landscape and the needs of show jumping horses, prioritizing animal welfare and spatial quality.",
-    "link": "https://www.archdaily.com/1187040/montana-farm",
-    "source": "ArchDaily",
-    "published": "2026-10-25T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Fed Looks Set to Pause After September Rate Hike",
-    "summary": "Bloomberg's Maria Eloisa Capurro previews the Fed's rate decision, with a pause widely expected after September's first hike since 2023 despite inflation above target. Investors will scrutinize Chair Kevin Warsh's language.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video",
-    "source": "Bloomberg",
-    "published": "2026-10-25T13:48:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
-    "summary": "Three of the biggest tech companies report earnings this week with healthy growth expected. Fears over AI spending threaten to overshadow the results.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
-    "source": "Bloomberg",
-    "published": "2026-10-25T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
-    "summary": "Investors including JPMorgan Asset Management, Generali and Ninety One are loading up on emerging-market debt, defying a surge in Treasury yields that would once have driven them out.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
-    "source": "Bloomberg",
-    "published": "2026-10-25T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Markets Look to Big Tech for AI Payoff",
-    "summary": "MetLife Investment Management's Drew Matus discusses how AI spending is driving markets and parts of the US economy, as investors look to Big Tech earnings for evidence the investment will pay off.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
-    "source": "Bloomberg",
-    "published": "2026-10-25T12:10:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
-    "summary": "Mistral is betting that open-source models can let it compete with Big Tech, offering companies lower costs, more data control and technological sovereignty. Europe has fallen behind the US in building the largest AI models.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
-    "source": "Bloomberg",
-    "published": "2026-10-25T12:04:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "JPMorgan’s Private Bank Using AI to Make Advisers More Efficient",
-    "summary": "JPMorgan's private bank is using AI to onboard clients, support investment research and other tasks to raise adviser productivity, according to its EMEA head Pablo Garnica.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
-    "source": "Bloomberg",
-    "published": "2026-10-25T11:48:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why students in a Pennsylvania midterm battleground fear AI is about to kill their future",
-    "summary": "Young people in a Pennsylvania midterm battleground are increasingly anxious and angry about Big Tech's AI revolution and what it means for their job prospects.",
-    "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-25T11:00:02+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing",
-    "summary": "Suzhou Dongshan Precision raised about HK$9.9 billion ($1.3 billion) in Hong Kong's biggest listing in nearly two months, landing in a volatile market for AI build-out-related companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
-    "source": "Bloomberg",
-    "published": "2026-10-25T10:30:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
-    "summary": "Apollo's chief economist Torsten Slok says AI has delivered \"zero payoff\" to corporate America outside the technology sector despite heavy investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
-    "source": "Bloomberg",
-    "published": "2026-10-25T09:28:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brookfield to Open Doha Office to Deepen Middle East Reach",
-    "summary": "Brookfield Asset Management is opening an office in Qatar, deepening its Middle East presence while many countries in the region grapple with the economic fallout from the war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
-    "source": "Bloomberg",
-    "published": "2026-10-25T08:47:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
-    "summary": "Goldman Sachs cut its 12-month Kospi target by 25% as concerns over the AI trade intensify, after raising it repeatedly this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-    "source": "Bloomberg",
-    "published": "2026-10-25T07:44:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Capcom alerta por acceso a datos de casi 12 millones de cuentas de usuarios",
-    "summary": "Capcom alertó por acceso no autorizado a datos de casi 12 millones de cuentas de usuarios.",
-    "link": "https://expansion.mx/tecnologia/2026/10/24/capcom-acceso-no-autorizado-datos-cuentas-usuarios",
-    "source": "Expansión",
-    "published": "2026-10-24T23:47:23+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
-    "summary": "Robin Wigglesworth of FT Alphaville discusses his book on how bonds built the modern world, why the 30-year mortgage is 'a miracle of the modern world,' and when to worry about US debt.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
-    "source": "Bloomberg",
-    "published": "2026-10-24T17:05:04+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
-    "summary": "El SAT busca atraer de regreso capitales mexicanos del extranjero con una tasa de ISR de 7.5% propuesta para 2027.",
-    "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
-    "source": "Expansión",
-    "published": "2026-10-24T16:34:09+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-    "summary": "A 'total meltdown' in the riskiest corner of the debt market has unnerved investors, per Bloomberg's Credit Weekly. Fund managers describe panicked reactions to sudden selloffs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
-    "source": "Bloomberg",
-    "published": "2026-10-24T15:21:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
   }
 ]
