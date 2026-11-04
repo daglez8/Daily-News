@@ -1,5 +1,82 @@
 [
   {
+    "title": "JPMorgan, BofA Prepare $2.4 Billion Debt Sale for CVC’s IFF Deal",
+    "summary": "Bank of America and JPMorgan are preparing about $2.4 billion of debt financing to back CVC Capital Partners' acquisition of IFF's food ingredients business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/jpmorgan-bofa-prepare-2-4-billion-debt-sale-for-cvc-s-iff-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-04T12:52:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
+    "summary": "US mortgage rates fell for a third straight week but remain above 7%. A decline in purchase applications shows borrowing costs are still prohibitively high for many prospective buyers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
+    "source": "Bloomberg",
+    "published": "2026-11-04T12:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA no es un negocio rentable: Amazon, Google y Meta aún dependen de e-commerce y anuncios para financiarla",
+    "summary": "Expansión advierte que la IA aún no es un negocio rentable: Amazon, Google y Meta siguen dependiendo del e-commerce y la publicidad para financiar sus inversiones en el área.",
+    "link": "https://expansion.mx/tecnologia/2026/11/04/la-ia-no-es-un-negocio-rentable-amazon-google-meta",
+    "source": "Expansión",
+    "published": "2026-11-04T11:55:24+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Cyberattackers Drain Money From French Bank Credit Mutuel Arkea",
+    "summary": "Crédit Mutuel Arkéa said hackers stole money after gaining access to its computer systems. The incident underscores growing cybersecurity risks for the banking sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/cyberattackers-drain-money-from-french-bank-credit-mutuel-arkea",
+    "source": "Bloomberg",
+    "published": "2026-11-04T11:39:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La economía mundial cambia de motor: ¿puede México aprovechar la revolución de la IA?",
+    "summary": "El Financiero plantea que la economía mundial cambia de motor: el crecimiento es modesto, persisten las tensiones comerciales y el costo del dinero sigue elevado. Analiza si México puede aprovechar la revolución de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/11/04/la-economia-mundial-cambia-de-motor-puede-mexico-aprovechar-la-revolucion-de-la-ia/",
+    "source": "El Financiero",
+    "published": "2026-11-04T11:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Democrats’ Midterm Wins Threaten to Slow the AI Data Center Boom",
+    "summary": "Democratic midterm wins threaten to slow the AI data center boom, as investors face new political and financial constraints.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom",
+    "source": "Bloomberg",
+    "published": "2026-11-04T11:28:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "LANZA Atelier: México conquista el Pabellón Serpentine de Londres",
+    "summary": "El despacho mexicano LANZA Atelier fue elegido para diseñar el Pabellón Serpentine de Londres. La nota repasa la historia del encargo anual de la galería.",
+    "link": "https://www.elfinanciero.com.mx/opinion/andrea-lobato/2026/11/04/lanza-atelier-mexico-conquista-el-pabellon-serpentine-de-londres/",
+    "source": "El Financiero",
+    "published": "2026-11-04T10:47:53+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Trii busca acelerar su crecimiento en Chile y prepara apuestas en IA y criptomonedas",
     "summary": "La plataforma de inversión Trii prepara su expansión en Chile para 2027. Planea desarrollar un asistente de inteligencia artificial y explorar la incorporación de criptomonedas a su oferta de productos financieros.",
     "link": "https://www.bloomberglinea.com/mercados/trii-busca-acelerar-su-crecimiento-en-chile-y-prepara-apuestas-en-ia-y-criptomonedas/",
@@ -8,6 +85,17 @@
     "category": "AI & Agents",
     "relevance_score": 75,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Latin America in Focus: This Month in Architecture, Social Housing, and Heritage Recovery",
+    "summary": "ArchDaily's monthly roundup of Latin American architecture, covering social housing, heritage recovery and emerging practices, including Design Week Mexico.",
+    "link": "https://www.archdaily.com/1188054/latin-america-in-focus-this-month-in-architecture-social-housing-and-heritage-recovery",
+    "source": "ArchDaily",
+    "published": "2026-11-04T06:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
+    "language": "en",
     "light": false
   },
   {
@@ -66,6 +154,28 @@
     "light": true
   },
   {
+    "title": "Banorte pagará más impuestos en 2027 por cambios a la Ley de Ingresos, dice su CEO Marcos Ramírez",
+    "summary": "El CEO de Banorte, Marcos Ramírez, señaló que el banco pagará más impuestos en 2027 por los cambios a la Ley de Ingresos. El comentario apunta al impacto fiscal en la banca mexicana.",
+    "link": "https://expansion.mx/economia/2026/11/03/banorte-pagara-mas-impuestos-en-2027-por-cambios-a-la-ley-de-ingresos-dice-su-ceo-marcos-ramirez",
+    "source": "Expansión",
+    "published": "2026-11-04T01:42:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "No basta con saber usar ChatGPT, esta es la capacidad que las empresas más buscan al momento de contratar",
+    "summary": "Expansión señala que saber usar ChatGPT ya no basta para las empresas al contratar, y destaca la capacidad que más buscan en los candidatos.",
+    "link": "https://expansion.mx/carrera/2026/11/03/no-saber-chatgpt-capacidad-empresas-buscan-contratar",
+    "source": "Expansión",
+    "published": "2026-11-04T00:53:22+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Neurotecnologías: vacío regulatorio, dispositivos que leen el cerebro y derechos digitales",
     "summary": "En el Senado se discutió el vacío regulatorio sobre neurotecnologías: dispositivos de venta abierta que leen o estimulan actividad cerebral sin autorización clara. Se plantean derechos digitales y la necesidad de regulación.",
     "link": "https://www.eleconomista.com.mx/opinion/neurotecnologias-vacio-regulatorio-dispositivos-leen-cerebro-derechos-digitales-20261104-842078.html",
@@ -121,6 +231,17 @@
     "light": true
   },
   {
+    "title": "Economía de México crecerá más en 2026 y 2027, dice encuesta de Banxico",
+    "summary": "Una encuesta de Banxico muestra que los economistas elevaron sus expectativas de crecimiento de México para 2026 y 2027.",
+    "link": "https://expansion.mx/economia/2026/11/03/economia-2026-y-2027-economistas-suben-expectativas",
+    "source": "Expansión",
+    "published": "2026-11-03T21:08:26+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "China’s AI stock-market struggles are a warning",
     "summary": "The Economist asks what happens when the supply of new tech catches up with demand, using China's AI stock-market struggles as a warning.",
     "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
@@ -130,6 +251,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "De Facebook a WhatsApp: el modus operandi con el que suplantan identidad a Barclays México para robar tu dinero",
+    "summary": "Expansión describe el modus operandi con el que delincuentes suplantan la identidad de Barclays México en Facebook y WhatsApp para robar dinero a clientes. Es un caso de fraude y riesgo de conducta para el sector financiero.",
+    "link": "https://expansion.mx/economia/2026/11/03/de-facebook-a-whatsapp-el-modus-operandi-con-el-que-suplantan-identidad-a-barclays-mexico-para-robar-tu-dinero",
+    "source": "Expansión",
+    "published": "2026-11-03T19:25:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AllianceBernstein’s Yu Urges Investors to Diversify Beyond AI",
@@ -5366,137 +5498,5 @@
     "relevance_score": 78,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
-    "summary": "Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier JLA Group from buyout firm Cinven, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla",
-    "source": "Bloomberg",
-    "published": "2026-10-24T14:08:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Boom Faces a Growing Public Backlash",
-    "summary": "Atlantic CEO Nicholas Thompson says AI offers powerful business tools but poses significant risks to media, while its broader economic impact lags behind rapidly advancing capabilities.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
-    "source": "Bloomberg",
-    "published": "2026-10-24T14:08:22+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "A tres años de Otis, negocios operan sin seguro y escasa protección ante eventos climáticos",
-    "summary": "A tres años del huracán Otis, negocios en Acapulco operan con seguros insuficientes y escasa protección financiera ante eventos climáticos.",
-    "link": "https://expansion.mx/economia/2026/10/24/huracan-otis-negocios-acapulco-mitad-blindaje-financiero",
-    "source": "Expansión",
-    "published": "2026-10-24T14:05:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How This County Made the Data Center Boom Pay Off",
-    "summary": "AI is driving a wave of new data centers, and communities are asking what they get in return. Virginia's Loudoun County turned the industry into a major tax base but is now limiting further growth, suggesting towns have more bargaining power than they think.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video",
-    "source": "Bloomberg",
-    "published": "2026-10-24T14:03:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Profuturo adelanta el reloj y gana el Gran Effie al ponerle cara al retiro",
-    "summary": "Profuturo gana el Gran Effie 2026 con una campaña que le pone cara al retiro y busca acercar el ahorro pensionario a los usuarios.",
-    "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
-    "source": "Expansión",
-    "published": "2026-10-24T14:00:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "HR Navigates AI and a Changing Workplace",
-    "summary": "SHRM's Johnny C. Taylor Jr. says employers must communicate benefits more clearly and help workers see how AI can complement human intelligence amid job disruption and generational divides.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
-    "source": "Bloomberg",
-    "published": "2026-10-24T13:29:52+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Persistent Oil Prices Threaten Inflation Outlook",
-    "summary": "Seaport's Jonathan Golub argues stocks are not in an AI bubble, citing strong earnings and lower valuations. He warns a prolonged Middle East conflict could keep oil and inflation elevated and eventually force the Federal Reserve to respond.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/persistent-oil-prices-threaten-inflation-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-10-24T13:19:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Presupuesto de las familias está cada vez más lejos del precio de la vivienda",
-    "summary": "Según BBVA Research, entre 2016 y 2025 los precios de la vivienda en México subieron 108.5% mientras los ingresos de los hogares crecieron solo 25%. La brecha de 83.6 puntos porcentuales complica el acceso a un hogar y presiona la demanda de crédito hipotecario.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/presupuesto-familias-vez-lejos-precio-vivienda-20261024-840245.html",
-    "source": "El Economista",
-    "published": "2026-10-24T12:30:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dando crédito a los que dan crédito",
-    "summary": "Columna de opinión sobre el acto de otorgar crédito, desde su raíz etimológica (credere, confiar) hasta su papel en el mundo mercantil y el financiamiento de pequeñas empresas.",
-    "link": "https://www.eleconomista.com.mx/opinion/dando-credito-dan-credito-20261024-840306.html",
-    "source": "El Economista",
-    "published": "2026-10-24T11:52:54-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
-    "summary": "Barclays' fixed income house is being overhauled as the bank shows it can do more for clients than trade bonds and arrange debt deals, pinning future growth on equities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
-    "source": "Bloomberg",
-    "published": "2026-10-24T11:02:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 67,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Qué riesgos implica invertir en bonos en 2026? Esto muestra la historia reciente",
-    "summary": "Invertir en bonos implica riesgos, aunque sus fluctuaciones suelen ser menores que las de las acciones; la historia reciente, como 2022, muestra que las pérdidas pueden ser significativas.",
-    "link": "https://www.bloomberglinea.com/mercados/que-riesgos-implica-invertir-en-bonos-en-2026-esto-muestra-la-historia-reciente/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-24T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gastar mejor, no menos: lo que el consumidor mexicano busca para sus finanzas personales este 2027",
-    "summary": "El estudio Consumer Outlook 2027 de NielsenIQ muestra que México es el mercado latinoamericano con mayor intención de aumentar su gasto, aunque con criterio más exigente. El costo de vida sigue pesando: 75% de los consumidores globales percibió aumentos.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/gastar-mejor-consumidor-mexicano-busca-finanzas-personales-20261024-840281.html",
-    "source": "El Economista",
-    "published": "2026-10-24T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
