@@ -1,5 +1,126 @@
 [
   {
+    "title": "AI Agents: How Meta’s Muse, OpenAI’s Dots Work, What They Can Do, Safety Worries",
+    "summary": "A Bloomberg explainer on how AI agents such as Meta's Muse and OpenAI's Dots work, what they can do and the safety worries they raise. It frames the tech industry's long pursuit of a powerful digital assistant.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/ai-agents-how-meta-s-muse-openai-s-dots-work-what-they-can-do-safety-worries",
+    "source": "Bloomberg",
+    "published": "2026-11-05T11:29:33+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Big Tech Stocks Surge as Democrats Threaten to Slow AI Spending",
+    "summary": "Big Tech stocks surged even as Democrats threaten to slow AI spending, with hyperscalers outperforming other AI companies. The midterm result is reshaping the AI investment outlook.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending",
+    "source": "Bloomberg",
+    "published": "2026-11-05T11:28:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related Earnings",
+    "summary": "Carlyle's Q3 earnings beat Wall Street estimates as profits from asset sales offset a decline in fee-related earnings. Deal exits are cushioning the private equity giant's results.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
+    "source": "Bloomberg",
+    "published": "2026-11-05T11:01:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La urgencia de la Alfabetización Digital y el Upskilling",
+    "summary": "Columna sobre la urgencia de la alfabetización digital y el upskilling ante la digitalización de todas las áreas. Plantea la necesidad de capacitar talento para la transformación tecnológica.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/05/la-urgencia-de-la-alfabetizacion-digital-y-el-upskilling/",
+    "source": "El Financiero",
+    "published": "2026-11-05T11:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La IA y el siguiente salto industrial de México",
+    "summary": "México se consolida como plataforma exportadora de servidores para inteligencia artificial. La columna plantea que el siguiente paso es capturar más valor agregado en el país, dada la velocidad del cambio tecnológico.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/11/05/la-ia-y-el-siguiente-salto-industrial-de-mexico/",
+    "source": "El Financiero",
+    "published": "2026-11-05T10:15:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
+    "summary": "Aunque la mayoría de analistas prevé que Banxico mantenga la tasa en 6.50% este 5 de noviembre, existe incertidumbre sobre su decisión. Los analistas ven más riesgos que beneficios si el banco central decide recortar.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-05T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Es rentable construir vivienda en Bogotá? 198 constructoras confían y tienen 400 proyectos en pipeline",
+    "summary": "Bogotá apuesta por subsidios, crédito y habilitación de suelo para dinamizar el sector inmobiliario. La administración de Galán vinculó a 198 constructoras a sus programas y suma más de 400 proyectos en pipeline.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/es-rentable-construir-vivienda-en-bogota-198-constructoras-confian-y-tienen-400-proyectos-en-pipeline/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-05T10:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nuveen's Cooper Sees Attractive Opportunities in AI Credit",
+    "summary": "Laura Cooper, de Nuveen, ve oportunidades atractivas en crédito ligado a IA ante el auge del financiamiento para su infraestructura. Considera favorable la exposición a los hyperscalers.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-05/nuveen-sees-attractive-opportunities-in-ai-credit-video",
+    "source": "Bloomberg",
+    "published": "2026-11-05T08:35:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Global AI Trade Unwind Propels European Stocks To Record High",
+    "summary": "European stocks closed above their prior record high, driven by a rotation out of the AI trade and a strong earnings season. The region keeps outperforming.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+    "source": "Bloomberg",
+    "published": "2026-11-05T08:09:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Sobrecarga laboral: el riesgo de exigir demasiado al equipo durante el cierre de año",
+    "summary": "Con el cierre de año, los jefes deben cuidar a sus equipos para evitar sobrecarga laboral y agotamiento. El artículo advierte de los riesgos de exigir demasiado en estas fechas.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/sobrecarga-laboral-riesgo-exigir-demasiado-equipo-cierre-ano-20261105-842227.html",
+    "source": "El Economista",
+    "published": "2026-11-05T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El Banco de Inglaterra sube sus tasas por primera vez desde 2023; advierte de posibles nuevas alzas",
+    "summary": "El Banco de Inglaterra subió tasas por primera vez en más de tres años y advirtió que probablemente habrá otro aumento si continúa el conflicto EU-Irán. Inicia así una senda que sus pares ya emprendieron.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banco-inglaterra-sube-tasas-primera-vez-2023-advierte-posibles-nuevas-alzas-20261105-842324.html",
+    "source": "El Economista",
+    "published": "2026-11-05T06:53:01-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central",
     "summary": "Paraguay enfrenta una crisis bancaria tras el congelamiento de Ueno Bank, sexta entidad del país, por falta de solvencia; cerca del 60% de la población perdió acceso a sus cuentas. Hay protestas y renunció el director del Banco Central.",
     "link": "https://www.elfinanciero.com.mx/mundo/2026/11/05/paraguay-en-crisis-bancaria-miles-pierden-acceso-a-sus-cuentas-y-dimite-director-del-banco-central/",
@@ -7,6 +128,17 @@
     "published": "2026-11-05T06:30:16+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "BCE alerta sobre los riesgos de la deuda y las entidades no bancarias para la política monetaria",
+    "summary": "Isabel Schnabel advirtió que el aumento de la deuda pública y la rápida expansión de las entidades financieras no bancarias podrían limitar la capacidad del BCE para fijar la política monetaria adecuada.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-alerta-sobre-riesgos-deuda-entidades-bancarias-politica-monetaria-20261105-842316.html",
+    "source": "El Economista",
+    "published": "2026-11-05T06:20:45-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -88,6 +220,17 @@
     "light": false
   },
   {
+    "title": "La elección de los data centers",
+    "summary": "Columna sobre cómo la victoria demócrata en las elecciones intermedias de EU, con control de la Cámara y 54 escaños en el Senado, convierte a los data centers en tema electoral.",
+    "link": "https://www.eleconomista.com.mx/opinion/eleccion-data-centers-20261105-842307.html",
+    "source": "El Economista",
+    "published": "2026-11-05T01:26:15-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
     "summary": "Banqueros piden a la SCJN acelerar la puesta en marcha de juzgados financieros especializados para facilitar el cobro de garantías en créditos vencidos. El tema es clave para la recuperación de cartera hipotecaria y la ejecutabilidad de garantías.",
     "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
@@ -165,6 +308,17 @@
     "light": false
   },
   {
+    "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+    "summary": "Big Tech's $600mn midterm campaign fell flat as anger at AI and Silicon Valley fuelled support for Democrats, with Elon Musk rebuked. Light summary from the blurb.",
+    "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-04T22:38:45+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
     "summary": "John Chambers, founder of JC2 Ventures and ex-Cisco CEO, makes the case for AI as a win for society, saying he wasn't surprised by the pace of AI growth or capital formation.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
@@ -172,6 +326,17 @@
     "published": "2026-11-04T22:26:59+00:00",
     "category": "AI & Agents",
     "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What markets make of the midterms",
+    "summary": "The Economist says investors yawned at the Democratic midterm triumph. Light summary from the blurb.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "source": "The Economist",
+    "published": "2026-11-04T21:48:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -187,6 +352,17 @@
     "light": false
   },
   {
+    "title": "Peso mexicano sube con fuerza tras derrota republicana en Estados Unidos",
+    "summary": "El peso mexicano sube con fuerza tras la derrota republicana en las elecciones intermedias, en medio de preocupaciones de estancamiento político y mayor regulación a tecnológicas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-sube-con-fuerza-tras-derrota-republicana-en-estados-unidos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-04T19:17:10+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Santander conectará México y Estados Unidos a través de Openbank",
     "summary": "Santander conectará México y Estados Unidos a través de Openbank, su banco digital. El anuncio es relevante para la competencia bancaria digital y transfronteriza en México.",
     "link": "https://expansion.mx/economia/2026/11/04/santander-conectara-mexico-estados-unidos-a-traves-openbank",
@@ -194,6 +370,17 @@
     "published": "2026-11-04T19:11:01+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky para triplicar sus ingresos anuales",
+    "summary": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky con el objetivo de triplicar sus ingresos anuales.",
+    "link": "https://expansion.mx/empresas/2026/11/04/televisa-une-clientes-servicios-att-izzi-sky-ingresos",
+    "source": "Expansión",
+    "published": "2026-11-04T18:58:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
@@ -5309,193 +5496,6 @@
     "published": "2026-10-26T16:51:47+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Shock Lula Win Derails $6 Billion in Equity Sales as Banks Reel",
-    "summary": "Brazilian companies had about $6 billion in equity sales lined up that were expected to follow a conservative win; Lula's shock victory derails them and leaves banks reeling.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/shock-lula-win-derails-6-billion-in-equity-sales-as-banks-reel",
-    "source": "Bloomberg",
-    "published": "2026-10-26T16:12:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
-    "summary": "Microsoft is offering buyouts to 60,000 workers in the US, Canada, India and the UK as it retools its workforce for the AI era.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/microsoft-offers-buyouts-to-60-000-employees-video",
-    "source": "Bloomberg",
-    "published": "2026-10-26T16:09:49+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Welcome to the Infinite Work Machine",
-    "summary": "Bloomberg looks at the never-ending arms race in AI agents and how it is reshaping work.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/welcome-to-the-infinite-work-machine",
-    "source": "Bloomberg",
-    "published": "2026-10-26T16:05:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Victoria de Lula golpea a los activos de América Latina: así caen los mercados",
-    "summary": "Los mercados de América Latina caen tras la inesperada victoria de Lula en Brasil, con presión en las principales bolsas y monedas de la región.",
-    "link": "https://www.bloomberglinea.com/mercados/victoria-de-lula-golpea-a-los-activos-de-america-latina-asi-caen-los-mercados/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-26T14:58:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué significa el repunte de los yields del Tesoro para las estrategias de inversión?",
-    "summary": "En septiembre los yields globales saltaron: el Treasury a 2 años subió 54 pb a 4.9% y el de 10 años llegó a 5.3%, máximo desde 2002. El índice Bloomberg Aggregate acumula una caída de casi 3%.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/26/que-significa-el-repunte-de-los-yields-del-tesoro-para-las-estrategias-de-inversion/",
-    "source": "El Financiero",
-    "published": "2026-10-26T14:54:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Real brasileño se hunde tras triunfo de Lula; peso mexicano se mantiene bajo los 18.62 por dólar",
-    "summary": "El real brasileño se hunde tras el triunfo de Lula, mientras el peso mexicano se mantiene por debajo de 18.62 por dólar.",
-    "link": "https://expansion.mx/mercados/2026/10/26/real-brasileno-se-hunde-tras-triunfo-de-lula-da-silva",
-    "source": "Expansión",
-    "published": "2026-10-26T14:36:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
-    "summary": "Anthropic PBC filed for its long-awaited IPO, a landmark moment for an AI industry increasingly hungry for capital to fund its buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances",
-    "source": "Bloomberg",
-    "published": "2026-10-26T13:08:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Revolut entra a la captación de nómina de trabajadores en México",
-    "summary": "Revolut entra a la captación de nómina de trabajadores en México, ampliando su oferta bancaria digital en el país.",
-    "link": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico",
-    "source": "Expansión",
-    "published": "2026-10-26T13:00:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "A Fed Skip Cements the Odds for December, Economist Dutta Says",
-    "summary": "Neil Dutta, de Renaissance Macro, ve que una pausa de la Fed esta semana consolida las probabilidades de un alza en diciembre. Argumenta que, desde la gestión de riesgos, tiene sentido subir tasas.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/a-fed-skip-now-cements-odds-for-december-dutta-video",
-    "source": "Bloomberg",
-    "published": "2026-10-26T12:50:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bartleby newsletter: In praise of praise",
-    "summary": "The Economist's Bartleby columnist argues for the value of praise in the workplace. A light newsletter on management and motivation.",
-    "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-    "source": "The Economist",
-    "published": "2026-10-26T12:28:13+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX Agrees to $40 Billion Chip-Financing Deal With Apollo",
-    "summary": "SpaceX firmó un arrendamiento de financiamiento de equipo por unos 40,000 millones de dólares con Apollo para pagar los chips de sus ambiciones en IA. Ilustra el papel del capital privado en el financiamiento de la infraestructura de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/spacex-agrees-to-40-billion-chip-financing-deal-with-apollo",
-    "source": "Bloomberg",
-    "published": "2026-10-26T12:19:43+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AT&T México respaldará con sus propios activos el 60% del precio de su adquisición",
-    "summary": "La adquisición de AT&T México por Grupo Televisa y Fintech Holdings, por 2,000 mdd, se financiará con un crédito de 1,200 mdd garantizado por activos del negocio adquirido y 800 mdd en efectivo, según Moody's Local México.",
-    "link": "https://www.eleconomista.com.mx/empresas/at-t-mexico-respaldara-propios-activos-60-precio-adquisicion-20261026-840517.html",
-    "source": "El Economista",
-    "published": "2026-10-26T12:02:00-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ironwood Retreat / The Ranch Mine",
-    "summary": "Ironwood Retreat, by The Ranch Mine, sits along Oak Creek in Sedona, Arizona, one of the few year-round streams in the state.",
-    "link": "https://www.archdaily.com/1187398/ironwood-the-ranch-mine",
-    "source": "ArchDaily",
-    "published": "2026-10-26T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Repensar los riesgos para fortalecer al negocio",
-    "summary": "Columna de Expansión que plantea repensar la gestión de riesgos como palanca para fortalecer el negocio. Toca gobierno corporativo y riesgo operativo.",
-    "link": "https://expansion.mx/opinion/2026/10/26/repensar-los-riesgos-para-fortalecer-al-negocio",
-    "source": "Expansión",
-    "published": "2026-10-26T11:59:03+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La tríada invisible: lo que el consejo no ve, pero gobierna",
-    "summary": "Columna de Expansión sobre lo que el consejo de administración no ve pero que de hecho gobierna a la organización. Aborda gobierno corporativo y supervisión del consejo.",
-    "link": "https://expansion.mx/opinion/2026/10/26/la-triada-invisible-lo-que-el-consejo-no-ve-pero-gobierna",
-    "source": "Expansión",
-    "published": "2026-10-26T11:58:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
-    "summary": "Anthropic plans to file publicly for its IPO Monday around 9 a.m. New York time, according to people familiar. The AI model maker is nearing a potentially record-breaking debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
-    "source": "Bloomberg",
-    "published": "2026-10-26T11:53:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apollo Takes Stake in Mubadala Capital, Deepening Abu Dhabi Ties",
-    "summary": "Apollo compra una participación en Mubadala Capital, el brazo de activos alternativos del fondo soberano de Abu Dabi con 385,000 millones de dólares. El acuerdo profundiza sus vínculos con el emirato.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
-    "source": "Bloomberg",
-    "published": "2026-10-26T11:49:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
     "language": "en",
     "light": true
   }
