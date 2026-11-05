@@ -1,5 +1,203 @@
 [
   {
+    "title": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central",
+    "summary": "Paraguay enfrenta una crisis bancaria tras el congelamiento de Ueno Bank, sexta entidad del país, por falta de solvencia; cerca del 60% de la población perdió acceso a sus cuentas. Hay protestas y renunció el director del Banco Central.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/05/paraguay-en-crisis-bancaria-miles-pierden-acceso-a-sus-cuentas-y-dimite-director-del-banco-central/",
+    "source": "El Financiero",
+    "published": "2026-11-05T06:30:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Asia’s Richest Banker Uday Kotak Sees AI Correction Boosting Flows to India",
+    "summary": "Uday Kotak, Asia's richest banker, says India could benefit from foreign flows if the global AI investment boom unwinds, as investors seek more attractive valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/asia-s-richest-banker-uday-kotak-sees-ai-correction-boosting-flows-to-india",
+    "source": "Bloomberg",
+    "published": "2026-11-05T06:09:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Commerzbank Sees 45% Jump in Profit Ahead of UniCredit Deal",
+    "summary": "Commerzbank reported a better-than-expected 45% jump in profit, in one of its last quarterly results as an independent bank before UniCredit takes control.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/commerzbank-quarterly-net-rises-45-ahead-of-unicredit-takeover",
+    "source": "Bloomberg",
+    "published": "2026-11-05T06:08:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Asian tech stocks slide on post-midterm AI fears",
+    "summary": "Asian tech stocks slid on concerns that Democratic control of Congress will slow the data centre build-out.",
+    "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-05T05:12:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Encuesta Citi perfila cierre de año positivo con crecimiento para la economía mexicana",
+    "summary": "La Encuesta Citi perfila un cierre de año positivo para la economía mexicana, con dinamismo que se prolongaría hasta 2027, tras un crecimiento anual de 3.2% en el tercer trimestre.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/encuesta-citi-perfila-cierre-de-ano-positivo-con-crecimiento-para-la-economia-mexicana/",
+    "source": "El Financiero",
+    "published": "2026-11-05T04:32:30+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México inicia cuenta regresiva para decidir los negocios que ya no aceptarán efectivo",
+    "summary": "Sheinbaum publicó la nueva ley de pagos digitales, con lo que inicia la cuenta regresiva para que el Gobierno defina los sectores que dejarán de aceptar efectivo de forma gradual. La medida impulsará pagos electrónicos y fintech.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-inicia-cuenta-regresiva-para-decidir-los-negocios-que-ya-no-aceptaran-efectivo/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-05T03:13:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Moody’s advierte por el impacto de la crisis de Ueno Bank en el sistema financiero de Paraguay",
+    "summary": "Moody’s advierte que la crisis de Ueno Bank, ahora en resolución, puede tener consecuencias para depositantes y la competencia en el sistema financiero de Paraguay, más allá de la propia entidad.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/moodys-advierte-por-el-impacto-de-la-crisis-de-ueno-bank-en-el-sistema-financiero-de-paraguay/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-05T02:07:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gobierno publica Ley de Economía Digital en DOF; en 15 días deben establecerse sectores donde disminuirá uso de efectivo",
+    "summary": "El gobierno publicó la Ley de Economía Digital en el DOF; en 15 días deben definirse los sectores donde disminuirá el uso de efectivo. Tiene implicaciones directas para pagos y servicios financieros.",
+    "link": "https://expansion.mx/economia/2026/11/04/ley-de-economia-digital-dof-cuando-entra-vigor",
+    "source": "Expansión",
+    "published": "2026-11-05T01:27:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
+    "summary": "Banqueros piden a la SCJN acelerar la puesta en marcha de juzgados financieros especializados para facilitar el cobro de garantías en créditos vencidos. El tema es clave para la recuperación de cartera hipotecaria y la ejecutabilidad de garantías.",
+    "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
+    "source": "Expansión",
+    "published": "2026-11-05T00:53:39+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 95,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La estrategia del joven economista ante la Inteligencia Artificial",
+    "summary": "Una columna reflexiona sobre los riesgos de la IA para la competencia y la gobernanza, y sobre los retos y la estrategia de los jóvenes economistas ante ella.",
+    "link": "https://www.eleconomista.com.mx/opinion/estrategia-joven-economista-inteligencia-artificial-20261104-842289.html",
+    "source": "El Economista",
+    "published": "2026-11-04T23:56:30-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La estrategia de OXXO para ir contra Nu y convertir a sus clientes en usuarios de tarjeta Spin",
+    "summary": "OXXO prepara una estrategia para competir contra Nu convirtiendo a sus clientes en usuarios de la tarjeta Spin. Es un movimiento relevante en el mercado mexicano de fintech y crédito al consumo.",
+    "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
+    "source": "Expansión",
+    "published": "2026-11-04T23:50:11+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banxico decide su tasa este jueves con el peso al alza tras la derrota republicana: qué esperan los analistas",
+    "summary": "Banxico anuncia su decisión de tasa este jueves a las 13:00 con el peso al alza tras la derrota republicana en el Congreso de EU. El artículo recoge las expectativas de los analistas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-decide-su-tasa-este-jueves-con-el-peso-al-alza-tras-la-derrota-republicana-que-esperan-los-analistas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-04T23:27:27+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Exportaciones del sector IA y construcción impulsan al alza pronósticos del PIB para 2026",
+    "summary": "El consenso de analistas de Citi elevó a 1.8% su pronóstico de crecimiento del PIB de México para 2026, desde 1.4%, impulsado por exportaciones del sector de IA y la construcción.",
+    "link": "https://www.eleconomista.com.mx/economia/exportaciones-sector-ia-construccion-impulsan-alza-pronosticos-pib-20261104-842283.html",
+    "source": "El Economista",
+    "published": "2026-11-04T23:22:35-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Remesas acelerarían su crecimiento a 4.1% en el 2027: BBVA Research",
+    "summary": "BBVA Research prevé que las remesas aceleren su crecimiento a 4.1% en 2027, hasta 66,700 millones de dólares, ante una política migratoria menos agresiva en EU.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/remesas-acelerarian-crecimiento-4-1-2027-bbva-research-20261104-842280.html",
+    "source": "El Economista",
+    "published": "2026-11-04T23:14:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mercado anticipa pausa de Banxico: BofA",
+    "summary": "Analistas consultados por Citi anticipan que Banxico mantendrá la tasa en 6.50% en su decisión de este jueves, donde se ha mantenido desde mayo. BofA también prevé una pausa.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mercado-anticipa-pausa-banxico-bofa-20261104-842278.html",
+    "source": "El Economista",
+    "published": "2026-11-04T23:09:19-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
+    "summary": "John Chambers, founder of JC2 Ventures and ex-Cisco CEO, makes the case for AI as a win for society, saying he wasn't surprised by the pace of AI growth or capital formation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
+    "source": "Bloomberg",
+    "published": "2026-11-04T22:26:59+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tarjeta de crédito en Argentina: el saldo financiado cae 12% real en un año y los hipotecarios suben 24%",
+    "summary": "El crédito al sector privado en Argentina muestra estancamiento en octubre, con caída real de 1.6% interanual. El saldo de tarjetas financiado cae 12% real, mientras los hipotecarios suben 24%.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tarjeta-de-credito-en-argentina-el-saldo-financiado-cae-12-real-en-un-ano-y-los-hipotecarios-suben-24/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-04T20:10:38+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Santander conectará México y Estados Unidos a través de Openbank",
+    "summary": "Santander conectará México y Estados Unidos a través de Openbank, su banco digital. El anuncio es relevante para la competencia bancaria digital y transfronteriza en México.",
+    "link": "https://expansion.mx/economia/2026/11/04/santander-conectara-mexico-estados-unidos-a-traves-openbank",
+    "source": "Expansión",
+    "published": "2026-11-04T19:11:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ebrard enfría la expectativa de cambios en aranceles tras las elecciones de EU",
     "summary": "Ebrard enfría la expectativa de cambios en los aranceles de EU a México tras las elecciones intermedias.",
     "link": "https://expansion.mx/economia/2026/11/04/eb-rard-aranceles-mexico-t-mec-elecciones-eu",
@@ -9,6 +207,28 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Voters have put a helpful chill on the US data centre boom",
+    "summary": "Midterm results could affect 45% of planned US data centre expansion, though the FT sees a silver lining for investors.",
+    "link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-04T18:33:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Publican ley de pagos digitales obligatorios",
+    "summary": "El gobierno federal publicó en el DOF la nueva ley de pagos digitales, que no permitirá efectivo en los sectores que determine Hacienda.",
+    "link": "https://www.reforma.com/publican-ley-de-pagos-digitales-obligatorios/ar3308401",
+    "source": "Reforma",
+    "published": "2026-11-04T18:29:05-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": true
   },
   {
     "title": "‘Grito’ de recórd en septiembre: Exportaciones de México a EU imponen máximo histórico de 62.2 mil mdd",
@@ -220,6 +440,17 @@
     "light": true
   },
   {
+    "title": "French Creek Workshops House / Wittman Estes",
+    "summary": "A home for a newly retired couple sits beside a wetland on a four-and-a-half-acre site, conceived as a serene retreat immersed in nature through the seasons.",
+    "link": "https://www.archdaily.com/1035169/french-creek-workshops-house-wittman-estes",
+    "source": "ArchDaily",
+    "published": "2026-11-04T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "La IA no es un negocio rentable: Amazon, Google y Meta aún dependen de e-commerce y anuncios para financiarla",
     "summary": "Expansión advierte que la IA aún no es un negocio rentable: Amazon, Google y Meta siguen dependiendo del e-commerce y la publicidad para financiar sus inversiones en el área.",
     "link": "https://expansion.mx/tecnologia/2026/11/04/la-ia-no-es-un-negocio-rentable-amazon-google-meta",
@@ -229,6 +460,17 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Circle Lays Off 5% of Workforce as Revenue, Profit Surprises",
+    "summary": "Circle laid off about 5% of its workforce as part of a broader push to incorporate AI, while posting third-quarter revenue and earnings above analyst expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/circle-s-revenue-increases-more-than-estimated-shares-climb",
+    "source": "Bloomberg",
+    "published": "2026-11-04T11:51:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "¿Por qué las neveras de los supermercados europeos eran blancos fáciles para los hackers?",
@@ -5256,247 +5498,5 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "CyberCartel utilizó IA para atacar más de 400 objetivos financieros en América Latina",
-    "summary": "El grupo CyberCartel usó IA para coordinar ataques contra más de 400 objetivos en América Latina, incluidos bancos y proveedores de pagos. Desarrolló CARLIY0S, que distribuía tareas entre modelos comerciales de IA y los conectaba con programas capaces de ejecutar acciones.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/cybercartel-utilizo-ia-atacar-400-objetivos-financieros-america-latina-20261026-840515.html",
-    "source": "El Economista",
-    "published": "2026-10-26T11:38:43-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta Upsizes Equity Offering as It Seeks Almost $98 Billion",
-    "summary": "Meta is seeking to raise as much as $97.5 billion from common and preferred stock, one of the largest equity offerings in history, to support its AI development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending",
-    "source": "Bloomberg",
-    "published": "2026-10-26T11:12:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cómo afectaría al T-MEC una mayoría demócrata",
-    "summary": "A una semana de las elecciones legislativas en EE.UU., los pronosticadores esperan que los demócratas recuperen la Cámara de Representantes. El texto analiza cómo una mayoría demócrata afectaría la revisión del T-MEC.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jorge-molina-larrondo/2026/10/26/como-afectaria-al-t-mec-una-mayoria-democrata/",
-    "source": "El Financiero",
-    "published": "2026-10-26T11:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Transferencias bancarias con tu celular: qué cambia con las nuevas reglas de Banxico",
-    "summary": "Tras aprobarse la Ley de Economía Digital para reducir el uso de efectivo, a fin de año cambiarán las reglas del SPEI: las transferencias podrán hacerse con el número de teléfono. Banxico impulsa así los pagos digitales.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/transferencias-bancarias-celular-cambia-nuevas-reglas-banxico-20261026-839966.html",
-    "source": "El Economista",
-    "published": "2026-10-26T10:55:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft propone retiros voluntarios a 60,000 empleados en EU, Canadá, India y Reino Unido",
-    "summary": "Microsoft propone un nuevo plan de salidas voluntarias a unos 60,000 empleados en EU, Canadá, India y Reino Unido, seis meses después de una primera oferta. Aplica solo a ciertas divisiones y busca adaptar las plantillas a las nuevas necesidades.",
-    "link": "https://www.eleconomista.com.mx/empresas/microsoft-propone-retiros-voluntarios-60-000-empleados-eu-canada-india-reino-unido-20261026-840507.html",
-    "source": "El Economista",
-    "published": "2026-10-26T10:29:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Bots Are Transforming Bond Markets, Barclays Warns of Volatility Risk",
-    "summary": "Barclays estima que los agentes de IA podrían operar hasta el 65% del mercado de bonos corporativos grado de inversión en EE.UU. El banco advierte sobre un mayor riesgo de volatilidad.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/ai-bots-are-transforming-bond-markets-barclays-warns-of-volatility-risk",
-    "source": "Bloomberg",
-    "published": "2026-10-26T10:28:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mexicanos no sueltan ‘el cash’: Uso de efectivo sigue presente en sus gastos diarios",
-    "summary": "Banxico reporta que 7 millones de personas usaron pagos SPEI para gastos cotidianos en alimentos, bebidas y transporte, frente a 1.4 millones en 2024. Aun así, el efectivo sigue siendo muy relevante en el gasto diario.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/26/mexicanos-no-sueltan-el-cas-uso-de-efectivo-sigue-presente-en-sus-gastos-diarios/",
-    "source": "El Financiero",
-    "published": "2026-10-26T09:29:46+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Economía en México repunta 3.5 por ciento y alienta alza en pronósticos",
-    "summary": "La economía mexicana creció 3.5% anual en agosto, por encima de lo esperado y su mayor alza en casi tres años, impulsada por la industria. Los analistas están revisando al alza sus pronósticos de PIB.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/26/economia-en-mexico-repunta-35-por-ciento-y-alienta-alza-en-pronosticos/",
-    "source": "El Financiero",
-    "published": "2026-10-26T09:08:20+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 83,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The City as a Quarry: Housing Transformation",
-    "summary": "A conference with the European Commission, the Government of Catalonia and European architects explores how renovating, reusing and transforming existing buildings can increase housing supply amid the housing crisis.",
-    "link": "https://www.archdaily.com/1187514/the-city-as-a-quarry-housing-transformation",
-    "source": "ArchDaily",
-    "published": "2026-10-26T09:05:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "AI Agents Are Already Changing the Price of Goods",
-    "summary": "AI shopping agents such as Meta's Muse are being pitched as tools that find consumers the best deals. The piece examines how they are already shifting the prices of goods.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/ai-agents-are-already-changing-the-price-of-goods-video",
-    "source": "Bloomberg",
-    "published": "2026-10-26T08:13:10+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Funding Angst Stands in Way of Return to Highs: Taking Stock",
-    "summary": "Bloomberg Markets says worries over AI financing costs must be addressed before the market can challenge fresh highs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-angst-stands-in-way-of-return-to-highs-taking-stock",
-    "source": "Bloomberg",
-    "published": "2026-10-26T07:27:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Egypt’s Banque du Caire Prices IPO at Top End, Eyes $648 Million",
-    "summary": "Banque du Caire fijó el precio de su IPO en el extremo alto del rango, con lo que podría recaudar unos 648 millones de dólares. Es una de las mayores listas de Egipto.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range",
-    "source": "Bloomberg",
-    "published": "2026-10-26T07:26:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Can the AI Boom Survive a Margin Squeeze?",
-    "summary": "Merryn Talks Money looks at the economics of AI: token prices are falling while the compute cost to produce them is rising. The discussion covers what this squeeze could mean for valuations of companies like OpenAI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/can-the-ai-boom-survive-a-margin-squeeze-video",
-    "source": "Bloomberg",
-    "published": "2026-10-26T07:07:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El reto del CFO, convertir la Inteligencia Artificial en valor para el negocio",
-    "summary": "Con datos del AI Index 2026 de Stanford HAI, el texto plantea que la pregunta para las empresas ya no es si adoptar IA sino cuánto valor genera. Destaca el papel del CFO en convertir la adopción en resultados medibles.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/reto-cfo-convertir-inteligencia-artificial-valor-negocio-20261026-840365.html",
-    "source": "El Economista",
-    "published": "2026-10-26T07:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Indicadores del 26 al 30 de octubre: Anuncio de la Fed y el BCE; PIB de EU y de México",
-    "summary": "La semana estará marcada por las decisiones de la Fed y el BCE, cifras de inflación en EE.UU. y las primeras estimaciones del PIB del tercer trimestre de EE.UU. y México. Se resumen los indicadores clave.",
-    "link": "https://www.eleconomista.com.mx/mercados/indicadores-26-30-octubre-anuncio-fed-bce-pib-eu-mexico-20261026-840413.html",
-    "source": "El Economista",
-    "published": "2026-10-26T07:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Meta lanza oferta pública de acciones por 35,000 millones de dólares para financiar su expansión de IA",
-    "summary": "Meta lanzó una oferta pública de acciones ordinarias y preferentes convertibles por unos 35,000 millones de dólares para financiar su expansión en IA. La operación refleja el creciente costo de financiar la infraestructura de inteligencia artificial.",
-    "link": "https://www.eleconomista.com.mx/mercados/meta-lanza-oferta-publica-acciones-35-000-millones-dolares-financiar-expansion-ia-20261026-840478.html",
-    "source": "El Economista",
-    "published": "2026-10-26T06:40:42-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Itaú acuerda comprar la empresa emergente de IA NeoSpace por 589 millones de dólares",
-    "summary": "Itaú acordó comprar la startup de IA NeoSpace por 2,925 millones de reales (unos 589 millones de dólares), parte pagadera al cierre. Es una adquisición de un banco latinoamericano para reforzar sus capacidades de IA.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/itau-acuerda-comprar-empresa-emergente-ia-neospace-589-millones-dolares-20261026-840476.html",
-    "source": "El Economista",
-    "published": "2026-10-26T06:32:15-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cemex impulsa ganancias en 3T y continúa su reestructuración con venta de activos",
-    "summary": "Cemex aumentó 12% su flujo de operación del tercer trimestre y continúa su reestructuración con venta de activos no estratégicos. Los volúmenes de cemento también crecieron.",
-    "link": "https://www.eleconomista.com.mx/mercados/cemex-impulsa-ganancias-3t-continua-reestructuracion-venta-activos-20261026-840473.html",
-    "source": "El Economista",
-    "published": "2026-10-26T06:19:34-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué pasará con las tasas de la Fed en la reunión del miércoles 28 de octubre de 2026?",
-    "summary": "La Fed subió 25 pb su tasa el 16 de septiembre, a 3.75–4%, y los futuros apuntan a que la mantendrá en la reunión del miércoles 28 de octubre. La trayectoria de tasas en EU es clave para el costo de fondeo y la política de Banxico.",
-    "link": "https://www.bloomberglinea.com/mercados/que-pasara-con-las-tasas-de-la-fed-en-la-reunion-del-miercoles-28-de-octubre-de-2026/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-26T05:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La IA dispara la fortuna de Larrea",
-    "summary": "La fortuna de Germán Larrea sube a niveles récord y lo ubica en el lugar 25 de la lista de multimillonarios de Bloomberg, impulsada por la demanda de cobre ligada a la inteligencia artificial y la electricidad.",
-    "link": "https://www.eleconomista.com.mx/opinion/ia-dispara-fortuna-larrea-20261026-840448.html",
-    "source": "El Economista",
-    "published": "2026-10-26T00:48:00-06:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La utilidad de la IA, operativa pero no financiera",
-    "summary": "La encuesta global de McKinsey sobre IA 2026 (1,719 participantes en 97 países) muestra que solo 37% de las empresas atribuye a la IA alguna contribución a su EBIT, casi igual que hace un año. La IA ya es útil en operaciones concretas, pero el reto es que llegue al estado de resultados.",
-    "link": "https://www.eleconomista.com.mx/opinion/utilidad-ia-operativa-financiera-20261026-840445.html",
-    "source": "El Economista",
-    "published": "2026-10-26T00:40:22-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Parques industriales de Jalisco prevén crecer hasta 15% en el 2027: APIEJ",
-    "summary": "APIEJ prevé que la superficie industrial nueva en Jalisco crezca entre 10 y 15% en 2027, impulsada por semiconductores y logística. En 2025 se construyeron 677,000 m² y este año se espera una cifra similar.",
-    "link": "https://www.eleconomista.com.mx/estados/parques-industriales-jalisco-preven-crecer-15-2027-apiej-20261025-840433.html",
-    "source": "El Economista",
-    "published": "2026-10-25T23:29:43-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
