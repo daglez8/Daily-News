@@ -1,5 +1,148 @@
 [
   {
+    "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+    "summary": "Anthropic's IPO plans have collided with a sharp post-election selloff in AI stocks, and prospective investors are rethinking the expected valuation, which could fall as low as $1.2 trillion. Investors face a weekend of uncertainty before pricing.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-investors-weigh-valuation-as-low-as-1-2t-video",
+    "source": "Bloomberg",
+    "published": "2026-11-06T18:47:46+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jobs Boom Meets AI Market Turmoil",
+    "summary": "A blowout jobs report fuels expectations of another Fed rate hike while Wall Street reels from a nearly $4 trillion tech selloff and questions about the AI trade. Anthropic's IPO prospects are also discussed.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-06/open-interest-11-6-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-06T17:58:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las tecnológicas se desploman en Asia por temor a que EU ponga freno a la IA",
+    "summary": "Las tecnológicas se desploman en Asia ante el temor de que Estados Unidos ponga freno a la inteligencia artificial. El episodio se suma a la turbulencia del sector por las dudas sobre la IA.",
+    "link": "https://expansion.mx/mercados/2026/11/06/las-tecnologicas-se-desploman-en-asia-por-temor-a-que-eu-ponga-freno-a-la-ia",
+    "source": "Expansión",
+    "published": "2026-11-06T17:44:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+    "summary": "Microsoft is winding down an arrangement to rent AI computing capacity from Oracle. It is part of a broader reassessment of billions of dollars in cloud partnerships.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+    "source": "Bloomberg",
+    "published": "2026-11-06T17:36:39+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apollo’s Brightspeed in Creditor Talks for Billions in New Money",
+    "summary": "Apollo-backed Brightspeed is in talks with creditors on a multibillion-dollar funding lifeline as it struggles with heavy debt from its fiber rollout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/apollo-s-brightspeed-in-creditor-talks-for-billions-in-new-money",
+    "source": "Bloomberg",
+    "published": "2026-11-06T17:00:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Brookfield’s Teskey Calls ‘Social License’ Crucial for AI Growth",
+    "summary": "Brookfield CEO Connor Teskey says getting buy-in from local communities is crucial before building AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-s-teskey-calls-social-license-crucial-for-ai-growth",
+    "source": "Bloomberg",
+    "published": "2026-11-06T16:50:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Multiple Fed Rate Hikes Reasonable, Pimco's Wilding Says",
+    "summary": "Pimco's Tiffany Wilding says the jobs report doesn't change her view of a Fed hike in December, and another in March is possible, calling the moves a recalibration.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-06/multiple-fed-rate-hikes-reasonable-pimco-s-wilding-says-video",
+    "source": "Bloomberg",
+    "published": "2026-11-06T16:22:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Spain’s ACS Weighs Hochtief Takeover and Turner US Listing",
+    "summary": "Spain's ACS is weighing strategic options for its German subsidiary Hochtief, including a potential takeover, and a US listing for Turner.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/spain-s-acs-weighs-hochtief-takeover-and-turner-us-listing",
+    "source": "Bloomberg",
+    "published": "2026-11-06T16:15:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿La otra perdedora de las elecciones en EU? La IA: Futuro de centros de datos luce incierto",
+    "summary": "Tras una campaña marcada por el rechazo a los centros de datos de IA, ganaron las elecciones de mitad de mandato muchos demócratas que prometieron endurecer su regulación. Se anticipa un entorno regulatorio más estricto para la industria.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/06/la-otra-perdedora-de-las-elecciones-en-eu-la-ia-futuro-de-centros-de-datos-luce-incierto/",
+    "source": "El Financiero",
+    "published": "2026-11-06T15:08:59+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La caída de Ueno Bank lleva a una avalancha de solicitudes al banco de los Gilinski en Paraguay",
+    "summary": "La intervención de Ueno Bank en Paraguay presiona a otras entidades: Banco GNB Paraguay, del Grupo Gilinski, reportó intermitencias en su app por la alta demanda de apertura de cuentas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-caida-de-ueno-bank-lleva-a-una-avalancha-de-solicitudes-al-banco-de-los-gilinski-en-paraguay/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-06T14:07:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+    "summary": "XN has built a $5.3bn stake in Anthropic through private-round investments. The low-profile Wall Street firm plans to double down despite the tech rout.",
+    "link": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-06T14:01:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México y la nueva oportunidad para captar inversiones en América Latina: Citi",
+    "summary": "Citi considera que América Latina atraviesa una coyuntura favorable para atraer inversión y que México, por su cercanía con EU y la integración de cadenas productivas, tiene una posición privilegiada.",
+    "link": "https://www.eleconomista.com.mx/economia/mexico-nueva-oportunidad-captar-inversiones-america-latina-citi-20261106-842422.html",
+    "source": "El Economista",
+    "published": "2026-11-06T12:56:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nubank y Mercado Pago suspenden sus transferencias de criptomonedas por inestabilidad en el sistema",
+    "summary": "Nubank y Mercado Pago suspendieron este viernes las transferencias de criptomonedas por inestabilidad en el sistema. Nubank aclaró que el incidente no se debe a su infraestructura y que los activos de los clientes siguen protegidos.",
+    "link": "https://www.eleconomista.com.mx/mercados/nubank-mercado-pago-suspenden-transferencias-criptomonedas-inestabilidad-sistema-20261106-842607.html",
+    "source": "El Economista",
+    "published": "2026-11-06T12:11:20-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
     "summary": "Brookfield Asset Management raised $25 billion in Q3, driven by credit and infrastructure. It is positioning itself as a key funder of the AI build-out.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
@@ -20,6 +163,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "OCDE enmarca el adiós del IFT y llegada de CRT como el giro regulatorio más drástico desde 2023",
+    "summary": "La OCDE califica la desaparición del IFT y la llegada de la CRT como el giro regulatorio más drástico entre sus países miembros desde 2023.",
+    "link": "https://www.eleconomista.com.mx/empresas/ocde-enmarca-adios-ift-llegada-crt-giro-regulatorio-drastico-20261106-842604.html",
+    "source": "El Economista",
+    "published": "2026-11-06T12:00:33-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "En 2027, México enfrentará un doble riesgo para la inversión entre reglas del T-MEC y cambios internos",
@@ -55,6 +209,28 @@
     "light": false
   },
   {
+    "title": "Bonos de Banco Ueno se desploman a niveles críticos tras quiebra bancaria en Paraguay: IFR",
+    "summary": "Los bonos internacionales de Ueno Bank, por 350 millones de dólares, cayeron a niveles críticos según IFR tras la toma de control del banco por los reguladores paraguayos, hecho que desató una crisis política.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bonos-banco-ueno-desploman-niveles-criticos-quiebra-bancaria-paraguay-ifr-20261106-842602.html",
+    "source": "El Economista",
+    "published": "2026-11-06T11:51:17-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Una desaceleración por la IA sería un factor para los bancos centrales: Georgieva",
+    "summary": "La directora del FMI, Kristalina Georgieva, dijo que los bancos centrales deben considerar cualquier desaceleración del crecimiento provocada por la IA al evaluar medidas contra la inflación.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/desaceleracion-ia-seria-factor-bancos-centrales-georgieva-20261106-842595.html",
+    "source": "El Economista",
+    "published": "2026-11-06T11:24:10-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "EU Escalates TikTok Probe Over Algorithmic ‘Rabbit Holes’",
     "summary": "The EU escalated its TikTok probe after finding its recommendation algorithm pushes users down harmful 'rabbit holes', moving it closer to a fine.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-06/eu-escalates-tiktok-probe-over-algorithmic-rabbit-holes",
@@ -71,6 +247,17 @@
     "link": "https://www.bloomberglinea.com/mercados/los-paises-de-america-latina-donde-mas-aumento-la-deuda-externa-en-medio-de-un-record-global/",
     "source": "Bloomberg Línea",
     "published": "2026-11-06T11:00:01+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué puede bajar mi límite de crédito y qué hacer para evitarlo?",
+    "summary": "Usar poco una tarjeta de crédito guardada para emergencias puede llevar al banco a reducir su límite de crédito. Un especialista de Kardmatch explica cómo evitarlo.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/bajar-mi-limite-credito-evitarlo-20261106-842374.html",
+    "source": "El Economista",
+    "published": "2026-11-06T11:00:00-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 62,
     "language": "es",
@@ -242,6 +429,17 @@
     "light": true
   },
   {
+    "title": "Cox cambia de CEO y reorganiza su estructura de negocios",
+    "summary": "Cox Infrastructure Group reorganizó su estructura de negocios y nombró a Patxi Sáez como CEO para liderar su fase de crecimiento en Estados Unidos.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cox-cambia-de-ceo-y-reorganiza-su-estructura-de-negocios/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-06T00:51:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
     "summary": "IDB Invest officials suspected something was off almost as soon as they entered Ueno Bank in Paraguay. The bank scandal is now bringing down Trump's ally in the country.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
@@ -308,6 +506,17 @@
     "light": false
   },
   {
+    "title": "Markets realise they hate America’s blue wave",
+    "summary": "Investors worry that Democratic dominance after the midterms will slow the AI boom, and markets are reacting to the prospect of a blue wave.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+    "source": "The Economist",
+    "published": "2026-11-05T23:41:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Banxico baja tasa a 6.25% pese a repunte de inflación y expansión económica",
     "summary": "El Banco de México bajó la tasa 25 puntos base a 6.25% por mayoría de 3 a 2, con Borja y Heath votando por mantenerla. La decisión ocurre pese al repunte de la inflación y la expansión económica.",
     "link": "https://www.eleconomista.com.mx/economia/banxico-baja-tasa-6-25-pese-repunte-inflacion-expansion-economica-20261105-842500.html",
@@ -339,6 +548,17 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Lone Pine, Whale Rock, Tiger Global Battered by AI Jitters",
+    "summary": "Lone Pine, Tiger Global y Whale Rock figuraron entre los hedge funds golpeados el mes pasado por las dudas sobre las inversiones en IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-05/tiger-global-whale-rock-battered-by-ai-fears-in-painful-october",
+    "source": "Bloomberg",
+    "published": "2026-11-05T23:03:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
@@ -636,6 +856,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Indebted tycoons haunt China’s banking system",
+    "summary": "Chinese lenders are feeling the hangover from years of freewheeling capitalism, as indebted tycoons weigh on the banking system.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+    "source": "The Economist",
+    "published": "2026-11-05T11:54:22+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "AI Agents: How Meta’s Muse, OpenAI’s Dots Work, What They Can Do, Safety Worries",
@@ -5265,237 +5496,6 @@
     "published": "2026-10-28T05:00:06+00:00",
     "category": "AI & Agents",
     "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Lo mío es tuyo y lo tuyo es mío’: Pareja podrá reclamar propiedades compradas antes del matrimonio",
-    "summary": "La SCJN estableció como jurisprudencia que, tras el divorcio, los cónyuges tienen derecho sobre propiedades adquiridas a crédito antes del matrimonio por bienes separados. La propuesta fue de la ministra Yasmín Esquivel y se aprobó por unanimidad.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/10/27/lo-mio-es-tuyo-y-lo-tuyo-es-mio-pareja-podra-reclamar-propiedades-compradas-antes-del-matrimonio/",
-    "source": "El Financiero",
-    "published": "2026-10-28T04:40:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nearshoring chino llega a México: Empresas enfrentan obstáculos eléctricos para la inversión",
-    "summary": "Las empresas que invierten en México por nearshoring enfrentan el reto de contar con energía eléctrica confiable y asequible. Muchas manufactureras recurren a generación fotovoltaica y baterías como salvavidas operativo y estrategia financiera.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/27/nearshoring-chino-llega-a-mexico-empresas-enfrentan-obstaculos-electricos-para-la-inversion/",
-    "source": "El Financiero",
-    "published": "2026-10-28T03:32:44+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Senado aprueba Ley de Ingresos 2027 con deuda pública y endurecimiento de deducciones",
-    "summary": "El Senado aprobó el Paquete Económico 2027 en materia de ingresos, con ingresos totales por MXN$10,6 billones, deuda pública bajo la lupa de las calificadoras y un endurecimiento de las deducciones para empresas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/senado-aprueba-ley-de-ingresos-2027-con-deuda-publica-y-endurecimiento-de-deducciones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-28T02:18:05+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El Senado aprueba las leyes de Ingresos y Derechos 2027 y las envía al Ejecutivo para su publicación en el DOF",
-    "summary": "El Senado aprobó las leyes de Ingresos y de Derechos 2027 y las envió al Ejecutivo para su publicación en el DOF.",
-    "link": "https://expansion.mx/economia/2026/10/27/senado-aprueba-ley-ingresos-derechos",
-    "source": "Expansión",
-    "published": "2026-10-28T01:55:42+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
-    "summary": "OpenAI intends to buy AI computing chips from Google's parent Alphabet, according to a person familiar with the matter. The move is part of broader efforts to build out its AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
-    "source": "Bloomberg",
-    "published": "2026-10-28T01:19:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan in Market",
-    "summary": "Zankore, an Indonesian AI infrastructure platform backed by Nvidia, is syndicating a $3.1 billion loan to the broader market. It adds to a flurry of financing for Asia's AI buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market",
-    "source": "Bloomberg",
-    "published": "2026-10-28T01:14:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Senadores blindan a sector automotriz y gasolineros de topes a deducciones, reforma al ISR regresa a Diputados",
-    "summary": "Expansión reporta que los senadores blindaron a los sectores automotriz y gasolinero de los topes a las deducciones, y que la reforma al ISR regresa a Diputados.",
-    "link": "https://expansion.mx/economia/2026/10/27/senadores-automotriz-gasolineros-topes-deducciones-isr",
-    "source": "Expansión",
-    "published": "2026-10-28T00:34:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La burbuja de IA en China convierte la euforia en pérdidas millonarias",
-    "summary": "Un artículo de Expansión señala que la burbuja de IA en China está convirtiendo la euforia bursátil en pérdidas millonarias para los inversionistas.",
-    "link": "https://expansion.mx/mercados/2026/10/27/burbuja-ia-china-euforia-perdidas-millonarias",
-    "source": "Expansión",
-    "published": "2026-10-28T00:22:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inteligencia artificial en dispositivos médicos; el reto de regularla",
-    "summary": "La inteligencia artificial ya se incorpora en dispositivos médicos para diagnóstico por imagen, monitoreo y apoyo a decisiones clínicas. La columna plantea el reto de regularla para equilibrar precisión y personalización con seguridad.",
-    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-dispositivos-medicos-reto-regularla-20261028-840873.html",
-    "source": "El Economista",
-    "published": "2026-10-28T00:18:01-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Canada’s Wealthsimple Raises Funds at $9.8 Billion Valuation",
-    "summary": "Canadian fintech Wealthsimple was valued at C$13.8 billion (US$9.8 billion) after agreeing to raise as much as C$425 million in an equity round, it said Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/canada-s-wealthsimple-raises-funds-at-9-8-billion-valuation",
-    "source": "Bloomberg",
-    "published": "2026-10-28T00:08:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Senado aprueba Ley de Ingresos; Ley de ISR regresa a diputados",
-    "summary": "El Senado aprobó las leyes de Ingresos y de Derechos 2027 sin cambios, con una sola modificación a la Ley del ISR que regresa a la Cámara de Diputados para nueva discusión.",
-    "link": "https://www.eleconomista.com.mx/economia/senado-aprueba-ley-ingresos-ley-isr-regresa-diputados-20261028-840872.html",
-    "source": "El Economista",
-    "published": "2026-10-28T00:00:24-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Advent levanta 30,000 millones de dólares y crea un Fondo Mid Market con 3,000 millones de dólares",
-    "summary": "El fondo de capital privado Advent recaudó 30,000 millones de dólares: 27,000 millones para su fondo insignia y 3,000 millones para mercados medianos. El capital provino de fondos soberanos, aseguradoras y family offices, entre otros.",
-    "link": "https://www.eleconomista.com.mx/mercados/advent-levanta-30-000-millones-dolares-crea-fondo-mid-market-3-000-millones-dolares-20261027-840871.html",
-    "source": "El Economista",
-    "published": "2026-10-27T23:50:59-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ventas de viviendas nuevas en EU siguieron a la baja en septiembre",
-    "summary": "Las ventas de viviendas nuevas en EU cayeron en septiembre a 676,000 unidades anualizadas, aunque menos de lo previsto por el mercado, según el Departamento de Comercio.",
-    "link": "https://www.eleconomista.com.mx/economia/ventas-viviendas-nuevas-eu-siguieron-baja-septiembre-20261027-840868.html",
-    "source": "El Economista",
-    "published": "2026-10-27T23:36:30-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Presupuesto de México para 2027 es congruente con consolidación fiscal progresiva: Hacienda",
-    "summary": "Hacienda afirmó que el Presupuesto de Egresos 2027 es congruente con la consolidación fiscal progresiva de la presidenta Sheinbaum, viable y equilibrado respecto a los ingresos disponibles.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/presupuesto-de-mexico-para-2027-es-congruente-con-consolidacion-fiscal-progresiva-hacienda/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-27T23:30:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico evaluaría giro restrictivo de la Fed antes de decidir sobre tasas: Banamex",
-    "summary": "La Junta de Gobierno de Banxico evaluará el tono de la Fed sobre la trayectoria de tasas antes de anunciar su decisión el 5 de noviembre. Banamex anticipa que podría considerar un giro restrictivo de la Reserva Federal.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banxico-evaluaria-giro-restrictivo-fed-decidir-sobre-tasas-banamex-20261027-840863.html",
-    "source": "El Economista",
-    "published": "2026-10-27T23:16:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "In an AI blow-up, would insurance pay out?",
-    "summary": "The Economist asks whether insurance would pay out if an AI blow-up occurred, as credit default swaps come back in vogue amid fears of a debt disaster.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
-    "source": "The Economist",
-    "published": "2026-10-27T22:26:42+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fmr. MSFT Exec.: Buyouts Is a Harbinger of AI Future",
-    "summary": "A former Microsoft Azure executive says upcoming earnings from Microsoft, Alphabet and Amazon will show whether heavy AI and data-center investment is paying off. She describes Azure as a central model 'orchestrator' for enterprises.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-msft-exec-buyouts-is-a-harbinger-of-ai-future-video",
-    "source": "Bloomberg",
-    "published": "2026-10-27T21:21:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-    "summary": "Physical Intelligence, a robotics AI software startup, is in funding talks that would nearly double its valuation to roughly $20 billion, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
-    "source": "Bloomberg",
-    "published": "2026-10-27T19:43:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DoorDash Is Said to Near $17B Takeover of Instacart",
-    "summary": "DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
-    "source": "Bloomberg",
-    "published": "2026-10-27T19:00:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoFi Says It's Well Positioned for Economic Uncertainty",
-    "summary": "SoFi raised its full-year net revenue guidance to about $5.04 billion and saw demand for its lending products grow. CEO Anthony Noto says the growth leaves the fintech better able to handle economic uncertainty.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/sofi-says-it-s-well-positioned-for-economic-uncertainty-video",
-    "source": "Bloomberg",
-    "published": "2026-10-27T18:28:40+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Boosts Equity Offering to $98 Billion, Raising Its AI Bet",
-    "summary": "Meta plans to boost its equity offering to almost $98 billion, one of the largest ever, as it raises its bet on AI. Anthropic's IPO filing is also framed as a defining test for the AI boom.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-tech-10-27-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-27T18:24:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
     "language": "en",
     "light": true
   }
