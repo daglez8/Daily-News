@@ -1,5 +1,93 @@
 [
   {
+    "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+    "summary": "Continúan las protestas contra los centros de datos en Europa, donde ciudadanos expresan preocupación por su impacto social y ambiental. Refleja el creciente rechazo público a la expansión de la IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+    "source": "Bloomberg",
+    "published": "2026-11-07T18:20:19+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La otra cara de la crisis de Ueno Bank: Autos de lujo, aviones y un yate asegurados a directivos",
+    "summary": "Tras la intervención de Ueno Bank el 3 de noviembre, la Fiscalía de Paraguay allanó inmuebles y aseguró autos de lujo, aviones y un yate de directivos vinculados al banco. El caso ilustra fallas de gobierno corporativo y supervisión.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/07/la-otra-cara-de-la-crisis-de-ueno-bank-autos-de-lujo-aviones-y-un-yate-asegurados-a-directivos/",
+    "source": "El Financiero",
+    "published": "2026-11-07T17:40:11+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Está en riesgo la banca mexicana tras el colapso de Ueno Bank? Analistas explican las consecuencias",
+    "summary": "Calificadoras y expertos señalan que el colapso de Ueno Bank en Paraguay evidenció fallas de supervisión en ese país. La banca mexicana es sólida, pero recomiendan vigilar de cerca todo el sector financiero para evitar casos similares.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/07/esta-en-riesgo-la-banca-mexicana-tras-el-colapso-de-ueno-bank-analistas-explican-las-consecuencias/",
+    "source": "El Financiero",
+    "published": "2026-11-07T17:01:43+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ken Chenault on Leadership in an Age of AI",
+    "summary": "Ken Chenault, presidente de General Catalyst y ex CEO de American Express, plantea que los ejecutivos necesitan valor para sostener sus valores ante presiones políticas y tecnológicas, y habla de liderazgo e IA responsable.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-07T15:32:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banco de Valores sella la compra del broker argentino PPI",
+    "summary": "Banco de Valores y PP Inversiones (PPI) firmaron un acuerdo vinculante de fusión por absorción, con VALO como sociedad absorbente. La operación combina banca corporativa y mercado de capitales para ampliar la oferta de servicios financieros en Argentina.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/banco-de-valores-sella-la-compra-del-broker-argentino-ppi/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-07T14:42:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+    "summary": "Candidatos que favorecen una supervisión más estricta de la IA lograron victorias clave en el Congreso, apoyados por un grupo pro-regulación financiado en parte por Anthropic, en medio de creciente inquietud pública sobre la tecnología.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+    "source": "Bloomberg",
+    "published": "2026-11-07T14:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tu mango con chile va con IA de la que pica: Así usa Tajín la inteligencia artificial",
+    "summary": "Tajín usa inteligencia artificial para atender los reclamos de clientes y distribuidores, en una historia de adopción de IA en una empresa mexicana tradicional.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/07/tu-mango-con-chile-va-con-ia-de-la-que-pica-asi-usa-tajin-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-11-07T13:45:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Jobs Surge Raises Odds of December Fed Hike",
+    "summary": "El sólido informe de empleo de octubre en EU refuerza el argumento para otra alza de tasas de la Fed en diciembre, según la economista jefe de Bloomberg Economics para EU.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
+    "source": "Bloomberg",
+    "published": "2026-11-07T13:16:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "AI Trade Faces a Post-Election Reality Check",
     "summary": "A Bloomberg program discusses the sharp post-election tech selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video",
@@ -7,6 +95,72 @@
     "published": "2026-11-07T12:50:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Afore XXI Banorte se corona como la reina en las cuentas del SAR",
+    "summary": "Afore XXI Banorte se consolidó como la administradora con más cuentas en el SAR tras ganar la licitación para ser la nueva prestadora de servicios del sistema. Desplazó a Afore Azteca, líder desde 2018, que cayó al quinto lugar.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/afore-xxi-banorte-corona-reina-cuentas-sar-20261107-842651.html",
+    "source": "El Economista",
+    "published": "2026-11-07T12:30:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Qué lecciones deja la crisis de Ueno Bank en Paraguay para los ahorradores mexicanos?",
+    "summary": "La intervención de Ueno Bank, iniciada el 3 de noviembre, deja lecciones para los ahorradores mexicanos: tener dinero en el banco no siempre significa poder disponerlo de inmediato. La protección al ahorro tiene límites claros, aunque existan mecanismos legales.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/lecciones-deja-crisis-ueno-bank-paraguay-ahorradores-mexicanos-20261107-842702.html",
+    "source": "El Economista",
+    "published": "2026-11-07T12:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Te ofrecieron invertir con Barclays México por WhatsApp? Esto advierte la Condusef",
+    "summary": "La Condusef alertó sobre suplantación de identidad de Barclays México mediante falsas ofertas de inversión que circulan por redes sociales y WhatsApp. Advierte a los usuarios para evitar fraudes.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/te-ofrecieron-invertir-barclays-mexico-whatsapp-esto-advierte-condusef-20261107-842692.html",
+    "source": "El Economista",
+    "published": "2026-11-07T10:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México puede ganar terreno con el auge de la IA y la reconfiguración comercial: Citi",
+    "summary": "Citi Research ve oportunidades para que México amplíe su participación en las cadenas de suministro de Norteamérica, aproveche el auge de la IA y atraiga inversión en manufactura, energía e infraestructura ante la reconfiguración del comercio global.",
+    "link": "https://www.eleconomista.com.mx/economia/mexico-ganar-terreno-auge-ia-reconfiguracion-comercial-citi-20261107-842423.html",
+    "source": "El Economista",
+    "published": "2026-11-07T10:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Una buena calificación crediticia significa que manejo bien mis finanzas? No necesariamente",
+    "summary": "Explica que un buen reporte y score crediticio miden el cumplimiento de pagos, pero no implican necesariamente una buena gestión de las finanzas personales. Útil como contexto sobre tendencias de crédito al consumidor.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/buena-calificacion-crediticia-significa-manejo-mis-finanzas-necesariamente-20261107-841996.html",
+    "source": "El Economista",
+    "published": "2026-11-07T10:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+    "summary": "SoftBank y ABB evalúan separar la parte china de su gran acuerdo de robótica para salvar una transacción bloqueada por Beijing, según fuentes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-07T08:39:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -5344,159 +5498,5 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Hendrik Venter, CEO de DHL Supply Chain: “La nueva batalla logística se juega con IA, infraestructura y talento”",
-    "summary": "El CEO global de DHL Supply Chain, Hendrik Venter, dice que la nueva batalla logística se juega con IA, infraestructura y talento, tras inaugurar la Nave 3 de su Mega Campus TMEX.",
-    "link": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/10/28/hendrik-venter-ceo-de-dhl-supply-chain-la-nueva-batalla-logistica-se-juega-con-ia-infraestructura-y-talento/",
-    "source": "El Financiero",
-    "published": "2026-10-28T17:51:23+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Weighs Offering 15%-20% of IPO to Retail Investors",
-    "summary": "Anthropic is weighing offering 15%–20% of its IPO shares to retail investors, with JPMorgan Chase reportedly leading the US retail tranche. The report is based on people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-10-28T17:44:28+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
-    "summary": "Anthropic is working with investment platform RetailBook to market IPO shares to UK retail traders. It is part of what is described as a mammoth offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-is-said-to-plan-uk-share-offering-via-retailbook",
-    "source": "Bloomberg",
-    "published": "2026-10-28T17:24:05+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
-    "summary": "Lionsgate is looking to sell bonds backed by its film catalog and is talking to investors about a possible transaction.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/lionsgate-in-investor-talks-for-rare-film-library-backed-bonds",
-    "source": "Bloomberg",
-    "published": "2026-10-28T17:10:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ransomware Negotiator Arrests Add Scrutiny to Shadowy Industry",
-    "summary": "Recent arrests of ransomware negotiators are drawing attention across the cybersecurity industry and adding scrutiny to a shadowy business.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/ransomware-negotiator-arrests-add-scrutiny-to-shadowy-industry",
-    "source": "Bloomberg",
-    "published": "2026-10-28T16:58:40+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso, a la espera de la decisión de la tasa de interés de la Fed: ¿Cuánto gana al dólar?",
-    "summary": "El peso mexicano operó a la espera de la decisión de tasas de la Fed, con atención al tipo de cambio frente al dólar.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/28/peso-dolar-tipo-de-cambio-precio-hoy-28-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-28T16:52:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BMV cae más de 1% tras reportes trimestrales; Wall Street espera a la Fed",
-    "summary": "La BMV cayó más de 1% tras reportes trimestrales, mientras Wall Street esperaba la decisión de la Fed.",
-    "link": "https://expansion.mx/mercados/2026/10/28/bmv-cae-mas-de-1-tras-reportes-trimestra-wall-street",
-    "source": "Expansión",
-    "published": "2026-10-28T16:49:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Boston Tower Owner Buys It Again at 68% Discount After Default",
-    "summary": "A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third of its 2019 price, illustrating how far commercial building values have fallen since the pandemic.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
-    "source": "Bloomberg",
-    "published": "2026-10-28T16:45:48+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft, Alphabet Earnings Put Focus on AI Cash Flow Drain",
-    "summary": "Ahead of earnings, Microsoft and Alphabet shares have diverged as Wall Street scrutinizes how heavy AI spending is weighing on corporate bottom lines.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/microsoft-alphabet-earnings-put-focus-on-ai-cash-drain-video",
-    "source": "Bloomberg",
-    "published": "2026-10-28T15:04:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Data-Center Borrowing May Test Credit Market: Fortress",
-    "summary": "Fortress's Brian Stewart warns the credit market could face a serious absorption problem from AI data-center borrowing, as US investment-grade issuance recently surged.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/ai-data-center-debt-may-test-credit-market-fortress-video",
-    "source": "Bloomberg",
-    "published": "2026-10-28T14:56:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "FinTech México traza ruta",
-    "summary": "La Asociación FinTech México presentará el libro 'Visión FinTech México 2030', con el que la industria busca tener voz en la definición de las reglas que marcarán el futuro del sistema financiero nacional. La presentación será este miércoles.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/10/28/fintech-mexico-traza-ruta/",
-    "source": "El Financiero",
-    "published": "2026-10-28T13:07:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic’s Tensions With Trump Laid Bare Ahead of Landmark IPO",
-    "summary": "Anthropic is cautioning investors that its advocacy for AI safety could make it a target of government retaliation. The disclosure highlights unusual government-related risk to its business after a year of skirmishes with the Trump administration, ahead of its landmark IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-s-tensions-with-trump-laid-bare-ahead-of-landmark-ipo",
-    "source": "Bloomberg",
-    "published": "2026-10-28T12:45:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kalshi CEO Eyes Guardrails After Studies Detail Customer Losses",
-    "summary": "Kalshi CEO Tarek Mansour said the prediction-market company is looking at additional ways to protect customers who are losing money on the platform, after studies detailed customer losses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/kalshi-ceo-eyes-guardrails-after-studies-detail-customer-losses",
-    "source": "Bloomberg",
-    "published": "2026-10-28T12:35:22+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Un giro positivo de la economía mexicana",
-    "summary": "El Indicador Global de la Actividad Económica (IGAE) de INEGI volvió a sorprender al alza en agosto, confirmando una reactivación de la actividad nacional en el tercer trimestre.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/10/28/un-giro-positivo-de-la-economia-mexicana/",
-    "source": "El Financiero",
-    "published": "2026-10-28T12:34:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
   }
 ]
