@@ -1,5 +1,148 @@
 [
   {
+    "title": "How Wall Street’s all-in bet on AI blew up",
+    "summary": "US midterm elections triggered a hedge fund and retail investor exodus from the AI trade that had come to dominate equity markets. Summary based on the headline blurb only.",
+    "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-07T05:00:31+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why does America hate AI?",
+    "summary": "FT asks why America hates AI: voter hostility to Big Tech shaped the midterms, and similar fears are spreading in the West, while attitudes in the East are far more optimistic. Based on the blurb only.",
+    "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-07T05:00:13+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banxico: ‘una sorpresa no tan sorprendente’",
+    "summary": "El columnista Víctor Piz analiza la decisión de Banxico de recortar 25 pb la tasa a 6.25% con votación 3 a 2, justificada por la desinflación, la ausencia de presiones de demanda y la holgura económica. Sostiene que la sorpresa no fue tan grande dadas las señales previas de la Junta.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/06/banxico-una-sorpresa-no-tan-sorprendente/",
+    "source": "El Financiero",
+    "published": "2026-11-07T04:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México en la sala de espera: por qué el inversionista que entiende las reglas puede llegar antes",
+    "summary": "México captó 34,968 mdd de inversión extranjera directa en el primer semestre de 2026, pero 88.5% fue reinversión de utilidades y las nuevas inversiones sumaron solo 2,726 mdd, con anuncios 55% menores. El autor sostiene que quien entiende las reglas puede llegar antes.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/06/mexico-en-la-sala-de-espera-por-que-el-inversionista-que-entiende-las-reglas-puede-llegar-antes/",
+    "source": "El Financiero",
+    "published": "2026-11-07T03:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Te exigen resultados, pero deciden por ti",
+    "summary": "Una columna sobre gobierno corporativo en empresas familiares: cuando el dueño revoca decisiones del director sin pasar por el consejo, se erosiona la autoridad del directivo. Plantea que propietarios, consejo y dirección necesitan roles claros.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/11/06/te-exigen-resultados-pero-deciden-por-ti/",
+    "source": "El Financiero",
+    "published": "2026-11-07T03:00:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Selloff Exposes Data Center Boom Risks",
+    "summary": "The AI stock selloff adds uncertainty to the US data center buildout; AIB Data Centers' CFO says financing could get costlier and slower as lenders reassess risk, though she expects the rout to prove temporary.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-11-06T22:39:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
+    "summary": "Moody's advierte que la quiebra de Ueno Bank expone fallas de supervisión y corrupción en el sistema financiero de Paraguay. Resumen basado solo en el titular.",
+    "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
+    "source": "Expansión",
+    "published": "2026-11-06T22:10:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
+    "summary": "Months of unease over Wall Street's AI boom erupted into a global market convulsion this week, with a $5.7 trillion rout opening a dangerous new chapter for the AI investment frenzy that has powered stocks, corporate spending and growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
+    "source": "Bloomberg",
+    "published": "2026-11-06T21:23:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nasdaq y S&P 500 rebotan tras desplome tecnológico, pero persisten las dudas sobre la IA",
+    "summary": "Wall Street cerró al alza el viernes con el rebote de los semiconductores tras el desplome tecnológico del jueves, el mayor del Nasdaq 100 desde marzo de 2020. Un sólido informe de empleo reforzó las apuestas por alzas de tasas de la Fed.",
+    "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-desplome-tecnologico-mientras-dato-de-empleo-refuerza-apuestas-por-subir-las-tasas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-06T21:06:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+    "summary": "Anthropic, the maker of Claude, intends to press ahead with its IPO and list before Thanksgiving, targeting a $1.5tn valuation despite a brutal tech rout. The report is based on the FT headline blurb only.",
+    "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-06T21:00:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+    "summary": "OpenAI has closed roughly $11 billion of new funding, the first part of a round valuing it at $1.25 trillion. The rest, potentially up to $20 billion in total, is expected to close in the coming weeks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+    "source": "Bloomberg",
+    "published": "2026-11-06T20:58:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (2 al 6 de noviembre): De decisión del Banxico e inversión fija",
+    "summary": "Resumen semanal de la economía mexicana: decisión de Banxico, remesas y confianza empresarial, además de elecciones y empleo en EU. Los analistas elevaron por cuarto mes consecutivo su pronóstico de crecimiento.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-2-6-noviembre-decision-banxico-e-inversion-fija-20261106-842679.html",
+    "source": "El Economista",
+    "published": "2026-11-06T20:34:25-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo",
+    "summary": "Rep. Sam Liccardo (D-CA) says Congress has issued many press releases on tech but passed little, and that it is time to move forward with 'sensible' AI regulation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-06/time-to-move-forward-on-sensible-ai-regulation-liccardo-video",
+    "source": "Bloomberg",
+    "published": "2026-11-06T20:09:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
     "summary": "Anthropic's IPO plans have collided with a sharp post-election selloff in AI stocks, and prospective investors are rethinking the expected valuation, which could fall as low as $1.2 trillion. Investors face a weekend of uncertainty before pricing.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-investors-weigh-valuation-as-low-as-1-2t-video",
@@ -86,6 +229,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Dólar en Paraguay apunta a su mayor subida semanal en 28 años por crisis política y de Ueno Bank",
+    "summary": "El guaraní va hacia su mayor depreciación semanal frente al dólar desde febrero de 1998, cerca de 9%, por la crisis de Ueno Bank y la incertidumbre política en torno al presidente Peña.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-en-paraguay-apunta-a-su-mayor-subida-semanal-en-28-anos-por-crisis-politica-y-de-ueno-bank/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-06T15:58:21+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿La otra perdedora de las elecciones en EU? La IA: Futuro de centros de datos luce incierto",
@@ -911,6 +1065,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "AI is turning protectionists into free traders",
+    "summary": "The Economist notes that barriers to commerce are rising everywhere except in technology, as AI is turning protectionists into free traders. Based on the blurb only.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "source": "The Economist",
+    "published": "2026-11-05T10:22:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "La IA y el siguiente salto industrial de México",
@@ -5333,170 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": false
-  },
-  {
-    "title": "Economía mexicana está cobrando impulso ante fortaleza del mercado laboral e inversión: Édgar Amador",
-    "summary": "Édgar Amador afirma que la economía mexicana está ganando impulso gracias a la fortaleza del mercado laboral y la inversión.",
-    "link": "https://www.eleconomista.com.mx/economia/economia-mexicana-cobrando-impulso-fortaleza-mercado-laboral-e-inversion-edgar-amador-20261028-840938.html",
-    "source": "El Economista",
-    "published": "2026-10-28T10:55:24-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fraudes bancarios: ¿Cómo obtienen y usan tus datos personales para engañarte?",
-    "summary": "Los fraudes bancarios telefónicos funcionan porque el defraudador conoce nombre, tarjeta y otros datos personales de la víctima y se hace pasar por empleado del banco. El artículo explica cómo se obtienen y usan esos datos.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/fraudes-bancarios-obtienen-tus-datos-personales-enganarte-20261028-840812.html",
-    "source": "El Economista",
-    "published": "2026-10-28T10:55:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Senado aprueba cambios al ISR y aumentos en cuotas de servicios y trámites para 2027",
-    "summary": "El Senado devolverá a Diputados la Ley del ISR tras aprobar una reserva que exenta a la producción automotriz de la limitación de deducciones para empresas con ingresos acumulables superiores a 50 millones de pesos.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/10/28/senado-aprueba-cambios-al-isr-y-aumentos-en-cuotas-de-servicios-y-tramites-para-2027/",
-    "source": "El Financiero",
-    "published": "2026-10-28T10:38:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Could Boost US Economy GDP Growth by 0.8 Percentage Point in 2026",
-    "summary": "Economists must make an array of assumptions to gauge AI's effect on the economy; one estimate puts the boost to US GDP growth at 0.8 percentage points in 2026.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/ai-could-boost-us-economy-gdp-growth-by-0-8-percentage-point-in-2026",
-    "source": "Bloomberg",
-    "published": "2026-10-28T10:35:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-    "summary": "Wall Street, que financia la enorme red de centros de datos y chips detrás del auge de la IA, muestra señales tempranas de que el mercado de crédito se acerca al límite de deuda que puede absorber.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
-    "source": "Bloomberg",
-    "published": "2026-10-28T10:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft and Alphabet Earnings Put Focus on AI Cash Flow Drain",
-    "summary": "Microsoft and Alphabet shares have diverged since their last earnings as Wall Street increasingly focuses on how heavy AI spending weighs on corporate bottom lines. Their results put AI cash-flow drain in focus.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-and-alphabet-earnings-put-focus-on-ai-cash-flow-drain",
-    "source": "Bloomberg",
-    "published": "2026-10-28T09:01:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Zacatecas y FIRA elevan a 340 millones de pesos el financiamiento empresarial",
-    "summary": "Zacatecas y FIRA elevan a 340 millones de pesos el financiamiento empresarial: el estado destina 170 millones de pesos adicionales mediante un convenio con FIRA.",
-    "link": "https://www.eleconomista.com.mx/estados/zacatecas-fira-elevan-340-millones-pesos-financiamiento-empresarial-20261028-840804.html",
-    "source": "El Economista",
-    "published": "2026-10-28T07:05:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "European bank profits beat expectations in third quarter",
-    "summary": "Major European lenders including Deutsche Bank, BNP Paribas, Santander and Standard Chartered report on Wednesday. The FT says European bank profits beat expectations in the third quarter.",
-    "link": "https://www.ft.com/content/b12e4896-5c72-460c-b1c4-df433e5e8ca9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T06:48:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "BNP’s CIB Chairman Says European Clients Becoming More Active",
-    "summary": "BNP Paribas said European clients put aside their reluctance and engaged more actively last quarter, fueling a jump in revenue at its corporate and investment bank.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/bnp-s-cib-chairman-says-european-clients-becoming-more-active",
-    "source": "Bloomberg",
-    "published": "2026-10-28T06:46:12+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Santander aumenta 19% su beneficio del tercer trimestre pese a la caída en Brasil",
-    "summary": "Santander reportó un alza de 19% en su beneficio neto recurrente del tercer trimestre, impulsada por Reino Unido y Estados Unidos tras recientes adquisiciones, aunque los beneficios cayeron en Brasil.",
-    "link": "https://www.eleconomista.com.mx/mercados/santander-aumenta-19-beneficio-tercer-trimestre-pese-caida-brasil-20261028-840905.html",
-    "source": "El Economista",
-    "published": "2026-10-28T06:37:42-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Adyen Drops 2028 Profit Margin Goal as It Steps Up Investment",
-    "summary": "Adyen scrapped its medium-term profit margin target as it steps up investment, overshadowing better-than-expected third-quarter revenue growth at the Dutch payments company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/adyen-sales-beat-estimates-on-payments-growth-from-customers",
-    "source": "Bloomberg",
-    "published": "2026-10-28T06:35:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The AI bubble already popped — in China",
-    "summary": "The FT argues the AI bubble has already popped in China, in a market-focused column.",
-    "link": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T06:30:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kengo Kuma & Associates’ Water Culture House to Open in Copenhagen on December 5, 2026",
-    "summary": "Kengo Kuma & Associates, with Cornelius Vöge Atelier and Vilhelm Lauritzen Architects, will open the 5,800 m² KAI Water Culture House on Copenhagen's Paper Island on December 5, 2026.",
-    "link": "https://www.archdaily.com/1187649/kengo-kuma-and-associates-water-culture-house-to-open-in-copenhagen-on-december-5-2026",
-    "source": "ArchDaily",
-    "published": "2026-10-28T06:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "OpenAI planea comprar chips de IA de Google",
-    "summary": "OpenAI planea comprar chips de IA de Google, según The Information, mientras las tecnológicas aumentan el gasto para satisfacer la creciente demanda de capacidad de cómputo para IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/openai-planea-comprar-chips-ia-google-20261028-840903.html",
-    "source": "El Economista",
-    "published": "2026-10-28T06:24:44-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
-    "summary": "The seven cofundadores de Anthropic founders of Anthropic are tightening their grip ahead of a blockbuster IPO, per the FT. After a rebellion at OpenAI, the new billionaires are betting their future on staying united.",
-    "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T05:00:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
   }
 ]
