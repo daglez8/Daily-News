@@ -1,5 +1,71 @@
 [
   {
+    "title": "La primera derrota electoral de la inteligencia artificial",
+    "summary": "El columnista describe el jueves en que el Nasdaq cayó 5.52% y el S&P 500 4.36%, la peor caída tecnológica en 19 meses, como la primera derrota electoral de la inteligencia artificial. Analiza cómo las elecciones golpearon la narrativa del boom de la IA.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/07/la-primera-derrota-electoral-de-la-inteligencia-artificial/",
+    "source": "El Financiero",
+    "published": "2026-11-08T03:58:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Stanford y la IA: la resiliencia no es privilegio del subdesarrollo",
+    "summary": "Stanford destina diez millones de dólares para repensar sus licenciaturas ante la llegada de la IA, tras haber mantenido la guardia después de la burbuja puntocom. El autor reflexiona sobre la resiliencia institucional frente a la disrupción tecnológica.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-munoz/2026/11/07/stanford-y-la-ia-la-resiliencia-no-es-privilegio-del-subdesarrollo/",
+    "source": "El Financiero",
+    "published": "2026-11-08T03:50:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+    "summary": "The unraveling of the AI trade after the US midterms is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks and beneficiaries of easing inflation and trade tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+    "source": "Bloomberg",
+    "published": "2026-11-08T00:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Las debilidades institucionales y de control que expuso la crisis de Ueno Bank en Paraguay",
+    "summary": "Moody’s advierte que la quiebra de Ueno Bank dejó al descubierto debilidades institucionales en Paraguay, con controles muy débiles contra la corrupción. Resalta la importancia de supervisión y gobernanza bancaria.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/las-debilidades-institucionales-y-de-control-que-expuso-la-crisis-de-ueno-bank-en-paraguay/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-07T20:38:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+    "summary": "Meta's $25 billion bond sale, launched on Election Day, highlights the shifting landscape for tech debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-11-07T20:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inteligencia artificial podría ayudar a gobiernos a mejorar servicios públicos y atender demandas ciudadanas",
+    "summary": "La IA podría ayudar a los gobiernos a mejorar servicios públicos y aprovechar propuestas ciudadanas. Su potencial depende no solo de incorporar tecnología, sino de cómo se integra en las instituciones.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial-ayudar-gobiernos-mejorar-servicios-publicos-atender-demandas-ciudadanas-20261107-842739.html",
+    "source": "El Economista",
+    "published": "2026-11-07T18:38:38-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Backlash Spreads Across Europe With Data Center Protests",
     "summary": "Continúan las protestas contra los centros de datos en Europa, donde ciudadanos expresan preocupación por su impacto social y ambiental. Refleja el creciente rechazo público a la expansión de la IA.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
@@ -84,6 +150,17 @@
     "published": "2026-11-07T13:16:33+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+    "summary": "With Democrats set to control Congress, crypto faces tougher rules and closer scrutiny of its ties to President Trump. The industry's run of political good fortune has ended.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+    "source": "Bloomberg",
+    "published": "2026-11-07T13:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -5419,83 +5496,6 @@
     "published": "2026-10-28T21:10:38+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Marvell Is Said to Near Megadeal for Lumentum in AI Push",
-    "summary": "Marvell Technology está en conversaciones avanzadas para comprar al fabricante de ópticas para centros de datos Lumentum Holdings, en un posible megaacuerdo en la carrera por escalar la IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
-    "source": "Bloomberg",
-    "published": "2026-10-28T21:05:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Weil leadership tells partners firm should be dissolved",
-    "summary": "Weil's leadership told partners the firm should be dissolved, a stunning downfall for a near-century-old law firm that was among America's largest and most prestigious.",
-    "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T20:28:37+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global Bond Sales Smash Record, Fueled by AI Borrowing Binge",
-    "summary": "Global bond sales have hit an all-time high, driven by heavy borrowing from the tech giants leading the AI boom. The surge underscores how AI capex is reshaping debt capital markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
-    "source": "Bloomberg",
-    "published": "2026-10-28T20:17:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft’s Surging Cloud Sales Show AI Spending Paying Off",
-    "summary": "Microsoft posted accelerating cloud growth while keeping capex in check, easing investor concerns that AI spending won't pay off.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates",
-    "source": "Bloomberg",
-    "published": "2026-10-28T20:08:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Édgar Amador dice a inversionistas que las cosas están mejorando para la economía de México",
-    "summary": "El secretario de Hacienda, Édgar Amador, dijo a inversionistas que la economía mexicana mejora, citando datos macro, exportaciones, menores aranceles en EU, el Plan México y metas de infraestructura.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/edgar-amador-dice-a-inversionistas-que-las-cosas-estan-mejorando-para-la-economia-de-mexico/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-28T19:25:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed se ‘guarda la bombita’... por ahora: Deja tasa de interés sin cambios a pesar de ‘elevada inflación’",
-    "summary": "La Fed dejó su tasa en 3.75–4% con una votación no unánime, señalando que la inflación sigue elevada. El Comité dijo que recopilar más información ayudará a decidir sus siguientes pasos.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/28/tasa-de-interes-de-la-fed-decision-hoy-en-cuanto-quedo/",
-    "source": "El Financiero",
-    "published": "2026-10-28T18:40:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Boom Complicates Fed’s Demand Versus Supply Call, Clarida Says",
-    "summary": "Former Fed Vice Chair Richard Clarida says the Fed is weighing whether AI-driven growth is a demand shock that could justify higher rates, or a productivity gain that eventually eases inflation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/ai-boom-complicates-fed-s-demand-supply-call-clarida-video",
-    "source": "Bloomberg",
-    "published": "2026-10-28T18:25:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
     "language": "en",
     "light": true
   }
