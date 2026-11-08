@@ -1,5 +1,82 @@
 [
   {
+    "title": "Gobierno de CDMX dará créditos para Pymes de hasta 100,000 pesos sin intereses; estos son los requisitos",
+    "summary": "El gobierno de CDMX dará créditos a Pymes de hasta 100,000 pesos sin intereses. La nota detalla los requisitos para acceder al financiamiento.",
+    "link": "https://expansion.mx/finanzas-personales/2026/11/08/cdmx-creditos-pymes-100-000-pesos-sin-intereses-requisitos",
+    "source": "Expansión",
+    "published": "2026-11-08T18:34:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
+    "summary": "DeepSeek reported 1.54 million daily users on its AI agent infrastructure platform. It keeps challenging Anthropic and OpenAI with applications built on open-source AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+    "source": "Bloomberg",
+    "published": "2026-11-08T18:01:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up",
+    "summary": "Apple is exploring turning Siri into a true AI agent, similar to ChatGPT-style assistants. The plan is tied to a broader iOS overhaul.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+    "source": "Bloomberg",
+    "published": "2026-11-08T15:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Voters Put the AI Data Center Boom on Notice",
+    "summary": "Voter backlash against data centers could disrupt the buildout powering the AI boom. Bloomberg flags risks for heavily indebted AI companies and tougher promises from newly elected officials.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
+    "source": "Bloomberg",
+    "published": "2026-11-08T14:16:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+    "summary": "Trump's return changed the calculus for mergers and acquisitions, reviving appetite for megadeals. With the political clock now ticking after the midterms, corporate America is racing to close deals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+    "source": "Bloomberg",
+    "published": "2026-11-08T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
+    "summary": "Investors who priced Latin American trades around standing with Trump now face a new variable: a Democratic-controlled US Congress. The shift tests Trump-linked positions across the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+    "source": "Bloomberg",
+    "published": "2026-11-08T13:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El MIR llega a su límite, STPS y Banxico alertan agotamiento de la fórmula del salario mínimo",
+    "summary": "La STPS y Banxico alertan que el Monto Independiente de Recuperación (MIR) llegó a su límite operativo para la fórmula del salario mínimo, según la Comisión Consultiva. El diagnóstico abre la negociación salarial con implicaciones para costos e inflación.",
+    "link": "https://www.eleconomista.com.mx/empresas/mir-llega-limite-stps-banxico-alertan-agotamiento-formula-salario-minimo-20261108-842776.html",
+    "source": "El Economista",
+    "published": "2026-11-08T12:53:07-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Asia Markets Brace for More AI Volatility",
     "summary": "Asian investors are assessing fallout from the AI selloff as hedge funds cut exposure and uncertainty grows over US data-center policy, per Bloomberg's weekend markets segment.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video",
@@ -9,6 +86,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "El rendimiento seduce, el riesgo se ignora",
+    "summary": "El 3 de noviembre el Banco Central de Paraguay intervino Ueno Bank, banco digital con unos 2.9 millones de clientes, tras caer su solvencia por debajo de la mitad del mínimo requerido. La columna analiza cómo el rendimiento atrajo a ahorradores que ignoraron el riesgo.",
+    "link": "https://www.eleconomista.com.mx/opinion/rendimiento-seduce-riesgo-ignora-20261108-842769.html",
+    "source": "El Economista",
+    "published": "2026-11-08T11:58:25-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says",
@@ -95,6 +183,17 @@
     "published": "2026-11-07T18:38:38-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Santiago Peña, expresidente de Paraguay, queda en prisión preventiva por crisis de Ueno Bank",
+    "summary": "El expresidente de Paraguay Santiago Peña quedó en prisión preventiva por la crisis de Ueno Bank. El caso agrava las implicaciones políticas de la quiebra del banco digital.",
+    "link": "https://expansion.mx/mundo/2026/11/07/santiago-pena-expresidente-de-paraguay-ya-es-interrogado-por-la-fiscalia-ante-crisis-bancaria",
+    "source": "Expansión",
+    "published": "2026-11-07T18:34:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5395,105 +5494,6 @@
     "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
     "source": "Expansión",
     "published": "2026-10-29T01:55:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Autos: cartera vencida, ¿primera llamada?",
-    "summary": "El financiamiento ha sido motor clave de las ventas récord de autos ligeros en México en un entorno de hipercompetencia. La columna cuestiona si la cartera vencida automotriz podría ser la 'primera llamada' de deterioro del crédito.",
-    "link": "https://www.eleconomista.com.mx/opinion/autos-cartera-vencida-primera-llamada-20261029-841098.html",
-    "source": "El Economista",
-    "published": "2026-10-29T00:33:43-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IA exige política de gobernanza de datos en empresas: Arochi Lindner",
-    "summary": "Una especialista en privacidad señala que las empresas que usan IA necesitan una política interna de gobernanza de datos que defina qué información puede cargarse en estos sistemas. El objetivo es no exponer secretos comerciales ni datos personales.",
-    "link": "https://www.eleconomista.com.mx/empresas/ia-exige-politica-gobernanza-datos-empresas-arochi-lindner-20261029-841097.html",
-    "source": "El Economista",
-    "published": "2026-10-29T00:32:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico no tendría que cambiar calendario de anuncios: analistas",
-    "summary": "Analistas de Invex y Skandia consideran que Banxico no tendría que modificar su calendario de anuncios monetarios de 2027 pese a que la Fed reducirá sus reuniones. El calendario de decisiones del banco central ya está definido.",
-    "link": "https://www.eleconomista.com.mx/economia/banxico-tendria-cambiar-calendario-anuncios-analistas-20261028-841091.html",
-    "source": "El Economista",
-    "published": "2026-10-28T23:55:49-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Cómo podría funcionar una pausa en la IA de vanguardia",
-    "summary": "Desde Berkeley, un análisis sobre cómo podría funcionar una pausa en la IA de frontera, ante advertencias como las de Dario Amodei sobre riesgos existenciales y el contraargumento sobre regulación.",
-    "link": "https://www.eleconomista.com.mx/opinion/funcionar-pausa-ia-vanguardia-20261028-841086.html",
-    "source": "El Economista",
-    "published": "2026-10-28T23:35:28-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
-    "summary": "Alphabet cayó cerca de 10% tras admitir que su 'modo IA' ha perjudicado la búsqueda tradicional, mientras ventas y utilidades quedaron por debajo de lo esperado. El gasto de 51 mil mdd en IA profundiza la preocupación por la quema de caja.",
-    "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T23:27:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
-    "summary": "Alphabet reportó ventas decepcionantes en la mayoría de sus negocios centrales en el tercer trimestre, aumentando la inquietud de inversionistas sobre los cientos de miles de millones que gasta en IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video",
-    "source": "Bloomberg",
-    "published": "2026-10-28T23:23:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La ABM ve positiva la iniciativa “México Paga Digital”",
-    "summary": "A partir de noviembre la banca en México dará un nuevo impulso a los pagos digitales con la iniciativa 'México Paga Digital', junto con otras entidades privadas y el gobierno. La ABM la ve positiva como parte de la agenda de la administración.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/abm-ve-positiva-iniciativa-mexico-paga-digital-20261028-841079.html",
-    "source": "El Economista",
-    "published": "2026-10-28T23:18:03-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banco Santander obtiene ganancia de 12,405 millones de euros entre enero y septiembre",
-    "summary": "Banco Santander elevó 20% su ganancia neta entre enero y septiembre, a 12,405 millones de euros, impulsada por una plusvalía contable ligada a sus activos en Polonia, que suma 1,895 millones de euros.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banco-santander-obtiene-ganancia-12-405-millones-euros-enero-septiembre-20261028-841078.html",
-    "source": "El Economista",
-    "published": "2026-10-28T23:15:02-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Subgobernadora de Banxico: tasa en 6,50% “es buena posición monetaria” en medio de condiciones globales",
-    "summary": "La subgobernadora de Banxico, Galia Borja, dijo que la tasa de 6.50% es una buena posición monetaria en medio de condiciones globales más apretadas, con bancos centrales subiendo tasas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subgobernadora-de-banxico-tasa-en-650-es-buena-posicion-monetaria-en-medio-de-condiciones-globales/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-28T22:59:48+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 84,
     "language": "es",
