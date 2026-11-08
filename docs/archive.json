@@ -1,5 +1,38 @@
 [
   {
+    "title": "Asia Markets Brace for More AI Volatility",
+    "summary": "Asian investors are assessing fallout from the AI selloff as hedge funds cut exposure and uncertainty grows over US data-center policy, per Bloomberg's weekend markets segment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video",
+    "source": "Bloomberg",
+    "published": "2026-11-08T12:52:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says",
+    "summary": "Anthropic agreed to pay $3.4 billion for gas-fired generators to power its data centers, according to the FT. It is described as the largest known single purchase of power-generation equipment by an AI lab.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-11-08T11:48:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+    "summary": "The FT reports Anthropic is bypassing traditional suppliers to secure scarce gas-fired power equipment for its data centers. The $3.4bn deal reflects surging energy demand from AI.",
+    "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-08T11:00:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "La primera derrota electoral de la inteligencia artificial",
     "summary": "El columnista describe el jueves en que el Nasdaq cayó 5.52% y el S&P 500 4.36%, la peor caída tecnológica en 19 meses, como la primera derrota electoral de la inteligencia artificial. Analiza cómo las elecciones golpearon la narrativa del boom de la IA.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/07/la-primera-derrota-electoral-de-la-inteligencia-artificial/",
@@ -460,6 +493,17 @@
     "relevance_score": 76,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
+    "summary": "Advierten que un nuevo IEPS a teléfonos y memorias, el llamado 'moche digital', es anacrónico.",
+    "link": "https://expansion.mx/tecnologia/2026/11/06/proximo-celular-podria-costar-mas-nuevo-ieps-celulares-laptops",
+    "source": "Expansión",
+    "published": "2026-11-06T17:08:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Apollo’s Brightspeed in Creditor Talks for Billions in New Money",
@@ -5454,49 +5498,5 @@
     "relevance_score": 84,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
-    "summary": "Marcelo Ebrard advirtió a pequeños negocios que sin pagos digitales 'se van a ir quedando fuera', en el contexto de la Ley de Economía Digital.",
-    "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
-    "source": "Expansión",
-    "published": "2026-10-28T22:27:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bitso ya permite invertir desde 20 pesos en empresas del Plan México",
-    "summary": "Bitso permite ahora invertir desde 20 pesos en empresas del Plan México, ampliando el acceso de inversionistas minoristas a este esquema.",
-    "link": "https://expansion.mx/mercados/2026/10/28/bitso-invertir-20-pesos-empresas-plan-mexico",
-    "source": "Expansión",
-    "published": "2026-10-28T22:25:31+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed holds fire on interest rates despite intensifying inflation",
-    "summary": "The Fed held rates despite intensifying inflation and will vote on policy seven times next year, breaking with the decades-old custom of eight meetings.",
-    "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-28T21:32:08+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Weil’s collapse and the death of corporate loyalty",
-    "summary": "The Economist examines the collapse of Weil and what it says about the end of corporate loyalty: superstar talent is alluring but also dangerous for firms.",
-    "link": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
-    "source": "The Economist",
-    "published": "2026-10-28T21:10:38+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
   }
 ]
