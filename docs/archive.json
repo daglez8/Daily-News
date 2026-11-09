@@ -1,5 +1,192 @@
 [
   {
+    "title": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
+    "summary": "First Abu Dhabi Bank has held preliminary talks on raising billions through a rights issue that could rank among the biggest in recent years, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
+    "source": "Bloomberg",
+    "published": "2026-11-09T12:47:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
+    "summary": "Google is rolling out a broader array of AI chips and new TPU system versions, positioning itself as a challenger to Nvidia in a market worth hundreds of billions of dollars.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+    "source": "Bloomberg",
+    "published": "2026-11-09T12:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mexico’s Inflation Accelerates With Banxico Rate Policy in Focus",
+    "summary": "Mexico's annual inflation accelerated more than expected in October. This is likely to intensify scrutiny of Banxico's decision last week to cut rates despite persistent price pressures.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
+    "source": "Bloomberg",
+    "published": "2026-11-09T12:28:15+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Italy’s Banking Deal Spree Enters Endgame With BPM, Paschi Bids",
+    "summary": "La ola de fusiones bancarias en Italia entra en su fase final, con BPM y Paschi encaminados hacia nuevos dueños tras dos años de consolidación.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
+    "source": "Bloomberg",
+    "published": "2026-11-09T12:14:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Global stocks steady after AI rout",
+    "summary": "Global stocks steadied after last week's AI rout, which pushed many indices into bear market territory.",
+    "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-09T12:04:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Neoclouds Confront Dangers Over Demand, Debt and Democracy",
+    "summary": "Investors are scrutinizing CoreWeave, Nscale and other neocloud providers over their financial stability, amid concerns about demand, debt and governance.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/neoclouds-confront-dangers-over-demand-debt-and-democracy",
+    "source": "Bloomberg",
+    "published": "2026-11-09T12:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Barclays prevé otro recorte de Banxico en marzo y anticipa una tasa de 6% en 2027",
+    "summary": "Barclays prevé otro recorte de Banxico en marzo y anticipa una tasa de 6% en 2027, según el titular de Expansión. Las tasas más bajas son relevantes para el crédito hipotecario.",
+    "link": "https://expansion.mx/economia/2026/11/09/banxico-promete-mantener-tasa-barclays-preve-otro-recorte",
+    "source": "Expansión",
+    "published": "2026-11-09T11:55:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las polémicas por la decisión de Banxico",
+    "summary": "El recorte de 25 pb de Banxico dejó la tasa en 6.25% con votación de 3 a 2, lo que abrió varias polémicas distintas: una dentro de la Junta de Gobierno y otras sobre la conducción de la política monetaria. El análisis las separa por peso y plazo de resolución.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/10/las-polemicas-por-la-decision-de-banxico/",
+    "source": "El Financiero",
+    "published": "2026-11-09T11:35:33+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI and Anthropic Valuations Fall as AI Market Rout Hits Fundraising",
+    "summary": "OpenAI and Anthropic valuations are falling as the AI market rout hits fundraising. Anthropic starts marketing its test-case IPO today.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising",
+    "source": "Bloomberg",
+    "published": "2026-11-09T11:28:16+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UniCredit CEO Plots Commerzbank Governance Overhaul",
+    "summary": "UniCredit CEO Andrea Orcel pledged to overhaul Commerzbank's governance soon, possibly paving the way to oust CEO Bettina Orlopp. He expects all regulatory approvals by the end of November.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/the-opening-trade-11-09-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-09T11:27:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La crisis de los centros de datos: el éxodo digital que México podría capitalizar",
+    "summary": "El auge de la IA choca con la realidad física y social en EU: tras las elecciones intermedias, la oposición a centros de datos reconfigura el mapa político. El texto plantea que México podría capitalizar el éxodo digital.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/11/09/la-crisis-de-los-centros-de-datos-el-exodo-digital-que-mexico-podria-capitalizar/",
+    "source": "El Financiero",
+    "published": "2026-11-09T11:11:49+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El ciclo bajista de Banco de México",
+    "summary": "Tres de los cinco miembros de la Junta de Banxico votaron el 5 de noviembre por bajar la tasa de 6.50% a 6.25%, su nivel más bajo, sorprendiendo a muchos economistas. El columnista analiza lo que implica el ciclo bajista para el mercado.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/11/09/el-ciclo-bajista-de-banco-de-mexico/",
+    "source": "El Financiero",
+    "published": "2026-11-09T10:33:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
+    "summary": "The Economist asks whether Nvidia CEO Jensen Huang can survive the controversy over his links to a suspected Chinese spy.",
+    "link": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
+    "source": "The Economist",
+    "published": "2026-11-09T10:26:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+    "summary": "The tech sell-off is raising risks for SoftBank's massive AI bet as founder Masayoshi Son grapples with falling values of holdings ahead of earnings.",
+    "link": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-09T10:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "En video: Tasa de usura limita el crédito, pero eliminarla podría ser peor, según CEO de Davivienda",
+    "summary": "El presidente de Davivienda, Javier Suárez, dice que la tasa de usura en Colombia limita el crédito a ciertos perfiles de riesgo, pero eliminarla tampoco sería la solución definitiva.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/tasa-de-usura-limita-el-credito-pero-eliminarla-podria-ser-peor-esta-es-la-solucion-de-davivienda/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-09T10:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El dividendo de Silicon Valley profundiza las diferencias en América Latina por el auge de la IA",
+    "summary": "El auge de la IA en EU transforma el comercio con América Latina, pero los beneficios se concentran: Chile, Perú y México capturan las mayores oportunidades, mientras Brasil y Colombia quedan al margen.",
+    "link": "https://www.bloomberglinea.com/mercados/el-dividendo-de-silicon-valley-profundiza-las-diferencias-en-america-latina-por-el-auge-de-la-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-09T08:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Buen Fin 2026: 8 de cada 10 consumidores utilizan la IA para comparar precios",
+    "summary": "Ocho de cada 10 consumidores que usan IA la consultan para investigar productos en temporadas de descuento como el Buen Fin, según un estudio de Ipsos y Google.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/buen-2026-8-10-consumidores-utilizan-ia-comparar-precios-20261109-842647.html",
+    "source": "El Economista",
+    "published": "2026-11-09T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ardian Raises €1 Billion Europe Semiconductor Fund With Middle East Backing",
     "summary": "Ardian levantó €1,000 millones para su primer fondo de semiconductores, con interés significativo de inversionistas de Medio Oriente. La demanda de procesadores para centros de datos por la adopción de IA impulsa la captación.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/ardian-raises-1-billion-europe-semiconductor-fund-with-middle-east-backing",
@@ -20,6 +207,39 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Las acciones de Nvidia caen mientras investiga si su CEO fue objetivo de espionaje de China",
+    "summary": "Las acciones de Nvidia caen mientras la empresa investiga si su CEO fue objetivo de espionaje de China.",
+    "link": "https://www.eleconomista.com.mx/mercados/acciones-nvidia-caen-investiga-ceo-objetivo-espionaje-china-20261109-842884.html",
+    "source": "El Economista",
+    "published": "2026-11-09T06:22:08-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Michoacán destina 12,000 millones de pesos a programa de vivienda",
+    "summary": "El Programa de Vivienda para el Bienestar en Michoacán registra 19,305 viviendas construidas de una meta de 82,000, con una inversión de 12,000 millones de pesos, según el IVEM.",
+    "link": "https://www.eleconomista.com.mx/estados/michoacan-destina-12-000-millones-pesos-programa-vivienda-20261109-842881.html",
+    "source": "El Economista",
+    "published": "2026-11-09T05:58:49-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Reestructuran cinco millones de créditos Infonavit",
+    "summary": "La presidenta Sheinbaum informó que se han reestructurado más de cinco millones de créditos de Infonavit y Fovissste como parte del Programa de Vivienda para el Bienestar. La medida impacta directamente el mercado de financiamiento hipotecario.",
+    "link": "https://www.eleconomista.com.mx/politica/reestructuran-cinco-millones-creditos-infonavit-20261109-842880.html",
+    "source": "El Economista",
+    "published": "2026-11-09T05:56:26-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Banxico evaluaba bajar la tasa desde septiembre",
@@ -66,6 +286,17 @@
     "light": false
   },
   {
+    "title": "Driftwood Residence / Nestcraft Architecture",
+    "summary": "Driftwood is a 2,900-square-foot house designed for three generations that reinterprets traditional domestic qualities in a contemporary tropical architectural language.",
+    "link": "https://www.archdaily.com/1187593/driftwood-residence-nestcraft-architecture",
+    "source": "ArchDaily",
+    "published": "2026-11-09T03:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Anthropic Mega IPO Helps Mizuho Make a Run at Nomura’s Turf",
     "summary": "Mizuho Financial Group está ganando terreno en el mercado de capitales de Japón al conectar la fuerte demanda estadounidense por financiamiento de inteligencia artificial con el amplio ahorro minorista japonés. Su nicho en colocaciones globales de gran tamaño le permite disputar el terreno de Nomura.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/mizuho-pierces-nomura-s-japan-bubble-with-big-ticket-global-ipos",
@@ -75,6 +306,17 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "House with Ghost Roof and Garden / OOOarchitecture",
+    "summary": "A wooden family home in Chiba, Japan, organized around an L-shaped single-story plan embracing a central garden that forms the heart of the living space.",
+    "link": "https://www.archdaily.com/1187591/house-with-ghost-roof-and-garden-oooarchitecture",
+    "source": "ArchDaily",
+    "published": "2026-11-09T02:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Empleo en EU crece más de lo esperado en octubre",
@@ -5256,247 +5498,5 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Two fears will decide the fate of Anthropic’s giant IPO",
-    "summary": "Investors must weigh missing out on extraordinary AI growth against pitfalls that include 'existential' risks, per the FT's look at Anthropic's giant IPO. Summary based on the headline and blurb only.",
-    "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-29T14:41:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alphabet se desploma y Microsoft avanza: 5 claves del impacto desigual de la IA en Wall Street",
-    "summary": "Alphabet se desploma mientras Microsoft avanza tras reportar resultados. La reacción expone dos realidades distintas sobre la capacidad de las grandes tecnológicas para convertir la IA en beneficios.",
-    "link": "https://www.bloomberglinea.com/mercados/alphabet-se-desploma-y-microsoft-avanza-5-claves-del-impacto-desigual-de-la-ia-en-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-29T13:58:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bridgewater CEO Nir Bar Dea on AI Investing, Markets and Leadership | The David Rubenstein Show",
-    "summary": "Bridgewater CEO Nir Bar Dea discusses the US economy, rising national debt, the dollar and how AI will reshape investing. He also reflects on his path to Wall Street and on leadership.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-29/bridgewater-ceo-on-ai-investing-debt-leadership-video",
-    "source": "Bloomberg",
-    "published": "2026-10-29T12:42:33+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La otra cara del “predialazo”",
-    "summary": "Columna sobre la 'otra cara del predialazo': en México los asuntos inmobiliarios manejan valores distintos al mismo tiempo (comercial, catastral), y los documentos no coinciden entre sí.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alejandra-spitalier/2026/10/29/la-otra-cara-del-predialazo/",
-    "source": "El Financiero",
-    "published": "2026-10-29T12:32:17+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance",
-    "summary": "HSBC is looking to offload credit risk on data center loans to insurers via credit risk insurance, as demand for AI-related finance keeps growing. The move highlights how banks are managing exposure to AI infrastructure lending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/hsbc-seeks-to-hedge-data-center-debt-with-credit-risk-insurance",
-    "source": "Bloomberg",
-    "published": "2026-10-29T12:20:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso mexicano amplía sus pérdidas frente al dólar; toca su peor nivel en más de un año",
-    "summary": "El peso mexicano amplía sus pérdidas frente al dólar y toca su peor nivel en más de un año. Los operadores siguen datos de inflación y PIB de Estados Unidos.",
-    "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-29-octubre-20261029-841174.html",
-    "source": "El Economista",
-    "published": "2026-10-29T12:16:59-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Presupuesto 2027 tendrá inversión pública estancada e intereses de la deuda en ascenso",
-    "summary": "El Presupuesto 2027 tendrá inversión pública estancada y un pago de intereses de la deuda en ascenso.",
-    "link": "https://expansion.mx/economia/2026/10/29/presupuesto-2027-inversion-publica-estancada-intereses-deuda",
-    "source": "Expansión",
-    "published": "2026-10-29T11:55:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO May Spark AI Rally as Short Bets on Tech Pile Up",
-    "summary": "Wall Street's risk aversion toward stocks could set up a sharp rebound, especially in tech, if Anthropic's planned IPO reignites enthusiasm for AI. Bloomberg frames the listing as a potential catalyst for the AI trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-ipo-may-spark-ai-rally-as-short-bets-on-tech-pile-up",
-    "source": "Bloomberg",
-    "published": "2026-10-29T11:52:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft Draws $115 Billion Demand for Jumbo Debt Offering",
-    "summary": "Microsoft drew blowout demand for its $25 billion bond offering, its first major issuance in almost a decade. Investors made room in portfolios already stuffed with AI-related debt. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017",
-    "source": "Bloomberg",
-    "published": "2026-10-29T11:47:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Christine Lagarde departs at a moment of peril",
-    "summary": "Christine Lagarde deja la presidencia del BCE en un momento de riesgo. Su sucesor enfrentará una tarea difícil.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
-    "source": "The Economist",
-    "published": "2026-10-29T11:26:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso se deprecia tras datos de inflación y PIB de EU",
-    "summary": "El peso se deprecia tras los datos de inflación y PIB de Estados Unidos, en una sesión marcada por la fortaleza del dólar.",
-    "link": "https://www.eleconomista.com.mx/videos/peso-deprecia-datos-inflacion-pib-eu-20261029-841165.html",
-    "source": "El Economista",
-    "published": "2026-10-29T11:05:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Blue Owl Fees Beat Estimates Though Redemptions Weigh on Inflows",
-    "summary": "Blue Owl's third-quarter fees beat analyst estimates, though inflows were weighed down by investors seeking to redeem holdings in certain private credit funds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
-    "source": "Bloomberg",
-    "published": "2026-10-29T11:02:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value",
-    "summary": "AI assistant startup Wabi raised $55 million at a $1.25 billion valuation. Its software lets groups of people interact with AI agents to coordinate activities and make collective decisions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/ai-assistant-startup-wabi-raises-55-million-at-1-25-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-10-29T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech Prepares for AI Regulation Fight After US Midterms",
-    "summary": "Big Tech is preparing for a fight over AI regulation after next week's US midterms. AI leaders' alignment with Trump may not age well depending on the outcome.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/big-tech-prepares-for-ai-regulation-fight-after-us-midterms",
-    "source": "Bloomberg",
-    "published": "2026-10-29T10:35:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Industry Stands to Lose in Midterm Elections After Aligning With Trump",
-    "summary": "The alliance between Silicon Valley and the White House risks unraveling amid rising AI backlash. The AI industry could lose out in the midterms after tying itself to Trump.",
-    "link": "https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump",
-    "source": "Bloomberg",
-    "published": "2026-10-29T10:30:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The task facing the new head of India’s biggest private bank",
-    "summary": "The Economist looks at the task facing the new head of HDFC Bank, India's biggest private bank, which needs revitalising.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
-    "source": "The Economist",
-    "published": "2026-10-29T10:06:28+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Urgente, evitar una crisis de vivienda en la CDMX",
-    "summary": "La Ley de Arrendamiento Inquilinario y Rentas Justas, Razonables y Asequibles presentada por Clara Brugada genera debate sobre cómo evitar una crisis de vivienda en la CDMX.",
-    "link": "https://www.elfinanciero.com.mx/opinion/mario-carbonell/2026/10/29/urgente-evitar-una-crisis-de-vivienda-en-la-cdmx/",
-    "source": "El Financiero",
-    "published": "2026-10-29T09:58:29+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ignore AI and ask for that pay rise",
-    "summary": "The Economist argues fear of a technological revolution may be suppressing wages, and that workers should ask for the raise anyway. A look at how AI anxiety shapes pay bargaining.",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
-    "source": "The Economist",
-    "published": "2026-10-29T09:47:49+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pagos digitales contra efectivo: ¿quién gana?",
-    "summary": "La digitalización de pagos entra en fase decisiva con la nueva ley de Economía Digital, que busca que gasolineras y casetas de peaje sean las primeras en eliminar el efectivo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/29/pagos-digitales-contra-efectivo-quien-gana/",
-    "source": "El Financiero",
-    "published": "2026-10-29T09:38:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Economía gana ‘momentum’ y preserva alza al tercer trimestre: Edgar Amador",
-    "summary": "Hacienda afirma que el PIB gana momentum: creció 3.4% anual en julio y 3.5% en agosto, y el dinamismo se extendió al tercer trimestre de 2026.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/29/economia-gana-momentum-y-preserva-alza-al-tercer-trimestre-edgar-amador/",
-    "source": "El Financiero",
-    "published": "2026-10-29T09:14:59+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "What Wall Street Really Thinks About the AI Trade Now",
-    "summary": "Wall Street is digesting a volatile week for the AI trade, driven by headlines such as Anthropic's S-1 and hyperscaler earnings from Oracle and Microsoft. The piece surveys how analysts read the growing sense of strain in the sector.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-29/what-wall-street-really-thinks-about-the-ai-trade-now-video",
-    "source": "Bloomberg",
-    "published": "2026-10-29T08:09:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Beyond Affordable Housing: Integrating Civic Infrastructure in US Mixed-Use Developments",
-    "summary": "An ArchDaily essay on how US affordable housing, historically separated from civic and commercial functions by financing structures, is being rethought through mixed-use developments with civic infrastructure.",
-    "link": "https://www.archdaily.com/1187571/beyond-affordable-housing-integrating-civic-infrastructure-in-us-mixed-use-developments",
-    "source": "ArchDaily",
-    "published": "2026-10-29T07:30:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
   }
 ]
