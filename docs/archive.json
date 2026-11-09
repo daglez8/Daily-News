@@ -1,5 +1,137 @@
 [
   {
+    "title": "Ardian Raises €1 Billion Europe Semiconductor Fund With Middle East Backing",
+    "summary": "Ardian levantó €1,000 millones para su primer fondo de semiconductores, con interés significativo de inversionistas de Medio Oriente. La demanda de procesadores para centros de datos por la adopción de IA impulsa la captación.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/ardian-raises-1-billion-europe-semiconductor-fund-with-middle-east-backing",
+    "source": "Bloomberg",
+    "published": "2026-11-09T07:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Global Volatility",
+    "summary": "Alphabet ha conversado sobre una posible emisión de bonos en dólares de Hong Kong y Singapur, según fuentes cercanas. La operación pondría a prueba el apetito de los inversionistas asiáticos tras la venta masiva de activos ligados a la IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
+    "source": "Bloomberg",
+    "published": "2026-11-09T06:37:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banxico evaluaba bajar la tasa desde septiembre",
+    "summary": "La gobernadora de Banxico, Victoria Rodríguez Ceja, afirmó que la Junta de Gobierno ya valoraba un recorte de un cuarto de punto a la tasa objetivo desde la decisión de septiembre. Aclaró que la comunicación previa del banco central apuntaba a un ajuste puntual.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/08/banxico-evaluaba-bajar-la-tasa-desde-septiembre/",
+    "source": "El Financiero",
+    "published": "2026-11-09T05:50:38+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Democrat triumph offers China ‘window to catch up’ on AI",
+    "summary": "Analysts warn that exporters could be hit if newly elected US politicians take a tougher line on data centre construction. The piece frames the Democratic win as a possible window for China to catch up on AI.",
+    "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-09T05:00:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech’s teetering towers",
+    "summary": "The FT Lex-style piece asks whether the AI race, defined by vertical integration, can withstand a market storm after a sharp selloff in tech stocks.",
+    "link": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-09T05:00:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crisis en Nvidia: Jensen Huang reconoce infidelidad con presunta espía china; temen por seguridad nacional",
+    "summary": "Jensen Huang reconoció una relación extramarital con una mujer señalada como presunta espía china, en un memorando a empleados. Nvidia enfrenta una crisis sin precedentes y se plantean riesgos de seguridad nacional.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/08/crisis-en-nvidia-jensen-huang-reconoce-infidelidad-con-presunta-espia-china-temen-por-seguridad-nacional/",
+    "source": "El Financiero",
+    "published": "2026-11-09T04:43:47+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Mega IPO Helps Mizuho Make a Run at Nomura’s Turf",
+    "summary": "Mizuho Financial Group está ganando terreno en el mercado de capitales de Japón al conectar la fuerte demanda estadounidense por financiamiento de inteligencia artificial con el amplio ahorro minorista japonés. Su nicho en colocaciones globales de gran tamaño le permite disputar el terreno de Nomura.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/mizuho-pierces-nomura-s-japan-bubble-with-big-ticket-global-ipos",
+    "source": "Bloomberg",
+    "published": "2026-11-09T02:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Empleo en EU crece más de lo esperado en octubre",
+    "summary": "El empleo en EU creció 165,000 puestos en octubre, superando expectativas, y el desempleo bajó a 4.1%. La estabilidad laboral da margen a la Fed en su decisión de tasas, con implicaciones para Banxico y el crédito en México.",
+    "link": "https://www.eleconomista.com.mx/economia/empleo-eu-crece-esperado-octubre-20261108-842855.html",
+    "source": "El Economista",
+    "published": "2026-11-08T23:44:46-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid",
+    "summary": "Goodman Group y Digital Realty adquirieron en conjunto 9.9% de la australiana NEXTDC tras una compra sorpresiva en bolsa. La participación abre la puerta a una posible colaboración en centros de datos.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-08/digital-realty-goodman-buy-9-9-of-nextdc-in-stock-market-raid",
+    "source": "Bloomberg",
+    "published": "2026-11-08T23:07:44+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crisis por Ueno Bank en Paraguay: ¿De qué delitos acusan al expresidente Santiago Peña?",
+    "summary": "La Fiscalía de Paraguay presentó cargos por abuso de confianza y enriquecimiento ilícito contra el expresidente Santiago Peña por su presunta participación en el colapso de un importante banco. Los cargos llegan un día después de que el Senado lo destituyera.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/08/crisis-por-ueno-bank-en-paraguay-de-que-delitos-acusan-al-expresidente-santiago-pena/",
+    "source": "El Financiero",
+    "published": "2026-11-08T22:23:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Revolut prevé lanzar su banco en Argentina en el segundo semestre de 2027",
+    "summary": "Revolut prevé lanzar su banco en Argentina en el segundo semestre de 2027, según ejecutivos de la fintech en São Paulo. Dijeron que ya construyen la operación bancaria local y que el arranque con clientes sería el próximo año.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/revolut-preve-lanzar-su-banco-en-argentina-en-el-segundo-semestre-de-2027/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-08T20:38:41+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Argentina podría sumar US$5.000 millones a su PBI, según un experto en IA",
+    "summary": "Argentina podría sumar US$5,000 millones a su PIB si eleva la adopción de IA en sus empresas, según un experto. Para lograrlo, el sector privado debe superar obstáculos de costos de implementación, capacitación de ejecutivos y modernización de procesos.",
+    "link": "https://www.bloomberglinea.com/economia/argentina-podria-sumar-us5000-millones-a-su-pbi-segun-un-experto-en-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-08T19:22:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Gobierno de CDMX dará créditos para Pymes de hasta 100,000 pesos sin intereses; estos son los requisitos",
     "summary": "El gobierno de CDMX dará créditos a Pymes de hasta 100,000 pesos sin intereses. La nota detalla los requisitos para acceder al financiamiento.",
     "link": "https://expansion.mx/finanzas-personales/2026/11/08/cdmx-creditos-pymes-100-000-pesos-sin-intereses-requisitos",
@@ -5365,138 +5497,6 @@
     "category": "Mortgage / Housing Finance",
     "relevance_score": 62,
     "language": "en",
-    "light": false
-  },
-  {
-    "title": "Lloyds Profit Beat Marred by Flat Outlook Amid Rising Rates",
-    "summary": "Lloyds' third-quarter profit beat estimates, but the UK lender disappointed investors by keeping guidance steady against a rising-rate environment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/lloyds-beats-estimates-on-rise-in-fees-and-interest-income",
-    "source": "Bloomberg",
-    "published": "2026-10-29T07:24:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Quién se equivocó en los pronósticos del crecimiento?",
-    "summary": "Al inaugurar el Simposio Global de Inversionistas del Milken Institute en CDMX, Édgar Amador resumió su mensaje: 'las cosas están mejorando para la economía de México'. El texto cuestiona los pronósticos de crecimiento.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/10/29/quien-se-equivoco-en-los-pronosticos-del-crecimiento/",
-    "source": "El Financiero",
-    "published": "2026-10-29T07:16:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Rentar casa en CDMX podría complicarse: Expertos advierten menos oferta y precios más altos",
-    "summary": "Expertos y legisladores advierten que la iniciativa de Ley de Relaciones Inquilinarias de la CDMX podría reducir la oferta de vivienda en renta y elevar precios. Estudiantes, trabajadores, familias y migrantes serían los más afectados.",
-    "link": "https://www.elfinanciero.com.mx/cdmx/2026/10/29/rentar-casa-en-cdmx-podria-complicarse-expertos-advierten-menos-oferta-y-precios-mas-altos/",
-    "source": "El Financiero",
-    "published": "2026-10-29T06:51:16+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Beneficio de BBVA aumenta 19% en 3T gracias a México, pero se ve empañado por provisiones en Turquía",
-    "summary": "BBVA reportó un alza de 19% en su beneficio neto del tercer trimestre, impulsada por México, pero las mayores provisiones en Turquía y la caída de utilidades en España lastraron la acción, que llegó a caer 6%.",
-    "link": "https://www.eleconomista.com.mx/mercados/beneficio-bbva-aumenta-19-3t-gracias-mexico-ve-empanado-provisiones-turquia-20261029-841131.html",
-    "source": "El Economista",
-    "published": "2026-10-29T06:42:56-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sabadell rebaja estimaciones de ingresos por créditos ante alza de costos de depósitos",
-    "summary": "Sabadell rebajó sus previsiones de ingresos por créditos para el año porque el alza de tasas también eleva el costo de los depósitos. El cuarto banco de España registró un aumento en el tercer trimestre.",
-    "link": "https://www.eleconomista.com.mx/mercados/sabadell-rebaja-estimaciones-ingresos-creditos-alza-costos-depositos-20261029-841129.html",
-    "source": "El Economista",
-    "published": "2026-10-29T06:30:56-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "‘ChatGPT, ayúdame’: Bancos compiten por aparecer en las recomendaciones de la IA",
-    "summary": "Los bancos compiten ahora por aparecer en las recomendaciones de asistentes de IA, pues cada vez más consumidores forman su opinión sobre qué institución elegir antes de visitar su sitio. El reto pasa de sucursales y publicidad a la visibilidad en respuestas generativas.",
-    "link": "https://www.elfinanciero.com.mx/tech/2026/10/29/chatgpt-ayudame-bancos-compiten-por-aparecer-en-las-recomendaciones-de-la-ia/",
-    "source": "El Financiero",
-    "published": "2026-10-29T06:29:09+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO: How Investors in Asia Can Get In",
-    "summary": "Para gran parte de Asia, acceder a la OPI de Anthropic será casi imposible, por lo que los inversionistas recurren a operaciones indirectas (proxy trades). Nota de Bloomberg sobre cómo se están ingeniando para exponerse a la empresa.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-29/anthropic-ipo-how-investors-in-asia-can-get-in",
-    "source": "Bloomberg",
-    "published": "2026-10-29T05:36:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private equity grows up",
-    "summary": "An FT opinion piece argues that the past decade has shown private equity at scale is a differentiated asset class, though not a better form of capitalism.",
-    "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-29T05:00:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI and Cybersecurity: Why Cyberattacks Are Getting Harder to Stop",
-    "summary": "Un ejecutivo de Anthropic advierte que las interrupciones masivas de ciberseguridad 'empeorarán bastante antes de mejorar'. Bloomberg analiza por qué los ciberataques asistidos por IA son cada vez más difíciles de frenar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/ai-and-cybersecurity-why-cyberattacks-are-getting-harder-to-stop",
-    "source": "Bloomberg",
-    "published": "2026-10-29T04:08:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "GMO Bond Spread Jumps as Cyberattack Hits Credit Market",
-    "summary": "A cyberattack on a listed unit of GMO Internet Group is spilling into Japan's credit market, widening the company's bond spread as investors worry about the hit to earnings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/gmo-bond-spread-jumps-as-cyberattack-hits-credit-market",
-    "source": "Bloomberg",
-    "published": "2026-10-29T03:25:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs",
-    "summary": "Algunos directores de inversión australianos expresan cautela ante la inminente OPI de Anthropic, que llevaría una nueva apuesta de IA al mercado local.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-s-ipo-plans-draw-skepticism-from-australian-cios",
-    "source": "Bloomberg",
-    "published": "2026-10-29T03:13:20+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
-    "summary": "Banqueros señalan que la Ley de Economía Digital no será draconiana y que la implementación de los pagos digitales será paulatina.",
-    "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
-    "source": "Expansión",
-    "published": "2026-10-29T01:55:06+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
     "light": false
   }
 ]
