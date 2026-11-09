@@ -1,5 +1,126 @@
 [
   {
+    "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
+    "summary": "Anthropic presentó nuevas versiones de sus modelos Mythos y Fable, en vísperas de su esperada salida a Wall Street. El lanzamiento busca reforzar su posición de liderazgo en el desarrollo de IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-09T19:00:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 95,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Menlo: Agents Now Drive 80% of Enterprise AI Usage",
+    "summary": "El gasto empresarial en IA llegó a 177 mil millones de dólares, frente a 33 mil millones en 2025, según el informe de Menlo Ventures. Los agentes ya representan el 80% del uso, a medida que las empresas pasan de chatbots a sistemas que ejecutan tareas complejas.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
+    "source": "Bloomberg",
+    "published": "2026-11-09T18:54:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Investor: Governance Now Part of the Valuation",
+    "summary": "A Wealth Enhancement CIO says the investment case for Nvidia is unchanged, but the probe into CEO Jensen Huang puts leadership, succession and corporate governance more firmly into valuation.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-investor-governance-now-part-of-the-valuation-video",
+    "source": "Bloomberg",
+    "published": "2026-11-09T18:53:52+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Australia Watchdog Probes Bathla as Private Credit Flaws Persist",
+    "summary": "Australia's corporate regulator opened an investigation into insolvent developer Bathla Group. Its latest surveillance shows poor practices persist across the country's A$250 billion private credit industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
+    "source": "Bloomberg",
+    "published": "2026-11-09T18:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny",
+    "summary": "Two regional Fed banks announced a new survey on how lending standards are evolving in the fast-growing private credit industry. It signals growing supervisory scrutiny of the sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-s-rapid-growth-draws-regional-fed-banks-scrutiny",
+    "source": "Bloomberg",
+    "published": "2026-11-09T17:36:30+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Theme Intact, But Market Cycle Has Changed: Thomas",
+    "summary": "SoFi's chief market strategist says the AI investment theme remains intact even as investors reassess valuations, earnings and capital spending after the recent selloff.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video",
+    "source": "Bloomberg",
+    "published": "2026-11-09T17:12:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
+    "summary": "Nvidia faces an unprecedented crisis after CEO Jensen Huang admitted an affair with an alleged Chinese spy. The episode raises troubling questions for the AI industry and national security.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-probe-into-ceo-s-affair-adds-to-ai-trade-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-11-09T16:39:42+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bartleby newsletter: Can AI write newsletters",
+    "summary": "Bartleby, The Economist's columnist, asks whether AI can write newsletters, with bad news for some email writers.",
+    "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+    "source": "The Economist",
+    "published": "2026-11-09T16:39:37+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hasta 98 horas de trabajo podrían ahorrarse las empresas con procesos automatizados",
+    "summary": "La automatización de procesos deja de ser exclusiva de grandes corporaciones y se vuelve necesidad estratégica. Las empresas podrían ahorrar hasta 98 horas de trabajo.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/11/06/hasta-98-horas-de-trabajo-podrian-ahorrarse-las-empresas-con-procesos-automatizados/",
+    "source": "El Financiero",
+    "published": "2026-11-09T14:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tomate verde, ‘por los cielos’: Inflación en México se acelera a 3.75%, más de lo esperado en octubre",
+    "summary": "La inflación anual de México se aceleró a 3.75% en octubre, más de lo esperado. Esto probablemente intensificará el escrutinio sobre el recorte de tasas de Banxico de la semana pasada.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/09/inflacion-en-mexico-se-acelera-a-375-mas-de-lo-esperado-en-octubre/",
+    "source": "El Financiero",
+    "published": "2026-11-09T13:50:12+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Electricidad y transporte aéreo impulsaron la inflación en octubre a 3.75%",
+    "summary": "La electricidad y el transporte aéreo impulsaron la inflación de octubre a 3.75%. El dato mantiene la atención sobre la política de tasas de Banxico.",
+    "link": "https://expansion.mx/economia/2026/11/09/electricidad-y-transporte-aereo-impulsaron-la-inflacion-en-octubre-a-3-75",
+    "source": "Expansión",
+    "published": "2026-11-09T13:46:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
     "summary": "First Abu Dhabi Bank has held preliminary talks on raising billions through a rights issue that could rank among the biggest in recent years, according to people familiar with the matter.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
@@ -5377,126 +5498,5 @@
     "relevance_score": 72,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Las fábricas que exportan desde México quieren nuevas reglas para competir y atraer inversiones",
-    "summary": "Las fábricas que exportan desde México piden nuevas reglas para competir y atraer inversiones, en un contexto de nearshoring.",
-    "link": "https://expansion.mx/economia/2026/10/29/industria-exportadora-modernizacion-immex-4-0-mexico",
-    "source": "Expansión",
-    "published": "2026-10-29T19:09:51+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Abrirán los bancos el lunes 2 de noviembre? Esto pasará con tus retiros y transferencias en Día de Muertos",
-    "summary": "Expansión explica si abrirán los bancos el lunes 2 de noviembre por Día de Muertos y qué ocurrirá con retiros y transferencias.",
-    "link": "https://expansion.mx/finanzas-personales/2026/10/29/cerraran-los-bancos-el-2-de-noviembre-por-dia-de-muertos",
-    "source": "Expansión",
-    "published": "2026-10-29T19:08:02+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street ‘se asusta’ por la IA y Nasdaq pierde más de 1%; acciones de Alphabet caen 13%",
-    "summary": "Wall Street opera en rojo tras resultados trimestrales que renovaron las dudas sobre el retorno de la inversión en IA. El Nasdaq cae 1.09% y las acciones de Alphabet pierden 13%.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/10/29/bmv-wall-street-hoy-29-de-octubre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-10-29T17:01:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Alphabet Miss Revives AI Fears",
-    "summary": "Alphabet's sales miss reignites AI fears while Microsoft defies the gloom, and the jitters spread to Caterpillar. Bloomberg's morning briefing also looks ahead to the ECB. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-29/open-interest-10-29-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-10-29T16:55:33+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Christine Lagarde to step down as ECB president in February",
-    "summary": "Christine Lagarde will step down as ECB president in February, announced hours before the central bank held rates at 2.5%. Summary based on the blurb only.",
-    "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-29T16:02:43+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancos esperan que México se mantenga fuera de la lista gris contra el lavado de dinero",
-    "summary": "Los bancos esperan que México se mantenga fuera de la lista gris del GAFI en la evaluación sobre prevención de lavado de dinero. Lo señaló Emilio Romano, presidente de la Asociación de Bancos de México.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/bancos-esperan-que-mexico-se-mantenga-fuera-de-la-lista-gris-contra-el-lavado-de-dinero/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-29T15:49:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banca de México trabaja en financiar proyectos mixtos de CFE con empresas privadas",
-    "summary": "La banca múltiple y de desarrollo trabaja en esquemas de financiamiento para proyectos mixtos de generación eléctrica de la CFE con empresas privadas. Directivos de la CFE dijeron antes que los proyectos aún están bajo análisis.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-de-mexico-trabaja-en-financiar-proyectos-mixtos-de-cfe-con-empresas-privadas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-29T15:48:36+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Canada, Nvidia Back Cohere at Over $20 Billion Valuation",
-    "summary": "AI model maker Cohere is raising a large round at a $20.5 billion valuation, roughly triple its value a year ago. Canada and Nvidia are backing the deal. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-10-29T15:45:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The Customer-Centric Agentic Enterprise",
-    "summary": "The next edge from agentic AI is transforming the customer relationship rather than cutting costs, argues Charles Schwab's Amy Ruegg. She describes how AI can anticipate individual needs, provide always-on service and personalize experiences at scale. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-29/the-customer-centric-agentic-enterprise-video",
-    "source": "Bloomberg",
-    "published": "2026-10-29T15:24:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
-    "summary": "Hedge fund billionaire Stanley Druckenmiller says he has invested in tradeXYZ, a little-known rival to CME Group, backing a push to bring perpetual futures to Wall Street. Summary based on the blurb only.",
-    "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-29T14:54:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paschi Investors Deal Crushing Blow to CEO in Win for Intesa",
-    "summary": "Investors overwhelmingly rejected the main element of CEO Luigi Lovaglio's defense against a takeover by Intesa Sanpaolo. The vote sets up Monte dei Paschi, the world's oldest bank, for a potential loss of independence. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/monte-paschi-investors-reject-banco-bpm-bid-in-win-for-intesa",
-    "source": "Bloomberg",
-    "published": "2026-10-29T14:43:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
   }
 ]
