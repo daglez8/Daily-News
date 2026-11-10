@@ -1,5 +1,93 @@
 [
   {
+    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+    "summary": "Anthropic, the maker of Claude, is seeking a fully diluted valuation of about $1.4 trillion in its IPO, which would make it the first frontier AI lab to go public. The offering is described as one of the largest ever.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+    "source": "Bloomberg",
+    "published": "2026-11-10T11:40:56+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Agents Have Yet to Disrupt Uber, DoorDash or Online Travel",
+    "summary": "Consumer adoption of AI agents is lagging for lack of trust and usefulness. The piece notes agents have not yet disrupted Uber, DoorDash or online travel platforms.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel",
+    "source": "Bloomberg",
+    "published": "2026-11-10T11:28:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Blackstone to Buy 15.5% of IIFL Finance in $532 Million India Bet",
+    "summary": "Blackstone will buy a 15.57% stake in Indian shadow lender IIFL Finance for about $532 million. The deal deepens its push into India's financial sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/blackstone-to-buy-15-5-of-iifl-finance-in-532-million-india-bet",
+    "source": "Bloomberg",
+    "published": "2026-11-10T11:07:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+    "summary": "SoftBank reportó una pérdida de $7 mil millones, su primer trimestre con pérdida en casi dos años, por una cancelación en proyectos de centros de datos en EE.UU. La empresa atribuye el ajuste a requisitos cambiantes.",
+    "link": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-10T10:55:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Banks Prep £1.8 Billion Debt Financing to Back TDR’s OCU Deal",
+    "summary": "Los bancos alistan un financiamiento de deuda de £1.8 mil millones para respaldar la compra de OCU Group por TDR Capital. También preparan una venta de la deuda.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-10T10:49:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+    "summary": "The 'marry the house, date the rate' advice promoted since rates began rising in 2022 is backfiring for homeowners stuck with high-rate mortgages. Refinancing has not arrived as expected.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
+    "source": "Bloomberg",
+    "published": "2026-11-10T10:30:28+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Filing Misstep Adds Drama Ahead of IPO",
+    "summary": "A leaked prospectus briefly showed a mistaken $69.3 billion fundraising figure in Monday's clerical misstep. Anthropic is still set to begin formal IPO marketing as early as Tuesday.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-filing-misstep-adds-drama-ahead-of-ipo-video",
+    "source": "Bloomberg",
+    "published": "2026-11-10T09:52:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El 37% de las empresas mexicanas detecta brechas en las capacidades de sus CEOs",
+    "summary": "El 37% de las empresas mexicanas detecta brechas en las capacidades de sus CEOs, según el informe de Heidrick & Struggles. Las empresas buscan innovar pero no han cambiado la forma en que lideran.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/37-empresas-mexicanas-detecta-brechas-capacidades-ceos-20261110-842661.html",
+    "source": "El Economista",
+    "published": "2026-11-10T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Banxico podría llevar a cabo otro recorte",
     "summary": "Una columna analiza el recorte de 25 pb de Banxico a 6.25% decidido por mayoría de la Junta de Gobierno la semana pasada. Busca explicar por qué se hizo, si fue un acierto y si podría haber otro recorte.",
     "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/11/10/banxico-podria-llevar-a-cabo-otro-recorte/",
@@ -52,6 +140,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 76,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Frenan en EU expansión de centros de datos",
+    "summary": "La expansión de centros de datos en EE.UU. sufrió una derrota en las elecciones recientes, con al menos 44 comunidades que rechazaron su instalación. Esto podría afectar la infraestructura de IA.",
+    "link": "https://www.reforma.com/frenan-en-eu-expansion-de-centros-de-datos/ar3311482",
+    "source": "Reforma",
+    "published": "2026-11-10T05:00:59-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "es",
     "light": true
   },
   {
@@ -141,6 +240,50 @@
     "relevance_score": 88,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Certidumbre y facilitación: claves para aprovechar las oportunidades de la IA",
+    "summary": "Un análisis sobre la actividad económica de México, con el índice creciendo 3.3% en agosto y exportaciones al alza. Plantea que certidumbre y facilitación son claves para aprovechar las oportunidades de la IA.",
+    "link": "https://www.eleconomista.com.mx/opinion/certidumbre-facilitacion-claves-aprovechar-oportunidades-ia-20261110-843092.html",
+    "source": "El Economista",
+    "published": "2026-11-10T01:38:25-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "La Ley Monetaria vs. la Ley Digital",
+    "summary": "La Ley de Economía Digital para Pagos Digitales y Electrónicos entró en vigor el 5 de noviembre y por ahora limita el pago en efectivo de gasolina y casetas. En 15 días deberá definir otros sectores donde solo se permitirán pagos electrónicos.",
+    "link": "https://www.eleconomista.com.mx/opinion/ley-monetaria-vs-ley-digital-20261110-843091.html",
+    "source": "El Economista",
+    "published": "2026-11-10T01:15:54-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Walmart y Pemex lideran la presencia de mujeres en sus consejos, mientras 20 empresas no tienen una sola",
+    "summary": "Walmart y Pemex lideran la presencia de mujeres en sus consejos de administración, mientras 20 empresas no tienen ninguna. Es un dato de gobierno corporativo en empresas mexicanas.",
+    "link": "https://expansion.mx/empresas/2026/11/09/walmart-y-pemex-lideran-la-presencia-de-mujeres-en-sus-consejos-mientras-20-empresas-no-tienen-una-sola",
+    "source": "Expansión",
+    "published": "2026-11-10T01:04:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Pedir dinero y pagar menos intereses? El crédito de Fonacot con tasa desde 8.9% que no cobra comisión",
+    "summary": "El crédito de Fonacot con tasa desde 8.9% no cobra comisión, según Expansión. Se revisan las condiciones de este producto de crédito al consumo.",
+    "link": "https://expansion.mx/finanzas-personales/2026/11/09/credito-fonacot-tasa-8-9-por-ciento-sin-comision-requisitos",
+    "source": "Expansión",
+    "published": "2026-11-10T00:49:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
@@ -5354,149 +5497,6 @@
     "category": "Financial Services Mexico",
     "relevance_score": 64,
     "language": "es",
-    "light": true
-  },
-  {
-    "title": "Explicador: ¿Qué pasará con el dinero de los clientes tras el hackeo a Binance?",
-    "summary": "Binance suspendió retiros tras un ataque informático que sustrajo unos 6,300 millones de dólares el 29 de octubre. La empresa dice haber bloqueado una parte de los fondos; el explicador detalla qué pasará con el dinero de los clientes.",
-    "link": "https://www.eleconomista.com.mx/explicadores/impacto-clientes-hackeo-binance-explicado-20261030-841412.html",
-    "source": "El Economista",
-    "published": "2026-10-30T12:50:55-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Did Anthropic value itself at $1.2tn in August?",
-    "summary": "The FT questions whether Anthropic really valued itself at $1.2tn in August. Based on a one-line blurb only.",
-    "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
-    "source": "Financial Times",
-    "published": "2026-10-30T12:36:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Investigated by UK Over Alleged Harm Caused in Commercial Small Print",
-    "summary": "Meta faces a UK investigation over concerns that its commercial terms could impose 'exploitative' conditions on publishers and advertisers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print",
-    "source": "Bloomberg",
-    "published": "2026-10-30T12:15:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Largest Heist",
-    "summary": "Binance estimates $6.3 billion was hacked, the largest heist in crypto history. The incident adds to a series of security incidents affecting the sector.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-says-6-3-billion-hacked-in-largest-crypto-heist-video",
-    "source": "Bloomberg",
-    "published": "2026-10-30T12:14:40+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Un detector dice 99% de IA. Antes de decidir nada, pide los borradores",
-    "summary": "Un autor relata su experiencia escribiendo un libro con IA y advierte que un detector que marca 99% de IA no es concluyente. Recomienda pedir los borradores antes de decidir.",
-    "link": "https://www.elfinanciero.com.mx/opinion/luis-g-y-g/2026/10/30/un-detector-dice-99-de-ia-antes-de-decidir-nada-pide-los-borradores/",
-    "source": "El Financiero",
-    "published": "2026-10-30T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Los bancos y neobancos aceleran su apuesta y patrocinios por la F1",
-    "summary": "Bancos y neobancos aceleran su apuesta y sus patrocinios en la Fórmula 1, en vísperas del GP de México, como vía de posicionamiento de marca.",
-    "link": "https://expansion.mx/economia/2026/10/30/los-bancos-y-neobancos-aceleran-su-apuesta-y-patrocinios-por-la-f1",
-    "source": "Expansión",
-    "published": "2026-10-30T11:55:28+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hackeo a Binance expone la vulnerabilidad financiera ante fallos internos y dependencias externas: Expertos",
-    "summary": "Según ISACA, el hackeo a Binance es una advertencia para todo el sistema financiero: por robusta que sea la tecnología blockchain, las vulnerabilidades pueden estar en fallos internos y dependencias externas.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/hackeo-binance-expone-vulnerabilidad-financiera-fallos-internos-dependencias-externas-expertos-20261030-841407.html",
-    "source": "El Economista",
-    "published": "2026-10-30T11:34:57-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How North Korea became a hacking superpower",
-    "summary": "Cut off by sanctions, North Korea has invested heavily in cyber warfare to fund itself. The FT examines how it became a hacking superpower, relevant to the Binance heist.",
-    "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-30T11:20:19+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Finanzas para una nueva era",
-    "summary": "La forma en que se usa el dinero cambia más rápido que nuestra capacidad de entenderlo. Abrir cuentas, pedir créditos o invertir desde el móvil es sencillo, pero plantea retos de educación financiera.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/30/finanzas-para-una-nueva-era/",
-    "source": "El Financiero",
-    "published": "2026-10-30T11:01:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Vas a comprar tu casa? Guía para reunir el dinero de tu enganche y no morir en el intento",
-    "summary": "El 55% de los mexicanos que rentan cree que nunca podrá comprar casa, por los altos precios y los ingresos requeridos para un crédito hipotecario. El artículo ofrece una guía para reunir el enganche.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/vas-comprar-casa-guia-reunir-dinero-enganche-morir-intento-20261030-841379.html",
-    "source": "El Economista",
-    "published": "2026-10-30T11:00:00-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
-    "summary": "Wall Street expects Democrats to win at least one chamber in Tuesday's midterms, and traders are wary of volatility around AI oversight, defense spending and crypto policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
-    "source": "Bloomberg",
-    "published": "2026-10-30T11:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain",
-    "summary": "Deutsche Bank afirma que el dólar no debe darse por sentado como activo refugio durante una corrección de mercado impulsada por la IA. Plantea la idea de un 'dólar de la IA'.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain",
-    "source": "Bloomberg",
-    "published": "2026-10-30T10:47:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nasdaq 100 Set to Enter Correction as Spending Fears Roil Market",
-    "summary": "The Nasdaq 100 is set to enter correction territory, down 10% from its Oct. 6 record. Worries about AI spending are colliding with disappointing core-business earnings at big tech.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
-    "source": "Bloomberg",
-    "published": "2026-10-30T10:30:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
     "light": true
   }
 ]
