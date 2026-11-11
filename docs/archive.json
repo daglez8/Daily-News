@@ -1,5 +1,170 @@
 [
   {
+    "title": "SAP Touts AI Tools, But Fails to Disclose Numbers to Measure Results",
+    "summary": "SAP is promoting its AI tools but has disclosed few metrics showing whether the effort is paying off. That gap makes the return on its AI push hard to measure.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
+    "source": "Bloomberg",
+    "published": "2026-11-11T12:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
+    "summary": "Some US power companies are now using Anthropic's Mythos AI to hunt for cybersecurity flaws in energy systems. They had spent months pressing government officials and Anthropic for access to its most powerful models to fend off hackers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
+    "source": "Bloomberg",
+    "published": "2026-11-11T12:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+    "summary": "US mortgage rates fell for a fourth straight week, pushing home-purchase applications up by the most since mid-April. The drop gives a small lift to a deflated housing market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+    "source": "Bloomberg",
+    "published": "2026-11-11T12:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+    "summary": "US stock futures rose on CoreWeave's results and demand for Anthropic's IPO. Meanwhile, short-term Treasury yields jumped the most in 19 months after hotter-than-expected CPI, and Fed officials warned that rates may need to rise.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T11:45:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Doubts Collide With Anthropic’s Mega IPO",
+    "summary": "Anthropic is going public just as investors grow worried about the outlook for artificial intelligence. The tension between IPO demand and AI-bubble doubts frames the listing.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-11T11:38:29+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Más política que monetaria",
+    "summary": "Columna que analiza las decisiones de tasa de Banxico y argumenta que hoy pesan más los factores políticos que los estrictamente monetarios. El autor retoma ideas de Woodford sobre cómo las expectativas de hogares y productores transmiten la política monetaria.",
+    "link": "https://www.elfinanciero.com.mx/opinion/manuel-molano/2026/11/11/mas-politica-que-monetaria/",
+    "source": "El Financiero",
+    "published": "2026-11-11T11:30:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "AI Stocks Face Tug-of-War as Anthropic, CoreWeave Lift Hopes",
+    "summary": "The AI trade is now so big that its supporters and skeptics often find backing on the same day. Anthropic's IPO and CoreWeave's results are lifting hopes even as doubts persist.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes",
+    "source": "Bloomberg",
+    "published": "2026-11-11T11:28:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says",
+    "summary": "Airbnb co-founder Nathan Blecharczyk says the company is building its own specialized AI travel agent that will eventually book stays both on and off Airbnb. He also discussed Airbnb's return to growth and regulation of housing in Europe.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T11:22:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Kai-Fu Lee Questions Soaring AI Valuations",
+    "summary": "Kai-Fu Lee questions whether trillion-dollar AI valuations can be justified, pointing to circular funding and cheaper Chinese and open-source models. He argues businesses must reinvent themselves around AI and that Europe's opportunity lies in applications.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/kai-fu-lee-questions-soaring-ai-valuations-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T11:06:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
+    "summary": "Traders piled back into the AI trade after strong CoreWeave results and robust demand for Anthropic's IPO, lifting US stock futures. The briefing also covers US-led Ukraine–Russia peace talks in Abu Dhabi.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/the-pulse-with-francine-lacqua-11-11-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T10:46:34+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Has Driven a Quarter of UK Growth This Year, Analysis Shows",
+    "summary": "Bloomberg economists estimate that AI has driven about a quarter of UK growth this year. That leaves the country exposed if a global downturn hits AI valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/ai-has-driven-a-quarter-of-uk-growth-this-year-analysis-shows",
+    "source": "Bloomberg",
+    "published": "2026-11-11T10:25:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s IPO is too important to fail",
+    "summary": "Huge demand points to a blockbuster debut for Anthropic's IPO. But the FT warns that shadow insider sales and circular supply-chain backing could cause after-market indigestion.",
+    "link": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
+    "source": "Financial Times",
+    "published": "2026-11-11T10:23:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS’ Laud Sees Underpriced Risk in AI's ‘Web of Debt’",
+    "summary": "UBS Asset Management's Sonja Laud says the AI boom has shifted from an equity story to a balance-sheet story driven by debt. She warns that markets are underestimating the interconnected 'web of debt' across public and private credit and equity.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/ubs-laud-sees-underpriced-risk-in-ai-s-web-of-debt-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T10:15:17+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
+    "summary": "ByteDance plans to release a Muse-like AI assistant in the coming weeks, building on its lead in AI video. The company hopes the launch helps it close the gap with top US labs within as little as three years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
+    "source": "Bloomberg",
+    "published": "2026-11-11T10:10:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Aims for $3 Billion to $3.5 Billion in Japan Offering",
+    "summary": "Anthropic is seeking $3bn–$3.5bn from Japanese investors as part of its IPO, now that the frontier AI lab has formally begun marketing the offering. The plan keeps the fundraising target within Japan.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering",
+    "source": "Bloomberg",
+    "published": "2026-11-11T07:56:54+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Inflación en EU aviva apuestas de aumento de tasas de interés de la Fed: ¿Cómo afectaría al peso mexicano?",
     "summary": "La inflación de EU subió 0.4% mensual en octubre, por encima de lo esperado, lo que fortaleció las apuestas de un alza de tasas de la Fed en diciembre. El movimiento presiona al peso mexicano y al entorno de tasas en México.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/11/11/inflacion-en-eu-aviva-apuestas-de-aumento-de-tasas-de-interes-de-la-fed-como-afectaria-al-peso-mexicano/",
@@ -7,6 +172,17 @@
     "published": "2026-11-11T07:00:15+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Persiste la brecha de género en los Consejos de Administración y la Alta Dirección",
+    "summary": "La presencia de mujeres en los consejos de administración en México subió de 14.3% a 14.8%, aún muy por debajo del promedio de 34% de la OCDE. El estudio 'Mujeres en las empresas 2026' muestra que la brecha también persiste en la alta dirección.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/persiste-brecha-genero-consejos-administracion-alta-direccion-20261111-843279.html",
+    "source": "El Economista",
+    "published": "2026-11-11T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
     "language": "es",
     "light": false
   },
@@ -42,6 +218,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "IFRS 18: ¿realmente aplica a todas las empresas en México?",
+    "summary": "IFRS 18 entra en vigor en 2027 y cambiará la presentación de los estados financieros, aunque no todas las empresas en México estarán obligadas a aplicarla. El artículo explica quién debe adoptarla y por qué la distinción importa.",
+    "link": "https://www.eleconomista.com.mx/opinion/ifrs-18-realmente-aplica-todas-empresas-mexico-20261111-843299.html",
+    "source": "El Economista",
+    "published": "2026-11-11T06:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "IIFL: Can Sustain 25-30% Lending Growth For 3-4 Years",
@@ -143,6 +330,17 @@
     "light": false
   },
   {
+    "title": "Nvidia pasa por un “bache”, la BMV gana terreno y el peso se deprecia ante el dólar",
+    "summary": "Cierre de mercados: Nvidia tuvo un bache, la BMV ganó terreno y el peso se depreció frente al dólar.",
+    "link": "https://expansion.mx/mercados/2026/11/10/nvidia-cae-bmv-sube-peso-pierde-ante-dolar",
+    "source": "Expansión",
+    "published": "2026-11-10T23:36:34+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Mapeo de la resistencia a la IA",
     "summary": "Según el AI Monitor 2026 de Ipsos, solo 38% de los estadounidenses ve más ventajas que inconvenientes en la IA, frente a 85% en China y 80% en India. La resistencia en EU y Europa podría influir en la adopción y regulación de la tecnología.",
     "link": "https://www.eleconomista.com.mx/opinion/mapeo-resistencia-ia-20261110-843326.html",
@@ -207,6 +405,17 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "CoreWeave Quiets Doubts Over AI Business With Upbeat Outlook",
+    "summary": "CoreWeave eased fears about its debt-laden business with an upbeat quarterly report, showing sales growth is still strong. The results came despite challenges facing the data center industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
+    "source": "Bloomberg",
+    "published": "2026-11-10T21:13:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
   },
   {
     "title": "CFE Fibra E inicia reuniones con inversionistas por nueva emisión de hasta US$867 millones",
@@ -5289,214 +5498,5 @@
     "relevance_score": 82,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
-    "summary": "Xantium, un fondo cuantitativo, se separará de la firma controlada por Paul Tudor Jones II el próximo año en un lanzamiento récord de 9,000 millones de dólares, según el FT.",
-    "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-01T05:00:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
-    "summary": "Big fund managers are pressing 'pause' on bond positions as the US midterm vote and key economic data releases loom.",
-    "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-01T05:00:17+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IPC de octubre 2026: qué inflación esperan las consultoras",
-    "summary": "La inflación de octubre cerró en torno a 2% mensual según consultoras privadas, con mayor presión en alimentos y bebidas. (Estimaciones para Argentina.)",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipc-de-octubre-2026-que-inflacion-esperan-las-consultoras/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-01T05:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
-    "summary": "DeepSeek has released a prototype of a more autonomous coding agent, aimed at challenging Anthropic's popular Claude Code. The move signals intensifying competition in AI coding agents.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-    "source": "Bloomberg",
-    "published": "2026-11-01T03:48:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bancos públicos sostienen crédito en Brasil en medio de un endeudamiento récord, según Goldman",
-    "summary": "Según Goldman Sachs, los bancos públicos y las líneas de crédito del gobierno sostendrán el crédito en Brasil pese a tasas altas, morosidad creciente y un endeudamiento récord de las familias.",
-    "link": "https://www.bloomberglinea.com/mercados/bancos-publicos-sostienen-credito-en-brasil-en-medio-de-un-endeudamiento-record-segun-goldman/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-01T02:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-    "summary": "The FBI said North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a hacking attack on Binance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-    "source": "Bloomberg",
-    "published": "2026-10-31T21:59:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "FBI acusa a Corea del Norte de robar más de 6,000 millones de dólares en criptomonedas a Binance",
-    "summary": "El FBI acusó a Corea del Norte del robo de más de 6,000 millones de dólares en criptoactivos de Binance, el mayor robo de este tipo jamás denunciado. La plataforma dijo haber sido blanco de un ciberataque complejo.",
-    "link": "https://www.eleconomista.com.mx/internacionales/fbi-acusa-corea-norte-robar-6-000-millones-dolares-criptomonedas-binance-20261031-841547.html",
-    "source": "El Economista",
-    "published": "2026-10-31T18:49:26-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CFE busca mil millones de dólares entre inversionistas: ¿A qué destinará ese dinero?",
-    "summary": "La CFE busca recaudar unos mil millones de dólares el próximo mes mediante un vehículo de inversión para financiar nuevas líneas de transmisión, mientras Sheinbaum intenta atraer capital privado al sector.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/10/31/cfe-busca-mil-millones-de-dolares-entre-inversionistas-a-que-destinara-ese-dinero/",
-    "source": "El Financiero",
-    "published": "2026-10-31T18:38:48+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
-    "summary": "With control of Congress hinging on razor-thin races, both parties are tapping voter frustration over rising credit card debt and rates as a rare bipartisan campaign issue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
-    "source": "Bloomberg",
-    "published": "2026-10-31T15:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors trim growth bets over fears of US economy’s AI exposure",
-    "summary": "Investors are returning to bonds after a long sell-off and trimming growth bets as concern rises about the US economy's over-reliance on tech and AI spending.",
-    "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-31T14:00:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inseguridad en México cambia cómo se paga y se compra en línea: 27% ya usa tarjetas digitales",
-    "summary": "El estudio Consumer Pulse 2026 de Bain & Company muestra que la inseguridad en México está cambiando la forma de pagar y comprar en línea: 27% ya usa tarjetas digitales. La desconfianza transforma los hábitos de pago y el comercio electrónico.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/inseguridad-mexico-cambia-paga-compra-linea-27-tarjetas-digitales-20261031-841519.html",
-    "source": "El Economista",
-    "published": "2026-10-31T13:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
-    "summary": "Tras los reportes de las grandes tecnológicas, el mercado esperaba claridad pero las dudas sobre el enorme gasto en inteligencia artificial persisten y los resultados las agravaron. Bloomberg analiza cómo se debilita el entusiasmo por la IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
-    "source": "Bloomberg",
-    "published": "2026-10-31T13:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Spending Fears Hammer Big Tech Stocks",
-    "summary": "Disappointing Big Tech earnings are intensifying investor concerns over whether massive AI spending will generate sufficient returns, according to Bloomberg's technology editor.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video",
-    "source": "Bloomberg",
-    "published": "2026-10-31T11:43:55+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
-    "summary": "Crypto exchanges are tightening security, placing additional alerts and restrictions on fund movements, after the $6.3bn Binance heist.",
-    "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-31T10:38:18+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
-    "summary": "SoftBank-backed OPay, a Nigeria-focused payments platform, halted its NYSE IPO, which was due to start trading Friday, citing a regulatory inquiry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
-    "source": "Bloomberg",
-    "published": "2026-10-31T08:48:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Solo tres monedas de América Latina superaron al dólar en octubre: cuáles ganaron y perdieron",
-    "summary": "Solo tres monedas latinoamericanas superaron al dólar en octubre: el peso colombiano lideró las ganancias, mientras el real brasileño y el peso mexicano registraron las mayores pérdidas, en un mes marcado por decisiones de la Fed.",
-    "link": "https://www.bloomberglinea.com/mercados/solo-tres-monedas-de-america-latina-superaron-al-dolar-en-octubre-cuales-ganaron-y-perdieron/",
-    "source": "Bloomberg Línea",
-    "published": "2026-10-31T08:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-    "summary": "OpenAI CEO Sam Altman met Samsung's top executives in South Korea to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
-    "source": "Bloomberg",
-    "published": "2026-10-31T06:40:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Is this the first clear evidence of AI’s impact on the labour market?",
-    "summary": "The FT examines whether recent data offer the first clear evidence of AI's effect on jobs. Productivity is up and employment down in the tech sector, but the picture elsewhere is muddier.",
-    "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-10-31T05:00:31+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
-    "summary": "OpenAI trimmed its fundraising target by $10 billion as an AI stock selloff and rival Anthropic's impending public listing complicate efforts to secure investor commitments, per the FT.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
-    "source": "Bloomberg",
-    "published": "2026-10-31T04:00:40+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
   }
 ]
