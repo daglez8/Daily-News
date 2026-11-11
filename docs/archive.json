@@ -1,5 +1,192 @@
 [
   {
+    "title": "Google Adds Gemini Voice AI Assistant to Apple CarPlay",
+    "summary": "Google is adding its Gemini AI app to Apple's CarPlay system. The move expands options for drivers already using the assistant on their Apple devices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/google-adds-gemini-voice-ai-assistant-to-apple-carplay",
+    "source": "Bloomberg",
+    "published": "2026-11-11T18:57:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "United Blocks AI Agents From Booking Flights Ahead of Holidays",
+    "summary": "United Airlines is moving to block third-party AI agents from booking flights and accessing customer accounts ahead of the holiday travel season. The airline cites privacy concerns as AI use spreads across the industry — an early example of incumbents gating agentic access to their platforms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays",
+    "source": "Bloomberg",
+    "published": "2026-11-11T18:50:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US tech stocks surge as AI trade revives",
+    "summary": "The Nasdaq erased last week's losses as better-than-expected CoreWeave results and the prospect of a higher Anthropic IPO valuation boosted sentiment. The AI trade revived after a period of anxiety.",
+    "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-11T18:42:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
+    "summary": "Nomura is exploring a sale of its crypto business Laser Digital Holdings. Losses at the Zurich-based unit last year pushed the brokerage's entire European operation into the red.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/nomura-explores-possible-sale-of-laser-digital-crypto-unit",
+    "source": "Bloomberg",
+    "published": "2026-11-11T18:31:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street ‘se emociona’ por próxima OPI de Anthropic; Nasdaq avanza 1.11%",
+    "summary": "Wall Street abrió con alzas impulsada por la sólida demanda de la OPI de Anthropic, dejando de lado el tono hawkish de algunos funcionarios de la Fed. El Nasdaq encabezó las ganancias con un avance de 1.11%, a 25,344 puntos.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/11/bmv-wall-street-hoy-11-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-11T17:58:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
+    "summary": "Anthropic's IPO has drawn orders multiple times the shares available, according to people familiar with the matter. Demand is accelerating for what could be the biggest first-time share sale ever.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T17:46:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La investigación a Jensen Huang expone un nuevo riesgo para Nvidia: la falta de un CEO sustituto",
+    "summary": "Expansión analiza cómo la investigación sobre Jensen Huang expone un riesgo adicional para Nvidia: la ausencia de un sucesor claro para su CEO. El caso ilustra el riesgo de persona clave y la importancia de la planeación de sucesión.",
+    "link": "https://expansion.mx/tecnologia/2026/11/11/infidelidad-jensen-huang-riesgo-nvidia-falta-de-sustituto",
+    "source": "Expansión",
+    "published": "2026-11-11T17:42:45+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "What’s Next for Anthropic’s Mega-IPO: Five Things to Watch",
+    "summary": "Anthropic is in the home stretch of its IPO, which together with a $26 billion private placement is poised to top SpaceX's record. The deal could raise up to $90.4 billion for the company and its co-founders when it prices on Nov. 18, making it the first listing of a frontier AI model maker.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/what-s-next-for-anthropic-s-mega-ipo-five-things-to-watch",
+    "source": "Bloomberg",
+    "published": "2026-11-11T17:08:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Protestas en España: Trabajadores exigen alza salarial por encarecimiento de la vivienda",
+    "summary": "España vivió una huelga general de 24 horas convocada contra el encarecimiento de la vivienda y para exigir alzas salariales. Hubo afectaciones al transporte, carreteras cortadas y al menos una treintena de detenidos.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/protestas-en-espana-trabajadores-exigen-alza-salarial-por-encarecimiento-de-la-vivienda/",
+    "source": "El Financiero",
+    "published": "2026-11-11T17:05:01+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Observing Distortions in the AI Market: Sixth Street's Alan Waxman",
+    "summary": "Sixth Street co-founder and CEO Alan Waxman discusses distortions in the AI investment cycle and credit markets on Bloomberg Deals. He also covers the firm's sports investments.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/observing-distortions-in-ai-market-sixth-street-s-ceo-video",
+    "source": "Bloomberg",
+    "published": "2026-11-11T17:03:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Applied Intuition In Talks to Raise $1.5 Billion at $30 Billion Value",
+    "summary": "Applied Intuition, a defense contractor building autonomous-vehicle technology, is in talks to raise at least $1.5 billion at a $30 billion valuation. The round would be led by General Catalyst.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-11-11T16:34:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tipo de cambio HOY: Peso pierde ante el dólar por probable aumento a tasa de la Fed en diciembre",
+    "summary": "El peso extiende pérdidas ante el dólar por la mayor probabilidad de un alza de la Fed en diciembre. Si la Fed sube 25 pb y Banxico no se mueve, el diferencial de tasas llegaría a un mínimo histórico de apenas 200 puntos base.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/11/peso-dolar-tipo-de-cambio-precio-hoy-11-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-11T16:24:59+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las transferencias exprés transforman las remesas",
+    "summary": "Las stablecoins están presionando a empresas tradicionales de remesas como Western Union y MoneyGram al reducir los envíos de días a minutos. El caso de un usuario que migró a monedas estables ilustra el reto competitivo para el negocio de transferencias, clave para corredores como el de México.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/11/11/las-transferencias-expres-transforman-las-remesas/",
+    "source": "El Financiero",
+    "published": "2026-11-11T16:16:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México aprueba Presupuesto 2027 para reanimar la economía y con gasto billonario en programas sociales",
+    "summary": "La Cámara de Diputados aprobó el Presupuesto 2027 por MXN$10.6 billones, con gasto billonario en programas sociales en año electoral. El gobierno busca reanimar el crecimiento y a la vez avanzar en consolidación fiscal para no perder el grado de inversión.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-aprueba-presupuesto-2027-para-reanimar-la-economia-y-con-gasto-billonario-en-programas-sociales/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-11T14:53:42+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia elige a Wachtell, bufete famoso por las batallas del mundo empresarial, para investigar a su CEO",
+    "summary": "El consejo de Nvidia contrató al bufete Wachtell, Lipton, Rosen & Katz para investigar los reportes de que su CEO, Jensen Huang, mantuvo una relación con una empresaria sospechosa de espionaje para China. Es un caso relevante de supervisión del consejo ante riesgo reputacional del CEO.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-elige-wachtell-bufete-famoso-batallas-mundo-empresarial-investigar-ceo-20261111-843416.html",
+    "source": "El Economista",
+    "published": "2026-11-11T12:49:13-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "En el largo plazo se deberán ajustar los parámetros clave del SAR: Afore XXI Banorte",
+    "summary": "El director de Afore XXI Banorte, David Razú, dijo que por el cambio demográfico eventualmente deberán ajustarse parámetros del SAR como semanas de cotización y edad de retiro. Subrayó que esos cambios ocurrirían en el muy largo plazo y solo si la demografía lo exige.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/plazo-deberan-ajustar-parametros-clave-sar-afore-xxi-banorte-20261111-843247.html",
+    "source": "El Economista",
+    "published": "2026-11-11T12:32:56-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 67,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Pico de pensiones por Afores será en 2064 con 11.4 millones de pensionados: Consar",
+    "summary": "El presidente de la Consar, Julio César Cervantes, afirmó que el sistema de Afores está preparado para el envejecimiento poblacional. Estudios actuariales prevén que el pico de pensionados llegue en 2064 con 11.4 millones de personas.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/pico-pensiones-afores-sera-2064-11-4-millones-pensionados-consar-20261111-843246.html",
+    "source": "El Economista",
+    "published": "2026-11-11T12:30:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "SAP Touts AI Tools, But Fails to Disclose Numbers to Measure Results",
     "summary": "SAP is promoting its AI tools but has disclosed few metrics showing whether the effort is paying off. That gap makes the return on its AI push hard to measure.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
@@ -31,6 +218,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Registro digital de jornada laboral abre frente legal y fiscal a empresas",
+    "summary": "La reforma para reducir la jornada de 48 a 40 horas y la obligación de registrar entradas y salidas ya llegó a los tribunales, trasladando el debate a la validez probatoria. La STPS está por publicar los lineamientos del registro electrónico de jornada, lo que abre frentes legales y fiscales para las empresas.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/registro-digital-jornada-laboral-abre-frente-legal-fiscal-empresas-20261111-843403.html",
+    "source": "El Economista",
+    "published": "2026-11-11T11:50:07-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
   },
   {
     "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
@@ -436,6 +634,17 @@
     "published": "2026-11-10T20:58:08+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Lessons from a miserable month for hedge funds",
+    "summary": "The Economist reviews a miserable month for hedge funds. The core problem: the struggle to invest successfully in anything other than AI.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+    "source": "The Economist",
+    "published": "2026-11-10T20:47:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5289,214 +5498,5 @@
     "relevance_score": 67,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
-    "summary": "Howard Marks, de Oaktree, dice que los recientes tropiezos de mercado ligados a la IA han roto en parte la aura de infalibilidad del sector. Sus comentarios refuerzan el escepticismo sobre las valuaciones.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video",
-    "source": "Bloomberg",
-    "published": "2026-11-02T03:51:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "¿Malas noticias para el peso? Dato de empleo en EU podría subir tasas de interés de la Fed",
-    "summary": "EU publicará el reporte de empleo de octubre, con analistas esperando alrededor de 65 mil nuevos puestos. El dato podría influir en las decisiones de tasas de la Fed y en el comportamiento del peso mexicano.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/01/malas-noticias-para-el-peso-dato-de-empleo-en-eu-podria-subir-tasas-de-interes-de-la-fed/",
-    "source": "El Financiero",
-    "published": "2026-11-02T03:37:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
-    "summary": "Oaktree's Howard Marks says recent AI-related market stumbles have somewhat burst the bubble of infallibility around the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
-    "source": "Bloomberg",
-    "published": "2026-11-02T03:04:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Macquarie Executive Sees AI Fast-Tracking Junior Analyst Careers",
-    "summary": "A Macquarie Capital executive says junior research staff need not fear AI taking their jobs, and sees the technology fast-tracking junior analysts' careers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers",
-    "source": "Bloomberg",
-    "published": "2026-11-02T02:15:26+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Singapore’s STTGDC Eyes $2.4 Billion Loan, Adds to AI Debt Binge",
-    "summary": "El operador de centros de datos STT GDC negocia con bancos un préstamo sindicado de S$3,100 millones (US$2,400 millones). El crédito se suma al auge de deuda ligado a la construcción de infraestructura de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/singapore-s-sttgdc-eyes-2-4-billion-loan-adds-to-ai-debt-binge",
-    "source": "Bloomberg",
-    "published": "2026-11-02T01:58:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "“Factible, déficit de 4.1% de PIB este año”",
-    "summary": "Hacienda considera factible cerrar 2026 con un déficit (RFSP) de 4.1% del PIB, según el secretario Édgar Amador. Confía en cumplir las metas fiscales del año.",
-    "link": "https://www.eleconomista.com.mx/economia/factible-deficit-4-1-pib-ano-20261102-841676.html",
-    "source": "El Economista",
-    "published": "2026-11-02T00:27:38-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ingresos públicos cayeron 2.8% anual",
-    "summary": "Los ingresos públicos cayeron 2.8% anual en el tercer trimestre por menor recaudación de ISR e ingresos petroleros, según el informe de finanzas públicas de la SHCP.",
-    "link": "https://www.eleconomista.com.mx/economia/ingresos-publicos-cayeron-2-8-anual-20261102-841675.html",
-    "source": "El Economista",
-    "published": "2026-11-02T00:23:34-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crédito alcanza cobertura récord en venta de autos",
-    "summary": "El financiamiento automotriz alcanzó 75.6% de participación en enero-septiembre, un máximo histórico y 2.9 puntos más, impulsado por SUV y pickups, según AMDA, JATO y Urban Science.",
-    "link": "https://www.eleconomista.com.mx/empresas/credito-alcanza-cobertura-record-venta-autos-20261101-841665.html",
-    "source": "El Economista",
-    "published": "2026-11-01T23:55:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Vinculan a grupo norcoreano con hackeo de 6,300 millones de dólares a Binance",
-    "summary": "TRM Labs atribuyó al grupo norcoreano TraderTraitor el hackeo de 6,300 millones de dólares contra Binance, considerado el mayor robo en la historia de las criptomonedas. La atribución aún no ha sido confirmada por autoridades de EU y Binance colabora con agencias de seguridad.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/vinculan-grupo-norcoreano-hackeo-6-300-millones-dolares-binance-20261101-841662.html",
-    "source": "El Economista",
-    "published": "2026-11-01T23:31:49-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "“Necesario, subir tasas de interés”",
-    "summary": "Tres funcionarios de la Fed defendieron nuevos incrementos de tasas para combatir la inflación elevada, tras la reunión de octubre en que las dejaron sin cambios. Las declaraciones apuntan a un entorno de tasas altas con impacto en crédito y tipo de cambio.",
-    "link": "https://www.eleconomista.com.mx/economia/necesario-subir-tasas-interes-20261101-841659.html",
-    "source": "El Economista",
-    "published": "2026-11-01T23:26:07-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hackers are running riot with AI. Its makers want to cash in",
-    "summary": "OpenAI and Anthropic see a big commercial opportunity in cybersecurity as hackers increasingly use AI. The Economist examines how the AI labs plan to monetize defenses against the very threats their tools enable.",
-    "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-    "source": "The Economist",
-    "published": "2026-11-01T21:41:42+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
-    "summary": "Stocks got a long-awaited jolt of volatility after disappointing earnings from tech giants fed angst around the AI-driven rally. Wall Street is bracing for more wild trading days.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
-    "source": "Bloomberg",
-    "published": "2026-11-01T15:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-    "summary": "A rout in junk debt has sparked a 'bloodbath' for credit investors, with aggressive tactics to shift assets beyond the reach of creditors adding fuel to the sell-off.",
-    "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-01T14:54:55+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Talent War Spreads to Wall Street",
-    "summary": "Las firmas de trading cuantitativo compiten con los laboratorios de IA por científicos e investigadores de élite, con compensaciones de primer año de hasta 800,000 dólares para algunos doctores. Usan becas, patrocinios universitarios y eventos de reclutamiento.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-01/ai-talent-war-spreads-to-wall-street-video",
-    "source": "Bloomberg",
-    "published": "2026-11-01T14:26:56+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tech Selloff Could Ease Pressure on the Fed",
-    "summary": "A BMO economist says heavy AI investment has helped push interest rates and inflation pressures higher, and that a cooling in the sector could ease the Fed's job. She sees the US economy as robust but notes softer consumer spending and wage growth.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-01/tech-selloff-could-ease-pressure-on-the-fed-video",
-    "source": "Bloomberg",
-    "published": "2026-11-01T13:33:21+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The $40 Trillion Problem Washington Won’t Talk About",
-    "summary": "US national debt has passed $40 trillion, and persistent deficits are pushing up long-term rates. Economists argue heavier government borrowing ultimately filters through to households via higher mortgage, auto and other financing costs.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-01/the-40-trillion-problem-washington-won-t-talk-about-video",
-    "source": "Bloomberg",
-    "published": "2026-11-01T13:03:57+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
-    "summary": "Australian home prices fell for a seventh straight month and are on track for the biggest decline in 40 years. The Reserve Bank is expected to raise borrowing costs again this week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
-    "source": "Bloomberg",
-    "published": "2026-11-01T13:01:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic explica a los inversores los ‘riesgos catastróficos’ a los que nos expone la carrera por la IA",
-    "summary": "Anthropic, desarrolladora de Claude, presentó su folleto de emisión y se espera que salga a bolsa en noviembre con una valoración de hasta 2 billones de dólares. Sería la mayor OPI de la historia, por encima de la de SpaceX. El prospecto detalla ante inversores los 'riesgos catastróficos' de la carrera por la IA.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/anthropic-explica-inversores-riesgos-catastroficos-expone-carrera-ia-20261101-841560.html",
-    "source": "El Economista",
-    "published": "2026-11-01T13:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 95,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deuda de la IA enciende una alerta en el BIS por sus posibles efectos en otros mercados de bonos",
-    "summary": "El BIS advirtió que el creciente financiamiento de la infraestructura de IA mediante deuda podría elevar los riesgos para la estabilidad financiera. También podría presionar los rendimientos de los bonos de largo plazo.",
-    "link": "https://www.bloomberglinea.com/mercados/deuda-de-la-ia-enciende-una-alerta-en-el-bis-por-sus-posibles-efectos-en-otros-mercados-de-bonos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-01T11:00:01+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
   }
 ]
