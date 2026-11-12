@@ -1,5 +1,137 @@
 [
   {
+    "title": "AI Financing Strong Despite Nvidia: Rosenbaum",
+    "summary": "JPMorgan's Nathaniel Rosenbaum says Nvidia's turmoil is unlikely to spill over into investment-grade credit. Hyperscalers continue to find financing for the AI buildout, and 'at the right price there will be demand for that debt.'",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-12/ai-financing-strong-despite-nvidia-rosenbaum-video",
+    "source": "Bloomberg",
+    "published": "2026-11-12T18:13:56+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+    "summary": "US existing-home sales fell to their lowest level since 2010 as soaring mortgage rates deepened the housing slump. Higher borrowing costs continue to weigh on transactions.",
+    "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-12T18:03:44+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Comprarás en el Buen Fin 2026? Alertan que IA multiplicará las tiendas falsas hasta 200%",
+    "summary": "Expertos alertan que la IA facilitará la creación de tiendas falsas en internet durante el Buen Fin, elevando hasta 200% el riesgo de fraude en comercio electrónico. Antes montar una tienda falsa requería tiempo y conocimientos; ahora los estafadores pueden hacerlo en minutos.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/12/compraras-en-el-buen-fin-2026-alertan-que-ia-multiplicara-las-tiendas-falsas-hasta-200/",
+    "source": "El Financiero",
+    "published": "2026-11-12T17:14:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia’s $10 Billion Anthropic IPO Pledge in Focus With CEO Exit",
+    "summary": "Anthropic's plans for a record IPO are under fresh scrutiny after Nvidia's CEO was unexpectedly ousted. The episode highlights the financial links between the two AI giants, including Nvidia's $10 billion pledge tied to the offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-s-10-billion-anthropic-ipo-pledge-in-focus-with-ceo-exit",
+    "source": "Bloomberg",
+    "published": "2026-11-12T15:35:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "De US$50.000 a valer US$508 millones: la fintech Cocos atrajo al fondo que apostó por Nubank",
+    "summary": "La fintech argentina Cocos, fundada con US$50.000 en la pandemia, cerró su primera ronda por US$34 millones liderada por Kaszek, el fondo que apostó por Nubank. La operación la valúa en US$508 millones.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/de-us50000-a-valer-us508-millones-la-fintech-cocos-atrajo-al-fondo-que-aposto-por-nubank/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-12T15:18:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jensen Huang is out. His successor has the toughest job in tech",
+    "summary": "Nvidia, a company built around one man, must now learn to run without Jensen Huang. The Economist argues his successor faces the toughest job in tech — a case study in key-man risk and board oversight.",
+    "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+    "source": "The Economist",
+    "published": "2026-11-12T14:28:59+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jensen Huang is gone. Will the AI industry pay the price?",
+    "summary": "Jensen Huang's fall could unravel the web of financial dependencies that helped fuel the AI boom. The FT asks whether the wider AI industry will pay the price for Nvidia's leadership crisis.",
+    "link": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-12T14:22:30+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Everything is going wrong for SoftBank",
+    "summary": "Masayoshi Son's all-in bet on AI is looking shaky, and The Economist argues everything is going wrong for SoftBank.",
+    "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
+    "source": "The Economist",
+    "published": "2026-11-12T14:08:53+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The panic over personalised pricing is overdone",
+    "summary": "The Economist argues the panic over personalised pricing is overdone and that lawmakers are getting ahead of themselves.",
+    "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+    "source": "The Economist",
+    "published": "2026-11-12T14:08:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s Huang Ousted by Board in Move That Roils AI Economy",
+    "summary": "Nvidia's board ousted CEO Jensen Huang, the face of the AI infrastructure boom, after reports of two affairs, including one with a woman suspected of spying for China. The move roils the broader AI economy that has leaned heavily on Nvidia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo",
+    "source": "Bloomberg",
+    "published": "2026-11-12T13:50:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Citi prevé más alzas de tasas de la Fed, pero no espera un dólar más fuerte: las razones",
+    "summary": "Citi prevé que la Fed seguirá subiendo tasas en los próximos meses, aunque no espera un dólar significativamente más fuerte. Cita señales de debilidad en algunos sectores de la economía estadounidense.",
+    "link": "https://www.bloomberglinea.com/mercados/citi-preve-mas-alzas-de-tasas-de-la-fed-pero-no-espera-un-dolar-mas-fuerte-las-razones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-12T13:21:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El FMI no ve que la crisis bancaria en Paraguay se traslade a países vecinos",
+    "summary": "El FMI no ve indicios de que la crisis del banco Ueno en Paraguay se contagie a países vecinos. La portavoz Julie Kozack destacó que las autoridades paraguayas actuaron rápido, incluidos pagos a los depositantes.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fmi-ve-crisis-bancaria-paraguay-traslade-paises-vecinos-20261112-843633.html",
+    "source": "El Economista",
+    "published": "2026-11-12T12:53:38-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "AI Transformation Bigger Than Any Company, Individual, Says BlackRock’s Pyle",
     "summary": "BlackRock's Mike Pyle says the AI market is entering a more selective, 'two-sided' phase of winners and losers rather than a directional trade.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-12/ai-transformation-bigger-than-any-company-blackrock-video",
@@ -40,6 +172,17 @@
     "published": "2026-11-12T12:00:00+00:00",
     "category": "Real Estate & Foreign Buyers",
     "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Recorte de tasa del Banxico \"confunde y refleja mensaje equivocado\": subgobernador Heath",
+    "summary": "El subgobernador de Banxico, Jonathan Heath, criticó el reciente recorte de la tasa clave: dijo que 'confunde y refleja un mensaje equivocado'. Argumentó que el balance inflacionario está muy sesgado al alza, el peso se ha depreciado y la Fed seguirá subiendo tasas, lo que comprime el diferencial.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/recorte-tasa-banxico-confunde-refleja-mensaje-equivocado-subgobernador-heath-20261112-843623.html",
+    "source": "El Economista",
+    "published": "2026-11-12T11:59:36-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 90,
     "language": "es",
     "light": false
   },
@@ -88,6 +231,28 @@
     "light": true
   },
   {
+    "title": "Divisas turísticas sumaron 26,096 millones de dólares y suben 1.4% a septiembre: Inegi",
+    "summary": "México recibió 26,096 millones de dólares en divisas turísticas entre enero y septiembre, 1.4% más que en 2025, según Inegi. El repunte se aceleró frente al 0.9% registrado hasta agosto.",
+    "link": "https://www.eleconomista.com.mx/empresas/divisas-turisticas-sumaron-26-096-millones-dolares-suben-1-4-septiembre-inegi-20261112-843619.html",
+    "source": "El Economista",
+    "published": "2026-11-12T11:30:41-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Banco del Bienestar lanza nueva app: Así puedes transferir dinero, pagar y recibir depósitos",
+    "summary": "El Banco del Bienestar renovó su app para permitir transferencias electrónicas sin comisiones, pagos con código QR y consulta de movimientos sin ir a sucursal. La plataforma apunta a millones de beneficiarios de programas sociales, ampliando la banca digital pública.",
+    "link": "https://www.eleconomista.com.mx/politica/banco-bienestar-lanza-nueva-app-asi-puedes-transferir-dinero-pagar-recibir-depositos-20261112-843615.html",
+    "source": "El Economista",
+    "published": "2026-11-12T11:21:26-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Resultados de Nubank: el mercado espera beneficio récord, pero vigila costo del crédito",
     "summary": "Nubank presenta resultados del tercer trimestre con expectativas de beneficio récord impulsado por la expansión del crédito. Los analistas anticipan mayores gastos operativos y señales de deterioro en la calidad de la cartera, un punto clave para su operación en México.",
     "link": "https://www.bloomberglinea.com/mercados/resultados-de-nubank-el-mercado-espera-beneficio-record-pero-vigila-costo-del-credito/",
@@ -95,6 +260,17 @@
     "published": "2026-11-12T11:00:01+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tasa de interés: ¿Cómo afecta tus inversiones en Cetes, bonos y acciones?",
+    "summary": "Un recorte de la tasa de Banxico no afecta igual a todas las inversiones: reduce rendimientos de Cetes de corto plazo y puede abrir oportunidades en acciones. Alejandro Aguilar, de la AMIB, explica cómo ajustar portafolios.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/tasa-interes-afecta-tus-inversiones-cetes-bonos-acciones-20261112-843238.html",
+    "source": "El Economista",
+    "published": "2026-11-12T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -126,6 +302,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-12/alternatives-on-the-patient-capital-opportunity-in-2026-video",
     "source": "Bloomberg",
     "published": "2026-11-12T10:47:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Where to find the anti-AI trade",
+    "summary": "The Economist finds the anti-AI trade in Indian equities: the worse chipmakers do, the better Indian stocks perform.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+    "source": "The Economist",
+    "published": "2026-11-12T10:38:28+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
     "language": "en",
@@ -374,6 +561,17 @@
     "light": true
   },
   {
+    "title": "CoreWeave Eyes $4 Billion Meta-Tied Loan to Cut Funding Costs",
+    "summary": "Junk-rated CoreWeave is in talks with banks to raise at least $4 billion via an investment-grade loan tied to Meta. The structure aims to cut funding costs for its AI chip capacity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
+    "source": "Bloomberg",
+    "published": "2026-11-11T22:42:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anticipan inflación por paquete fiscal",
     "summary": "Los cambios fiscales del Paquete Económico 2027 tendrían efectos inflacionarios de corto plazo. Se anticipa un encarecimiento de bienes y servicios.",
     "link": "https://www.reforma.com/anticipan-inflacion-por-paquete-fiscal/ar3313100",
@@ -396,6 +594,28 @@
     "light": false
   },
   {
+    "title": "Seguros de gastos médicos seguirán caros; siniestros consumen casi todo lo que cobran las aseguradoras",
+    "summary": "Los seguros de gastos médicos seguirán caros en México: los siniestros consumen casi todo lo que cobran las aseguradoras. La presión en la siniestralidad limita márgenes del sector.",
+    "link": "https://expansion.mx/economia/2026/11/11/seguros-de-gastos-medicos-seguiran-caros-siniestros-consumen-casi-todo-lo-que-cobran-las-aseguradoras",
+    "source": "Expansión",
+    "published": "2026-11-11T21:22:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Patrones y trabajadores chocan por el MIR del salario mínimo de 2027",
+    "summary": "Patrones y trabajadores chocan por el Monto Independiente de Recuperación (MIR) del salario mínimo de 2027. La discusión definirá el aumento salarial del próximo año.",
+    "link": "https://expansion.mx/economia/2026/11/11/salario-minimo-2027-discusion-patrones-trabajadores-mir",
+    "source": "Expansión",
+    "published": "2026-11-11T21:05:07+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Ueno bank: ¿Por qué el caso recuerda al Fobaproa en México?",
     "summary": "Expansión analiza el caso de Ueno bank y por qué sus paralelismos con el Fobaproa en México reabren el debate sobre rescates bancarios y riesgo moral. El texto se centra en las lecciones regulatorias del caso.",
     "link": "https://expansion.mx/economia/2026/11/11/ueno-bank-por-que-el-caso-recuerda-al-fobaproa-en-mexico",
@@ -405,6 +625,17 @@
     "relevance_score": 72,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Crunch Fitness Seeks to Borrow $800 Million in ABS Bond Sale",
+    "summary": "Crunch Fitness is looking to raise about $800 million through a bond backed by its franchise revenue. It adds to a string of whole-business securitizations in recent weeks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
+    "source": "Bloomberg",
+    "published": "2026-11-11T19:56:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Desde una MacBook hasta apoyo para emprender: Así fue el digno despido que hizo Canva",
@@ -427,6 +658,17 @@
     "relevance_score": 61,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+    "summary": "Newton Commercial Finance, JV of Apple Bank and Eagle Point Credit Management, is in early talks on a roughly $180 million bond partly backed by AI chip loans. GPU financing is filtering further into the ABS market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/newton-eyes-equipment-loan-abs-bond-sale-including-ai-chip-debt",
+    "source": "Bloomberg",
+    "published": "2026-11-11T19:03:02+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Google Adds Gemini Voice AI Assistant to Apple CarPlay",
@@ -5256,247 +5498,5 @@
     "relevance_score": 86,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave",
-    "summary": "Morgan Stanley CEO Ted Pick suggests AI investment could reach $10–15 trillion over the next decade. He points to major potential productivity gains.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T04:18:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone, Pimco Chiefs Debate the Perils of AI Boom",
-    "summary": "Blackstone's Jon Gray and Pimco's Emmanuel Roman debated whether global credit markets can absorb the multitrillion-dollar AI spending spree. The discussion took place at the HKMA investment summit.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/blackstone-pimco-chiefs-debate-the-perils-of-ai-boom-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T03:38:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street Chiefs See Robust Demand for Massive AI Deals",
-    "summary": "Wall Street chiefs said capital markets will keep underwriting the global AI infrastructure buildout. Morgan Stanley projects cumulative spending could reach $15 trillion over the next decade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
-    "source": "Bloomberg",
-    "published": "2026-11-03T03:13:14+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 81,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
-    "summary": "State Street CEO Ron O'Hanley said it is 'hard to see' AI as a bubble yet, citing demand that supports the massive investments in the technology.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet",
-    "source": "Bloomberg",
-    "published": "2026-11-03T02:58:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "DBS CEO on How Southeast Asia's Biggest Bank Deploys AI",
-    "summary": "DBS CEO Tan Su Shan discusses the bank's aggressive adoption of AI and how the Binance hack shows the need for tighter cyber hygiene. She also covers wealth flows in Singapore and Hong Kong.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T02:19:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Puede la IA generar una burbuja?",
-    "summary": "Crece la preocupación de que la inteligencia artificial provoque una burbuja bursátil y financiera. La historia muestra que las grandes revoluciones tecnológicas suelen acompañarse de episodios de exceso.",
-    "link": "https://www.eleconomista.com.mx/opinion/ia-generar-burbuja-20261103-841865.html",
-    "source": "El Economista",
-    "published": "2026-11-03T01:10:18-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hacia dónde va el predial con la nueva reforma catastral",
-    "summary": "La nueva reforma catastral busca resolver registros incompletos de casas, terrenos y locales que dificultan su aprovechamiento y la recaudación del predial en México.",
-    "link": "https://www.eleconomista.com.mx/opinion/predial-nueva-reforma-catastral-20261103-841864.html",
-    "source": "El Economista",
-    "published": "2026-11-03T01:09:10-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
-    "summary": "México concluyó la evaluación del GAFI sobre lavado de dinero, pero aún no se conoce su calificación. El resultado es relevante para el sistema financiero y su regulación.",
-    "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
-    "source": "Expansión",
-    "published": "2026-11-03T00:21:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
-    "summary": "Oracle raised $9.9 billion in a share sale priced at an 11% discount after its stock was hit in a choppy session. The raise comes amid heavy AI infrastructure financing needs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount",
-    "source": "Bloomberg",
-    "published": "2026-11-03T00:16:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "North Korea Denies Role in $6.3 Billion Binance Heist",
-    "summary": "North Korea denied US claims that it was behind the theft of more than $6 billion in crypto from Binance, after the FBI blamed Pyongyang's hackers for the biggest crypto heist on record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
-    "source": "Bloomberg",
-    "published": "2026-11-02T23:10:15+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The quest for immortality has become serious business",
-    "summary": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing. The quest for longevity has become serious business.",
-    "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
-    "source": "The Economist",
-    "published": "2026-11-02T21:39:36+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Palantir Outlook Signals Slowdown in AI-Fueled Sales Growth",
-    "summary": "Palantir issued a quarterly outlook that points to a potential slowdown in sales growth, a data point for the AI-fueled enterprise software trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/palantir-boosts-2026-revenue-outlook-on-strong-commercial-sales",
-    "source": "Bloomberg",
-    "published": "2026-11-02T21:16:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
-    "summary": "Explainer on Anthropic's IPO: the S-1 filing, Nasdaq listing and key risks. Covers how a company founded in 2020 by ex-OpenAI staff became an AI heavyweight.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
-    "source": "Bloomberg",
-    "published": "2026-11-02T18:35:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
-    "summary": "Anthropic's IPO faces hurdles, notably the Nov. 3 US midterms that could upend the politically supportive climate for fast AI development. The AI policy debate is intensifying ahead of the listing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
-    "source": "Bloomberg",
-    "published": "2026-11-02T18:03:06+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA pesa más que Trump en Wall Street: las elecciones de EU pasan a segundo plano",
-    "summary": "La IA pesa más que Trump en Wall Street, y las elecciones de EU pasan a segundo plano para los inversionistas ante las dudas sobre el gasto en inteligencia artificial.",
-    "link": "https://expansion.mx/tecnologia/2026/11/02/ia-wall-street-elecciones-trump-estados-unidos",
-    "source": "Expansión",
-    "published": "2026-11-02T18:02:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "‘La Llorona’ se lleva al dólar: Tipo de cambio baja a las 18.53 unidades en Día de Muertos",
-    "summary": "El tipo de cambio bajó a 18.53 pesos por dólar en Día de Muertos.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/02/peso-dolar-tipo-de-cambio-precio-hoy-2-de-noviembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-11-02T17:29:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
-    "summary": "DeepSeek lanzó un modo creador para crear plugins personalizados rápidamente, reforzando su oferta de agentes de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
-    "source": "Bloomberg",
-    "published": "2026-11-02T17:16:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing",
-    "summary": "New York City's comptroller says Anthropic's IPO structure risks disempowering shareholders and preventing ordinary people from reining in a potentially dangerous technology. It is a governance challenge for the filing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing",
-    "source": "Bloomberg",
-    "published": "2026-11-02T17:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
-    "summary": "Anthropic's S-1 reveals about $900bn in AI spending commitments, with infrastructure costs rising faster than revenues. Investors are scrutinizing the economics of the AI boom ahead of the IPO.",
-    "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-02T16:31:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Binance Boosts Market Maker Incentives in Wake of Record Hack",
-    "summary": "Binance aumentó incentivos a market makers tras sufrir un hackeo récord de 6,300 millones de dólares, buscando reactivar la actividad.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-boosts-market-maker-incentives-in-wake-of-record-hack",
-    "source": "Bloomberg",
-    "published": "2026-11-02T16:14:21+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
-    "summary": "Meta is eyeing at least $20 billion from a possible cross-border investment-grade bond offering as investors grow skeptical about the pace of AI spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering",
-    "source": "Bloomberg",
-    "published": "2026-11-02T16:11:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Country House / Arquipélago Arquitetos",
-    "summary": "A house in Paraty, Brazil, sits 100 meters above sea level on a natural Atlantic forest incline extending to the Serra da Bocaina.",
-    "link": "https://www.archdaily.com/1036417/country-house-arquipelago-arquitetos",
-    "source": "ArchDaily",
-    "published": "2026-11-02T16:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
   }
 ]
