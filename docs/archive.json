@@ -1,5 +1,159 @@
 [
   {
+    "title": "US Treasuries set for worst week since Trump’s ‘liberation day’",
+    "summary": "US Treasuries are heading for their worst week since April's \"liberation day\" tariff shock. Hotter-than-expected inflation and hawkish Fed remarks have stung investors who bet the global bond rout was over.",
+    "link": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-13T19:06:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+    "summary": "Anthropic CEO Dario Amodei said the company keeps investing in safety, security and alignment and does not want AI agents to \"run wild.\" He spoke in a live-streamed conversation with JPMorgan CEO Jamie Dimon as part of Anthropic's IPO roadshow.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
+    "source": "Bloomberg",
+    "published": "2026-11-13T18:55:54+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft outage exposes global reliance on core tech providers",
+    "summary": "The FT says the global Microsoft outage hit users ranging from banks and governments to sheriffs and pharmacies. The incident exposes the world's concentrated reliance on a handful of core tech providers.",
+    "link": "https://www.ft.com/content/f385935b-2bb4-4e34-8127-16517e8ceecb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-13T18:55:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+    "summary": "In a briefing ahead of Anthropic's IPO, Dario Amodei named sourcing computing power as one of the company's biggest challenges. He called it the AI company's \"deepest business dilemma.\"",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+    "source": "Bloomberg",
+    "published": "2026-11-13T18:46:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Microsoft explica por qué se cayó Outlook, Copilot y otros servicios por más de 12 horas",
+    "summary": "Expansión reporta la explicación de Microsoft sobre la caída de Outlook, Copilot y otros servicios durante más de 12 horas. El episodio subraya el riesgo operativo de depender de un solo proveedor de nube y productividad.",
+    "link": "https://expansion.mx/tecnologia/2026/11/13/microsoft-explica-caida-outlook",
+    "source": "Expansión",
+    "published": "2026-11-13T18:32:20+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ya no más filas en el cajero del Banco del Bienestar: así puedes hacer transferencias desde la nueva app",
+    "summary": "El Banco del Bienestar lanzó una nueva app que permite hacer transferencias sin acudir a cajeros ni hacer filas. Expansión explica cómo usarla, un paso en la digitalización de la banca pública.",
+    "link": "https://expansion.mx/finazas-personales/2026/11/13/como-hacer-transferencias-app-bienestar",
+    "source": "Expansión",
+    "published": "2026-11-13T18:13:29+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Huang and the Myth of the ‘Irreplaceable CEO’",
+    "summary": "Jensen Huang stepped down after an undisclosed relationship violated Nvidia's code of conduct, leaving a company built around him with no chairman, no No. 2 and no public succession plan. Bloomberg frames it as a failure of leadership and a case study in key-person risk.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video",
+    "source": "Bloomberg",
+    "published": "2026-11-13T17:42:23+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+    "summary": "The SEC plans to overhaul executive compensation disclosures as part of a broader scale-back of what public companies must tell investors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+    "source": "Bloomberg",
+    "published": "2026-11-13T17:11:50+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tipo de cambio HOY: Peso ‘ya quiere puente’ y gana al dólar",
+    "summary": "El peso se apreció 0.37% a 18.55 por dólar tras una inflación al productor en EU ligeramente menor a lo esperado. Banco Base advirtió que persisten riesgos para el tipo de cambio pese a la apreciación.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/13/peso-dolar-tipo-de-cambio-precio-hoy-13-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-13T17:08:28+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
+    "summary": "OpenAI launched ChatGPT Wallet, a secure payment method built with card networks that lets its AI make purchases on consumers' behalf. It renews OpenAI's push into agentic shopping after winding down Instant Checkout earlier this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks",
+    "source": "Bloomberg",
+    "published": "2026-11-13T17:06:11+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Buen fin 2026: Guía para evitar deudas con la tarjeta de crédito, según Condusef",
+    "summary": "Condusef publicó una guía para evitar endeudarse con tarjeta de crédito durante el Buen Fin 2026. La nota resume recomendaciones para el uso responsable del crédito al consumo.",
+    "link": "https://expansion.mx/economia/2026/11/13/buen-fin-2026-guia-para-evitar-deudas-con-la-tarjeta-de-credito-segun-condusef",
+    "source": "Expansión",
+    "published": "2026-11-13T16:45:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fed's Collins Talks Inflation Risks, Rate Policy and AI",
+    "summary": "Boston Fed President Susan Collins said inflation remains too high and is broadening beyond energy, supporting further tightening \"soon.\" She also discussed challenges in the housing market and AI's economic impact.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-13T16:24:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "H&R REIT Holders Nix Sale to Blackstone and GO, Rebuking CEO",
+    "summary": "H&R REIT shareholders voted down a plan to break up and sell the company to buyers including Blackstone. The deal would have let the CEO's family buy a package of assets at a discount, a rebuke on governance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "source": "Bloomberg",
+    "published": "2026-11-13T16:06:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO: AI’s $1.4T Test",
+    "summary": "Anthropic's potential IPO is drawing extraordinary investor demand at a reported $1.4 trillion target valuation. Bloomberg notes soaring compute costs, cash burn, uncertain profitability and unusual insider share sales could make the offering volatile.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video",
+    "source": "Bloomberg",
+    "published": "2026-11-13T15:51:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 87,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "New Corporate Speak Is Shaped By AI",
     "summary": "Corporate managements are increasingly using euphemisms such as “efficiency,” “automation” and “delayering” to describe AI-enabled job cuts or hiring freezes. Bloomberg Opinion's Jonathan Levin says this reflects growing public and political backlash against technology-driven headcount reductions.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video",
@@ -99,6 +253,17 @@
     "light": false
   },
   {
+    "title": "Pavilion in the Oaks / Mork-Ulnes Architects",
+    "summary": "Mork-Ulnes Architects designed a flexible pavilion for meditative, spa-like exercise, yoga and contemplation. It also serves as a gathering space for the clients' extended family and friends.",
+    "link": "https://www.archdaily.com/1035266/pavilion-in-the-oaks-mork-ulnes-architects",
+    "source": "ArchDaily",
+    "published": "2026-11-13T12:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Los \"coyotes\" de las Afore se instalan en el Metro y cobran hasta 11,000 pesos por los retiros de desempleo",
     "summary": "Expansión reporta que gestores informales (“coyotes”) operan en el Metro cobrando hasta 11,000 pesos por tramitar retiros por desempleo de las Afore. El caso expone riesgos de protección al consumidor en el sistema de ahorro para el retiro.",
     "link": "https://expansion.mx/economia/2026/11/13/los-coyotes-de-las-afore-se-instalan-en-el-metro-y-cobran-hasta-11-000-pesos-por-los-retiros-de-desempleo",
@@ -154,6 +319,17 @@
     "light": false
   },
   {
+    "title": "¿En qué estados se rezagan más los ingresos frente a la vivienda?",
+    "summary": "Adquirir vivienda en México exige cada vez mayor esfuerzo financiero y más dependencia del crédito hipotecario. La brecha entre precios y poder adquisitivo local es mayor en destinos donde los inmuebles se compran como inversión y no para habitarse, según un índice de asequibilidad por estado.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/estados-rezagan-ingresos-frente-vivienda-20261113-843925.html",
+    "source": "El Economista",
+    "published": "2026-11-13T11:07:25-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "UK Retailers Are Hiring for AI and Pulling Back on Other Roles",
     "summary": "Some of Britain's biggest retailers are ramping up hiring for AI and technology roles. At the same time, rising costs are forcing them to pull back on recruitment elsewhere, including in-store staff.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles",
@@ -165,6 +341,17 @@
     "light": true
   },
   {
+    "title": "Retiro por desempleo de tu afore: perderías hasta 12.4% de tu ahorro si no lo reintegras",
+    "summary": "Retirar dinero de la afore por desempleo y no reintegrarlo puede reducir el ahorro hasta 12.4%, además de perder semanas de cotización. El impacto depende de los rendimientos, comisiones y la edad del trabajador.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/retiro-desempleo-afore-perderias-12-4-ahorro-reintegras-20261113-843731.html",
+    "source": "El Economista",
+    "published": "2026-11-13T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Tu IA necesita supervisión. ¿Sabes qué le dejas libre?",
     "summary": "El autor sostiene que las empresas necesitan un manual de ética y supervisión para el uso de inteligencia artificial, definiendo qué usar, cómo y cuándo. Mientras llega una regulación federal, recomienda adaptar lineamientos internos que luego se ajusten a la norma.",
     "link": "https://www.elfinanciero.com.mx/opinion/luis-g-y-g/2026/11/13/tu-ia-necesita-supervision-sabes-que-le-dejas-libre/",
@@ -172,6 +359,17 @@
     "published": "2026-11-13T11:00:00+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Exclusiva: Banco BTG Colombia y Suramericana tramitan bonos que superan los COP$2 billones",
+    "summary": "Banco BTG Pactual Colombia y Suramericana tramitan ante la Superintendencia Financiera programas de emisión de bonos por hasta COP$2.3 billones en conjunto. Es una señal de actividad de financiamiento de instituciones financieras en el mercado local.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/exclusiva-banco-btg-colombia-y-suramericana-tramitan-bonos-que-superan-los-cop2-billones/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-13T10:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
     "language": "es",
     "light": false
   },
@@ -238,6 +436,17 @@
     "published": "2026-11-13T06:00:17+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+    "summary": "Emerging-market assets fell as a rout in chipmakers weighed on equities. Lingering concerns over the Fed's rate path kept EM currencies under pressure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "source": "Bloomberg",
+    "published": "2026-11-13T04:53:47+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 63,
     "language": "en",
     "light": true
   },
@@ -5287,215 +5496,6 @@
     "published": "2026-11-03T22:35:12+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Big Tech on Workforce Culture",
-    "summary": "Authors Kristi Coulter and Claire Stapleton discuss ambition, power, burnout and accountability in the tech workplace at Bloomberg Tech 2026 in London.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/big-tech-on-workforce-culture-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T21:35:34+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Industry on Safety and Control",
-    "summary": "Dan Lahav (Irregular) y Joëlle Pineau (Cohere) discuten los riesgos emergentes de la IA, las salvaguardas creíbles y la rendición de cuentas a medida que avanzan los modelos de frontera. Conversación en Bloomberg Tech 2026 en Londres.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/ai-industry-on-safety-and-control-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T21:28:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Economía de México crecerá más en 2026 y 2027, dice encuesta de Banxico",
-    "summary": "Una encuesta de Banxico muestra que los economistas elevaron sus expectativas de crecimiento de México para 2026 y 2027.",
-    "link": "https://expansion.mx/economia/2026/11/03/economia-2026-y-2027-economistas-suben-expectativas",
-    "source": "Expansión",
-    "published": "2026-11-03T21:08:26+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China’s AI stock-market struggles are a warning",
-    "summary": "The Economist asks what happens when the supply of new tech catches up with demand, using China's AI stock-market struggles as a warning.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-    "source": "The Economist",
-    "published": "2026-11-03T20:48:59+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "De Facebook a WhatsApp: el modus operandi con el que suplantan identidad a Barclays México para robar tu dinero",
-    "summary": "Expansión describe el modus operandi con el que delincuentes suplantan la identidad de Barclays México en Facebook y WhatsApp para robar dinero a clientes. Es un caso de fraude y riesgo de conducta para el sector financiero.",
-    "link": "https://expansion.mx/economia/2026/11/03/de-facebook-a-whatsapp-el-modus-operandi-con-el-que-suplantan-identidad-a-barclays-mexico-para-robar-tu-dinero",
-    "source": "Expansión",
-    "published": "2026-11-03T19:25:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AllianceBernstein’s Yu Urges Investors to Diversify Beyond AI",
-    "summary": "AllianceBernstein's Nelson Yu urges investors to diversify beyond the biggest tech stocks as doubts about the AI boom rattle markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/alliancebernstein-s-yu-urges-investors-to-diversify-beyond-ai",
-    "source": "Bloomberg",
-    "published": "2026-11-03T19:19:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "America’s renters are in serious trouble",
-    "summary": "Several gauges of the financial health of America's renters are flashing red, according to The Economist. A relevant signal for housing affordability and consumer credit.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-    "source": "The Economist",
-    "published": "2026-11-03T19:06:57+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Con falsas entrevistas de trabajo: Así fue como hackers se robaron 6 mil mdd a Binance",
-    "summary": "Binance informó que los hackers detrás del robo de 6,300 millones de dólares usaron ingeniería social, incluidas falsas entrevistas de trabajo, y malware. Es el informe más detallado hasta ahora del incidente.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/03/con-falsas-entrevistas-de-trabajo-asi-fue-como-hackers-se-robaron-6-mil-mdd-a-binance/",
-    "source": "El Financiero",
-    "published": "2026-11-03T18:41:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ante elecciones en EU, aranceles y guerra con Irán debilitan a Trump, dice Banamex",
-    "summary": "Banamex señala que, ante las elecciones en EU, los aranceles y la guerra con Irán debilitan a Trump. El análisis apunta a posibles efectos para la relación bilateral y el entorno económico mexicano.",
-    "link": "https://expansion.mx/economia/2026/11/03/ante-elecciones-en-eu-aranceles-y-guerra-con-iran-debilitan-a-trump-dice-banamex",
-    "source": "Expansión",
-    "published": "2026-11-03T18:27:19+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Europa necesita bancos fuertes y mayor inversión para crecer, advierte Ana Botín",
-    "summary": "Ana Botín advierte que Europa necesita bancos fuertes y mayor inversión para crecer, evitar un bajo crecimiento estructural y proteger las pensiones.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/03/europa-necesita-bancos-fuertes-y-mayor-inversion-para-crecer-advierte-ana-botin/",
-    "source": "El Financiero",
-    "published": "2026-11-03T18:24:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México recibe 5.3 mil mdd de remesas en septiembre, su cantidad más baja en 5 meses",
-    "summary": "México recibió 5,362 millones de dólares en remesas en septiembre, el monto más bajo desde abril, según Banxico. El dato pesa sobre una fuente clave de ingreso y consumo de los hogares.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/03/politica-migratoria-de-trump-ataca-remesas-mexico-recibe-5-mil-mdd-en-septiembre-el-mas-bajo-en-5-meses/",
-    "source": "El Financiero",
-    "published": "2026-11-03T18:17:12+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI’s Future Earnings Potential",
-    "summary": "Bloomberg Opinion's Parmy Olson questions how AI giants like Anthropic and OpenAI will fund vast data centers given few productivity gains so far, citing weak justifications from Silicon Valley executives.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/opinion-ai-s-future-earnings-potential-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T18:16:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-    "summary": "Walt Disney is moving toward thousands of job cuts, asking some managers to target 20% in annual cost savings through eliminations and expense reductions.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T18:13:38+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Inference Startup Fal Raises Capital at $16 Billion Valuation",
-    "summary": "Fal, startup de inferencia de IA que aloja modelos de imagen, video y audio, duplicó su valuación a 16 mil millones de dólares. Bessemer Venture Partners lideró una ronda de 1,300 millones.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
-    "source": "Bloomberg",
-    "published": "2026-11-03T17:54:31+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life",
-    "summary": "Billionaire Mark Walter has explored a sale of the $71bn insurer Delaware Life, a deal that could be part of a broader restructuring of his holding company TWG Global.",
-    "link": "https://www.ft.com/content/570191b9-7910-4627-8779-6a382ef26613?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-03T17:42:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Limits Traders and Bankers From Using Some AI Tools",
-    "summary": "Goldman Sachs has curbed some employees' access to certain AI tools, annoying traders and bankers. The move shows how large banks are tightening AI governance.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-limits-traders-bankers-from-using-some-ai-tools-video",
-    "source": "Bloomberg",
-    "published": "2026-11-03T17:41:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chile Pension Funds Breath Sigh of Relief as Swap Losses Narrow",
-    "summary": "Chilean pension funds' returns rebounded in October as falling US yields narrowed losses on large interest-rate swap positions that have angered politicians and shaken savers' faith in the system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/chile-pension-funds-breath-sigh-of-relief-as-swap-losses-narrow",
-    "source": "Bloomberg",
-    "published": "2026-11-03T16:48:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
-    "summary": "Morgan Stanley launched a $2.3 billion debt deal to help finance the acquisition of Baldwin Insurance Group by Michael Dell's family office and Sequence Holdings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
-    "source": "Bloomberg",
-    "published": "2026-11-03T16:43:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UK to Charge Builders 4% of ‘Your First Home’ Program Sales",
-    "summary": "The UK will charge housebuilders up to 4% of the sale price on homes bought under the new 'Your First Home' program.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/uk-government-to-charge-builders-4-of-your-first-home-sales",
-    "source": "Bloomberg",
-    "published": "2026-11-03T16:37:01+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
     "language": "en",
     "light": true
   }
