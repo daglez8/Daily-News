@@ -1,5 +1,71 @@
 [
   {
+    "title": "Anthropic IPO Tests Investor Appetite for AI",
+    "summary": "Anthropic's upcoming IPO is shaping up as a major test of investor appetite for AI, with the offering reportedly heavily oversubscribed and following SpaceX's blockbuster debut. Nvidia's planned investment in Anthropic and Jensen Huang's departure loom over the deal.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-14T15:54:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
+    "summary": "Italy's data protection authority fined Meta €805 million for accessing Android users' photo and video galleries without explicit consent. A large privacy enforcement action in Europe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
+    "source": "Bloomberg",
+    "published": "2026-11-14T14:53:25+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Looks for a New Era After Huang",
+    "summary": "Emily Chang examines Nvidia's succession challenge after Huang's departure: who could succeed him, its China strategy, and whether it can preserve the relationships Huang built. A case study in founder succession.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+    "source": "Bloomberg",
+    "published": "2026-11-14T14:25:34+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+    "summary": "Nvidia named longtime CFO Colette Kress interim CEO after Jensen Huang's abrupt departure, which may offer investors some stability. The upheaval tests whether the company can move beyond a leader who defined it for three decades.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+    "source": "Bloomberg",
+    "published": "2026-11-14T12:47:31+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Te piden dinero antes de darte un préstamo? Así operan los fraudes que advierte la Condusef",
+    "summary": "La Condusef alertó sobre fraudes de supuestos prestamistas que ofrecen grandes montos sin consultar el Buró de Crédito y con requisitos mínimos. La señal de alarma es que pidan depósitos por adelantado para autorizar o liberar el crédito.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/te-piden-dinero-darte-prestamo-asi-operan-fraudes-advierte-condusef-20261114-843468.html",
+    "source": "El Economista",
+    "published": "2026-11-14T12:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "The Bottom Line newsletter: Nvidia will never be the same",
+    "summary": "The Economist's chip-industry expert reflects on the fall of Jensen Huang and argues Nvidia will never be the same. A newsletter take on the AI chip leader's future.",
+    "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+    "source": "The Economist",
+    "published": "2026-11-14T11:55:51+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
     "summary": "Nvidia lacks full insurance coverage for damages stemming from executive conduct, exposing it to potential lawsuits after Huang's downfall. A reminder of D&O and key-man risk.",
     "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
@@ -7,6 +73,17 @@
     "published": "2026-11-14T11:00:09+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+    "summary": "Wall Street is reassessing Nvidia after Jensen Huang's exit, framing it as the ultimate key-man risk. Investors are weighing what the leadership change means for the AI chip leader's valuation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+    "source": "Bloomberg",
+    "published": "2026-11-14T09:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
     "language": "en",
     "light": true
   },
@@ -88,6 +165,17 @@
     "light": true
   },
   {
+    "title": "BBVA permite pagar hasta marzo de 2027 en El Buen Fin y da hasta 15% de bonificación: así activas las promociones",
+    "summary": "BBVA permite diferir hasta marzo de 2027 las compras de El Buen Fin y ofrece hasta 15% de bonificación con sus tarjetas. Expansión explica cómo activar las promociones.",
+    "link": "https://expansion.mx/finanzas-personales/2026/11/13/bbva-buen-fin-2026-activar-pago-marzo-bonificacion-15",
+    "source": "Expansión",
+    "published": "2026-11-14T00:17:04+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
     "summary": "Jailed crypto founder Sam Bankman-Fried would have made nearly $40bn from FTX's early stake in Anthropic at IPO valuations. The piece highlights the scale of the AI lab's expected listing.",
     "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
@@ -106,6 +194,17 @@
     "published": "2026-11-13T23:20:08+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
+    "summary": "Modine Manufacturing logged its biggest one-day gain since 2020 after Bloomberg reported it is in talks to be acquired by Samsung Electronics. Modine makes cooling systems for data centers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
+    "source": "Bloomberg",
+    "published": "2026-11-13T23:03:51+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5399,104 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Big Tech Soars on Bet Dems Will Save AI Spenders From Themselves",
-    "summary": "US tech megacaps led the market higher as investors bet a Democratic Congress will slow the massive AI spending that is eating into free cash flow.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
-    "source": "Bloomberg",
-    "published": "2026-11-04T17:07:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso ‘hace leña’ de derrota de Trump en elecciones en EU: ¿Cuánto gana al dólar HOY?",
-    "summary": "El dólar se debilita tras la victoria demócrata en EU, lo que fortalece a las monedas emergentes, incluido el peso mexicano.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/04/peso-dolar-tipo-de-cambio-hoy-precio-4-de-noviembre-de-2027/",
-    "source": "El Financiero",
-    "published": "2026-11-04T16:39:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep",
-    "summary": "Stocks rallied on the Democratic sweep, but the AI trade was left out as Wall Street sees risks to the AI boom from a Congress more likely to restrain spending and data-center buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep",
-    "source": "Bloomberg",
-    "published": "2026-11-04T16:27:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Canva recorta su plantilla y la industria tecnológica acumula más de 139,000 despidos en 2026",
-    "summary": "Canva recorta su plantilla y la industria tecnológica acumula más de 139,000 despidos en 2026.",
-    "link": "https://expansion.mx/tecnologia/2026/11/04/canva-recortes-empleados-despidos-tecnologia-2026",
-    "source": "Expansión",
-    "published": "2026-11-04T16:14:54+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crypto Giants Scrap Crime-Fighting Alliance as Hackers Circle",
-    "summary": "An alliance set up by large crypto firms to curb illicit activity has quietly been dissolved while digital-asset crime keeps surging.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
-    "source": "Bloomberg",
-    "published": "2026-11-04T15:41:28+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs",
-    "summary": "CoreWeave bonds fell, some to new lows, after Democratic candidates favoring slower data-center construction won races including Texas governor.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs",
-    "source": "Bloomberg",
-    "published": "2026-11-04T15:40:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La BMV y el peso mexicano celebran el resultado electoral en Estados Unidos",
-    "summary": "Expansión reporta que la BMV y el peso mexicano celebran el resultado electoral en Estados Unidos.",
-    "link": "https://expansion.mx/mercados/2026/11/04/peso-mexicano-bmv-celebran-elecciones-estados-unidos",
-    "source": "Expansión",
-    "published": "2026-11-04T15:25:22+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El dólar registra su mayor caída en dos meses: así reaccionan las monedas de América Latina",
-    "summary": "El dólar registra su mayor caída en dos meses tras la victoria demócrata; las monedas latinoamericanas ganan terreno, encabezadas por los pesos chileno, colombiano y mexicano.",
-    "link": "https://www.bloomberglinea.com/mercados/el-dolar-registra-su-mayor-caida-en-dos-meses-asi-reaccionan-las-monedas-de-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-04T15:23:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
-    "summary": "Bartleby argues that too many corporate leaders rely on gut instinct and makes the case for scientific methods of decision-making.",
-    "link": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
-    "source": "The Economist",
-    "published": "2026-11-04T14:30:27+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
