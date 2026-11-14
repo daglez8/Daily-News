@@ -1,5 +1,16 @@
 [
   {
+    "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+    "summary": "Nvidia lacks full insurance coverage for damages stemming from executive conduct, exposing it to potential lawsuits after Huang's downfall. A reminder of D&O and key-man risk.",
+    "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-14T11:00:09+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Qué esperar de las tasas de la Fed tras el dato de inflación en Estados Unidos?",
     "summary": "La inflación de EE.UU. subió a 3,7% anual en octubre, por encima de lo esperado, y los futuros ya descuentan con alta probabilidad un alza de tasas de la Fed. El dato aumenta la presión sobre la política monetaria.",
     "link": "https://www.bloomberglinea.com/mundo/estados-unidos/que-esperar-de-las-tasas-de-la-fed-tras-el-dato-de-inflacion-en-estados-unidos/",
@@ -9,6 +20,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+    "summary": "CSRC chairman Wu Qing warned that global capital markets are undergoing a new round of asset repricing and rebalancing amid geopolitical tensions and policy uncertainty.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+    "source": "Bloomberg",
+    "published": "2026-11-14T05:20:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "The Nvidia board’s artificial independence",
@@ -66,6 +88,17 @@
     "light": true
   },
   {
+    "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+    "summary": "Jailed crypto founder Sam Bankman-Fried would have made nearly $40bn from FTX's early stake in Anthropic at IPO valuations. The piece highlights the scale of the AI lab's expected listing.",
+    "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-13T23:39:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
     "summary": "Randall Peterson of London Business School's Leadership Institute argues Nvidia's board failed both the company and Jensen Huang.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
@@ -84,6 +117,17 @@
     "published": "2026-11-13T22:28:28+00:00",
     "category": "Mortgage / Housing Finance",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
+    "summary": "Morgan Stanley Wealth Management's Lisa Shalett remains bullish, arguing AI infrastructure capex will keep driving markets despite Nvidia's leadership turmoil and Democrats' midterm wins.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
+    "source": "Bloomberg",
+    "published": "2026-11-13T22:22:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -165,6 +209,17 @@
     "light": false
   },
   {
+    "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
+    "summary": "Los retiros parciales por desempleo de las Afores superan lo que las administradoras ganan por comisiones, según Expansión. La tendencia refleja presión en el ahorro para el retiro de los trabajadores.",
+    "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
+    "source": "Expansión",
+    "published": "2026-11-13T20:02:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "GFA invertirá 1,500 millones de pesos en residencias Waldorf Astoria en Guadalajara",
     "summary": "GFA invertirá 1,500 millones de pesos en Waldorf Astoria Residences Guadalajara, una torre de 30 niveles con 114 residencias de lujo en Puerta de Hierro, Zapopan, con entrega prevista en 2029. Es el primer desarrollo residencial independiente de la marca en México y América Latina bajo el modelo de branded residences.",
     "link": "https://www.eleconomista.com.mx/econohabitat/gfa-invertira-1-500-millones-pesos-residencias-waldorf-astoria-guadalajara-20261113-844011.html",
@@ -196,6 +251,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
+    "summary": "El gobierno publicó la Ley de Ingresos 2027, que reduce deducciones y aumenta cobros a turistas. Los cambios fiscales ya son ley y afectan a contribuyentes y al sector turístico.",
+    "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
+    "source": "Expansión",
+    "published": "2026-11-13T19:22:49+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Se debe impulsar formalidad laboral, el ahorro voluntario y la densidad de cotización: Invercap",
@@ -394,6 +460,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": false
+  },
+  {
+    "title": "Microsoft Says Services Fully Restored After Outage Roiled World",
+    "summary": "Microsoft said access to its flagship software has been fully restored after an outage that paralyzed government offices, traders and businesses worldwide. The incident underscores operational and concentration risk in cloud productivity tools.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
+    "source": "Bloomberg",
+    "published": "2026-11-13T14:59:32+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker Peso",
@@ -5421,82 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
-    "summary": "OPay halted its $300 million US IPO hours after pricing following inquiries by a Chinese regulator, according to people familiar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
-    "source": "Bloomberg",
-    "published": "2026-11-04T14:07:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Ahorramos lo suficiente para jubilarnos? Lo que recomienda la OCDE en sus perspectivas 2026",
-    "summary": "Las Perspectivas de Pensiones 2026 de la OCDE muestran activos de pensiones por 78 billones de dólares a finales de 2025, pero con brechas significativas en las contribuciones en casi todos los países miembros.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/ahorramos-suficiente-jubilarnos-recomienda-ocde-perspectivas-20261104-842043.html",
-    "source": "El Economista",
-    "published": "2026-11-04T13:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "JPMorgan, BofA Prepare $2.4 Billion Debt Sale for CVC’s IFF Deal",
-    "summary": "Bank of America and JPMorgan are preparing about $2.4 billion of debt financing to back CVC Capital Partners' acquisition of IFF's food ingredients business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/jpmorgan-bofa-prepare-2-4-billion-debt-sale-for-cvc-s-iff-deal",
-    "source": "Bloomberg",
-    "published": "2026-11-04T12:52:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Indicadores Cíclicos confirman mayor dinamismo económico de México en el tercer trimestre",
-    "summary": "El Indicador Adelantado de Inegi avanzó 0.12 puntos en agosto, sumando 11 meses consecutivos de crecimiento, lo que confirma mayor dinamismo económico en el tercer trimestre.",
-    "link": "https://www.eleconomista.com.mx/economia/indicadores-ciclicos-confirman-mayor-dinamismo-economico-mexico-tercer-trimestre-20261104-842164.html",
-    "source": "El Economista",
-    "published": "2026-11-04T12:29:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Pagos digitales: infraestructura, efectivo e IA marcan nueva etapa de la adquirencia",
-    "summary": "Nuevos rieles de pago, transferencias inmediatas, e-commerce e IA están transformando la adquirencia en México, según un directivo de Geopagos.",
-    "link": "https://www.eleconomista.com.mx/empresas/pagos-digitales-infraestructura-efectivo-e-ia-marcan-nueva-etapa-adquirencia-20261104-842157.html",
-    "source": "El Economista",
-    "published": "2026-11-04T12:21:14-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Estás perdiendo dinero con tu cuenta? 5 señales de que es hora de cambiar tu nómina",
-    "summary": "El Economista enumera cinco señales de que conviene cambiar la cuenta de nómina para no perder dinero.",
-    "link": "https://www.eleconomista.com.mx/empresas/perdiendo-dinero-cuenta-5-senales-hora-cambiar-nomina-20261104-840945.html",
-    "source": "El Economista",
-    "published": "2026-11-04T12:13:33-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Centros de datos Texas enfrentan futuro incierto tras victoria de Gina Hinojosa en elecciones a gobernador",
-    "summary": "El sector de centros de datos de Texas enfrenta incertidumbre tras la elección de Gina Hinojosa, quien se comprometió a tomar medidas drásticas contra el rápido crecimiento de estos proyectos.",
-    "link": "https://www.eleconomista.com.mx/internacionales/centros-datos-texas-enfrentan-futuro-incierto-victoria-gina-hinojosa-elecciones-gobernador-20261104-842159.html",
-    "source": "El Economista",
-    "published": "2026-11-04T12:03:23-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
