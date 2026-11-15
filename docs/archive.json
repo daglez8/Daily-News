@@ -1,5 +1,60 @@
 [
   {
+    "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
+    "summary": "New sales of emerging-market government bonds have slumped 41% in the second half despite strong investor demand. The supply shortage is supporting prices ahead of an expected rebound in issuance early next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
+    "source": "Bloomberg",
+    "published": "2026-11-15T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+    "summary": "Congress is moving to pass tighter AI chip export rules after Jensen Huang's alleged affair with a Chinese spy increased momentum to curb US hardware reaching China.",
+    "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T11:00:04+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cuánto cuesta el Huawei Watch D3, el reloj que monitorea la presión arterial con grado médico",
+    "summary": "El Huawei Watch D3 incorpora una bolsa de aire en la correa para ofrecer monitoreo de presión arterial de grado médico. Apunta al futuro de los wearables como asistentes de salud en la muñeca.",
+    "link": "https://www.bloomberglinea.com/estilo-de-vida/cuanto-cuesta-el-huawei-watch-d3-el-reloj-que-monitorea-la-presion-arterial-con-grado-medico/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-15T09:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+    "summary": "South Korea's top scorer in the national tax accountant exam admitted to using generative AI and electronic devices to cheat and turned himself in to police.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
+    "source": "Bloomberg",
+    "published": "2026-11-15T08:49:18+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "What will Nvidia’s post-Huang era look like?",
+    "summary": "FT examines what Nvidia's post-Huang era may look like, arguing the chipmaker has only itself to blame for its long list of adversaries.",
+    "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+    "source": "Financial Times",
+    "published": "2026-11-15T05:00:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
     "summary": "Economists warn that sluggish hiring, resignations and job-switching in a 'low fire, low hire' labour market are hurting productivity in the US and UK, with potential long-term damage.",
     "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
@@ -88,6 +143,17 @@
     "light": false
   },
   {
+    "title": "Buen Fin: qué hacer si te clonan la tarjeta después de realizar una compra",
+    "summary": "Guía sobre qué hacer si clonan tu tarjeta tras una compra en El Buen Fin. Aborda los pasos para reportar y proteger tus cuentas ante fraude.",
+    "link": "https://expansion.mx/finanzas-personales/2026/11/14/buen-fin-que-hacer-clonan-tarjeta-realizar-compras-buen-fin",
+    "source": "Expansión",
+    "published": "2026-11-14T22:29:47+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
     "summary": "US corporate bonds have been rallying, with ~6% yields drawing money managers seeking shelter from stock turbulence after the Nvidia drama.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
@@ -97,6 +163,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Vales de despensa: qué revisar antes de contratar un monedero electrónico",
+    "summary": "Para que los vales de despensa sean deducibles, deben entregarse mediante monederos electrónicos autorizados por el SAT. Antes de elegir proveedor conviene revisar la autorización del emisor, la trazabilidad de las operaciones y la atención al trabajador.",
+    "link": "https://www.eleconomista.com.mx/empresas/vales-despensa-revisar-contratar-monedero-electronico-20261114-844073.html",
+    "source": "El Economista",
+    "published": "2026-11-14T19:17:52-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios sin consentimiento",
@@ -117,6 +194,17 @@
     "published": "2026-11-14T15:54:39+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How China’s Intelligence Operations Target Tech",
+    "summary": "Former CIA analyst Peter Mattis explains how China's Ministry of State Security uses business and personal ties to target tech executives, and how AI is expanding its intelligence capabilities.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
+    "source": "Bloomberg",
+    "published": "2026-11-14T15:41:12+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
     "language": "en",
     "light": true
   },
@@ -143,6 +231,17 @@
     "light": true
   },
   {
+    "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+    "summary": "Months after SpaceX was denied swift entry into the S&P 500, Elon Musk is pitching a merger with Tesla that could serve as a backdoor into the index.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+    "source": "Bloomberg",
+    "published": "2026-11-14T14:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
     "summary": "Nvidia named longtime CFO Colette Kress interim CEO after Jensen Huang's abrupt departure, which may offer investors some stability. The upheaval tests whether the company can move beyond a leader who defined it for three decades.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
@@ -161,6 +260,17 @@
     "published": "2026-11-14T12:00:00-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué el petróleo no ha provocado una crisis económica mayor? Goldman analiza el efecto en América Latina",
+    "summary": "Goldman Sachs atribuye a factores estructurales, medidas gubernamentales y una inflación menor de la prevista que el alza del petróleo tras la guerra con Irán no haya provocado una crisis en emergentes. América Latina figura entre las regiones con efectos relativamente acotados.",
+    "link": "https://www.bloomberglinea.com/mercados/por-que-el-petroleo-no-ha-provocado-una-crisis-economica-mayor-goldman-analiza-el-efecto-en-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-14T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5388,115 +5498,5 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
-    "summary": "Banqueros piden a la SCJN acelerar la puesta en marcha de juzgados financieros especializados para facilitar el cobro de garantías en créditos vencidos. El tema es clave para la recuperación de cartera hipotecaria y la ejecutabilidad de garantías.",
-    "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
-    "source": "Expansión",
-    "published": "2026-11-05T00:53:39+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 95,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La estrategia del joven economista ante la Inteligencia Artificial",
-    "summary": "Una columna reflexiona sobre los riesgos de la IA para la competencia y la gobernanza, y sobre los retos y la estrategia de los jóvenes economistas ante ella.",
-    "link": "https://www.eleconomista.com.mx/opinion/estrategia-joven-economista-inteligencia-artificial-20261104-842289.html",
-    "source": "El Economista",
-    "published": "2026-11-04T23:56:30-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La estrategia de OXXO para ir contra Nu y convertir a sus clientes en usuarios de tarjeta Spin",
-    "summary": "OXXO prepara una estrategia para competir contra Nu convirtiendo a sus clientes en usuarios de la tarjeta Spin. Es un movimiento relevante en el mercado mexicano de fintech y crédito al consumo.",
-    "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
-    "source": "Expansión",
-    "published": "2026-11-04T23:50:11+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico decide su tasa este jueves con el peso al alza tras la derrota republicana: qué esperan los analistas",
-    "summary": "Banxico anuncia su decisión de tasa este jueves a las 13:00 con el peso al alza tras la derrota republicana en el Congreso de EU. El artículo recoge las expectativas de los analistas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-decide-su-tasa-este-jueves-con-el-peso-al-alza-tras-la-derrota-republicana-que-esperan-los-analistas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-04T23:27:27+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Exportaciones del sector IA y construcción impulsan al alza pronósticos del PIB para 2026",
-    "summary": "El consenso de analistas de Citi elevó a 1.8% su pronóstico de crecimiento del PIB de México para 2026, desde 1.4%, impulsado por exportaciones del sector de IA y la construcción.",
-    "link": "https://www.eleconomista.com.mx/economia/exportaciones-sector-ia-construccion-impulsan-alza-pronosticos-pib-20261104-842283.html",
-    "source": "El Economista",
-    "published": "2026-11-04T23:22:35-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Remesas acelerarían su crecimiento a 4.1% en el 2027: BBVA Research",
-    "summary": "BBVA Research prevé que las remesas aceleren su crecimiento a 4.1% en 2027, hasta 66,700 millones de dólares, ante una política migratoria menos agresiva en EU.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/remesas-acelerarian-crecimiento-4-1-2027-bbva-research-20261104-842280.html",
-    "source": "El Economista",
-    "published": "2026-11-04T23:14:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mercado anticipa pausa de Banxico: BofA",
-    "summary": "Analistas consultados por Citi anticipan que Banxico mantendrá la tasa en 6.50% en su decisión de este jueves, donde se ha mantenido desde mayo. BofA también prevé una pausa.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mercado-anticipa-pausa-banxico-bofa-20261104-842278.html",
-    "source": "El Economista",
-    "published": "2026-11-04T23:09:19-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-    "summary": "Big Tech's $600mn midterm campaign fell flat as anger at AI and Silicon Valley fuelled support for Democrats, with Elon Musk rebuked. Light summary from the blurb.",
-    "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-04T22:38:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
-    "summary": "John Chambers, founder of JC2 Ventures and ex-Cisco CEO, makes the case for AI as a win for society, saying he wasn't surprised by the pace of AI growth or capital formation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
-    "source": "Bloomberg",
-    "published": "2026-11-04T22:26:59+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
-    "summary": "The S&P 500 sinks 4% as an AI washout rattles Wall Street, in Bloomberg's markets wrap.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg",
-    "published": "2026-11-04T22:15:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
   }
 ]
