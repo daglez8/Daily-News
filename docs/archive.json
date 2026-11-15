@@ -1,5 +1,93 @@
 [
   {
+    "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
+    "summary": "Anthropic is set for what would be the biggest IPO of all time, making CEO Dario Amodei the new face of the AI boom. The listing puts AI investors' hopes and fears squarely onto a frontier model maker.",
+    "link": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+    "source": "Bloomberg",
+    "published": "2026-11-15T19:00:20+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US and allies sign accord to protect AI supply chains from China",
+    "summary": "The US and allies signed an accord to protect AI supply chains from China. The pact comes ahead of Donald Trump's meeting with Xi Jinping at the APEC forum in Shenzhen.",
+    "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T17:47:43+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
+    "summary": "Guy Oseary's VC firm, co-run with Ashton Kutcher, holds a stake in Anthropic worth about $7 billion. The piece traces the relationship back to a 2023 meeting with Dario Amodei focused on AI safety and the global model race.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
+    "source": "Bloomberg",
+    "published": "2026-11-15T16:00:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
+    "summary": "Treasury Secretary Scott Bessent said Nvidia needs a \"dramatic shakeup\" in leadership following the ouster of CEO Jensen Huang, and urged the chipmaker to look for an external CEO. He also demanded to know whether Nvidia is complying with export restrictions to China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+    "source": "Bloomberg",
+    "published": "2026-11-15T15:16:46+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Me salió en un Tik Tok: Así es como los mexicanos aprenden a invertir con influencers y amigos",
+    "summary": "Cada vez más mexicanos aprenden a invertir mediante creadores de contenido, búsquedas en internet y redes sociales en lugar de asesoría bancaria. La Radiografía del inversionista mexicano 2026 de Yotepresto y Zenfi documenta el peso de estas fuentes en las decisiones de inversión.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/11/15/me-salio-en-un-tik-tok-asi-es-como-los-mexicanos-aprenden-a-invertir-con-influencers-y-amigos/",
+    "source": "El Financiero",
+    "published": "2026-11-15T15:05:10+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apple Siri AI App Integrations Power Smart Glasses, iPhone Duo 2 Face ID Plan",
+    "summary": "Apple is building AI app integrations into Siri to power upcoming smart glasses, per Bloomberg's Power On newsletter. It also looks at the race to bring Face ID to the iPhone Duo.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan",
+    "source": "Bloomberg",
+    "published": "2026-11-15T15:00:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Investors Brace for Data Center Restrictions",
+    "summary": "PIMCO strategist Tony Crescenzi says growing political resistance to data centers may slow construction without derailing the broader AI buildout. He also discusses the Nvidia fallout and why higher yields create opportunities in high-quality corporate bonds.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-15/ai-investors-brace-for-data-center-restrictions-video",
+    "source": "Bloomberg",
+    "published": "2026-11-15T14:39:27+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+    "summary": "Bloomberg analysts examine Anthropic's potentially record-setting IPO at a targeted valuation of roughly $1.4 trillion. They discuss investor demand, compute costs and how Nvidia's upheaval after Jensen Huang's departure is changing the outlook for AI investment.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
+    "source": "Bloomberg",
+    "published": "2026-11-15T13:17:16+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
     "summary": "New sales of emerging-market government bonds have slumped 41% in the second half despite strong investor demand. The supply shortage is supporting prices ahead of an expected rebound in issuance early next year.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
@@ -11,6 +99,39 @@
     "light": true
   },
   {
+    "title": "Anthropic’s IPO is the next big test for AI",
+    "summary": "The FT argues Anthropic's IPO is the next big test for AI. Even the most powerful frontier labs, it says, must bend to the power of public equity markets.",
+    "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T11:40:44+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mayor preparación no basta, mujeres con empleo formal ganan 14.7% menos por hora que los hombres",
+    "summary": "La brecha salarial ajustada entre hombres y mujeres de 25 a 54 años en México es de 14.7% por hora, pese a que ellas tienen mejores credenciales y mayor formalidad. Por cada peso por hora que gana un hombre, una mujer con perfil comparable recibe 0.86 pesos.",
+    "link": "https://www.eleconomista.com.mx/empresas/mayor-preparacion-basta-mujeres-empleo-formal-ganan-14-7-hora-hombres-20261115-844096.html",
+    "source": "El Economista",
+    "published": "2026-11-15T11:30:24-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Fovissste reestructurará 80,000 créditos denominados en UMA",
+    "summary": "A partir del 16 de noviembre, Fovissste podrá reestructurar 80,000 créditos denominados en UMA, convirtiéndolos a pesos con una tasa fija de 9%. El programa, publicado con nuevas reglas para reducir adeudos, busca atender financiamientos deteriorados.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/fovissste-reestructurara-80-000-creditos-denominados-uma-20261115-844094.html",
+    "source": "El Economista",
+    "published": "2026-11-15T11:02:41-06:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 90,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
     "summary": "Congress is moving to pass tighter AI chip export rules after Jensen Huang's alleged affair with a Chinese spy increased momentum to curb US hardware reaching China.",
     "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
@@ -20,6 +141,28 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Están las viviendas de México preparadas para una población que envejece?",
+    "summary": "México tiene más de 17.1 millones de personas de 60 años o más (12.8% de la población), proporción que se acercaría a 15% en 2030 según Conapo. El cambio demográfico obliga al sector vivienda a adaptar los hogares a necesidades de movilidad y autonomía; una de cada tres viviendas ya alberga al menos a un adulto mayor.",
+    "link": "https://www.eleconomista.com.mx/econohabitat/viviendas-mexico-preparadas-poblacion-envejece-20261115-844093.html",
+    "source": "El Economista",
+    "published": "2026-11-15T10:45:36-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Usar inteligencia artificial garantiza más ventas y productividad? Esto explica especialista",
+    "summary": "Humberto Barrera Ramos, cofundador de Growth Hacking México, advirtió que implementar inteligencia artificial no garantiza por sí sola más productividad ni ventas. En el Seminario TIC subrayó que la IA debe ligarse a una estrategia comercial y de marketing clara.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/inteligencia-artificial-garantiza-ventas-productividad-esto-explica-especialista-20261115-843962.html",
+    "source": "El Economista",
+    "published": "2026-11-15T10:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Cuánto cuesta el Huawei Watch D3, el reloj que monitorea la presión arterial con grado médico",
@@ -154,6 +297,17 @@
     "light": false
   },
   {
+    "title": "Microsoft restablece por completo sus servicios pero advierte a usuarios por aumento de 'phishing'",
+    "summary": "Microsoft restableció por completo sus servicios tras una falla, pero advirtió a los usuarios sobre un aumento de intentos de 'phishing'. El caso subraya riesgos de ciberseguridad tras interrupciones tecnológicas.",
+    "link": "https://expansion.mx/tecnologia/2026/11/14/microsoft-restablece-servicios-advierte-usuarios-phishing",
+    "source": "Expansión",
+    "published": "2026-11-14T20:16:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
     "summary": "US corporate bonds have been rallying, with ~6% yields drawing money managers seeking shelter from stock turbulence after the Nvidia drama.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
@@ -207,6 +361,17 @@
     "relevance_score": 60,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Minthis Resort Development / Woods Bagot",
+    "summary": "Woods Bagot delivered master planning, architecture, interiors and branding for Minthis, a hillside resort development in Tsada Village, Paphos, with developer Pafilia. The project blends local antiquity with premium retreat-style amenities.",
+    "link": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
+    "source": "ArchDaily",
+    "published": "2026-11-14T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
@@ -5333,170 +5498,5 @@
     "relevance_score": 82,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Nuveen's Cooper Sees Attractive Opportunities in AI Credit",
-    "summary": "Laura Cooper, de Nuveen, ve oportunidades atractivas en crédito ligado a IA ante el auge del financiamiento para su infraestructura. Considera favorable la exposición a los hyperscalers.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-05/nuveen-sees-attractive-opportunities-in-ai-credit-video",
-    "source": "Bloomberg",
-    "published": "2026-11-05T08:35:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Global AI Trade Unwind Propels European Stocks To Record High",
-    "summary": "European stocks closed above their prior record high, driven by a rotation out of the AI trade and a strong earnings season. The region keeps outperforming.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-    "source": "Bloomberg",
-    "published": "2026-11-05T08:09:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Framing Natural Light: Five Daylighting Strategies in Cabin Architecture",
-    "summary": "Estrategias de iluminación natural en arquitectura de cabañas, con enfoque en formas, materiales y relación con el entorno natural.",
-    "link": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
-    "source": "ArchDaily",
-    "published": "2026-11-05T07:30:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Sobrecarga laboral: el riesgo de exigir demasiado al equipo durante el cierre de año",
-    "summary": "Con el cierre de año, los jefes deben cuidar a sus equipos para evitar sobrecarga laboral y agotamiento. El artículo advierte de los riesgos de exigir demasiado en estas fechas.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/sobrecarga-laboral-riesgo-exigir-demasiado-equipo-cierre-ano-20261105-842227.html",
-    "source": "El Economista",
-    "published": "2026-11-05T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El Banco de Inglaterra sube sus tasas por primera vez desde 2023; advierte de posibles nuevas alzas",
-    "summary": "El Banco de Inglaterra subió tasas por primera vez en más de tres años y advirtió que probablemente habrá otro aumento si continúa el conflicto EU-Irán. Inicia así una senda que sus pares ya emprendieron.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banco-inglaterra-sube-tasas-primera-vez-2023-advierte-posibles-nuevas-alzas-20261105-842324.html",
-    "source": "El Economista",
-    "published": "2026-11-05T06:53:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central",
-    "summary": "Paraguay enfrenta una crisis bancaria tras el congelamiento de Ueno Bank, sexta entidad del país, por falta de solvencia; cerca del 60% de la población perdió acceso a sus cuentas. Hay protestas y renunció el director del Banco Central.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/05/paraguay-en-crisis-bancaria-miles-pierden-acceso-a-sus-cuentas-y-dimite-director-del-banco-central/",
-    "source": "El Financiero",
-    "published": "2026-11-05T06:30:16+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "BCE alerta sobre los riesgos de la deuda y las entidades no bancarias para la política monetaria",
-    "summary": "Isabel Schnabel advirtió que el aumento de la deuda pública y la rápida expansión de las entidades financieras no bancarias podrían limitar la capacidad del BCE para fijar la política monetaria adecuada.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-alerta-sobre-riesgos-deuda-entidades-bancarias-politica-monetaria-20261105-842316.html",
-    "source": "El Economista",
-    "published": "2026-11-05T06:20:45-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Asia’s Richest Banker Uday Kotak Sees AI Correction Boosting Flows to India",
-    "summary": "Uday Kotak, Asia's richest banker, says India could benefit from foreign flows if the global AI investment boom unwinds, as investors seek more attractive valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/asia-s-richest-banker-uday-kotak-sees-ai-correction-boosting-flows-to-india",
-    "source": "Bloomberg",
-    "published": "2026-11-05T06:09:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Commerzbank Sees 45% Jump in Profit Ahead of UniCredit Deal",
-    "summary": "Commerzbank reported a better-than-expected 45% jump in profit, in one of its last quarterly results as an independent bank before UniCredit takes control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/commerzbank-quarterly-net-rises-45-ahead-of-unicredit-takeover",
-    "source": "Bloomberg",
-    "published": "2026-11-05T06:08:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Asian tech stocks slide on post-midterm AI fears",
-    "summary": "Asian tech stocks slid on concerns that Democratic control of Congress will slow the data centre build-out.",
-    "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T05:12:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Encuesta Citi perfila cierre de año positivo con crecimiento para la economía mexicana",
-    "summary": "La Encuesta Citi perfila un cierre de año positivo para la economía mexicana, con dinamismo que se prolongaría hasta 2027, tras un crecimiento anual de 3.2% en el tercer trimestre.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/encuesta-citi-perfila-cierre-de-ano-positivo-con-crecimiento-para-la-economia-mexicana/",
-    "source": "El Financiero",
-    "published": "2026-11-05T04:32:30+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México inicia cuenta regresiva para decidir los negocios que ya no aceptarán efectivo",
-    "summary": "Sheinbaum publicó la nueva ley de pagos digitales, con lo que inicia la cuenta regresiva para que el Gobierno defina los sectores que dejarán de aceptar efectivo de forma gradual. La medida impulsará pagos electrónicos y fintech.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-inicia-cuenta-regresiva-para-decidir-los-negocios-que-ya-no-aceptaran-efectivo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T03:13:32+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Moody’s advierte por el impacto de la crisis de Ueno Bank en el sistema financiero de Paraguay",
-    "summary": "Moody’s advierte que la crisis de Ueno Bank, ahora en resolución, puede tener consecuencias para depositantes y la competencia en el sistema financiero de Paraguay, más allá de la propia entidad.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/moodys-advierte-por-el-impacto-de-la-crisis-de-ueno-bank-en-el-sistema-financiero-de-paraguay/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T02:07:07+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Gobierno publica Ley de Economía Digital en DOF; en 15 días deben establecerse sectores donde disminuirá uso de efectivo",
-    "summary": "El gobierno publicó la Ley de Economía Digital en el DOF; en 15 días deben definirse los sectores donde disminuirá el uso de efectivo. Tiene implicaciones directas para pagos y servicios financieros.",
-    "link": "https://expansion.mx/economia/2026/11/04/ley-de-economia-digital-dof-cuando-entra-vigor",
-    "source": "Expansión",
-    "published": "2026-11-05T01:27:15+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La elección de los data centers",
-    "summary": "Columna sobre cómo la victoria demócrata en las elecciones intermedias de EU, con control de la Cámara y 54 escaños en el Senado, convierte a los data centers en tema electoral.",
-    "link": "https://www.eleconomista.com.mx/opinion/eleccion-data-centers-20261105-842307.html",
-    "source": "El Economista",
-    "published": "2026-11-05T01:26:15-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
   }
 ]
