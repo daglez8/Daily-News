@@ -1,5 +1,115 @@
 [
   {
+    "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
+    "summary": "Economists warn that sluggish hiring, resignations and job-switching in a 'low fire, low hire' labour market are hurting productivity in the US and UK, with potential long-term damage.",
+    "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T05:00:13+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "EU banking watchdog veers away from single deposit insurance scheme",
+    "summary": "The European Banking Authority's chair is veering away from a single EU deposit insurance scheme, working instead on alternative ways to free up more cross-border lending.",
+    "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T05:00:13+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+    "summary": "Shares in AI 'picks and shovels' companies, including data centre construction names, have lost $4.2tn as the AI trade unravels amid the tech sell-off.",
+    "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T05:00:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
+    "summary": "The FT argues that Jensen Huang's downfall shows human judgment — the quality said to set us apart from machines — is not all it's cracked up to be, having been absent during his implosion.",
+    "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-15T05:00:04+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Hay riesgo de una crisis financiera por Nvidia?",
+    "summary": "El Financiero analiza si la salida de Jensen Huang de Nvidia, en medio de un escándalo personal y de seguridad nacional, puede detonar riesgos para el sistema financiero. Revisa cómo la empresa creció comprometiendo recursos antes de que existiera la demanda, lo que explica tanto su éxito como su fragilidad.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/14/hay-riesgo-de-una-crisis-financiera-por-nvidia/",
+    "source": "El Financiero",
+    "published": "2026-11-15T04:37:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Datos personales: cómo protege Broxel a 30 millones de usuarios",
+    "summary": "La fintech mexicana Broxel cumple 15 años con 30 millones de usuarios acumulados en su ecosistema de pagos electrónicos. Protege sus datos con cifrado, tokenización de la tarjeta, verificación de identidad en varios pasos y monitoreo antifraude.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/11/14/datos-personales-como-protege-broxel-a-30-millones-de-usuarios/",
+    "source": "El Financiero",
+    "published": "2026-11-15T00:13:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
+    "summary": "Sam's Club, Walmart, First Cash y Elektra encabezaron las quejas de consumidores en el primer día de El Buen Fin. Incluye a casas de empeño y comercio con crédito al consumo.",
+    "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
+    "source": "Expansión",
+    "published": "2026-11-14T23:37:55+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Chips prohibidos de Nvidia terminaron en centro de datos ligado a Alice Huang en China, revelan documentos",
+    "summary": "Documentos revisados por Bloomberg muestran que chips de IA de Nvidia vendidos a un socio en Singapur terminaron de contrabando en un centro de datos en Shanghái vinculado a una empresa de Alice Huang. El caso agrava el escrutinio de seguridad nacional sobre Nvidia.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/14/empresa-de-alice-huang-tenia-chips-nvidia-prohibidos-en-china-revelan-red-de-contrabando-de-servidores/",
+    "source": "El Financiero",
+    "published": "2026-11-14T23:20:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+    "summary": "US corporate bonds have been rallying, with ~6% yields drawing money managers seeking shelter from stock turbulence after the Nvidia drama.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-11-14T20:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios sin consentimiento",
+    "summary": "La autoridad italiana de protección de datos multó a Meta con 805 millones de euros por acceder, vía la app de Facebook en Android, a fotos, videos y metadatos de usuarios sin consentimiento específico. Es una de las mayores sanciones de privacidad del año.",
+    "link": "https://www.eleconomista.com.mx/internacionales/italia-multa-meta-805-millones-euros-acceder-fotos-usuarios-consentimiento-20261114-844068.html",
+    "source": "El Economista",
+    "published": "2026-11-14T18:40:35-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Anthropic IPO Tests Investor Appetite for AI",
     "summary": "Anthropic's upcoming IPO is shaping up as a major test of investor appetite for AI, with the offering reportedly heavily oversubscribed and following SpaceX's blockbuster debut. Nvidia's planned investment in Anthropic and Jensen Huang's departure loom over the deal.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
@@ -5388,115 +5498,5 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "What markets make of the midterms",
-    "summary": "The Economist says investors yawned at the Democratic midterm triumph. Light summary from the blurb.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-    "source": "The Economist",
-    "published": "2026-11-04T21:48:18+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tarjeta de crédito en Argentina: el saldo financiado cae 12% real en un año y los hipotecarios suben 24%",
-    "summary": "El crédito al sector privado en Argentina muestra estancamiento en octubre, con caída real de 1.6% interanual. El saldo de tarjetas financiado cae 12% real, mientras los hipotecarios suben 24%.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tarjeta-de-credito-en-argentina-el-saldo-financiado-cae-12-real-en-un-ano-y-los-hipotecarios-suben-24/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-04T20:10:38+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso mexicano sube con fuerza tras derrota republicana en Estados Unidos",
-    "summary": "El peso mexicano sube con fuerza tras la derrota republicana en las elecciones intermedias, en medio de preocupaciones de estancamiento político y mayor regulación a tecnológicas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-sube-con-fuerza-tras-derrota-republicana-en-estados-unidos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-04T19:17:10+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Santander conectará México y Estados Unidos a través de Openbank",
-    "summary": "Santander conectará México y Estados Unidos a través de Openbank, su banco digital. El anuncio es relevante para la competencia bancaria digital y transfronteriza en México.",
-    "link": "https://expansion.mx/economia/2026/11/04/santander-conectara-mexico-estados-unidos-a-traves-openbank",
-    "source": "Expansión",
-    "published": "2026-11-04T19:11:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky para triplicar sus ingresos anuales",
-    "summary": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky con el objetivo de triplicar sus ingresos anuales.",
-    "link": "https://expansion.mx/empresas/2026/11/04/televisa-une-clientes-servicios-att-izzi-sky-ingresos",
-    "source": "Expansión",
-    "published": "2026-11-04T18:58:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ebrard enfría la expectativa de cambios en aranceles tras las elecciones de EU",
-    "summary": "Ebrard enfría la expectativa de cambios en los aranceles de EU a México tras las elecciones intermedias.",
-    "link": "https://expansion.mx/economia/2026/11/04/eb-rard-aranceles-mexico-t-mec-elecciones-eu",
-    "source": "Expansión",
-    "published": "2026-11-04T18:54:35+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Voters have put a helpful chill on the US data centre boom",
-    "summary": "Midterm results could affect 45% of planned US data centre expansion, though the FT sees a silver lining for investors.",
-    "link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-04T18:33:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Publican ley de pagos digitales obligatorios",
-    "summary": "El gobierno federal publicó en el DOF la nueva ley de pagos digitales, que no permitirá efectivo en los sectores que determine Hacienda.",
-    "link": "https://www.reforma.com/publican-ley-de-pagos-digitales-obligatorios/ar3308401",
-    "source": "Reforma",
-    "published": "2026-11-04T18:29:05-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "‘Grito’ de recórd en septiembre: Exportaciones de México a EU imponen máximo histórico de 62.2 mil mdd",
-    "summary": "Las exportaciones de México a EU alcanzaron un máximo histórico de 62.2 mil millones de dólares en septiembre, 40% más que un año antes y 17.6% de las importaciones de EU.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/exportaciones-de-mexico-a-eu-imponen-record-en-septiembre-de-cuanto-fue/",
-    "source": "El Financiero",
-    "published": "2026-11-04T18:28:17+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Cómo puede afectar al T-MEC la nueva configuración política de EU?",
-    "summary": "Expansión analiza cómo la nueva configuración política de EU puede afectar al T-MEC.",
-    "link": "https://expansion.mx/economia/2026/11/04/como-puede-afectar-el-t-mec-la-nueva-configuracion-politica-de-eu",
-    "source": "Expansión",
-    "published": "2026-11-04T18:26:38+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
