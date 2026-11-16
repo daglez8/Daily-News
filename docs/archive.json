@@ -1,5 +1,159 @@
 [
   {
+    "title": "JPM’s Michele: ‘Looks a Bit Silly’ Fed Missed Oct. Hike",
+    "summary": "JPMorgan Asset Management's Bob Michele says the Fed is currently driving Treasuries more than the AI trade. He says it 'looks a bit silly' that the Fed missed a chance to hike in October.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/jpm-s-michele-looks-a-bit-silly-fed-missed-oct-hike-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T12:23:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed’s Barr Warns AI Agents May Fuel Future Bank Runs",
+    "summary": "Fed Governor Michael Barr warned that autonomous AI agents could accelerate bank runs to seconds, overwhelming traditional liquidity management and regulatory response timelines. He noted major banks are already detecting AI agents attempting to act on customer accounts.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-barr-warns-ai-agents-may-fuel-future-bank-runs-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:51:59+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Tests Whether AI Models Can Rival Nvidia’s Rich Valuation",
+    "summary": "Anthropic's upcoming IPO is testing whether AI model makers can command valuations comparable to Nvidia's. The piece also notes mounting criticism of Nvidia's CEO search.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:28:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "India Regulator Seeks Review of Top Court’s Yes Bank Bond Ruling",
+    "summary": "India's central bank asked the Supreme Court to review its ruling that set aside the write-off of Yes Bank's riskier bonds. The verdict could set a precedent for future bank rescues and weigh on the lender's profitability.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/india-regulator-seeks-review-of-top-court-s-yes-bank-bond-ruling",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:07:34+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s CEO Search Draws Fire; ‘Max Overweight’ on Stocks",
+    "summary": "Pressure is mounting on Nvidia after Jensen Huang's ouster, with Treasury Secretary Bessent urging a dramatic leadership shakeup and transparency on export-control compliance. Separately, Morgan Stanley recommended a max overweight on global stocks, citing an intact AI capex cycle.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/the-opening-trade-11-16-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:07:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Revolut Ordered to Improve Money Laundering Controls in Italy",
+    "summary": "A Milan court found weaknesses in the anti-money-laundering controls of Revolut's Italian unit, saying the digital bank negligently facilitated criminal activity. The unit has been placed under supervision for one year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/revolut-under-italian-court-oversight-on-laundering-weaknesses",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:00:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
+    "summary": "Lingotto's James Anderson, an early Nvidia and Tesla investor, warns that superstar status undermines tech leaders. He says fame affects founders' personal lives and their companies.",
+    "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-16T11:00:03+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Startup Dreamteam Raises Capital to Challenge Salesforce, SAP",
+    "summary": "Dreamteam AI raised $53 million in a round led by Accel, with participation from Azim Premji's firm and Together Fund. The startup aims to challenge enterprise software incumbents such as Salesforce and SAP.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
+    "source": "Bloomberg",
+    "published": "2026-11-16T11:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BlackRock Sees Risk of AI Buildout 'Slowdown' Impacting US Growth",
+    "summary": "BlackRock Investment Institute's Jean Boivin says uncertainty over AI adoption and its financial payoff is getting harder to ignore. A slowdown in the AI buildout would have a material impact on the real economy, he warned.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T10:09:14+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dólar en 2027: ING anticipa una caída del 5% y advierte por la Fed y los riesgos de una crisis de IA",
+    "summary": "ING anticipa que el dólar podría caer alrededor de 5% en 2027 y retomar su tendencia bajista. Advierte que una eventual crisis bursátil ligada a la IA podría alterar el comportamiento de las divisas y generar volatilidad.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-en-2027-ing-anticipa-una-caida-del-5-y-advierte-por-la-fed-y-los-riesgos-de-una-crisis-de-ia/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-16T09:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "World Chess Boss Wants to Beat Revolut at Fintech’s Own Game",
+    "summary": "Another Russia-born fintech founder, the head of world chess, is aiming to scale his app and challenge Revolut. Bloomberg says he wants to shake up the global banking establishment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/kazakh-fintech-tycoon-atop-world-chess-seeks-to-outplay-revolut",
+    "source": "Bloomberg",
+    "published": "2026-11-16T08:07:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Yucatán: la nueva frontera industrial de México",
+    "summary": "Cerca de cien dirigentes industriales revisaron en la CONCAMIN los planes de Yucatán como nuevo polo de expansión industrial. El estado, antes ausente de los mapas de inversión, emerge como frontera industrial del país.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/11/16/yucatan-la-nueva-frontera-industrial-de-mexico/",
+    "source": "El Financiero",
+    "published": "2026-11-16T07:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Aterrizaje suave en Wall Street: ¿Por qué el ajuste tecnológico no es un crack bursátil?",
+    "summary": "El índice de semiconductores SOX ha retrocedido tras su máximo histórico de junio en medio de catalizadores macro, geopolíticos y corporativos. El análisis argumenta que el ajuste tecnológico es un aterrizaje suave, no un crack bursátil.",
+    "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/11/16/aterrizaje-suave-en-wall-street-por-que-el-ajuste-tecnologico-no-es-un-crack-bursatil/",
+    "source": "El Financiero",
+    "published": "2026-11-16T07:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Indicadores del 16 al 20 de noviembre: Consumo privado, ventas minoristas y minutas",
+    "summary": "La agenda económica de la semana incluye en México datos de consumo privado, actividad manufacturera, actividad económica, ventas minoristas y balanza comercial. Los analistas también estarán atentos a las minutas de política monetaria de Banxico y de la Fed.",
+    "link": "https://www.eleconomista.com.mx/mercados/indicadores-16-20-noviembre-consumo-privado-ventas-minoristas-minutas-20261116-843974.html",
+    "source": "El Economista",
+    "published": "2026-11-16T07:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Nvidia Fallout, Anthropic Listing Squeeze Asian Chip Stocks Anew",
     "summary": "Asia's two chip-heavy stock markets came under renewed pressure on Monday, tracking US weakness. Investors are dealing with Nvidia's turmoil and making room for Anthropic's much-anticipated share sale.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-fallout-anthropic-listing-squeeze-asian-chip-stocks-anew",
@@ -11,6 +165,17 @@
     "light": true
   },
   {
+    "title": "EU y 9 socios se alían para proteger la tecnología e infraestructuras de IA frente a China",
+    "summary": "Estados Unidos y nueve aliados, entre ellos Australia, India, Israel, Japón y Corea del Sur, firmaron una declaración para proteger las tecnologías e infraestructura crítica de las cadenas de suministro de IA. La iniciativa busca coordinar esfuerzos frente a China.",
+    "link": "https://www.eleconomista.com.mx/internacionales/eu-9-socios-alian-proteger-tecnologia-e-infraestructuras-ia-frente-china-20261116-844152.html",
+    "source": "El Economista",
+    "published": "2026-11-16T06:38:44-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "The perfect sell-off",
     "summary": "The FT's market briefing covers the latest tech sell-off. It also looks at the fast-tracking of Anthropic's IPO.",
     "link": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
@@ -20,6 +185,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "La externalización supone un mayor riesgo para los bancos de la zona euro que las estafas: BCE",
+    "summary": "El BCE informó que las fallas de proveedores externos han causado más problemas tecnológicos graves en los bancos de la zona euro que los intentos de fraude. Las acciones maliciosas representaron una proporción relativamente pequeña de los incidentes cibernéticos registrados entre 2025 y septiembre de este año.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/externalizacion-supone-mayor-riesgo-bancos-zona-euro-estafas-bce-20261116-844148.html",
+    "source": "El Economista",
+    "published": "2026-11-16T06:23:12-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Skipping the Gym? British Bank Analysts Are Paying Attention",
@@ -44,6 +220,17 @@
     "light": true
   },
   {
+    "title": "La banca mundial se encamina a entrar en 2027 en una posición sólida: Moody's",
+    "summary": "Moody's Ratings prevé que la banca mundial entre a 2027 en una posición sólida, apoyada en condiciones económicas favorables y rentabilidad robusta. La agencia destacó que los bancos se han adaptado a los cambios del mercado y resistido perturbaciones repentinas.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/banca-mundial-encamina-entrar-2027-posicion-solida-moody-s-20261116-844145.html",
+    "source": "El Economista",
+    "published": "2026-11-16T06:05:54-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "EQT Sees “Wave” of Take-Private Opportunities in Japan",
     "summary": "EQT chair Jean Eric Salata says the private equity firm plans to invest up to 30% of its $30 billion in dry powder in Japan. EQT sees a 'wave' of take-private opportunities there.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video",
@@ -51,6 +238,39 @@
     "published": "2026-11-16T05:12:19+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Alerta FMI que México mina credibilidad fiscal",
+    "summary": "El FMI advirtió que las rigideces del gasto y el debilitamiento fiscal están minando la credibilidad de México. Según el organismo, esto eleva el riesgo de endeudamiento del país.",
+    "link": "https://www.reforma.com/alerta-fmi-que-mexico-mina-credibilidad-fiscal/ar3315309",
+    "source": "Reforma",
+    "published": "2026-11-16T05:01:43-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Advierten lentitud en el Plan México",
+    "summary": "El Plan México avanza con lentitud ante la incertidumbre de los inversionistas. Se señala la falta de contratos claros y los cambios en las reglas.",
+    "link": "https://www.reforma.com/advierten-lentitud-en-el-plan-mexico/ar3315311",
+    "source": "Reforma",
+    "published": "2026-11-16T05:01:43-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI",
+    "summary": "Jensen Huang's exit from Nvidia removes a vocal, influential backer of open AI models. The FT says this shift strengthens closed-model leaders Anthropic and OpenAI.",
+    "link": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-16T05:00:21+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
     "language": "en",
     "light": true
   },
@@ -77,6 +297,17 @@
     "light": true
   },
   {
+    "title": "From the Fun Palace to the Fish: Architecture’s Triumph or Computation’s Takeover?",
+    "summary": "ArchDaily essay uses Zaha Hadid's Heydar Aliyev Center in Baku as a lens on computational design. It asks whether parametric architecture is a triumph of the discipline or a takeover by computation.",
+    "link": "https://www.archdaily.com/1188572/from-the-fun-palace-to-the-fish-architectures-triumph-or-computations-takeover",
+    "source": "ArchDaily",
+    "published": "2026-11-16T04:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals",
     "summary": "Alibaba launched a new flagship AI model and claims performance that rivals Anthropic and OpenAI. It is China's latest challenge to the US leaders in frontier AI.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
@@ -86,6 +317,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Villa Nabu / Alexis Dornier",
+    "summary": "Villa Nabu is a private retreat in South Lombok's Tampah Hills by architect Alexis Dornier, known for sculptural tropical modernism. The home draws on local vernacular and landscape cues.",
+    "link": "https://www.archdaily.com/1188377/villa-nabu-alexis-dornier",
+    "source": "ArchDaily",
+    "published": "2026-11-16T02:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Morgan Stanley ‘Max Overweight’ Global Stocks on AI Cycle",
@@ -5256,247 +5498,5 @@
     "relevance_score": 70,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Lone Pine, Whale Rock, Tiger Global Battered by AI Jitters",
-    "summary": "Lone Pine, Tiger Global y Whale Rock figuraron entre los hedge funds golpeados el mes pasado por las dudas sobre las inversiones en IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/tiger-global-whale-rock-battered-by-ai-fears-in-painful-october",
-    "source": "Bloomberg",
-    "published": "2026-11-05T23:03:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
-    "summary": "Wall Street shed $3.2tn as the tech-heavy Nasdaq 100 tumbled 6.4% in a day of chaotic trading.",
-    "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T22:41:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La crisis de Ueno Bank golpea en Argentina: suspenden a más 900 trabajadores sin goce de sueldo",
-    "summary": "La crisis de Ueno Bank cruzó a Argentina: más de 900 trabajadores remotos de ITTI Consultores, del mismo grupo, fueron suspendidos 30 días sin goce de sueldo.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-crisis-de-ueno-bank-golpea-en-argentina-suspenden-a-mas-900-trabajadores-sin-goce-de-sueldo/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T21:09:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Will Democrats stall the AI boom?",
-    "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets. It raises regulatory risk for the AI buildout.",
-    "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T20:28:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
-    "summary": "Banxico recortó sorpresivamente su tasa de interés a 6.25%, en contra del consenso de analistas que esperaban una pausa. Es una señal clave para el costo del crédito hipotecario y el fondeo en México.",
-    "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
-    "source": "Expansión",
-    "published": "2026-11-05T19:10:16+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Santiago Peña renuncia como presidente de Paraguay: ¿qué tiene que ver Ueno Bank con su caída?",
-    "summary": "Santiago Peña renunció como presidente de Paraguay en medio del escándalo de Ueno Bank y el proceso de juicio político. Un caso de gobernanza y riesgo bancario con efectos regionales.",
-    "link": "https://expansion.mx/mundo/2026/11/05/santiago-pena-renuncia-presidencia-paraguay-ueno-bank",
-    "source": "Expansión",
-    "published": "2026-11-05T19:08:57+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ley de economía digital: los riesgos que enfrentarán los usuarios con más pagos con QR y transferencias",
-    "summary": "La nueva ley de economía digital plantea riesgos para usuarios ante el mayor uso de pagos con QR y transferencias. Tema relevante para fintech, protección al consumidor y regulación de pagos en México.",
-    "link": "https://expansion.mx/economia/2026/11/05/ley-de-economia-digital-los-riesgos-que-enfrentaran-los-usuarios-con-mas-pagos-con-qr-y-transferencias",
-    "source": "Expansión",
-    "published": "2026-11-05T19:02:41+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mexico Unexpectedly Cuts Interest Rate to Four-Year Low of 6.25%",
-    "summary": "Mexico unexpectedly cut its benchmark interest rate to 6.25%, a four-year low. Bloomberg reports spare capacity in the economy gave the central bank room to resume monetary easing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25",
-    "source": "Bloomberg",
-    "published": "2026-11-05T19:00:49+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Mystery Seller Puts Up $500 Million Data Center Loans Backing Stargate, CyrusOne",
-    "summary": "A roughly $500 million portfolio of data center loans backing Stargate and CyrusOne is being auctioned at once, days after a Democratic sweep raised doubts about many projects.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone",
-    "source": "Bloomberg",
-    "published": "2026-11-05T18:52:30+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
-    "summary": "A judge found Man Group liable for 'corruption on a breathtaking scale' at a Kuwaiti state pension fund; it may owe about $155 million.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
-    "source": "Bloomberg",
-    "published": "2026-11-05T18:50:10+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Sachs Traders See Surge in Calls as AI Stock Selloff Deepens",
-    "summary": "Goldman Sachs' trading desk is flooded with calls from investors gauging how much deeper the technology selloff can go as the AI stock selloff deepens.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/goldman-traders-say-phones-are-exploding-as-ai-selloff-worsens",
-    "source": "Bloomberg",
-    "published": "2026-11-05T18:40:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Quién es el dueño de Ueno Bank, el banco tras la crisis que provocó la renuncia del presidente de Paraguay",
-    "summary": "La crisis de Ueno Bank, intervenido por el Banco Central de Paraguay, precipitó la renuncia del presidente Peña y puso bajo escrutinio a su principal accionista, Federico Vázquez Villasanti.",
-    "link": "https://www.bloomberglinea.com/actualidad/quien-es-el-dueno-de-ueno-bank-el-banco-tras-la-crisis-que-provoco-la-renuncia-del-presidente-de-paraguay/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T18:22:06+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Un auto por ahorrar?: Banorte apuesta por rifar vehículos para competir por depósitos bancarios",
-    "summary": "Banorte rifa autos para competir por depósitos bancarios, una apuesta más ambiciosa que las promociones tradicionales de captación de clientes.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/05/un-auto-por-ahorrar-banorte-apuesta-por-rifar-vehiculos-para-competir-por-depositos-bancarios/",
-    "source": "El Financiero",
-    "published": "2026-11-05T18:12:57+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
-    "summary": "Anthropic is teaming up with fintech Plaid to bring more tailored financial guidance to users of its Claude model, drawing on Plaid's network of consumer finance data.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/anthropic-plaid-collaborate-on-ai-consumer-finance-guidance",
-    "source": "Bloomberg",
-    "published": "2026-11-05T18:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 93,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Se derrumban las acciones de MercadoLibre en Wall Street: ¿qué motivos las empujan a la baja?",
-    "summary": "Las acciones de MercadoLibre caen más de 12% en Wall Street, arrastradas por la aversión global al riesgo que hunde al Nasdaq y por factores propios de la compañía.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/se-derrumban-las-acciones-de-mercadolibre-en-wall-street-que-motivos-las-empujan-a-la-baja/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T17:07:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "So, about that Anthropic IPO . . .",
-    "summary": "An FT column on the prospect of an Anthropic IPO, written as a dispatch from the trenches of daily market commentary.",
-    "link": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T17:01:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nasdaq plunges in chaotic trading as Democratic ‘blue wave’ upends AI bets",
-    "summary": "The Nasdaq plunged in chaotic trading as investors fear newly elected politicians across the US will seek to slow data centre development, a blow to tech stocks.",
-    "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T16:59:34+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "No le ‘duró el gusto’ al peso: Pierde 14 centavos ante el dólar y espera decisión del Banxico",
-    "summary": "El peso mexicano pierde más de 10 centavos frente al dólar en la sesión, con la atención puesta en la decisión de Banxico tras la euforia por el triunfo demócrata.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/05/peso-dolar-tipo-de-cambio-precio-hoy-5-de-noviembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-11-05T16:35:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Zillow Moves on Weak Results; Dutch Bros Reduces Guidance | Stock Movers",
-    "summary": "Zillow moves after weaker-than-expected results and a signal that adjusted earnings next quarter could be the weakest in three years. Expedia also drops despite raising its full-year outlook.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-05/zillow-drops-on-results-dutch-bros-reduces-guidance-video",
-    "source": "Bloomberg",
-    "published": "2026-11-05T16:10:35+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Wall Street se desploma y el Nasdaq entra en corrección por temores sobre la IA tras victoria demócrata",
-    "summary": "Wall Street se desploma y el Nasdaq entra en corrección por temores a mayores restricciones a la industria de IA tras la victoria demócrata.",
-    "link": "https://www.bloomberglinea.com/mercados/wall-street-cotiza-mixto-ante-caida-de-fabricantes-de-chips-y-rotacion-a-sectores-ciclicos/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-05T16:09:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft Sours on Neoclouds IREN, Nebius, Nscale on Delays, Costs",
-    "summary": "Microsoft, which helped create the neocloud boom with tens of billions in contracts, is souring on IREN, Nebius and Nscale over delays and costs. A signal on AI infrastructure economics.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs",
-    "source": "Bloomberg",
-    "published": "2026-11-05T15:42:15+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
-    "summary": "Executives at the FT's Future of AI summit admit the tech industry has fuelled hostility toward its own expansion, threatening the trillion-dollar data centre boom.",
-    "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-05T15:35:47+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
   }
 ]
