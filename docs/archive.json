@@ -1,5 +1,137 @@
 [
   {
+    "title": "Nvidia Bull: AI Growth Story Remains Intact",
+    "summary": "I/O Fund's Beth Kindig says her long-term Nvidia bull case remains intact despite Jensen Huang's departure, citing surging AI compute demand and a potential move into recurring software revenue.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T18:55:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon",
+    "summary": "Las acciones tecnológicas extendieron su caída el lunes ante el nerviosismo por el comercio de IA. Los inversionistas esperan los resultados de Nvidia y la esperada salida a bolsa de Anthropic esta semana.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+    "source": "Bloomberg",
+    "published": "2026-11-16T18:51:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dollar Erases Liberation Day Loss as ‘Sell America’ Fear Fades",
+    "summary": "The dollar has recovered all its losses since Trump's Liberation Day tariffs. A resilient economy, rising rates and the AI boom have boosted its appeal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades",
+    "source": "Bloomberg",
+    "published": "2026-11-16T18:24:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+    "summary": "Nvidia's board is not considering reinstating Jensen Huang as chief executive. The co-founder resigned following an extramarital affair with an executive at a Singapore-based customer.",
+    "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-16T18:14:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster",
+    "summary": "OpenAI's Sam Altman said the AI industry will weather the uncertainty created by the ouster of Nvidia CEO Jensen Huang last week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster",
+    "source": "Bloomberg",
+    "published": "2026-11-16T17:51:57+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia, Anthropic Put the AI Trade On Trial",
+    "summary": "Nvidia faces life after Jensen Huang while Anthropic's blockbuster IPO reshapes Wall Street's deal pipeline. Bank of America CEO Brian Moynihan comments on how the mega IPO is affecting the landscape.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/open-interest-11-16-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T17:42:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huang’s Ouster Fuels Doubts About Nvidia’s Support for Neoclouds",
+    "summary": "Jensen Huang channeled Nvidia's financial heft into bankrolling neoclouds that stockpile chips and rent out compute. His ouster raises doubts about whether that support will continue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/huang-s-ouster-fuels-doubts-about-nvidia-s-support-for-neoclouds",
+    "source": "Bloomberg",
+    "published": "2026-11-16T17:40:37+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apple Taps 26-Year Veteran Corey Fugman to Run Pay, Card and Wallet Services",
+    "summary": "Apple named 26-year veteran Corey Fugman to head its payments and digital wallet unit, covering Apple Pay, Card and Wallet. The unit is a vital part of the iPhone maker's services business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services",
+    "source": "Bloomberg",
+    "published": "2026-11-16T17:12:33+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US is Falling Behind on AI Buildout Needs: Midha",
+    "summary": "Anthropic founding investor Anjney Midha says the US is struggling to scale AI compute fast enough to keep pace with China. He also voiced optimism about interim Nvidia CEO Colette Kress.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/us-is-falling-behind-on-ai-buildout-needs-midha-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T16:39:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
+    "summary": "Treasury Secretary Scott Bessent urged Nvidia to make a 'dramatic' leadership shakeup and come clean on its compliance with AI chip export controls, days after ousting Jensen Huang. Pressure on the company's CEO search is mounting.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
+    "source": "Bloomberg",
+    "published": "2026-11-16T16:26:58+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump exigirá licencia a países para acceder a chips de IA avanzado tras escándalo en Nvidia",
+    "summary": "El Departamento de Comercio de EU emitió una norma provisional que exigirá licencias para el acceso remoto a chips y servidores de IA avanzados desde ciertos países. La medida sigue a un mayor escrutinio de exportaciones de semiconductores tras un presunto escándalo de espionaje que involucra a Nvidia.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/16/trump-exigira-licencia-a-paises-para-acceder-a-chips-de-ia-avanzado-tras-escandalo-en-nvidia/",
+    "source": "El Financiero",
+    "published": "2026-11-16T15:26:55+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+    "summary": "The Economist's Bartleby columnist Andrew Palmer writes about the benefits of skip-level meetings, where managers meet staff more than one rung below them.",
+    "link": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+    "source": "The Economist",
+    "published": "2026-11-16T14:53:55+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "JPM’s Michele: ‘Looks a Bit Silly’ Fed Missed Oct. Hike",
     "summary": "JPMorgan Asset Management's Bob Michele says the Fed is currently driving Treasuries more than the AI trade. He says it 'looks a bit silly' that the Fed missed a chance to hike in October.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-16/jpm-s-michele-looks-a-bit-silly-fed-missed-oct-hike-video",
@@ -9,6 +141,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Houngbo inicia segundo mandato en la OIT con foco en IA, pymes y tripartismo para todas las regiones",
+    "summary": "Gilbert Houngbo inicia su segundo mandato al frente de la OIT con una agenda centrada en el diálogo tripartito, la regulación de la inteligencia artificial y el fortalecimiento de las pymes.",
+    "link": "https://www.eleconomista.com.mx/empresas/houngbo-inicia-segundo-mandato-oit-foco-ia-pymes-tripartismo-todas-regiones-20261116-844194.html",
+    "source": "El Economista",
+    "published": "2026-11-16T12:20:48-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Fed’s Barr Warns AI Agents May Fuel Future Bank Runs",
@@ -31,6 +174,17 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Warsh ve un \"impacto significativo\" de la IA en la economía; pide atención a los riesgos",
+    "summary": "El presidente de la Fed, Kevin Warsh, dijo que la IA tendrá un impacto significativo en la economía, con escenarios que van desde mayor crecimiento con beneficios amplios hasta más desempleo y desaceleración si los retornos de la inversión decepcionan. El personal de la Fed ya prepara planes de contingencia.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/warsh-ve-impacto-significativo-ia-economia-pide-atencion-riesgos-20261116-844189.html",
+    "source": "El Economista",
+    "published": "2026-11-16T11:27:52-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
   },
   {
     "title": "India Regulator Seeks Review of Top Court’s Yes Bank Bond Ruling",
@@ -88,6 +242,17 @@
     "light": true
   },
   {
+    "title": "Italia impone administración judicial a Revolut por deficiencias en su control de blanqueo",
+    "summary": "La justicia italiana impuso un año de administración judicial al banco digital Revolut por fallas en su sistema antilavado que habrían permitido operaciones ilícitas por 76.5 millones de euros. La medida es preventiva y no interferirá con la operación del banco.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/italia-impone-administracion-judicial-revolut-deficiencias-control-blanqueo-20261116-844184.html",
+    "source": "El Economista",
+    "published": "2026-11-16T10:42:05-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "BlackRock Sees Risk of AI Buildout 'Slowdown' Impacting US Growth",
     "summary": "BlackRock Investment Institute's Jean Boivin says uncertainty over AI adoption and its financial payoff is getting harder to ignore. A slowdown in the AI buildout would have a material impact on the real economy, he warned.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
@@ -95,6 +260,17 @@
     "published": "2026-11-16T10:09:14+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "GSA, Calpers Buy £600 Million Student Housing Portfolio",
+    "summary": "Global Student Accommodation and CalPERS bought a majority stake in a UK student housing portfolio for about £600 million from a housing association.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/gsa-buys-600-million-student-housing-portfolio-from-sanctuary",
+    "source": "Bloomberg",
+    "published": "2026-11-16T09:01:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5321,182 +5497,6 @@
     "category": "Personal Interest Watchlist",
     "relevance_score": 62,
     "language": "en",
-    "light": false
-  },
-  {
-    "title": "Asia Hedge Funds, Rich Investors Face Steep Losses in AI Selloff",
-    "summary": "Hedge fund managers and brokers in Asia woke to panicked clients after a sharp overnight US equity selloff, amid fears the unwinding of AI bets has further to run.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff",
-    "source": "Bloomberg",
-    "published": "2026-11-06T05:35:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Leads Asia Bond Losses as AI Rout Spreads to Credit",
-    "summary": "SoftBank led declines in Asian dollar bonds as the deepening rout in AI stocks extended into credit markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/softbank-leads-asia-bond-losses-ai-rout-spreads-credit",
-    "source": "Bloomberg",
-    "published": "2026-11-06T05:35:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Slump Stems From Conflated Return Thesis, Plato’s Allen Says",
-    "summary": "Plato Investment Management's David Allen says Thursday's selloff came from investors conflating AI's transformational potential with the investment return thesis.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-slump-stems-from-conflated-return-thesis-plato-s-allen-says",
-    "source": "Bloomberg",
-    "published": "2026-11-06T04:14:24+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Le llueve sobre mojado al peso: ¿Por qué el recorte de Banxico es pésima noticia para el tipo de cambio?",
-    "summary": "El recorte inesperado de Banxico reduce el atractivo de los instrumentos mexicanos justo cuando la Fed podría volver a subir tasas. La combinación de menores rendimientos presiona al peso frente al dólar.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/05/le-llueve-sobre-mojado-al-peso-por-que-el-recorte-de-banxico-es-pesima-noticia-para-el-tipo-de-cambio/",
-    "source": "El Financiero",
-    "published": "2026-11-06T01:36:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hearts & Minds' Howes on Private Credit",
-    "summary": "Richard Howes of Hearts & Minds Investment discusses investment opportunities in private credit markets, speaking at the Sohn Hearts & Minds conference in Queenstown.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/hearts-minds-howes-on-private-credit-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T01:05:02+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cox cambia de CEO y reorganiza su estructura de negocios",
-    "summary": "Cox Infrastructure Group reorganizó su estructura de negocios y nombró a Patxi Sáez como CEO para liderar su fase de crecimiento en Estados Unidos.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/cox-cambia-de-ceo-y-reorganiza-su-estructura-de-negocios/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-06T00:51:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-    "summary": "IDB Invest officials suspected something was off almost as soon as they entered Ueno Bank in Paraguay. The bank scandal is now bringing down Trump's ally in the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-    "source": "Bloomberg",
-    "published": "2026-11-06T00:24:58+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico, ¿la última y nos vamos?",
-    "summary": "Columna sobre el recorte de Banxico de 6.50 a 6.25%, decidido 3-2 a contracorriente de analistas privados que proyectaban una cuarta pausa. Plantea si este será el último recorte del ciclo.",
-    "link": "https://www.eleconomista.com.mx/opinion/banxico-ultima-20261106-842506.html",
-    "source": "El Economista",
-    "published": "2026-11-06T00:12:47-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "De cada 100 pesos del gasto público en 2027, 14 provendrán de deuda",
-    "summary": "El presupuesto de gasto público 2027 prevé que 14 de cada 100 pesos provengan de deuda. Dato relevante para costo de financiamiento y condiciones de crédito en México.",
-    "link": "https://expansion.mx/economia/2026/11/05/de-cada-100-pesos-del-gasto-publico-en-2027-14-provendran-de-deuda",
-    "source": "Expansión",
-    "published": "2026-11-05T23:55:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Las claves para entender el conflicto de Ueno Bank en Paraguay",
-    "summary": "La renuncia del presidente Santiago Peña cerró una semana en que el caso Ueno Bank, con más de 3 millones de clientes, pasó del sistema financiero a la Justicia. El Banco Central de Paraguay inició el proceso de intervención.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/claves-entender-conflicto-ueno-bank-paraguay-20261105-842502.html",
-    "source": "El Economista",
-    "published": "2026-11-05T23:47:33-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Prevén regulación “más estricta” para bancos de Paraguay",
-    "summary": "Moody's considera que el riesgo de contagio de la crisis de Ueno Bank puede mantenerse acotado si el proceso es rápido y ordenado, con impacto modesto y temporal en la economía real. Se prevé regulación más estricta para los bancos paraguayos.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/preven-regulacion-estricta-bancos-paraguay-20261105-842501.html",
-    "source": "El Economista",
-    "published": "2026-11-05T23:45:26-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Peso se deprecia por sorpresa de Banxico y analistas prevén mayor debilidad para moneda mexicana",
-    "summary": "El peso se depreció tras la sorpresa de Banxico y analistas prevén mayor debilidad para la moneda mexicana. Reflejo inmediato del recorte de tasa en los mercados cambiarios.",
-    "link": "https://expansion.mx/economia/2026/11/05/peso-se-deprecia-por-sorpresa-de-banxico-y-analistas-preven-mayor-debilidad-para-moneda-mexicana",
-    "source": "Expansión",
-    "published": "2026-11-05T23:44:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Markets realise they hate America’s blue wave",
-    "summary": "Investors worry that Democratic dominance after the midterms will slow the AI boom, and markets are reacting to the prospect of a blue wave.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-    "source": "The Economist",
-    "published": "2026-11-05T23:41:07+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico baja tasa a 6.25% pese a repunte de inflación y expansión económica",
-    "summary": "El Banco de México bajó la tasa 25 puntos base a 6.25% por mayoría de 3 a 2, con Borja y Heath votando por mantenerla. La decisión ocurre pese al repunte de la inflación y la expansión económica.",
-    "link": "https://www.eleconomista.com.mx/economia/banxico-baja-tasa-6-25-pese-repunte-inflacion-expansion-economica-20261105-842500.html",
-    "source": "El Economista",
-    "published": "2026-11-05T23:39:58-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 92,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Analistas: peso, más vulnerable a las decisiones de la Fed",
-    "summary": "Con la tasa en 6.25%, el diferencial con la Fed queda en un mínimo histórico de 225 puntos base. Analistas advierten que el peso y la política monetaria mexicana quedan vulnerables a la próxima decisión de la Fed.",
-    "link": "https://www.eleconomista.com.mx/economia/analistas-peso-vulnerable-decisiones-fed-20261105-842499.html",
-    "source": "El Economista",
-    "published": "2026-11-05T23:33:57-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 86,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hammack y Barkin, a favor de un alza de tasas gradual",
-    "summary": "Los funcionarios de la Fed Hammack y Barkin defendieron alzas graduales de tasas para combatir una inflación por encima de la meta, tras la victoria demócrata en el Congreso. Relevante para el diferencial de tasas con México.",
-    "link": "https://www.eleconomista.com.mx/economia/hammack-barkin-favor-alza-tasas-gradual-20261105-842496.html",
-    "source": "El Economista",
-    "published": "2026-11-05T23:18:33-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 70,
-    "language": "es",
     "light": false
   }
 ]
