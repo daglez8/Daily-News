@@ -1,5 +1,214 @@
 [
   {
+    "title": "México enfrenta trabas para atraer centros de datos de IA",
+    "summary": "Brasil tiene 225 centros de datos y México apenas 71. Pese a su cercanía con EE.UU., una red eléctrica débil y retrasos en permisos amenazan con dejar al país al margen del auge de inversión en infraestructura de IA.",
+    "link": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia",
+    "source": "Bloomberg",
+    "published": "2026-11-17T13:00:04+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Apollo’s Zelter Sees Nvidia as First Big Stress Test for AI",
+    "summary": "Jim Zelter, presidente de Apollo, califica la saga de Nvidia como la primera gran prueba de estrés para la inteligencia artificial. Advierte que el entorno actual no es para inversionistas inexpertos.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/apollo-s-zelter-sees-nvidia-as-first-big-ai-stress-test-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T12:56:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Private Equity Finds a Year-End Window to Take Cash Out of Firms",
+    "summary": "Aunque la actividad de compras de private equity luce frenada al cierre del año, los fondos encuentran una ventana para extraer efectivo de sus empresas en cartera, vía dividendos y refinanciamientos.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/private-equity-finds-a-year-end-window-to-take-cash-out-of-firms",
+    "source": "Bloomberg",
+    "published": "2026-11-17T12:51:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fed’s Musalem Says ‘Several’ Rate Hikes Likely Needed by Spring",
+    "summary": "Alberto Musalem, presidente de la Fed de St. Louis, respaldó varias alzas de tasas en los próximos meses para controlar la inflación. Un giro restrictivo de la Fed presionaría las tasas y el peso mexicano.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring",
+    "source": "Bloomberg",
+    "published": "2026-11-17T12:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El código corre, pero ¿la operación alcanza?",
+    "summary": "La IA acelera la programación y las entregas de software, pero la encuesta de Bain a 293 líderes de tecnología (abril 2026) muestra que la operación en producción no siempre escala al mismo ritmo. La pregunta clave es si la confiabilidad operativa acompaña la velocidad.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/17/el-codigo-corre-pero-la-operacion-alcanza/",
+    "source": "El Financiero",
+    "published": "2026-11-17T12:18:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El verdadero desafío del T-MEC en 2026 está en el compliance",
+    "summary": "Frente al ruido por la revisión del T-MEC en 2026, el autor advierte que basar la estrategia en adivinar el desenlace político es un error. El verdadero reto para las empresas en México es operativo: el cumplimiento de reglas de origen y compliance.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/17/el-verdadero-desafio-del-t-mec-en-2026-esta-en-el-compliance/",
+    "source": "El Financiero",
+    "published": "2026-11-17T12:10:55+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic IPO: Hedge Fund Coatue Has $10 Billion Stake in Claude Maker",
+    "summary": "Coatue Management está por obtener una ganancia multimillonaria con la inminente salida a bolsa de Anthropic, donde tiene una participación valuada en unos 10,000 millones de dólares. Es la mayor victoria de las apuestas agresivas del fondo en startups de IA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
+    "source": "Bloomberg",
+    "published": "2026-11-17T12:10:03+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ciberespías usan facturas como caballos de Troya para infiltrar grandes empresas y gobiernos",
+    "summary": "Expansión reporta una campaña de ciberespionaje que usa facturas falsas como caballo de Troya para infiltrar grandes empresas y gobiernos. Recordatorio del riesgo de phishing en procesos de cuentas por pagar.",
+    "link": "https://expansion.mx/tecnologia/2026/11/17/darkcaracal-ciberespionaje-facturas-falsas-malware",
+    "source": "Expansión",
+    "published": "2026-11-17T11:55:58+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Sequoia, Greenoaks Lead Isomorphic Lab’s $5 Billion Funding Round",
+    "summary": "Isomorphic Labs, de Alphabet, levantó 5,000 millones de dólares en una ronda liderada por Sequoia y Greenoaks, apenas seis meses después de su ronda anterior. La empresa diseña nuevos fármacos con inteligencia artificial.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round",
+    "source": "Bloomberg",
+    "published": "2026-11-17T11:50:03+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Optimizar no es decidir",
+    "summary": "La IA ya toma decisiones operativas en las empresas con base en funciones de optimización, pero optimizar no equivale a decidir bien. El texto plantea que consejeros y directivos deben aprender a gobernar algoritmos, no solo personas.",
+    "link": "https://www.elfinanciero.com.mx/opinion/eugenio-gomez/2026/11/17/optimizar-no-es-decidir/",
+    "source": "El Financiero",
+    "published": "2026-11-17T11:30:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Apple Watch With Audio Intelligence AI and Amazon Bee Raise Privacy Concerns",
+    "summary": "AI wearables like the Apple Watch's audio intelligence features and Amazon's Bee promise convenience but sometimes get confused. Their always-listening design also raises privacy concerns.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/apple-watch-with-audio-intelligence-ai-and-amazon-bee-raise-privacy-concerns",
+    "source": "Bloomberg",
+    "published": "2026-11-17T11:28:02+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
+    "summary": "Nvidia reports earnings with its stock down 35% from its October peak, dragging the Nasdaq lower amid mounting tech turmoil. The results are a key test for the AI trade.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
+    "source": "Bloomberg",
+    "published": "2026-11-17T11:26:29+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia creates committee to oversee compliance with US chip export controls",
+    "summary": "Nvidia created a board committee to oversee compliance with US chip export controls after Washington imposed sweeping new curbs on China's access to high-end AI chips.",
+    "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-17T11:24:44+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Startup for Bankers Raises Funds at $1.5 Billion Value",
+    "summary": "Model ML, startup que desarrolla agentes de IA para automatizar tareas rutinarias de banqueros, consultores e inversionistas, levantó nueva ronda a una valuación de 1,500 millones de dólares. Señal del apetito inversor por agentes aplicados a servicios financieros.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
+    "source": "Bloomberg",
+    "published": "2026-11-17T11:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 87,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inflación vuelve a presionar a América Latina: así cerró octubre 2026, país por país",
+    "summary": "La volatilidad energética presionó la inflación en América Latina y varias economías cerraron octubre por encima de sus rangos meta. México fue la excepción, con inflación anual de 3.75%, dentro del intervalo de tolerancia de Banxico.",
+    "link": "https://www.bloomberglinea.com/economia/la-inflacion-vuelve-a-presionar-a-america-latina-asi-cerro-octubre-2026-pais-por-pais/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-17T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Normalización, no desaceleración",
+    "summary": "El PIB de México creció 0.9% trimestral y 3.2% anual en el 3T según la estimación oportuna del INEGI, impulsado por servicios e industria. El autor sostiene que la moderación posterior debe leerse como normalización, no como desaceleración.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/11/17/normalizacion-no-desaceleracion/",
+    "source": "El Financiero",
+    "published": "2026-11-17T10:15:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Abogados y algoritmos: General Counsel 4.0",
+    "summary": "Con base en el libro Law in the Era of AI de Bjarne Tellmann, el texto sostiene que la IA es ya una variable estratégica que redefine la asesoría jurídica corporativa. El General Counsel debe transformar su función para acompañar ese cambio.",
+    "link": "https://www.elfinanciero.com.mx/opinion/juan-carlos-machorro/2026/11/17/abogados-y-algoritmos-general-counsel-40/",
+    "source": "El Financiero",
+    "published": "2026-11-17T10:03:39+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Con cambios, Caputo retoma plan de ARS$2 billones para incentivar un repunte del crédito hipotecario",
+    "summary": "El gobierno de Milei retoma, con cambios, un plan de ARS$2 billones con fondos del FGS de la ANSES para impulsar el crédito hipotecario vía licitaciones de plazos fijos a bancos. Ahora los bancos podrán destinar los recursos a operaciones instrumentadas con boleto de compraventa, para estimular la demanda.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/con-cambios-caputo-retoma-plan-de-ars2-billones-para-incentivar-un-repunte-del-credito-hipotecario/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-17T09:30:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gerentes adoptan más la Inteligencia Artificial que el resto de los empleados",
+    "summary": "Un estudio de Hogan Assessments con 648 trabajadores encontró que los gerentes perciben la IA como más útil y fácil de usar, y la usan con mayor frecuencia que los empleados sin puesto gerencial. La adopción varía según personalidad y nivel jerárquico.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/gerentes-adoptan-inteligencia-artificial-resto-empleados-20261117-844007.html",
+    "source": "El Economista",
+    "published": "2026-11-17T07:00:00-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Santander: México en el radar global",
     "summary": "Noviembre vuelve a ser un mes clave para Santander en México, que reafirma la importancia del país para el grupo que encabeza Ana Botín. La columna anticipa anuncios relevantes del banco, como ocurrió en 2019 cuando México recibió al Consejo global.",
     "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/11/17/santander-mexico-en-el-radar-global/",
@@ -44,6 +253,17 @@
     "light": true
   },
   {
+    "title": "Mapfre, a los primeros cinco lugares",
+    "summary": "Mapfre, que en México presiden Miguel Aguilera Verduzco y Alberto Berges, redoblará estrategias para ubicarse entre las cinco mayores aseguradoras del mundo en salud, vida, autos, fianzas y daños.",
+    "link": "https://www.eleconomista.com.mx/opinion/mapfre-primeros-cinco-lugares-20261117-844319.html",
+    "source": "El Economista",
+    "published": "2026-11-17T06:02:12-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
     "summary": "An FT investigation based on millions of leaked documents describes chaos inside Germany's biggest bank. It scrutinizes Christian Sewing's leadership of the scandal-hit lender.",
     "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
@@ -62,6 +282,17 @@
     "published": "2026-11-17T06:00:06+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Epstein’s dealings with Deutsche were far larger than previously known",
+    "summary": "Internal documents show Jeffrey Epstein's dealings with Deutsche Bank were substantially larger than previously known. The revelation adds to conduct and governance pressure on the lender.",
+    "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-17T06:00:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
     "language": "en",
     "light": true
   },
@@ -85,6 +316,17 @@
     "category": "Capital Markets & M&A",
     "relevance_score": 65,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Adeuda 388 mmdp Pemex a la banca",
+    "summary": "Pemex adeuda 388 mil millones de pesos a decenas de bancos y entidades financieras de EU, México y otros países, según su reporte financiero más reciente. Relevante para la exposición del sistema bancario a la petrolera.",
+    "link": "https://www.reforma.com/adeuda-388-mmdp-pemex-a-la-banca/ar3315882",
+    "source": "Reforma",
+    "published": "2026-11-17T05:00:59-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
     "light": true
   },
   {
@@ -5256,247 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
-    "summary": "Months of unease over Wall Street's AI boom erupted into a global market convulsion this week, with a $5.7 trillion rout opening a dangerous new chapter for the AI investment frenzy that has powered stocks, corporate spending and growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
-    "source": "Bloomberg",
-    "published": "2026-11-06T21:23:32+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nasdaq y S&P 500 rebotan tras desplome tecnológico, pero persisten las dudas sobre la IA",
-    "summary": "Wall Street cerró al alza el viernes con el rebote de los semiconductores tras el desplome tecnológico del jueves, el mayor del Nasdaq 100 desde marzo de 2020. Un sólido informe de empleo reforzó las apuestas por alzas de tasas de la Fed.",
-    "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-desplome-tecnologico-mientras-dato-de-empleo-refuerza-apuestas-por-subir-las-tasas/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-06T21:06:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-    "summary": "Anthropic, the maker of Claude, intends to press ahead with its IPO and list before Thanksgiving, targeting a $1.5tn valuation despite a brutal tech rout. The report is based on the FT headline blurb only.",
-    "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-06T21:00:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
-    "summary": "OpenAI has closed roughly $11 billion of new funding, the first part of a round valuing it at $1.25 trillion. The rest, potentially up to $20 billion in total, is expected to close in the coming weeks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-    "source": "Bloomberg",
-    "published": "2026-11-06T20:58:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brookfield CEO Says Infrastructure Is Growing Fastest",
-    "summary": "Brookfield Asset Management levantó US$25,000 millones en el tercer trimestre, impulsado por crédito e infraestructura, y se posiciona como financiador clave de la expansión de la IA.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/brookfield-ceo-says-infrastructure-is-growing-fastest-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T20:57:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las claves económicas de la semana (2 al 6 de noviembre): De decisión del Banxico e inversión fija",
-    "summary": "Resumen semanal de la economía mexicana: decisión de Banxico, remesas y confianza empresarial, además de elecciones y empleo en EU. Los analistas elevaron por cuarto mes consecutivo su pronóstico de crecimiento.",
-    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-2-6-noviembre-decision-banxico-e-inversion-fija-20261106-842679.html",
-    "source": "El Economista",
-    "published": "2026-11-06T20:34:25-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo",
-    "summary": "Rep. Sam Liccardo (D-CA) says Congress has issued many press releases on tech but passed little, and that it is time to move forward with 'sensible' AI regulation.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/time-to-move-forward-on-sensible-ai-regulation-liccardo-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T20:09:16+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout",
-    "summary": "Selling by trend-following systematic funds amplified a record plunge in Nasdaq 100 market value on Thursday, as investors rushed out of US tech stocks.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/how-fast-money-systematic-funds-stoked-2-3t-tech-rout-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T18:49:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-    "summary": "Anthropic's IPO plans have collided with a sharp post-election selloff in AI stocks, and prospective investors are rethinking the expected valuation, which could fall as low as $1.2 trillion. Investors face a weekend of uncertainty before pricing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-investors-weigh-valuation-as-low-as-1-2t-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T18:47:46+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jobs Boom Meets AI Market Turmoil",
-    "summary": "A blowout jobs report fuels expectations of another Fed rate hike while Wall Street reels from a nearly $4 trillion tech selloff and questions about the AI trade. Anthropic's IPO prospects are also discussed.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/open-interest-11-6-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T17:58:27+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Las tecnológicas se desploman en Asia por temor a que EU ponga freno a la IA",
-    "summary": "Las tecnológicas se desploman en Asia ante el temor de que Estados Unidos ponga freno a la inteligencia artificial. El episodio se suma a la turbulencia del sector por las dudas sobre la IA.",
-    "link": "https://expansion.mx/mercados/2026/11/06/las-tecnologicas-se-desploman-en-asia-por-temor-a-que-eu-ponga-freno-a-la-ia",
-    "source": "Expansión",
-    "published": "2026-11-06T17:44:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-    "summary": "Microsoft is winding down an arrangement to rent AI computing capacity from Oracle. It is part of a broader reassessment of billions of dollars in cloud partnerships.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
-    "source": "Bloomberg",
-    "published": "2026-11-06T17:36:39+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
-    "summary": "Advierten que un nuevo IEPS a teléfonos y memorias, el llamado 'moche digital', es anacrónico.",
-    "link": "https://expansion.mx/tecnologia/2026/11/06/proximo-celular-podria-costar-mas-nuevo-ieps-celulares-laptops",
-    "source": "Expansión",
-    "published": "2026-11-06T17:08:19+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apollo’s Brightspeed in Creditor Talks for Billions in New Money",
-    "summary": "Apollo-backed Brightspeed is in talks with creditors on a multibillion-dollar funding lifeline as it struggles with heavy debt from its fiber rollout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/apollo-s-brightspeed-in-creditor-talks-for-billions-in-new-money",
-    "source": "Bloomberg",
-    "published": "2026-11-06T17:00:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Brookfield’s Teskey Calls ‘Social License’ Crucial for AI Growth",
-    "summary": "Brookfield CEO Connor Teskey says getting buy-in from local communities is crucial before building AI infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-s-teskey-calls-social-license-crucial-for-ai-growth",
-    "source": "Bloomberg",
-    "published": "2026-11-06T16:50:58+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Multiple Fed Rate Hikes Reasonable, Pimco's Wilding Says",
-    "summary": "Pimco's Tiffany Wilding says the jobs report doesn't change her view of a Fed hike in December, and another in March is possible, calling the moves a recalibration.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/multiple-fed-rate-hikes-reasonable-pimco-s-wilding-says-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T16:22:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Spain’s ACS Weighs Hochtief Takeover and Turner US Listing",
-    "summary": "Spain's ACS is weighing strategic options for its German subsidiary Hochtief, including a potential takeover, and a US listing for Turner.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/spain-s-acs-weighs-hochtief-takeover-and-turner-us-listing",
-    "source": "Bloomberg",
-    "published": "2026-11-06T16:15:25+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dólar en Paraguay apunta a su mayor subida semanal en 28 años por crisis política y de Ueno Bank",
-    "summary": "El guaraní va hacia su mayor depreciación semanal frente al dólar desde febrero de 1998, cerca de 9%, por la crisis de Ueno Bank y la incertidumbre política en torno al presidente Peña.",
-    "link": "https://www.bloomberglinea.com/mercados/dolar-en-paraguay-apunta-a-su-mayor-subida-semanal-en-28-anos-por-crisis-politica-y-de-ueno-bank/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-06T15:58:21+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿La otra perdedora de las elecciones en EU? La IA: Futuro de centros de datos luce incierto",
-    "summary": "Tras una campaña marcada por el rechazo a los centros de datos de IA, ganaron las elecciones de mitad de mandato muchos demócratas que prometieron endurecer su regulación. Se anticipa un entorno regulatorio más estricto para la industria.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/06/la-otra-perdedora-de-las-elecciones-en-eu-la-ia-futuro-de-centros-de-datos-luce-incierto/",
-    "source": "El Financiero",
-    "published": "2026-11-06T15:08:59+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La caída de Ueno Bank lleva a una avalancha de solicitudes al banco de los Gilinski en Paraguay",
-    "summary": "La intervención de Ueno Bank en Paraguay presiona a otras entidades: Banco GNB Paraguay, del Grupo Gilinski, reportó intermitencias en su app por la alta demanda de apertura de cuentas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-caida-de-ueno-bank-lleva-a-una-avalancha-de-solicitudes-al-banco-de-los-gilinski-en-paraguay/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-06T14:07:32+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-    "summary": "XN has built a $5.3bn stake in Anthropic through private-round investments. The low-profile Wall Street firm plans to double down despite the tech rout.",
-    "link": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-06T14:01:19+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 on AI Trade Worries",
-    "summary": "US stocks logged their biggest weekly loss since April 2025 on concerns over the AI trade after Democrats swept the US midterm elections.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
-    "source": "Bloomberg",
-    "published": "2026-11-06T12:59:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
   }
 ]
