@@ -1,5 +1,170 @@
 [
   {
+    "title": "Nvidia Faces First Earnings Test Since Huang’s Exit",
+    "summary": "Nvidia reports for the first time since Jensen Huang's surprise departure, putting its 70% growth outlook and the AI trade in focus. JPMorgan Asset Management's Stephanie Aliaga argues compute demand remains intact and notes Anthropic's IPO could give public investors a new window into AI economics.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-faces-first-earnings-test-since-huang-s-exit-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T19:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Scandal Has Raised ‘Red Flags,’ California AG Says",
+    "summary": "California Attorney General Rob Bonta said his office is looking into aspects of the scandal engulfing Nvidia and its former CEO Jensen Huang, citing 'red flags'.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says",
+    "source": "Bloomberg",
+    "published": "2026-11-17T18:43:11+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Why startups still go public, eventually",
+    "summary": "The Economist argues that costly regulation is not a big deterrent to IPOs, and that startups still go public eventually.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+    "source": "The Economist",
+    "published": "2026-11-17T18:38:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jensen Huang reconoce que está dispuesto a regresar como CEO de Nvidia: ‘Será un honor volver’",
+    "summary": "Jensen Huang admitió la responsabilidad de sus errores y dijo que volvería como director ejecutivo de Nvidia si el Consejo lo considera lo mejor para accionistas y empleados. Es su primer mensaje desde que dimitió el jueves pasado.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/17/jensen-huang-reconoce-que-esta-dispuesto-a-regresar-como-ceo-de-nvidia-sera-un-honor-volver/",
+    "source": "El Financiero",
+    "published": "2026-11-17T18:05:53+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nvidia to Face Its New AI Reality",
+    "summary": "Nvidia reports without Jensen Huang as the tech trade faces fresh pressure, while Home Depot kicks off retail earnings and Disney beats expectations. Demand for Anthropic's IPO is pushing pricing to the top of the range or higher.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/open-interest-11-17-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T17:56:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
+    "summary": "OpenAI is releasing a new version of its most advanced Astra AI model. It comes nearly two months after the company scrapped a prior update to establish stronger safeguards.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
+    "source": "Bloomberg",
+    "published": "2026-11-17T17:45:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan Warns Leveraged-Loan Defaults Set to Double in 2027",
+    "summary": "JPMorgan analysts expect leveraged-loan defaults to more than double to 4.5% next year, levels not seen since 2024, as heavily indebted companies face mounting financial pressure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/jpmorgan-warns-leveraged-loan-defaults-set-to-double-in-2027",
+    "source": "Bloomberg",
+    "published": "2026-11-17T17:26:02+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso abre con ganancias... pero espera reporte de Nvidia: ¿Cómo opera el tipo de cambio HOY?",
+    "summary": "El peso inicia la sesión con ganancias y el tipo de cambio opera alrededor de 18.50 pesos por dólar. El mercado espera nueva información económica y el reporte de Nvidia.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/17/peso-dolar-tipo-de-cambio-precio-hoy-17-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-17T17:21:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mark Walter’s Largest Insurer Sees Sales Plunge After US Probe",
+    "summary": "Annuity sales at Mark Walter's largest insurance company dropped after a federal investigation into the firm's accounting practices became public.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe",
+    "source": "Bloomberg",
+    "published": "2026-11-17T17:11:07+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Venta de acciones tech golpea a bolsas globales: Nvidia y Anthropic influyen en extender caída",
+    "summary": "Las bolsas globales cayeron ante la cautela por los resultados de Nvidia, la expectativa del debut bursátil de Anthropic y las dudas persistentes sobre la inteligencia artificial. El Nasdaq retrocedió 2.49%, el S&P 500 1.92% y el Dow Jones 1.41%.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/17/venta-de-acciones-tech-golpea-a-bolsas-globales-nvidia-y-antrhopic-influyen-en-extender-caida/",
+    "source": "El Financiero",
+    "published": "2026-11-17T16:36:45+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Compute Futures Aim to Hedge AI Risks",
+    "summary": "Silicon Data and Compute Exchange CEO Carmen Li explains how compute futures could let financiers and AI companies hedge shifting GPU costs and supply risks.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/compute-futures-aim-to-hedge-ai-risks-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T16:22:39+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "2026 is Year Where the 'AI Boom Became Debt Finance,' Says Wigglesworth",
+    "summary": "FT columnist Robin Wigglesworth argues 2026 is the year the AI boom became a debt-financed story. He discusses his book \"A Fabulous Debt\" and how bond markets have evolved.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T16:06:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Consumer Strain Meets AI’s Reality Check",
+    "summary": "Meredith Whitney says consumers face tough choices as housing and food costs stay high and lending tightens. She also discusses questions over chip demand, delayed data centers and circular financing, and whether AI risks could spread through banks and the broader economy.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/consumer-strain-meets-ai-s-reality-check-video",
+    "source": "Bloomberg",
+    "published": "2026-11-17T15:54:48+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Top AI Models Regularly Identify Civilians as Military Targets in Tests",
+    "summary": "An independent research report found that advanced AI models in simulated scenarios regularly misidentified civilians, ambulances, surrendering soldiers and a school as military targets. The findings add to concerns about model risk and AI governance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests",
+    "source": "Bloomberg",
+    "published": "2026-11-17T15:00:38+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+    "summary": "SpaceX may begin part of a $40 billion debt sale to fund purchases of AI chips as soon as this week, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+    "source": "Bloomberg",
+    "published": "2026-11-17T14:53:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "México enfrenta trabas para atraer centros de datos de IA",
     "summary": "Brasil tiene 225 centros de datos y México apenas 71. Pese a su cercanía con EE.UU., una red eléctrica débil y retrasos en permisos amenazan con dejar al país al margen del auge de inversión en infraestructura de IA.",
     "link": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia",
@@ -31,6 +196,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Salario mínimo subiría a 10,700 pesos al mes en 2027: IMCP",
+    "summary": "El IMCP estima que el salario mínimo general subiría entre 12% y 13% en 2027, a entre 352 y 355 pesos diarios, unos 10,700 pesos al mes. La Conasami sesionará de forma permanente la próxima semana y deberá definir el aumento a más tardar el 1 de diciembre.",
+    "link": "https://www.eleconomista.com.mx/capital-humano/salario-minimo-subiria-10-700-pesos-mes-2027-imcp-20261117-844388.html",
+    "source": "El Economista",
+    "published": "2026-11-17T12:37:39-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Fed’s Musalem Says ‘Several’ Rate Hikes Likely Needed by Spring",
@@ -198,6 +374,17 @@
     "light": false
   },
   {
+    "title": "Modern and Mexican: Mario Pani’s CUPA Housing Complex in Mexico City",
+    "summary": "In 1947 Mario Pani proposed a 13-story complex with more than a thousand apartments and extensive green and communal spaces instead of 200 houses for government employees in Colonia del Valle. Drawing on Le Corbusier, the CUPA complex became a landmark of modern Mexican housing.",
+    "link": "https://www.archdaily.com/1188165/modern-and-mexican-mario-panis-cupa-housing-complex-in-mexico-city",
+    "source": "ArchDaily",
+    "published": "2026-11-17T07:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Gerentes adoptan más la Inteligencia Artificial que el resto de los empleados",
     "summary": "Un estudio de Hogan Assessments con 648 trabajadores encontró que los gerentes perciben la IA como más útil y fácil de usar, y la usan con mayor frecuencia que los empleados sin puesto gerencial. La adopción varía según personalidad y nivel jerárquico.",
     "link": "https://www.eleconomista.com.mx/el-empresario/gerentes-adoptan-inteligencia-artificial-resto-empleados-20261117-844007.html",
@@ -319,6 +506,17 @@
     "light": true
   },
   {
+    "title": "Es México campeón... ¡de la informalidad!",
+    "summary": "México tiene una tasa de informalidad laboral 6.2 veces más alta que el promedio de las economías avanzadas, según datos del Inegi y la OIT.",
+    "link": "https://www.reforma.com/es-mexico-campeon-de-la-informalidad/ar3315883",
+    "source": "Reforma",
+    "published": "2026-11-17T05:01:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "Adeuda 388 mmdp Pemex a la banca",
     "summary": "Pemex adeuda 388 mil millones de pesos a decenas de bancos y entidades financieras de EU, México y otros países, según su reporte financiero más reciente. Relevante para la exposición del sistema bancario a la petrolera.",
     "link": "https://www.reforma.com/adeuda-388-mmdp-pemex-a-la-banca/ar3315882",
@@ -437,6 +635,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 74,
     "language": "en",
+    "light": true
+  },
+  {
+    "title": "Presenta Sheinbaum el Plan México ante empresarios de APEC",
+    "summary": "Sheinbaum presentó el Plan México ante empresarios de APEC y afirmó que el país ofrece certidumbre para invertir y un modelo propio de desarrollo.",
+    "link": "https://www.reforma.com/presenta-sheinbaum-el-plan-mexico-ante-empresarios-de-apec/ar3315863",
+    "source": "Reforma",
+    "published": "2026-11-16T22:16:03-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
     "light": true
   },
   {
@@ -5287,215 +5496,6 @@
     "published": "2026-11-07T14:42:06+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
-    "summary": "Candidatos que favorecen una supervisión más estricta de la IA lograron victorias clave en el Congreso, apoyados por un grupo pro-regulación financiado en parte por Anthropic, en medio de creciente inquietud pública sobre la tecnología.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
-    "source": "Bloomberg",
-    "published": "2026-11-07T14:30:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tu mango con chile va con IA de la que pica: Así usa Tajín la inteligencia artificial",
-    "summary": "Tajín usa inteligencia artificial para atender los reclamos de clientes y distribuidores, en una historia de adopción de IA en una empresa mexicana tradicional.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/07/tu-mango-con-chile-va-con-ia-de-la-que-pica-asi-usa-tajin-la-inteligencia-artificial/",
-    "source": "El Financiero",
-    "published": "2026-11-07T13:45:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Jobs Surge Raises Odds of December Fed Hike",
-    "summary": "El sólido informe de empleo de octubre en EU refuerza el argumento para otra alza de tasas de la Fed en diciembre, según la economista jefe de Bloomberg Economics para EU.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
-    "source": "Bloomberg",
-    "published": "2026-11-07T13:16:33+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-    "summary": "With Democrats set to control Congress, crypto faces tougher rules and closer scrutiny of its ties to President Trump. The industry's run of political good fortune has ended.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
-    "source": "Bloomberg",
-    "published": "2026-11-07T13:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Trade Faces a Post-Election Reality Check",
-    "summary": "A Bloomberg program discusses the sharp post-election tech selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video",
-    "source": "Bloomberg",
-    "published": "2026-11-07T12:50:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Afore XXI Banorte se corona como la reina en las cuentas del SAR",
-    "summary": "Afore XXI Banorte se consolidó como la administradora con más cuentas en el SAR tras ganar la licitación para ser la nueva prestadora de servicios del sistema. Desplazó a Afore Azteca, líder desde 2018, que cayó al quinto lugar.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/afore-xxi-banorte-corona-reina-cuentas-sar-20261107-842651.html",
-    "source": "El Economista",
-    "published": "2026-11-07T12:30:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Qué lecciones deja la crisis de Ueno Bank en Paraguay para los ahorradores mexicanos?",
-    "summary": "La intervención de Ueno Bank, iniciada el 3 de noviembre, deja lecciones para los ahorradores mexicanos: tener dinero en el banco no siempre significa poder disponerlo de inmediato. La protección al ahorro tiene límites claros, aunque existan mecanismos legales.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/lecciones-deja-crisis-ueno-bank-paraguay-ahorradores-mexicanos-20261107-842702.html",
-    "source": "El Economista",
-    "published": "2026-11-07T12:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Te ofrecieron invertir con Barclays México por WhatsApp? Esto advierte la Condusef",
-    "summary": "La Condusef alertó sobre suplantación de identidad de Barclays México mediante falsas ofertas de inversión que circulan por redes sociales y WhatsApp. Advierte a los usuarios para evitar fraudes.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/te-ofrecieron-invertir-barclays-mexico-whatsapp-esto-advierte-condusef-20261107-842692.html",
-    "source": "El Economista",
-    "published": "2026-11-07T10:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México puede ganar terreno con el auge de la IA y la reconfiguración comercial: Citi",
-    "summary": "Citi Research ve oportunidades para que México amplíe su participación en las cadenas de suministro de Norteamérica, aproveche el auge de la IA y atraiga inversión en manufactura, energía e infraestructura ante la reconfiguración del comercio global.",
-    "link": "https://www.eleconomista.com.mx/economia/mexico-ganar-terreno-auge-ia-reconfiguracion-comercial-citi-20261107-842423.html",
-    "source": "El Economista",
-    "published": "2026-11-07T10:00:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Una buena calificación crediticia significa que manejo bien mis finanzas? No necesariamente",
-    "summary": "Explica que un buen reporte y score crediticio miden el cumplimiento de pagos, pero no implican necesariamente una buena gestión de las finanzas personales. Útil como contexto sobre tendencias de crédito al consumidor.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/buena-calificacion-crediticia-significa-manejo-mis-finanzas-necesariamente-20261107-841996.html",
-    "source": "El Economista",
-    "published": "2026-11-07T10:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
-    "summary": "SoftBank y ABB evalúan separar la parte china de su gran acuerdo de robótica para salvar una transacción bloqueada por Beijing, según fuentes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
-    "source": "Bloomberg",
-    "published": "2026-11-07T08:39:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Wall Street’s all-in bet on AI blew up",
-    "summary": "US midterm elections triggered a hedge fund and retail investor exodus from the AI trade that had come to dominate equity markets. Summary based on the headline blurb only.",
-    "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-07T05:00:31+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Why does America hate AI?",
-    "summary": "FT asks why America hates AI: voter hostility to Big Tech shaped the midterms, and similar fears are spreading in the West, while attitudes in the East are far more optimistic. Based on the blurb only.",
-    "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-07T05:00:13+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banxico: ‘una sorpresa no tan sorprendente’",
-    "summary": "El columnista Víctor Piz analiza la decisión de Banxico de recortar 25 pb la tasa a 6.25% con votación 3 a 2, justificada por la desinflación, la ausencia de presiones de demanda y la holgura económica. Sostiene que la sorpresa no fue tan grande dadas las señales previas de la Junta.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/06/banxico-una-sorpresa-no-tan-sorprendente/",
-    "source": "El Financiero",
-    "published": "2026-11-07T04:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "México en la sala de espera: por qué el inversionista que entiende las reglas puede llegar antes",
-    "summary": "México captó 34,968 mdd de inversión extranjera directa en el primer semestre de 2026, pero 88.5% fue reinversión de utilidades y las nuevas inversiones sumaron solo 2,726 mdd, con anuncios 55% menores. El autor sostiene que quien entiende las reglas puede llegar antes.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/06/mexico-en-la-sala-de-espera-por-que-el-inversionista-que-entiende-las-reglas-puede-llegar-antes/",
-    "source": "El Financiero",
-    "published": "2026-11-07T03:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Te exigen resultados, pero deciden por ti",
-    "summary": "Una columna sobre gobierno corporativo en empresas familiares: cuando el dueño revoca decisiones del director sin pasar por el consejo, se erosiona la autoridad del directivo. Plantea que propietarios, consejo y dirección necesitan roles claros.",
-    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/11/06/te-exigen-resultados-pero-deciden-por-ti/",
-    "source": "El Financiero",
-    "published": "2026-11-07T03:00:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
-    "summary": "A top executive at Groq has kicked off a bid to double its valuation to about $8 billion in roughly three months amid the AI selloff, criticizing rivals for relying too heavily on debt markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
-    "source": "Bloomberg",
-    "published": "2026-11-06T23:13:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Selloff Exposes Data Center Boom Risks",
-    "summary": "The AI stock selloff adds uncertainty to the US data center buildout; AIB Data Centers' CFO says financing could get costlier and slower as lenders reassess risk, though she expects the rout to prove temporary.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-11-06T22:39:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
-    "summary": "Moody's advierte que la quiebra de Ueno Bank expone fallas de supervisión y corrupción en el sistema financiero de Paraguay. Resumen basado solo en el titular.",
-    "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
-    "source": "Expansión",
-    "published": "2026-11-06T22:10:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
     "language": "es",
     "light": false
   }
