@@ -1,5 +1,192 @@
 [
   {
+    "title": "US Was Warned of Telecoms Risk Years Before Salt Typhoon Hack",
+    "summary": "US officials were warned years before the Salt Typhoon hack about the 'perilous' state of telecom networks, and CISA fought to block release of the report.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-was-warned-of-telecoms-risk-years-before-salt-typhoon-hack",
+    "source": "Bloomberg",
+    "published": "2026-11-19T13:00:14+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Investor Says IPO Sets New Benchmark for AI",
+    "summary": "Pegasus Tech Ventures CEO Anis Uzzaman, an Anthropic investor, argues the company's enterprise-focused model offers a long runway for growth. He says its public debut could set a new valuation benchmark for the AI industry.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video",
+    "source": "Bloomberg",
+    "published": "2026-11-19T12:57:15+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Draws 'Massive Enthusiasm' From Investors: Ludlow & Bloxham",
+    "summary": "Anthropic and its co-founders raised a record $107.3 billion in an upsized IPO and private placement, pricing at $83 per share, above the $70–78 marketed range. It is the first frontier AI lab to tap public markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video",
+    "source": "Bloomberg",
+    "published": "2026-11-19T12:39:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO",
+    "summary": "Anthropic paid $550 million in fees to the Wall Street banks running its IPO. That exceeds what banks earned on SpaceX, the previous record holder for largest debut.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-19T12:06:32+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic debuta hoy en Wall Street con una OPI histórica: precio, valoración y riesgos",
+    "summary": "Anthropic, creadora de Claude, debuta este jueves en Wall Street tras fijar su OPI en US$83 por acción, por encima del rango inicial, en la mayor oferta pública inicial de la historia. El estreno coincide con una caída reciente de las acciones tecnológicas y pondrá a prueba su valoración.",
+    "link": "https://www.bloomberglinea.com/mercados/anthropic-debuta-hoy-en-wall-street-con-una-opi-historica-precio-valoracion-y-riesgos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-19T12:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Boom tecnológico dispara demanda inmobiliaria",
+    "summary": "El portafolio de data centers creció 41.3% en América Latina en el último año, frente a 33% en Estados Unidos, impulsado por la adopción de IA. La demanda supera la oferta y presiona la disponibilidad de infraestructura inmobiliaria en México.",
+    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/11/19/boom-tecnologico-dispara-demanda-inmobiliaria/",
+    "source": "El Financiero",
+    "published": "2026-11-19T12:00:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
+    "summary": "Nu y Plata compiten por captar a usuarios jóvenes con tarjetas de crédito. La nota advierte sobre los altos costos de estos productos y el riesgo de morosidad en este segmento.",
+    "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
+    "source": "Expansión",
+    "published": "2026-11-19T11:55:50+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Promoción, percepción de inseguridad y sargazo, principales problemas del turismo mexicano",
+    "summary": "El CNET, presidido por Antonio Cosío Pando (Grupo Brisas), identifica la falta de promoción, la percepción de inseguridad y el sargazo como los principales problemas del turismo en México. El sector pidió fondos en el Presupuesto federal para atenderlos.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gustavo-armenta/2026/11/19/promocion-percepcion-de-inseguridad-y-sargazo-principales-problemas-del-turismo-mexicano/",
+    "source": "El Financiero",
+    "published": "2026-11-19T11:30:00+00:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Economy Struggles to Measure AI’s True GDP Impact in Real Time",
+    "summary": "A new experimental US measure shows AI is reshaping the economy, but it can only capture the effect retrospectively, leaving policymakers without real-time data on AI's GDP impact.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/us-economy-struggles-to-measure-ai-s-true-gdp-impact-in-real-time",
+    "source": "Bloomberg",
+    "published": "2026-11-19T11:28:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Y si los edificios comenzaran a construirse solos?",
+    "summary": "Investigadores del MIT presentaron un sistema experimental que combina robótica y diseño digital para que los edificios se construyan de forma casi autónoma. La columna plantea que el proceso constructivo podría cambiar radicalmente.",
+    "link": "https://www.elfinanciero.com.mx/opinion/raul-asis-monforte-gonzalez/2026/11/19/y-si-los-edificios-comenzaran-a-construirse-solos/",
+    "source": "El Financiero",
+    "published": "2026-11-19T10:58:17+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jack Ma-Backed Ant’s Profit Rose 27% After Fair Value Gains",
+    "summary": "Ant Group's profit rose 27% on fair value gains, partly offset by its investments in artificial intelligence technology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/jack-ma-backed-ant-s-profit-rose-27-after-fair-value-gains",
+    "source": "Bloomberg",
+    "published": "2026-11-19T10:42:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS Plans to Shift Hundreds of Roles to India in Offshoring Push",
+    "summary": "UBS plans to move hundreds of group-function roles from Europe to India as it rationalizes operations and cuts costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
+    "source": "Bloomberg",
+    "published": "2026-11-19T10:28:44+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "IMF Chief Sees ‘Little Bit More’ AI Correction, Debt Risk Rise",
+    "summary": "IMF chief Kristalina Georgieva expects 'perhaps a little bit more correction' in AI-related markets and sees rising debt risks, speaking on the sidelines of the APEC summit.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-19/imf-chief-little-bit-more-ai-correction-debt-risk-rise-video",
+    "source": "Bloomberg",
+    "published": "2026-11-19T10:05:20+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bond yields are rising everywhere—except China",
+    "summary": "Bond yields are rising around the world except in China, where the central bank has cut interest rates.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+    "source": "The Economist",
+    "published": "2026-11-19T10:04:37+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI is swallowing maths. Is economics next?",
+    "summary": "The Economist looks at how AI is rapidly transforming mathematics research and asks whether economics is next to face disruption.",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "source": "The Economist",
+    "published": "2026-11-19T10:01:25+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Créditos hipotecarios: crece el interés por comprar propiedades más que alquilar y cambia el mapa de la demanda",
+    "summary": "En Argentina crece el interés por comprar vivienda en lugar de rentar y los créditos hipotecarios recuperan protagonismo. El gobierno de Milei realizó una tercera licitación de fondos del FGS de ANSES para bancos, con cambios para incentivar la demanda hipotecaria.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/creditos-hipotecarios-crece-el-interes-por-comprar-propiedades-en-vez-de-alquilar-y-cambia-el-mapa-de-la-demanda/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-19T09:00:00+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Investec Retreats as UK Costs Offset First-Half Profit Gains",
+    "summary": "Investec shares fell the most in six years in Johannesburg after first-half results showed rising costs and weaker profitability in its UK business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
+    "source": "Bloomberg",
+    "published": "2026-11-19T07:22:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 61,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Ciberataques o vulnerabilidades?",
     "summary": "Del 12 al 17 de noviembre, EU acumuló fallas tecnológicas en servicios críticos: Microsoft tuvo interrupciones de casi 24 horas, se suspendieron despegues en todo el país y una falla de JPMorgan Chase afectó a otros bancos. La columna plantea si se trata de ciberataques o de vulnerabilidades sistémicas.",
     "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/19/ciberataques-o-vulnerabilidades/",
@@ -7,6 +194,17 @@
     "published": "2026-11-19T06:40:07+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El BCE alerta sobre deficiencias de ciberseguridad en los bancos de la zona euro",
+    "summary": "El BCE informó que el 96% de los grandes bancos de la zona euro recibió calificaciones mediocres o deficientes en gestión de riesgos operativos y de TI. Los supervisores pondrán especial atención a ataques basados en inteligencia artificial en los próximos dos años.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/bce-alerta-sobre-deficiencias-ciberseguridad-bancos-zona-euro-20261119-844746.html",
+    "source": "El Economista",
+    "published": "2026-11-19T06:32:16-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
     "language": "es",
     "light": false
   },
@@ -231,6 +429,17 @@
     "light": false
   },
   {
+    "title": "Grupo BMV vuelve al consejo de la Federación Mundial de Bolsas",
+    "summary": "Grupo BMV regresó al consejo de la Federación Mundial de Bolsas (WFE).",
+    "link": "https://expansion.mx/mercados/2026/11/18/grupo-bmv-vuelve-consejo-federacion-mundial-bolsas",
+    "source": "Expansión",
+    "published": "2026-11-18T21:26:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Corporate spin-offs are getting out of control",
     "summary": "The Economist warns corporate spin-offs are proliferating; some are enormously successful, but certainly not all.",
     "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
@@ -253,6 +462,17 @@
     "light": true
   },
   {
+    "title": "Dólar en México: peso se deprecia hasta MXN$18,88 ante posibles alzas de la Fed",
+    "summary": "El peso mexicano se depreció hasta 18.88 por dólar, una caída diaria de 2.5%, tras las minutas de la Fed que anticipan alzas de tasas en los próximos meses. Fue la moneda más depreciada en una canasta de 16 divisas.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-18T20:56:13+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Salinas Pliego evalúa sustituir a los cajeros de Banco Azteca por máquinas ante reducción de la jornada laboral",
     "summary": "Ricardo Salinas Pliego evalúa sustituir a los cajeros de Banco Azteca por máquinas ante la reducción de la jornada laboral. Ejemplo de automatización en la banca mexicana impulsada por cambios regulatorios laborales.",
     "link": "https://expansion.mx/carrera/2026/11/18/salinas-pliego-sustitucion-cajeros-jornada-40-horas",
@@ -260,6 +480,17 @@
     "published": "2026-11-18T20:08:53+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores, advierte KPMG",
+    "summary": "KPMG advierte que las empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores.",
+    "link": "https://expansion.mx/economia/2026/11/18/empresas-2027-mayores-pagos-provisionales-isr-2-veces",
+    "source": "Expansión",
+    "published": "2026-11-18T19:18:37+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -416,6 +647,17 @@
     "relevance_score": 75,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Kaybe Tulum - Multisensorial Park / Arquitectura Mixta",
+    "summary": "Kaybé es un parque multisensorial en la selva de Tulum, diseñado por Arquitectura Mixta, con una secuencia de estructuras escultóricas de bambú que exploran la relación entre naturaleza, energía y percepción humana.",
+    "link": "https://www.archdaily.com/1188847/kaybe-tulum-multisensorial-park-arquitectura-mixta",
+    "source": "ArchDaily",
+    "published": "2026-11-18T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Higher Rates to Push Firms to Private Credit as Stress Rises",
@@ -5256,247 +5498,5 @@
     "relevance_score": 62,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-    "summary": "Anthropic, the maker of Claude, is seeking a fully diluted valuation of about $1.4 trillion in its IPO, which would make it the first frontier AI lab to go public. The offering is described as one of the largest ever.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
-    "source": "Bloomberg",
-    "published": "2026-11-10T11:40:56+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Agents Have Yet to Disrupt Uber, DoorDash or Online Travel",
-    "summary": "Consumer adoption of AI agents is lagging for lack of trust and usefulness. The piece notes agents have not yet disrupted Uber, DoorDash or online travel platforms.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel",
-    "source": "Bloomberg",
-    "published": "2026-11-10T11:28:43+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Blackstone to Buy 15.5% of IIFL Finance in $532 Million India Bet",
-    "summary": "Blackstone will buy a 15.57% stake in Indian shadow lender IIFL Finance for about $532 million. The deal deepens its push into India's financial sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/blackstone-to-buy-15-5-of-iifl-finance-in-532-million-india-bet",
-    "source": "Bloomberg",
-    "published": "2026-11-10T11:07:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Fed de Nueva York encuentra que niveles de deuda en situación de riesgo aumentan en 3T",
-    "summary": "La Fed de Nueva York reportó que los préstamos con algún problema subieron a 5% en el 3T, 0.3 puntos más que el trimestre previo, aunque la morosidad sigue en niveles prepandemia. La transición a morosidad temprana aumentó en hipotecas y créditos automotrices, mientras mejoró en tarjetas y préstamos estudiantiles.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fed-nueva-york-encuentra-niveles-deuda-situacion-riesgo-aumentan-3t-20261110-843169.html",
-    "source": "El Economista",
-    "published": "2026-11-10T11:02:23-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank slumps to $7bn loss on US data centre writedown",
-    "summary": "SoftBank reportó una pérdida de $7 mil millones, su primer trimestre con pérdida en casi dos años, por una cancelación en proyectos de centros de datos en EE.UU. La empresa atribuye el ajuste a requisitos cambiantes.",
-    "link": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-10T10:55:57+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Banks Prep £1.8 Billion Debt Financing to Back TDR’s OCU Deal",
-    "summary": "Los bancos alistan un financiamiento de deuda de £1.8 mil millones para respaldar la compra de OCU Group por TDR Capital. También preparan una venta de la deuda.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
-    "source": "Bloomberg",
-    "published": "2026-11-10T10:49:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
-    "summary": "The 'marry the house, date the rate' advice promoted since rates began rising in 2022 is backfiring for homeowners stuck with high-rate mortgages. Refinancing has not arrived as expected.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
-    "source": "Bloomberg",
-    "published": "2026-11-10T10:30:28+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Filing Misstep Adds Drama Ahead of IPO",
-    "summary": "A leaked prospectus briefly showed a mistaken $69.3 billion fundraising figure in Monday's clerical misstep. Anthropic is still set to begin formal IPO marketing as early as Tuesday.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-filing-misstep-adds-drama-ahead-of-ipo-video",
-    "source": "Bloomberg",
-    "published": "2026-11-10T09:52:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El 37% de las empresas mexicanas detecta brechas en las capacidades de sus CEOs",
-    "summary": "El 37% de las empresas mexicanas detecta brechas en las capacidades de sus CEOs, según el informe de Heidrick & Struggles. Las empresas buscan innovar pero no han cambiado la forma en que lideran.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/37-empresas-mexicanas-detecta-brechas-capacidades-ceos-20261110-842661.html",
-    "source": "El Economista",
-    "published": "2026-11-10T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banxico podría llevar a cabo otro recorte",
-    "summary": "Una columna analiza el recorte de 25 pb de Banxico a 6.25% decidido por mayoría de la Junta de Gobierno la semana pasada. Busca explicar por qué se hizo, si fue un acierto y si podría haber otro recorte.",
-    "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/11/10/banxico-podria-llevar-a-cabo-otro-recorte/",
-    "source": "El Financiero",
-    "published": "2026-11-10T06:50:45+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic to Formally Market IPO After Filing Misstep",
-    "summary": "Anthropic is set to begin formal marketing of its IPO as early as Tuesday, after an apparent snafu in the filing documents added last-minute drama to a nervous market.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video",
-    "source": "Bloomberg",
-    "published": "2026-11-10T06:38:45+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 92,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
-    "summary": "SoftBank reportó su primera pérdida neta en casi dos años tras una cancelación de $3.7 mil millones en un proyecto de centros de datos en EU, en medio de dudas sobre la sostenibilidad del crecimiento de la IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
-    "source": "Bloomberg",
-    "published": "2026-11-10T06:35:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia y el precio del escándalo",
-    "summary": "Enrique Quintana analiza cómo el escándalo de Jensen Huang llevó a Nvidia a perder más de 250 mil mdd de valor de mercado en un día, para cerrar con una caída de unos 190 mil mdd y de 4.3% en la acción.",
-    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/10/nvidia-y-el-precio-del-escandalo/",
-    "source": "El Financiero",
-    "published": "2026-11-10T06:29:23+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Slump Sends Investors Scouring Emerging Markets for Bargains",
-    "summary": "With AI-driven turbulence hitting global equities, stock pickers are zeroing in on emerging markets for relief and bargains.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains",
-    "source": "Bloomberg",
-    "published": "2026-11-10T06:15:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Frenan en EU expansión de centros de datos",
-    "summary": "La expansión de centros de datos en EE.UU. sufrió una derrota en las elecciones recientes, con al menos 44 comunidades que rechazaron su instalación. Esto podría afectar la infraestructura de IA.",
-    "link": "https://www.reforma.com/frenan-en-eu-expansion-de-centros-de-datos/ar3311482",
-    "source": "Reforma",
-    "published": "2026-11-10T05:00:59-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 60,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "No, Brits have not fallen out of love with work",
-    "summary": "FT argues that employees' lower willingness to go above and beyond has a simpler explanation: not enough money and control.",
-    "link": "https://www.ft.com/content/9be099de-58b1-471c-aa05-92622585ffac?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-10T05:00:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Investors pile into defensive stocks amid fears AI bull market may be over",
-    "summary": "Investors are piling into defensive sectors such as consumer staples and healthcare as they fret over future tech earnings and fears the AI bull market may be over.",
-    "link": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-10T05:00:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Diputados aprueban en lo general, el gasto público con el costo financiero más alto desde 1990",
-    "summary": "Diputados aprobaron en lo general un gasto público cuyo costo financiero es el más alto desde 1990, según Expansión. Es relevante para tasas y presión sobre las finanzas públicas.",
-    "link": "https://expansion.mx/economia/2026/11/09/presupuesto-2027-diputados-ine-reasignacion-jalisco",
-    "source": "Expansión",
-    "published": "2026-11-10T04:03:47+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon",
-    "summary": "Anthropic plans a live-streamed event in which CEO Dario Amodei will discuss the company's IPO with JPMorgan Chase CEO Jamie Dimon, according to a person familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon",
-    "source": "Bloomberg",
-    "published": "2026-11-10T03:14:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Australia to Create AI Safety Regulator, Mandatory Rules",
-    "summary": "Australia will create a new AI safety regulator with power to impose significant penalties on companies that do the wrong thing, Prime Minister Anthony Albanese said. Mandatory safety rules will accompany it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
-    "source": "Bloomberg",
-    "published": "2026-11-10T02:26:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ley de Economía digital: México puede reducir a 50% el uso de efectivo, prevé Openbank",
-    "summary": "Openbank prevé que, con la Ley de Economía Digital, México podría reducir a 50% el uso de efectivo. Es una lectura sobre el impacto de la nueva regulación en banca y pagos digitales.",
-    "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-mexico-puede-reducir-a-50-el-uso-de-efectivo-preve-openbank",
-    "source": "Expansión",
-    "published": "2026-11-10T01:50:25+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
-    "summary": "Altimeter Capital, an investor in OpenAI and Anthropic, is targeting a $2.5 billion late-stage venture fund and roughly $800–900 million for another private-markets vehicle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
-    "source": "Bloomberg",
-    "published": "2026-11-10T01:46:11+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
