@@ -1,5 +1,203 @@
 [
   {
+    "title": "DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns",
+    "summary": "DayOne Data Centers has put its multibillion-dollar US IPO on hold, people familiar said, as investors question the sustainability of frothy valuations for AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
+    "source": "Bloomberg",
+    "published": "2026-11-20T05:41:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "So, Anthropic is finally a public company. What now?",
+    "summary": "FT post-mortem of Anthropic's blockbuster IPO, examining what comes next for the newly public Claude maker.",
+    "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+    "source": "Financial Times",
+    "published": "2026-11-20T05:19:35+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Can Nvidia learn from AIG’s mistakes?",
+    "summary": "The FT compares Nvidia's role as the quasi-central bank of AI to AIG's position before the subprime mortgage bubble, asking whether the chip giant can avoid similar systemic mistakes.",
+    "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T05:00:17+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China prepares to restart US private equity investments after pullback",
+    "summary": "China's flagship sovereign wealth fund is leading a push to restart US private equity investments after a pullback, seeking special terms to protect against disaster scenarios.",
+    "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T05:00:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI-fueled Cyberattacks Drive Claims Surge at Japan Insurers",
+    "summary": "Japan's largest property insurers report a sharp jump in cyber insurance claims as AI-driven attacks grow more sophisticated and hacking incidents surge nationwide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers",
+    "source": "Bloomberg",
+    "published": "2026-11-20T04:55:02+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Banxico ajustará sus decisiones por diferencial de tasas con la Fed? Esto dijeron las minutas",
+    "summary": "Las minutas de Banxico muestran que, aunque no está obligado a seguir a la Fed, el diferencial de tasas sí pesa en las decisiones de la Junta de Gobierno. El factor clave son sus posibles efectos sobre el peso y los flujos de inversión.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/19/banxico-ajustara-sus-decisiones-por-diferencial-de-tasas-con-la-fed-esto-dijeron-las-minutas/",
+    "source": "El Financiero",
+    "published": "2026-11-20T01:50:36+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Salario mínimo y depreciación del peso amenazan la baja de la inflación: Heath",
+    "summary": "El subgobernador de Banxico Jonathan Heath advirtió en la convención del IMEF que los aumentos de doble dígito al salario mínimo, la inflación persistente en servicios y la depreciación del peso son riesgos para converger al objetivo de 3%.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/19/salario-minimo-y-depreciacion-del-peso-amenazan-la-baja-de-la-inflacion-heath/",
+    "source": "El Financiero",
+    "published": "2026-11-20T01:22:56+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide",
+    "summary": "Emerging-market stocks are set to enter a bear market as the AI share slide, concerns about rising global interest rates and trade tensions weigh on investor sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+    "source": "Bloomberg",
+    "published": "2026-11-20T01:05:34+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Set for Second-Day Drop as AI Fears Eclipse Record IPO",
+    "summary": "Anthropic shares were headed for a weak open on their second trading day, swept up in a broad market selloff. Fears over the outlook for the AI trade outweighed optimism from the company's record debut.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+    "source": "Bloomberg",
+    "published": "2026-11-20T00:40:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Primero creces, después pagas: así ayuda T1 a digitalizar a los negocios de México",
+    "summary": "Expansión perfila cómo T1 apoya la digitalización de negocios en México bajo un modelo de \"primero creces, después pagas\".",
+    "link": "https://expansion.mx/bespoke-ad/2026/11/19/primero-creces-despues-pagas-asi-ayuda-t1-a-digitalizar-a-los-negocios-de-mexico",
+    "source": "Expansión",
+    "published": "2026-11-19T23:51:17+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Actividad económica habría caído en septiembre; en octubre habría crecido 0.2%: IOAE",
+    "summary": "El Indicador Oportuno de la Actividad Económica del Inegi anticipa que la economía mexicana habría caído en septiembre y crecido apenas 0.2% mensual en octubre, prácticamente estancada.",
+    "link": "https://www.eleconomista.com.mx/economia/actividad-economica-habria-caido-septiembre-octubre-habria-crecido-0-2-ioae-20261119-844936.html",
+    "source": "El Economista",
+    "published": "2026-11-19T23:32:54-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic supera las expectativas de inversionistas en su debut",
+    "summary": "Anthropic, creadora de Claude, recaudó 81,300 millones de dólares en la mayor salida a Bolsa de la historia. Sus acciones abrieron en Nasdaq a 111.50 dólares frente a un precio de oferta de 83, lo que le dio una capitalización cercana a 2 billones de dólares.",
+    "link": "https://www.eleconomista.com.mx/mercados/anthropic-supera-expectativas-inversionistas-debut-20261119-844935.html",
+    "source": "El Economista",
+    "published": "2026-11-19T23:25:38-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Surgen interrogantes sobre la capacidad de Anthropic",
+    "summary": "Anthropic enfrenta dudas sobre su capacidad para sostener un crecimiento acelerado a medida que se intensifica la competencia. Aun así, sus acciones subieron cerca de 20% en el mercado gris según IG Markets y CMC Markets, con volúmenes elevados.",
+    "link": "https://www.eleconomista.com.mx/mercados/surgen-interrogantes-sobre-capacidad-anthropic-20261119-844932.html",
+    "source": "El Economista",
+    "published": "2026-11-19T23:20:06-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic soars, but it may soon be back, cap in hand",
+    "summary": "The Economist argues Anthropic's record IPO is only a starting point. Given its capital needs, the company may soon return to markets for more funding.",
+    "link": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "source": "The Economist",
+    "published": "2026-11-19T23:15:40+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La Fed aumentará las tasas en sus tres siguientes reuniones, prevé J.P. Morgan",
+    "summary": "J.P. Morgan prevé que la Fed suba las tasas 25 pb en diciembre, enero y marzo, ante una inflación persistente que mantiene la necesidad de mayor endurecimiento monetario.",
+    "link": "https://www.eleconomista.com.mx/economia/fed-aumentara-tasas-tres-siguientes-reuniones-preve-j-p-morgan-20261119-844926.html",
+    "source": "El Economista",
+    "published": "2026-11-19T23:02:25-06:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "México vive el mejor momento para la digitalización, dice Mastercard",
+    "summary": "Mastercard afirma que México vive el mejor momento para la digitalización de pagos y servicios financieros.",
+    "link": "https://expansion.mx/economia/2026/11/19/mexico-vive-el-mejor-momento-para-la-digitalizacion-dice-mastercard",
+    "source": "Expansión",
+    "published": "2026-11-19T22:59:28+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "IA aumenta el riesgo de ciberataques y fraudes",
+    "summary": "La Autoridad Bancaria Europea advirtió que el uso de la IA eleva el riesgo de ciberataques y fraudes contra los bancos y redefine los riesgos operativos. El informe llega semanas después de un ciberataque de sofisticación sin precedentes contra Crédit Mutuel Arkéa.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/ia-aumenta-riesgo-ciberataques-fraudes-20261119-844924.html",
+    "source": "El Economista",
+    "published": "2026-11-19T22:55:28-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic shares jump 17% after record Wall Street listing",
+    "summary": "Anthropic, the AI group led by Dario Amodei, raised $81bn in an upsized public offering, a record Wall Street listing. Its shares jumped 17% on their first day of trading.",
+    "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-19T21:02:09+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 90,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf",
     "summary": "Google's Gemini can now take control of Mac computers to complete tasks on users' behalf, matching agentic features offered by rival AI assistants. The move raises pressure on Apple to make Siri more capable.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
@@ -88,6 +286,17 @@
     "light": true
   },
   {
+    "title": "Informan Visa y Mastercard filtración de datos de clientes",
+    "summary": "Visa, Mastercard y JPMorgan reportaron que, a raíz de un ciberataque contra un proveedor, se tuvo acceso a cierta información de clientes.",
+    "link": "https://www.reforma.com/informan-visa-y-mastercard-filtracion-de-datos-de-clientes/ar3317894",
+    "source": "Reforma",
+    "published": "2026-11-19T17:37:24-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": true
+  },
+  {
     "title": "BlackRock’s New Proposal Looks to Mix Ease of Trading With Private Market Access",
     "summary": "BlackRock has proposed a new fund structure that combines ease of trading with access to private markets. It targets two things investors are currently focused on.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access",
@@ -165,6 +374,28 @@
     "light": true
   },
   {
+    "title": "¿Qué pasará con el dólar en México si la Fed vuelve a subir las tasas de interés?",
+    "summary": "El peso se depreció con fuerza tras las minutas de la Fed, que revelaron que casi todos sus funcionarios prevén nuevas alzas de tasas en los próximos meses. El artículo analiza el impacto potencial sobre el tipo de cambio en México.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-pasara-con-el-dolar-en-mexico-si-la-fed-vuelve-a-subir-las-tasas-de-interes/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-19T15:01:35+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bar Barra Peñasco / Estudio CR",
+    "summary": "Barra Peñasco es un bar de alto nivel dentro del hotel Rosewood Mandarina en la Riviera Nayarit, suspendido en un acantilado frente al Pacífico. Su arquitectura abierta acompaña los distintos momentos de la hospitalidad entre higueras y palmeras.",
+    "link": "https://www.archdaily.com/1188958/bar-barra-penasco-estudio-cr",
+    "source": "ArchDaily",
+    "published": "2026-11-19T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 66,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
     "summary": "Anthropic shares traded about 17% above their IPO price after a record $107.3 billion offering that broke SpaceX's record for the biggest-ever listing. The stock pared earlier gains during its first session.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
@@ -172,6 +403,17 @@
     "published": "2026-11-19T14:52:54+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
+    "summary": "Jensen Huang's fall is a blow to Silicon Valley's AI accelerationists, a movement that was already on the back foot.",
+    "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "source": "The Economist",
+    "published": "2026-11-19T14:01:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
     "language": "en",
     "light": true
   },
@@ -5256,247 +5498,5 @@
     "relevance_score": 84,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Inflación en EU aviva apuestas de aumento de tasas de interés de la Fed: ¿Cómo afectaría al peso mexicano?",
-    "summary": "La inflación de EU subió 0.4% mensual en octubre, por encima de lo esperado, lo que fortaleció las apuestas de un alza de tasas de la Fed en diciembre. El movimiento presiona al peso mexicano y al entorno de tasas en México.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/11/inflacion-en-eu-aviva-apuestas-de-aumento-de-tasas-de-interes-de-la-fed-como-afectaria-al-peso-mexicano/",
-    "source": "El Financiero",
-    "published": "2026-11-11T07:00:15+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Persiste la brecha de género en los Consejos de Administración y la Alta Dirección",
-    "summary": "La presencia de mujeres en los consejos de administración en México subió de 14.3% a 14.8%, aún muy por debajo del promedio de 34% de la OCDE. El estudio 'Mujeres en las empresas 2026' muestra que la brecha también persiste en la alta dirección.",
-    "link": "https://www.eleconomista.com.mx/el-empresario/persiste-brecha-genero-consejos-administracion-alta-direccion-20261111-843279.html",
-    "source": "El Economista",
-    "published": "2026-11-11T07:00:00-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Demanda de IA dispara a 7 meses tiempos de entrega de servidores en México",
-    "summary": "La demanda de IA elevó a hasta siete meses (30 semanas) los tiempos de entrega de servidores especializados en México, frente a seis a ocho semanas previamente. La presión en la cadena de suministro afecta los proyectos tecnológicos de empresas locales.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/11/demanda-de-ia-dispara-a-7-meses-tiempos-de-entrega-de-servidores-en-mexico/",
-    "source": "El Financiero",
-    "published": "2026-11-11T07:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Bajaj Finance Said Set to Launch Up to $1.2 Billion Share Sale",
-    "summary": "Bajaj Finance is set to launch a share sale of up to $1.2 billion to institutional investors as soon as this week in Mumbai. It would be India's first major equity offering since Jio Platforms' record IPO last month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/bajaj-finance-said-set-to-launch-up-to-1-2-billion-share-sale",
-    "source": "Bloomberg",
-    "published": "2026-11-11T06:40:53+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says",
-    "summary": "Copper Sky's Jack Selby warns Anthropic's blockbuster IPO could mark a peak for the AI trade. He sees risk of a cascading correction once initial lockups expire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-    "source": "Bloomberg",
-    "published": "2026-11-11T06:13:06+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "IFRS 18: ¿realmente aplica a todas las empresas en México?",
-    "summary": "IFRS 18 entra en vigor en 2027 y cambiará la presentación de los estados financieros, aunque no todas las empresas en México estarán obligadas a aplicarla. El artículo explica quién debe adoptarla y por qué la distinción importa.",
-    "link": "https://www.eleconomista.com.mx/opinion/ifrs-18-realmente-aplica-todas-empresas-mexico-20261111-843299.html",
-    "source": "El Economista",
-    "published": "2026-11-11T06:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "IIFL: Can Sustain 25-30% Lending Growth For 3-4 Years",
-    "summary": "IIFL Finance founder Nirmal Jain says the lender can sustain 25-30% loan growth for three to four years. The company offers gold, home and business loans and loans against property.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/iifl-can-sustain-25-30-lending-growth-for-3-4-years-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T05:02:04+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO valuation calculator: How much is it really worth?",
-    "summary": "The FT published an interactive calculator to estimate Anthropic's value ahead of its Wall Street debut. Readers can test assumptions that put the Claude maker anywhere from $500bn to $4tn.",
-    "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-11T05:00:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Inside Ken Griffin’s $5bn Miami takeover",
-    "summary": "The FT profiles Ken Griffin's $5bn push to reshape Miami. The billionaire found his clout went further in Florida as he sought to mould his ideal city.",
-    "link": "https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-11T05:00:02+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Moody’s eleva prevision de crecimiento económico para México; mantendrá alzas hasta 2028",
-    "summary": "Moody's elevó su pronóstico de crecimiento para México a 2% en 2026 y 2.1% en 2027, impulsado en parte por inversiones en IA. Anticipa una expansión de 2% en 2028 tras un avance estimado de 0.5% en 2025.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/10/moodys-eleva-prevision-de-crecimiento-economico-para-mexico-mantendra-alzas-hasta-2028/",
-    "source": "El Financiero",
-    "published": "2026-11-11T04:28:42+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fortalece Remzy presencia internacional con operaciones en Miami",
-    "summary": "La fintech mexicana Remzy abrió operaciones en Miami para ampliar sus servicios de pagos internacionales, cambio de divisas y liquidez empresarial. Busca atender a empresas con relaciones comerciales entre México y Estados Unidos.",
-    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/10/fortalece-remzy-presencia-internacional-con-operaciones-en-miami/",
-    "source": "El Financiero",
-    "published": "2026-11-11T04:27:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 75,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
-    "summary": "South Korea's antitrust regulator fined more than a dozen banks and brokerages a record $1.2 billion for colluding in sovereign bond auctions. The watchdog said the practice undermined competition and raised government borrowing costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
-    "source": "Bloomberg",
-    "published": "2026-11-11T03:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SPH Media is Latest Singapore Firm Impacted by Data Breach: CNA",
-    "summary": "Singapore publisher SPH Media was hit by a cyberattack, local media reported. It follows a breach days earlier in which hackers accessed tens of thousands of Singapore Airlines flight bookings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna",
-    "source": "Bloomberg",
-    "published": "2026-11-11T01:47:31+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
-    "summary": "Los bancos colocadores de Anthropic se preparan para elevar la valuación de su OPI a 1.5 billones de dólares o más. El ajuste respondería a la fuerte demanda de inversionistas por la salida a bolsa del creador de Claude.",
-    "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-11T00:27:38+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Gobierno y Afores: el hambre y las ganas de comer",
-    "summary": "El gobierno de Sheinbaum busca inversiones públicas y mixtas por 8.4 billones de pesos y las Afores tienen la liquidez para financiarlas. La columna analiza la convergencia de intereses y sus riesgos para el ahorro para el retiro.",
-    "link": "https://www.eleconomista.com.mx/opinion/gobierno-afores-hambre-ganas-comer-20261111-843331.html",
-    "source": "El Economista",
-    "published": "2026-11-11T00:11:32-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia pasa por un “bache”, la BMV gana terreno y el peso se deprecia ante el dólar",
-    "summary": "Cierre de mercados: Nvidia tuvo un bache, la BMV ganó terreno y el peso se depreció frente al dólar.",
-    "link": "https://expansion.mx/mercados/2026/11/10/nvidia-cae-bmv-sube-peso-pierde-ante-dolar",
-    "source": "Expansión",
-    "published": "2026-11-10T23:36:34+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mapeo de la resistencia a la IA",
-    "summary": "Según el AI Monitor 2026 de Ipsos, solo 38% de los estadounidenses ve más ventajas que inconvenientes en la IA, frente a 85% en China y 80% en India. La resistencia en EU y Europa podría influir en la adopción y regulación de la tecnología.",
-    "link": "https://www.eleconomista.com.mx/opinion/mapeo-resistencia-ia-20261110-843326.html",
-    "source": "El Economista",
-    "published": "2026-11-10T23:29:17-06:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Walker & Dunlop CEO on ‘27 Data Center Buildout Outlook",
-    "summary": "Walker & Dunlop CEO Willy Walker says modest daily rate moves are unlikely to stall commercial real estate activity, though sharp jumps can pause deals. Rate expectations may push some investors to act sooner.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/walker-dunlop-ceo-on-27-data-center-buildout-outlook-video",
-    "source": "Bloomberg",
-    "published": "2026-11-10T23:06:08+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Bolsas mexicanas alcanzan nuevo máximo histórico",
-    "summary": "Los índices de la bolsa mexicana extendieron a seis sesiones su racha de ganancias y renovaron máximos históricos. El mercado acumula una rentabilidad superior a 11% en el año, impulsado por el apetito por activos mexicanos.",
-    "link": "https://www.eleconomista.com.mx/mercados/bolsas-mexicanas-alcanzan-nuevo-maximo-historico-20261110-843318.html",
-    "source": "El Economista",
-    "published": "2026-11-10T23:02:02-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
-    "summary": "OpenAI's quarterly revenue hit $10 billion for the first time in the three months to September, up nearly 50%, according to people familiar. Growth was driven by strong demand for its latest AI software.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-    "source": "Bloomberg",
-    "published": "2026-11-10T22:33:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Chedraui se alía con Toka para que 3 millones de usuarios puedan pagar con su celular en sus tiendas",
-    "summary": "Chedraui se alió con la fintech Toka para que 3 millones de usuarios puedan pagar con su celular en sus tiendas. La alianza impulsa los pagos digitales en el comercio minorista mexicano.",
-    "link": "https://expansion.mx/empresas/2026/11/10/chedraui-pagos-digitales-toka-tiendas",
-    "source": "Expansión",
-    "published": "2026-11-10T22:28:04+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Compra en el Buen Fin y paga hasta enero: el truco para usar la fecha de corte de tu tarjeta de crédito a favor",
-    "summary": "Expansión explica cómo aprovechar la fecha de corte de la tarjeta de crédito para comprar en el Buen Fin y pagar hasta enero. La nota orienta a consumidores sobre el uso del crédito revolvente en temporada de descuentos.",
-    "link": "https://expansion.mx/finanzas-personales/2026/11/10/buen-fin-paga-enero-truco-fecha-corte-tarjeta-credito-favor",
-    "source": "Expansión",
-    "published": "2026-11-10T21:30:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]
