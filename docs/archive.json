@@ -1,5 +1,137 @@
 [
   {
+    "title": "How Anthropic’s blockbuster IPO came together",
+    "summary": "The FT reconstructs how Anthropic's record IPO came together, with AI-trade fears failing to dent demand. The open question is whether the low-key company can preserve its idiosyncratic culture under public-market scrutiny.",
+    "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T12:02:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Stock Rout’s Spread Beyond Tech Carries Warning From Dotcom-Era",
+    "summary": "The way the AI-driven rout is spreading beyond tech shows worrying similarities to market patterns ahead of the dotcom crash.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/stock-rout-s-spread-beyond-tech-carries-warning-from-dotcom-era",
+    "source": "Bloomberg",
+    "published": "2026-11-20T11:50:13+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA y el jefe que se quedó atrás",
+    "summary": "Columna sobre un director general que presume un reporte impecable hecho 'en una tarde' por una colaboradora que lleva ocho meses trabajando con IA, sin saber cómo se hizo. Reflexiona sobre la brecha entre líderes y equipos en la adopción de inteligencia artificial.",
+    "link": "https://www.elfinanciero.com.mx/opinion/carlos-ruiz-gonzalez/2026/11/20/la-ia-y-el-jefe-que-se-quedo-atras/",
+    "source": "El Financiero",
+    "published": "2026-11-20T11:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Slumps as AI Selloff Deepens",
+    "summary": "Anthropic shares fell premarket as a broad selloff and doubts about the AI trade overshadowed its debut rally. Separately, Apple is developing its own autonomous AI agent, entering a market already pursued by OpenAI, Anthropic and Meta.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/the-pulse-with-francine-lacqua-11-20-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T11:29:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Morgan Stanley Sees Telecoms Using Muse-Style AI to Fight Rivals",
+    "summary": "Morgan Stanley says phone and internet providers are starting to use AI agents to compete for a promising consumer market also targeted by Meta.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-telecoms-using-muse-style-ai-to-fight-rivals",
+    "source": "Bloomberg",
+    "published": "2026-11-20T11:25:41+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Worldline Sinks on Financial Times Report on Cash Advances",
+    "summary": "Worldline fell as much as 20% after a Financial Times report on the payments company's internal actions in the years before 2023.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/worldline-sinks-on-financial-times-report-on-cash-advances",
+    "source": "Bloomberg",
+    "published": "2026-11-20T11:21:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan Private Bank revela sus apuestas para 2027: acciones, bonos y América Latina",
+    "summary": "JPMorgan Private Bank coloca a las grandes tecnológicas, acciones de mercados selectos y bonos de calidad entre sus apuestas para 2027. En América Latina favorece activos de riesgo sobre monedas, con especial preferencia por México.",
+    "link": "https://www.bloomberglinea.com/mercados/jpmorgan-private-bank-revela-sus-apuestas-para-2027-acciones-bonos-y-america-latina/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-20T11:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "How an American AI Company Uses Chinese Open-Weight Models",
+    "summary": "The Trump administration is reportedly considering requiring US companies to disclose their use of Chinese AI models. The piece looks at how one American AI company uses Chinese open-weight models and what discouraging them could mean for the industry.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/how-a-us-ai-company-uses-chinese-open-weight-models-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T09:12:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
+    "summary": "A startup founded by Alibaba's former AI chief closed funding at a $5 billion valuation, more than doubling in months — a positive sign for smaller AI developers in a crowded field.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
+    "source": "Bloomberg",
+    "published": "2026-11-20T08:25:04+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La IA transforma la búsqueda de productos y obliga a las marcas a competir por visibilidad",
+    "summary": "Un estudio de Netquest Bilendi muestra que los consumidores mexicanos recurren cada vez más a la IA para encontrar productos. Las marcas enfrentan el reto de competir por aparecer entre las recomendaciones de estas herramientas.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/ia-transforma-busqueda-productos-obliga-marcas-competir-visibilidad-20261120-844823.html",
+    "source": "El Economista",
+    "published": "2026-11-20T07:00:00-06:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Lagarde dice que su mayor preocupación es la amenaza cibernética potenciada por la IA",
+    "summary": "Christine Lagarde dijo que el mayor reto inmediato para las finanzas podrían ser las ciberamenazas potenciadas por agentes de IA cada vez más sofisticados. Los atacantes suelen ser anónimos, difíciles de rastrear y a menudo financiados por 'Estados tóxicos'.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/lagarde-dice-mayor-preocupacion-amenaza-cibernetica-potenciada-ia-20261120-844975.html",
+    "source": "El Economista",
+    "published": "2026-11-20T06:31:31-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Política de salario mínimo es una barrera para romper persistencia de la inflación en servicios: Jonathan Heath",
+    "summary": "El subgobernador de Banxico Jonathan Heath advirtió en la Convención del IMEF que la política de aumentos al salario mínimo se está convirtiendo en una barrera para romper la persistencia de la inflación en servicios, clave para la convergencia de la inflación general.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/politica-de-salario-minimo-es-una-barrera-para-romper-persistencia-de-la-inflacion-en-servicios-jonathan-heath/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-20T05:55:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns",
     "summary": "DayOne Data Centers has put its multibillion-dollar US IPO on hold, people familiar said, as investors question the sustainability of frothy valuations for AI infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
@@ -9,6 +141,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Mexican Studio COLECTIVO C733 Named First Recipient of the Siza Award for Public Architecture",
+    "summary": "The Mexico-based studio COLECTIVO C733 was named the inaugural recipient of the Siza Award for public architecture, created by the Serralves Foundation to recognize architectural generosity and engagement with public space.",
+    "link": "https://www.archdaily.com/1188983/mexican-studio-colectivo-c733-named-first-recipient-of-the-siza-award-for-public-architecture",
+    "source": "ArchDaily",
+    "published": "2026-11-20T05:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "en",
+    "light": false
   },
   {
     "title": "So, Anthropic is finally a public company. What now?",
@@ -55,6 +198,17 @@
     "light": true
   },
   {
+    "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+    "summary": "Anthropic (ANT) debuted on Nasdaq with unprecedented demand from retail and institutional investors, overcoming AI fears and warnings.",
+    "link": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+    "source": "Bloomberg",
+    "published": "2026-11-20T02:16:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "¿Banxico ajustará sus decisiones por diferencial de tasas con la Fed? Esto dijeron las minutas",
     "summary": "Las minutas de Banxico muestran que, aunque no está obligado a seguir a la Fed, el diferencial de tasas sí pesa en las decisiones de la Junta de Gobierno. El factor clave son sus posibles efectos sobre el peso y los flujos de inversión.",
     "link": "https://www.elfinanciero.com.mx/economia/2026/11/19/banxico-ajustara-sus-decisiones-por-diferencial-de-tasas-con-la-fed-esto-dijeron-las-minutas/",
@@ -64,6 +218,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Global AI Trade Buckles as Anthropic Slides Following Record IPO",
+    "summary": "Anthropic's blockbuster IPO is becoming a catalyst for a savage selloff across AI stocks worldwide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+    "source": "Bloomberg",
+    "published": "2026-11-20T01:49:55+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Salario mínimo y depreciación del peso amenazan la baja de la inflación: Heath",
@@ -106,6 +271,17 @@
     "published": "2026-11-19T23:51:17+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El dólar rebasa los 19 pesos y abre la puerta a subir los pronósticos",
+    "summary": "El dólar superó los 19 pesos, lo que abre la puerta a que los analistas revisen al alza sus pronósticos para el tipo de cambio.",
+    "link": "https://expansion.mx/mercados/2026/11/19/dolar-rebasa-19-pesos-abre-puerta-subir-pronosticos",
+    "source": "Expansión",
+    "published": "2026-11-19T23:43:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
@@ -183,6 +359,17 @@
     "published": "2026-11-19T22:55:28-06:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Récord de Anthropic no detiene pérdidas en Wall Street y el S&P 500 suma su peor racha desde 2024",
+    "summary": "Wall Street cerró con fuertes pérdidas pese al histórico debut de Anthropic; las dudas sobre la rentabilidad de la IA y las tasas de la Fed presionaron a las acciones. El S&P 500 suma su peor racha desde 2024.",
+    "link": "https://www.bloomberglinea.com/mercados/nasdaq-lidera-las-alzas-en-wall-street-ante-el-historico-debut-bursatil-de-anthropic/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-19T21:07:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
     "language": "es",
     "light": false
   },
@@ -5311,192 +5498,5 @@
     "relevance_score": 65,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Legislar la IA en las aulas de un país desigual",
-    "summary": "Columna sobre los retos de legislar el uso de la IA en las aulas en un país desigual como México. Nota sin extracto disponible; resumen basado en el titular.",
-    "link": "https://expansion.mx/opinion/2026/11/11/legislar-la-ia-en-las-aulas-de-un-pais-desigual",
-    "source": "Expansión",
-    "published": "2026-11-11T12:03:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 61,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SAP Touts AI Tools, But Fails to Disclose Numbers to Measure Results",
-    "summary": "SAP is promoting its AI tools but has disclosed few metrics showing whether the effort is paying off. That gap makes the return on its AI push hard to measure.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
-    "source": "Bloomberg",
-    "published": "2026-11-11T12:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
-    "summary": "Some US power companies are now using Anthropic's Mythos AI to hunt for cybersecurity flaws in energy systems. They had spent months pressing government officials and Anthropic for access to its most powerful models to fend off hackers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
-    "source": "Bloomberg",
-    "published": "2026-11-11T12:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
-    "summary": "US mortgage rates fell for a fourth straight week, pushing home-purchase applications up by the most since mid-April. The drop gives a small lift to a deflated housing market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
-    "source": "Bloomberg",
-    "published": "2026-11-11T12:00:00+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Registro digital de jornada laboral abre frente legal y fiscal a empresas",
-    "summary": "La reforma para reducir la jornada de 48 a 40 horas y la obligación de registrar entradas y salidas ya llegó a los tribunales, trasladando el debate a la validez probatoria. La STPS está por publicar los lineamientos del registro electrónico de jornada, lo que abre frentes legales y fiscales para las empresas.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/registro-digital-jornada-laboral-abre-frente-legal-fiscal-empresas-20261111-843403.html",
-    "source": "El Economista",
-    "published": "2026-11-11T11:50:07-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
-    "summary": "US stock futures rose on CoreWeave's results and demand for Anthropic's IPO. Meanwhile, short-term Treasury yields jumped the most in 19 months after hotter-than-expected CPI, and Fed officials warned that rates may need to rise.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T11:45:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Doubts Collide With Anthropic’s Mega IPO",
-    "summary": "Anthropic is going public just as investors grow worried about the outlook for artificial intelligence. The tension between IPO demand and AI-bubble doubts frames the listing.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo",
-    "source": "Bloomberg",
-    "published": "2026-11-11T11:38:29+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Más política que monetaria",
-    "summary": "Columna que analiza las decisiones de tasa de Banxico y argumenta que hoy pesan más los factores políticos que los estrictamente monetarios. El autor retoma ideas de Woodford sobre cómo las expectativas de hogares y productores transmiten la política monetaria.",
-    "link": "https://www.elfinanciero.com.mx/opinion/manuel-molano/2026/11/11/mas-politica-que-monetaria/",
-    "source": "El Financiero",
-    "published": "2026-11-11T11:30:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Stocks Face Tug-of-War as Anthropic, CoreWeave Lift Hopes",
-    "summary": "The AI trade is now so big that its supporters and skeptics often find backing on the same day. Anthropic's IPO and CoreWeave's results are lifting hopes even as doubts persist.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes",
-    "source": "Bloomberg",
-    "published": "2026-11-11T11:28:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says",
-    "summary": "Airbnb co-founder Nathan Blecharczyk says the company is building its own specialized AI travel agent that will eventually book stays both on and off Airbnb. He also discussed Airbnb's return to growth and regulation of housing in Europe.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T11:22:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kai-Fu Lee Questions Soaring AI Valuations",
-    "summary": "Kai-Fu Lee questions whether trillion-dollar AI valuations can be justified, pointing to circular funding and cheaper Chinese and open-source models. He argues businesses must reinvent themselves around AI and that Europe's opportunity lies in applications.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/kai-fu-lee-questions-soaring-ai-valuations-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T11:06:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
-    "summary": "Traders piled back into the AI trade after strong CoreWeave results and robust demand for Anthropic's IPO, lifting US stock futures. The briefing also covers US-led Ukraine–Russia peace talks in Abu Dhabi.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/the-pulse-with-francine-lacqua-11-11-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T10:46:34+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI Has Driven a Quarter of UK Growth This Year, Analysis Shows",
-    "summary": "Bloomberg economists estimate that AI has driven about a quarter of UK growth this year. That leaves the country exposed if a global downturn hits AI valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/ai-has-driven-a-quarter-of-uk-growth-this-year-analysis-shows",
-    "source": "Bloomberg",
-    "published": "2026-11-11T10:25:40+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s IPO is too important to fail",
-    "summary": "Huge demand points to a blockbuster debut for Anthropic's IPO. But the FT warns that shadow insider sales and circular supply-chain backing could cause after-market indigestion.",
-    "link": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
-    "source": "Financial Times",
-    "published": "2026-11-11T10:23:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "UBS’ Laud Sees Underpriced Risk in AI's ‘Web of Debt’",
-    "summary": "UBS Asset Management's Sonja Laud says the AI boom has shifted from an equity story to a balance-sheet story driven by debt. She warns that markets are underestimating the interconnected 'web of debt' across public and private credit and equity.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/ubs-laud-sees-underpriced-risk-in-ai-s-web-of-debt-video",
-    "source": "Bloomberg",
-    "published": "2026-11-11T10:15:17+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
-    "summary": "ByteDance plans to release a Muse-like AI assistant in the coming weeks, building on its lead in AI video. The company hopes the launch helps it close the gap with top US labs within as little as three years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
-    "source": "Bloomberg",
-    "published": "2026-11-11T10:10:36+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Aims for $3 Billion to $3.5 Billion in Japan Offering",
-    "summary": "Anthropic is seeking $3bn–$3.5bn from Japanese investors as part of its IPO, now that the frontier AI lab has formally begun marketing the offering. The plan keeps the fundraising target within Japan.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering",
-    "source": "Bloomberg",
-    "published": "2026-11-11T07:56:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
   }
 ]
