@@ -1,5 +1,192 @@
 [
   {
+    "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+    "summary": "CVC alleges Advent manipulated accounts at Italian pastry-ingredients maker Irca before the €3bn sale. Advent denies that Irca's financial performance was overstated.",
+    "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-21T05:00:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The AI cyber threat is already here",
+    "summary": "The FT warns that AI-enabled cyber threats are already a reality, not a future risk. It frames current incidents as only the start of a broader wave.",
+    "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-21T05:00:16+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La caída del peso… ¿sin efecto inflacionario?",
+    "summary": "El peso se depreció casi 4% entre el 18 y el 20 de noviembre y llegó a 19.16 por dólar, nivel no visto desde junio de 2025. El análisis evalúa si la magnitud del movimiento podría traducirse en traspaso a precios al consumidor.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/20/la-caida-del-peso-sin-efecto-inflacionario/",
+    "source": "El Financiero",
+    "published": "2026-11-21T04:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "FBI investiga un nuevo ataque informático contra Centro Nacional de Información Criminal: CNN",
+    "summary": "El FBI investiga una aparente intrusión informática en su Centro Nacional de Información Criminal (NCIC), según CNN. Es el segundo incidente de seguridad de este tipo que afecta a la agencia en los últimos meses.",
+    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/20/fbi-investiga-un-nuevo-ataque-informatico-contra-centro-nacional-de-informacion-criminal-cnn/",
+    "source": "El Financiero",
+    "published": "2026-11-21T03:54:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Tu manera de dirigir funciona en cualquier situación?",
+    "summary": "Basado en Harvard Business Review, el texto propone desarrollar una 'inteligencia del estrés' para adaptar el estilo de liderazgo a cada situación. Las cualidades que llevaron a alguien a dirigir pueden no bastar cuando cambian las circunstancias.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/11/20/tu-manera-de-dirigir-funciona-en-cualquier-situacion/",
+    "source": "El Financiero",
+    "published": "2026-11-21T03:30:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+    "summary": "Following Anthropic's record IPO, a researcher at the company says he used Claude to solve a famous number-theory problem that has stumped mathematicians for over 150 years. The claim highlights frontier models' growing role in advanced research.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+    "source": "Bloomberg",
+    "published": "2026-11-21T00:17:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 82,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "El peso mexicano pierde 3,5% en la semana y toca los MXN$19,19, su peor nivel desde junio de 2025",
+    "summary": "El peso cerró la semana con una pérdida de 3.5% y tocó 19.19 por dólar, su peor nivel desde junio de 2025. La presión vino de las expectativas sobre las tasas de Banxico y la Fed.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/el-peso-mexicano-pierde-35-en-la-semana-y-toca-los-mxn1919-su-peor-nivel-desde-junio-de-2025/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-20T23:53:51+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hindlian Advisory CEO on AI & Anthropic Market Sell-off",
+    "summary": "Former NYSE capital-markets head Amanda Hindlian says Anthropic's IPO should be judged apart from the week's market volatility. The deal priced well with a book estimated at five to seven times oversubscribed and traded strongly on debut.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T22:58:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
+    "summary": "Scribe CEO Jennifer Smith cites research putting AI use for workplace tasks below 4%. She contrasts that with the heavy chatbot use seen in tech circles, pointing to a large adoption gap.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T22:38:25+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+    "summary": "NISA CEO David Eichhorn discusses the risks and benefits of private credit on Masters in Business. He warns about the dangers of private credit flowing into pension funds and 401(k)s.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T22:14:53+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia faces US regulator’s probe into its accounting",
+    "summary": "The SEC has opened an investigation into Nvidia's accounting. The probe adds to the chipmaker's difficulties following Jensen Huang's resignation.",
+    "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T21:58:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+    "summary": "US tech stocks fell into a bear market in their worst week since the Covid-19 crisis. Anthropic and Nvidia shares tumbled as fears over the AI spending boom gripped Wall Street.",
+    "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T21:52:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "México oficializa control a inversiones extranjeras y abre incertidumbre por adquisiciones",
+    "summary": "México oficializó un mecanismo de control sobre inversiones extranjeras, lo que abre incertidumbre para futuras adquisiciones. La medida podría afectar la estructuración y aprobación de operaciones de M&A en el país.",
+    "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
+    "source": "Expansión",
+    "published": "2026-11-20T21:00:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "JPMorgan Gets Lowballed Below 80 Cents for Qualtrics Hung Debt",
+    "summary": "JPMorgan is fielding offers below 80 cents on the dollar as it weighs selling hung debt tied to a Qualtrics acquisition. The lowball bids reflect tightening appetite for risky buyout financing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/jpmorgan-gets-lowballed-below-80-cents-for-qualtrics-hung-debt",
+    "source": "Bloomberg",
+    "published": "2026-11-20T20:51:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Cognition in Talks for $75 Billion Value With New Funding",
+    "summary": "AI coding startup Cognition is in funding talks at a $75 billion valuation, just two months after its last round. The talks signal continued investor appetite for agentic coding tools despite the market selloff.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+    "source": "Bloomberg",
+    "published": "2026-11-20T20:47:55+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+    "summary": "President Trump threatened a 'tremendous' tax on data centres built outside the US. He framed it as a fight to keep Beijing from taking the lead in AI development.",
+    "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-20T20:17:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Odd Lots: Minerva Co-Founder on the Risks of “Abliterated” Models",
+    "summary": "On Odd Lots, Minerva co-founder Daniel Saedi explains how his firm mixes and matches AI models for specific use cases. He also discusses the risks posed by 'abliterated' models whose safety guardrails have been removed.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
+    "source": "Bloomberg",
+    "published": "2026-11-20T19:15:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Altruist’s Wenk on AI and the Next Era of Financial Advice",
     "summary": "Altruist CEO Jason Wenk discusses joining Vanguard, making financial advice more accessible, and how AI could reshape the economics of wealth management. He also covers the future of the RIA custody market and Altruist's product expansion.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video",
@@ -31,6 +218,17 @@
     "relevance_score": 64,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Las claves económicas de la semana (16 al 20 de noviembre): De minutas de la Fed y Banxico",
+    "summary": "Resumen de la semana económica: datos de manufactura, previsiones de actividad y consumo en México. También se publicaron las minutas de las decisiones de política monetaria de Banxico y la Fed.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-16-20-noviembre-minutas-fed-banxico-20261120-845092.html",
+    "source": "El Economista",
+    "published": "2026-11-20T18:22:51-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
@@ -132,6 +330,17 @@
     "light": true
   },
   {
+    "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+    "summary": "Measures of perceived US credit risk hit an eight-month high and the cost of insuring big tech firms' debt jumped. The wobbling AI trade drove volatility and sent investors into safe havens.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+    "source": "Bloomberg",
+    "published": "2026-11-20T15:38:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Acciones de Anthropic caen casi 11%: ¿Cómo abren los mercados en Wall Street HOY 20 de noviembre?",
     "summary": "Las acciones de Anthropic, creadora de Claude, caían 10.86% a 86.62 dólares en la apertura del viernes. El jueves habían llegado a subir hasta 39% respecto a su precio de OPI.",
     "link": "https://www.elfinanciero.com.mx/mercados/2026/11/20/bmv-wall-street-hoy-20-de-noviembre-de-2026/",
@@ -165,6 +374,39 @@
     "light": false
   },
   {
+    "title": "Comienzan las ofertas para comprar Axtel y su controladora",
+    "summary": "Arrancó el proceso de ofertas para adquirir Axtel y su empresa controladora. Es una de las transacciones corporativas relevantes en México en curso.",
+    "link": "https://expansion.mx/mercados/2026/11/20/comienzan-las-ofertas-para-comprar-axtel-y-su-controladora",
+    "source": "Expansión",
+    "published": "2026-11-20T15:04:19+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Hotel Tepoztlán / Taller Carlos Marín + Pasquinel Studio",
+    "summary": "Hotel Tepoztlán, by Taller Carlos Marín and Pasquinel Studio, sits between Tepoztlán and Amatlán in Morelos. Its master plan of four buildings integrates topography, landscape and views of the Tepozteco on a formerly abandoned plot.",
+    "link": "https://www.archdaily.com/941774/hotel-tepoztlan-taller-carlos-marin-plus-pasquinel-studio",
+    "source": "ArchDaily",
+    "published": "2026-11-20T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 68,
+    "language": "en",
+    "light": false
+  },
+  {
+    "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
+    "summary": "Anthropic shares fell 8.5% on Friday, erasing part of their first-day jump after the AI lab completed the biggest IPO in history. The pullback tests public investors' faith as the broader AI trade unravels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
+    "source": "Bloomberg",
+    "published": "2026-11-20T14:36:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "US tech rout deepens as Anthropic shares tumble",
     "summary": "The US tech rout deepened as Anthropic shares tumbled after their debut. Investors rushed into haven assets amid a heavy wave of selling in AI-linked stocks.",
     "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
@@ -185,6 +427,17 @@
     "relevance_score": 88,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Wall Street Reels as AI Fears Erupt; Nasdaq 100 Near Bear Market",
+    "summary": "Concerns about the AI trade turned into a market-wide selloff on Friday. Anthropic slumped after its debut while Nvidia sank 14%, pushing the Nasdaq 100 to the brink of a bear market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+    "source": "Bloomberg",
+    "published": "2026-11-20T13:26:57+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Peso mexicano reduce su recuperación frente al dólar y perfila caída semanal de casi 3%",
@@ -5243,259 +5496,6 @@
     "published": "2026-11-12T07:00:00+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Petróleo caro y menor impulso de la IA: así ve Moody’s a la economía mundial para 2027 y 2028",
-    "summary": "Moody's prevé que la economía mundial siga creciendo en 2027-2028, sostenida por la inversión, pero con divergencias entre regiones. Advierte presiones por energía más cara y un menor impulso de la IA.",
-    "link": "https://www.bloomberglinea.com/economia/petroleo-caro-y-menor-impulso-de-la-ia-asi-ve-moodys-a-la-economia-mundial-para-2027-y-2028/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-12T07:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Santander aumenta en 5% su oferta para comprar el 10% restante de su filial brasileña",
-    "summary": "Santander mejoró en 5% la relación de canje de su oferta de 1,900 millones de euros para comprar el ~10% restante de su filial brasileña. La mejora llega tras un alza de 9% en las acciones de la filial desde el anuncio en julio.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/santander-aumenta-5-oferta-comprar-10-restante-filial-brasilena-20261112-843576.html",
-    "source": "El Economista",
-    "published": "2026-11-12T06:53:02-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank Backs Agile Robots in $500 Million Humanoid Push",
-    "summary": "SoftBank led a funding round valuing German robotics maker Agile Robots at $8.5 billion. The capital will expand production of its AI-powered machines. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push",
-    "source": "Bloomberg",
-    "published": "2026-11-12T06:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Sheinbaum y OpenAI exploran aplicaciones de inteligencia artificial en salud",
-    "summary": "La presidenta Claudia Sheinbaum recibió en Palacio Nacional a Greg Brockman, presidente y cofundador de OpenAI, y a su equipo. Conversaron sobre aplicaciones de la inteligencia artificial, especialmente en el sector salud.",
-    "link": "https://www.elfinanciero.com.mx/nacional/2026/11/11/sheinbaum-y-openai-exploran-aplicaciones-de-inteligencia-artificial-en-salud/",
-    "source": "El Financiero",
-    "published": "2026-11-12T05:35:49+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tencent Founder Rallies Half of Staff Behind AI-Native Push",
-    "summary": "Tencent founder Pony Ma said he is willing to move half of the company's 100,000 staff into AI-native businesses. He urged the workforce to embrace what he called an era-defining technology. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push",
-    "source": "Bloomberg",
-    "published": "2026-11-12T05:04:29+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paraguay, bajo la lupa de Fitch: ¿Está en riesgo su calificación crediticia tras el colapso de Ueno Bank?",
-    "summary": "Fitch puso en revisión para posible rebaja la calificación soberana de Paraguay por los riesgos derivados de la crisis bancaria tras el colapso de Ueno Bank. La crisis derrocó al presidente Santiago Peña y sacudió a los inversionistas.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/paraguay-bajo-la-lupa-de-fitch-esta-en-riesgo-su-calificacion-crediticia-tras-colapso-de-ueno-bank/",
-    "source": "El Financiero",
-    "published": "2026-11-12T04:30:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Galia Borja: las razones de la subgobernadora de Banxico para votar en contra del recorte de tasa",
-    "summary": "La subgobernadora Galia Borja explicó por qué votó en contra del recorte de tasa en una decisión dividida de la Junta de Gobierno de Banxico. Considera su postura más conservadora al dar mayor peso a los riesgos inflacionarios; la decisión fue controvertida entre analistas y mercado.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/galia-borja-las-razones-de-la-subgobernadora-de-banxico-para-votar-en-contra-del-recorte-de-tasa/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-12T01:55:31+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-    "summary": "Nvidia's board will decide Jensen Huang's fate after revelations of an affair with a subordinate alleged to be a Chinese spy. The case is a major test of board oversight at one of the world's most valuable companies. Summary based on the blurb only.",
-    "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-12T01:13:24+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
-    "summary": "Alphabet began marketing its inaugural Hong Kong and Singapore dollar bond sale. The deal tests investor appetite amid rising volatility for AI-focused companies. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny",
-    "source": "Bloomberg",
-    "published": "2026-11-12T01:12:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 61,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules",
-    "summary": "ANZ CEO Nuno Matos called for global regulation to manage AI's impact on the labor market. He warned that without rules AI could trigger an international jobs crisis. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/anz-ceo-matos-warns-of-global-jobs-crisis-without-ai-rules",
-    "source": "Bloomberg",
-    "published": "2026-11-12T00:41:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Fibra E, pide al tiempo que vuelva",
-    "summary": "La Fibra E de la CFE prepara una emisión base de 580 millones de dólares, ampliable hasta 867 millones según la demanda. El vehículo, creado en 2018, capta recursos privados para financiar la red de transmisión eléctrica.",
-    "link": "https://www.eleconomista.com.mx/opinion/fibra-e-pide-vuelva-20261112-843543.html",
-    "source": "El Economista",
-    "published": "2026-11-12T00:39:44-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ganancias de los bancos en México caen 5% al cierre del tercer trimestre de 2026",
-    "summary": "Las utilidades del sistema bancario mexicano cayeron 5% al cierre del tercer trimestre de 2026. El dato apunta a una presión sobre la rentabilidad del sector en un entorno de menor crecimiento y recortes de tasas.",
-    "link": "https://expansion.mx/economia/2026/11/11/ganancias-de-los-bancos-en-mexico-caen-5-al-cierre-del-tercer-trimestre-de-2026",
-    "source": "Expansión",
-    "published": "2026-11-12T00:21:56+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Un PIB con pata de palo y rigidez inflacionaria",
-    "summary": "El PIB de México creció 0.9% trimestral en el tercer trimestre, pero el análisis advierte que la solidez es aparente. La debilidad industrial y la rigidez inflacionaria matizan la lectura de resiliencia.",
-    "link": "https://www.eleconomista.com.mx/opinion/pib-pata-palo-rigidez-inflacionaria-20261112-843537.html",
-    "source": "El Economista",
-    "published": "2026-11-12T00:01:54-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Mejía Castelazo: Nuevo ciclo de recortes, descartado; “tasa permanecerá en 6.25% por largo tiempo”",
-    "summary": "El subgobernador de Banxico Omar Mejía Castelazo descartó que el último recorte de 25 pb sea el inicio de un nuevo ciclo de relajamiento. Anticipó que la tasa de referencia se mantendrá en 6.25% durante un tiempo prolongado.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/mejia-castelazo-nuevo-ciclo-recortes-descartado-tasa-permanecera-6-20261111-843536.html",
-    "source": "El Economista",
-    "published": "2026-11-11T23:59:57-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ahorro en afores representó 64% del crecimiento de la inversión doméstica en México: FIAP",
-    "summary": "Según un estudio de la FIAP, el ahorro en las afores explicó 64% del incremento de la inversión doméstica en México entre 2003 y 2024. La federación sostiene que las reformas con cuentas individuales impulsan la formación de capital además de las pensiones.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/ahorro-afores-represento-64-crecimiento-inversion-domestica-mexico-fiap-20261111-843535.html",
-    "source": "El Economista",
-    "published": "2026-11-11T23:57:41-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La crisis de la vivienda desata huelga general en España",
-    "summary": "Decenas de miles de personas se manifestaron en Madrid en una huelga general contra la crisis de vivienda y la pérdida de poder adquisitivo. Ocurre a menos de tres semanas de las elecciones en España.",
-    "link": "https://www.eleconomista.com.mx/internacionales/crisis-vivienda-desata-huelga-general-espana-20261111-843529.html",
-    "source": "El Economista",
-    "published": "2026-11-11T23:37:48-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Guadalajara se consolida como la capital del turismo internacional",
-    "summary": "Guadalajara se consolida como sede de ITB Américas, la única feria turística internacional en México. El evento coloca al pabellón mexicano junto a potencias turísticas globales.",
-    "link": "https://www.eleconomista.com.mx/estados/guadalajara-consolida-capital-turismo-internacional-20261111-843526.html",
-    "source": "El Economista",
-    "published": "2026-11-11T23:19:54-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Chinese Robotics Platform Amicro Surges 83% in Hong Kong Debut",
-    "summary": "Chinese robotics platform Amicro jumped 83% in its Hong Kong debut after a $90 million IPO. The deal was seen as a test of tech-stock appetite ahead of Anthropic's US listing. Summary based on the blurb only.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
-    "source": "Bloomberg",
-    "published": "2026-11-11T23:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "CoreWeave Eyes $4 Billion Meta-Tied Loan to Cut Funding Costs",
-    "summary": "Junk-rated CoreWeave is in talks with banks to raise at least $4 billion via an investment-grade loan tied to Meta. The structure aims to cut funding costs for its AI chip capacity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
-    "source": "Bloomberg",
-    "published": "2026-11-11T22:42:47+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anticipan inflación por paquete fiscal",
-    "summary": "Los cambios fiscales del Paquete Económico 2027 tendrían efectos inflacionarios de corto plazo. Se anticipa un encarecimiento de bienes y servicios.",
-    "link": "https://www.reforma.com/anticipan-inflacion-por-paquete-fiscal/ar3313100",
-    "source": "Reforma",
-    "published": "2026-11-11T22:36:01-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "BBVA, Banamex, Nu y más promociones bancarias del Buen Fin 2026: qué ofrecen y en cuáles te debes inscribir",
-    "summary": "Expansión repasa las promociones de BBVA, Banamex, Nu y otros bancos para El Buen Fin 2026. Útil para seguir cómo los bancos compiten en ofertas de crédito al consumo.",
-    "link": "https://expansion.mx/finanzas-personales/2026/11/11/promociones-bancarias-buen-fin-2026",
-    "source": "Expansión",
-    "published": "2026-11-11T22:11:01+00:00",
-    "category": "HIR / Creditaria Competitive Intel",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Seguros de gastos médicos seguirán caros; siniestros consumen casi todo lo que cobran las aseguradoras",
-    "summary": "Los seguros de gastos médicos seguirán caros en México: los siniestros consumen casi todo lo que cobran las aseguradoras. La presión en la siniestralidad limita márgenes del sector.",
-    "link": "https://expansion.mx/economia/2026/11/11/seguros-de-gastos-medicos-seguiran-caros-siniestros-consumen-casi-todo-lo-que-cobran-las-aseguradoras",
-    "source": "Expansión",
-    "published": "2026-11-11T21:22:58+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 63,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Patrones y trabajadores chocan por el MIR del salario mínimo de 2027",
-    "summary": "Patrones y trabajadores chocan por el Monto Independiente de Recuperación (MIR) del salario mínimo de 2027. La discusión definirá el aumento salarial del próximo año.",
-    "link": "https://expansion.mx/economia/2026/11/11/salario-minimo-2027-discusion-patrones-trabajadores-mir",
-    "source": "Expansión",
-    "published": "2026-11-11T21:05:07+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 62,
     "language": "es",
     "light": false
   }
