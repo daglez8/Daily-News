@@ -1,5 +1,49 @@
 [
   {
+    "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+    "summary": "Amazon is closing in on a $7.5bn deal to buy AI start-up Decart. The acquisition would help AWS compete with Nvidia in the race for computing power.",
+    "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-21T17:21:36+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+    "summary": "California's probe into whether Nvidia illegally sold advanced chips to China and misled investors also covers potential criminal violations of state law. The scope raises the stakes for the chipmaker.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+    "source": "Bloomberg",
+    "published": "2026-11-21T17:11:23+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
+    "summary": "Goldman Sachs spent more than a year working on how to finance AI chips without wrecking corporate balance sheets. Its SpaceX pitch offers a template for solving the AI debt puzzle.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+    "source": "Bloomberg",
+    "published": "2026-11-21T15:31:22+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+    "summary": "The stock market has had a tough month, hit by the ouster of Jensen Huang from Nvidia and the Democrats' decisive midterm victory. Wall Street is now asking what could revive the AI trade after Anthropic's post-IPO wipeout.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "source": "Bloomberg",
+    "published": "2026-11-21T13:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Anthropic Makes Its Public Market Debut",
     "summary": "Anthropic's landmark IPO tested investor appetite for frontier AI and gave the company fresh capital for its enormous computing needs, as OpenAI weighs its own path to public markets. Bloomberg's Ed Ludlow also discusses turmoil at Nvidia after Jensen Huang's departure.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
@@ -11,6 +55,28 @@
     "light": true
   },
   {
+    "title": "Perfil de las emprendedoras en México y sus principales motivos y retos",
+    "summary": "Las emprendedoras en México enfrentan retos adicionales frente a los hombres, como responsabilidades de cuidado y acceso al financiamiento. El análisis perfila sus motivaciones y expectativas de crecimiento.",
+    "link": "https://www.eleconomista.com.mx/el-empresario/perfil-emprendedoras-mexico-principales-motivos-retos-20261121-845122.html",
+    "source": "El Economista",
+    "published": "2026-11-21T11:38:28-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Tu aseguradora no quiere pagarte? La indemnización podría calcularse después del juicio",
+    "summary": "Una jurisprudencia de la SCJN establece que la cuantificación definitiva de una indemnización de seguros puede realizarse después del juicio. Esto aplica cuando determinar el monto requiere valoraciones técnicas especializadas.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/aseguradora-quiere-pagarte-indemnizacion-calcularse-juicio-20261121-844840.html",
+    "source": "El Economista",
+    "published": "2026-11-21T11:00:00-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "China Plans to Strengthen AI Token Standards in Computing Push",
     "summary": "China's National Data Administration will improve standards for measuring and billing AI tokens and for quality assessment, as Beijing guides the growing AI industry.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
@@ -20,6 +86,17 @@
     "relevance_score": 65,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Análisis del Presupuesto de Egresos de la Federación 2027",
+    "summary": "La Cámara de Diputados aprobó un PEF 2027 de 10.64 billones de pesos, 1.3% real más que en 2026. El análisis examina si los ingresos previstos (unos 9.15 billones sin financiamiento) bastarán para cumplir la meta de déficit e impulsar el crecimiento.",
+    "link": "https://www.eleconomista.com.mx/opinion/analisis-presupuesto-egresos-federacion-20261121-845118.html",
+    "source": "El Economista",
+    "published": "2026-11-21T10:00:12-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
   },
   {
     "title": "The dead hand of history weighs on Deutsche Bank",
@@ -53,6 +130,17 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Reactivar Sinaloa comienza por recuperar a sus MiPyMEs",
+    "summary": "Un vicepresidente de Coparmex argumenta que la recuperación económica de Sinaloa depende de rescatar a sus micro, pequeñas y medianas empresas. Señala el efecto en cadena sobre familias, trabajadores y proveedores cuando cierran.",
+    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/20/reactivar-sinaloa-comienza-por-recuperar-a-sus-mipymes/",
+    "source": "El Financiero",
+    "published": "2026-11-21T04:54:02+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La caída del peso… ¿sin efecto inflacionario?",
@@ -5408,94 +5496,6 @@
     "published": "2026-11-12T11:45:46+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "McKinsey’s Sternfels on Corporate Crisis Management, AI Impact",
-    "summary": "McKinsey's Bob Sternfels discusses corporate crisis preparation, from succession planning to independent governance, amid the Nvidia crisis. He also covers how AI is reshaping McKinsey's workforce and what CEOs get wrong about adopting it.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-12/mckinsey-s-sternfels-on-corporate-crisis-management-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-11-12T11:30:45+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Divisas turísticas sumaron 26,096 millones de dólares y suben 1.4% a septiembre: Inegi",
-    "summary": "México recibió 26,096 millones de dólares en divisas turísticas entre enero y septiembre, 1.4% más que en 2025, según Inegi. El repunte se aceleró frente al 0.9% registrado hasta agosto.",
-    "link": "https://www.eleconomista.com.mx/empresas/divisas-turisticas-sumaron-26-096-millones-dolares-suben-1-4-septiembre-inegi-20261112-843619.html",
-    "source": "El Economista",
-    "published": "2026-11-12T11:30:41-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Banco del Bienestar lanza nueva app: Así puedes transferir dinero, pagar y recibir depósitos",
-    "summary": "El Banco del Bienestar renovó su app para permitir transferencias electrónicas sin comisiones, pagos con código QR y consulta de movimientos sin ir a sucursal. La plataforma apunta a millones de beneficiarios de programas sociales, ampliando la banca digital pública.",
-    "link": "https://www.eleconomista.com.mx/politica/banco-bienestar-lanza-nueva-app-asi-puedes-transferir-dinero-pagar-recibir-depositos-20261112-843615.html",
-    "source": "El Economista",
-    "published": "2026-11-12T11:21:26-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Resultados de Nubank: el mercado espera beneficio récord, pero vigila costo del crédito",
-    "summary": "Nubank presenta resultados del tercer trimestre con expectativas de beneficio récord impulsado por la expansión del crédito. Los analistas anticipan mayores gastos operativos y señales de deterioro en la calidad de la cartera, un punto clave para su operación en México.",
-    "link": "https://www.bloomberglinea.com/mercados/resultados-de-nubank-el-mercado-espera-beneficio-record-pero-vigila-costo-del-credito/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-12T11:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Tasa de interés: ¿Cómo afecta tus inversiones en Cetes, bonos y acciones?",
-    "summary": "Un recorte de la tasa de Banxico no afecta igual a todas las inversiones: reduce rendimientos de Cetes de corto plazo y puede abrir oportunidades en acciones. Alejandro Aguilar, de la AMIB, explica cómo ajustar portafolios.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/tasa-interes-afecta-tus-inversiones-cetes-bonos-acciones-20261112-843238.html",
-    "source": "El Economista",
-    "published": "2026-11-12T11:00:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI eligió a la argentina Aleph para vender publicidad en ChatGPT: negocio millonario y Wall Street",
-    "summary": "OpenAI eligió a la argentina Aleph para comercializar publicidad en ChatGPT en 44 mercados. La alianza impulsa a una compañía que espera cerrar 2026 con US$5,300 millones de facturación global.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/openai-eligio-a-la-argentina-aleph-para-vender-publicidad-en-chatgpt-negocio-millonario-y-wall-street/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-12T11:00:00+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Hedge Funds’ Leveraged Bets Face New Global Push on Transparency",
-    "summary": "The Financial Stability Board is preparing a consultation on gathering data on hedge funds' leveraged bond bets. Earlier transparency efforts were frustrated by inconsistent definitions and limits on cross-border data flows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/hedge-funds-leveraged-bets-face-global-push-for-transparency",
-    "source": "Bloomberg",
-    "published": "2026-11-12T10:53:15+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Alternatives on the Patient Capital Opportunity in 2026",
-    "summary": "Leaders from SLR Capital, Investcorp Capital and Premji Invest discuss opportunities in private credit, secondaries and other alternatives. Slower exits and tighter financing are reshaping valuations.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-12/alternatives-on-the-patient-capital-opportunity-in-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-11-12T10:47:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
