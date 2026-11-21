@@ -1,5 +1,38 @@
 [
   {
+    "title": "Anthropic Makes Its Public Market Debut",
+    "summary": "Anthropic's landmark IPO tested investor appetite for frontier AI and gave the company fresh capital for its enormous computing needs, as OpenAI weighs its own path to public markets. Bloomberg's Ed Ludlow also discusses turmoil at Nvidia after Jensen Huang's departure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
+    "source": "Bloomberg",
+    "published": "2026-11-21T12:59:40+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+    "summary": "China's National Data Administration will improve standards for measuring and billing AI tokens and for quality assessment, as Beijing guides the growing AI industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+    "source": "Bloomberg",
+    "published": "2026-11-21T10:11:29+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The dead hand of history weighs on Deutsche Bank",
+    "summary": "An FT column on Deutsche Bank argues that bankers' decisions have long-lasting consequences, with the bank's history still weighing on it.",
+    "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+    "source": "Financial Times",
+    "published": "2026-11-21T06:32:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
     "summary": "CVC alleges Advent manipulated accounts at Italian pastry-ingredients maker Irca before the €3bn sale. Advent denies that Irca's financial performance was overstated.",
     "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
@@ -132,6 +165,17 @@
     "light": true
   },
   {
+    "title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
+    "summary": "CrowdStrike is in talks to acquire Zscaler, according to people familiar with the matter, in what would be among the largest deals ever in the cybersecurity sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+    "source": "Bloomberg",
+    "published": "2026-11-20T21:05:11+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "México oficializa control a inversiones extranjeras y abre incertidumbre por adquisiciones",
     "summary": "México oficializó un mecanismo de control sobre inversiones extranjeras, lo que abre incertidumbre para futuras adquisiciones. La medida podría afectar la estructuración y aprobación de operaciones de M&A en el país.",
     "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
@@ -240,6 +284,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Sector obrero exige alza de 15% al salario mínimo para 2027 y pide eliminar el MIR",
+    "summary": "El sector obrero en la Conasami propuso un aumento de 15% al salario mínimo para 2027 y pidió eliminar el Monto Independiente de Recuperación (MIR).",
+    "link": "https://www.eleconomista.com.mx/capital-humano/sector-obrero-exige-alza-15-salario-minimo-2027-pide-eliminar-mir-20261120-845091.html",
+    "source": "El Economista",
+    "published": "2026-11-20T18:02:47-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Globant amplía programa de recompra de acciones: la carta de Migoya a accionistas",
@@ -438,6 +493,17 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿En quién confiamos cuando confiamos en una IA?",
+    "summary": "Expansión analiza en quién depositamos realmente nuestra confianza cuando confiamos en una inteligencia artificial.",
+    "link": "https://expansion.mx/opinion/2026/11/20/en-que-confiamos-cuando-utilizamos-ia-opinion",
+    "source": "Expansión",
+    "published": "2026-11-20T13:07:52+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Peso mexicano reduce su recuperación frente al dólar y perfila caída semanal de casi 3%",
@@ -5432,71 +5498,5 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Where to find the anti-AI trade",
-    "summary": "The Economist finds the anti-AI trade in Indian equities: the worse chipmakers do, the better Indian stocks perform.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-    "source": "The Economist",
-    "published": "2026-11-12T10:38:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
-    "summary": "The Economist argues Jensen Huang's affair will do lasting damage to Nvidia and leaves the company with no good options.",
-    "link": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-    "source": "The Economist",
-    "published": "2026-11-12T10:20:28+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Norwest’s New $4 Billion Fund Will Avoid ‘Shiny Objects’",
-    "summary": "Wells Fargo-backed Norwest has raised $4 billion for a new fund targeting early-stage AI startups plus overlooked sectors. The firm says it will avoid 'shiny objects'.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/norwest-s-new-4-billion-fund-will-avoid-shiny-objects",
-    "source": "Bloomberg",
-    "published": "2026-11-12T10:00:28+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Paquete Económico 2027: Ven riesgos fiscales y débil impulso al PIB en Presupuesto",
-    "summary": "El Paquete Económico 2027 prevé un gasto neto de 10.6 billones de pesos y una consolidación fiscal gradual. Especialistas advierten que es insuficiente para reducir riesgos en las finanzas públicas e impulsar crecimiento, inversión y empleo.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/12/paquete-economico-2027-ven-riesgos-fiscales-y-debil-impulso-al-pib-en-presupuesto/",
-    "source": "El Financiero",
-    "published": "2026-11-12T09:33:52+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dubai Tycoon Expects Billions From Anthropic, AI Investments",
-    "summary": "Dubai tycoon Hussain Sajwani expects billions in returns from AI investments including Anthropic. It highlights gains early backers of the AI giants are booking.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/dubai-tycoon-expects-billions-from-anthropic-ai-investments",
-    "source": "Bloomberg",
-    "published": "2026-11-12T09:04:17+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Afores, protagonistas de la economía mexicana",
-    "summary": "Tras el Encuentro Amafore 2026, la columna destaca a las afores como actores clave de la economía mexicana con 9 billones de pesos administrados. Ese monto crecerá con el aumento de las aportaciones patronales.",
-    "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/11/12/afores-protagonistas-de-la-economia-mexicana/",
-    "source": "El Financiero",
-    "published": "2026-11-12T07:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
   }
 ]
