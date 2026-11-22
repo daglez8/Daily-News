@@ -1,5 +1,93 @@
 [
   {
+    "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+    "summary": "Co-investors in buyout funds are raising fresh concerns about 'sell-to-yourself' deals. They are frustrated at being forced out when assets are sold into continuation vehicles.",
+    "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-22T05:00:06+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+    "summary": "An FT column draws on Napoleon to warn about Jensen Huang-style leadership. A flat hierarchy combined with micromanagement can dangerously concentrate power at the top.",
+    "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-22T05:00:06+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+    "summary": "Amazon's plans for rapid data-center expansion are meeting resistance from both the public and its own employees. Workers are preparing to push back over the AI buildout.",
+    "link": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-22T05:00:06+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+    "summary": "Dell, HPE, Lenovo and Supermicro are raising AI server prices by up to 45% months after deals were signed. The higher costs are hitting buyers including trading firms.",
+    "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-22T05:00:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 63,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bolsas: ¿adiós a la fiesta? ¿llegó la cruda?",
+    "summary": "Anthropic, creadora de Claude, colocó acciones a 83 dólares en la mayor salida a bolsa de la historia, con una oferta de 93,500 millones de dólares brutos que superó a SpaceX. La acción abrió en 111.50 dólares pero perdió la mitad del brinco ese mismo día, y el viernes el Nasdaq cayó 5.3% y el S&P 500 entró en corrección.",
+    "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/21/bolsas-adios-a-la-fiesta-llego-la-cruda/",
+    "source": "El Financiero",
+    "published": "2026-11-22T04:53:12+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+    "summary": "Australia's spy chief warned that data centers and AI risk exposing the country to foreign interference and malicious state actors. The comments came in an interview with The Age.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+    "source": "Bloomberg",
+    "published": "2026-11-22T02:37:31+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+    "summary": "CrowdStrike's talks with Zscaler highlight a wave of multibillion-dollar cybersecurity takeovers. The biggest players are consolidating to defend against increasingly sophisticated AI-powered attacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+    "source": "Bloomberg",
+    "published": "2026-11-21T19:02:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SEC investiga prácticas contables de Nvidia tras cambios en reportes de ventas, según medios",
+    "summary": "La SEC abrió una investigación sobre las prácticas contables de Nvidia tras cambios en sus reportes de ventas, según The New York Times. La indagatoria está en etapa inicial y suma incertidumbre tras la dimisión de su CEO, Jensen Huang.",
+    "link": "https://www.eleconomista.com.mx/tecnologia/sec-investiga-practicas-contables-nvidia-cambios-reportes-ventas-medios-20261121-845148.html",
+    "source": "El Economista",
+    "published": "2026-11-21T18:36:54-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
     "summary": "Amazon is closing in on a $7.5bn deal to buy AI start-up Decart. The acquisition would help AWS compete with Nvidia in the race for computing power.",
     "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
@@ -29,6 +117,28 @@
     "published": "2026-11-21T15:31:22+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street Confronts AI Reality Check",
+    "summary": "Anthropic's record IPO failed to reverse deteriorating sentiment as investors grapple with Nvidia turmoil, AI spending concerns and systematic-fund selling. Goldman Sachs' Panic Index has reached 9 out of 10, with weak liquidity and a wave of potential new issuance adding pressure.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
+    "source": "Bloomberg",
+    "published": "2026-11-21T14:50:30+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic IPO Fails to Calm AI Jitters",
+    "summary": "Seaport's Jonathan Golub argues the AI-driven selloff looks overdone, since compute demand and semiconductor earnings expectations keep rising. The bigger question, he says, is whether markets can keep financing the hundreds of billions in AI infrastructure capital needs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+    "source": "Bloomberg",
+    "published": "2026-11-21T13:43:18+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
     "language": "en",
     "light": true
   },
@@ -172,6 +282,17 @@
     "published": "2026-11-21T03:30:00+00:00",
     "category": "Leadership & Future of Work",
     "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
+    "summary": "La gasolina Magna se queda sin subsidio fiscal. Hacienda le cobrará una cuota de IEPS de 6.70 pesos por litro.",
+    "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
+    "source": "Expansión",
+    "published": "2026-11-21T00:25:58+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5375,127 +5496,6 @@
     "published": "2026-11-12T13:50:41+00:00",
     "category": "AI & Agents",
     "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Citi prevé más alzas de tasas de la Fed, pero no espera un dólar más fuerte: las razones",
-    "summary": "Citi prevé que la Fed seguirá subiendo tasas en los próximos meses, aunque no espera un dólar significativamente más fuerte. Cita señales de debilidad en algunos sectores de la economía estadounidense.",
-    "link": "https://www.bloomberglinea.com/mercados/citi-preve-mas-alzas-de-tasas-de-la-fed-pero-no-espera-un-dolar-mas-fuerte-las-razones/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-12T13:21:35+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El FMI no ve que la crisis bancaria en Paraguay se traslade a países vecinos",
-    "summary": "El FMI no ve indicios de que la crisis del banco Ueno en Paraguay se contagie a países vecinos. La portavoz Julie Kozack destacó que las autoridades paraguayas actuaron rápido, incluidos pagos a los depositantes.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fmi-ve-crisis-bancaria-paraguay-traslade-paises-vecinos-20261112-843633.html",
-    "source": "El Economista",
-    "published": "2026-11-12T12:53:38-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI Transformation Bigger Than Any Company, Individual, Says BlackRock’s Pyle",
-    "summary": "BlackRock's Mike Pyle says the AI market is entering a more selective, 'two-sided' phase of winners and losers rather than a directional trade.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-12/ai-transformation-bigger-than-any-company-blackrock-video",
-    "source": "Bloomberg",
-    "published": "2026-11-12T12:49:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Empresarios turísticos rechazan raquítico presupuesto de promoción para 2027",
-    "summary": "Empresarios turísticos, encabezados por el CNET, rechazan el presupuesto de promoción turística asignado para 2027 por considerarlo insuficiente. Relevante para mercados turísticos y de destino en México.",
-    "link": "https://www.elfinanciero.com.mx/opinion/gustavo-armenta/2026/11/12/empresarios-turisticos-rechazan-raquitico-presupuesto-de-promocion-para-2027/",
-    "source": "El Financiero",
-    "published": "2026-11-12T12:37:26+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El talento humano como motor de valor en la era de la inteligencia artificial",
-    "summary": "Expansión aborda el talento humano como motor de valor en la era de la inteligencia artificial. Enfoque en transformación del talento y adopción de IA en las organizaciones.",
-    "link": "https://expansion.mx/opinion/2026/11/12/el-talento-humano-como-motor-de-valor-en-la-era-de-la-inteligencia-artificial",
-    "source": "Expansión",
-    "published": "2026-11-12T12:02:31+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dinamismo corporativo, un ciclo se avisora",
-    "summary": "La recuperación del mercado de oficinas en CDMX continuó en el último trimestre con alzas de precios, menor disponibilidad y absorción impulsada por pre-arrendamientos. Firmas de servicios inmobiliarios ven un nuevo ciclo de dinamismo corporativo.",
-    "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/11/12/dinamismo-corporativo-un-ciclo-se-avisora/",
-    "source": "El Financiero",
-    "published": "2026-11-12T12:00:00+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "House in the Woods / Tom Lontine Architect",
-    "summary": "Tom Lontine Architect's House in the Woods is a 4,400 sq ft residence embedded into a sloped, wooded site overlooking the Connecticut River. Low-slung and clad in dark-stained cedar, it was designed as a quiet home to age in place.",
-    "link": "https://www.archdaily.com/1036053/house-in-the-woods-tom-lontine-architect",
-    "source": "ArchDaily",
-    "published": "2026-11-12T12:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Recorte de tasa del Banxico \"confunde y refleja mensaje equivocado\": subgobernador Heath",
-    "summary": "El subgobernador de Banxico, Jonathan Heath, criticó el reciente recorte de la tasa clave: dijo que 'confunde y refleja un mensaje equivocado'. Argumentó que el balance inflacionario está muy sesgado al alza, el peso se ha depreciado y la Fed seguirá subiendo tasas, lo que comprime el diferencial.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/recorte-tasa-banxico-confunde-refleja-mensaje-equivocado-subgobernador-heath-20261112-843623.html",
-    "source": "El Economista",
-    "published": "2026-11-12T11:59:36-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia Board Meets to Consider Replacing Jensen Huang",
-    "summary": "Nvidia fell 7% premarket as its board discussed replacing Jensen Huang, halting a tech-led rally. The leadership crisis risks reverberating across the global AI supply chain.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
-    "source": "Bloomberg",
-    "published": "2026-11-12T11:59:18+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "HSBC Plans SRTs Tied to $7 Billion of US, Asian Corporate Loans",
-    "summary": "HSBC is working on two significant risk transfer (SRT) deals to hedge around $7 billion of large corporate loans in the US and Asia. A signal of continued bank appetite for synthetic risk-transfer structures.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/hsbc-plans-srts-tied-to-7-billion-of-us-asian-corporate-loans",
-    "source": "Bloomberg",
-    "published": "2026-11-12T11:54:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Buyers of $22 Billion Bank Securities Are Trapped in Losing Bet",
-    "summary": "A $22 billion group of US bank preferred shares has slumped harder than even the riskiest junk bonds this year. Investors have no good way out of the trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/buyers-of-22-billion-bank-securities-are-trapped-in-losing-bet",
-    "source": "Bloomberg",
-    "published": "2026-11-12T11:45:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
     "language": "en",
     "light": true
   }
