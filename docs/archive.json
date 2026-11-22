@@ -1,5 +1,49 @@
 [
   {
+    "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+    "summary": "UK data centre operator Nscale is pausing hiring for all but critical roles and curtailing spending ahead of its planned $35bn IPO.",
+    "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+    "source": "Financial Times",
+    "published": "2026-11-22T11:32:52+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The American dream of home ownership recedes as mortgage rates surge",
+    "summary": "US home ownership is slipping further out of reach as mortgage rates climb. Despite Donald Trump's pledge to bring borrowing costs down to 3%, the benchmark rate has surged above 7%.",
+    "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-22T11:00:06+00:00",
+    "category": "Mortgage / Housing Finance",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+    "summary": "Anthropic's post-IPO share-price weakness is raising questions about whether the company and its bankers were too hasty in exercising the 'greenshoe' option to issue additional stock.",
+    "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+    "source": "Financial Times",
+    "published": "2026-11-22T11:00:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 84,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+    "summary": "The fight over UBS Group's future capital requirements is heading for a final showdown as Swiss lawmakers resume debate. The odds appear tilted toward defeat for the global wealth manager.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+    "source": "Bloomberg",
+    "published": "2026-11-22T10:00:00+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
     "summary": "Co-investors in buyout funds are raising fresh concerns about 'sell-to-yourself' deals. They are frustrated at being forced out when assets are sold into continuation vehicles.",
     "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
@@ -689,6 +733,17 @@
     "published": "2026-11-20T14:01:32+00:00",
     "category": "Financial Services Mexico",
     "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El precio del dólar golpea a América Latina y marca una “semana terrible” para sus monedas",
+    "summary": "Las monedas latinoamericanas sufrieron una fuerte depreciación esta semana por el fortalecimiento global del dólar, la venta de activos de riesgo y preocupaciones fiscales. ING calificó la semana como “terrible” para las divisas de la región.",
+    "link": "https://www.bloomberglinea.com/mercados/el-precio-del-dolar-golpea-a-america-latina-y-marca-una-semana-terrible-para-sus-monedas/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-20T13:49:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -5443,60 +5498,5 @@
     "relevance_score": 76,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Jensen Huang is out. His successor has the toughest job in tech",
-    "summary": "Nvidia, a company built around one man, must now learn to run without Jensen Huang. The Economist argues his successor faces the toughest job in tech — a case study in key-man risk and board oversight.",
-    "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-    "source": "The Economist",
-    "published": "2026-11-12T14:28:59+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Jensen Huang is gone. Will the AI industry pay the price?",
-    "summary": "Jensen Huang's fall could unravel the web of financial dependencies that helped fuel the AI boom. The FT asks whether the wider AI industry will pay the price for Nvidia's leadership crisis.",
-    "link": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-12T14:22:30+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Everything is going wrong for SoftBank",
-    "summary": "Masayoshi Son's all-in bet on AI is looking shaky, and The Economist argues everything is going wrong for SoftBank.",
-    "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
-    "source": "The Economist",
-    "published": "2026-11-12T14:08:53+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The panic over personalised pricing is overdone",
-    "summary": "The Economist argues the panic over personalised pricing is overdone and that lawmakers are getting ahead of themselves.",
-    "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
-    "source": "The Economist",
-    "published": "2026-11-12T14:08:53+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia’s Huang Ousted by Board in Move That Roils AI Economy",
-    "summary": "Nvidia's board ousted CEO Jensen Huang, the face of the AI infrastructure boom, after reports of two affairs, including one with a woman suspected of spying for China. The move roils the broader AI economy that has leaned heavily on Nvidia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo",
-    "source": "Bloomberg",
-    "published": "2026-11-12T13:50:41+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
   }
 ]
