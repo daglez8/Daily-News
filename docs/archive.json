@@ -1,5 +1,203 @@
 [
   {
+    "title": "Marlowe Hits $1.15B Valuation With Bet Beyond Nvidia",
+    "summary": "Marlowe, co-founded by two Microsoft VPs, raised $277 million at a $1.15 billion valuation to boost computing power from chips that rival Nvidia's. Accel led the round.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/marlowe-hits-1-15b-valuation-with-bet-beyond-nvidia-video",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:54:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Nvidia Board Did Not Consult Leadership on Huang Decision",
+    "summary": "Nvidia's board reinstated Jensen Huang as CEO without consulting senior leadership, who were informed only at the last minute. The move puts board governance under scrutiny after Huang's ouster less than two weeks earlier.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-did-not-consult-leadership-on-huang-video",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:19:42+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Huang’s Nvidia return is a bad precedent",
+    "summary": "Bloomberg Opinion's Parmy Olson argues that Huang's Trump-backed reinstatement sets a precedent for government control over business. Huang had been ousted over personal scandals less than two weeks ago.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-huang-s-nvidia-return-is-a-bad-precedent-video",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:11:19+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Adyen Co-CEO Pieter van der Does to Retire From Payments Firm",
+    "summary": "Adyen co-founder Pieter van der Does will step down as co-CEO of the Dutch payments company at year-end.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/adyen-co-ceo-pieter-van-der-does-to-retire-from-payments-firm",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:10:49+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Rolls Out Zero Data Retention Policy for Advanced AI",
+    "summary": "Anthropic is releasing a zero data retention option that lets business customers keep control of their data when using its most capable models. It marks a stark change from an earlier data-retention policy announced to mitigate potential cyberattacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:00:06+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 92,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
+    "summary": "Zscaler founder Jay Chaudhry and his family, who own more than a third of the company, stand to reap about $14.5 billion from CrowdStrike's $44 billion acquisition, per regulatory filings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/zscaler-s-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-23T18:00:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué causó las fallas tecnológicas en EE.UU.? Y por qué se esperan más",
+    "summary": "Una serie de fallas tecnológicas desde el 11 de noviembre afectó sistemas de Microsoft, viajes aéreos y la NSA en EE.UU. Expertos en ciberseguridad advierten que podrían ser un anticipo de incidentes mayores.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/-que-causo-las-fallas-tecnologicas-en-ee-uu-y-por-que-se-esperan-mas",
+    "source": "Bloomberg",
+    "published": "2026-11-23T17:57:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "Solo 2 de cada 10 empresas consideran que es buen momento para invertir en México: Coparmex",
+    "summary": "Solo dos de cada diez empresas consideran buen momento para invertir en México, el nivel más bajo desde 2020, según Coparmex. Citan incertidumbre económica, inseguridad y problemas de suministro de energía.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/23/solo-2-de-cada-10-empresas-consideran-que-es-buen-momento-para-invertir-en-mexico-coparmex/",
+    "source": "El Financiero",
+    "published": "2026-11-23T17:38:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Por qué lo que pase este 9 de diciembre podría influir en el precio del dólar en Latinoamérica?",
+    "summary": "El mercado descuenta un nuevo endurecimiento de la Fed en su reunión del 8 y 9 de diciembre tras el repunte inflacionario de octubre. La decisión condicionará el tipo de cambio y el margen de los bancos centrales latinoamericanos.",
+    "link": "https://www.bloomberglinea.com/economia/por-que-lo-que-pase-este-9-de-diciembre-podria-influir-en-el-precio-del-dolar-en-latinoamerica/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-23T17:18:31+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "UBS Debate Turns to Amendments on $16 Billion Capital Bill",
+    "summary": "Swiss lawmakers face at least four competing proposals on UBS's $16 billion capital requirements bill, with little sign of consensus.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-debate-turns-to-amendments-on-16-billion-capital-bill",
+    "source": "Bloomberg",
+    "published": "2026-11-23T16:53:06+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Peso opera ‘tablas’ en día de retorno de Jensen Huang a Nvidia",
+    "summary": "El peso se mantuvo en 19.16 por dólar el lunes, frenando sus caídas. Analistas señalan que continúa el desmantelamiento de posiciones de carry trade ante expectativas de un menor diferencial de tasas entre México y EE.UU., tras las minutas de Banxico.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/23/peso-dolar-tipo-de-cambio-precio-hoy-23-de-noviembre-de-2026/",
+    "source": "El Financiero",
+    "published": "2026-11-23T16:51:39+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 84,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "US Seeks to Recover More Than $1 Billion From Binance Hack",
+    "summary": "The US is seeking forfeiture of more than $1 billion in cryptocurrency stolen from Binance by North Korea-linked hackers, according to a Monday court filing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-seeks-to-recover-more-than-1-billion-from-binance-hack",
+    "source": "Bloomberg",
+    "published": "2026-11-23T16:44:01+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Citi detecta señales de alerta en Wall Street similares a las de la burbuja puntocom",
+    "summary": "Citi advierte que Wall Street muestra señales similares a las que precedieron caídas tras la burbuja puntocom y los máximos de 2021, pese al fuerte rebote impulsado por Nvidia.",
+    "link": "https://www.bloomberglinea.com/mercados/citi-detecta-senales-de-alerta-en-wall-street-similares-a-las-de-la-burbuja-puntocom/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-23T16:35:33+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Jensen Huang returns. But Nvidia will never be the same",
+    "summary": "Jensen Huang is back at Nvidia, but faces a hostile Congress, rattled employees and wary business partners.",
+    "link": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
+    "source": "The Economist",
+    "published": "2026-11-23T16:30:30+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
+    "summary": "Corporate debt markets rallied globally on Monday, with tech bonds rebounding after Nvidia reinstated Jensen Huang. US credit fear gauges improved the most in months.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
+    "source": "Bloomberg",
+    "published": "2026-11-23T15:56:17+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Bartleby newsletter: Valley mentality",
+    "summary": "Bartleby columnist Andrew Palmer asks why people who believe AI could have terrible outcomes keep developing it.",
+    "link": "https://www.economist.com/business/2026/11/23/bartleby-newsletter-valley-mentality",
+    "source": "The Economist",
+    "published": "2026-11-23T14:54:47+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic Shares Climb With AI Trade Rally on Huang’s Return",
+    "summary": "Anthropic shares turned positive Monday, moving in line with the AI sector's rebound following Jensen Huang's reinstatement at Nvidia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
+    "source": "Bloomberg",
+    "published": "2026-11-23T14:51:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Zillow apuesta por el talento tecnológico mexicano y fortalece su equipo de ingeniería",
+    "summary": "Zillow participó en Mexico Tech Week 2026 y está reforzando su equipo de ingeniería con talento tecnológico mexicano. La proptech estadounidense busca ampliar su base de desarrolladores en el país.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/11/23/zillow-apuesta-por-el-talento-tecnologico-mexicano-y-fortalece-su-equipo-de-ingenieria/",
+    "source": "El Financiero",
+    "published": "2026-11-23T14:00:00+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "El retorno del dólar fuerte y la debacle de las monedas emergentes",
     "summary": "Dos eventos críticos en Estados Unidos detonaron el regreso de un dólar fuerte y una profunda depreciación de las divisas emergentes. Aunque el fortalecimiento ha sido generalizado, el impacto ha sido notoriamente más severo en las economías en desarrollo entre septiembre y noviembre de 2026.",
     "link": "https://www.elfinanciero.com.mx/opinion/ernesto-o-farrill-santoscoy/2026/11/23/el-retorno-del-dolar-fuerte-y-la-debacle-de-las-monedas-emergentes/",
@@ -130,6 +328,28 @@
     "relevance_score": 80,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
+    "summary": "CrowdStrike agreed to buy Zscaler in a $44bn all-stock deal. The acquisition comes as businesses and governments grapple with a wave of tech outages and cyber threats.",
+    "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-23T11:02:10+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "La inclusión financiera en México: así cambia entre estados y municipios",
+    "summary": "El Índice Banamex de Inclusión Financiera 2026 muestra fuertes contrastes entre estados y municipios en el acceso a cuentas, tarjetas y cajeros. La brecha geográfica en inclusión financiera persiste desde hace varios años.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/inclusion-financiera-mexico-asi-cambia-estados-municipios-20261123-845064.html",
+    "source": "El Economista",
+    "published": "2026-11-23T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
   },
   {
     "title": "CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler",
@@ -295,6 +515,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+    "summary": "Novartis's CEO rejected AI industry hopes of curing cancer within five to ten years, responding to claims from Anthropic's chief and DeepMind's founder.",
+    "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-23T05:00:22+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "The problem with the circular AI economy",
@@ -5267,236 +5498,5 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "summary": "The Federal Reserve's semi-annual financial stability report flagged potential vulnerabilities tied to artificial intelligence and elevated asset valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
-    "source": "Bloomberg",
-    "published": "2026-11-13T21:00:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Monedas retroceden en medio de expectativas de alzas en las tasas de la Fed",
-    "summary": "La mayoría de las monedas latinoamericanas cerraron el viernes con pérdidas ante expectativas de nuevas alzas de la Fed. Los precios al productor en EE.UU. registraron su mayor incremento anual en cuatro años.",
-    "link": "https://www.eleconomista.com.mx/mercados/monedas-retroceden-medio-expectativas-alzas-tasas-fed-20261113-844016.html",
-    "source": "El Economista",
-    "published": "2026-11-13T20:21:19-06:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
-    "summary": "Jensen Huang's ouster from Nvidia raises new questions about a key piece of the financing machine behind the AI boom.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
-    "source": "Bloomberg",
-    "published": "2026-11-13T20:18:02+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ningún sistema pensionario moderno puede descansar solo en aportaciones obligatorias: Afore Inbursa",
-    "summary": "El director de Afore Inbursa, José Ignacio Jiménez, afirmó que ningún sistema pensionario moderno puede depender solo de aportaciones obligatorias. Propuso el enrolamiento automático al ahorro voluntario con opción de salida.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/sistema-pensionario-moderno-descansar-aportaciones-obligatorias-afore-inbursa-20261113-843532.html",
-    "source": "El Economista",
-    "published": "2026-11-13T20:11:18-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
-    "summary": "Los retiros parciales por desempleo de las Afores superan lo que las administradoras ganan por comisiones, según Expansión. La tendencia refleja presión en el ahorro para el retiro de los trabajadores.",
-    "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
-    "source": "Expansión",
-    "published": "2026-11-13T20:02:56+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "GFA invertirá 1,500 millones de pesos en residencias Waldorf Astoria en Guadalajara",
-    "summary": "GFA invertirá 1,500 millones de pesos en Waldorf Astoria Residences Guadalajara, una torre de 30 niveles con 114 residencias de lujo en Puerta de Hierro, Zapopan, con entrega prevista en 2029. Es el primer desarrollo residencial independiente de la marca en México y América Latina bajo el modelo de branded residences.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/gfa-invertira-1-500-millones-pesos-residencias-waldorf-astoria-guadalajara-20261113-844011.html",
-    "source": "El Economista",
-    "published": "2026-11-13T19:54:30-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
-    "summary": "Bill Ackman said he was impressed by Dario Amodei's presentation at Anthropic's IPO roadshow event in New York. He also lamented Jensen Huang's exit from Nvidia, predicting he will go on to do something great.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video",
-    "source": "Bloomberg",
-    "published": "2026-11-13T19:42:57+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
-    "summary": "Anthropic CEO Dario Amodei brushed off recent tech-stock turbulence less than a week before the AI lab's planned $1.5tn listing.",
-    "link": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-13T19:41:26+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
-    "summary": "El gobierno publicó la Ley de Ingresos 2027, que reduce deducciones y aumenta cobros a turistas. Los cambios fiscales ya son ley y afectan a contribuyentes y al sector turístico.",
-    "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
-    "source": "Expansión",
-    "published": "2026-11-13T19:22:49+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Se debe impulsar formalidad laboral, el ahorro voluntario y la densidad de cotización: Invercap",
-    "summary": "Eduardo Salaburu, de Afore InverCap, dijo que el SAR es sólido pero no garantiza tasas de reemplazo superiores a 70% para todos. Llamó a impulsar la formalidad laboral, el ahorro voluntario y la densidad de cotización.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/debe-impulsar-formalidad-laboral-ahorro-voluntario-densidad-cotizacion-invercap-20261113-843528.html",
-    "source": "El Economista",
-    "published": "2026-11-13T19:15:18-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "US Treasuries set for worst week since Trump’s ‘liberation day’",
-    "summary": "US Treasuries are heading for their worst week since April's \"liberation day\" tariff shock. Hotter-than-expected inflation and hawkish Fed remarks have stung investors who bet the global bond rout was over.",
-    "link": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-13T19:06:08+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
-    "summary": "Anthropic CEO Dario Amodei said the company keeps investing in safety, security and alignment and does not want AI agents to \"run wild.\" He spoke in a live-streamed conversation with JPMorgan CEO Jamie Dimon as part of Anthropic's IPO roadshow.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
-    "source": "Bloomberg",
-    "published": "2026-11-13T18:55:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft outage exposes global reliance on core tech providers",
-    "summary": "The FT says the global Microsoft outage hit users ranging from banks and governments to sheriffs and pharmacies. The incident exposes the world's concentrated reliance on a handful of core tech providers.",
-    "link": "https://www.ft.com/content/f385935b-2bb4-4e34-8127-16517e8ceecb?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-13T18:55:13+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
-    "summary": "In a briefing ahead of Anthropic's IPO, Dario Amodei named sourcing computing power as one of the company's biggest challenges. He called it the AI company's \"deepest business dilemma.\"",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
-    "source": "Bloomberg",
-    "published": "2026-11-13T18:46:29+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Microsoft explica por qué se cayó Outlook, Copilot y otros servicios por más de 12 horas",
-    "summary": "Expansión reporta la explicación de Microsoft sobre la caída de Outlook, Copilot y otros servicios durante más de 12 horas. El episodio subraya el riesgo operativo de depender de un solo proveedor de nube y productividad.",
-    "link": "https://expansion.mx/tecnologia/2026/11/13/microsoft-explica-caida-outlook",
-    "source": "Expansión",
-    "published": "2026-11-13T18:32:20+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Ya no más filas en el cajero del Banco del Bienestar: así puedes hacer transferencias desde la nueva app",
-    "summary": "El Banco del Bienestar lanzó una nueva app que permite hacer transferencias sin acudir a cajeros ni hacer filas. Expansión explica cómo usarla, un paso en la digitalización de la banca pública.",
-    "link": "https://expansion.mx/finazas-personales/2026/11/13/como-hacer-transferencias-app-bienestar",
-    "source": "Expansión",
-    "published": "2026-11-13T18:13:29+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Huang and the Myth of the ‘Irreplaceable CEO’",
-    "summary": "Jensen Huang stepped down after an undisclosed relationship violated Nvidia's code of conduct, leaving a company built around him with no chairman, no No. 2 and no public succession plan. Bloomberg frames it as a failure of leadership and a case study in key-person risk.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video",
-    "source": "Bloomberg",
-    "published": "2026-11-13T17:42:23+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
-    "summary": "The SEC plans to overhaul executive compensation disclosures as part of a broader scale-back of what public companies must tell investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
-    "source": "Bloomberg",
-    "published": "2026-11-13T17:11:50+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tipo de cambio HOY: Peso ‘ya quiere puente’ y gana al dólar",
-    "summary": "El peso se apreció 0.37% a 18.55 por dólar tras una inflación al productor en EU ligeramente menor a lo esperado. Banco Base advirtió que persisten riesgos para el tipo de cambio pese a la apreciación.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/13/peso-dolar-tipo-de-cambio-precio-hoy-13-de-noviembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-11-13T17:08:28+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
-    "summary": "OpenAI launched ChatGPT Wallet, a secure payment method built with card networks that lets its AI make purchases on consumers' behalf. It renews OpenAI's push into agentic shopping after winding down Instant Checkout earlier this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks",
-    "source": "Bloomberg",
-    "published": "2026-11-13T17:06:11+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 85,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Buen fin 2026: Guía para evitar deudas con la tarjeta de crédito, según Condusef",
-    "summary": "Condusef publicó una guía para evitar endeudarse con tarjeta de crédito durante el Buen Fin 2026. La nota resume recomendaciones para el uso responsable del crédito al consumo.",
-    "link": "https://expansion.mx/economia/2026/11/13/buen-fin-2026-guia-para-evitar-deudas-con-la-tarjeta-de-credito-segun-condusef",
-    "source": "Expansión",
-    "published": "2026-11-13T16:45:50+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 66,
-    "language": "es",
-    "light": false
   }
 ]
