@@ -1,5 +1,104 @@
 [
   {
+    "title": "Tech Executives Confront the AI PR Problem",
+    "summary": "Tech executives are working to counter growing public backlash against artificial intelligence and data centers. The piece looks at how the industry is trying to fix AI's PR problem.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/tech-executives-confront-the-ai-pr-problem",
+    "source": "Bloomberg",
+    "published": "2026-11-24T12:02:01+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ueno Bank: el consejo que dijo que todo estaba bien",
+    "summary": "Columna de Expansión sobre el caso Ueno Bank y el papel de su consejo de administración, que aseguraba que todo estaba bien. El texto plantea una lección de gobierno corporativo y supervisión del consejo en instituciones financieras.",
+    "link": "https://expansion.mx/opinion/2026/11/24/ueno-bank-el-consejo-que-dijo-que-todo-estaba-bien",
+    "source": "Expansión",
+    "published": "2026-11-24T11:59:41+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Ley de Economía Digital enfrentará resistencias; sugieren incentivos a comercios para impulsar pagos electrónicos",
+    "summary": "La propuesta de Ley de Economía Digital enfrentará resistencias, según Expansión. Se sugiere otorgar incentivos a los comercios para impulsar la adopción de pagos electrónicos.",
+    "link": "https://expansion.mx/economia/2026/11/24/ley-de-economia-digital-enfrentara-resistencias-sugieren-incentivos-a-comercios-para-impulsar-pagos-electronicos",
+    "source": "Expansión",
+    "published": "2026-11-24T11:55:12+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "summary": "Anthropic shares briefly traded below their $83 IPO price in premarket trading. The dip wiped out gains for investors who piled into the AI lab's record-setting debut.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "source": "Bloomberg",
+    "published": "2026-11-24T11:19:24+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 86,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Afore XXI Banorte alcanza el máximo reconocimiento en inversión responsable a nivel hispanoamericano",
+    "summary": "Afore XXI Banorte recibió el Grand Prix Inversionista ALAS20 2026, máxima distinción para inversionistas institucionales de Hispanoamérica. También obtuvo el primer lugar en México en la categoría de Inversión Responsable.",
+    "link": "https://www.elfinanciero.com.mx/empresas/2026/11/24/afore-xxi-banorte-alcanza-el-maximo-reconocimiento-en-inversion-responsable-a-nivel-hispanoamericano/",
+    "source": "El Financiero",
+    "published": "2026-11-24T11:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "DRW Plans Asset Management Foray With Compute, Crypto Focus",
+    "summary": "Trading firm DRW Holdings plans to manage outside money for the first time. The new asset management business will invest in AI-driven computing power and digital assets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/drw-plans-asset-management-foray-with-compute-crypto-focus",
+    "source": "Bloomberg",
+    "published": "2026-11-24T10:10:46+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Ex-RBI Chief Rajan Sees Nvidia Governance Risk in Huang’s Return",
+    "summary": "Former RBI governor Raghuram Rajan says Jensen Huang's surprise return to lead Nvidia puts a spotlight on corporate governance. He links the risk to the company's pivotal role in the AI boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/ex-rbi-chief-rajan-sees-nvidia-governance-risk-in-huang-s-return",
+    "source": "Bloomberg",
+    "published": "2026-11-24T09:13:10+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "JPMorgan, HSBC Trade New London Digital Gold for First Time",
+    "summary": "JPMorgan and other major dealers traded a new form of digital gold in London for the first time. The test could overhaul the plumbing of the world's biggest bullion hub.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
+    "source": "Bloomberg",
+    "published": "2026-11-24T08:00:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Inflación en México se aceleró a 3.96% en la primera quincena de noviembre, su mayor nivel desde mayo",
+    "summary": "La inflación general en México se aceleró a 3.96% anual en la primera quincena de noviembre, su mayor nivel desde mayo, según el INEGI. El INPC subió 0.54% quincenal, impulsado por alzas en electricidad y en verduras como jitomate y tomate verde, lo que complica el margen de recortes de Banxico.",
+    "link": "https://www.eleconomista.com.mx/economia/inflacion-mexico-acelero-3-96-primera-quincena-noviembre-mayor-nivel-mayo-20261124-845505.html",
+    "source": "El Economista",
+    "published": "2026-11-24T06:47:04-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "WorldRemit Founder Takes Aim at Global Migrant Banking Market",
     "summary": "WorldRemit founder Ismail Ahmed is launching a new fintech offering migrants a broader suite of financial services beyond money transfers. The bet targets a remittance flow approaching $1 trillion a year.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-24/worldremit-founder-takes-aim-at-global-migrant-banking-market",
@@ -9,6 +108,28 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "FinCEN sanciona a decenas de personas y entidades vinculadas a redes bancarias en la sombra de Irán",
+    "summary": "El Tesoro de EU, a través de FinCEN, sancionó a decenas de personas y entidades vinculadas a redes bancarias en la sombra de Irán. FinCEN también publicó un análisis para ayudar a las instituciones financieras a identificar estas redes.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/fincen-sanciona-decenas-personas-entidades-vinculadas-redes-bancarias-sombra-iran-20261124-845496.html",
+    "source": "El Economista",
+    "published": "2026-11-24T06:02:16-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Private House in Kaklebi / Werkraum Design Architecture",
+    "summary": "A private house near Tbilisi is composed of timber-clad volumes that follow the slope of a wooded site and preserve its mature trees. Spread across multiple levels, it minimizes its visual presence while giving each level its own relationship with the terrain.",
+    "link": "https://www.archdaily.com/1188266/private-house-in-kaklebi",
+    "source": "ArchDaily",
+    "published": "2026-11-24T06:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Rajan Warns AI Boom Faces a Reckoning on Returns",
@@ -73,6 +194,17 @@
     "published": "2026-11-23T23:36:09-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Alza al mínimo debe ser de hasta un dígito, reitera la lP",
+    "summary": "CCE y Concamin rechazaron un aumento de doble dígito al salario mínimo para 2027 y pidieron que sea de un dígito. Advirtieron que una alza mayor provocaría recortes de personal y cierres de negocios, sobre todo entre pequeñas empresas.",
+    "link": "https://www.eleconomista.com.mx/empresas/alza-minimo-debe-digito-reitera-lp-20261123-845486.html",
+    "source": "El Economista",
+    "published": "2026-11-23T23:33:33-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -163,6 +295,17 @@
     "relevance_score": 61,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
+    "summary": "US lawmakers from both parties vow to sharpen their probes of Jensen Huang as he returns to Nvidia. They insist the CEO must testify in public.",
+    "link": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-23T19:11:29+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Marlowe Hits $1.15B Valuation With Bet Beyond Nvidia",
@@ -339,6 +482,17 @@
     "relevance_score": 70,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "TS Building / De Rungs Arquitectos",
+    "summary": "Un edificio de oficinas de los años 80 en la calle Tolstoi, deteriorado, fue adaptado a un nuevo programa residencial por De Rungs Arquitectos. La planta libre y el buen estado de la estructura permitieron la reconversión.",
+    "link": "https://www.archdaily.com/1189081/ts-building-de-rungs-arquitectos",
+    "source": "ArchDaily",
+    "published": "2026-11-23T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Bartleby newsletter: Valley mentality",
@@ -713,6 +867,17 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "World Building of The Year and Interior of The Year Revealed at World Architecture Festival 2026",
+    "summary": "Sanjay Puri Architects' Prestige University in Indore, India, was named World Building of the Year at the 2026 World Architecture Festival. The festival also announced its World Interior and Future Project of the Year awards.",
+    "link": "https://www.archdaily.com/1189039/world-building-of-the-year-and-interior-of-the-year-revealed-at-world-architecture-festival-2026",
+    "source": "ArchDaily",
+    "published": "2026-11-23T04:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
   },
   {
     "title": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff",
@@ -5331,171 +5496,6 @@
     "published": "2026-11-14T20:00:00+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Vales de despensa: qué revisar antes de contratar un monedero electrónico",
-    "summary": "Para que los vales de despensa sean deducibles, deben entregarse mediante monederos electrónicos autorizados por el SAT. Antes de elegir proveedor conviene revisar la autorización del emisor, la trazabilidad de las operaciones y la atención al trabajador.",
-    "link": "https://www.eleconomista.com.mx/empresas/vales-despensa-revisar-contratar-monedero-electronico-20261114-844073.html",
-    "source": "El Economista",
-    "published": "2026-11-14T19:17:52-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios sin consentimiento",
-    "summary": "La autoridad italiana de protección de datos multó a Meta con 805 millones de euros por acceder, vía la app de Facebook en Android, a fotos, videos y metadatos de usuarios sin consentimiento específico. Es una de las mayores sanciones de privacidad del año.",
-    "link": "https://www.eleconomista.com.mx/internacionales/italia-multa-meta-805-millones-euros-acceder-fotos-usuarios-consentimiento-20261114-844068.html",
-    "source": "El Economista",
-    "published": "2026-11-14T18:40:35-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Vanguard House / Ming Architects",
-    "summary": "Vanguard House by Ming Architects is a spacious residence built around privacy and serenity. Concealed living spaces and central water features create a light, relaxing atmosphere.",
-    "link": "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
-    "source": "ArchDaily",
-    "published": "2026-11-14T17:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO Tests Investor Appetite for AI",
-    "summary": "Anthropic's upcoming IPO is shaping up as a major test of investor appetite for AI, with the offering reportedly heavily oversubscribed and following SpaceX's blockbuster debut. Nvidia's planned investment in Anthropic and Jensen Huang's departure loom over the deal.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-11-14T15:54:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How China’s Intelligence Operations Target Tech",
-    "summary": "Former CIA analyst Peter Mattis explains how China's Ministry of State Security uses business and personal ties to target tech executives, and how AI is expanding its intelligence capabilities.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-    "source": "Bloomberg",
-    "published": "2026-11-14T15:41:12+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Minthis Resort Development / Woods Bagot",
-    "summary": "Woods Bagot delivered master planning, architecture, interiors and branding for Minthis, a hillside resort development in Tsada Village, Paphos, with developer Pafilia. The project blends local antiquity with premium retreat-style amenities.",
-    "link": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
-    "source": "ArchDaily",
-    "published": "2026-11-14T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 60,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
-    "summary": "Italy's data protection authority fined Meta €805 million for accessing Android users' photo and video galleries without explicit consent. A large privacy enforcement action in Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
-    "source": "Bloomberg",
-    "published": "2026-11-14T14:53:25+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia Looks for a New Era After Huang",
-    "summary": "Emily Chang examines Nvidia's succession challenge after Huang's departure: who could succeed him, its China strategy, and whether it can preserve the relationships Huang built. A case study in founder succession.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-    "source": "Bloomberg",
-    "published": "2026-11-14T14:25:34+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 63,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-    "summary": "Months after SpaceX was denied swift entry into the S&P 500, Elon Musk is pitching a merger with Tesla that could serve as a backdoor into the index.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
-    "source": "Bloomberg",
-    "published": "2026-11-14T14:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
-    "summary": "Nvidia named longtime CFO Colette Kress interim CEO after Jensen Huang's abrupt departure, which may offer investors some stability. The upheaval tests whether the company can move beyond a leader who defined it for three decades.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
-    "source": "Bloomberg",
-    "published": "2026-11-14T12:47:31+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Te piden dinero antes de darte un préstamo? Así operan los fraudes que advierte la Condusef",
-    "summary": "La Condusef alertó sobre fraudes de supuestos prestamistas que ofrecen grandes montos sin consultar el Buró de Crédito y con requisitos mínimos. La señal de alarma es que pidan depósitos por adelantado para autorizar o liberar el crédito.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/te-piden-dinero-darte-prestamo-asi-operan-fraudes-advierte-condusef-20261114-843468.html",
-    "source": "El Economista",
-    "published": "2026-11-14T12:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿Por qué el petróleo no ha provocado una crisis económica mayor? Goldman analiza el efecto en América Latina",
-    "summary": "Goldman Sachs atribuye a factores estructurales, medidas gubernamentales y una inflación menor de la prevista que el alza del petróleo tras la guerra con Irán no haya provocado una crisis en emergentes. América Latina figura entre las regiones con efectos relativamente acotados.",
-    "link": "https://www.bloomberglinea.com/mercados/por-que-el-petroleo-no-ha-provocado-una-crisis-economica-mayor-goldman-analiza-el-efecto-en-america-latina/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-14T12:00:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Bottom Line newsletter: Nvidia will never be the same",
-    "summary": "The Economist's chip-industry expert reflects on the fall of Jensen Huang and argues Nvidia will never be the same. A newsletter take on the AI chip leader's future.",
-    "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-    "source": "The Economist",
-    "published": "2026-11-14T11:55:51+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
-    "summary": "Nvidia lacks full insurance coverage for damages stemming from executive conduct, exposing it to potential lawsuits after Huang's downfall. A reminder of D&O and key-man risk.",
-    "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-14T11:00:09+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-    "summary": "Wall Street is reassessing Nvidia after Jensen Huang's exit, framing it as the ultimate key-man risk. Investors are weighing what the leadership change means for the AI chip leader's valuation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
-    "source": "Bloomberg",
-    "published": "2026-11-14T09:00:19+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
     "language": "en",
     "light": true
   }
