@@ -1,5 +1,126 @@
 [
   {
+    "title": "Peso vive su peor racha de pérdidas en los últimos cinco años",
+    "summary": "El peso mexicano se encamina a su racha bajista más larga en cinco años, con una caída de 6.3% en siete sesiones, mientras se desarma el carry trade y los inversionistas buscan refugio. Es la moneda con peor desempeño de la región.",
+    "link": "https://www.elfinanciero.com.mx/economia/2026/11/26/peso-vive-su-peor-racha-de-perdidas-en-los-ultimos-cinco-anos/",
+    "source": "El Financiero",
+    "published": "2026-11-26T18:07:47+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+    "summary": "Bank of England Governor Andrew Bailey said unreleased AI models have raised encryption concerns, as mathematical breakthroughs stoke fears that data across financial systems is under threat.",
+    "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-26T17:13:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wall Street se vuelve más cauteloso con el carry trade",
+    "summary": "El carry trade llegó a generar retornos cercanos a 20% y resistió guerras y crisis políticas. Ahora la volatilidad obliga a Wall Street a replantear una de sus operaciones favoritas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
+    "source": "Bloomberg",
+    "published": "2026-11-26T16:29:26+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": true
+  },
+  {
+    "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+    "summary": "SAP is preparing a plan to eliminate at least 10,000 positions to transform its software business for the AI era, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+    "source": "Bloomberg",
+    "published": "2026-11-26T16:15:48+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "BCG on What’s Keeping CEOs Up at Night",
+    "summary": "A new BCG survey shows AI, employee trust, political uncertainty and growth pressure are weighing most on CEOs.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-26/bcg-on-what-s-keeping-ceos-up-at-night-video",
+    "source": "Bloomberg",
+    "published": "2026-11-26T15:20:01+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Dólar en México: proyección de BBVA ve margen para superar los MXN$20 antes de la decisión de la Fed",
+    "summary": "BBVA advierte que el peso podría superar los MXN$20 por dólar antes de la última reunión del año de la Fed, ante su pérdida de atractivo y mayor aversión global al riesgo. El dólar tocó MXN$19.62, su nivel más alto desde mayo de 2025, y el peso acumula una depreciación de 4.25% en noviembre.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-en-mexico-proyeccion-de-bbva-ve-margen-para-superar-los-mxn20-antes-de-la-decision-de-la-fed/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-26T15:14:07+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
+    "summary": "The Irish High Court declined to approve Bawag Group's takeover of Permanent TSB, ruling that the Austrian bank must also seek approval from minority shareholders. A setback for a notable European bank M&A deal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
+    "source": "Bloomberg",
+    "published": "2026-11-26T15:09:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 70,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
+    "summary": "The Mexican peso is headed for its longest losing streak in five years as investors flee to safe havens and the popular carry trade unravels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
+    "source": "Bloomberg",
+    "published": "2026-11-26T15:07:52+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+    "summary": "A hawkish Fed is poised to raise rates despite stock market turmoil, with inflation remaining the top concern for US central bank officials.",
+    "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-26T14:58:45+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "How will Anthropic’s cashed-up employees spend their riches?",
+    "summary": "The Economist looks at how Anthropic's newly wealthy employees may spend their riches, with charities expecting a windfall.",
+    "link": "https://www.economist.com/business/2026/11/26/how-will-anthropics-cashed-up-employees-spend-their-riches",
+    "source": "The Economist",
+    "published": "2026-11-26T13:45:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "UBS Vows to Remain Global as Swiss Capital Outlook Darkens",
+    "summary": "UBS leadership sought to reassure staff that Switzerland's tighter capital regulation won't force the bank to abandon its global business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/ubs-vows-to-remain-global-as-swiss-capital-outlook-darkens",
+    "source": "Bloomberg",
+    "published": "2026-11-26T13:08:31+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Brazil Tightens Consumer Lending Rules as Household Debt Soars",
     "summary": "Brazil's central bank unveiled measures to curb excessive consumer borrowing as President Lula grows concerned about soaring household debt. A regional signal on consumer-credit regulation in LatAm.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
@@ -31,6 +152,28 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Cómo la IA cambiará los negocios",
+    "summary": "Columna de opinión de Expansión sobre cómo la inteligencia artificial transformará los modelos de negocio de las empresas.",
+    "link": "https://expansion.mx/opinion/2026/11/26/como-la-ia-cambiara-los-negocios",
+    "source": "Expansión",
+    "published": "2026-11-26T12:07:50+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tu próximo ciberataque ya ocurrió",
+    "summary": "Columna de Expansión que advierte que las organizaciones deben asumir que ya han sido vulneradas y preparar su respuesta ante ciberataques.",
+    "link": "https://expansion.mx/opinion/2026/11/26/tu-proximo-ciberataque-ya-ocurrio",
+    "source": "Expansión",
+    "published": "2026-11-26T12:03:15+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
@@ -88,6 +231,17 @@
     "light": true
   },
   {
+    "title": "¿Vas a comprar en el Black Friday y Cyber ​​Monday? Planifica tus MSI y evita el sobreendeudamiento",
+    "summary": "Las compras a meses sin intereses en Black Friday y Cyber Monday pueden acumular deudas difíciles de pagar si no se planifican. Especialistas recomiendan controlar el número de compromisos simultáneos para evitar el sobreendeudamiento.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/vas-comprar-black-friday-cyber-monday-planifica-tus-msi-evita-sobreendeudamiento-20261126-845602.html",
+    "source": "El Economista",
+    "published": "2026-11-26T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Wall Street Flips From AI Euphoria to Gloom",
     "summary": "Wall Street has swung from AI euphoria to gloom, with US stocks the most volatile in years. Summary based on the blurb only.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
@@ -97,6 +251,17 @@
     "relevance_score": 62,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "¿Aún conviene invertir en Cetes tras el recorte en la tasa de interés de Banxico?",
+    "summary": "Banxico recortó su tasa de referencia de 6.50% a 6.25%, tras un máximo de 11.25%, lo que reduce en teoría el costo del crédito y los rendimientos del ahorro. La nota analiza si aún conviene invertir en Cetes con el nuevo nivel de tasas.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/aun-conviene-invertir-cetes-recorte-tasa-interes-banxico-20261126-845147.html",
+    "source": "El Economista",
+    "published": "2026-11-26T10:55:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
   },
   {
     "title": "La revolución imparable de la IA en las oficinas",
@@ -5331,171 +5496,6 @@
     "published": "2026-11-17T15:54:48+00:00",
     "category": "Regulation / Governance / Risk",
     "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Top AI Models Regularly Identify Civilians as Military Targets in Tests",
-    "summary": "An independent research report found that advanced AI models in simulated scenarios regularly misidentified civilians, ambulances, surrendering soldiers and a school as military targets. The findings add to concerns about model risk and AI governance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests",
-    "source": "Bloomberg",
-    "published": "2026-11-17T15:00:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Madre Culebra Cabin / Taller Viga Maestra",
-    "summary": "Madre Culebra Refuge, by Taller Viga Maestra, sits in a native-forest clearing in Chile's Las Trancas Valley at the foot of the Andes. The compact, vertical mountain shelter is designed to withstand extreme conditions and gather family and friends.",
-    "link": "https://www.archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra",
-    "source": "ArchDaily",
-    "published": "2026-11-17T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 64,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
-    "summary": "SpaceX may begin part of a $40 billion debt sale to fund purchases of AI chips as soon as this week, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-    "source": "Bloomberg",
-    "published": "2026-11-17T14:53:10+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 65,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "México enfrenta trabas para atraer centros de datos de IA",
-    "summary": "Brasil tiene 225 centros de datos y México apenas 71. Pese a su cercanía con EE.UU., una red eléctrica débil y retrasos en permisos amenazan con dejar al país al margen del auge de inversión en infraestructura de IA.",
-    "link": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia",
-    "source": "Bloomberg",
-    "published": "2026-11-17T13:00:04+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apollo’s Zelter Sees Nvidia as First Big Stress Test for AI",
-    "summary": "Jim Zelter, presidente de Apollo, califica la saga de Nvidia como la primera gran prueba de estrés para la inteligencia artificial. Advierte que el entorno actual no es para inversionistas inexpertos.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-17/apollo-s-zelter-sees-nvidia-as-first-big-ai-stress-test-video",
-    "source": "Bloomberg",
-    "published": "2026-11-17T12:56:04+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private Equity Finds a Year-End Window to Take Cash Out of Firms",
-    "summary": "Aunque la actividad de compras de private equity luce frenada al cierre del año, los fondos encuentran una ventana para extraer efectivo de sus empresas en cartera, vía dividendos y refinanciamientos.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/private-equity-finds-a-year-end-window-to-take-cash-out-of-firms",
-    "source": "Bloomberg",
-    "published": "2026-11-17T12:51:46+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Salario mínimo subiría a 10,700 pesos al mes en 2027: IMCP",
-    "summary": "El IMCP estima que el salario mínimo general subiría entre 12% y 13% en 2027, a entre 352 y 355 pesos diarios, unos 10,700 pesos al mes. La Conasami sesionará de forma permanente la próxima semana y deberá definir el aumento a más tardar el 1 de diciembre.",
-    "link": "https://www.eleconomista.com.mx/capital-humano/salario-minimo-subiria-10-700-pesos-mes-2027-imcp-20261117-844388.html",
-    "source": "El Economista",
-    "published": "2026-11-17T12:37:39-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed’s Musalem Says ‘Several’ Rate Hikes Likely Needed by Spring",
-    "summary": "Alberto Musalem, presidente de la Fed de St. Louis, respaldó varias alzas de tasas en los próximos meses para controlar la inflación. Un giro restrictivo de la Fed presionaría las tasas y el peso mexicano.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring",
-    "source": "Bloomberg",
-    "published": "2026-11-17T12:30:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El código corre, pero ¿la operación alcanza?",
-    "summary": "La IA acelera la programación y las entregas de software, pero la encuesta de Bain a 293 líderes de tecnología (abril 2026) muestra que la operación en producción no siempre escala al mismo ritmo. La pregunta clave es si la confiabilidad operativa acompaña la velocidad.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/17/el-codigo-corre-pero-la-operacion-alcanza/",
-    "source": "El Financiero",
-    "published": "2026-11-17T12:18:32+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "El verdadero desafío del T-MEC en 2026 está en el compliance",
-    "summary": "Frente al ruido por la revisión del T-MEC en 2026, el autor advierte que basar la estrategia en adivinar el desenlace político es un error. El verdadero reto para las empresas en México es operativo: el cumplimiento de reglas de origen y compliance.",
-    "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/17/el-verdadero-desafio-del-t-mec-en-2026-esta-en-el-compliance/",
-    "source": "El Financiero",
-    "published": "2026-11-17T12:10:55+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO: Hedge Fund Coatue Has $10 Billion Stake in Claude Maker",
-    "summary": "Coatue Management está por obtener una ganancia multimillonaria con la inminente salida a bolsa de Anthropic, donde tiene una participación valuada en unos 10,000 millones de dólares. Es la mayor victoria de las apuestas agresivas del fondo en startups de IA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker",
-    "source": "Bloomberg",
-    "published": "2026-11-17T12:10:03+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Ciberespías usan facturas como caballos de Troya para infiltrar grandes empresas y gobiernos",
-    "summary": "Expansión reporta una campaña de ciberespionaje que usa facturas falsas como caballo de Troya para infiltrar grandes empresas y gobiernos. Recordatorio del riesgo de phishing en procesos de cuentas por pagar.",
-    "link": "https://expansion.mx/tecnologia/2026/11/17/darkcaracal-ciberespionaje-facturas-falsas-malware",
-    "source": "Expansión",
-    "published": "2026-11-17T11:55:58+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Sequoia, Greenoaks Lead Isomorphic Lab’s $5 Billion Funding Round",
-    "summary": "Isomorphic Labs, de Alphabet, levantó 5,000 millones de dólares en una ronda liderada por Sequoia y Greenoaks, apenas seis meses después de su ronda anterior. La empresa diseña nuevos fármacos con inteligencia artificial.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round",
-    "source": "Bloomberg",
-    "published": "2026-11-17T11:50:03+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Optimizar no es decidir",
-    "summary": "La IA ya toma decisiones operativas en las empresas con base en funciones de optimización, pero optimizar no equivale a decidir bien. El texto plantea que consejeros y directivos deben aprender a gobernar algoritmos, no solo personas.",
-    "link": "https://www.elfinanciero.com.mx/opinion/eugenio-gomez/2026/11/17/optimizar-no-es-decidir/",
-    "source": "El Financiero",
-    "published": "2026-11-17T11:30:00+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Apple Watch With Audio Intelligence AI and Amazon Bee Raise Privacy Concerns",
-    "summary": "AI wearables like the Apple Watch's audio intelligence features and Amazon's Bee promise convenience but sometimes get confused. Their always-listening design also raises privacy concerns.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/apple-watch-with-audio-intelligence-ai-and-amazon-bee-raise-privacy-concerns",
-    "source": "Bloomberg",
-    "published": "2026-11-17T11:28:02+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   }
