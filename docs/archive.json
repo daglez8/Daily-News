@@ -1,5 +1,126 @@
 [
   {
+    "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+    "summary": "Adobe expects AI-assisted traffic to US retail sites this holiday season to more than double last year's, as consumers shift from search engines to digital assistants. A signal of how AI agents are changing customer acquisition. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T12:12:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+    "summary": "LIAN Group, developer of AI and computing infrastructure, has chosen London for a potential $500 million IPO next year. It would be a boost to the city's lackluster listings market. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:49:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
+    "summary": "Deutsche Boerse's €5.3 billion ($5.8 billion) acquisition of fund-distribution platform Allfunds won unconditional EU approval. The deal will be the largest in the German exchange operator's history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+    "summary": "Portuguese insurer Fidelidade is preparing a potential IPO in Lisbon as soon as the second half of 2027, according to people familiar with the matter. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:25:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hackers Breached US Air Force’s Cloud Platform, Says Reuters",
+    "summary": "Hackers breached the US Air Force's flagship cloud platform, Cloud One, potentially exposing sensitive tactical and personnel data, Reuters reported. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:20:39+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry",
+    "summary": "SAP is weighing cutting at least 10,000 jobs as part of an AI-driven restructuring, alongside reported turnover in its executive team. The move is another sign of AI reshaping headcount at large tech firms. Summary based on headline only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:11:54+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Tu seguro médico subió más de 100%? Diputados van contra abusos de aseguradoras",
+    "summary": "Todas las bancadas de la Cámara de Diputados firmaron una iniciativa de Ricardo Monreal contra los 'abusos' de las aseguradoras de gastos médicos mayores, con reformas a la Ley Federal de Protección al Consumidor y la Ley sobre el Contrato de Seguro. Se pidió dictaminarla de inmediato ante alzas de pólizas superiores a 100%.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/11/27/tu-seguro-medico-subio-mas-de-100-diputados-van-contra-abusos-de-aseguradoras/",
+    "source": "El Financiero",
+    "published": "2026-11-27T10:46:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El día en que los edificios aprendieron a pensar.",
+    "summary": "Columna sobre edificios inteligentes capaces de anticipar averías, detectar fugas y ajustar su consumo energético gracias a gemelos digitales e IA que simulan miles de decisiones antes de ejecutarlas. Plantea el impacto de la IA en la gestión de inmuebles.",
+    "link": "https://www.elfinanciero.com.mx/opinion/raul-asis-monforte-gonzalez/2026/11/27/el-dia-en-que-los-edificios-aprendieron-a-pensar/",
+    "source": "El Financiero",
+    "published": "2026-11-27T10:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Baja California capta 2,362 millones de dólares de IED",
+    "summary": "Baja California captó 2,362 millones de dólares de IED entre enero y septiembre de 2026, 25.8% más que un año antes, y se mantiene en el cuarto lugar nacional. El flujo refuerza la demanda inmobiliaria ligada al nearshoring en el norte del país.",
+    "link": "https://www.eleconomista.com.mx/estados/baja-california-capta-2-362-millones-dolares-ied-20261127-846087.html",
+    "source": "El Economista",
+    "published": "2026-11-27T07:00:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Binance finaliza trabajos de recuperación de retiros tras ciberataque",
+    "summary": "Binance terminó de restablecer sus sistemas de retiro tras el ciberataque del mes pasado, en el que perdió unos 6,300 millones de dólares en tokens y bloqueó retiros por dos días. El caso subraya el riesgo operativo y cibernético en plataformas financieras digitales.",
+    "link": "https://www.eleconomista.com.mx/mercados/binance-finaliza-trabajos-recuperacion-retiros-ciberataque-20261127-846172.html",
+    "source": "El Economista",
+    "published": "2026-11-27T06:33:27-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oficial: Gasolineras y casetas ya sólo recibirán pagos electrónicos; SHCP determina estos 2 sectores como estratégicos",
+    "summary": "La SHCP designó a gasolineras y casetas de peaje como sectores estratégicos bajo la Ley de Economía Digital para Pagos Digitales y Electrónicos, por lo que solo aceptarán pagos electrónicos. La medida acelera la digitalización de pagos en México y abre oportunidades para bancos y fintechs.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/oficial-gasolineras-casetas-recibiran-pagos-electronicos-shcp-determina-2-sectores-estrategicos-20261127-846167.html",
+    "source": "El Economista",
+    "published": "2026-11-27T06:05:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
     "summary": "Kirkland & Ellis faces criticism from private equity investors over continuation-vehicle ('sell-to-yourself') deals. Lawyers say the contracts remove investors' right to sue in the event of a dispute.",
     "link": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
@@ -195,6 +316,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 76,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "High Andean Refuge in Quichuay / Pircanato / Pircanato",
+    "summary": "The High Andean Refuge in Quichuay, Peru, combines contemporary materials with traditional highland building techniques in an experimental system. It is designed for extreme mountain climates and replicable housing for rural communities.",
+    "link": "https://www.archdaily.com/1189328/high-andean-refuge-in-quichuay-pircanato-pircanato",
+    "source": "ArchDaily",
+    "published": "2026-11-26T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -5366,137 +5498,5 @@
     "relevance_score": 74,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Wall Street expects corporate earnings growth to halve next year",
-    "summary": "Analysts expect global corporate profit growth to fall to 16% next year from 33.5% as the pace of AI capex expansion slows.",
-    "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T05:00:16+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
-    "summary": "KPMG used AI agents to review the financial statements of a FTSE 250 company in a pilot audit, and the AI asked 'better questions' than human accountants. Human intervention was still required during the exercise.",
-    "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T05:00:07+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Singapore to Deploy AI to Fight Scams, Boost Business Lending",
-    "summary": "Singapore is launching three AI missions in finance covering financial crime, business lending and AI-agent transactions, Deputy PM Gan Kim Yong said. The push expands AI use across the city-state's financial sector, including scam prevention and SME credit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/singapore-to-deploy-ai-to-fight-scams-boost-business-lending",
-    "source": "Bloomberg",
-    "published": "2026-11-18T02:36:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 86,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Hackeos en tiempo récord? FBI alerta por IA que permite ataques cibernéticos en menos de 3 horas",
-    "summary": "El FBI emitió una alerta sobre ARTEX, una herramienta impulsada por IA que puede reducir a unas horas ciberataques que antes requerían mucho más tiempo y conocimiento técnico. El caso ilustra cómo la IA acelera las amenazas de ciberseguridad.",
-    "link": "https://www.elfinanciero.com.mx/mundo/2026/11/17/hackeos-en-tiempo-record-fbi-alerta-por-ia-que-permite-ataques-ciberneticos-en-menos-de-3-horas/",
-    "source": "El Financiero",
-    "published": "2026-11-18T01:52:02+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "The Bank of Nvidia Is Becoming More ‘Disciplined’ and Selective",
-    "summary": "Nvidia, which has become a key source of investment and financial backstops for AI startups, compute providers and model developers, is becoming more selective in its deals. The shift could tighten funding for parts of the AI ecosystem.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/the-bank-of-nvidia-is-becoming-more-disciplined-and-selective",
-    "source": "Bloomberg",
-    "published": "2026-11-18T01:41:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "summary": "Malaysia is seeking further details from Anthropic over the alleged use of its AI models to power a political influence operation targeting Malaysian voters. The case raises AI misuse and governance questions ahead of Anthropic's IPO.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "published": "2026-11-18T01:09:18+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Ley de Economía Digital exige hoy el respaldo de empresas como Broxel",
-    "summary": "Expansión analiza cómo la Ley de Economía Digital exige el respaldo de empresas de servicios financieros digitales como Broxel. La nota se enfoca en el papel de las fintech en el nuevo marco regulatorio digital en México.",
-    "link": "https://expansion.mx/bespoke-ad/2026/11/17/la-ley-de-economia-digital-exige-hoy-el-respaldo-de-empresas-como-broxel",
-    "source": "Expansión",
-    "published": "2026-11-18T00:40:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La regulación de los chatbots",
-    "summary": "Una iniciativa de la senadora Rocío Corona Nakamura (PVEM) propone reformar la Ley Federal de Protección al Consumidor para regular la atención a clientes mediante chatbots y sistemas automatizados sin intervención humana directa. La columna analiza las implicaciones para proveedores que usan IA en servicio al cliente.",
-    "link": "https://www.eleconomista.com.mx/opinion/regulacion-chatbots-20261118-844522.html",
-    "source": "El Economista",
-    "published": "2026-11-18T00:20:24-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Nvidia’s roaring results can’t hide its troubles",
-    "summary": "Despite roaring results, The Economist argues Jensen Huang's departure will cause lasting damage to Nvidia. A case study in succession and key-person risk.",
-    "link": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "source": "The Economist",
-    "published": "2026-11-18T00:20:05+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Cárteles ganan 350 millones de dólares en fraudes de tiempos compartidos",
-    "summary": "Según la Evaluación Nacional de Riesgos de Lavado de Dinero 2026 del Tesoro de EU, el CJNG y los cárteles del Golfo y Sinaloa obtuvieron unos 350 millones de dólares con fraudes de tiempos compartidos entre 2019 y 2024. Los fraudes afectaron a cerca de 6,000 víctimas en Estados Unidos y son relevantes para el mercado turístico-inmobiliario.",
-    "link": "https://www.eleconomista.com.mx/politica/carteles-ganan-350-millones-dolares-fraudes-tiempos-compartidos-20261118-844520.html",
-    "source": "El Economista",
-    "published": "2026-11-18T00:04:04-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 60,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO",
-    "summary": "Several of Anthropic's existing VC backers, including Sequoia and Lightspeed, plan to invest more in the AI company's upcoming IPO. The move signals continued investor support for the offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
-    "source": "Bloomberg",
-    "published": "2026-11-17T23:53:15+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Carlos Slim rescató una vieja fábrica de aluminio y le puso albercas, toboganes, plaza, casas, hotel y hasta hospital",
-    "summary": "Carlos Slim reconvirtió una antigua fábrica de aluminio en un desarrollo de uso mixto con albercas, toboganes, plaza, viviendas, hotel y hospital. Un ejemplo de regeneración inmobiliaria a gran escala en México.",
-    "link": "https://expansion.mx/empresas/2026/11/17/carlos-slim-y-su-parque-acuatico-en-veracruz",
-    "source": "Expansión",
-    "published": "2026-11-17T23:49:09+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
   }
 ]

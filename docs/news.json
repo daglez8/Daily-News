@@ -1,5 +1,159 @@
 [
   {
+    "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+    "summary": "Adobe expects AI-assisted traffic to US retail sites this holiday season to more than double last year's, as consumers shift from search engines to digital assistants. A signal of how AI agents are changing customer acquisition. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T12:12:23+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+    "summary": "LIAN Group, developer of AI and computing infrastructure, has chosen London for a potential $500 million IPO next year. It would be a boost to the city's lackluster listings market. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:49:21+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
+    "summary": "Deutsche Boerse's €5.3 billion ($5.8 billion) acquisition of fund-distribution platform Allfunds won unconditional EU approval. The deal will be the largest in the German exchange operator's history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:30:00+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+    "summary": "Portuguese insurer Fidelidade is preparing a potential IPO in Lisbon as soon as the second half of 2027, according to people familiar with the matter. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:25:27+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Hackers Breached US Air Force’s Cloud Platform, Says Reuters",
+    "summary": "Hackers breached the US Air Force's flagship cloud platform, Cloud One, potentially exposing sensitive tactical and personnel data, Reuters reported. Summary based on the blurb only.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:20:39+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry",
+    "summary": "SAP is weighing cutting at least 10,000 jobs as part of an AI-driven restructuring, alongside reported turnover in its executive team. The move is another sign of AI reshaping headcount at large tech firms. Summary based on headline only.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T11:11:54+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Tu seguro médico subió más de 100%? Diputados van contra abusos de aseguradoras",
+    "summary": "Todas las bancadas de la Cámara de Diputados firmaron una iniciativa de Ricardo Monreal contra los 'abusos' de las aseguradoras de gastos médicos mayores, con reformas a la Ley Federal de Protección al Consumidor y la Ley sobre el Contrato de Seguro. Se pidió dictaminarla de inmediato ante alzas de pólizas superiores a 100%.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/11/27/tu-seguro-medico-subio-mas-de-100-diputados-van-contra-abusos-de-aseguradoras/",
+    "source": "El Financiero",
+    "published": "2026-11-27T10:46:24+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "El día en que los edificios aprendieron a pensar.",
+    "summary": "Columna sobre edificios inteligentes capaces de anticipar averías, detectar fugas y ajustar su consumo energético gracias a gemelos digitales e IA que simulan miles de decisiones antes de ejecutarlas. Plantea el impacto de la IA en la gestión de inmuebles.",
+    "link": "https://www.elfinanciero.com.mx/opinion/raul-asis-monforte-gonzalez/2026/11/27/el-dia-en-que-los-edificios-aprendieron-a-pensar/",
+    "source": "El Financiero",
+    "published": "2026-11-27T10:30:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 61,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Baja California capta 2,362 millones de dólares de IED",
+    "summary": "Baja California captó 2,362 millones de dólares de IED entre enero y septiembre de 2026, 25.8% más que un año antes, y se mantiene en el cuarto lugar nacional. El flujo refuerza la demanda inmobiliaria ligada al nearshoring en el norte del país.",
+    "link": "https://www.eleconomista.com.mx/estados/baja-california-capta-2-362-millones-dolares-ied-20261127-846087.html",
+    "source": "El Economista",
+    "published": "2026-11-27T07:00:00-06:00",
+    "category": "Real Estate & Foreign Buyers",
+    "relevance_score": 65,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Binance finaliza trabajos de recuperación de retiros tras ciberataque",
+    "summary": "Binance terminó de restablecer sus sistemas de retiro tras el ciberataque del mes pasado, en el que perdió unos 6,300 millones de dólares en tokens y bloqueó retiros por dos días. El caso subraya el riesgo operativo y cibernético en plataformas financieras digitales.",
+    "link": "https://www.eleconomista.com.mx/mercados/binance-finaliza-trabajos-recuperacion-retiros-ciberataque-20261127-846172.html",
+    "source": "El Economista",
+    "published": "2026-11-27T06:33:27-06:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 63,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Oficial: Gasolineras y casetas ya sólo recibirán pagos electrónicos; SHCP determina estos 2 sectores como estratégicos",
+    "summary": "La SHCP designó a gasolineras y casetas de peaje como sectores estratégicos bajo la Ley de Economía Digital para Pagos Digitales y Electrónicos, por lo que solo aceptarán pagos electrónicos. La medida acelera la digitalización de pagos en México y abre oportunidades para bancos y fintechs.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/oficial-gasolineras-casetas-recibiran-pagos-electronicos-shcp-determina-2-sectores-estrategicos-20261127-846167.html",
+    "source": "El Economista",
+    "published": "2026-11-27T06:05:53-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+    "summary": "Private equity investors are pushing back on Kirkland & Ellis over continuation-vehicle ('sell-to-yourself') deals. Lawyers say the contracts strip investors of the right to sue in the event of a dispute. Summary based on the blurb only.",
+    "link": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T05:00:23+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Qué tan sostenible financieramente es el boom de la inteligencia artificial?",
+    "summary": "La inversión mundial en infraestructura de IA ronda el billón de dólares en 2026, el doble que en 2025. Según Delphos Investment, la industria deberá conseguir unos US$1.8 billones entre 2027 y 2030 para cubrir la brecha entre inversiones y generación de caja.",
+    "link": "https://www.bloomberglinea.com/mercados/que-tan-sostenible-financieramente-es-el-boom-de-la-inteligencia-artificial/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-27T05:00:09+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
+    "summary": "Moisés Chaves deja el Consejo de Administración de Bankaool luego de que la CNBV no autorizara su cargo como accionista mayoritario. El caso muestra el escrutinio del regulador sobre la gobernanza y la propiedad de bancos pequeños en México.",
+    "link": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
+    "source": "Expansión",
+    "published": "2026-11-27T02:09:18+00:00",
+    "category": "HIR / Creditaria Competitive Intel",
+    "relevance_score": 88,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Hola Conasami: En 2026 se han perdido 482,000 empleos formales",
     "summary": "Entre diciembre de 2025 y octubre de 2026 se perdieron 482,961 empleos formales según la ENOE del INEGI, mientras la informalidad creció en promedio 82 mil por mes. El deterioro del empleo formal es una señal de alerta para la originación y la calidad del crédito.",
     "link": "https://www.eleconomista.com.mx/opinion/hola-conasami-2026-han-perdido-482-000-empleos-formales-20261127-846161.html",
@@ -22,118 +176,8 @@
     "light": false
   },
   {
-    "title": "Protección patrimonial, ¿descalabro anunciado?",
-    "summary": "La unión de crédito Protección Patrimonial cayó en impago con sus acreditados tras el fallecimiento de su director general y consejero. La columna advierte que cientos de ahorradores podrían perder recursos cuantiosos, en su mayoría sin garantías, un caso de riesgo de gobernanza en entidades financieras no bancarias.",
-    "link": "https://www.eleconomista.com.mx/opinion/proteccion-patrimonial-descalabro-anunciado-20261126-846157.html",
-    "source": "El Economista",
-    "published": "2026-11-26T23:58:40-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Crisis de vivienda, mercado y densificación urbana (I)",
-    "summary": "Se estima en unos 500 mil los nuevos demandantes de vivienda al año en México, pero la producción formal registrada en el RUV fue de apenas 138 mil unidades en 2025, 54% menos que en 2015. El análisis plantea la densificación urbana y el papel del mercado frente a la brecha de vivienda.",
-    "link": "https://www.eleconomista.com.mx/opinion/crisis-vivienda-mercado-densificacion-urbana-i-20261126-846143.html",
-    "source": "El Economista",
-    "published": "2026-11-26T23:01:58-06:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
-    "summary": "Kirkland & Ellis faces criticism from private equity investors over continuation-vehicle ('sell-to-yourself') deals. Lawyers say the contracts remove investors' right to sue in the event of a dispute.",
-    "link": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-27T05:00:23+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Tech stocks set for worst month in four years as volatility surges",
-    "summary": "Tech stocks are on track for their worst month in four years as volatility surges. The once all-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings.",
-    "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-27T05:00:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kalshi’s next big bet: ‘microinsurance’ for small businesses",
-    "summary": "Kalshi plans to expand into 'microinsurance' for small businesses. The platform hopes conventional financial services will offset lost sports-wagering business, which faces mounting legal threats.",
-    "link": "https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-27T05:00:13+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "¿Qué tan sostenible financieramente es el boom de la inteligencia artificial?",
-    "summary": "La inversión mundial en infraestructura de IA ronda el billón de dólares en 2026, el doble que en 2025. Según Delphos Investment, la industria deberá conseguir unos US$1.8 billones entre 2027 y 2030 para cubrir la brecha entre inversiones y generación de caja.",
-    "link": "https://www.bloomberglinea.com/mercados/que-tan-sostenible-financieramente-es-el-boom-de-la-inteligencia-artificial/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-27T05:00:09+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Chinese households shed billions in consumer debt",
-    "summary": "A three-year decline in mortgages in China is now spreading to consumer loans, with households shedding billions in consumer debt. Summary based on the blurb only.",
-    "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-27T05:00:04+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
-    "summary": "Moisés Chaves deja el Consejo de Administración de Bankaool luego de que la CNBV no autorizara su cargo como accionista mayoritario. El caso muestra el escrutinio del regulador sobre la gobernanza y la propiedad de bancos pequeños en México.",
-    "link": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
-    "source": "Expansión",
-    "published": "2026-11-27T02:09:18+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "China Hedge Fund Star Builds Operating System Kernel for AI",
-    "summary": "An AI startup founded by one of China's most successful hedge fund managers is preparing to release its first product: the core of an operating system designed for AI agents rather than humans.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai",
-    "source": "Bloomberg",
-    "published": "2026-11-27T01:29:38+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 80,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peacock Forest Retreat / line+ studio",
-    "summary": "Peacock Forest Retreat, by line+ studio, is a mountain hospitality project in a forested valley in northeastern China that combines resort amenities with Buddhist rituals and meditation spaces in a continuous architecture-and-landscape sequence.",
-    "link": "https://www.archdaily.com/1189277/peacock-forest-retreat-line-plus-studio",
-    "source": "ArchDaily",
-    "published": "2026-11-27T00:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
     "title": "Gobernadora de Banxico afirma que sería “reducido y limitado” el traspaso cambiario sobre la inflación",
-    "summary": "Victoria Rodríguez Ceja reconoció que el tipo de cambio ha sido sensible a las expectativas sobre la Reserva Federal, pero afirmó que el traspaso cambiario a la inflación sería reducido y limitado. Según Banxico, depende de qué tan rápido las empresas importadoras trasladan los costos a precios.",
+    "summary": "La gobernadora de Banxico, Victoria Rodríguez Ceja, afirmó que el traspaso del tipo de cambio a la inflación sería reducido y limitado, aunque reconoció que el peso ha sido sensible a las expectativas sobre la Fed. La lectura sugiere margen para que Banxico mantenga su postura sin presiones cambiarias severas.",
     "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobernadora-de-banxico-afirma-que-seria-reducido-y-limitado-traspaso-cambiario-sobre-inflacion/",
     "source": "Bloomberg Línea",
     "published": "2026-11-26T23:49:52+00:00",
@@ -154,17 +198,6 @@
     "light": false
   },
   {
-    "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-    "summary": "Google, Amazon, Meta and OpenAI are all pushing AI shopping agents to help consumers pick holiday gifts. The season will test which assistant's advice shoppers actually trust.",
-    "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
-    "source": "Bloomberg",
-    "published": "2026-11-26T22:00:04+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "México registra su quinta mayor salida trimestral de inversión de cartera",
     "summary": "México registró su quinta mayor salida trimestral de inversión de cartera. El dato refleja cautela de los inversionistas extranjeros hacia los activos financieros mexicanos.",
     "link": "https://expansion.mx/economia/2026/11/26/mexico-registra-su-quinta-mayor-salida-trimestral-de-inversion-de-cartera",
@@ -172,17 +205,6 @@
     "published": "2026-11-26T21:25:37+00:00",
     "category": "Capital Markets & M&A",
     "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "‘Mi Casa Milagro’, nuevo programa para acceder a subsidios de vivienda ya tiene fecha y monto",
-    "summary": "El Gobierno de Colombia reactivó los subsidios habitacionales con el programa 'Mi Casa Milagro', para facilitar la compra de Vivienda de Interés Social o Prioritario. El Ministerio de Vivienda anunció fecha y monto del programa.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/colombia/mi-casa-milagro-nuevo-programa-para-acceder-a-subsidios-de-vivienda-ya-tiene-fecha-y-monto/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-26T20:41:42+00:00",
-    "category": "Mortgage / Housing Finance",
-    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -195,6 +217,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 76,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "High Andean Refuge in Quichuay / Pircanato / Pircanato",
+    "summary": "The High Andean Refuge in Quichuay, Peru, combines contemporary materials with traditional highland building techniques in an experimental system. It is designed for extreme mountain climates and replicable housing for rural communities.",
+    "link": "https://www.archdaily.com/1189328/high-andean-refuge-in-quichuay-pircanato-pircanato",
+    "source": "ArchDaily",
+    "published": "2026-11-26T19:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -220,17 +253,6 @@
     "light": false
   },
   {
-    "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
-    "summary": "SAP is preparing a plan to eliminate at least 10,000 positions, roughly 9% of its global workforce, to transform its software business for the AI era, according to people familiar with the matter. It is one of the largest AI-driven restructurings at a major enterprise software firm.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
-    "source": "Bloomberg",
-    "published": "2026-11-26T16:15:48+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "How will Anthropic’s cashed-up employees spend their riches?",
     "summary": "The Economist looks at how Anthropic employees with newly liquid wealth may spend it, suggesting charities are headed for a windfall. Summary based on the blurb only.",
     "link": "https://www.economist.com/business/2026/11/26/how-will-anthropics-cashed-up-employees-spend-their-riches",
@@ -238,17 +260,6 @@
     "published": "2026-11-26T13:45:02+00:00",
     "category": "AI & Agents",
     "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "StanChart’s Crypto Custody Unit Suffers Data Breach",
-    "summary": "Standard Chartered's crypto custody subsidiary Zodia Custody said it suffered a security breach exposing some client and staff information.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach",
-    "source": "Bloomberg",
-    "published": "2026-11-26T12:24:38+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 72,
     "language": "en",
     "light": true
   },
@@ -275,17 +286,6 @@
     "light": false
   },
   {
-    "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
-    "summary": "Startup TrustedRouter offers companies a way to keep employees' AI usage private from model makers. It targets enterprise concerns over data privacy when adopting AI tools.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
-    "source": "Bloomberg",
-    "published": "2026-11-26T12:02:01+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 76,
-    "language": "en",
-    "light": true
-  },
-  {
     "title": "History’s warning lesson for Anthropic",
     "summary": "As tech stocks plunge, The Economist draws a cautionary parallel between Anthropic and the fate of the East India Company. Summary based on the blurb only.",
     "link": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
@@ -293,17 +293,6 @@
     "published": "2026-11-26T09:49:07+00:00",
     "category": "AI & Agents",
     "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "The fall of China’s most trusted wealth manager",
-    "summary": "The Economist chronicles the hard landing of CreditEase, once China's most trusted wealth manager. Summary based on the blurb only.",
-    "link": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
-    "source": "The Economist",
-    "published": "2026-11-26T09:47:52+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
     "language": "en",
     "light": true
   },
