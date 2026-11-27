@@ -1,5 +1,159 @@
 [
   {
+    "title": "Ley de Economía Digital: Bancos y empresas alistan campaña nacional para impulsar pagos digitales y reducir comisiones",
+    "summary": "Bancos y empresas preparan una campaña nacional para impulsar los pagos digitales y reducir comisiones en el marco de la nueva Ley de Economía Digital. (Resumen basado solo en el titular.)",
+    "link": "https://expansion.mx/economia/2026/11/27/ley-de-economia-digital-bancos-y-empresas-alistan-campana-nacional-para-impulsar-pagos-digitales-y-reducir-comisiones",
+    "source": "Expansión",
+    "published": "2026-11-27T18:47:11+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 76,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+    "summary": "Washington signaled this week that the US must do whatever it takes to win the AI race with China, with the government ready to intervene. The message fueled a volatile Thanksgiving week on Wall Street.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+    "source": "Bloomberg",
+    "published": "2026-11-27T18:43:36+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Trump’s Nvidia intervention has a cost for US stocks",
+    "summary": "Political meddling has already dented the dollar and US Treasuries, and the Trump administration's Nvidia intervention is now weighing on equities, the FT argues.",
+    "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T18:26:25+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 64,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "summary": "OpenAI countersued Apple, accusing it of stealing trade secrets and of 'coercing and threatening' suppliers that work with both companies. The legal battle between the two tech giants is escalating.",
+    "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T18:20:05+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI and the decryption nightmare",
+    "summary": "New breakthroughs in AI-enabled decryption call for faster upgrades to security systems, the FT argues, rather than panic. Relevant to cyber and model-risk planning at financial institutions.",
+    "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T18:18:27+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 74,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Gasolineras y casetas de cobro, adiós al efectivo: Hacienda publica Ley de Economía Digital en el DOF",
+    "summary": "Hacienda publicó en el DOF el acuerdo que define los sectores estratégicos de la Ley de Economía Digital: gasolineras y casetas de cobro serán las primeras actividades donde solo se aceptarán pagos digitales. La medida es parte de la estrategia del gobierno de Sheinbaum para reducir el uso de efectivo.",
+    "link": "https://www.elfinanciero.com.mx/nacional/2026/11/27/gasolineras-y-casetas-de-cobro-adios-al-efectivo-hacienda-publica-ley-de-economia-digital-en-el-dof/",
+    "source": "El Financiero",
+    "published": "2026-11-27T18:03:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
+    "summary": "Las acciones de Anthropic PBC subieron por encima de su precio de salida de 83 dólares al cerrar su primera semana completa en el Nasdaq. El laboratorio de IA tuvo un debut récord seguido de una semana volátil.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+    "source": "Bloomberg",
+    "published": "2026-11-27T16:49:08+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Wave of cyber incidents rattles western economies",
+    "summary": "A wave of cyber incidents has hit institutions including the UK Department for Work and Pensions, Fifa and the US Treasury, causing outages. Concern is growing about the threat that AI poses to cybersecurity.",
+    "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T16:19:21+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Anthropic ya está en la BMV, cómo invertir desde México en la empresa detrás de Claude y qué debes saber antes",
+    "summary": "Las acciones de Anthropic, la empresa detrás de Claude, ya pueden adquirirse en México a través de la BMV. La nota explica cómo invertir desde México y qué considerar antes de hacerlo. (Resumen basado en el titular.)",
+    "link": "https://expansion.mx/economia/2026/11/27/anthropic-bmv-como-invertir-en-acciones-desde-mexico",
+    "source": "Expansión",
+    "published": "2026-11-27T16:06:58+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 85,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Dólar en México sigue cerca de los MXN$20, pero este banco alemán ve excesiva la caída del peso",
+    "summary": "El peso mexicano recuperaba terreno tras su peor racha bajista en cinco años, con el dólar cerca de los 20 pesos. Commerzbank considera que el mercado llevó demasiado lejos la caída de la moneda, aunque persisten riesgos.",
+    "link": "https://www.bloomberglinea.com/mercados/dolar-en-mexico-sigue-cerca-de-los-mxn20-pero-este-banco-aleman-ve-excesiva-la-caida-del-peso/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-27T15:57:46+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nubank, el real y los activos brasileños se disparan con el nuevo ministro de Hacienda de Lula",
+    "summary": "Las acciones de Nubank, el real y otros activos brasileños se dispararon después de que Lula designara al banquero Luiz Carlos Trabuco Cappi como nuevo ministro de Hacienda. El mercado leyó el nombramiento como señal de disciplina fiscal.",
+    "link": "https://www.bloomberglinea.com/mercados/nubank-el-real-y-los-activos-brasilenos-se-disparan-con-el-nuevo-ministro-de-hacienda-de-lula/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-27T15:53:59+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Startups digitales ganan terreno en el México informal",
+    "summary": "Una nueva generación de startups mexicanas atiende a comunidades marginadas y trabajadores informales, muchos en zonas rurales, para darles acceso a crédito. Buscan segmentos que la banca tradicional consideraba demasiado difíciles de atender, como pequeños comercios que operaban casi solo en efectivo.",
+    "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/11/27/startups-digitales-ganan-terreno-en-el-mexico-informal/",
+    "source": "El Financiero",
+    "published": "2026-11-27T14:26:32+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 82,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mapfre anticipa recuperación del mercado asegurador latinoamericano hacia 2027",
+    "summary": "El mercado asegurador latinoamericano alcanzó primas por 218,345 millones de dólares en 2025, un alza de 1.5%, menor al 5.8% de 2024. México se consolidó como el segundo mayor mercado de la región, con casi una cuarta parte del negocio, y Mapfre anticipa recuperación hacia 2027.",
+    "link": "https://www.elfinanciero.com.mx/mundo-empresa/2026/11/27/mapfre-anticipa-recuperacion-del-mercado-asegurador-latinoamericano-hacia-2027/",
+    "source": "El Financiero",
+    "published": "2026-11-27T14:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Galicia revela cuánto podría bajar la mora en 2027: el repunte que ve en préstamos",
+    "summary": "Grupo Financiero Galicia espera que su cartera irregular baje a entre 7,5% y 7,8% hacia fines de 2027, desde 9,7% al cierre del tercer trimestre. Proyecta un crecimiento real de préstamos de 5% a 10% el próximo año.",
+    "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-revela-cuanto-podria-bajar-la-mora-en-2027-el-repunte-que-ve-en-prestamos/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-27T12:57:28+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
     "summary": "Adobe expects AI-assisted traffic to US retail sites this holiday season to more than double last year's, as consumers shift from search engines to digital assistants. A signal of how AI agents are changing customer acquisition. Summary based on the blurb only.",
     "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
@@ -64,6 +218,17 @@
     "relevance_score": 68,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Habita 16% de la población adulta en municipios con baja o muy baja inclusión financiera",
+    "summary": "Según el Índice Banamex de Inclusión Financiera 2026, el 16% de la población adulta vive en municipios con baja o muy baja inclusión financiera. Los avances de los últimos años son desiguales, un tema clave ahora que el gobierno busca eliminar el efectivo en sectores estratégicos.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/habita-16-poblacion-adulta-municipios-baja-baja-inclusion-financiera-20261127-846189.html",
+    "source": "El Economista",
+    "published": "2026-11-27T11:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 78,
+    "language": "es",
+    "light": false
   },
   {
     "title": "¿Tu seguro médico subió más de 100%? Diputados van contra abusos de aseguradoras",
@@ -440,6 +605,17 @@
     "light": true
   },
   {
+    "title": "Casa Lucerna / Belen Ilarri Studio",
+    "summary": "Belen Ilarri Studio renovated a modest 1970s house by removing a suspended ceiling and recovering hidden height. The intervention reorganizes the home and transforms its perception of space without erasing its character.",
+    "link": "https://www.archdaily.com/1189308/casa-lucerna-belen-ilarri-studio",
+    "source": "ArchDaily",
+    "published": "2026-11-26T15:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
     "summary": "A hawkish Fed is poised to raise rates despite stock market turmoil, with inflation remaining the top concern for US central bank officials.",
     "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
@@ -458,6 +634,17 @@
     "published": "2026-11-26T13:45:02+00:00",
     "category": "AI & Agents",
     "relevance_score": 65,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Chinese cities want to become “token factories” for the world",
+    "summary": "Chinese cities are trying to become 'token factories' that sell AI compute to the world. According to The Economist, it is not going well.",
+    "link": "https://www.economist.com/business/2026/11/26/chinese-cities-want-to-become-token-factories-for-the-world",
+    "source": "The Economist",
+    "published": "2026-11-26T13:45:02+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
     "language": "en",
     "light": true
   },
@@ -5311,192 +5498,5 @@
     "relevance_score": 78,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Blindaje que protege a México, pero no basta",
-    "summary": "El FMI confirmó que México sigue cumpliendo los criterios para acceder a la Línea de Crédito Flexible por 18 mil millones de dólares, según Hacienda y Banxico. El columnista advierte que el blindaje ayuda, pero no basta.",
-    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/18/blindaje-que-protege-a-mexico-pero-no-basta/",
-    "source": "El Financiero",
-    "published": "2026-11-18T10:13:14+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-    "summary": "The ECB warned that the AI borrowing binge has 'historic parallels' with the subprime bubble. Its concern centers on hyperscalers building up trillions of dollars in off-balance-sheet commitments through contracts with other tech groups.",
-    "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T09:00:07+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Apax Sees Growing Split in Credit Markets From AI",
-    "summary": "Apax Partners' Roxana Mirica says credit markets are bifurcating between borrowers exposed to potential AI disruption and those whose cash flows are resilient regardless of the AI cycle. She spoke as London's Global Credit Forum began.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-18/apax-sees-growing-split-in-credit-markets-from-ai-video",
-    "source": "Bloomberg",
-    "published": "2026-11-18T08:39:48+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US Banks Seek Chip-Curbs Clause on Loan to Bain Data Center Firm",
-    "summary": "US banks asked for extra protections, including a chip-curbs clause, to expand financing for a Bain-backed data center operator. The firm previously sold compute to a neocloud under US investigation for allegedly smuggling chips into China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/us-banks-seek-chip-curbs-clause-on-loan-to-bain-data-center-firm",
-    "source": "Bloomberg",
-    "published": "2026-11-18T08:02:29+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Manufactura flaquea en septiembre: Registra su mayor tropiezo desde 2020",
-    "summary": "La producción manufacturera cayó 4.8% mensual en septiembre, su peor desempeño desde abril de 2020 y el peor septiembre desde 2007. A tasa anual retrocedió 1.6%, confirmando la pérdida de dinamismo industrial.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/18/manufactura-flaquea-en-septiembre-registra-su-mayor-tropiezo-desde-2020/",
-    "source": "El Financiero",
-    "published": "2026-11-18T08:00:00+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
-    "summary": "SoftBank's Masayoshi Son said not backing Anthropic was a mistake. The Japanese group had already committed money to rival OpenAI.",
-    "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T07:56:06+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Goldman Backs Fintech Startup Payhawk at $2 Billion Value",
-    "summary": "Payhawk, a business expense-management fintech, raised new financing led by Goldman Sachs Alternatives' growth equity arm at a $2 billion valuation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/goldman-backs-fintech-startup-payhawk-at-2-billion-value",
-    "source": "Bloomberg",
-    "published": "2026-11-18T07:27:39+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Grupo ABA invierte 500 millones de pesos en desarrollo residencial en Aguascalientes",
-    "summary": "Grupo ABA colocó la primera piedra de Lisboa Residencial en Jesús María, Aguascalientes, con una inversión privada superior a 500 millones de pesos. El proyecto generará más de 500 empleos, según el gobierno estatal.",
-    "link": "https://www.eleconomista.com.mx/estados/grupo-aba-invierte-500-millones-pesos-desarrollo-residencial-aguascalientes-20261118-844468.html",
-    "source": "El Economista",
-    "published": "2026-11-18T07:00:00-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Muzinich CEO on Higher Rates and Private Credit Risks",
-    "summary": "Muzinich & Co. CEO Justin Muzinich discusses sticky inflation, his outlook for higher rates and stress in private credit. He also addresses how geopolitical risks affect AI data-center financing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
-    "source": "Bloomberg",
-    "published": "2026-11-18T06:46:24+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 64,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "EU y Corea del Sur piden a los usuarios instalar actualizaciones de seguridad de Java",
-    "summary": "Autoridades de EU y Corea del Sur pidieron instalar con urgencia actualizaciones de seguridad de Java tras detectarse vulnerabilidades que permitirían ejecutar código de forma remota. En Corea del Sur, la oficina presidencial convocó a una reunión de emergencia.",
-    "link": "https://www.eleconomista.com.mx/tecnologia/eu-corea-sur-piden-usuarios-instalar-actualizaciones-seguridad-java-20261118-844539.html",
-    "source": "El Economista",
-    "published": "2026-11-18T06:38:05-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "La inteligencia artificial y el futuro de la humanidad",
-    "summary": "Casi dos de cada tres empresas ya experimentan con agentes de IA capaces de ejecutar tareas completas de forma autónoma, según McKinsey. El artículo contrasta la visión tecnooptimista de superabundancia con los riesgos de destrucción de empleos y concentración de poder.",
-    "link": "https://www.eleconomista.com.mx/opinion/inteligencia-artificial-futuro-humanidad-20261118-844416.html",
-    "source": "El Economista",
-    "published": "2026-11-18T06:10:00-06:00",
-    "category": "AI & Agents",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deutsche Bank hired a Qatari royal. Why?",
-    "summary": "Leaked documents reveal how Deutsche Bank's dealings with a Qatari royal dynasty blurred the boundaries between investor, client and counterparty. The story raises governance and conflict-of-interest questions for the bank.",
-    "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T06:00:08+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Principales cambios de la reforma fiscal 2027",
-    "summary": "La Ley de Ingresos 2027 y la reforma al ISR se publicaron en el DOF el 13 de noviembre; oficialmente no hay nuevos impuestos ni aumentos de tasas. Sin embargo, el análisis advierte que la reforma busca incrementar la recaudación por otras vías, por lo que la carga tributaria sí cambiará.",
-    "link": "https://www.eleconomista.com.mx/opinion/principales-cambios-reforma-fiscal-20261118-844413.html",
-    "source": "El Economista",
-    "published": "2026-11-18T06:00:00-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
-    "summary": "Crypto futures tied to Anthropic's stock market debut have fallen with AI stocks but still imply a valuation of about $1.7 trillion. That is well above the $1.4 trillion implied by the top of its proposed IPO range.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
-    "source": "Bloomberg",
-    "published": "2026-11-18T05:21:44+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 78,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Private Fund Giants Target €80 Billion From EU Insurance Regulatory Revamp",
-    "summary": "The world's biggest private capital firms are stepping up efforts to capture a larger share of the EU's €10 trillion insurance asset pile following a regulatory revamp. They are targeting around €80 billion and settling in for a long pursuit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp",
-    "source": "Bloomberg",
-    "published": "2026-11-18T05:15:00+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Pegan a gasto deuda, pensiones y apoyos",
-    "summary": "Más del 80% del gasto público aprobado para 2027 está comprometido en costo financiero de la deuda, pensiones y programas sociales, lo que deja poco margen fiscal.",
-    "link": "https://www.reforma.com/pegan-a-gasto-deuda-pensiones-y-apoyos/ar3316622",
-    "source": "Reforma",
-    "published": "2026-11-18T05:01:45-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 64,
-    "language": "es",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO set to deliver windfall to handful of smaller VC firms",
-    "summary": "A group of lesser-known venture firms is on track for bumper returns from early bets on Anthropic as its IPO approaches. The listing is set to deliver an outsized windfall to a handful of smaller VCs.",
-    "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T05:00:26+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
   }
 ]
