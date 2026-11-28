@@ -1,5 +1,16 @@
 [
   {
+    "title": "Si tu banco pudiera detectar señales de demencia por cómo pagas tus tarjetas, ¿lo permitirías?",
+    "summary": "Un estudio de la Universidad de Colorado Anschutz encontró que los patrones de pago con tarjeta —pagos olvidados, compras inusuales o retiros grandes— pueden anticipar señales de demencia. La nota plantea si los bancos deberían usar estos datos para detectar riesgo y proteger a clientes vulnerables.",
+    "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/11/28/si-tu-banco-pudiera-detectar-senales-de-demencia-por-como-pagas-tus-tarjetas-lo-permitirias/",
+    "source": "El Financiero",
+    "published": "2026-11-28T13:00:00+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
     "summary": "India's central bank is stepping up scrutiny of the $247 billion gold-loan sector as falling bullion prices erode lenders' collateral. A case study in collateral-value risk for secured lending.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
@@ -66,6 +77,28 @@
     "light": false
   },
   {
+    "title": "Seguros médicos: justicia para los asegurados con sustentabilidad actuarial",
+    "summary": "Todas las bancadas de la Cámara de Diputados firmaron una iniciativa para atacar abusos, opacidad y letras chiquitas en los seguros de gastos médicos mayores. El texto discute cómo proteger a los asegurados manteniendo la sustentabilidad actuarial.",
+    "link": "https://www.elfinanciero.com.mx/opinion/gustavo-de-hoyos-walther/2026/11/27/seguros-medicos-justicia-para-los-asegurados-con-sustentabilidad-actuarial/",
+    "source": "El Financiero",
+    "published": "2026-11-28T02:34:52+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Las claves económicas de la semana (23 al 27 de noviembre): De inflación y PIB de México y EU",
+    "summary": "Resumen de la semana del 23 al 27 de noviembre: pobreza laboral, balanza comercial, inflación y PIB del tercer trimestre en México. También repasa PIB, inflación y confianza del consumidor en EU y datos de la Eurozona.",
+    "link": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-23-27-noviembre-inflacion-pib-mexico-eu-20261127-846299.html",
+    "source": "El Economista",
+    "published": "2026-11-27T21:14:47-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
     "summary": "Grupo Aeroportuario del Pacífico raised 7.8 billion pesos ($398 million) for an energy and infrastructure Fibra trust. The deal came in smaller than planned and after months of delays.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
@@ -75,6 +108,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Más vigilancia y menos tiempos de espera motivan a Hacienda a eliminar el efectivo en gasolineras y casetas",
+    "summary": "Hacienda busca eliminar el uso de efectivo en gasolineras y casetas, argumentando mayor vigilancia y menores tiempos de espera. La medida empuja la adopción de pagos electrónicos en México.",
+    "link": "https://expansion.mx/economia/2026/11/27/motivos-hacienda-pagos-digitales-gasolineras-casetas",
+    "source": "Expansión",
+    "published": "2026-11-27T20:30:03+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 74,
+    "language": "es",
+    "light": false
   },
   {
     "title": "PIB de México se desaceleró en el III Trim del 2026, creció 0.9% trimestral",
@@ -242,6 +286,17 @@
     "light": true
   },
   {
+    "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+    "summary": "Verizon is in talks to buy broadband operator Fidium in a $6 billion deal, per the FT. The move would expand its network and target more US internet subscribers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
+    "source": "Bloomberg",
+    "published": "2026-11-27T18:12:57+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Gasolineras y casetas de cobro, adiós al efectivo: Hacienda publica Ley de Economía Digital en el DOF",
     "summary": "Hacienda publicó en el DOF el acuerdo que define los sectores estratégicos de la Ley de Economía Digital: gasolineras y casetas de cobro serán las primeras actividades donde solo se aceptarán pagos digitales. La medida es parte de la estrategia del gobierno de Sheinbaum para reducir el uso de efectivo.",
     "link": "https://www.elfinanciero.com.mx/nacional/2026/11/27/gasolineras-y-casetas-de-cobro-adios-al-efectivo-hacienda-publica-ley-de-economia-digital-en-el-dof/",
@@ -341,6 +396,17 @@
     "light": false
   },
   {
+    "title": "México supera en octubre sus exportaciones de todo 2025 y alcanza 713,203 mdd",
+    "summary": "Las exportaciones de México hasta octubre ya superan las de todo 2025, alcanzando 713,203 millones de dólares.",
+    "link": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026",
+    "source": "Expansión",
+    "published": "2026-11-27T13:59:45+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Galicia revela cuánto podría bajar la mora en 2027: el repunte que ve en préstamos",
     "summary": "Grupo Financiero Galicia espera que su cartera irregular baje a entre 7,5% y 7,8% hacia fines de 2027, desde 9,7% al cierre del tercer trimestre. Proyecta un crecimiento real de préstamos de 5% a 10% el próximo año.",
     "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-revela-cuanto-podria-bajar-la-mora-en-2027-el-repunte-que-ve-en-prestamos/",
@@ -350,6 +416,17 @@
     "relevance_score": 68,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+    "summary": "Poland will use Palantir's AI software to analyze battlefield data in a $300 million deal. It bucks a push by some European allies to reduce reliance on US defense technology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+    "source": "Bloomberg",
+    "published": "2026-11-27T12:30:04+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
@@ -481,6 +558,17 @@
     "category": "Regulation / Governance / Risk",
     "relevance_score": 63,
     "language": "es",
+    "light": false
+  },
+  {
+    "title": "Latin America in Focus: This Month in Architecture, Civic Life, and Heritage Conservation",
+    "summary": "ArchDaily's Latin America roundup features projects in Ecuador and Mexico on how cultural facilities and landscape interventions support collective life. It also touches on urban history and heritage conservation.",
+    "link": "https://www.archdaily.com/1189321/latin-america-in-focus-this-month-in-architecture-civic-life-and-heritage-conservation",
+    "source": "ArchDaily",
+    "published": "2026-11-27T06:30:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
     "light": false
   },
   {
@@ -5410,93 +5498,5 @@
     "relevance_score": 80,
     "language": "es",
     "light": false
-  },
-  {
-    "title": "Empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores, advierte KPMG",
-    "summary": "KPMG advierte que las empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores.",
-    "link": "https://expansion.mx/economia/2026/11/18/empresas-2027-mayores-pagos-provisionales-isr-2-veces",
-    "source": "Expansión",
-    "published": "2026-11-18T19:18:37+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
-    "summary": "Minutes from the Fed's October meeting show nearly all officials expect they will likely need to raise rates in the months ahead. The goal is to return inflation to the 2% target in a timely manner.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes",
-    "source": "Bloomberg",
-    "published": "2026-11-18T19:00:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 74,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "El impacto de Google en México: la tecnológica mueve 382,000 millones de pesos en el país",
-    "summary": "Expansión reporta que Google mueve 382,000 millones de pesos en la economía mexicana, cifra que dimensiona el peso de la tecnológica en el país.",
-    "link": "https://expansion.mx/tecnologia/2026/11/18/impacto-de-google-en-mexico-328-000-millones-de-pesos",
-    "source": "Expansión",
-    "published": "2026-11-18T18:50:37+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Subgobernador de Banxico Omar Mejía descarta sorpresa en recorte de tasa a 6.25% y destaca prudencia del banco central",
-    "summary": "El subgobernador de Banxico, Omar Mejía, descartó que el recorte de la tasa a 6.25% sea una sorpresa para el mercado. Subrayó la prudencia con la que actúa el banco central en su ciclo de política monetaria.",
-    "link": "https://expansion.mx/economia/2026/11/18/subgobernador-de-banxico-omar-mejia-descarta-sorpresa-en-recorte-de-tasa-a-6-25-y-destaca-prudencia-del-banco-central",
-    "source": "Expansión",
-    "published": "2026-11-18T18:45:43+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 90,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Weakest Credit Faces More Pain, Hedge Funds Warn",
-    "summary": "Hedge fund investors warn stress is building across credit markets, with CCC borrowers most exposed to higher rates, loose documentation and weaker underwriting. They also flag strains in private credit and speculative AI financing as signs of a broader repricing.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
-    "source": "Bloomberg",
-    "published": "2026-11-18T18:26:54+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
-    "summary": "Grupo Xcaret planea un hotel más económico orientado a familias ante la menor ocupación en la Riviera Maya. Es una señal de ajuste en el mercado turístico y de resorts del Caribe mexicano.",
-    "link": "https://expansion.mx/empresas/2026/11/18/xcaret-hotel-barato-hotel-salud-miguel-quintana-pali",
-    "source": "Expansión",
-    "published": "2026-11-18T18:26:08+00:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
-    "summary": "Anthropic is preparing to price what could be the largest IPO ever, challenging the record SpaceX set in June. Bloomberg breaks down the key numbers behind the offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
-    "source": "Bloomberg",
-    "published": "2026-11-18T18:12:22+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 90,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-    "summary": "A probe into insurers tied to Mark Walter, led by Delaware's insurance commissioner Trinidad Navarro, is exposing gaps in the US state-by-state regulatory patchwork.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-    "source": "Bloomberg",
-    "published": "2026-11-18T18:04:19+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 66,
-    "language": "en",
-    "light": true
   }
 ]
