@@ -1,5 +1,181 @@
 [
   {
+    "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+    "summary": "India's central bank is stepping up scrutiny of the $247 billion gold-loan sector as falling bullion prices erode lenders' collateral. A case study in collateral-value risk for secured lending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+    "source": "Bloomberg",
+    "published": "2026-11-28T06:39:08+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "United Fidelity Is Shut in Biggest US Bank Collapse in Two Years",
+    "summary": "US regulators closed Indiana-based United Fidelity Bank after finding it was likely unable to meet its obligations. It is the largest US bank failure in two years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years",
+    "source": "Bloomberg",
+    "published": "2026-11-28T06:24:35+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 78,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "The mathematicians living through an AI revolution",
+    "summary": "Startling AI-assisted discoveries in mathematics are raising questions about the future role of human experts in the field.",
+    "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-28T05:00:32+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "AI agents are coming for big business",
+    "summary": "AI agents are moving into large enterprises and could unleash much greater competition across industries. Users, however, remain wary of handing too much control and data to the agents.",
+    "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-28T05:00:14+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 88,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Récord de IED, pero sin empresas nuevas",
+    "summary": "México registró IED récord de 43,090 millones de dólares a septiembre, 5.3% más que un año antes. Sin embargo, el análisis advierte que la inversión no proviene de empresas nuevas, sino principalmente de reinversión.",
+    "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/27/record-de-ied-pero-sin-empresas-nuevas/",
+    "source": "El Financiero",
+    "published": "2026-11-28T04:00:00+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Cuánto te cuesta lo malo conocido?",
+    "summary": "Una columna sobre el costo de aferrarse a lo conocido en el trabajo y las decisiones. Cita una investigación publicada en Communications Psychology sobre cómo la familiaridad lleva a tolerar malos resultados y dejar de aprender.",
+    "link": "https://www.elfinanciero.com.mx/opinion/alberto-tovar/2026/11/27/cuanto-te-cuesta-lo-malo-conocido/",
+    "source": "El Financiero",
+    "published": "2026-11-28T03:45:00+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+    "summary": "Grupo Aeroportuario del Pacífico raised 7.8 billion pesos ($398 million) for an energy and infrastructure Fibra trust. The deal came in smaller than planned and after months of delays.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+    "source": "Bloomberg",
+    "published": "2026-11-27T21:05:05+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 72,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "PIB de México se desaceleró en el III Trim del 2026, creció 0.9% trimestral",
+    "summary": "El PIB de México se desaceleró en el tercer trimestre de 2026, con un crecimiento de 0.9% trimestral. (Resumen basado solo en el titular.)",
+    "link": "https://www.eleconomista.com.mx/videos/pib-mexico-desacelero-iii-trim-2026-crecio-0-9-trimestral-20261127-846291.html",
+    "source": "El Economista",
+    "published": "2026-11-27T20:08:56-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 70,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+    "summary": "Google, Amazon, Meta y OpenAI compiten con bots de compras con IA para ayudar a elegir regalos de Navidad. La tendencia amenaza el dominio de Amazon y Google en la búsqueda de productos.",
+    "link": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+    "source": "Bloomberg",
+    "published": "2026-11-27T20:02:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 66,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "Mercado laboral crea empleos, pero crece la informalidad",
+    "summary": "El mercado laboral mexicano sigue creando empleos, pero también crece la informalidad. (Resumen basado solo en el titular.)",
+    "link": "https://www.eleconomista.com.mx/videos/mercado-laboral-crea-empleos-crece-informalidad-20261127-846287.html",
+    "source": "El Economista",
+    "published": "2026-11-27T19:55:22-06:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Peso mexicano interrumpe su racha de pérdidas frente al dólar, pero pierde 50 centavos en la semana",
+    "summary": "El peso mexicano frenó su racha de pérdidas frente al dólar, aunque acumuló una caída de 50 centavos en la semana. (Resumen basado solo en el titular.)",
+    "link": "https://www.eleconomista.com.mx/videos/peso-mexicano-interrumpe-racha-perdidas-frente-dolar-pierde-50-centavos-semana-20261127-846284.html",
+    "source": "El Economista",
+    "published": "2026-11-27T19:41:58-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Barclays ve al S&P 500 en 8.700 puntos en 2027, pero alerta por un riesgo sistémico en Wall Street",
+    "summary": "Barclays fija su objetivo del S&P 500 en 8,700 puntos para finales de 2027. Advierte, sin embargo, que la dependencia de Wall Street de los fabricantes de chips es un riesgo sistémico potencial.",
+    "link": "https://www.bloomberglinea.com/mercados/barclays-ve-al-sp-500-en-8700-puntos-en-2027-pero-alerta-por-un-riesgo-sistemico-en-wall-street/",
+    "source": "Bloomberg Línea",
+    "published": "2026-11-27T19:16:42+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tendencias globales que perfilan el futuro de las inversiones en México",
+    "summary": "Expansión analiza las tendencias globales que están perfilando el futuro de las inversiones en México. (Resumen basado solo en el titular.)",
+    "link": "https://expansion.mx/economia/2026/11/27/tendencias-globales-que-perfilan-el-futuro-de-las-inversiones-en-mexico",
+    "source": "Expansión",
+    "published": "2026-11-27T19:14:44+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Nu bajará los rendimientos de sus cajitas en diciembre, pero hay una forma de conservar el 13%",
+    "summary": "Nu México reducirá en diciembre los rendimientos de sus 'cajitas' de ahorro, aunque existe una forma de conservar la tasa de 13%. Relevante para la competencia por depósitos entre fintechs y bancos. (Resumen basado solo en el titular.)",
+    "link": "https://expansion.mx/economia/2026/11/27/nu-bajara-rendimientos-cajitas-diciembre",
+    "source": "Expansión",
+    "published": "2026-11-27T19:02:45+00:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "¿Recibiste este mensaje? Cuidado: podrían vaciar tu cuenta bancaria",
+    "summary": "Expansión alerta sobre un mensaje fraudulento que circula y que podría permitir a delincuentes vaciar cuentas bancarias. Tema de fraude y protección al consumidor financiero. (Resumen basado solo en el titular.)",
+    "link": "https://expansion.mx/finanzas-personales/2026/11/27/mensaje-banco-estafa-vaciar-cuenta-banco",
+    "source": "Expansión",
+    "published": "2026-11-27T19:02:40+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+    "summary": "OpenAI's trade-secrets fight with Apple is widening, with OpenAI accusing Apple of pressuring suppliers to shun its devices. It also alleges Apple uses unfair employment agreements to keep talent from leaving.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+    "source": "Bloomberg",
+    "published": "2026-11-27T19:02:10+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 68,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Ley de Economía Digital: Bancos y empresas alistan campaña nacional para impulsar pagos digitales y reducir comisiones",
     "summary": "Bancos y empresas preparan una campaña nacional para impulsar los pagos digitales y reducir comisiones en el marco de la nueva Ley de Economía Digital. (Resumen basado solo en el titular.)",
     "link": "https://expansion.mx/economia/2026/11/27/ley-de-economia-digital-bancos-y-empresas-alistan-campana-nacional-para-impulsar-pagos-digitales-y-reducir-comisiones",
@@ -55,6 +231,17 @@
     "light": true
   },
   {
+    "title": "Can AI crack encryption?",
+    "summary": "Advancing capabilities of new AI models are raising concerns that they could help break encryption. That would heighten the risk of data leaks in banking and commerce.",
+    "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "published": "2026-11-27T18:16:51+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 76,
+    "language": "en",
+    "light": true
+  },
+  {
     "title": "Gasolineras y casetas de cobro, adiós al efectivo: Hacienda publica Ley de Economía Digital en el DOF",
     "summary": "Hacienda publicó en el DOF el acuerdo que define los sectores estratégicos de la Ley de Economía Digital: gasolineras y casetas de cobro serán las primeras actividades donde solo se aceptarán pagos digitales. La medida es parte de la estrategia del gobierno de Sheinbaum para reducir el uso de efectivo.",
     "link": "https://www.elfinanciero.com.mx/nacional/2026/11/27/gasolineras-y-casetas-de-cobro-adios-al-efectivo-hacienda-publica-ley-de-economia-digital-en-el-dof/",
@@ -75,6 +262,17 @@
     "relevance_score": 85,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Hackers vulneran la nube militar de EU operada por Microsoft, Amazon, Google y Oracle",
+    "summary": "Hackers vulneraron la nube militar de EU operada por Microsoft, Amazon, Google y Oracle, según reportes. El incidente expone riesgos de ciberseguridad en infraestructura crítica en la nube. (Resumen basado solo en el titular.)",
+    "link": "https://expansion.mx/tecnologia/2026/11/27/hackers-ciberataque-cloud-one-fuerza-aerea-estados-unidos",
+    "source": "Expansión",
+    "published": "2026-11-27T16:38:54+00:00",
+    "category": "Regulation / Governance / Risk",
+    "relevance_score": 64,
+    "language": "es",
+    "light": false
   },
   {
     "title": "Wave of cyber incidents rattles western economies",
@@ -240,6 +438,17 @@
     "relevance_score": 66,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+    "summary": "Jefferies' Mohit Kumar says the Fed's December meeting may mark peak hawkishness and a turning point for markets.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T10:36:01+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "El día en que los edificios aprendieron a pensar.",
@@ -5289,214 +5498,5 @@
     "relevance_score": 66,
     "language": "en",
     "light": true
-  },
-  {
-    "title": "Apollo Sees Huge Europe Finance Demand for AI, Defense",
-    "summary": "Apollo is launching a €10 billion European private-credit arm, betting fragmented markets will fuel direct-lending growth. It is especially focused on financing defense supply chains and AI.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video",
-    "source": "Bloomberg",
-    "published": "2026-11-18T18:03:20+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La IA ya ataca sola: Google detecta el primer ciberataque autónomo y sin humanos que cuesta millones",
-    "summary": "Google detectó lo que describe como el primer ciberataque autónomo ejecutado por IA sin intervención humana, con pérdidas millonarias. Es una señal clave para la gestión de riesgo de ciberseguridad con IA.",
-    "link": "https://expansion.mx/tecnologia/2026/11/18/la-ia-ataca-sola-google-detecta-primer-ciberataque-autonomo",
-    "source": "Expansión",
-    "published": "2026-11-18T17:52:35+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Inversión privada, clave para que economía mexicana crezca más de 2% en 2027: Enrique Quintana",
-    "summary": "Enrique Quintana afirmó que la economía mexicana podría crecer más de 2% en 2027 si se consolida la recuperación de la inversión privada. El reto será sostener el dinamismo observado en el tercer trimestre de 2026.",
-    "link": "https://www.elfinanciero.com.mx/economia/2026/11/18/inversion-privada-clave-para-que-economia-mexicana-crezca-mas-de-2-en-2027-enrique-quintana/",
-    "source": "El Financiero",
-    "published": "2026-11-18T17:43:24+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Deutsche Bank en México: Vendió su licencia a Citi y los fideicomisos a CIBanco",
-    "summary": "Deutsche Bank reconfigura su presencia en México: vendió su licencia bancaria a Citi y su negocio de fideicomisos a CIBanco. La operación es un movimiento relevante de FIG en el sistema financiero mexicano.",
-    "link": "https://expansion.mx/economia/2026/11/18/deutsche-bank-en-mexico-vendio-su-licencia-a-citi-y-los-fideicomisos-a-cibanco",
-    "source": "Expansión",
-    "published": "2026-11-18T17:38:36+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 88,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Al peso le da la ‘chiripiorca’ por minutas de la Fed: ¿Cuánto pierde ante el dólar?",
-    "summary": "El peso mexicano se deprecia alrededor de 1.3% frente al dólar tras las minutas de la Fed. El mercado ya descuenta que la Reserva Federal subirá su tasa en la última reunión del año ante la aceleración de la inflación.",
-    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/18/peso-dolar-tipo-de-cambio-precio-hoy-18-de-noviembre-de-2026/",
-    "source": "El Financiero",
-    "published": "2026-11-18T16:26:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 72,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Anthropic IPO: CFO Krishna Rao Helps Grow Startup Into AI Powerhouse",
-    "summary": "A profile of Anthropic CFO Krishna Rao ahead of the IPO. Earlier this year the company held firm on AI safety restrictions despite Pentagon pressure and the threat of losing a contract worth hundreds of millions of dollars.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty",
-    "source": "Bloomberg",
-    "published": "2026-11-18T16:01:12+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Just how central should one person be to an organisation?",
-    "summary": "The Economist asks how central a single person should be to an organisation, from 'founder mode' to 'bounder mode'. A look at key-person dependence and leadership concentration.",
-    "link": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
-    "source": "The Economist",
-    "published": "2026-11-18T15:27:00+00:00",
-    "category": "Leadership & Future of Work",
-    "relevance_score": 75,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Kaybe Tulum - Multisensorial Park / Arquitectura Mixta",
-    "summary": "Kaybé es un parque multisensorial en la selva de Tulum, diseñado por Arquitectura Mixta, con una secuencia de estructuras escultóricas de bambú que exploran la relación entre naturaleza, energía y percepción humana.",
-    "link": "https://www.archdaily.com/1188847/kaybe-tulum-multisensorial-park-arquitectura-mixta",
-    "source": "ArchDaily",
-    "published": "2026-11-18T15:00:00+00:00",
-    "category": "Personal Interest Watchlist",
-    "relevance_score": 62,
-    "language": "en",
-    "light": false
-  },
-  {
-    "title": "Higher Rates to Push Firms to Private Credit as Stress Rises",
-    "summary": "Rising interest rates are set to shut more borrowers out of public markets. That should push them toward private credit lenders instead.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/higher-rates-will-push-firms-to-private-credit-as-stress-rises",
-    "source": "Bloomberg",
-    "published": "2026-11-18T13:31:33+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "US tech outages blamed on rush to fix bugs found by AI",
-    "summary": "Experts say a rush to patch software flaws discovered by AI likely caused recent instability at Microsoft, JPMorgan, the FAA and others. It highlights a new operational-risk vector from AI-driven vulnerability discovery.",
-    "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "published": "2026-11-18T12:44:53+00:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 82,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic IPO Puts Wall Street’s Speculation Factory on Display",
-    "summary": "Anthropic's IPO is set to price on Wednesday, completing the traditional path that takes a company from private hands to public markets. Bloomberg uses the deal to examine how Wall Street's IPO machinery builds demand and speculation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
-    "source": "Bloomberg",
-    "published": "2026-11-18T12:30:54+00:00",
-    "category": "AI & Agents",
-    "relevance_score": 88,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic’s IPO is a Test of VC’s Big Bet Strategy",
-    "summary": "Private markets have poured money into Anthropic and now expect a large payoff from its IPO. The listing is framed as a test of venture capital's concentrated big-bet strategy in AI.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/anthropic-s-ipo-is-a-test-of-vc-s-big-bet-strategy",
-    "source": "Bloomberg",
-    "published": "2026-11-18T12:02:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 84,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely'",
-    "summary": "ECB Vice President Boris Vujcic says a December rate hike looks very likely, with more increases possible in 2027 as inflation broadens.",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
-    "source": "Bloomberg",
-    "published": "2026-11-18T12:00:45+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Crypto Futures Point to a Big Pop for Anthropic Stock",
-    "summary": "Crypto-based futures tied to Anthropic point to a big first-day pop for the stock. Strong demand from AI bulls is driving interest in the IPO.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/crypto-futures-point-to-a-big-pop-for-anthropic-stock",
-    "source": "Bloomberg",
-    "published": "2026-11-18T11:14:05+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 70,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
-    "summary": "Credit chiefs warn of a 'fear factor' as fixed-income markets reprice sharply all at once. With rates staying elevated, they expect the shakeout among weaker borrowers across industries to continue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
-    "source": "Bloomberg",
-    "published": "2026-11-18T11:11:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 72,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "La Casa Blanca descarta un ciberataque en los recientes fallos informáticos en bancos y aerolíneas",
-    "summary": "La Casa Blanca descartó que un ciberataque esté detrás de los recientes fallos informáticos en bancos, aerolíneas, agencias y Microsoft. El director de Inteligencia Nacional aseguró que tampoco hubo participación de un Estado extranjero.",
-    "link": "https://www.eleconomista.com.mx/internacionales/casa-blanca-descarta-ciberataque-recientes-fallos-informaticos-bancos-aerolineas-20261118-844583.html",
-    "source": "El Economista",
-    "published": "2026-11-18T11:09:03-06:00",
-    "category": "Regulation / Governance / Risk",
-    "relevance_score": 68,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Dólar en América Latina: las monedas que podrían ganar y perder en 2027, según Goldman",
-    "summary": "Goldman Sachs anticipa que el dólar podría debilitarse en 2027, pero las monedas latinoamericanas no seguirían una trayectoria uniforme. Algunas divisas avanzarían mientras otras enfrentarían presiones por el petróleo y la política monetaria.",
-    "link": "https://www.bloomberglinea.com/mercados/dolar-en-america-latina-las-monedas-que-podrian-ganar-y-perder-en-2027-segun-goldman/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-18T11:00:01+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "¿México está listo para dar el salto a pagos digitales? Inclusión financiera, uno de los desafíos",
-    "summary": "Con la Ley de Economía Digital publicada el 4 de noviembre, Hacienda definirá en días los sectores estratégicos donde ya no se aceptará efectivo. La nota analiza si México está listo para el salto a pagos digitales, con la inclusión financiera como principal reto.",
-    "link": "https://www.eleconomista.com.mx/finanzaspersonales/mexico-listo-dar-salto-pagos-digitales-inclusion-financiera-desafios-20261118-844082.html",
-    "source": "El Economista",
-    "published": "2026-11-18T10:55:00-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 85,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Robo de clientes",
-    "summary": "Prudential Financial acordó vender sus aseguradoras en México y Brasil a CNP Assurances en una operación estimada en poco más de 4 mil millones de dólares. El cierre se prevé para el segundo semestre de 2027, sujeto a autorizaciones regulatorias.",
-    "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/11/18/robo-de-clientes/",
-    "source": "El Financiero",
-    "published": "2026-11-18T10:26:21+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 78,
-    "language": "es",
-    "light": false
   }
 ]
