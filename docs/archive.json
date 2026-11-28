@@ -1,5 +1,27 @@
 [
   {
+    "title": "El ‘problema del pavo’ de Wall Street: ¿Por qué es un riesgo apostar demasiado al auge de la IA?",
+    "summary": "Analistas retoman el 'problema del pavo' de Nassim Taleb para advertir del riesgo de confiar en que el auge de la IA siga impulsando a Wall Street. La parábola ilustra cómo una larga racha de evidencia favorable puede ocultar un riesgo de ruptura.",
+    "link": "https://www.elfinanciero.com.mx/mercados/2026/11/28/el-problema-del-pavo-de-wall-street-por-que-es-un-riesgo-apostar-demasiado-al-auge-de-la-ia/",
+    "source": "El Financiero",
+    "published": "2026-11-28T18:56:07+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 68,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Subsidios a gasolina y diésel dejarán un faltante en la recaudación fiscal de México en 2026",
+    "summary": "Los estímulos fiscales a gasolina y diésel provocarán que el gobierno cierre 2026 con una recaudación tributaria inferior a la prevista en la Ley de Ingresos. La presidenta Sheinbaum reconoció que, pese al crecimiento de ingresos frente a 2025, el menor cobro de IEPS afectará la meta.",
+    "link": "https://www.eleconomista.com.mx/sectorfinanciero/subsidios-gasolina-diesel-dejaran-faltante-recaudacion-fiscal-mexico-20261128-846227.html",
+    "source": "El Economista",
+    "published": "2026-11-28T13:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 66,
+    "language": "es",
+    "light": false
+  },
+  {
     "title": "Si tu banco pudiera detectar señales de demencia por cómo pagas tus tarjetas, ¿lo permitirías?",
     "summary": "Un estudio de la Universidad de Colorado Anschutz encontró que los patrones de pago con tarjeta —pagos olvidados, compras inusuales o retiros grandes— pueden anticipar señales de demencia. La nota plantea si los bancos deberían usar estos datos para detectar riesgo y proteger a clientes vulnerables.",
     "link": "https://www.elfinanciero.com.mx/mis-finanzas/2026/11/28/si-tu-banco-pudiera-detectar-senales-de-demencia-por-como-pagas-tus-tarjetas-lo-permitirias/",
@@ -7,6 +29,50 @@
     "published": "2026-11-28T13:00:00+00:00",
     "category": "AI & Agents",
     "relevance_score": 80,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Musk Says Google Interested in Renting More Compute from SpaceX",
+    "summary": "Elon Musk said on social media that Alphabet's Google has expressed interest in renting more computing capacity from SpaceX. He did not elaborate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-28/musk-says-google-interested-in-renting-more-compute-from-spacex",
+    "source": "Bloomberg",
+    "published": "2026-11-28T12:41:48+00:00",
+    "category": "AI & Agents",
+    "relevance_score": 62,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+    "summary": "India's markets regulator SEBI is weighing a specialized trading platform for pre-IPO shares. The goal is to rein in the grey market for companies headed to listing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+    "source": "Bloomberg",
+    "published": "2026-11-28T11:56:38+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
+  },
+  {
+    "title": "¿Cuál es el papel de los cajeros automáticos en la infraestructura financiera?",
+    "summary": "Al primer trimestre de 2026, México contaba con 69,810 cajeros automáticos, 0.5% menos que un año antes, y las transacciones en ellos cayeron 1.1% a 194.3 millones. La tendencia refleja el avance de los pagos con tarjeta y transferencias digitales.",
+    "link": "https://www.eleconomista.com.mx/finanzaspersonales/papel-cajeros-automaticos-infraestructura-financiera-20261128-845864.html",
+    "source": "El Economista",
+    "published": "2026-11-28T10:00:00-06:00",
+    "category": "Financial Services Mexico",
+    "relevance_score": 72,
+    "language": "es",
+    "light": false
+  },
+  {
+    "title": "Tendencias 2027: hogares con personalidad, diseño y armonía",
+    "summary": "Las tendencias de interiorismo para 2027 apuestan por hogares con personalidad, alejados de espacios impersonales. Maderas naturales, piedra, cristal y textiles cobran protagonismo en ambientes más sensoriales.",
+    "link": "https://www.eleconomista.com.mx/los-especiales/tendencias-2027-hogares-personalidad-diseno-armonia-20261128-846292.html",
+    "source": "El Economista",
+    "published": "2026-11-28T10:00:00-06:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 62,
     "language": "es",
     "light": false
   },
@@ -86,6 +152,17 @@
     "relevance_score": 64,
     "language": "es",
     "light": false
+  },
+  {
+    "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+    "summary": "Barry Ritholtz interviews Bessemer Trust CEO Holly MacDonald on how the firm grew from a single family office to a $300 billion enterprise. They discuss emerging markets, the dollar's strength and managing generational wealth and family conflicts.",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+    "source": "Bloomberg",
+    "published": "2026-11-27T22:14:41+00:00",
+    "category": "Capital Markets & M&A",
+    "relevance_score": 60,
+    "language": "en",
+    "light": true
   },
   {
     "title": "Las claves económicas de la semana (23 al 27 de noviembre): De inflación y PIB de México y EU",
@@ -308,6 +385,17 @@
     "light": false
   },
   {
+    "title": "Fig Tree House / Estúdio Lava",
+    "summary": "Estúdio Lava designed a semicircular residence at Praia da Figueira in Angra dos Reis, Brazil, on sloped terrain within dense Atlantic Forest. The form orients the house toward both the sunset and the open sea.",
+    "link": "https://www.archdaily.com/1035916/fig-tree-house-estudio-lava",
+    "source": "ArchDaily",
+    "published": "2026-11-27T17:00:00+00:00",
+    "category": "Personal Interest Watchlist",
+    "relevance_score": 60,
+    "language": "en",
+    "light": false
+  },
+  {
     "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
     "summary": "Anthropic PBC shares climbed above their $83 IPO price as the AI lab finished its first full week on the Nasdaq. The move followed a record-setting debut and a volatile week of trading.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
@@ -438,6 +526,17 @@
     "relevance_score": 72,
     "language": "en",
     "light": true
+  },
+  {
+    "title": "Más allá de la contratación, el desafío de impulsar el talento femenino en ciberseguridad",
+    "summary": "Columna de opinión sobre el reto de impulsar el talento femenino en ciberseguridad más allá de la contratación, incluyendo retención y desarrollo.",
+    "link": "https://expansion.mx/opinion/2026/11/27/desafio-de-impulsar-talento-femenino-en-ciberseguridad",
+    "source": "Expansión",
+    "published": "2026-11-27T11:59:56+00:00",
+    "category": "Leadership & Future of Work",
+    "relevance_score": 62,
+    "language": "es",
+    "light": false
   },
   {
     "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
@@ -5397,105 +5496,6 @@
     "published": "2026-11-18T23:58:58-06:00",
     "category": "Financial Services Mexico",
     "relevance_score": 70,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Número de sucursales bancarias sigue a la baja en el país",
-    "summary": "De acuerdo con la CNBV, a agosto de 2026 había 11,294 sucursales de bancos comerciales, 434 menos que un año antes. La caída refleja el avance de las transacciones digitales y el menor uso de efectivo.",
-    "link": "https://www.eleconomista.com.mx/sectorfinanciero/numero-sucursales-bancarias-sigue-baja-pais-20261118-844712.html",
-    "source": "El Economista",
-    "published": "2026-11-18T23:57:34-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 84,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Fonatur busca atraer inversión privada para desarrollar terrenos turísticos",
-    "summary": "Fonatur firmó una alianza con la AMPI para ampliar la comercialización de sus terrenos en destinos turísticos. La red de profesionales inmobiliarios acercará la oferta a inversionistas interesados en proyectos turísticos y residenciales.",
-    "link": "https://www.eleconomista.com.mx/econohabitat/fonatur-busca-atraer-inversionistas-comercializar-terrenos-turisticos-20261119-20261118-844706.html",
-    "source": "El Economista",
-    "published": "2026-11-18T23:35:28-06:00",
-    "category": "Real Estate & Foreign Buyers",
-    "relevance_score": 74,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
-    "summary": "A stock rally fizzled as Anthropic's solid market debut failed to sustain enthusiasm for the AI trade. Markets signalled the listing was not an all-clear for AI valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg",
-    "published": "2026-11-18T22:07:41+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 68,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Peso tiene su peor caída intradía frente al dólar en 19 meses",
-    "summary": "El peso se depreció 2.26% a 18.8456 por dólar según Banxico, su peor caída intradía en 19 meses. La presión vino del fortalecimiento del dólar ante señales de una Fed más restrictiva.",
-    "link": "https://www.eleconomista.com.mx/mercados/peso-peor-caida-intradia-frente-dolar-19-meses-20261118-844699.html",
-    "source": "El Economista",
-    "published": "2026-11-18T21:56:40-06:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Grupo BMV vuelve al consejo de la Federación Mundial de Bolsas",
-    "summary": "Grupo BMV regresó al consejo de la Federación Mundial de Bolsas (WFE).",
-    "link": "https://expansion.mx/mercados/2026/11/18/grupo-bmv-vuelve-consejo-federacion-mundial-bolsas",
-    "source": "Expansión",
-    "published": "2026-11-18T21:26:01+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Corporate spin-offs are getting out of control",
-    "summary": "The Economist warns corporate spin-offs are proliferating; some are enormously successful, but certainly not all.",
-    "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
-    "source": "The Economist",
-    "published": "2026-11-18T21:21:37+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 62,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut",
-    "summary": "Anthropic and its seven co-founders raised a record $107.3 billion in an upsized IPO and private placement, topping SpaceX's record debut. It becomes the first frontier AI lab to tap public markets to fund its development.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
-    "source": "Bloomberg",
-    "published": "2026-11-18T21:09:49+00:00",
-    "category": "Capital Markets & M&A",
-    "relevance_score": 95,
-    "language": "en",
-    "light": true
-  },
-  {
-    "title": "Dólar en México: peso se deprecia hasta MXN$18,88 ante posibles alzas de la Fed",
-    "summary": "El peso mexicano se depreció hasta 18.88 por dólar, una caída diaria de 2.5%, tras las minutas de la Fed que anticipan alzas de tasas en los próximos meses. Fue la moneda más depreciada en una canasta de 16 divisas.",
-    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/",
-    "source": "Bloomberg Línea",
-    "published": "2026-11-18T20:56:13+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 76,
-    "language": "es",
-    "light": false
-  },
-  {
-    "title": "Salinas Pliego evalúa sustituir a los cajeros de Banco Azteca por máquinas ante reducción de la jornada laboral",
-    "summary": "Ricardo Salinas Pliego evalúa sustituir a los cajeros de Banco Azteca por máquinas ante la reducción de la jornada laboral. Ejemplo de automatización en la banca mexicana impulsada por cambios regulatorios laborales.",
-    "link": "https://expansion.mx/carrera/2026/11/18/salinas-pliego-sustitucion-cajeros-jornada-40-horas",
-    "source": "Expansión",
-    "published": "2026-11-18T20:08:53+00:00",
-    "category": "Financial Services Mexico",
-    "relevance_score": 80,
     "language": "es",
     "light": false
   }
